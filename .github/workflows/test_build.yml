@@ -1,13 +1,22 @@
 name: Build Static Pages
 on: [push]
 
+env:
+  node_version: 12
+
 jobs:
   build:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@master
-      - name: Build
-        uses: TartanLlama/actions-eleventy@master
+      - uses: actions/checkout@v2.3.2
+        with: { fetch-depth: 0 }
+      - name: Use Node.js ${{ env.node_version }}
+        uses: actions/setup-node@v2.1.1
+        with:
+          node-version: ${{ env.node_version }}
+          registry-url: 'https://registry.npmjs.org'
+      - run: npm i
+      - run: npm build
 
 #       - name: Deploy
 #         uses: peaceiris/actions-gh-pages@v3
