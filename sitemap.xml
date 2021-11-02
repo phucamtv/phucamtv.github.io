@@ -2,7 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://phucam.tv/posts/bai-giang-cuoi-cung/</loc>
+    <loc>https://phucam.tv/posts/20210729-bay-loi-noi-bi-phat/</loc>
+    <lastmod>2021-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/20210812-phuc-hung/</loc>
+    <lastmod>2021-08-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/20210824-ba-cau-hoi/</loc>
+    <lastmod>2021-08-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/20210909-nui-hoa-hinh/</loc>
+    <lastmod>2021-09-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/20210928-cau-nguyen-sai/</loc>
+    <lastmod>2021-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/20211007-khong-len-duoc/</loc>
+    <lastmod>2021-10-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/20211007-khong-len-thien-dang/</loc>
+    <lastmod>2021-10-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/20211102-bai-giang-cuoi/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -32,7 +67,32 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/cau-nguyen/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/loi-canh-bao/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/nguyen-tac/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/jesus-christ/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/khai-huyen/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/su-cuu-roi/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
 </urlset>

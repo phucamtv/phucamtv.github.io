@@ -3,18 +3,60 @@
   "title": "PHÚC ÂM",
   "language": "en",
   "home_page_url": "https://phucam.tv/",
-  "feed_url": "https://example.com/feed/feed.json",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "feed_url": "https://phucam.tv/feed/feed.json",
+  "description": "Dự phần rao giảng phúc âm cho dân cư trên đất, cho mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc.",
   "author": {
-    "name": "Your Name Here",
-    "url": "https://example.com/about-me/"
+    "name": "Đặng Thanh Phong",
+    "url": "https://phucam.tv/about/"
   },
   "items": [{
-      "id": "https://phucam.tv/posts/bai-giang-cuoi-cung/",
-      "url": "https://phucam.tv/posts/bai-giang-cuoi-cung/",
+      "id": "https://phucam.tv/posts/20211102-bai-giang-cuoi/",
+      "url": "https://phucam.tv/posts/20211102-bai-giang-cuoi/",
       "title": "Bài Giảng Cuối Cùng Của Chúa Giê-Xu",
       "content_html": "<p><a href=\"https://www.youtube.com/watch?v=eonRCKMYsgw\">https://www.youtube.com/watch?v=eonRCKMYsgw</a></p>\n",
       "date_published": "2021-11-02T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/posts/20211007-khong-len-thien-dang/",
+      "url": "https://phucam.tv/posts/20211007-khong-len-thien-dang/",
+      "title": "Những Người Tin Chúa Không Lên Được Thiên Đàng",
+      "content_html": "<p><a href=\"https://youtube.com/watch?v=WYLHE_Z-CZ4\">https://youtube.com/watch?v=WYLHE_Z-CZ4</a></p>\n",
+      "date_published": "2021-10-07T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/posts/20211007-khong-len-duoc/",
+      "url": "https://phucam.tv/posts/20211007-khong-len-duoc/",
+      "title": "Chìa Khóa Để Hiểu Sách Khải Huyền",
+      "content_html": "<p><a href=\"https://youtube.com/watch?v=zez88_qdoE4\">https://youtube.com/watch?v=zez88_qdoE4</a></p>\n",
+      "date_published": "2021-10-07T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/posts/20210928-cau-nguyen-sai/",
+      "url": "https://phucam.tv/posts/20210928-cau-nguyen-sai/",
+      "title": "Những Lỗi Lầm Của Sự Cầu Nguyện",
+      "content_html": "<p><a href=\"https://youtube.com/watch?v=ch26AJSrUOU\">https://youtube.com/watch?v=ch26AJSrUOU</a></p>\n",
+      "date_published": "2021-09-28T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/posts/20210909-nui-hoa-hinh/",
+      "url": "https://phucam.tv/posts/20210909-nui-hoa-hinh/",
+      "title": "Những Điều Diệu Kì Trên Núi Hóa Hình",
+      "content_html": "<p><a href=\"https://youtube.com/watch?v=cImaQjObnHE\">https://youtube.com/watch?v=cImaQjObnHE</a></p>\n",
+      "date_published": "2021-09-09T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/posts/20210824-ba-cau-hoi/",
+      "url": "https://phucam.tv/posts/20210824-ba-cau-hoi/",
+      "title": "Đời Người Với Ba Câu Hỏi Lớn",
+      "content_html": "<p><a href=\"https://youtube.com/watch?v=-0DUmC5-10g\">https://youtube.com/watch?v=-0DUmC5-10g</a></p>\n",
+      "date_published": "2021-08-24T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/posts/20210812-phuc-hung/",
+      "url": "https://phucam.tv/posts/20210812-phuc-hung/",
+      "title": "Điều Kiện Để Hội Thánh Phục Hưng",
+      "content_html": "<p><a href=\"https://youtube.com/watch?v=LrlPgA8bzmk\">https://youtube.com/watch?v=LrlPgA8bzmk</a></p>\n",
+      "date_published": "2021-08-12T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/posts/20210729-bay-loi-noi-bi-phat/",
+      "url": "https://phucam.tv/posts/20210729-bay-loi-noi-bi-phat/",
+      "title": "Bảy Lời Nói Bị Chúa Phạt",
+      "content_html": "<p><a href=\"https://youtube.com/watch?v=DSdyGzLuNQQ\">https://youtube.com/watch?v=DSdyGzLuNQQ</a></p>\n",
+      "date_published": "2021-07-29T00:00:00Z"
     }
   ]
 }

@@ -1,23 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>PHÚC ÂM</title>
-	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	<subtitle>Dự phần rao giảng phúc âm cho dân cư trên đất, cho mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc.</subtitle>
 	
 	<link href="https://phucam.tv/feed/feed.xml" rel="self"/>
 	<link href="https://phucam.tv/"/>
 	<updated>2021-11-02T00:00:00Z</updated>
-	<id>https://example.com/</id>
+	<id>https://phucam.tv/</id>
 	<author>
-		<name>Your Name Here</name>
-		<email>youremailaddress@example.com</email>
+		<name>Đặng Thanh Phong</name>
+		<email>td379434@gmail.com</email>
 	</author>
 	
 	<entry>
 		<title>Bài Giảng Cuối Cùng Của Chúa Giê-Xu</title>
-		<link href="https://phucam.tv/posts/bai-giang-cuoi-cung/"/>
+		<link href="https://phucam.tv/posts/20211102-bai-giang-cuoi/"/>
 		<updated>2021-11-02T00:00:00Z</updated>
-		<id>https://phucam.tv/posts/bai-giang-cuoi-cung/</id>
+		<id>https://phucam.tv/posts/20211102-bai-giang-cuoi/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=eonRCKMYsgw&quot;&gt;https://www.youtube.com/watch?v=eonRCKMYsgw&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Những Người Tin Chúa Không Lên Được Thiên Đàng</title>
+		<link href="https://phucam.tv/posts/20211007-khong-len-thien-dang/"/>
+		<updated>2021-10-07T00:00:00Z</updated>
+		<id>https://phucam.tv/posts/20211007-khong-len-thien-dang/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://youtube.com/watch?v=WYLHE_Z-CZ4&quot;&gt;https://youtube.com/watch?v=WYLHE_Z-CZ4&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Chìa Khóa Để Hiểu Sách Khải Huyền</title>
+		<link href="https://phucam.tv/posts/20211007-khong-len-duoc/"/>
+		<updated>2021-10-07T00:00:00Z</updated>
+		<id>https://phucam.tv/posts/20211007-khong-len-duoc/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://youtube.com/watch?v=zez88_qdoE4&quot;&gt;https://youtube.com/watch?v=zez88_qdoE4&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Những Lỗi Lầm Của Sự Cầu Nguyện</title>
+		<link href="https://phucam.tv/posts/20210928-cau-nguyen-sai/"/>
+		<updated>2021-09-28T00:00:00Z</updated>
+		<id>https://phucam.tv/posts/20210928-cau-nguyen-sai/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://youtube.com/watch?v=ch26AJSrUOU&quot;&gt;https://youtube.com/watch?v=ch26AJSrUOU&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Những Điều Diệu Kì Trên Núi Hóa Hình</title>
+		<link href="https://phucam.tv/posts/20210909-nui-hoa-hinh/"/>
+		<updated>2021-09-09T00:00:00Z</updated>
+		<id>https://phucam.tv/posts/20210909-nui-hoa-hinh/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://youtube.com/watch?v=cImaQjObnHE&quot;&gt;https://youtube.com/watch?v=cImaQjObnHE&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Đời Người Với Ba Câu Hỏi Lớn</title>
+		<link href="https://phucam.tv/posts/20210824-ba-cau-hoi/"/>
+		<updated>2021-08-24T00:00:00Z</updated>
+		<id>https://phucam.tv/posts/20210824-ba-cau-hoi/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://youtube.com/watch?v=-0DUmC5-10g&quot;&gt;https://youtube.com/watch?v=-0DUmC5-10g&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Điều Kiện Để Hội Thánh Phục Hưng</title>
+		<link href="https://phucam.tv/posts/20210812-phuc-hung/"/>
+		<updated>2021-08-12T00:00:00Z</updated>
+		<id>https://phucam.tv/posts/20210812-phuc-hung/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://youtube.com/watch?v=LrlPgA8bzmk&quot;&gt;https://youtube.com/watch?v=LrlPgA8bzmk&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Bảy Lời Nói Bị Chúa Phạt</title>
+		<link href="https://phucam.tv/posts/20210729-bay-loi-noi-bi-phat/"/>
+		<updated>2021-07-29T00:00:00Z</updated>
+		<id>https://phucam.tv/posts/20210729-bay-loi-noi-bi-phat/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://youtube.com/watch?v=DSdyGzLuNQQ&quot;&gt;https://youtube.com/watch?v=DSdyGzLuNQQ&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 </feed>
