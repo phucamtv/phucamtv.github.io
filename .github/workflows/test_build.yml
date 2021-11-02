@@ -1,0 +1,17 @@
+name: Test Build
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@master
+      - name: Build
+        uses: TartanLlama/actions-eleventy@master
+
+#       - name: Deploy
+#         uses: peaceiris/actions-gh-pages@v3
+#         env:
+#           PUBLISH_DIR: ./
+#           PUBLISH_BRANCH: main
+#           github_token: ${{ secrets.GITHUB_TOKEN }}
