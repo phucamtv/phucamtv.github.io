@@ -1,4 +1,5 @@
 ---
+permalink: /
 layout: layouts/home.njk
 eleventyNavigation: {}
 key: Home
@@ -11,8 +12,13 @@ order: 1
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<div class="container py-5">
+  <h1>Các bài giảng trước</h1>
 
-{# {% set maxPosts = collections.posts.length | min(1) %} #}
-{# {% set postslist = collections.posts | head(-3) %} #}
-{# {% set postslistCounter = collections.posts | length %} #}
-{# {% include "postslist.njk" %} #}
+  <p>
+    {% set maxPosts = collections.posts.length | min(20) %}
+    {% set postslist = collections.posts | head(-20) %}
+    {% set postslistCounter = collections.posts | length %}
+    {% include "postslist.njk" %}
+  </p>
+</div>

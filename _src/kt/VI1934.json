@@ -1,0 +1,6 @@
+{
+    "layout": "layouts/kt-chapter.njk",
+    "tags": [
+        "kt-chapter"
+    ]
+}
