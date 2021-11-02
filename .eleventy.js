@@ -5,12 +5,18 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const pluginYoutube = require("eleventy-plugin-youtube-embed");
 
 module.exports = function(eleventyConfig) {
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+  eleventyConfig.addPlugin(pluginYoutube, {
+    allowAutoplay: true,
+    lite: false,
+    noCookie: true
+  });
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
@@ -32,6 +38,7 @@ module.exports = function(eleventyConfig) {
     if(!Array.isArray(array) || array.length === 0) {
       return [];
     }
+
     if( n < 0 ) {
       return array.slice(n);
     }

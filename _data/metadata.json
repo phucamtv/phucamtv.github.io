@@ -1,21 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "PHÚC ÂM đến người Việt Nam",
+  "url": "https://phucam.tv/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Dự phần rao giảng phúc âm cho dân cư trên đất, cho mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Dự phần rao giảng phúc âm cho dân cư trên đất, cho mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://phucam.tv/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://phucam.tv/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Đặng Thanh Phong",
+    "email": "td379434@gmail.com",
+    "url": "https://phucam.tv/about/"
   }
 }

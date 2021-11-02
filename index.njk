@@ -1,14 +1,18 @@
 ---
 layout: layouts/home.njk
-eleventyNavigation:
-  key: Home
-  order: 1
+eleventyNavigation: {}
+key: Home
+order: 1
 ---
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
 
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
+<div id="eonRCKMYsgw" class="eleventy-plugin-youtube-embed" style="position:relative;width:100%;padding-top: 56.25%;">
+  <iframe style="position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;" width="100%" height="100%"
+          frameborder="0" title="Embedded YouTube video" src="https://www.youtube-nocookie.com/embed/eonRCKMYsgw"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+
+{# {% set maxPosts = collections.posts.length | min(1) %} #}
+{# {% set postslist = collections.posts | head(-3) %} #}
+{# {% set postslistCounter = collections.posts | length %} #}
+{# {% include "postslist.njk" %} #}
