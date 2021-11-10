@@ -10,6 +10,12 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/posts/20201103-tinlanh/",
+      "url": "https://phucam.tv/posts/20201103-tinlanh/",
+      "title": "Có bao nhiêu Phúc Âm trong Thánh Kinh?",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=oxG7M-3MZhA\">https://www.youtube.com/watch?v=oxG7M-3MZhA</a></p>\n",
+      "date_published": "2021-11-03T00:00:00Z"
+    },{
       "id": "https://phucam.tv/posts/20211102-bai-giang-cuoi/",
       "url": "https://phucam.tv/posts/20211102-bai-giang-cuoi/",
       "title": "Bài Giảng Cuối Cùng Của Chúa Giê-Xu",

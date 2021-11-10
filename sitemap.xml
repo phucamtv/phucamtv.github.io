@@ -127,12 +127,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/djen-tho/</loc>
+    <loc>https://phucam.tv/tags/giao-uoc/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/giao-uoc/</loc>
+    <loc>https://phucam.tv/tags/djen-tho/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -143,21 +143,6 @@
   
   <url>
     <loc>https://phucam.tv/tags/jesus-christ/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/khai-huyen/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/tai-lam/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/nuoc-thien-djang/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -177,7 +162,27 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/khai-huyen/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/tai-lam/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/nuoc-thien-djang/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tin-ly/</loc>
     <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/20201103-tinlanh/</loc>
+    <lastmod>2021-11-03</lastmod>
   </url>
 </urlset>
