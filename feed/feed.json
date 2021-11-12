@@ -10,10 +10,22 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/posts/20211111-israel/",
+      "url": "https://phucam.tv/posts/20211111-israel/",
+      "title": "Israel vẫn là tuyển dân? Sự lừa dối vĩ đại!",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=SjMxk6nJUQs\">https://www.youtube.com/watch?v=SjMxk6nJUQs</a></p>\n",
+      "date_published": "2021-11-02T00:00:00Z"
+    },{
       "id": "https://phucam.tv/posts/20211102-bai-giang-cuoi/",
       "url": "https://phucam.tv/posts/20211102-bai-giang-cuoi/",
       "title": "Bài Giảng Cuối Cùng Của Chúa Giê-Xu",
       "content_html": "<p><a href=\"https://www.youtube.com/watch?v=eonRCKMYsgw\">https://www.youtube.com/watch?v=eonRCKMYsgw</a></p>\n",
+      "date_published": "2021-11-02T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/posts/20211030-an-gi/",
+      "url": "https://phucam.tv/posts/20211030-an-gi/",
+      "title": "Ăn gì? Lẽ thật bị đánh cắp",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=HzCnCM7r-Fw\">https://www.youtube.com/watch?v=HzCnCM7r-Fw</a></p>\n",
       "date_published": "2021-11-02T00:00:00Z"
     },{
       "id": "https://phucam.tv/posts/20211007-khong-len-thien-dang/",
