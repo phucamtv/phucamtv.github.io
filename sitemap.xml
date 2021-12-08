@@ -57,11 +57,6 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/posts/20211209-duc-thanh-linh/</loc>
-    <lastmod>2020-04-24</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/posts/20201103-tinlanh/</loc>
     <lastmod>2020-11-03</lastmod>
   </url>
@@ -172,16 +167,6 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/jesus-christ/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/djuc-thanh-linh/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/tags/hieu-lam/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
@@ -192,7 +177,27 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/jesus-christ/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/khai-huyen/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/tai-lam/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/nuoc-thien-djang/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/djuc-thanh-linh/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -207,27 +212,17 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/nuoc-thien-djang/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/tags/nguyen-tac/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/tai-lam/</loc>
+    <loc>https://phucam.tv/tags/israel/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
     <loc>https://phucam.tv/tags/hoi-thanh/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/israel/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -254,5 +249,10 @@
   <url>
     <loc>https://phucam.tv/posts/20211126-yeu/</loc>
     <lastmod>2021-11-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/20211209-duc-thanh-linh/</loc>
+    <lastmod>2021-12-09</lastmod>
   </url>
 </urlset>
