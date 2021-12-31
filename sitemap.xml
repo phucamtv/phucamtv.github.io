@@ -137,52 +137,17 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/about/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/su-binh-an/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/jesus-christ/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/djen-tho/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/tags/su-cuu-roi/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/hieu-lam/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/an-uong/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/linh-hon/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/khai-huyen/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/nuoc-thien-djang/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -197,7 +162,42 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/djen-tho/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/linh-hon/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/jesus-christ/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/khai-huyen/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/tai-lam/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/hieu-lam/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/an-uong/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/nuoc-thien-djang/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -207,7 +207,7 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/nguyen-tac/</loc>
+    <loc>https://phucam.tv/tags/cau-nguyen/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -217,7 +217,7 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/cau-nguyen/</loc>
+    <loc>https://phucam.tv/tags/nguyen-tac/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -242,12 +242,17 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/tinh-yeu-thuong/</loc>
+    <loc>https://phucam.tv/tags/su-binh-an/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
     <loc>https://phucam.tv/tags/giang-sinh/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/tinh-yeu-thuong/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -279,11 +284,6 @@
   <url>
     <loc>https://phucam.tv/posts/20211223-giang-sinh/</loc>
     <lastmod>2021-12-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/about/</loc>
-    <lastmod>2021-12-31</lastmod>
   </url>
   
   <url>
