@@ -162,17 +162,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/djen-tho/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/linh-hon/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/tags/jesus-christ/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/djen-tho/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -197,16 +192,6 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/nuoc-thien-djang/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/djuc-thanh-linh/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/tags/cau-nguyen/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
@@ -217,17 +202,22 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/djuc-thanh-linh/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/nguyen-tac/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/luat-phap/</loc>
+    <loc>https://phucam.tv/tags/nuoc-thien-djang/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/ma-quy/</loc>
+    <loc>https://phucam.tv/tags/linh-hon/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -242,7 +232,17 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/su-binh-an/</loc>
+    <loc>https://phucam.tv/tags/luat-phap/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/ma-quy/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/tinh-yeu-thuong/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -252,7 +252,7 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/tinh-yeu-thuong/</loc>
+    <loc>https://phucam.tv/tags/su-binh-an/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -289,5 +289,10 @@
   <url>
     <loc>https://phucam.tv/posts/20211231-binh-an/</loc>
     <lastmod>2021-12-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/20220101-phuong-cach-tai-lam/</loc>
+    <lastmod>2022-01-01</lastmod>
   </url>
 </urlset>

@@ -10,6 +10,12 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/posts/20220101-phuong-cach-tai-lam/",
+      "url": "https://phucam.tv/posts/20220101-phuong-cach-tai-lam/",
+      "title": "Phương cách Chúa tái lâm",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=XNKZaxt_0ig\">https://www.youtube.com/watch?v=XNKZaxt_0ig</a></p>\n",
+      "date_published": "2022-01-01T00:00:00Z"
+    },{
       "id": "https://phucam.tv/posts/20211231-binh-an/",
       "url": "https://phucam.tv/posts/20211231-binh-an/",
       "title": "Sự Bình An Quan Trọng Như Thế Nào Đối Với Chúng Ta",
