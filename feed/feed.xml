@@ -5,12 +5,21 @@
 	
 	<link href="https://phucam.tv/feed/feed.xml" rel="self"/>
 	<link href="https://phucam.tv/"/>
-	<updated>2022-01-01T00:00:00Z</updated>
+	<updated>2022-02-04T00:00:00Z</updated>
 	<id>https://phucam.tv/</id>
 	<author>
 		<name>Đặng Thanh Phong</name>
 		<email>td379434@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Điều Khó Nhất Cho Người Tin Chúa</title>
+		<link href="https://phucam.tv/posts/20220204-dieu-kho-nhat/"/>
+		<updated>2022-02-04T00:00:00Z</updated>
+		<id>https://phucam.tv/posts/20220204-dieu-kho-nhat/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sTKoZ_SIuNQ&quot;&gt;https://www.youtube.com/watch?v=sTKoZ_SIuNQ&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Phương cách Chúa tái lâm</title>

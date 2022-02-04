@@ -10,6 +10,12 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/posts/20220204-dieu-kho-nhat/",
+      "url": "https://phucam.tv/posts/20220204-dieu-kho-nhat/",
+      "title": "Điều Khó Nhất Cho Người Tin Chúa",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=sTKoZ_SIuNQ\">https://www.youtube.com/watch?v=sTKoZ_SIuNQ</a></p>\n",
+      "date_published": "2022-02-04T00:00:00Z"
+    },{
       "id": "https://phucam.tv/posts/20220101-phuong-cach-tai-lam/",
       "url": "https://phucam.tv/posts/20220101-phuong-cach-tai-lam/",
       "title": "Phương cách Chúa tái lâm",
