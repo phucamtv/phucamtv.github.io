@@ -10,6 +10,12 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/baigiang/thong-diep-3-thien-su/nguyen-the-phong/",
+      "url": "https://phucam.tv/baigiang/thong-diep-3-thien-su/nguyen-the-phong/",
+      "title": "Loạt bài: Thông điệp 3 thiên sứ",
+      "content_html": "<div id=\"PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz\" class=\"eleventy-plugin-youtube-embed\" style=\"position:relative;width:100%;padding-top: 56.25%;\">\n  <iframe style=\"position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;\" width=\"100%\" height=\"100%\" frameborder=\"0\" title=\"Embedded YouTube video\" src=\"https://www.youtube.com/embed/videoseries?list=PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>\n</div>\n",
+      "date_published": "2022-02-18T00:00:00Z"
+    },{
       "id": "https://phucam.tv/posts/20220204-dieu-kho-nhat/",
       "url": "https://phucam.tv/posts/20220204-dieu-kho-nhat/",
       "title": "Điều Khó Nhất Cho Người Tin Chúa",
@@ -82,15 +88,15 @@
       "content_html": "<p><a href=\"https://youtube.com/watch?v=WYLHE_Z-CZ4\">https://youtube.com/watch?v=WYLHE_Z-CZ4</a></p>\n",
       "date_published": "2021-10-07T00:00:00Z"
     },{
-      "id": "https://phucam.tv/posts/20211007-khong-len-duoc/",
-      "url": "https://phucam.tv/posts/20211007-khong-len-duoc/",
+      "id": "https://phucam.tv/posts/20210806-chia-khoa-hieu-sach-khai-huyen/",
+      "url": "https://phucam.tv/posts/20210806-chia-khoa-hieu-sach-khai-huyen/",
       "title": "Chìa Khóa Để Hiểu Sách Khải Huyền",
       "content_html": "<p><a href=\"https://youtube.com/watch?v=zez88_qdoE4\">https://youtube.com/watch?v=zez88_qdoE4</a></p>\n",
       "date_published": "2021-10-07T00:00:00Z"
     },{
       "id": "https://phucam.tv/posts/20210928-cau-nguyen-sai/",
       "url": "https://phucam.tv/posts/20210928-cau-nguyen-sai/",
-      "title": "Những Lỗi Lầm Của Sự Cầu Nguyện",
+      "title": "Những Lỗi Lầm trong Sự Cầu Nguyện",
       "content_html": "<p><a href=\"https://youtube.com/watch?v=ch26AJSrUOU\">https://youtube.com/watch?v=ch26AJSrUOU</a></p>\n",
       "date_published": "2021-09-28T00:00:00Z"
     },{
@@ -117,6 +123,12 @@
       "title": "Bảy Lời Nói Bị Chúa Phạt",
       "content_html": "<p><a href=\"https://youtube.com/watch?v=DSdyGzLuNQQ\">https://youtube.com/watch?v=DSdyGzLuNQQ</a></p>\n",
       "date_published": "2021-07-29T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/posts/20210713-dai-nan-khi-nao/",
+      "url": "https://phucam.tv/posts/20210713-dai-nan-khi-nao/",
+      "title": "Đại nạn xảy ra khi nào?",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=ZosLSWgguDo\">https://www.youtube.com/watch?v=ZosLSWgguDo</a></p>\n",
+      "date_published": "2021-07-13T00:00:00Z"
     },{
       "id": "https://phucam.tv/posts/20210701-satan/",
       "url": "https://phucam.tv/posts/20210701-satan/",

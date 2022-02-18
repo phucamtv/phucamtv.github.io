@@ -5,12 +5,23 @@
 	
 	<link href="https://phucam.tv/feed/feed.xml" rel="self"/>
 	<link href="https://phucam.tv/"/>
-	<updated>2022-02-04T00:00:00Z</updated>
+	<updated>2022-02-18T00:00:00Z</updated>
 	<id>https://phucam.tv/</id>
 	<author>
 		<name>Đặng Thanh Phong</name>
 		<email>td379434@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Loạt bài: Thông điệp 3 thiên sứ</title>
+		<link href="https://phucam.tv/baigiang/thong-diep-3-thien-su/nguyen-the-phong/"/>
+		<updated>2022-02-18T00:00:00Z</updated>
+		<id>https://phucam.tv/baigiang/thong-diep-3-thien-su/nguyen-the-phong/</id>
+		<content type="html">&lt;div id=&quot;PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz&quot; class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
+  &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Điều Khó Nhất Cho Người Tin Chúa</title>
@@ -122,15 +133,15 @@
 	
 	<entry>
 		<title>Chìa Khóa Để Hiểu Sách Khải Huyền</title>
-		<link href="https://phucam.tv/posts/20211007-khong-len-duoc/"/>
+		<link href="https://phucam.tv/posts/20210806-chia-khoa-hieu-sach-khai-huyen/"/>
 		<updated>2021-10-07T00:00:00Z</updated>
-		<id>https://phucam.tv/posts/20211007-khong-len-duoc/</id>
+		<id>https://phucam.tv/posts/20210806-chia-khoa-hieu-sach-khai-huyen/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://youtube.com/watch?v=zez88_qdoE4&quot;&gt;https://youtube.com/watch?v=zez88_qdoE4&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Những Lỗi Lầm Của Sự Cầu Nguyện</title>
+		<title>Những Lỗi Lầm trong Sự Cầu Nguyện</title>
 		<link href="https://phucam.tv/posts/20210928-cau-nguyen-sai/"/>
 		<updated>2021-09-28T00:00:00Z</updated>
 		<id>https://phucam.tv/posts/20210928-cau-nguyen-sai/</id>
@@ -171,6 +182,15 @@
 		<updated>2021-07-29T00:00:00Z</updated>
 		<id>https://phucam.tv/posts/20210729-bay-loi-noi-bi-phat/</id>
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://youtube.com/watch?v=DSdyGzLuNQQ&quot;&gt;https://youtube.com/watch?v=DSdyGzLuNQQ&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Đại nạn xảy ra khi nào?</title>
+		<link href="https://phucam.tv/posts/20210713-dai-nan-khi-nao/"/>
+		<updated>2021-07-13T00:00:00Z</updated>
+		<id>https://phucam.tv/posts/20210713-dai-nan-khi-nao/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZosLSWgguDo&quot;&gt;https://www.youtube.com/watch?v=ZosLSWgguDo&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	

@@ -72,6 +72,11 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/posts/20210713-dai-nan-khi-nao/</loc>
+    <lastmod>2021-07-13</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/posts/20210729-bay-loi-noi-bi-phat/</loc>
     <lastmod>2021-07-29</lastmod>
   </url>
@@ -97,7 +102,7 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/posts/20211007-khong-len-duoc/</loc>
+    <loc>https://phucam.tv/posts/20210806-chia-khoa-hieu-sach-khai-huyen/</loc>
     <lastmod>2021-10-07</lastmod>
   </url>
   
@@ -192,17 +197,22 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/tai-lam/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/tags/nuoc-thien-djang/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/tai-lam/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/djuc-thanh-linh/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/hoi-thanh/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -222,7 +232,7 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/cau-nguyen/</loc>
+    <loc>https://phucam.tv/tags/tien-tri/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -232,12 +242,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/israel/</loc>
+    <loc>https://phucam.tv/tags/cau-nguyen/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/hoi-thanh/</loc>
+    <loc>https://phucam.tv/tags/israel/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -299,5 +309,10 @@
   <url>
     <loc>https://phucam.tv/posts/20220204-dieu-kho-nhat/</loc>
     <lastmod>2022-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/thong-diep-3-thien-su/nguyen-the-phong/</loc>
+    <lastmod>2022-02-18</lastmod>
   </url>
 </urlset>
