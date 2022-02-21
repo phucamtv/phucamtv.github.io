@@ -10,6 +10,12 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/baigiang/sa-bat/huynh-duc-phuc/",
+      "url": "https://phucam.tv/baigiang/sa-bat/huynh-duc-phuc/",
+      "title": "Loạt bài: Ngày nào là ngày thánh",
+      "content_html": "<div id=\"PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz\" class=\"eleventy-plugin-youtube-embed\" style=\"position:relative;width:100%;padding-top: 56.25%;\">\n  <iframe style=\"position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;\" width=\"100%\" height=\"100%\" frameborder=\"0\" title=\"Embedded YouTube video\" src=\"https://www.youtube.com/embed/videoseries?list=PLDsf8pkV3dAFwUN6rN3ghN5jp1hMyGZzj\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>\n</div>\n",
+      "date_published": "2022-02-21T00:00:00Z"
+    },{
       "id": "https://phucam.tv/baigiang/thong-diep-3-thien-su/nguyen-the-phong/",
       "url": "https://phucam.tv/baigiang/thong-diep-3-thien-su/nguyen-the-phong/",
       "title": "Loạt bài: Thông điệp 3 thiên sứ",
