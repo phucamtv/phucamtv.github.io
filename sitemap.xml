@@ -162,12 +162,7 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/giao-uoc/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/giao-ly-can-ban/</loc>
+    <loc>https://phucam.tv/tags/djen-tho/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -177,7 +172,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/djen-tho/</loc>
+    <loc>https://phucam.tv/tags/giao-uoc/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/giao-ly-can-ban/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -192,12 +192,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/jesus-christ/</loc>
+    <loc>https://phucam.tv/tags/loat-bai/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/loat-bai/</loc>
+    <loc>https://phucam.tv/tags/jesus-christ/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -217,12 +217,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/toi-loi/</loc>
+    <loc>https://phucam.tv/tags/djuc-thanh-linh/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/djuc-thanh-linh/</loc>
+    <loc>https://phucam.tv/tags/toi-loi/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -278,6 +278,21 @@
   
   <url>
     <loc>https://phucam.tv/tags/su-binh-an/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/djoc-thanh-kinh/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/ma-thi-o/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/tan-uoc/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -344,5 +359,10 @@
   <url>
     <loc>https://phucam.tv/baigiang/sa-bat/huynh-duc-phuc/</loc>
     <lastmod>2022-02-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/kt/audio/mat/</loc>
+    <lastmod>2022-02-23</lastmod>
   </url>
 </urlset>

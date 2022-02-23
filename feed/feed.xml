@@ -5,12 +5,23 @@
 	
 	<link href="https://phucam.tv/feed/feed.xml" rel="self"/>
 	<link href="https://phucam.tv/"/>
-	<updated>2022-02-21T00:00:00Z</updated>
+	<updated>2022-02-23T00:00:00Z</updated>
 	<id>https://phucam.tv/</id>
 	<author>
 		<name>Đặng Thanh Phong</name>
 		<email>td379434@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Đọc Thánh Kinh: Phúc-âm theo Ma-thi-ơ</title>
+		<link href="https://phucam.tv/kt/audio/mat/"/>
+		<updated>2022-02-23T00:00:00Z</updated>
+		<id>https://phucam.tv/kt/audio/mat/</id>
+		<content type="html">&lt;div id=&quot;PLw6g1eaPSXUGX6ZZuGSbXkUYvfFoT3_w0&quot; class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
+  &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLw6g1eaPSXUGX6ZZuGSbXkUYvfFoT3_w0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Loạt bài: Ngày nào là ngày thánh</title>

@@ -10,6 +10,12 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/kt/audio/mat/",
+      "url": "https://phucam.tv/kt/audio/mat/",
+      "title": "Đọc Thánh Kinh: Phúc-âm theo Ma-thi-ơ",
+      "content_html": "<div id=\"PLw6g1eaPSXUGX6ZZuGSbXkUYvfFoT3_w0\" class=\"eleventy-plugin-youtube-embed\" style=\"position:relative;width:100%;padding-top: 56.25%;\">\n  <iframe style=\"position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;\" width=\"100%\" height=\"100%\" frameborder=\"0\" title=\"Embedded YouTube video\" src=\"https://www.youtube.com/embed/videoseries?list=PLw6g1eaPSXUGX6ZZuGSbXkUYvfFoT3_w0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>\n</div>\n",
+      "date_published": "2022-02-23T00:00:00Z"
+    },{
       "id": "https://phucam.tv/baigiang/sa-bat/huynh-duc-phuc/",
       "url": "https://phucam.tv/baigiang/sa-bat/huynh-duc-phuc/",
       "title": "Loạt bài: Ngày nào là ngày thánh",
