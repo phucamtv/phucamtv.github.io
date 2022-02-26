@@ -50,8 +50,13 @@
           </li>
       </ul>
 
-      <form class="col-12 col-lg-auto mb-3 mb-lg-0">
-        <input type="search" class="form-control" placeholder="Search…" aria-label="Search">
+      <form
+        class="col-12 col-lg-auto mb-3 mb-lg-0"
+        action="https://www.google.com/search"
+        onsubmit="document.getElementById('search-query').value = document.getElementById('search-keyword').value + ' site:https://phucam.tv';"
+      >
+        <input type="hidden" id="search-query" name="q">
+        <input type="search" id="search-keyword" class="form-control" placeholder="Search…" aria-label="Search">
       </form>
     </div>
   </nav>
