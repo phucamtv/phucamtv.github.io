@@ -26,8 +26,10 @@
 		<link href="https://phucam.tv/kt/audio/mat/"/>
 		<updated>2022-02-23T00:00:00Z</updated>
 		<id>https://phucam.tv/kt/audio/mat/</id>
-		<content type="html">&lt;div id=&quot;PLw6g1eaPSXUGX6ZZuGSbXkUYvfFoT3_w0&quot; class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
-  &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLw6g1eaPSXUGX6ZZuGSbXkUYvfFoT3_w0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+		<content type="html">&lt;div class=&quot;youtube-playlist&quot;&gt;
+  &lt;div class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
+    &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube-nocookie.com/embed/videoseries?list=PLw6g1eaPSXUGX6ZZuGSbXkUYvfFoT3_w0&amp;rel=0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 </content>
 	</entry>
@@ -37,8 +39,10 @@
 		<link href="https://phucam.tv/baigiang/sa-bat/huynh-duc-phuc/"/>
 		<updated>2022-02-21T00:00:00Z</updated>
 		<id>https://phucam.tv/baigiang/sa-bat/huynh-duc-phuc/</id>
-		<content type="html">&lt;div id=&quot;PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz&quot; class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
-  &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLDsf8pkV3dAFwUN6rN3ghN5jp1hMyGZzj&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+		<content type="html">&lt;div class=&quot;youtube-playlist&quot;&gt;
+  &lt;div class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
+    &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube-nocookie.com/embed/videoseries?list=PLDsf8pkV3dAFwUN6rN3ghN5jp1hMyGZzj&amp;rel=0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 </content>
 	</entry>
@@ -48,8 +52,10 @@
 		<link href="https://phucam.tv/baigiang/thong-diep-3-thien-su/nguyen-the-phong/"/>
 		<updated>2022-02-18T00:00:00Z</updated>
 		<id>https://phucam.tv/baigiang/thong-diep-3-thien-su/nguyen-the-phong/</id>
-		<content type="html">&lt;div id=&quot;PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz&quot; class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
-  &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+		<content type="html">&lt;div class=&quot;youtube-playlist&quot;&gt;
+  &lt;div class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
+    &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube-nocookie.com/embed/videoseries?list=PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz&amp;rel=0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 </content>
 	</entry>
@@ -77,8 +83,10 @@
 		<link href="https://phucam.tv/baigiang/thu-gui-7-hoi-thanh/quach-trong-toan/"/>
 		<updated>2022-01-01T00:00:00Z</updated>
 		<id>https://phucam.tv/baigiang/thu-gui-7-hoi-thanh/quach-trong-toan/</id>
-		<content type="html">&lt;div id=&quot;PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz&quot; class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
-  &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PLvM630AgoC1RkIq6YEkd7d-i48mYSuW6Y&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+		<content type="html">&lt;div class=&quot;youtube-playlist&quot;&gt;
+  &lt;div class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
+    &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube-nocookie.com/embed/videoseries?list=PLvM630AgoC1RkIq6YEkd7d-i48mYSuW6Y&amp;rel=0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 </content>
 	</entry>
