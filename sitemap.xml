@@ -187,6 +187,11 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/baigiang/gio-na/quach-trong-toan/</loc>
+    <lastmod>2021-10-16</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/posts/20211030-an-gi/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
@@ -227,7 +232,27 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/su-cuu-roi/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/khai-huyen/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/loi-canh-bao/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/luat-phap/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/ma-quy/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -237,7 +262,17 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/su-cuu-roi/</loc>
+    <loc>https://phucam.tv/tags/tien-tri/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/hoi-thanh/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/loat-bai/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -252,22 +287,17 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/nguyen-tac/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/loi-canh-bao/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/hoi-thanh/</loc>
+    <loc>https://phucam.tv/tags/tan-uoc/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
     <loc>https://phucam.tv/tags/cau-nguyen/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/nguyen-tac/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -307,22 +337,7 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/tan-uoc/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/tags/dja-vit/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/tien-tri/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/loat-bai/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -337,6 +352,11 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/djen-tho/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/an-uong/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
@@ -347,27 +367,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/djen-tho/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/tags/nuoc-thien-djang/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
     <loc>https://phucam.tv/tags/toi-loi/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/luat-phap/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/ma-quy/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -454,11 +459,6 @@
   <url>
     <loc>https://phucam.tv/kt/audio/mat/</loc>
     <lastmod>2022-02-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/baigiang/gio-na/quach-trong-toan/</loc>
-    <lastmod>2022-02-26</lastmod>
   </url>
   
   <url>
