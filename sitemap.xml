@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://phucam.tv/baigiang/sa-bat/nguyen-khac-vinh/7-le-that/</loc>
+    <lastmod>2019-10-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/posts/20200402-an/</loc>
     <lastmod>2020-04-02</lastmod>
   </url>
@@ -237,6 +242,16 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/tai-lam/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/tien-tri/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/khai-huyen/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
@@ -253,16 +268,6 @@
   
   <url>
     <loc>https://phucam.tv/tags/ma-quy/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/tai-lam/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/tien-tri/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -292,12 +297,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/nguyen-tac/</loc>
+    <loc>https://phucam.tv/tags/hoi-thanh/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/hoi-thanh/</loc>
+    <loc>https://phucam.tv/tags/nguyen-tac/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -317,17 +322,17 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/giang-sinh/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/djuc-thanh-linh/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
     <loc>https://phucam.tv/tags/giao-ly-can-ban/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/giang-sinh/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
