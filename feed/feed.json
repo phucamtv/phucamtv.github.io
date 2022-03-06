@@ -10,6 +10,12 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/baigiang/ngay-buon-tham/nguyen-khac-vinh/",
+      "url": "https://phucam.tv/baigiang/ngay-buon-tham/nguyen-khac-vinh/",
+      "title": "Một Ngày Buồn Thảm",
+      "content_html": "<p><a href=\"https://youtu.be/5iJ-P_udUak?t=1247\">https://youtu.be/5iJ-P_udUak?t=1247</a></p>\n",
+      "date_published": "2022-03-06T00:00:00Z"
+    },{
       "id": "https://phucam.tv/baigiang/mat-phuoc/quach-trong-toan/",
       "url": "https://phucam.tv/baigiang/mat-phuoc/quach-trong-toan/",
       "title": "Đánh mất phần phước của chính mình",
