@@ -10,6 +10,12 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/baigiang/mat-phuoc/quach-trong-toan/",
+      "url": "https://phucam.tv/baigiang/mat-phuoc/quach-trong-toan/",
+      "title": "Đánh mất phần phước của chính mình",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=yOIM2gQOdXw\">https://www.youtube.com/watch?v=yOIM2gQOdXw</a></p>\n",
+      "date_published": "2022-03-06T00:00:00Z"
+    },{
       "id": "https://phucam.tv/baigiang/bai-hoc-david/",
       "url": "https://phucam.tv/baigiang/bai-hoc-david/",
       "title": "Những bài học quý từ cuộc đời vua Đa-vít",
