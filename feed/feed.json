@@ -10,6 +10,18 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-1/",
+      "url": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-1/",
+      "title": "Giá Trị Vật Chất Và Lòng Tin Của Chúng Ta - Đa-ni-ên Chương II",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=Yt5lPCEuNU0\">https://www.youtube.com/watch?v=Yt5lPCEuNU0</a></p>\n",
+      "date_published": "2022-04-11T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-2/",
+      "url": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-2/",
+      "title": "Ba Từ &quot;Vả&quot; Trong Đa-ni-ên Chương 1",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=W7ivUE0uKTQ\">https://www.youtube.com/watch?v=W7ivUE0uKTQ</a></p>\n",
+      "date_published": "2022-04-11T00:00:00Z"
+    },{
       "id": "https://phucam.tv/baigiang/ngay-buon-tham/nguyen-khac-vinh/",
       "url": "https://phucam.tv/baigiang/ngay-buon-tham/nguyen-khac-vinh/",
       "title": "Một Ngày Buồn Thảm",
