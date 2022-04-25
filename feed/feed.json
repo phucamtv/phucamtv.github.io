@@ -10,17 +10,17 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-3/",
+      "url": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-3/",
+      "title": "Dầu chẳng vậy - Đa-ni-ên Chương 3",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=61OzsI4FeDU\">https://www.youtube.com/watch?v=61OzsI4FeDU</a></p>\n",
+      "date_published": "2022-04-22T00:00:00Z"
+    },{
       "id": "https://phucam.tv/baigiang/quach-trong-toan/khi-ta-ma-tro-lai/",
       "url": "https://phucam.tv/baigiang/quach-trong-toan/khi-ta-ma-tro-lai/",
       "title": "Khi tà ma trở lại",
       "content_html": "<p><a href=\"https://www.youtube.com/watch?v=9SBq8lyA79I\">https://www.youtube.com/watch?v=9SBq8lyA79I</a></p>\n",
       "date_published": "2022-04-17T00:00:00Z"
-    },{
-      "id": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-3/",
-      "url": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-3/",
-      "title": "Dầu chẳng vậy - Đa-ni-ên Chương 3",
-      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=61OzsI4FeDU\">https://www.youtube.com/watch?v=61OzsI4FeDU</a></p>\n",
-      "date_published": "2022-04-11T00:00:00Z"
     },{
       "id": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-2/",
       "url": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-2/",
