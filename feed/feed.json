@@ -10,6 +10,18 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/baigiang/quach-trong-toan/trai-tim/",
+      "url": "https://phucam.tv/baigiang/quach-trong-toan/trai-tim/",
+      "title": "Những bài học từ trái tim",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=RoY4M6BlUho\">https://www.youtube.com/watch?v=RoY4M6BlUho</a></p>\n",
+      "date_published": "2022-04-30T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-4/",
+      "url": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-4/",
+      "title": "Một người nhưng bốn hình ảnh - Đa-ni-ên Chương 4",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=MlRDc-nARWs\">https://www.youtube.com/watch?v=MlRDc-nARWs</a></p>\n",
+      "date_published": "2022-04-22T00:00:00Z"
+    },{
       "id": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-3/",
       "url": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-3/",
       "title": "Dầu chẳng vậy - Đa-ni-ên Chương 3",
