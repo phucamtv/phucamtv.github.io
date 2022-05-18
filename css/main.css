@@ -1,0 +1,36 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.0rem;
+  }
+}
+
+a.direct-link { display: none; }
+
+.container blockquote > p {
+  background: #cccdcd;
+  color: #114954;
+  border-left: 10px solid #114954;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+a {
+  color: rgba(var(--bs-primary-rgb));
+}
+
+.link-light {
+  color: #D2FA27;
+}
+
+:root{
+  --bs-primary-rgb: 17, 73, 84;
+}
