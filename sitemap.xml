@@ -457,12 +457,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/phan-bien/</loc>
+    <loc>https://phucam.tv/tags/tho-phuong/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/tho-phuong/</loc>
+    <loc>https://phucam.tv/tags/phan-bien/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -684,5 +684,10 @@
   <url>
     <loc>https://phucam.tv/bai-viet/luat-phap/phan-biet/</loc>
     <lastmod>2022-05-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/roma-14/</loc>
+    <lastmod>2022-05-19</lastmod>
   </url>
 </urlset>
