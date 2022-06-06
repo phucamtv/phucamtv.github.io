@@ -579,6 +579,12 @@
       "title": "Mười điều răn và ngày Sa-bát",
       "content_html": "<p><a href=\"https://www.youtube.com/watch?v=xvZVXfLc0Xw\">https://www.youtube.com/watch?v=xvZVXfLc0Xw</a></p>\n",
       "date_published": "2015-02-10T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/baigiang/duong-quoc-tung/hay-biet-thoi-diem/",
+      "url": "https://phucam.tv/baigiang/duong-quoc-tung/hay-biet-thoi-diem/",
+      "title": "Hãy biết thời điểm",
+      "content_html": "<div class=\"youtube-video shadow mb-3 bg-body rounded\">\n  <div class=\"eleventy-plugin-youtube-embed\" style=\"position:relative;width:100%;padding-top: 56.25%;\">\n    <iframe style=\"position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;\" width=\"100%\" height=\"100%\" frameborder=\"0\" title=\"Embedded YouTube video\" src=\"https://www.youtube-nocookie.com/embed/_6qtjMpJEEI?start=56\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>\n  </div>\n</div>\n",
+      "date_published": "2015-02-10T00:00:00Z"
     }
   ]
 }

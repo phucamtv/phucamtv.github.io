@@ -2014,4 +2014,17 @@ Ngày mai, Phi-e-rơ chờ dậy đi với họ, có một vài người trong h
 		<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xvZVXfLc0Xw&quot;&gt;https://www.youtube.com/watch?v=xvZVXfLc0Xw&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
+	
+	<entry>
+		<title>Hãy biết thời điểm</title>
+		<link href="https://phucam.tv/baigiang/duong-quoc-tung/hay-biet-thoi-diem/"/>
+		<updated>2015-02-10T00:00:00Z</updated>
+		<id>https://phucam.tv/baigiang/duong-quoc-tung/hay-biet-thoi-diem/</id>
+		<content type="html">&lt;div class=&quot;youtube-video shadow mb-3 bg-body rounded&quot;&gt;
+  &lt;div class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
+    &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube-nocookie.com/embed/_6qtjMpJEEI?start=56&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+	</entry>
 </feed>
