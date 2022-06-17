@@ -34,6 +34,12 @@
       "content_html": "<div class=\"youtube-video shadow mb-3 bg-body rounded\">\n  <div class=\"eleventy-plugin-youtube-embed\" style=\"position:relative;width:100%;padding-top: 56.25%;\">\n    <iframe style=\"position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;\" width=\"100%\" height=\"100%\" frameborder=\"0\" title=\"Embedded YouTube video\" src=\"https://www.youtube-nocookie.com/embed/xTAuJwGTBO4?start=2810\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>\n  </div>\n</div>\n",
       "date_published": "2022-06-05T00:00:00Z"
     },{
+      "id": "https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/ngay-nao-cung-duoc/",
+      "url": "https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/ngay-nao-cung-duoc/",
+      "title": "Trả lời thắc mắc: Ngày nào cũng được?",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=M4PQFwQZ-rI\">https://www.youtube.com/watch?v=M4PQFwQZ-rI</a></p>\n",
+      "date_published": "2022-05-31T00:00:00Z"
+    },{
       "id": "https://phucam.tv/baiviet/sa-bat/chu-nhat-co-phai-ngay-thanh/",
       "url": "https://phucam.tv/baiviet/sa-bat/chu-nhat-co-phai-ngay-thanh/",
       "title": "Bài viết: Chủ nhật có phải là ngày thánh?",
