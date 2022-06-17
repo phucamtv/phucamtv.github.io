@@ -10,6 +10,18 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/doi-song-can-bang/",
+      "url": "https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/doi-song-can-bang/",
+      "title": "Đời sống cân bằng",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=p1pIrw71PX0\">https://www.youtube.com/watch?v=p1pIrw71PX0</a></p>\n",
+      "date_published": "2022-06-12T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/tien-hoa/",
+      "url": "https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/tien-hoa/",
+      "title": "Tạo thế hay tiến-hoá?",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=FJ8sS-cQ79o\">https://www.youtube.com/watch?v=FJ8sS-cQ79o</a></p>\n",
+      "date_published": "2022-06-07T00:00:00Z"
+    },{
       "id": "https://phucam.tv/baigiang/nguyen-khac-vinh/khi-gioi/",
       "url": "https://phucam.tv/baigiang/nguyen-khac-vinh/khi-gioi/",
       "title": "Nhận lấy khí giới của Đức Chúa Trời",
