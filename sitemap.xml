@@ -482,6 +482,16 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/loi-chung/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/sach-noi/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/tra-loi-thac-mac/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
@@ -517,22 +527,22 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/an-nan/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/toi-loi/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/tags/linh-hon/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
     <loc>https://phucam.tv/tags/thien-ac/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/an-nan/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/toi-loi/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -727,6 +737,11 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/</loc>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/baigiang/nguyen-khac-vinh/khi-gioi/</loc>
     <lastmod>2022-06-05</lastmod>
   </url>
@@ -744,5 +759,15 @@
   <url>
     <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-6/</loc>
     <lastmod>2022-06-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/phan-bien/john-nguyen/hoi-thanh-tren-da/</loc>
+    <lastmod>2022-07-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/le-that-ngay-sa-bat/</loc>
+    <lastmod>2022-07-17</lastmod>
   </url>
 </urlset>

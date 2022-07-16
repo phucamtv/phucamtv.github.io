@@ -5,12 +5,37 @@
 	
 	<link href="https://phucam.tv/feed/feed.xml" rel="self"/>
 	<link href="https://phucam.tv/"/>
-	<updated>2022-06-15T00:00:00Z</updated>
+	<updated>2022-07-17T00:00:00Z</updated>
 	<id>https://phucam.tv/</id>
 	<author>
 		<name>Đặng Thanh Phong</name>
 		<email>td379434@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>[Sách nói] Lẽ thật ngày Sa-bát</title>
+		<link href="https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/le-that-ngay-sa-bat/"/>
+		<updated>2022-07-17T00:00:00Z</updated>
+		<id>https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/le-that-ngay-sa-bat/</id>
+		<content type="html">&lt;div class=&quot;youtube-playlist shadow mb-3 bg-body rounded&quot;&gt;
+  &lt;div class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;
+    &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube-nocookie.com/embed?listType=playlist&amp;list=PL4eFesMwCbEdEfwtE-0d4VRMxg17CDOV0&amp;rel=0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://sabat.phucam.tv/&quot;&gt;https://sabat.phucam.tv&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Hội Thánh trên đá</title>
+		<link href="https://phucam.tv/phan-bien/john-nguyen/hoi-thanh-tren-da/"/>
+		<updated>2022-07-09T00:00:00Z</updated>
+		<id>https://phucam.tv/phan-bien/john-nguyen/hoi-thanh-tren-da/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7yXS5eJcGWA&quot;&gt;https://www.youtube.com/watch?v=7yXS5eJcGWA&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>&quot;Nhờ cậy nơi Thiên Chúa&quot; - Đa-ni-ên Chương VI</title>
@@ -49,6 +74,23 @@
     &lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube-nocookie.com/embed/xTAuJwGTBO4?start=2810&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Tôi giữ ngày Sa-bát để thờ phượng Chúa</title>
+		<link href="https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/"/>
+		<updated>2022-06-04T00:00:00Z</updated>
+		<id>https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/</id>
+		<content type="html">&lt;h2 id=&quot;toi-giu-ngay-sa-bat-dje-tho-phuong-chua&quot; tabindex=&quot;-1&quot;&gt;Tôi giữ ngày Sa-bát để thờ phượng Chúa &lt;a class=&quot;direct-link&quot; href=&quot;https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/#toi-giu-ngay-sa-bat-dje-tho-phuong-chua&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=q3adkmNAM9A&quot;&gt;https://www.youtube.com/watch?v=q3adkmNAM9A&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;hieu-lam-ve-ngay-sa-bat&quot; tabindex=&quot;-1&quot;&gt;Hiểu lầm về ngày Sa-bát &lt;a class=&quot;direct-link&quot; href=&quot;https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/#hieu-lam-ve-ngay-sa-bat&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;phan-1&quot; tabindex=&quot;-1&quot;&gt;Phần 1 &lt;a class=&quot;direct-link&quot; href=&quot;https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/#phan-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Z_eKNFF8W1w&quot;&gt;https://www.youtube.com/watch?v=Z_eKNFF8W1w&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;phan-2&quot; tabindex=&quot;-1&quot;&gt;Phần 2 &lt;a class=&quot;direct-link&quot; href=&quot;https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/#phan-2&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zJ_FHFbC8iw&quot;&gt;https://www.youtube.com/watch?v=zJ_FHFbC8iw&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;phan-3:-sach-co-lo-se-va-su-hieu-lam-ve-ngay-sa-bat&quot; tabindex=&quot;-1&quot;&gt;Phần 3: Sách Cô-lô-se và sự hiểu lầm về ngày Sa-bát &lt;a class=&quot;direct-link&quot; href=&quot;https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/#phan-3:-sach-co-lo-se-va-su-hieu-lam-ve-ngay-sa-bat&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=04alrq4sUHA&quot;&gt;https://www.youtube.com/watch?v=04alrq4sUHA&lt;/a&gt;&lt;/p&gt;
 </content>
 	</entry>
 	

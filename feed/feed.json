@@ -10,6 +10,18 @@
     "url": "https://phucam.tv/about/"
   },
   "items": [{
+      "id": "https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/le-that-ngay-sa-bat/",
+      "url": "https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/le-that-ngay-sa-bat/",
+      "title": "[Sách nói] Lẽ thật ngày Sa-bát",
+      "content_html": "<div class=\"youtube-playlist shadow mb-3 bg-body rounded\">\n  <div class=\"eleventy-plugin-youtube-embed\" style=\"position:relative;width:100%;padding-top: 56.25%;\">\n    <iframe style=\"position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;\" width=\"100%\" height=\"100%\" frameborder=\"0\" title=\"Embedded YouTube video\" src=\"https://www.youtube-nocookie.com/embed?listType=playlist&list=PL4eFesMwCbEdEfwtE-0d4VRMxg17CDOV0&rel=0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>\n  </div>\n</div>\n<blockquote>\n<p><a href=\"https://sabat.phucam.tv/\">https://sabat.phucam.tv</a></p>\n</blockquote>\n",
+      "date_published": "2022-07-17T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/phan-bien/john-nguyen/hoi-thanh-tren-da/",
+      "url": "https://phucam.tv/phan-bien/john-nguyen/hoi-thanh-tren-da/",
+      "title": "Hội Thánh trên đá",
+      "content_html": "<p><a href=\"https://www.youtube.com/watch?v=7yXS5eJcGWA\">https://www.youtube.com/watch?v=7yXS5eJcGWA</a></p>\n",
+      "date_published": "2022-07-09T00:00:00Z"
+    },{
       "id": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-6/",
       "url": "https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-6/",
       "title": "&quot;Nhờ cậy nơi Thiên Chúa&quot; - Đa-ni-ên Chương VI",
@@ -33,6 +45,12 @@
       "title": "Nhận lấy khí giới của Đức Chúa Trời",
       "content_html": "<div class=\"youtube-video shadow mb-3 bg-body rounded\">\n  <div class=\"eleventy-plugin-youtube-embed\" style=\"position:relative;width:100%;padding-top: 56.25%;\">\n    <iframe style=\"position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;\" width=\"100%\" height=\"100%\" frameborder=\"0\" title=\"Embedded YouTube video\" src=\"https://www.youtube-nocookie.com/embed/xTAuJwGTBO4?start=2810\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>\n  </div>\n</div>\n",
       "date_published": "2022-06-05T00:00:00Z"
+    },{
+      "id": "https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/",
+      "url": "https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/",
+      "title": "Tôi giữ ngày Sa-bát để thờ phượng Chúa",
+      "content_html": "<h2 id=\"toi-giu-ngay-sa-bat-dje-tho-phuong-chua\" tabindex=\"-1\">Tôi giữ ngày Sa-bát để thờ phượng Chúa <a class=\"direct-link\" href=\"https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/#toi-giu-ngay-sa-bat-dje-tho-phuong-chua\" aria-hidden=\"true\">#</a></h2>\n<p><a href=\"https://www.youtube.com/watch?v=q3adkmNAM9A\">https://www.youtube.com/watch?v=q3adkmNAM9A</a></p>\n<h2 id=\"hieu-lam-ve-ngay-sa-bat\" tabindex=\"-1\">Hiểu lầm về ngày Sa-bát <a class=\"direct-link\" href=\"https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/#hieu-lam-ve-ngay-sa-bat\" aria-hidden=\"true\">#</a></h2>\n<h3 id=\"phan-1\" tabindex=\"-1\">Phần 1 <a class=\"direct-link\" href=\"https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/#phan-1\" aria-hidden=\"true\">#</a></h3>\n<p><a href=\"https://www.youtube.com/watch?v=Z_eKNFF8W1w\">https://www.youtube.com/watch?v=Z_eKNFF8W1w</a></p>\n<h3 id=\"phan-2\" tabindex=\"-1\">Phần 2 <a class=\"direct-link\" href=\"https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/#phan-2\" aria-hidden=\"true\">#</a></h3>\n<p><a href=\"https://www.youtube.com/watch?v=zJ_FHFbC8iw\">https://www.youtube.com/watch?v=zJ_FHFbC8iw</a></p>\n<h3 id=\"phan-3:-sach-co-lo-se-va-su-hieu-lam-ve-ngay-sa-bat\" tabindex=\"-1\">Phần 3: Sách Cô-lô-se và sự hiểu lầm về ngày Sa-bát <a class=\"direct-link\" href=\"https://phucam.tv/loi-chung/nguyen-hung/ngay-sa-bat/#phan-3:-sach-co-lo-se-va-su-hieu-lam-ve-ngay-sa-bat\" aria-hidden=\"true\">#</a></h3>\n<p><a href=\"https://www.youtube.com/watch?v=04alrq4sUHA\">https://www.youtube.com/watch?v=04alrq4sUHA</a></p>\n",
+      "date_published": "2022-06-04T00:00:00Z"
     },{
       "id": "https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/ngay-nao-cung-duoc/",
       "url": "https://phucam.tv/baigiang/sa-bat/duong-quoc-tung/ngay-nao-cung-duoc/",
