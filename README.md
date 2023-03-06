@@ -10,3 +10,5 @@ npm run build
 
 - Fetch list of authors.
 - Fetch list of links.
+- TODO: store author pictures, if not available locally.
+- TODO: store page icons
