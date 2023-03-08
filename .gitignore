@@ -1,4 +1,4 @@
+@input/posts/*.md
 _site/
 node_modules/
 package-lock.json
-posts/*.md

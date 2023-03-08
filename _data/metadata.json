@@ -1,21 +1,21 @@
 {
-  "title": "PHÚC ÂM đến người Việt Nam",
-  "url": "https://phucam.tv/",
-  "language": "en",
-  "description": "Dự phần rao giảng phúc âm cho dân cư trên đất, cho mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc.",
-  "feed": {
-    "subtitle": "Dự phần rao giảng phúc âm cho dân cư trên đất, cho mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc.",
-    "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "id": "https://phucam.tv/"
-  },
-  "jsonfeed": {
-    "path": "/feed/feed.json",
-    "url": "https://phucam.tv/feed/feed.json"
-  },
-  "author": {
-    "name": "Đặng Thanh Phong",
-    "email": "td379434@gmail.com",
-    "url": "https://phucam.tv/about/"
-  }
+    "title": "PHÚC ÂM đến người Việt Nam",
+    "url": "https://phucam.tv/",
+    "language": "en",
+    "description": "Dự phần rao giảng phúc âm cho dân cư trên đất, cho mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc.",
+    "feed": {
+        "subtitle": "Dự phần rao giảng phúc âm cho dân cư trên đất, cho mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc.",
+        "filename": "feed.xml",
+        "path": "/feed/feed.xml",
+        "id": "https://phucam.tv/"
+    },
+    "jsonfeed": {
+        "path": "/feed/feed.json",
+        "url": "https://phucam.tv/feed/feed.json"
+    },
+    "author": {
+        "name": "Hong Truong",
+        "email": "lienlac@phucam.tv",
+        "url": "https://phucam.tv/about/"
+    }
 }
