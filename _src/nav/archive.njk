@@ -1,12 +1,21 @@
 ---
-layout: layouts/home.njk
-permalink: /posts/
-eleventyNavigation:
-  key: Bài giảng
-  order: 2
+layout: "layouts/bootstrap.njk"
+permalink: "/posts/index.html"
+eleventyNavigation: { key: "Bài giảng", order: 2 }
 ---
 
 <h1>Toàn bộ bài giảng</h1>
 
+<div class="m-2">
+    <form
+        class="col-12 col-lg-auto mb-3 mb-lg-0"
+        action="https://google.com/search"
+        onsubmit="document.getElementById('search-query').value = document.getElementById('search-keyword').value + ' site:https://phucam.tv';"
+    >
+        <input type="hidden" id="search-query" name="q">
+        <input type="search" id="search-keyword" class="form-control" placeholder="Tìm kiếm…" aria-label="Search">
+    </form>
+</div>
+
 {% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+{% include "post-table.njk" %}

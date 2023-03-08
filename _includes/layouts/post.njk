@@ -1,25 +1,82 @@
 ---
-layout: layouts/base.njk
-templateClass: tmpl-post
+layout: "layouts/bootstrap.njk"
+templateClass: "tmpl-post"
+disabledTitle: true
 ---
-<h1>{{ title }}</h1>
 
-<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
-{%- for tag in tags | filterTagList -%}
-{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-<a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
-{%- endfor %}
+<div class="container my-2">
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      {# <li class="breadcrumb-item"><a href="/"><i class="bi bi-house"></i></a></li> #}
+      {# <li class="breadcrumb-item"><a href="/posts/">Bài giảng</a></li> #}
+      <li class="breadcrumb-item active" aria-current="page">{{ title }}</li>
+    </ol>
+  </nav>
+</div>
 
-{{ content | safe }}
+<div class="row g-5">
+  <div id="main-content" class="col-md-12 col-lg-8">
+    {{ content | safe }}
+
+{#    {% if ministry %}#}
+{#      {% if ministry.name %}#}
+{#        <h5 class="card-title my-3">{{ ministry.name }}</h5>#}
+{#      {% endif %}#}
+
+{#      <p class="card-text">#}
+{#        {{ ministry.description | safe }}#}
+{#      </p>#}
+{#    {% endif %}#}
+  </div>
+
+  <div class="col-md-12 col-lg-4 order-md-last">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Thực hiện</h5>
+        <p class="card-text">
+          <ul class="list-group list-group-flush">
+            {% if author.name %}
+              <li class="list-group-item">
+                <i class="bi bi-person-lines-fill"></i> <a href="https://www.google.com/search?q={{ author.name }} site%3Ahttps%3A%2F%2Fphucam.tv">{{ author.name }}</a>
+              </li>
+            {% endif %}
+            {% if author.phone %}<li class="list-group-item"><i class="bi bi-phone"></i> {{ author.phone }}</li>{% endif %}
+            {% if author.email %}<li class="list-group-item"><i class="bi bi-mailbox"></i> {{ author.email }}</li>{% endif %}
+            {% if author.facebook %}<li class="list-group-item"><i class="bi bi-facebook"></i> <a href="https://facebook.com/{{ author.facebook }}">{{ author.facebook }}</a></li>{% endif %}
+            {% if author.website %}<li class="list-group-item"><i class="bi bi-globe"></i> {{ author.website | safe }}</li>{% endif %}
+            <li class="list-group-item">
+              <i class="bi bi-calendar-event"></i> Ngày: <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+            </li>
+          </ul>
+        </p>
+
+        <h5 class="card-title">Chủ đề</h5>
+        <p class="card-text">
+          <ul class="list-group list-group-flush">
+            {%- for tag in tags | filterTagList -%}
+              <li class="list-group-item">
+                {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+                <i class="bi bi-tag"></i> <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+              </li>
+            {%- endfor %}
+          </ul>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 {%- if collections.posts %}
-{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-{%- if nextPost or previousPost %}
-<hr>
-<ul>
-  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-</ul>
-{%- endif %}
+  {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+  {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+  {%- if nextPost or previousPost %}
+    <hr>
+    <ul>
+      {%- if nextPost %}
+        <li>Bài tiếp theo: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+      {%- if previousPost %}
+        <li>Bài trước: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+    </ul>
+  {%- endif %}
 {%- endif %}

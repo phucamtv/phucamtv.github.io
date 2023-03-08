@@ -1,23 +1,17 @@
 ---
+layout: "layouts/bootstrap.njk"
+permalink: /tags/{{ tag | slug }}/
 pagination:
   data: collections
   size: 1
   alias: tag
-  filter:
-    - all
-    - nav
-    - post
-    - posts
-    - tagList
+  filter: [all, nav, post, posts]
   addAllPagesToCollections: true
-layout: layouts/home.njk
-eleventyComputed:
-  title: Tagged “{{ tag }}”
-permalink: /tags/{{ tag | slug }}/
+
+eleventyComputed: { title: "{{ tag }}" }
 ---
-<h1>Tagged “{{ tag }}”</h1>
 
 {% set postslist = collections[ tag ] %}
-{% include "postslist.njk" %}
+{% include "post-table.njk" %}
 
 <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>
