@@ -109,9 +109,9 @@ module.exports = function (cnf) {
         htmlTemplateEngine: "njk",
         dataTemplateEngine: false,
         dir: {
-            input: "@input",
-            includes: "_includes",
             data: "_data",
+            input: "_input",
+            includes: "_includes",
             output: "_site"
         }
     };
