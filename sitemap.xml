@@ -312,11 +312,6 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/posts/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
@@ -342,16 +337,6 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/nhan-vat/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/jesus-christ/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
     <loc>https://phucam.tv/tags/khai-huyen/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
@@ -367,12 +352,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/su-tai-lam/</loc>
+    <loc>https://phucam.tv/tags/tien-tri/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/tien-tri/</loc>
+    <loc>https://phucam.tv/tags/su-tai-lam/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -382,7 +367,32 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/tags/luat-phap/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/su-tho-phuong/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/jesus-christ/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/nhan-vat/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/tags/hieu-lam/</loc>
+    <lastmod>2021-11-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/tags/dja-ni-en/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -393,11 +403,6 @@
   
   <url>
     <loc>https://phucam.tv/tags/ma-quy/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/luat-phap/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -433,11 +438,6 @@
   
   <url>
     <loc>https://phucam.tv/tags/loi-canh-bao/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/su-tho-phuong/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -482,17 +482,12 @@
   </url>
   
   <url>
-    <loc>https://phucam.tv/tags/dja-ni-en/</loc>
+    <loc>https://phucam.tv/tags/su-binh-an/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
   <url>
     <loc>https://phucam.tv/tags/loi-chung/</loc>
-    <lastmod>2021-11-02</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://phucam.tv/tags/su-binh-an/</loc>
     <lastmod>2021-11-02</lastmod>
   </url>
   
@@ -607,8 +602,28 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-1/</loc>
+    <lastmod>2022-04-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-2/</loc>
+    <lastmod>2022-04-11</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/baigiang/quach-trong-toan/khi-ta-ma-tro-lai/</loc>
     <lastmod>2022-04-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-3/</loc>
+    <lastmod>2022-04-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-4/</loc>
+    <lastmod>2022-04-22</lastmod>
   </url>
   
   <url>
@@ -619,6 +634,11 @@
   <url>
     <loc>https://phucam.tv/baigiang/nguyen-khac-vinh/ba-by-lon/</loc>
     <lastmod>2022-05-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-5/</loc>
+    <lastmod>2022-05-06</lastmod>
   </url>
   
   <url>
@@ -634,6 +654,11 @@
   <url>
     <loc>https://phucam.tv/baigiang/nguyen-khac-vinh/tieng-vang/</loc>
     <lastmod>2022-05-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-5b/</loc>
+    <lastmod>2022-05-18</lastmod>
   </url>
   
   <url>
@@ -692,8 +717,18 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-6/</loc>
+    <lastmod>2022-06-15</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/phan-bien/john-nguyen/hoi-thanh-tren-da/</loc>
     <lastmod>2022-07-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-7/</loc>
+    <lastmod>2022-07-15</lastmod>
   </url>
   
   <url>
@@ -702,7 +737,82 @@
   </url>
   
   <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-8/</loc>
+    <lastmod>2022-07-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-9/</loc>
+    <lastmod>2022-08-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-10/</loc>
+    <lastmod>2022-08-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/thongdiep3thiensu/01-nhan-dien-babylon/</loc>
+    <lastmod>2022-09-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/thongdiep3thiensu/02-chen-vang-dam-ue-cua-babylon/</loc>
+    <lastmod>2022-10-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-11/</loc>
+    <lastmod>2022-10-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/thongdiep3thiensu/03-ruou-thanh-no-cua-babylon/</loc>
+    <lastmod>2022-10-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/thongdiep3thiensu/04-su-tho-phuong-that/</loc>
+    <lastmod>2022-10-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/thongdiep3thiensu/05-nhan-dang-con-thu/</loc>
+    <lastmod>2022-11-08</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phucam.tv/baigiang/dang-thanh-phong/da-ni-en/chuong-12/</loc>
     <lastmod>2022-11-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/thongdiep3thiensu/06-the-luc-sung-nho/</loc>
+    <lastmod>2022-11-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/khai-huyen/chuong-01/hinh-anh-dac-biet.html</loc>
+    <lastmod>2022-11-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/thongdiep3thiensu/06-tuong-con-thu/</loc>
+    <lastmod>2022-12-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/khai-huyen/chuong-01/3-dieu-can-biet.html</loc>
+    <lastmod>2022-12-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/posts/</loc>
+    <lastmod>2023-03-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://phucam.tv/baigiang/dang-thanh-phong/khai-huyen/chuong-2/hoi-thanh-bet-gam/</loc>
+    <lastmod>2023-03-09</lastmod>
   </url>
 </urlset>
