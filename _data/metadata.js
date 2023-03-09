@@ -1,4 +1,4 @@
-{
+module.exports = {
     "title": "PHÚC ÂM đến người Việt Nam",
     "url": "https://phucam.tv/",
     "language": "en",
