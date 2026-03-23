@@ -2,7 +2,7 @@
 title: "7 Lẽ Thật Về Ngày Thứ Bảy"
 date: 2019-10-23
 tags: ["Ngày Sa-bát", "Hiểu Lầm"]
-authors: ["05b6287d-3dfa-4ad4-9152-62c52913b85c"]
+authors: ["nguyen-khac-vinh"]
 plugins: [youtube]
 youtubeIDs: ["nESTpnAEbcg"]
 url: /baigiang/sa-bat/nguyen-khac-vinh/7-le-that/index.html

@@ -2,7 +2,7 @@
 title: "Dùng điều thiện mà thắng điều ác"
 date: 2020-06-07
 tags: []
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["S0M0iPf7Q88"]
 url: /baigiang/quach-trong-toan/thien-thang-ac/

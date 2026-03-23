@@ -2,7 +2,7 @@
 title: "Tiền bạc - Cội rễ mọi điều ác?"
 date: 2020-05-31
 tags: ["Tội Lỗi", "Tiền Bạc"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["0GNrIFbOGv4"]
 url: /baigiang/tien-bac/quachtrongtoan/index.html

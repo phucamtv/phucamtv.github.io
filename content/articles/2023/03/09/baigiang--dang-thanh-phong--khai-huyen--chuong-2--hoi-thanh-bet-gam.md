@@ -2,7 +2,7 @@
 title: "Bẹt-găm - Hội Thánh dung túng tội lỗi"
 date: 2023-03-09
 tags: ["Khải Huyền", "Tiên Tri", "Jesus Christ"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["tlTL7ePVrec"]
 url: /baigiang/dang-thanh-phong/khai-huyen/chuong-2/hoi-thanh-bet-gam/index.html

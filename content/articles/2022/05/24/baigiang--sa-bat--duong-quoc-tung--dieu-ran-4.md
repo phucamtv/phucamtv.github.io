@@ -2,7 +2,7 @@
 title: "Điều Răn Thứ 4"
 date: 2022-05-24
 tags: ["Ngày Sa-bát"]
-authors: ["e4f86cb1-43ff-46d3-bf5c-bbfe25a9b521"]
+authors: ["duong-quoc-tung"]
 plugins: [youtube]
 youtubeIDs: ["j0Hu2Q34uNg", "TOW7jUq8ZtM"]
 url: /baigiang/sa-bat/duong-quoc-tung/dieu-ran-4/index.html

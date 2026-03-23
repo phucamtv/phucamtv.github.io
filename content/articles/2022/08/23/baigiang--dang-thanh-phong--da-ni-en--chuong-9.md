@@ -2,7 +2,7 @@
 title: "Lời tiên tri dài nhất lịch sử loài người - Đa-ni-ên 9"
 date: 2022-08-23
 tags: ["Đa-ni-ên", "Tiên Tri", "Sự Tái Lâm"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["JIUqJTaxbJw"]
 url: /baigiang/dang-thanh-phong/da-ni-en/chuong-9/index.html

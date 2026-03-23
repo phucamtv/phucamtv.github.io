@@ -2,7 +2,7 @@
 title: "Đền thờ của Thiên Chúa"
 date: 2020-04-02
 tags: ["Đền Thờ"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["cAf7kavInnc"]
 url: /posts/20200402-den-tho/index.html

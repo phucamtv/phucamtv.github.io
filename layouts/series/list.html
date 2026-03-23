@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="list" style="max-width:800px">
+  <h1>Loạt bài</h1>
+  <div class="author-grid">
+    {{ range $id, $s := $.Site.Data.series }}
+    {{ $count := 0 }}
+    {{ range $.Site.RegularPages }}
+      {{ if in .Params.series $id }}{{ $count = add $count 1 }}{{ end }}
+    {{ end }}
+    {{ if gt $count 0 }}
+    <a href="{{ printf "/series/%s/" $id | relURL }}" class="author-card-link">
+      <div class="author-card">
+        {{ with $s.avatar }}
+        <div class="author-card-avatar">
+          <img src="{{ printf "/images/series/%s" . | relURL }}" alt="{{ $s.name }}" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="author-card-info">
+          <div class="author-card-name">{{ $s.name }}</div>
+          <div class="author-card-count">{{ $count }} bài viết</div>
+        </div>
+      </div>
+    </a>
+    {{ end }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

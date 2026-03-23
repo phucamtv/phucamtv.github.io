@@ -3,7 +3,7 @@ title: "1 Giăng 5:20 — Đức Chúa Jesus là Thiên Chúa"
 date: 2024-01-14
 description: "Phân tích 1 Giăng 5:20 chứng minh Đức Chúa Jesus là Đức Chúa Trời chân thật và sự sống đời đời. Thảo luận Thiên Chúa 3 Thân Vị."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["WlSu6f70D3Y"]
 url: /tinly/1-giang-5-20-duc-chua-jesus-la-thien-chua/index.html

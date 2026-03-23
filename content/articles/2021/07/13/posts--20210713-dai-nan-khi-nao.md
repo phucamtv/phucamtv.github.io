@@ -2,7 +2,7 @@
 title: "Đại nạn xảy ra khi nào?"
 date: 2021-07-13
 tags: ["Sự Tái Lâm", "Tiên Tri"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["ZosLSWgguDo"]
 url: /posts/20210713-dai-nan-khi-nao/index.html

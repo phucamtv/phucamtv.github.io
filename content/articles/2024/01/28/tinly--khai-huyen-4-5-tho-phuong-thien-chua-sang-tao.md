@@ -3,7 +3,7 @@ title: "Khải Huyền 4 & 5: Thờ phượng Thiên Chúa Sáng Tạo"
 date: 2024-01-28
 description: "Nghiên cứu Khải Huyền chương 4-5 về nguyên tắc thờ phượng Thiên Chúa Sáng Tạo. Tại sao Đức Chúa Trời xứng đáng được thờ phượng vì Ngài dựng nên muôn vật."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Khải Huyền", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["hHhAolWnCV0"]
 url: /tinly/khai-huyen-4-5-tho-phuong-thien-chua-sang-tao/index.html

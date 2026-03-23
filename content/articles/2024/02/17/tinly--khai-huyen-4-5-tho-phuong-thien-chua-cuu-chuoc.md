@@ -3,7 +3,7 @@ title: "Khải Huyền 4 & 5: Thờ phượng Thiên Chúa Cứu Chuộc"
 date: 2024-02-17
 description: "Nghiên cứu Khải Huyền chương 5 về sự thờ phượng Chiên Con - Đức Chúa Giê-su, Đấng Cứu Chuộc. Tại sao thờ phượng Chiên Con không mâu thuẫn với điều răn thứ nhất."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Khải Huyền", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["ItL8J_Rh3lM"]
 url: /tinly/khai-huyen-4-5-tho-phuong-thien-chua-cuu-chuoc/index.html

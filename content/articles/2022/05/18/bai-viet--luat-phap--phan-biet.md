@@ -2,7 +2,7 @@
 title: "Phân biệt các bản luật pháp trong Thánh Kinh"
 date: 2022-05-18
 tags: ["Luật Pháp"]
-authors: ["e4f86cb1-43ff-46d3-bf5c-bbfe25a9b521"]
+authors: ["duong-quoc-tung"]
 url: /bai-viet/luat-phap/phan-biet/index.html
 draft: false
 part_of_series: false

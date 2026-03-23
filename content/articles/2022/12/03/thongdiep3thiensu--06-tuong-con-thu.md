@@ -2,7 +2,7 @@
 title: "Khải Huyền 14:9-12 › Nhận dạng tượng con thú | Thảo Luận Thánh Kinh"
 date: 2022-12-03
 tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm", "Ngày Sa-bát", "Luật Pháp"]
-authors: ["b95fac7b-b3de-43f8-986e-ac3e94ee523f", "6518f9f6-5a7b-4792-b742-87dffcbe5aeb", "a2f208fa-5cce-4c7c-9e5d-bb4ce8d9b617"]
+authors: ["nguyen-thanh-hung", "truong-the-hong", "nguyen-hung-cuong"]
 plugins: [youtube]
 youtubeIDs: ["y6CKbE9AKeI"]
 url: /thongdiep3thiensu/06-tuong-con-thu/index.html

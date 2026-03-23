@@ -1,0 +1,37 @@
+{{ define "main" }}
+<section class="list" style="max-width:800px">
+  <nav class="breadcrumb">
+    <a href="{{ "/" | relURL }}">Home</a>
+    <span class="breadcrumb-sep">&rsaquo;</span>
+    <span>Authors</span>
+  </nav>
+  <h1>Tác giả</h1>
+  <div class="author-grid">
+    {{ range .Pages }}
+    {{ $slug := .Params.slug }}
+    {{ $count := 0 }}
+    {{ range $.Site.RegularPages }}
+      {{ if in .Params.authors $slug }}{{ $count = add $count 1 }}{{ end }}
+    {{ end }}
+    {{ if gt $count 0 }}
+    <a href="{{ .Permalink }}" class="author-card-link">
+      <div class="author-card">
+        {{ with .Params.avatar }}
+        <div class="author-card-avatar">
+          <img src="{{ printf "/images/authors/%s" . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="author-card-info">
+          <div class="author-card-name">{{ .Title }}</div>
+          {{ with .Params.country }}
+          <div class="author-card-country">{{ . }}</div>
+          {{ end }}
+          <div class="author-card-count">{{ $count }} bài viết</div>
+        </div>
+      </div>
+    </a>
+    {{ end }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

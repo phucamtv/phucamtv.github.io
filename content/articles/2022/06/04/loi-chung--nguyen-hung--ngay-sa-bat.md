@@ -2,7 +2,7 @@
 title: "Lời chứng: Tôi giữ ngày Sa-bát để thờ phượng Chúa"
 date: 2022-06-04
 tags: ["Ngày Sa-bát", "Hiểu Lầm", "Lời Chứng", "Loạt bài"]
-authors: ["b95fac7b-b3de-43f8-986e-ac3e94ee523f"]
+authors: ["nguyen-thanh-hung"]
 plugins: [youtube]
 youtubeIDs: ["q3adkmNAM9A", "Z_eKNFF8W1w", "zJ_FHFbC8iw", "04alrq4sUHA"]
 url: /loi-chung/nguyen-hung/ngay-sa-bat/index.html

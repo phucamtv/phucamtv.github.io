@@ -2,7 +2,7 @@
 title: "Ăn gì? Lẽ thật bị đánh cắp"
 date: 2021-11-02
 tags: ["Ăn Uống"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["HzCnCM7r-Fw"]
 url: /posts/20211030-an-gi/index.html

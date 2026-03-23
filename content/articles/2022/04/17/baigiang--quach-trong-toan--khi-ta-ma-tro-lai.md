@@ -2,7 +2,7 @@
 title: "Khi tà ma trở lại"
 date: 2022-04-17
 tags: ["Ma Quỷ"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["9SBq8lyA79I"]
 url: /baigiang/quach-trong-toan/khi-ta-ma-tro-lai/index.html

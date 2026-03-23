@@ -1,14 +1,23 @@
 {{ define "main" }}
-{{ $authorID := "" }}
-{{ $author := false }}
+{{ $authorSlug := "" }}
+{{ $authorPage := false }}
 {{ with .Params.authors }}
-  {{ $authorID = index . 0 }}
-  {{ with index $.Site.Data.authors $authorID }}
-    {{ $author = . }}
+  {{ $authorSlug = index . 0 }}
+  {{ $authorPage = $.Site.GetPage (printf "/authors/%s" $authorSlug) }}
+{{ end }}
+
+{{ $seriesID := "" }}
+{{ $series := false }}
+{{ with .Params.series }}
+  {{ $seriesID = index . 0 }}
+  {{ with index $.Site.Data.series $seriesID }}
+    {{ $series = . }}
   {{ end }}
 {{ end }}
 
-<div class="article-layout{{ if not $author }} article-layout--no-sidebar{{ end }}">
+{{ $hasSidebar := or $authorPage $series }}
+
+<div class="article-layout{{ if not $hasSidebar }} article-layout--no-sidebar{{ end }}">
   <article class="article-main">
     <h1>{{ .Title }}</h1>
     <div class="content">
@@ -16,34 +25,53 @@
     </div>
   </article>
 
-  {{ if $author }}
+  {{ if $hasSidebar }}
   <aside class="author-sidebar">
     <div class="sidebar-card">
+      {{ if $authorPage }}
       <div class="sidebar-heading">Thực hiện</div>
+      {{ else if $series }}
+      <div class="sidebar-heading">Loạt bài</div>
+      {{ end }}
 
-      {{ with $author.avatar }}
-      <div class="author-avatar">
-        <img src="{{ printf "/images/authors/%s" . | relURL }}" alt="{{ $author.name }}" loading="lazy">
-      </div>
+      {{ if $authorPage }}
+        {{ with $authorPage.Params.avatar }}
+        <div class="author-avatar">
+          <img src="{{ printf "/images/authors/%s" . | relURL }}" alt="{{ $authorPage.Title }}" loading="lazy">
+        </div>
+        {{ end }}
+      {{ else if $series }}
+        {{ with $series.avatar }}
+        <div class="author-avatar">
+          <img src="{{ printf "/images/series/%s" . | relURL }}" alt="{{ $series.name }}" loading="lazy">
+        </div>
+        {{ end }}
       {{ end }}
 
       <div class="sidebar-fields">
+        {{ if $authorPage }}
         <div class="sidebar-field">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-          <span>{{ $author.name }}</span>
+          <a href="{{ $authorPage.Permalink }}" style="text-decoration:none;color:inherit">{{ $authorPage.Title }}</a>
         </div>
 
-        {{ with $author.phone }}
+        {{ with $authorPage.Params.phone }}
         <div class="sidebar-field">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
           <span>{{ . }}</span>
         </div>
         {{ end }}
 
-        {{ with $author.email }}
+        {{ with $authorPage.Params.email }}
         <div class="sidebar-field">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 7l-10 6L2 7"/></svg>
           <span>{{ . }}</span>
+        </div>
+        {{ end }}
+        {{ else if $series }}
+        <div class="sidebar-field">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+          <a href="{{ printf "/series/%s/" $seriesID | relURL }}" style="text-decoration:none;color:inherit">{{ $series.name }}</a>
         </div>
         {{ end }}
 

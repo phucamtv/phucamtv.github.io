@@ -2,7 +2,7 @@
 title: "Những bài học từ trái tim"
 date: 2022-04-30
 tags: []
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["RoY4M6BlUho"]
 url: /baigiang/quach-trong-toan/trai-tim/index.html

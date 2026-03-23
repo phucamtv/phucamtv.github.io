@@ -2,7 +2,7 @@
 title: "Chúng ta sẽ làm gì trên nước thiên đàng"
 date: 2020-05-03
 tags: ["Thiên Đàng"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["somh4eKLqss"]
 url: /baigiang/quach-trong-toan/thien-dang/lam-gi/index.html

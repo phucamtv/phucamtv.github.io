@@ -2,7 +2,7 @@
 title: "Gióp: Chiến thắng khổ đau"
 date: 2020-09-30
 tags: ["Nhân Vật"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["s8CYA731bac"]
 url: /baigiang/dang-thanh-phong/giop/index.html

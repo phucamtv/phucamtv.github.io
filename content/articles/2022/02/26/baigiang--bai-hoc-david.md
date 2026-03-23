@@ -2,7 +2,7 @@
 title: "Những bài học quý từ cuộc đời vua Đa-vít"
 date: 2022-02-26
 tags: ["Nhân Vật"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["GeefBQpCeyY"]
 url: /baigiang/bai-hoc-david/index.html

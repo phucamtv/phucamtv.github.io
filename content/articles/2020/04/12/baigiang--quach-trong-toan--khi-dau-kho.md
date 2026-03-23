@@ -2,7 +2,7 @@
 title: "Điều cần nhớ khi đau khổ và hoạn nạn"
 date: 2020-04-12
 tags: ["Tội Lỗi", "Sự Cứu Rỗi"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["qCKwz_rtDZQ"]
 url: /baigiang/quach-trong-toan/khi-dau-kho/index.html

@@ -2,7 +2,7 @@
 title: "Bà Ma-ri: người biết mình là ai"
 date: 2020-06-18
 tags: ["Nhân Vật"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["oqxH6sYegtI"]
 url: /baigiang/dang-thanh-phong/ma-ri/index.html

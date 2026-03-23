@@ -3,7 +3,7 @@ title: "Đức Chúa Jesus là con người, hay thiên sứ, hay Đức Chúa T
 date: 2025-04-13
 description: "Tra xét Thánh Kinh qua bốn cấp bậc: Đức Chúa Trời, thiên sứ, con người, súc vật -- Đức Chúa Giêsu hiện diện ở mọi cấp bậc, chứng minh Ngài chính là Thiên Chúa."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh", "Đức Chúa Giêsu"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["pMiPbGdLT8M"]
 url: /tinly/duc-chua-jesus-la-con-nguoi-hay-thien-su-hay-duc-chua-troi/index.html

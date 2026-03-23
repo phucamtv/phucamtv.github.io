@@ -2,7 +2,7 @@
 title: "Người đàn bà Ca-na-an: Đức tin lớn"
 date: 2020-07-10
 tags: ["Nhân Vật"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["qffeRUJtcbs"]
 url: /baigiang/dang-thanh-phong/danba-canaan/index.html

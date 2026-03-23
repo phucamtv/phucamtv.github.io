@@ -2,7 +2,7 @@
 title: "Bảy lời nói bị Chúa phạt"
 date: 2021-07-29
 tags: ["Sự Cầu Nguyện", "Lời Cảnh Báo"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["DSdyGzLuNQQ"]
 url: /posts/20210729-bay-loi-noi-bi-phat/index.html

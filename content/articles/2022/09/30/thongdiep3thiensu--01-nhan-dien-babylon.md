@@ -2,7 +2,7 @@
 title: "Khải Huyền 14:8 › Nhận diện Ba-by-lôn - Thảo luận Thánh Kinh"
 date: 2022-09-30
 tags: ["Tiên Tri", "Khải Huyền", "Sự Tái Lâm", "Sự Thờ Phượng"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb", "b95fac7b-b3de-43f8-986e-ac3e94ee523f", "a2f208fa-5cce-4c7c-9e5d-bb4ce8d9b617"]
+authors: ["truong-the-hong", "nguyen-thanh-hung", "nguyen-hung-cuong"]
 plugins: [youtube]
 youtubeIDs: ["EYzX-266G8I"]
 url: /thongdiep3thiensu/01-nhan-dien-babylon/index.html

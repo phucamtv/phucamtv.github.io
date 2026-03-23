@@ -3,7 +3,7 @@ title: "Nước Mỹ trên hết: Quan điểm nghịch Thánh Kinh trầm trọ
 date: 2025-02-06
 description: "Phân tích khẩu hiệu America First dưới ánh sáng Điều Răn Thứ Nhất. Đức Chúa Trời hay nước Mỹ, điều gì thật sự phải đặt trên hết?"
 tags: ["Thời Luận", "Chính Trị", "Thánh Kinh", "Điều Răn"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["f6mD3nBjNcU"]
 url: /thoiluan/nuoc-my-tren-het-quan-diem-nghich-thanh-kinh/index.html

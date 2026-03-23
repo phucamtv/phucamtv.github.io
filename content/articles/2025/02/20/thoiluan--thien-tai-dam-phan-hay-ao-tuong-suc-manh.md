@@ -3,7 +3,7 @@ title: "Thiên tài đàm phán hay lại thêm một kẻ ảo tưởng sức m
 date: 2025-02-20
 description: "Phân tích lời hứa của Trump chấm dứt chiến tranh Ukraine-Nga trong 24 giờ. Bài học về sự kiêu ngạo và đức tin từ góc nhìn Thánh Kinh."
 tags: ["Thời Luận", "Chính Trị", "Thánh Kinh", "Hòa Bình"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["sekHImyR2VM"]
 url: /thoiluan/thien-tai-dam-phan-hay-ao-tuong-suc-manh/index.html

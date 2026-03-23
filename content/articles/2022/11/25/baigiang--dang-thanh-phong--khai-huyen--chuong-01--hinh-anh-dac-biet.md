@@ -2,7 +2,7 @@
 title: "Hình ảnh đặc biệt của Đức Chúa JESUS - Khải Huyền 1"
 date: 2022-11-25
 tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["R6ti_F4fHHY"]
 url: /baigiang/dang-thanh-phong/khai-huyen/chuong-01/hinh-anh-dac-biet.html

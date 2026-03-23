@@ -2,7 +2,7 @@
 title: "Những lỗi lầm trong đời Sau-lơ"
 date: 2022-02-26
 tags: ["Nhân Vật"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["s1U1FycoT7Q"]
 url: /baigiang/saulo/quach-trong-toan/index.html

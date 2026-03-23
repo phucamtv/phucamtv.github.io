@@ -2,7 +2,7 @@
 title: "Loạt bài: Sách tiên tri Đa-ni-ên"
 date: 2022-12-27
 tags: ["Đa-ni-ên", "Tiên Tri", "Sự Tái Lâm", "Loạt bài"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 url: /loat-bai/da-ni-en/dang-thanh-phong/index.html
 draft: true
 part_of_series: false

@@ -3,7 +3,7 @@ title: "Lời bình cho bài \"Sự thật về Đức Thánh Linh\" của nhóm
 date: 2023-04-10
 description: "Phản biện video phủ nhận thần tính của Đức Thánh Linh: chứng minh từ Thánh Kinh rằng Thánh Linh là Thiên Chúa, không chỉ là năng lực hay nguồn lực đơn thuần."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh", "Đức Thánh Linh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["9RGuvRazf4A"]
 url: /tinly/loi-binh-su-that-ve-duc-thanh-linh/index.html

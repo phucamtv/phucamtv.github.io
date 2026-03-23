@@ -2,7 +2,7 @@
 title: "Giao Ước của Thiên Chúa"
 date: 2020-04-02
 tags: ["Sự Cứu Rỗi", "Giao Ước", "Giáo Lý Căn Bản"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["FXgVvfQL25w"]
 url: /posts/20200402-giao-uoc/index.html

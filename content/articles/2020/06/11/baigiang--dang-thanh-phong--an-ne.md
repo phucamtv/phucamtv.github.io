@@ -2,7 +2,7 @@
 title: "Bà An-ne: Người mẹ mẫu mực trong việc giữ lời hứa"
 date: 2020-06-11
 tags: ["Nhân Vật"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["9f78TqWfjWw"]
 url: /baigiang/dang-thanh-phong/an-ne/index.html

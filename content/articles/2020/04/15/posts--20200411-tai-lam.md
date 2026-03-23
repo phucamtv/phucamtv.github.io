@@ -2,7 +2,7 @@
 title: "Thiên Chúa tái lâm âm thầm hay rõ ràng"
 date: 2020-04-15
 tags: ["Khải Huyền", "Sự Tái Lâm", "Jesus Christ"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["whIKeEQval8"]
 url: /posts/20200411-tai-lam/index.html

@@ -2,7 +2,7 @@
 title: "Ma quỷ từ đâu đến và chúng đang làm gì?"
 date: 2020-04-19
 tags: ["Ma Quỷ"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["t3JE8CnaHWI"]
 url: /baigiang/quach-trong-toan/ma-quy-lam-gi/index.html

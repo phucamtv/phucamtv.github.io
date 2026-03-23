@@ -2,7 +2,7 @@
 title: 'Giải thích Tiên Tri - "Râu ông lại cắm cằm bà"'
 date: 2025-07-01
 tags: ["Tiên Tri", "Y-sơ-ra-ên", "Bài Viết"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 url: /baiviet/tien-tri/rau-ong-lai-cam-cam-ba/index.html
 draft: false
 part_of_series: false

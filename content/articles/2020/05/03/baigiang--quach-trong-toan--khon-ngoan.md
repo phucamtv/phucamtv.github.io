@@ -2,7 +2,7 @@
 title: "Khôn ngoan theo Thánh Kinh"
 date: 2020-05-03
 tags: ["Thánh Kinh"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["Jtd3DH5W3Tw"]
 url: /baigiang/quach-trong-toan/khon-ngoan/index.html

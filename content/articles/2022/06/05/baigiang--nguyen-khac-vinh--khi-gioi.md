@@ -2,7 +2,7 @@
 title: "Nhận lấy khí giới của Đức Chúa Trời"
 date: 2022-06-05
 tags: ["Sự Cầu Nguyện"]
-authors: ["05b6287d-3dfa-4ad4-9152-62c52913b85c"]
+authors: ["nguyen-khac-vinh"]
 plugins: [youtube]
 youtubeIDs: ["xTAuJwGTBO4"]
 url: /baigiang/nguyen-khac-vinh/khi-gioi/index.html

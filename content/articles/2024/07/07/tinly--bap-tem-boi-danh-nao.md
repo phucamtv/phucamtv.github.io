@@ -3,7 +3,7 @@ title: "Báp-têm bởi danh nào? | Tìm Hiểu Thiên Chúa 3 Thân Vị"
 date: 2024-07-07
 description: "Phép báp-têm nhân danh Đức Chúa Cha, Đức Chúa Con và Đức Thánh Linh. Tìm hiểu ý nghĩa danh xưng Ba Ngôi trong Ma-thi-ơ 28 và Thiên Chúa Ba Thân Vị."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["Tjc5-Qzu5UA"]
 url: /tinly/bap-tem-boi-danh-nao/index.html

@@ -2,7 +2,7 @@
 title: "Hội Thánh - Sự chuyển giao quyền lực"
 date: 2021-11-24
 tags: ["Hội Thánh", "Israel", "Hiểu Lầm"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["DhTdirCz9hQ"]
 url: /posts/20211124-hoithanh/index.html

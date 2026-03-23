@@ -3,7 +3,7 @@ title: "Majorana 1 xuất hiện: Siêu máy tính trên lòng bàn tay và lờ
 date: 2025-02-20
 description: "Microsoft ra mắt chip lượng tử Majorana 1 - phân tích sự bùng nổ tri thức công nghệ dưới ánh sáng lời tiên tri Đa-ni-ên 12:4 về thời kỳ sau rốt."
 tags: ["Thời Luận", "Công Nghệ", "Tiên Tri", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["4P5aRCbJZp0"]
 url: /thoiluan/majorana-1-xuat-hien/index.html

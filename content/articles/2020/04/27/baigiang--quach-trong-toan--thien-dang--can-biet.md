@@ -2,7 +2,7 @@
 title: "Những điều cần biết về nước Thiên Đàng"
 date: 2020-04-27
 tags: ["Thiên Đàng", "Giáo Lý Căn Bản"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["uzWcMHSr_1k"]
 url: /baigiang/quach-trong-toan/thien-dang/can-biet/index.html

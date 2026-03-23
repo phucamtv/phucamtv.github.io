@@ -2,7 +2,7 @@
 title: "Thức Ăn Chúa Chọn"
 date: 2020-04-04
 tags: ["Hiểu Lầm", "Ăn Uống"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["B7hCz_VO0h8"]
 url: /posts/20200404-thuc-an/index.html

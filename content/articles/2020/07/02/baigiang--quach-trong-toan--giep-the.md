@@ -2,7 +2,7 @@
 title: "Giép-thê giết con gái mình?"
 date: 2020-07-02
 tags: ["Nhân Vật"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["23EbtAbYeiI"]
 url: /baigiang/quach-trong-toan/giep-the/index.html

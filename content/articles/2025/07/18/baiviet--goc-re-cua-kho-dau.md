@@ -3,7 +3,7 @@ title: "Gốc rễ của khổ đau: Từ chữ \"Tham\" đến sự cứu rỗi
 date: 2025-07-18
 description: "Tại sao con người mãi khổ đau? Khám phá gốc rễ của tham lam từ chữ Hán cổ đến Thánh Kinh, và giải pháp duy nhất để chữa lành trái tim con người."
 tags: ["Bài Viết", "Đức Tin", "Thánh Kinh", "Triết Học"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 url: /baiviet/goc-re-cua-kho-dau/index.html
 draft: false
 part_of_series: false

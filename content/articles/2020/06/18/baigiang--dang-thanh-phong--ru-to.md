@@ -2,7 +2,7 @@
 title: "Ru-tơ: Người phụ nữ nói được làm được"
 date: 2020-06-18
 tags: ["Nhân Vật"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["ZRqVo-c4Hkc"]
 url: /baigiang/dang-thanh-phong/ru-to/index.html

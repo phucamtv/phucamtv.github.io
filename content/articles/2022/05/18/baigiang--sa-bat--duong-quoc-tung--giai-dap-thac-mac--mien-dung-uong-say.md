@@ -2,7 +2,7 @@
 title: "Trả lời thắc mắc: Miễn đừng uống say"
 date: 2022-05-18
 tags: ["Trả Lời Thắc Mắc"]
-authors: ["e4f86cb1-43ff-46d3-bf5c-bbfe25a9b521"]
+authors: ["duong-quoc-tung"]
 plugins: [youtube]
 youtubeIDs: ["FtdmZ3BBD4g"]
 url: /baigiang/sa-bat/duong-quoc-tung/giai-dap-thac-mac/mien-dung-uong-say/index.html

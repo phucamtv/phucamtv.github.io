@@ -2,7 +2,7 @@
 title: "Những điều diệu kì trên núi hóa hình"
 date: 2021-09-09
 tags: ["Jesus Christ"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["cImaQjObnHE"]
 url: /posts/20210909-nui-hoa-hinh/index.html

@@ -2,7 +2,7 @@
 title: "Tạo thế hay tiến-hoá?"
 date: 2022-06-07
 tags: ["Trả Lời Thắc Mắc"]
-authors: ["e4f86cb1-43ff-46d3-bf5c-bbfe25a9b521"]
+authors: ["duong-quoc-tung"]
 plugins: [youtube]
 youtubeIDs: ["FJ8sS-cQ79o"]
 url: /baigiang/sa-bat/duong-quoc-tung/tien-hoa/index.html

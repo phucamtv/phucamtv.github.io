@@ -3,7 +3,7 @@ title: "Chúa Cha sinh ra Chúa Con, vậy Chúa Con là tạo vật?"
 date: 2024-02-13
 description: "Chúa Cha sinh ra Chúa Con thì Chúa Con có phải là tạo vật không? Phân tích Thánh Kinh cho thấy khái niệm 'sinh ra' không đồng nghĩa với 'sáng tạo'."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["b2m0h88cR9E"]
 url: /tinly/chua-cha-sinh-ra-chua-con-la-tao-vat/index.html

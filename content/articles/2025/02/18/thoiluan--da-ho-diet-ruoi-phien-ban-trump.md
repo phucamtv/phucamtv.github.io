@@ -3,7 +3,7 @@ title: "Nghĩ gì về chiến dịch \"Đả hổ diệt ruồi\" phiên bản 
 date: 2025-02-18
 description: "Từ 'đả hổ diệt ruồi' của Tập Cận Bình đến 'đốt lò' của Nguyễn Phú Trọng, các chiến dịch chống tham nhũng liên tục diễn ra. Nhưng vì sao tham nhũng vẫn tái diễn? Phân tích nguyên nhân, động cơ ẩn sau các chiến dịch, và tầm quan trọng của sự thay đổi từ bên trong theo ánh sáng Thánh Kinh."
 tags: ["Thời Luận", "Tham Nhũng", "Chính Trị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["Rr-m3mwAMJ4"]
 url: /thoiluan/da-ho-diet-ruoi-phien-ban-trump/index.html

@@ -3,7 +3,7 @@ title: "Ngươi nói tôi không có chồng là phải lắm: Người phụ n�
 date: 2025-02-27
 description: "Phân tích mối liên hệ giữa câu chuyện người phụ nữ Sa-ma-ri trong Giăng 4 với sự phát triển của Grok 3 - AI không kiểm duyệt của Elon Musk và những thách thức đạo đức thời đại."
 tags: ["Thời Luận", "Công Nghệ", "Thánh Kinh", "Đạo Đức"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["R4RBHQEDX8M"]
 url: /thoiluan/nguoi-phu-nu-sa-ma-ri-va-grok-3/index.html

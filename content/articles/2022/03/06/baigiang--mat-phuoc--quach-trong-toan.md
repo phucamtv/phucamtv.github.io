@@ -2,7 +2,7 @@
 title: "Đánh mất phần phước của chính mình"
 date: 2022-03-06
 tags: ["Nhân Vật"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["yOIM2gQOdXw"]
 url: /baigiang/mat-phuoc/quach-trong-toan/index.html

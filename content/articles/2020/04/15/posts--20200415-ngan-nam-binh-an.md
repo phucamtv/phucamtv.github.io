@@ -2,7 +2,7 @@
 title: "Ngàn năm bình an"
 date: 2020-04-15
 tags: ["Khải Huyền", "Thiên Đàng", "Giáo Lý Căn Bản"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["qHPPUJqKPRA"]
 url: /posts/20200415-ngan-nam-binh-an/index.html

@@ -2,7 +2,7 @@
 title: "Tiếng vang của sự đau khổ"
 date: 2022-05-15
 tags: ["Jesus Christ"]
-authors: ["05b6287d-3dfa-4ad4-9152-62c52913b85c"]
+authors: ["nguyen-khac-vinh"]
 plugins: [youtube]
 youtubeIDs: ["YPj9P2SGslI"]
 url: /baigiang/nguyen-khac-vinh/tieng-vang/index.html

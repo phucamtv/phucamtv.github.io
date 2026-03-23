@@ -3,7 +3,7 @@ title: "Khải Huyền 4 & 5: Thờ phượng Thiên Chúa Hằng Hữu"
 date: 2024-03-02
 description: "Nghiên cứu Khải Huyền 4-5 về Thiên Chúa Hằng Hữu - Đấng trước đã có, nay hiện có, sau còn đến. Đức Chúa Giê-su là Đấng Trước Hết và Sau Cùng."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Khải Huyền", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["mDXbGQY9DIc"]
 url: /tinly/khai-huyen-4-5-tho-phuong-thien-chua-hang-huu/index.html

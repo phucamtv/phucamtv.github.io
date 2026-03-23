@@ -2,7 +2,7 @@
 title: "Phần thưởng cho người tin Chúa là gì? - Đa-ni-ên 12"
 date: 2022-11-11
 tags: ["Đa-ni-ên", "Tiên Tri", "Sự Tái Lâm"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["Go4Fx7oW8fI"]
 url: /baigiang/dang-thanh-phong/da-ni-en/chuong-12/index.html

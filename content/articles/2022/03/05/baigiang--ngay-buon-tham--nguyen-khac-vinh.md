@@ -2,7 +2,7 @@
 title: "Một ngày buồn thảm"
 date: 2022-03-05
 tags: ["Sự Tái Lâm"]
-authors: ["05b6287d-3dfa-4ad4-9152-62c52913b85c"]
+authors: ["nguyen-khac-vinh"]
 plugins: [youtube]
 youtubeIDs: ["5iJ-P_udUak"]
 url: /baigiang/ngay-buon-tham/nguyen-khac-vinh/index.html

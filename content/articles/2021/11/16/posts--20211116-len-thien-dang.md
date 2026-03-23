@@ -2,7 +2,7 @@
 title: "Làm Sao Chúng Ta Lên Được Thiên Đàng"
 date: 2021-11-16
 tags: ["Sự Cứu Rỗi", "Thiên Đàng"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["d1B2JOPsTZs"]
 url: /posts/20211116-len-thien-dang/index.html

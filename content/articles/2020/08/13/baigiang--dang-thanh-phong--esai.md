@@ -2,7 +2,7 @@
 title: "Tiên tri Ê-sai thờ phượng Chúa"
 date: 2020-08-13
 tags: ["Nhân Vật", "Sự Thờ Phượng"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["WW-EdRi1kp8"]
 url: /baigiang/dang-thanh-phong/esai/index.html

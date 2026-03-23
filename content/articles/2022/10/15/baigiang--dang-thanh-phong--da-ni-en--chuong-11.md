@@ -2,7 +2,7 @@
 title: "Vua phương nam & vua phương bắc là ai? - Đa-ni-ên 11"
 date: 2022-10-15
 tags: ["Đa-ni-ên", "Tiên Tri", "Sự Tái Lâm"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["_duP_5EjVv0"]
 url: /baigiang/dang-thanh-phong/da-ni-en/chuong-11/index.html

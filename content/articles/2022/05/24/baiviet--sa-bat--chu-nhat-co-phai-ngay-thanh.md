@@ -2,7 +2,7 @@
 title: "Chủ nhật có phải là ngày thánh?"
 date: 2022-05-24
 tags: ["Hiểu Lầm", "Ngày Sa-bát", "Bài Viết"]
-authors: ["e4f86cb1-43ff-46d3-bf5c-bbfe25a9b521"]
+authors: ["duong-quoc-tung"]
 url: /baiviet/sa-bat/chu-nhat-co-phai-ngay-thanh/index.html
 draft: false
 part_of_series: false

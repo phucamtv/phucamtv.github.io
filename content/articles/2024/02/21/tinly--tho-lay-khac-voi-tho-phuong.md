@@ -3,7 +3,7 @@ title: "Tìm hiểu Thiên Chúa 3 Thân Vị: Có phải \"thờ lạy\" khác 
 date: 2024-02-21
 description: "Phân tích từ nguyên Hy Lạp cho thấy \"thờ lạy\" và \"thờ phượng\" trong Thánh Kinh là cùng một từ. Điều này xác nhận Đức Chúa Giêsu xứng đáng được thờ phượng."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["zXy6ZSa8a9s"]
 url: /tinly/tho-lay-khac-voi-tho-phuong/index.html

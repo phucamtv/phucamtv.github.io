@@ -3,7 +3,7 @@ title: "Lời bình cho bài \"Chúa ba ngôi xuất phát từ đâu\" của nh
 date: 2023-03-21
 description: "Phân tích và phản biện video \"Chúa ba ngôi xuất phát từ đâu\" của nhóm Hải Đăng: chỉ ra lỗi suy luận, trích dẫn Thánh Kinh sai lệch và phương pháp chứng minh ấu trĩ."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["P2uAo2W37Eg"]
 url: /tinly/loi-binh-chua-ba-ngoi-xuat-phat-tu-dau/index.html

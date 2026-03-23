@@ -3,7 +3,7 @@ title: "Nghị định 168 và sáng kiến giãn dân của Francis Hung"
 date: 2025-01-20
 description: "Phân tích Nghị định 168 về xử phạt giao thông và đề xuất giãn dân của Francis Hung - góc nhìn từ thực tế Singapore, Tokyo và bài học khiêm nhường từ Kinh Thánh."
 tags: ["Thời Luận", "Xã Hội", "Việt Nam", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["xMpkAsROvqs"]
 url: /thoiluan/nghi-dinh-168-va-sang-kien-gian-dan/index.html

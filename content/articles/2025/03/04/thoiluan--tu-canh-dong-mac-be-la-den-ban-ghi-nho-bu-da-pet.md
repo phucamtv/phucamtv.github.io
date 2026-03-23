@@ -3,7 +3,7 @@ title: "Từ cánh đồng Mặc-bê-la đến bản ghi nhớ Bu-đa-pét"
 date: 2025-03-04
 description: "Bài học từ lịch sử về sự mong manh của lời hứa con người - từ Abraham mua động Mặc-bê-la đến bản ghi nhớ Budapest và Hiệp định Paris."
 tags: ["Thời Luận", "Lịch Sử", "Thánh Kinh", "Chính Trị"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["i5VLp2paf2w"]
 url: /thoiluan/tu-canh-dong-mac-be-la-den-ban-ghi-nho-bu-da-pet/index.html

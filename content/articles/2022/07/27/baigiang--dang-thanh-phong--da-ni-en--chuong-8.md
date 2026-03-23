@@ -2,7 +2,7 @@
 title: "Sừng nhỏ vươn lên tận trời - Đa-ni-ên 8"
 date: 2022-07-27
 tags: ["Đa-ni-ên", "Tiên Tri", "Sự Tái Lâm"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["xY8o3Z8pebg"]
 url: /baigiang/dang-thanh-phong/da-ni-en/chuong-8/index.html

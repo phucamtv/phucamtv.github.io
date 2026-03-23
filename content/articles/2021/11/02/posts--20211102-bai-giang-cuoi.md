@@ -2,7 +2,7 @@
 title: "Bài giảng cuối cùng của Đức Chúa JESUS"
 date: 2021-11-02
 tags: ["Jesus Christ"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["eonRCKMYsgw"]
 url: /posts/20211102-bai-giang-cuoi/index.html

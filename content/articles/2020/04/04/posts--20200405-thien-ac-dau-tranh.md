@@ -2,7 +2,7 @@
 title: "Thiện-Ác đấu tranh"
 date: 2020-04-04
 tags: ["Thiện Ác"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["CI_fvtqW_pM", "i3P3LZqBAuU", "928sKLjyllY"]
 url: /posts/20200405-thien-ac-dau-tranh/index.html

@@ -3,7 +3,7 @@ title: "Sự thực hữu của Thiên Chúa toàn năng: Sự hiểu biết vư
 date: 2025-03-07
 description: "Khám phá ý nghĩa lời tuyên bố TA LÀ của Đức Chúa Trời qua lăng kính khoa học, triết học và đức tin. Định lý Bất toàn của Godel và giới hạn của lý trí con người."
 tags: ["Thời Luận", "Khoa Học", "Đức Tin", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["3nt2cea-CNM"]
 url: /thoiluan/su-thuc-huu-cua-thien-chua-toan-nang/index.html

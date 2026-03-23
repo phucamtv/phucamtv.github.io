@@ -3,7 +3,7 @@ title: "Đức Giê-hô-va — Đấng chăn dắt dân Israel"
 date: 2024-03-25
 description: "Đức Giê-hô-va xưng mình là Đấng chăn dắt Israel, và Đức Chúa Giê-su cũng tuyên bố Ngài là người chăn hiền lành. Giăng 10 và ý nghĩa Thiên Chúa Ba Thân Vị."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Khải Huyền", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["XBLBV2HtCX8"]
 url: /tinly/duc-gie-ho-va-dang-chan-dat-dan-israel/index.html

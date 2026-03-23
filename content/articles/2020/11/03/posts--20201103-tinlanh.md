@@ -2,7 +2,7 @@
 title: "Có bao nhiêu Phúc Âm trong Thánh Kinh?"
 date: 2020-11-03
 tags: ["Sự Cứu Rỗi"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["oxG7M-3MZhA"]
 url: /posts/20201103-tinlanh/index.html

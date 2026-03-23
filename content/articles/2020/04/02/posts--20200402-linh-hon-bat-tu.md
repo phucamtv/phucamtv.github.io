@@ -2,7 +2,7 @@
 title: "Linh Hồn Bất Tử"
 date: 2020-04-02
 tags: ["Giáo Lý Căn Bản", "Hiểu Lầm"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["TYnd8Rbm7ls"]
 url: /posts/20200402-linh-hon-bat-tu/index.html

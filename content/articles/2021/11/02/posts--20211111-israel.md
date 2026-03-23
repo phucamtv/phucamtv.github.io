@@ -2,7 +2,7 @@
 title: "Israel vẫn là tuyển dân? Sự lừa dối vĩ đại!"
 date: 2021-11-02
 tags: ["Hiểu Lầm", "Israel"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["SjMxk6nJUQs"]
 url: /posts/20211111-israel/index.html

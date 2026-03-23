@@ -2,7 +2,7 @@
 title: "Thảo Luận Thánh Kinh: Khải Huyền 14:6-7 › Sự thờ phượng thật"
 date: 2022-10-31
 tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm", "Sự Thờ Phượng", "Ngày Sa-bát", "Luật Pháp"]
-authors: ["b95fac7b-b3de-43f8-986e-ac3e94ee523f", "6518f9f6-5a7b-4792-b742-87dffcbe5aeb", "a2f208fa-5cce-4c7c-9e5d-bb4ce8d9b617"]
+authors: ["nguyen-thanh-hung", "truong-the-hong", "nguyen-hung-cuong"]
 plugins: [youtube]
 youtubeIDs: ["IIAg-vZ6jew"]
 url: /thongdiep3thiensu/04-su-tho-phuong-that/index.html

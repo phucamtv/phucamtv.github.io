@@ -2,7 +2,7 @@
 title: "Cửa rộng và cửa hẹp"
 date: 2020-04-06
 tags: ["Jesus Christ"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["wpssrNFSPws"]
 url: /posts/20200408-cua-rong-cua-hep/index.html

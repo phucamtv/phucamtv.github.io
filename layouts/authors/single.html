@@ -1,0 +1,68 @@
+{{ define "main" }}
+{{ $slug := .Params.slug }}
+
+<div class="article-layout">
+  <section class="article-main">
+    <nav class="breadcrumb">
+      <a href="{{ "/" | relURL }}">Home</a>
+      <span class="breadcrumb-sep">&rsaquo;</span>
+      <a href="{{ "/authors/" | relURL }}">Authors</a>
+    </nav>
+    <h1>{{ .Title }}</h1>
+    <h2>Bài viết</h2>
+    {{ range where $.Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true }}
+    {{ if in .Params.authors $slug }}
+    <article class="summary">
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+      {{ with .Params.tags }}
+      <span class="tags">
+        {{ range . }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+      </span>
+      {{ end }}
+    </article>
+    {{ end }}
+    {{ end }}
+  </section>
+
+  <aside class="author-sidebar">
+    <div class="sidebar-card">
+      <div class="sidebar-heading">Tác giả</div>
+
+      {{ with .Params.avatar }}
+      <div class="author-avatar">
+        <img src="{{ printf "/images/authors/%s" . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+      </div>
+      {{ end }}
+
+      <div class="sidebar-fields">
+        <div class="sidebar-field">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          <span>{{ .Title }}</span>
+        </div>
+
+        {{ with .Params.country }}
+        <div class="sidebar-field">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+          <span>{{ . }}</span>
+        </div>
+        {{ end }}
+
+        {{ with .Params.phone }}
+        <div class="sidebar-field">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
+          <span>{{ . }}</span>
+        </div>
+        {{ end }}
+
+        {{ with .Params.email }}
+        <div class="sidebar-field">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 7l-10 6L2 7"/></svg>
+          <span>{{ . }}</span>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </aside>
+</div>
+{{ end }}

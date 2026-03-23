@@ -2,7 +2,7 @@
 title: "Ba-bên, Ba-by-lon và Cổng Trời"
 date: 2022-05-01
 tags: ["Sự Tái Lâm"]
-authors: ["05b6287d-3dfa-4ad4-9152-62c52913b85c"]
+authors: ["nguyen-khac-vinh"]
 plugins: [youtube]
 youtubeIDs: ["K14rlFCKqoY"]
 url: /baigiang/nguyen-khac-vinh/ba-by-lon/index.html

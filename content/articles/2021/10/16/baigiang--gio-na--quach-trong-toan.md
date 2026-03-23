@@ -2,7 +2,7 @@
 title: "Giô-na: Lời cầu nguyện từ đáy âm-phủ"
 date: 2021-10-16
 tags: ["Sự Cầu Nguyện"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["AAHgNCQ2mgs"]
 url: /baigiang/gio-na/quach-trong-toan/index.html

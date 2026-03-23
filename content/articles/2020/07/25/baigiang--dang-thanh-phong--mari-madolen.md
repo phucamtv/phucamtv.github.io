@@ -2,7 +2,7 @@
 title: "Ma-ri Ma-đơ-len: người biết ưu tiên việc quan trọng"
 date: 2020-07-25
 tags: ["Nhân Vật"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["hg5yb76wHBE"]
 url: /baigiang/dang-thanh-phong/mari-madolen/index.html

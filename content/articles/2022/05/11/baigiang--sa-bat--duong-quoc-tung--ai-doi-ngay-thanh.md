@@ -2,7 +2,7 @@
 title: "Bài viết: Ai đổi ngày thánh?"
 date: 2022-05-11
 tags: ["Ngày Sa-bát", "Hiểu Lầm", "Bài Viết"]
-authors: ["e4f86cb1-43ff-46d3-bf5c-bbfe25a9b521"]
+authors: ["duong-quoc-tung"]
 url: /baigiang/sa-bat/duong-quoc-tung/ai-doi-ngay-thanh/index.html
 draft: false
 part_of_series: false

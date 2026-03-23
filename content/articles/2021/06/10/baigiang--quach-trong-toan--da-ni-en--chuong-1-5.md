@@ -2,7 +2,7 @@
 title: "Các bài học trong Đa-ni-ên chương 1-5"
 date: 2021-06-10
 tags: ["Tiên Tri"]
-authors: ["3b67b3d2-4a98-4907-aea7-bfcc2ea3fe50"]
+authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["5ZTB68X-YvM", "xfBzqjcoECk", "JNnclI5Z9UU", "XG37NJTcp2c", "yq6HI_pMPnU"]
 url: /baigiang/quach-trong-toan/da-ni-en/chuong-1-5/index.html

@@ -3,7 +3,7 @@ title: "Hong Truong chỉ rõ lỗi ngụy biện sơ đẳng Leon vấp phải"
 date: 2024-02-11
 description: "Phân tích lỗi ngụy biện logic sơ đẳng của Leon Trần khi chống đối thần tính Đức Chúa Giêsu. Thánh Kinh dạy rõ Ngài vừa là Con Đức Chúa Trời vừa xứng đáng được thờ phượng."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["VYgXj4FsBis"]
 url: /tinly/loi-nguy-bien-so-dang-leon/index.html

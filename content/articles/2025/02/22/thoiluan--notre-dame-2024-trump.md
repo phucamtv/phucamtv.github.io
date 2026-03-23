@@ -3,7 +3,7 @@ title: "Thấy gì khi Donald Trump tham dự lễ tái khánh thành Nhà thờ
 date: 2025-02-22
 description: "Phân tích sự kiện Trump tham dự lễ tái khánh thành Nhà thờ Đức Bà Paris 2024 qua lăng kính Thánh Kinh và di sản Cải cách Tin Lành của Martin Luther."
 tags: ["Thời Luận", "Chính Trị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["an_4LILrjyk"]
 url: /thoiluan/notre-dame-2024-trump/index.html

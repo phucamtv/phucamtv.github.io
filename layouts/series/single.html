@@ -1,0 +1,45 @@
+{{ define "main" }}
+{{ $seriesID := .Params.seriesID }}
+{{ $series := index $.Site.Data.series $seriesID }}
+
+<div class="article-layout">
+  <section class="article-main">
+    <h1>{{ $series.name }}</h1>
+    <h2>Bài viết</h2>
+    {{ range where $.Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true }}
+    {{ if in .Params.series $seriesID }}
+    <article class="summary">
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+      {{ with .Params.tags }}
+      <span class="tags">
+        {{ range . }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+      </span>
+      {{ end }}
+    </article>
+    {{ end }}
+    {{ end }}
+  </section>
+
+  {{ with $series }}
+  <aside class="author-sidebar">
+    <div class="sidebar-card">
+      <div class="sidebar-heading">Loạt bài</div>
+
+      {{ with .avatar }}
+      <div class="author-avatar">
+        <img src="{{ printf "/images/series/%s" . | relURL }}" alt="{{ $series.name }}" loading="lazy">
+      </div>
+      {{ end }}
+
+      <div class="sidebar-fields">
+        <div class="sidebar-field">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+          <span>{{ .name }}</span>
+        </div>
+      </div>
+    </div>
+  </aside>
+  {{ end }}
+</div>
+{{ end }}

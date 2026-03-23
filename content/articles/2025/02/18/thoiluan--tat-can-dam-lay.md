@@ -3,7 +3,7 @@ title: "Ảo tưởng tát cạn đầm lầy: Bài học về giới hạn con 
 date: 2025-02-18
 description: "Phân tích nỗ lực tát cạn đầm lầy của Donald Trump và bài học tâm linh sâu sắc về giới hạn con người trước tham nhũng hệ thống từ góc nhìn Thánh Kinh."
 tags: ["Thời Luận", "Tham Nhũng", "Chính Trị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["-CCCl0IbfbQ"]
 url: /thoiluan/tat-can-dam-lay/index.html

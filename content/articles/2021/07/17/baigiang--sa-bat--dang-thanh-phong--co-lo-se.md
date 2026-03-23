@@ -2,7 +2,7 @@
 title: "Sách Cô-lô-se và ngày Sa-bát"
 date: 2021-07-17
 tags: ["Ngày Sa-bát", "Hiểu Lầm"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["5LsF1PpS3i0"]
 url: /baigiang/sa-bat/dang-thanh-phong/co-lo-se/index.html

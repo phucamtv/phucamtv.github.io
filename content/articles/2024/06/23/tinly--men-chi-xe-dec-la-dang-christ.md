@@ -3,7 +3,7 @@ title: "Mên-chi-xê-đéc là Đấng Christ? | Thiên Chúa 3 Thân Vị"
 date: 2024-06-23
 description: "Tìm hiểu Mên-chi-xê-đéc có phải là Đấng Christ không? Phân tích ba chức vụ của Đấng Christ: tiên tri, thầy tế lễ, và vua theo Thánh Kinh."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["-MX5X9totCo"]
 url: /tinly/men-chi-xe-dec-la-dang-christ/index.html

@@ -3,7 +3,7 @@ title: "Đức Chúa Jesus: Đấng chủ tể của ngày Sa-bát | Thiên Chú
 date: 2024-04-07
 description: "Đức Chúa Jesus tuyên bố Ngài là chủ của ngày Sa-bát. Phân tích Mác chương 2-3 về ý nghĩa ngày Sa-bát và thần tính của Đấng Christ."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh"]
-authors: ["6518f9f6-5a7b-4792-b742-87dffcbe5aeb"]
+authors: ["truong-the-hong"]
 plugins: [youtube]
 youtubeIDs: ["EkszahegMec"]
 url: /tinly/duc-chua-jesus-dang-chu-te-ngay-sa-bat/index.html

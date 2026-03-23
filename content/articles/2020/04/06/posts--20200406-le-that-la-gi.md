@@ -2,7 +2,7 @@
 title: "Lẽ thật là gì?"
 date: 2020-04-06
 tags: ["Jesus Christ"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["Jxn-ivX8x3o"]
 url: /posts/20200406-le-that-la-gi/index.html

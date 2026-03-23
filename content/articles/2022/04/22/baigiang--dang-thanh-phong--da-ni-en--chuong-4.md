@@ -2,7 +2,7 @@
 title: "Một người nhưng bốn hình ảnh - Đa-ni-ên 4"
 date: 2022-04-22
 tags: ["Đa-ni-ên", "Tiên Tri", "Sự Tái Lâm"]
-authors: ["7c7b4433-48d5-4fb2-a090-644fa0a59681"]
+authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["MlRDc-nARWs"]
 url: /baigiang/dang-thanh-phong/da-ni-en/chuong-4/index.html

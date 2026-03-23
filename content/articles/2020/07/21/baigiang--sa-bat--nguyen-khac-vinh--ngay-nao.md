@@ -2,7 +2,7 @@
 title: "Ngày nào là ngày của Chúa"
 date: 2020-07-21
 tags: ["Ngày Sa-bát", "Hiểu Lầm"]
-authors: ["05b6287d-3dfa-4ad4-9152-62c52913b85c"]
+authors: ["nguyen-khac-vinh"]
 plugins: [youtube]
 youtubeIDs: ["ST4rP2QwusM"]
 url: /baigiang/sa-bat/nguyen-khac-vinh/ngay-nao/
