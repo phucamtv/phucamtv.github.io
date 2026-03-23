@@ -9,4 +9,4 @@ part_of_series: false
 notion_id: ff6f18d1-6afa-4de8-b0bf-4b19d56c6158
 ---
 
-{% Playlist id="PLDsf8pkV3dAFwUN6rN3ghN5jp1hMyGZzj" %}
+{{< Playlist id="PLDsf8pkV3dAFwUN6rN3ghN5jp1hMyGZzj" >}}

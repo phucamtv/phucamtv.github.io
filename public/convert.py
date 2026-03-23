@@ -100,6 +100,11 @@ def blocks_to_md(blocks, indent=0):
 
         if btype == "paragraph":
             text = rich_text_to_md(content.get("rich_text", []))
+            text = re.sub(
+                r'\{% Playlist id="([^"]+)" %\}',
+                r'{{< Playlist id="\1" >}}',
+                text,
+            )
             lines.append(f"{prefix}{text}")
             lines.append("")
             numbered_counter = 0

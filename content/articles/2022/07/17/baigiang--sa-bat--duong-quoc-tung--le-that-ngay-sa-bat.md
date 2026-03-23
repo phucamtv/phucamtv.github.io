@@ -9,6 +9,6 @@ part_of_series: false
 notion_id: 8270e39f-e339-41c6-b58d-c43a662e6123
 ---
 
-{% Playlist id="PL4eFesMwCbEdEfwtE-0d4VRMxg17CDOV0" %}
+{{< Playlist id="PL4eFesMwCbEdEfwtE-0d4VRMxg17CDOV0" >}}
 
 > [https://sabat.phucam.tv](https://sabat.phucam.tv/)
