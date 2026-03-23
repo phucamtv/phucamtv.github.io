@@ -10,6 +10,7 @@ title = "Phúc Âm"
 [permalinks]
   [permalinks.page]
     articles = "/:sections/:slug/"
+    doctrines = "/tin-ly/:slug/"
 
 [markup]
   [markup.goldmark]

@@ -1,7 +1,6 @@
 {{ define "main" }}
 <section class="home" style="max-width:800px">
   {{ .Content }}
-  <h2>Bài mới nhất</h2>
   {{ $pages := where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true }}
   {{ $paginator := .Paginate $pages }}
   {{ range $paginator.Pages }}

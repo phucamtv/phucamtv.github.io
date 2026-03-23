@@ -1,0 +1,38 @@
+{{ define "main" }}
+<section class="doctrines-index">
+  <nav class="breadcrumb">
+    <a href="{{ "/" | relURL }}">Home</a>
+    <span class="breadcrumb-sep">&rsaquo;</span>
+    <span>Tín Lý</span>
+  </nav>
+
+  <div class="doctrines-hero">
+    <div class="doctrines-hero-cross" aria-hidden="true">&#10013;</div>
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}
+    <div class="doctrines-hero-quote">{{ . }}</div>
+    {{ end }}
+  </div>
+
+  <ol class="doctrines-list">
+    {{ range .Pages.ByWeight }}
+    {{ if gt .Weight 0 }}
+    <li class="doctrine-item">
+      <a href="{{ .Permalink }}" class="doctrine-item-link">
+        <span class="doctrine-num">{{ printf "%02d" .Weight }}</span>
+        <div class="doctrine-item-body">
+          <span class="doctrine-item-title">{{ .Title }}</span>
+          {{ with .Params.keywords }}
+          <span class="doctrine-item-keywords">
+            {{ range . }}<span class="doctrine-kw">{{ . }}</span>{{ end }}
+          </span>
+          {{ end }}
+        </div>
+        <svg class="doctrine-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+      </a>
+    </li>
+    {{ end }}
+    {{ end }}
+  </ol>
+</section>
+{{ end }}
