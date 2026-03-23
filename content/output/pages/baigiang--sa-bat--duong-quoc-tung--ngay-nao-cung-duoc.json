@@ -1,0 +1,153 @@
+{
+  "id": "c0a94f8c-f778-4f3e-86f4-21e923aec5f1",
+  "title": "Trả lời thắc mắc: Ngày nào cũng được?",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-01-12T22:43:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "4f55a907-d9fb-47ac-9078-5102f4a196c7",
+          "name": "Trả Lời Thắc Mắc",
+          "color": "red"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "e4f86cb1-43ff-46d3-bf5c-bbfe25a9b521"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2022-05-31",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/baigiang/sa-bat/duong-quoc-tung/ngay-nao-cung-duoc/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/baigiang/sa-bat/duong-quoc-tung/ngay-nao-cung-duoc/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Trả lời thắc mắc: Ngày nào cũng được?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Trả lời thắc mắc: Ngày nào cũng được?",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "561fac6e-6293-4d73-87e4-96baa849e196",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c0a94f8c-f778-4f3e-86f4-21e923aec5f1"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "https://www.youtube.com/watch?v=M4PQFwQZ-rI"
+        }
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "5e748b4e-196b-41f6-ac22-86ad5dc41b1b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "c0a94f8c-f778-4f3e-86f4-21e923aec5f1"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/Tr-l-i-th-c-m-c-Ng-y-n-o-c-ng-c-c0a94f8cf7784f3e86f421e923aec5f1"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "9587d108-6b1c-4e5d-9b5d-ab9818809055",
+  "title": "Hình ảnh đặc biệt của Đức Chúa JESUS - Khải Huyền 1",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-03-06T13:06:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "8fbf13ae-6c70-4fa8-afd7-80de93ca0315",
+          "name": "Khải Huyền",
+          "color": "yellow"
+        },
+        {
+          "id": "dc82287f-561d-4631-9976-3a0990de7836",
+          "name": "Tiên Tri",
+          "color": "yellow"
+        },
+        {
+          "id": "f8c09c9e-8316-4db8-a63f-056d25175c54",
+          "name": "Sự Tái Lâm",
+          "color": "default"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "7c7b4433-48d5-4fb2-a090-644fa0a59681"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": true
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2022-11-25",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/baigiang/dang-thanh-phong/khai-huyen/chuong-01/hinh-anh-dac-biet.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/baigiang/dang-thanh-phong/khai-huyen/chuong-01/hinh-anh-dac-biet.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Hình ảnh đặc biệt của Đức Chúa JESUS - Khải Huyền 1",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Hình ảnh đặc biệt của Đức Chúa JESUS - Khải Huyền 1",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "8672310f-a25a-4eb4-845f-ac0d36c4ab7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "9587d108-6b1c-4e5d-9b5d-ab9818809055"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "https://www.youtube.com/watch?v=R6ti_F4fHHY"
+        }
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/H-nh-nh-c-bi-t-c-a-c-Ch-a-JESUS-Kh-i-Huy-n-1-9587d1086b1c4e5d9b5dab9818809055"
+}

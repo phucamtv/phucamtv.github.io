@@ -1,0 +1,137 @@
+{
+  "id": "50ab3452-4527-4658-9a57-79f296b5a005",
+  "title": "Vua phương nam & vua phương bắc là ai? - Đa-ni-ên 11",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-03-06T13:06:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "4f11a091-7245-420d-a384-33f90555a266",
+          "name": "Đa-ni-ên",
+          "color": "orange"
+        },
+        {
+          "id": "dc82287f-561d-4631-9976-3a0990de7836",
+          "name": "Tiên Tri",
+          "color": "yellow"
+        },
+        {
+          "id": "f8c09c9e-8316-4db8-a63f-056d25175c54",
+          "name": "Sự Tái Lâm",
+          "color": "default"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "7c7b4433-48d5-4fb2-a090-644fa0a59681"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": true
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2022-10-15",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/baigiang/dang-thanh-phong/da-ni-en/chuong-11/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/baigiang/dang-thanh-phong/da-ni-en/chuong-11/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Vua phương nam & vua phương bắc là ai? - Đa-ni-ên 11",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Vua phương nam & vua phương bắc là ai? - Đa-ni-ên 11",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "0cd973a8-5080-408f-91c4-985e9b59ac2e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "50ab3452-4527-4658-9a57-79f296b5a005"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "https://www.youtube.com/watch?v=_duP_5EjVv0"
+        }
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/Vua-ph-ng-nam-vua-ph-ng-b-c-l-ai-a-ni-n-11-50ab3452452746589a5779f296b5a005"
+}

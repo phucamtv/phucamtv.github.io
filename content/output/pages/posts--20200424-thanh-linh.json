@@ -1,0 +1,132 @@
+{
+  "id": "ebf884c4-ae1b-47ad-8ae6-30f2435ad385",
+  "title": "Đức Thánh Linh có phải là Đức Chúa Trời?",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-03-06T13:06:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "9e38ab4f-8608-4607-899a-0c68985ebd80",
+          "name": "Giáo Lý Căn Bản",
+          "color": "red"
+        },
+        {
+          "id": "7421233b-fd52-443a-8e76-6cb845b593e1",
+          "name": "Đức Thánh Linh",
+          "color": "default"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "7c7b4433-48d5-4fb2-a090-644fa0a59681"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2020-04-24",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/posts/20200424-thanh-linh/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/posts/20200424-thanh-linh/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Đức Thánh Linh có phải là Đức Chúa Trời?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Đức Thánh Linh có phải là Đức Chúa Trời?",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "a38a1cb7-7bcf-4ba1-8ca5-4ee2976fe9eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ebf884c4-ae1b-47ad-8ae6-30f2435ad385"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "https://www.youtube.com/watch?v=B5hXBl1quM8"
+        }
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/c-Th-nh-Linh-c-ph-i-l-c-Ch-a-Tr-i-ebf884c4ae1b47ad8ae630f2435ad385"
+}

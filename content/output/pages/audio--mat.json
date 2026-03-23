@@ -1,0 +1,168 @@
+{
+  "id": "388217ad-802d-4b38-82f1-798bc55d670c",
+  "title": "Đọc Thánh Kinh: Phúc-âm theo Ma-thi-ơ",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-03-06T13:35:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "76120401-b816-4ed9-af2d-bc7fd2991366",
+          "name": "Thánh Kinh",
+          "color": "brown"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "6518f9f6-5a7b-4792-b742-87dffcbe5aeb"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2022-02-23",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/audio/mat/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/audio/mat/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Đọc Thánh Kinh: Phúc-âm theo Ma-thi-ơ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Đọc Thánh Kinh: Phúc-âm theo Ma-thi-ơ",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "918603f8-2266-436c-943d-4293b13fbe0d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "388217ad-802d-4b38-82f1-798bc55d670c"
+      },
+      "created_time": "2023-03-06T13:35:00.000Z",
+      "last_edited_time": "2023-03-06T13:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "{% Playlist id=\"PLw6g1eaPSXUGX6ZZuGSbXkUYvfFoT3_w0\" %}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "{% Playlist id=\"PLw6g1eaPSXUGX6ZZuGSbXkUYvfFoT3_w0\" %}",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "8ce2f6a4-b08d-4044-b176-6ec8992e2039",
+      "parent": {
+        "type": "page_id",
+        "page_id": "388217ad-802d-4b38-82f1-798bc55d670c"
+      },
+      "created_time": "2023-03-06T13:35:00.000Z",
+      "last_edited_time": "2023-03-06T13:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/c-Th-nh-Kinh-Ph-c-m-theo-Ma-thi-388217ad802d4b3882f1798bc55d670c"
+}

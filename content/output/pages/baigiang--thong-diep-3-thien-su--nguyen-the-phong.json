@@ -1,0 +1,183 @@
+{
+  "id": "88276695-34f4-4eac-95e1-c4d252c59685",
+  "title": "Loạt bài: Thông điệp 3 thiên sứ",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-03-07T12:05:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "f8c09c9e-8316-4db8-a63f-056d25175c54",
+          "name": "Sự Tái Lâm",
+          "color": "default"
+        },
+        {
+          "id": "f408062d-bd36-4034-8274-092598939494",
+          "name": "Hội Thánh",
+          "color": "orange"
+        },
+        {
+          "id": "eca4a5fe-c592-4963-b2f4-c872bef1e713",
+          "name": "Lời Cảnh Báo",
+          "color": "yellow"
+        },
+        {
+          "id": "8fbf13ae-6c70-4fa8-afd7-80de93ca0315",
+          "name": "Khải Huyền",
+          "color": "yellow"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "10960e5e-3c73-4d07-b600-c35537c638ca"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2022-02-18",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/baigiang/thong-diep-3-thien-su/nguyen-the-phong/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/baigiang/thong-diep-3-thien-su/nguyen-the-phong/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Loạt bài: Thông điệp 3 thiên sứ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Loạt bài: Thông điệp 3 thiên sứ",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "e5c1e8bd-affb-4d64-b2b8-d0f6cf807d83",
+      "parent": {
+        "type": "page_id",
+        "page_id": "88276695-34f4-4eac-95e1-c4d252c59685"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-03-07T12:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "{% Playlist id=\"PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz\" %}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "{% Playlist id=\"PLvM630AgoC1SvxwejBgTFp-N0IQrMAysz\" %}",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "02747459-49b5-4d1a-b521-d9a09ace4b11",
+      "parent": {
+        "type": "page_id",
+        "page_id": "88276695-34f4-4eac-95e1-c4d252c59685"
+      },
+      "created_time": "2023-03-07T12:05:00.000Z",
+      "last_edited_time": "2023-03-07T12:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/Lo-t-b-i-Th-ng-i-p-3-thi-n-s-8827669534f44eac95e1c4d252c59685"
+}

@@ -1,0 +1,5924 @@
+{
+  "id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3",
+  "title": "Giao Ước của Thiên Chúa",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-01-27T09:48:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "64249d8a-5303-47ce-9e0d-e1bf2c4ee134",
+          "name": "Sự Cứu Rỗi",
+          "color": "orange"
+        },
+        {
+          "id": "9ab8cb08-8054-4e4d-a13e-0c521e73e81e",
+          "name": "Giao Ước",
+          "color": "green"
+        },
+        {
+          "id": "9e38ab4f-8608-4607-899a-0c68985ebd80",
+          "name": "Giáo Lý Căn Bản",
+          "color": "red"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "7c7b4433-48d5-4fb2-a090-644fa0a59681"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2020-04-02",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/posts/20200402-giao-uoc/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/posts/20200402-giao-uoc/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Giao Ước của Thiên Chúa",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "Giao Ước của Thiên Chúa",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "2685f4a2-65b3-4704-b9bd-47ed2c0a1036",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-26T02:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Giao ước của Thiên Chúa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Giao ước của Thiên Chúa",
+            "href": null
+          }
+        ],
+        "type": "external",
+        "external": {
+          "url": "https://www.youtube.com/watch?v=FXgVvfQL25w"
+        }
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "d1e534ee-aac5-44db-8546-1395893fa228",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:04:00.000Z",
+      "last_edited_time": "2023-01-26T01:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "table_of_contents",
+      "table_of_contents": {
+        "color": "gray"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "4e51e461-8740-419f-95bc-d0a5ed966901",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:46:00.000Z",
+      "last_edited_time": "2023-01-26T01:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "b321abf0-4e4b-4c2b-bcab-143ea0fa7b3f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:46:00.000Z",
+      "last_edited_time": "2023-01-26T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔵 Mục đích của Giao Ước",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔵 Mục đích của Giao Ước",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "5f3a5c1c-3e90-4cf2-9dce-5826a328ebd0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:56:00.000Z",
+      "last_edited_time": "2023-01-26T01:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Xuất 19:1-6",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Xuất 19:1-6",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "d35e91d8-e9ea-494e-85d3-67742cbd9a74",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5f3a5c1c-3e90-4cf2-9dce-5826a328ebd0"
+          },
+          "created_time": "2023-01-26T00:47:00.000Z",
+          "last_edited_time": "2023-01-26T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Tháng thứ ba, sau khi ra khỏi xứ Ê-díp-tô, trong ngày đó dân Y-sơ-ra-ên đến nơi đồng vắng Si-na-i.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Tháng thứ ba, sau khi ra khỏi xứ Ê-díp-tô, trong ngày đó dân Y-sơ-ra-ên đến nơi đồng vắng Si-na-i.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "b9e2d89b-d192-4b14-9977-b1da2aff9140",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5f3a5c1c-3e90-4cf2-9dce-5826a328ebd0"
+          },
+          "created_time": "2023-01-26T00:47:00.000Z",
+          "last_edited_time": "2023-01-26T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Từ Rê-phi-đim ra đi, đến nơi đồng vắng Si-na-i, và đóng trại tại đó, đối diện cùng núi.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Từ Rê-phi-đim ra đi, đến nơi đồng vắng Si-na-i, và đóng trại tại đó, đối diện cùng núi.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "38e36a0a-ee3c-4f0f-a742-86e164b041e0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5f3a5c1c-3e90-4cf2-9dce-5826a328ebd0"
+          },
+          "created_time": "2023-01-26T00:47:00.000Z",
+          "last_edited_time": "2023-01-26T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Môi-se bèn lên đến Đức Chúa Trời, Đức Giê-hô-va ở trên núi gọi người mà phán rằng: Ngươi hãy nói như vầy cho nhà Gia-cốp, và tỏ điều nầy cho dân Y-sơ-ra-ên:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Môi-se bèn lên đến Đức Chúa Trời, Đức Giê-hô-va ở trên núi gọi người mà phán rằng: Ngươi hãy nói như vầy cho nhà Gia-cốp, và tỏ điều nầy cho dân Y-sơ-ra-ên:",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "71ea11b8-1f73-4d1b-90b6-5344a81c02af",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5f3a5c1c-3e90-4cf2-9dce-5826a328ebd0"
+          },
+          "created_time": "2023-01-26T00:47:00.000Z",
+          "last_edited_time": "2023-01-26T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Các ngươi đã thấy điều ta làm cho người Ê-díp-tô, ta chở các ngươi trên cánh chim ưng làm sao, và dẫn các ngươi đến cùng ta thế nào.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Các ngươi đã thấy điều ta làm cho người Ê-díp-tô, ta chở các ngươi trên cánh chim ưng làm sao, và dẫn các ngươi đến cùng ta thế nào.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "ed9669fe-eb08-4575-b422-2167ee4a7313",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5f3a5c1c-3e90-4cf2-9dce-5826a328ebd0"
+          },
+          "created_time": "2023-01-26T00:47:00.000Z",
+          "last_edited_time": "2023-01-26T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Vậy, bây giờ, ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Vậy, bây giờ, ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "nếu các ngươi vâng lời ta và giữ sự giao ước ta",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": true,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "nếu các ngươi vâng lời ta và giữ sự giao ước ta",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ", thì trong muôn dân, các ngươi sẽ thuộc riêng về ta, vì cả thế gian đều thuộc về ta.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ", thì trong muôn dân, các ngươi sẽ thuộc riêng về ta, vì cả thế gian đều thuộc về ta.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "56fd3326-89d1-488d-9294-589314a1c662",
+          "parent": {
+            "type": "block_id",
+            "block_id": "5f3a5c1c-3e90-4cf2-9dce-5826a328ebd0"
+          },
+          "created_time": "2023-01-26T00:47:00.000Z",
+          "last_edited_time": "2023-01-26T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Các ngươi sẽ thành một nước thầy tế lễ, cùng một dân tộc thánh cho ta. Bấy nhiêu lời đó ngươi sẽ nói lại cùng dân Y-sơ-ra-ên.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Các ngươi sẽ thành một nước thầy tế lễ, cùng một dân tộc thánh cho ta. Bấy nhiêu lời đó ngươi sẽ nói lại cùng dân Y-sơ-ra-ên.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "9145630b-9bc0-4534-9a11-2e7acbd46719",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:48:00.000Z",
+      "last_edited_time": "2023-01-26T00:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Làm tuyển dân, dân sự của Thiên Chúa.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Làm tuyển dân, dân sự của Thiên Chúa.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "4c5978ce-8c58-464e-b5b8-3859fc4d9152",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:48:00.000Z",
+      "last_edited_time": "2023-01-26T00:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Chấp nhận sự bảo vệ của Ngài",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Chấp nhận sự bảo vệ của Ngài",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "aa3a8ce3-fce1-4f50-ac25-b3fd8cc89023",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:48:00.000Z",
+      "last_edited_time": "2023-01-26T00:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Thiên Chúa đã cứu họ rồi, Giao Ước: muốn tiếp tục thuộc về Ngài.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Thiên Chúa đã cứu họ rồi, Giao Ước: muốn tiếp tục thuộc về Ngài.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "8931bcd3-4819-4adc-bc06-9e606001448f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:48:00.000Z",
+      "last_edited_time": "2023-01-26T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔵 Nội dung của Giao ước",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔵 Nội dung của Giao ước",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "f9f808fa-5d47-4ad6-8777-1c7d25e4ca79",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:56:00.000Z",
+      "last_edited_time": "2023-01-26T00:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "10 Điều Răn chính là nội dung của Giao Ước.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "10 Điều Răn chính là nội dung của Giao Ước.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "d24be16e-f435-4a37-97a8-f6f42edd963a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:50:00.000Z",
+      "last_edited_time": "2023-01-26T00:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Phục Truyền 4:11, 13",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Phục Truyền 4:11, 13",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "6b22d7a0-ed57-4fdd-b884-24d4737429e8",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d24be16e-f435-4a37-97a8-f6f42edd963a"
+          },
+          "created_time": "2023-01-26T00:49:00.000Z",
+          "last_edited_time": "2023-01-26T00:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Vậy, các ngươi lại gần và đứng dưới núi. --- Vả, núi cả lửa cháy cho đến tận trời; có sự tối tăm, mây mịt mịt và đen kịt. ---",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Vậy, các ngươi lại gần và đứng dưới núi. --- Vả, núi cả lửa cháy cho đến tận trời; có sự tối tăm, mây mịt mịt và đen kịt. ---",
+                "href": null
+              }
+            ],
+            "color": "default",
+            "list_start_index": 11
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "e3b3206f-6166-4202-93d1-cffd2a60adce",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d24be16e-f435-4a37-97a8-f6f42edd963a"
+          },
+          "created_time": "2023-01-26T00:49:00.000Z",
+          "last_edited_time": "2023-01-26T00:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Từ trong lửa, Đức Giê-hô-va phán cùng các ngươi; các ngươi nghe một tiếng nói, nhưng không thấy một hình trạng nào; chỉ nghe một tiếng mà thôi.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Từ trong lửa, Đức Giê-hô-va phán cùng các ngươi; các ngươi nghe một tiếng nói, nhưng không thấy một hình trạng nào; chỉ nghe một tiếng mà thôi.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "3c57fa9d-0194-46e3-a4f1-cdc29a3a2fcc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d24be16e-f435-4a37-97a8-f6f42edd963a"
+          },
+          "created_time": "2023-01-26T00:49:00.000Z",
+          "last_edited_time": "2023-01-26T00:50:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ngài rao truyền cho các ngươi biết sự giao ước của Ngài, tức là mười điều răn, khiến các ngươi gìn giữ lấy, và Ngài chép mười điều răn ấy trên hai bảng đá.⚓",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ngài rao truyền cho các ngươi biết sự giao ước của Ngài, tức là mười điều răn, khiến các ngươi gìn giữ lấy, và Ngài chép mười điều răn ấy trên hai bảng đá.⚓",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "999913b4-5f1d-40f1-a6a5-efefadb9c319",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:51:00.000Z",
+      "last_edited_time": "2023-01-26T00:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Phục Truyền 9:9-10",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Phục Truyền 9:9-10",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "85a083de-6e05-4ff3-865c-c15efabeab42",
+          "parent": {
+            "type": "block_id",
+            "block_id": "999913b4-5f1d-40f1-a6a5-efefadb9c319"
+          },
+          "created_time": "2023-01-26T00:49:00.000Z",
+          "last_edited_time": "2023-01-26T00:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Khi ta đi lên núi đặng lãnh hai bảng đá, tức là hai bảng về sự giao ước mà Đức Giê-hô-va đã lập cùng các ngươi, ta ở trên núi bốn mươi ngày và bốn mươi đêm, không ăn bánh, chẳng uống nước;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Khi ta đi lên núi đặng lãnh hai bảng đá, tức là hai bảng về sự giao ước mà Đức Giê-hô-va đã lập cùng các ngươi, ta ở trên núi bốn mươi ngày và bốn mươi đêm, không ăn bánh, chẳng uống nước;",
+                "href": null
+              }
+            ],
+            "color": "default",
+            "list_start_index": 9
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "f800a40c-b3bc-40e6-9365-f1bfddae4217",
+          "parent": {
+            "type": "block_id",
+            "block_id": "999913b4-5f1d-40f1-a6a5-efefadb9c319"
+          },
+          "created_time": "2023-01-26T00:50:00.000Z",
+          "last_edited_time": "2023-01-26T00:56:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "và Đức Giê-hô-va trao cho ta hai bảng đá, bởi ngón tay Đức Chúa Trời viết ra, có đủ những lời mà Đức Giê-hô-va từ giữa lửa, tại trên núi, có phán ra cùng các ngươi, trong ngày nhóm hiệp.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "và Đức Giê-hô-va trao cho ta hai bảng đá, bởi ngón tay Đức Chúa Trời viết ra, có đủ những lời mà Đức Giê-hô-va từ giữa lửa, tại trên núi, có phán ra cùng các ngươi, trong ngày nhóm hiệp.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "3d5365ce-5dd1-4dbd-b71a-6f5d0f50ed12",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:51:00.000Z",
+      "last_edited_time": "2023-01-26T01:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔵 Dân Israel có giữ được giao ước?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔵 Dân Israel có giữ được giao ước?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "2baf9ae3-c6a0-47af-8f9c-9edb26aef667",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:56:00.000Z",
+      "last_edited_time": "2023-01-26T00:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Không!",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Không!",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "ffa88750-775f-48a9-b191-bc91371d54dd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:51:00.000Z",
+      "last_edited_time": "2023-01-26T00:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Xuất 24:12, 18\n\n12/ Đức Giê-hô-va phán cùng Môi-se rằng: Hãy lên núi, đến cùng ta và ở lại đó; ta sẽ ban cho ngươi bảng đá, luật pháp và các điều răn của ta đã chép đặng dạy dân sự.\n\n18/ Môi-se vào giữa đám mây, lên núi, ở tại đó trong bốn mươi ngày và bốn mươi đêm.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Xuất 24:12, 18\n\n12/ Đức Giê-hô-va phán cùng Môi-se rằng: Hãy lên núi, đến cùng ta và ở lại đó; ta sẽ ban cho ngươi bảng đá, luật pháp và các điều răn của ta đã chép đặng dạy dân sự.\n\n18/ Môi-se vào giữa đám mây, lên núi, ở tại đó trong bốn mươi ngày và bốn mươi đêm.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:51:00.000Z",
+      "last_edited_time": "2023-01-26T00:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Xuất 32:1-10, 15-20\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Xuất 32:1-10, 15-20\n",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "6301feaf-51d6-44c9-abc0-cf48f393d580",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:53:00.000Z",
+          "last_edited_time": "2023-01-26T00:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Dân sự thấy Môi-se ở trên núi chậm xuống, bèn nhóm lại chung quanh A-rôn mà nói rằng: Nào! hãy làm các thần để đi trước chúng tôi đi, vì về phần Môi-se nầy, là người đã dẫn chúng tôi ra khỏi xứ Ê-díp-tô, chúng tôi chẳng biết điều chi đã xảy đến cho người rồi.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Dân sự thấy Môi-se ở trên núi chậm xuống, bèn nhóm lại chung quanh A-rôn mà nói rằng: Nào! hãy làm các thần để đi trước chúng tôi đi, vì về phần Môi-se nầy, là người đã dẫn chúng tôi ra khỏi xứ Ê-díp-tô, chúng tôi chẳng biết điều chi đã xảy đến cho người rồi.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "ab8def5d-e33f-435b-a9a8-becb6579f973",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:53:00.000Z",
+          "last_edited_time": "2023-01-26T00:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "A-rôn đáp rằng: Hãy lột những vòng vàng đeo nơi tai vợ, con trai và con gái các ngươi đi, rồi đem lại cho ta.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "A-rôn đáp rằng: Hãy lột những vòng vàng đeo nơi tai vợ, con trai và con gái các ngươi đi, rồi đem lại cho ta.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "136fa5cf-e268-444f-9d8a-ec6ba6ba69a0",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:53:00.000Z",
+          "last_edited_time": "2023-01-26T00:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Hết thảy đều lột vòng vàng nơi tai mình mà đem lại cho A-rôn;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Hết thảy đều lột vòng vàng nơi tai mình mà đem lại cho A-rôn;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "bf74c6fc-1a0d-4ccb-b7dd-071d12b95298",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:53:00.000Z",
+          "last_edited_time": "2023-01-26T00:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "người nhận lấy nơi tay họ, và dùng đục làm thành một bò con đúc. Dân chúng nói rằng: Hỡi Y-sơ-ra-ên! nầy là các thần của ngươi đã đem ngươi ra khỏi xứ Ê-díp-tô.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "người nhận lấy nơi tay họ, và dùng đục làm thành một bò con đúc. Dân chúng nói rằng: Hỡi Y-sơ-ra-ên! nầy là các thần của ngươi đã đem ngươi ra khỏi xứ Ê-díp-tô.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "6e6dd2b1-1bc0-4444-adfc-8ae4b3a2d541",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:53:00.000Z",
+          "last_edited_time": "2023-01-26T00:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "A-rôn thấy vậy, bèn lập một bàn thờ trước mặt tượng bò đó; đoạn, người la lên rằng: Sáng mai sẽ có lễ tôn trọng Đức Giê-hô-va!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "A-rôn thấy vậy, bèn lập một bàn thờ trước mặt tượng bò đó; đoạn, người la lên rằng: Sáng mai sẽ có lễ tôn trọng Đức Giê-hô-va!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "d88975ac-2ac6-4dca-b645-ad0c282541e9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:53:00.000Z",
+          "last_edited_time": "2023-01-26T00:53:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Sáng mai dân chúng bèn thức dậy sớm, dâng các của lễ thiêu và lễ thù ân; ngồi mà ăn uống, đoạn đứng dậy mà vui chơi.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Sáng mai dân chúng bèn thức dậy sớm, dâng các của lễ thiêu và lễ thù ân; ngồi mà ăn uống, đoạn đứng dậy mà vui chơi.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "a0ac58f9-6342-426c-80ca-1f3296128735",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:53:00.000Z",
+          "last_edited_time": "2023-01-26T00:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Đức Giê-hô-va bèn phán cùng Môi-se rằng: Hãy xuống đi, vì dân mà ngươi đưa ra khỏi xứ Ê-díp-tô đã bại hoại rồi,",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Đức Giê-hô-va bèn phán cùng Môi-se rằng: Hãy xuống đi, vì dân mà ngươi đưa ra khỏi xứ Ê-díp-tô đã bại hoại rồi,",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "0ab0f66a-1893-43dc-8b48-856dde7bc910",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:54:00.000Z",
+          "last_edited_time": "2023-01-26T00:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "vội bỏ đạo ta truyền dạy, đúc một con bò tơ, mọp trước tượng bò đó và dâng của lễ cho nó mà nói rằng: Hỡi Y-sơ-ra-ên! đây là các thần đã dẫn ngươi lên khỏi xứ Ê-díp-tô!",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "vội bỏ đạo ta truyền dạy, đúc một con bò tơ, mọp trước tượng bò đó và dâng của lễ cho nó mà nói rằng: Hỡi Y-sơ-ra-ên! đây là các thần đã dẫn ngươi lên khỏi xứ Ê-díp-tô!",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "78c76031-7294-4c63-8c1e-e86a83b4ec90",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:54:00.000Z",
+          "last_edited_time": "2023-01-26T00:54:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Đức Giê-hô-va cũng phán cùng Môi-se rằng: Ta đã xem thấy dân nầy, kìa là một dân cứng cổ.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Đức Giê-hô-va cũng phán cùng Môi-se rằng: Ta đã xem thấy dân nầy, kìa là một dân cứng cổ.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "1e35d2af-24a7-4d2e-b100-544a62e4c931",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:54:00.000Z",
+          "last_edited_time": "2023-01-26T00:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Vả, bây giờ hãy để mặc ta làm, hầu cho cơn thạnh nộ ta nổi lên cùng chúng nó, diệt chúng nó đi; nhưng ta sẽ làm cho ngươi thành một dân lớn.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Vả, bây giờ hãy để mặc ta làm, hầu cho cơn thạnh nộ ta nổi lên cùng chúng nó, diệt chúng nó đi; nhưng ta sẽ làm cho ngươi thành một dân lớn.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "c257c218-b5c6-4711-94b5-9e42051309ef",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:54:00.000Z",
+          "last_edited_time": "2023-01-26T00:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "divider",
+          "divider": {},
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "e050744b-659c-4f68-8b3b-75a3a0a8ad10",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:54:00.000Z",
+          "last_edited_time": "2023-01-26T00:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Đoạn, Môi-se ở trên núi trở xuống, tay cầm hai bảng chứng; hai bảng chứng có viết hai bên, mặt nầy và mặt kia.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Đoạn, Môi-se ở trên núi trở xuống, tay cầm hai bảng chứng; hai bảng chứng có viết hai bên, mặt nầy và mặt kia.",
+                "href": null
+              }
+            ],
+            "color": "default",
+            "list_start_index": 15
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "84ed11c0-17da-4e83-8536-1e5be1a34134",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:55:00.000Z",
+          "last_edited_time": "2023-01-26T00:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Hai bảng đó là việc của Đức Chúa Trời làm ra; chữ cũng là chữ của Đức Chúa Trời khắc trên bảng.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Hai bảng đó là việc của Đức Chúa Trời làm ra; chữ cũng là chữ của Đức Chúa Trời khắc trên bảng.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "4650a40f-31a9-4e6d-abf6-5e125621876b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:55:00.000Z",
+          "last_edited_time": "2023-01-26T00:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Vả, Giô-suê nghe dân chúng la lên, bèn nói cùng Môi-se rằng: Trong trại quân có tiếng chiến đấu.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Vả, Giô-suê nghe dân chúng la lên, bèn nói cùng Môi-se rằng: Trong trại quân có tiếng chiến đấu.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "c97eb87f-d6a4-4640-849c-49d63d07bdf4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:55:00.000Z",
+          "last_edited_time": "2023-01-26T00:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Môi-se đáp rằng: Chẳng phải tiếng kêu về thắng trận, cũng chẳng phải tiếng kêu về thua trận; nhưng ta nghe tiếng kẻ hát.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Môi-se đáp rằng: Chẳng phải tiếng kêu về thắng trận, cũng chẳng phải tiếng kêu về thua trận; nhưng ta nghe tiếng kẻ hát.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "9aff5005-e44f-483d-af9c-47000b1eb881",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:55:00.000Z",
+          "last_edited_time": "2023-01-26T00:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Khi đến gần trại quân, Môi-se thấy bò con và sự nhảy múa, bèn nổi giận, liệng hai bảng chứng khỏi tay mình, bể ra nơi chân núi;",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Khi đến gần trại quân, Môi-se thấy bò con và sự nhảy múa, bèn nổi giận, liệng hai bảng chứng khỏi tay mình, bể ra nơi chân núi;",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "cc3f3444-6a0f-4863-8a49-ab1f0e1e4310",
+          "parent": {
+            "type": "block_id",
+            "block_id": "7ff149d4-aec3-49c9-84ac-78a2a9b968ef"
+          },
+          "created_time": "2023-01-26T00:55:00.000Z",
+          "last_edited_time": "2023-01-26T00:55:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "đoạn lấy bò con của chúng đã đúc đem đốt trong lửa, rồi nghiền cho đến thành ra bụi, rải trên mặt nước, và cho dân Y-sơ-ra-ên uống.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "đoạn lấy bò con của chúng đã đúc đem đốt trong lửa, rồi nghiền cho đến thành ra bụi, rải trên mặt nước, và cho dân Y-sơ-ra-ên uống.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "c9f1c6af-8131-493f-83f0-fb230e687f08",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:57:00.000Z",
+      "last_edited_time": "2023-01-26T02:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔵 Vì sao họ đã thất bại?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔵 Vì sao họ đã thất bại?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "20b15f34-3e1c-4fae-b015-b00cab8af1da",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:57:00.000Z",
+      "last_edited_time": "2023-01-26T00:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bởi sức riêng dân Israel không thể giữ được Giao Ước với Thiên Chúa.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bởi sức riêng dân Israel không thể giữ được Giao Ước với Thiên Chúa.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "cbb7d8bc-f842-4ac5-a5d7-4f79de096f31",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:57:00.000Z",
+      "last_edited_time": "2023-01-26T00:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Xuất 19:7-8",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Xuất 19:7-8",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "900cd69a-2173-437a-bdbd-6b4075e84cf7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "cbb7d8bc-f842-4ac5-a5d7-4f79de096f31"
+          },
+          "created_time": "2023-01-26T00:58:00.000Z",
+          "last_edited_time": "2023-01-26T00:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Môi-se đến đòi các trưởng lão trong dân sự, thuật cùng họ mọi lời Đức Giê-hô-va đã dặn mình nói lại.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Môi-se đến đòi các trưởng lão trong dân sự, thuật cùng họ mọi lời Đức Giê-hô-va đã dặn mình nói lại.",
+                "href": null
+              }
+            ],
+            "color": "default",
+            "list_start_index": 7
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "b416efbf-57a4-4b05-83a1-cb88cb14fd48",
+          "parent": {
+            "type": "block_id",
+            "block_id": "cbb7d8bc-f842-4ac5-a5d7-4f79de096f31"
+          },
+          "created_time": "2023-01-26T00:58:00.000Z",
+          "last_edited_time": "2023-01-26T00:58:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Cả dân sự đồng thinh đáp rằng: Chúng tôi xin làm mọi việc Đức Giê-hô-va đã phán dặn. Môi-se bèn thuật lại lời của dân sự cùng Đức Giê-hô-va.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Cả dân sự đồng thinh đáp rằng: Chúng tôi xin làm mọi việc Đức Giê-hô-va đã phán dặn. Môi-se bèn thuật lại lời của dân sự cùng Đức Giê-hô-va.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "f333ba44-9b95-4e4f-8948-2863bab5c617",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:58:00.000Z",
+      "last_edited_time": "2023-01-26T00:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Xuất 24:3, 7\n3/ Môi-se bèn đến thuật lại cho dân sự mọi lời phán của Đức Giê-hô-va và các luật lệ, thì chúng đồng thinh đáp rằng: Chúng tôi sẽ làm mọi lời Đức Giê-hô-va phán dạy.\n\n7/ Đoạn, người cầm quyển sách giao ước đọc cho dân sự nghe, thì dân sự nói rằng: Chúng tôi sẽ làm và vâng theo mọi lời Đức Giê-hô-va phán chỉ.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Xuất 24:3, 7\n3/ Môi-se bèn đến thuật lại cho dân sự mọi lời phán của Đức Giê-hô-va và các luật lệ, thì chúng đồng thinh đáp rằng: Chúng tôi sẽ làm mọi lời Đức Giê-hô-va phán dạy.\n\n7/ Đoạn, người cầm quyển sách giao ước đọc cho dân sự nghe, thì dân sự nói rằng: Chúng tôi sẽ làm và vâng theo mọi lời Đức Giê-hô-va phán chỉ.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "bd2e0613-c2b4-48ef-855b-4e855b0c79fc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T00:59:00.000Z",
+      "last_edited_time": "2023-01-26T02:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔵 Thiên Chúa bỏ giao ước khi dân Israel bất tín?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔵 Thiên Chúa bỏ giao ước khi dân Israel bất tín?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "c82c8351-2a9a-4d65-bf96-532aa21d980d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:42:00.000Z",
+      "last_edited_time": "2023-01-26T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "10f54428-a57f-4001-baba-3c6252af4bb8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:42:00.000Z",
+      "last_edited_time": "2023-01-26T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Không! Thiên Chúa lập lại giao ước mới, nội dung không thay đổi.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Không! Thiên Chúa lập lại giao ước mới, nội dung không thay đổi.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "536a9201-ae7d-4757-9be2-49585d789742",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:00:00.000Z",
+      "last_edited_time": "2023-01-26T01:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Giê-rê-mi 31:31-34",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Giê-rê-mi 31:31-34",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "12bf4582-d8d4-4253-915c-184daa868034",
+          "parent": {
+            "type": "block_id",
+            "block_id": "536a9201-ae7d-4757-9be2-49585d789742"
+          },
+          "created_time": "2023-01-26T01:01:00.000Z",
+          "last_edited_time": "2023-01-26T01:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Đức Giê-hô-va phán: Nầy, những ngày đến, bấy giờ ta sẽ lập ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Đức Giê-hô-va phán: Nầy, những ngày đến, bấy giờ ta sẽ lập ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "một giao ước mới",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": true,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "một giao ước mới",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " với nhà Y-sơ-ra-ên và với nhà Giu-đa.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " với nhà Y-sơ-ra-ên và với nhà Giu-đa.",
+                "href": null
+              }
+            ],
+            "color": "default",
+            "list_start_index": 31
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "d383bbbf-3627-461e-bfe0-e489223ba777",
+          "parent": {
+            "type": "block_id",
+            "block_id": "536a9201-ae7d-4757-9be2-49585d789742"
+          },
+          "created_time": "2023-01-26T01:01:00.000Z",
+          "last_edited_time": "2023-01-26T01:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Giao ước nầy sẽ không theo giao ước mà ta đã kết với tổ phụ chúng nó trong ngày ta nắm tay dắt ra khỏi đất Ê-díp-tô, tức giao ước mà chúng nó đã phá đi, dầu rằng ta làm chồng chúng nó, Đức Giê-hô-va phán vậy.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Giao ước nầy sẽ không theo giao ước mà ta đã kết với tổ phụ chúng nó trong ngày ta nắm tay dắt ra khỏi đất Ê-díp-tô, tức giao ước mà chúng nó đã phá đi, dầu rằng ta làm chồng chúng nó, Đức Giê-hô-va phán vậy.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "bdfe2df1-31e0-4dae-92b6-3fd1128ac251",
+          "parent": {
+            "type": "block_id",
+            "block_id": "536a9201-ae7d-4757-9be2-49585d789742"
+          },
+          "created_time": "2023-01-26T01:01:00.000Z",
+          "last_edited_time": "2023-01-26T01:02:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Đức Giê-hô-va phán: ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Đức Giê-hô-va phán: ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Nầy là giao ước",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": true,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": true,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Nầy là giao ước",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": " mà ta sẽ lập với nhà Y-sơ-ra-ên sau những ngày đó. Ta sẽ đặt luật pháp ta trong bụng chúng nó và chép vào lòng. ",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": " mà ta sẽ lập với nhà Y-sơ-ra-ên sau những ngày đó. Ta sẽ đặt luật pháp ta trong bụng chúng nó và chép vào lòng. ",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ta sẽ làm Đức Chúa Trời chúng nó, chúng nó sẽ làm dân ta",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": true,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ta sẽ làm Đức Chúa Trời chúng nó, chúng nó sẽ làm dân ta",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": ".",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": ".",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "a44e1cab-60ff-4b7e-b9c3-04da7367a716",
+          "parent": {
+            "type": "block_id",
+            "block_id": "536a9201-ae7d-4757-9be2-49585d789742"
+          },
+          "created_time": "2023-01-26T01:01:00.000Z",
+          "last_edited_time": "2023-01-26T01:01:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Chúng nó ai nấy sẽ chẳng dạy kẻ lân cận mình hay là anh em mình, mà rằng: Hãy nhận biết Đức Giê-hô-va! Vì chúng nó thảy đều sẽ biết ta, kẻ nhỏ cũng như kẻ lớn. Đức Giê-hô-va phán: Ta sẽ tha sự gian ác chúng nó, và chẳng nhớ tội chúng nó nữa.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Chúng nó ai nấy sẽ chẳng dạy kẻ lân cận mình hay là anh em mình, mà rằng: Hãy nhận biết Đức Giê-hô-va! Vì chúng nó thảy đều sẽ biết ta, kẻ nhỏ cũng như kẻ lớn. Đức Giê-hô-va phán: Ta sẽ tha sự gian ác chúng nó, và chẳng nhớ tội chúng nó nữa.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d229e372-c18d-44d1-ba3f-d2613c9e5d95",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:03:00.000Z",
+      "last_edited_time": "2023-01-26T01:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Thiên Chúa không hề có ý định bỏ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Thiên Chúa không hề có ý định bỏ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Mười Điều Răn",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mười Điều Răn",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "b98c00a9-fd9b-48e6-a56c-fb385a8840b7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:02:00.000Z",
+      "last_edited_time": "2023-01-26T01:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Xuất 34:1-2",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Xuất 34:1-2",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🆕"
+        },
+        "color": "pink_background"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "347ee330-2d2f-44ce-b91b-12cadd14c860",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b98c00a9-fd9b-48e6-a56c-fb385a8840b7"
+          },
+          "created_time": "2023-01-26T01:02:00.000Z",
+          "last_edited_time": "2023-01-26T01:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Đức Giê-hô-va phán cùng Môi-se rằng: Hãy đục hai bảng đá như hai bảng trước; rồi ta sẽ viết trên hai bảng nầy các lời đã ở nơi hai bảng kia, mà ngươi đã làm bể.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Đức Giê-hô-va phán cùng Môi-se rằng: Hãy đục hai bảng đá như hai bảng trước; rồi ta sẽ viết trên hai bảng nầy các lời đã ở nơi hai bảng kia, mà ngươi đã làm bể.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "ae8a8854-e9a1-4b87-b5ea-004f2fab115a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "b98c00a9-fd9b-48e6-a56c-fb385a8840b7"
+          },
+          "created_time": "2023-01-26T01:03:00.000Z",
+          "last_edited_time": "2023-01-26T01:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ngày mai, hãy chực cho sẵn, vừa sáng lên trên đỉnh núi Si-na-i, đứng trước mặt ta tại đó.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ngày mai, hãy chực cho sẵn, vừa sáng lên trên đỉnh núi Si-na-i, đứng trước mặt ta tại đó.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "053208c3-080a-4810-a7fc-1f0da1a5634a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:04:00.000Z",
+      "last_edited_time": "2023-01-26T02:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔵 Giao ước mới được thiết lập vào Lễ Ngũ Tuần (của Cựu Ước)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔵 Giao ước mới được thiết lập vào Lễ Ngũ Tuần (của Cựu Ước)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "b73153e1-f70d-4f15-adb2-d7ce6033118f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:38:00.000Z",
+      "last_edited_time": "2023-01-26T01:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "8aef11fa-211e-4c1d-8459-90b640915577",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:38:00.000Z",
+      "last_edited_time": "2023-01-26T01:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lễ Ngũ Tuần là biến cố “Núi Si-nai” thứ hai",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lễ Ngũ Tuần là biến cố “Núi Si-nai” thứ hai",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "58253760-fd16-48ba-9615-afa6a07409fd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:06:00.000Z",
+      "last_edited_time": "2023-01-26T01:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Những ngày lễ: Lê-vi Ký 23; Dân số ký 28, 29; Phục Truyền 16",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Những ngày lễ: Lê-vi Ký 23; Dân số ký 28, 29; Phục Truyền 16",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "95fbf6cb-f3c8-418c-9b9f-109cbff40368",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:13:00.000Z",
+      "last_edited_time": "2023-01-26T01:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Lễ Ngũ Tuần cách Lễ Vượt Qua 50 ngày.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Lễ Ngũ Tuần cách Lễ Vượt Qua 50 ngày.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "2e60d2a8-a721-4b96-a94a-8b64d3c1437d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:14:00.000Z",
+      "last_edited_time": "2023-01-26T01:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Đức Chúa Jesus là hình thật của hình bóng Con Chiên trong Lễ Vượt Qua",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Đức Chúa Jesus là hình thật của hình bóng Con Chiên trong Lễ Vượt Qua",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "b254b165-96c5-414e-995f-87e0cc0a0eec",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:34:00.000Z",
+      "last_edited_time": "2023-01-26T01:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Xuất Ê-díp-tô Ký 12:18-20\n\n18/ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Xuất Ê-díp-tô Ký 12:18-20\n\n18/ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Ngày mười bốn tháng giêng",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ngày mười bốn tháng giêng",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", chiều lại, các ngươi sẽ ăn bánh không men cho đến chiều ngày hai mươi mốt tháng đó.\n\n19/ Trong bảy ngày không nên còn thấy men tại nhà các ngươi; vì bất luận người ngoại bang hay là người bổn xứ, hễ ai ăn bánh có men sẽ bị truất khỏi hội chúng Y-sơ-ra-ên.\n\n20/ Chớ nên ăn bánh có men; khắp nơi các ngươi ở đều phải ăn bánh không men.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", chiều lại, các ngươi sẽ ăn bánh không men cho đến chiều ngày hai mươi mốt tháng đó.\n\n19/ Trong bảy ngày không nên còn thấy men tại nhà các ngươi; vì bất luận người ngoại bang hay là người bổn xứ, hễ ai ăn bánh có men sẽ bị truất khỏi hội chúng Y-sơ-ra-ên.\n\n20/ Chớ nên ăn bánh có men; khắp nơi các ngươi ở đều phải ăn bánh không men.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "c056e8f3-e864-4814-9b91-856b5e1b58fe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:34:00.000Z",
+      "last_edited_time": "2023-01-26T01:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "598adb27-6a4c-4df9-86de-64649c947d03",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:25:00.000Z",
+      "last_edited_time": "2023-01-26T01:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Xuất Ê-díp-tô Ký 19:1-2, 10-11\n\n1/ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Xuất Ê-díp-tô Ký 19:1-2, 10-11\n\n1/ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Tháng thứ ba",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tháng thứ ba",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", sau khi ra khỏi xứ Ê-díp-tô, trong ngày đó  dân Y-sơ-ra-ên đến nơi đồng vắng Si-na-i. 2/ Từ Rê-phi-đim ra đi, đến nơi đồng vắng Si-na-i, và đóng trại tại đó, đối diện cùng núi.\n\n10/ Đức Giê-hô-va bèn phán cùng Môi-se rằng: Hãy đi đến cùng dân sự, khiến dân giữ mình thánh sạch ngày nay và ngày mai, cùng phải giặt áo xống mình. 11/  Qua ngày thứ ba, dân khá sẵn sàng, vì ngày đó Đức Giê-hô-va sẽ giáng lâm trước mắt dân sự tại núi Si-na-i.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", sau khi ra khỏi xứ Ê-díp-tô, trong ngày đó  dân Y-sơ-ra-ên đến nơi đồng vắng Si-na-i. 2/ Từ Rê-phi-đim ra đi, đến nơi đồng vắng Si-na-i, và đóng trại tại đó, đối diện cùng núi.\n\n10/ Đức Giê-hô-va bèn phán cùng Môi-se rằng: Hãy đi đến cùng dân sự, khiến dân giữ mình thánh sạch ngày nay và ngày mai, cùng phải giặt áo xống mình. 11/  Qua ngày thứ ba, dân khá sẵn sàng, vì ngày đó Đức Giê-hô-va sẽ giáng lâm trước mắt dân sự tại núi Si-na-i.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "39a588b8-453c-4c60-918b-cc274f6ff0f9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:33:00.000Z",
+      "last_edited_time": "2023-01-26T01:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "d2243de9-e8bb-4a20-94f6-5e620fbdbf4a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:25:00.000Z",
+      "last_edited_time": "2023-01-26T01:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dân Israel ra khỏi Ai-cập vào ngày 14 tháng giêng Nissan",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dân Israel ra khỏi Ai-cập vào ngày 14 tháng giêng Nissan",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "7ed8e7c1-be64-4038-97ed-c91e601dc523",
+          "parent": {
+            "type": "block_id",
+            "block_id": "d2243de9-e8bb-4a20-94f6-5e620fbdbf4a"
+          },
+          "created_time": "2023-01-26T01:34:00.000Z",
+          "last_edited_time": "2023-01-26T01:34:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Xuất Ê-díp-tô Ký 12:18",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Xuất Ê-díp-tô Ký 12:18",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "70a416ce-1843-4404-985a-4b365f917c82",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:30:00.000Z",
+      "last_edited_time": "2023-01-26T02:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Đến núi Si-nai = tháng thứ ba",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Đến núi Si-nai = tháng thứ ba",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "16257146-0201-4008-891f-4624b2ddfba4",
+          "parent": {
+            "type": "block_id",
+            "block_id": "70a416ce-1843-4404-985a-4b365f917c82"
+          },
+          "created_time": "2023-01-26T01:30:00.000Z",
+          "last_edited_time": "2023-01-26T01:30:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "16 ngày của tháng giêng",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "16 ngày của tháng giêng",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "83a97604-3f66-49f7-b67c-c44581e6c03a",
+          "parent": {
+            "type": "block_id",
+            "block_id": "70a416ce-1843-4404-985a-4b365f917c82"
+          },
+          "created_time": "2023-01-26T01:30:00.000Z",
+          "last_edited_time": "2023-01-26T01:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "30 ngày của tháng hai (tổng 46)",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "30 ngày của tháng hai (tổng 46)",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "2b367e00-33f3-4d01-ab91-ff6eabc5d319",
+          "parent": {
+            "type": "block_id",
+            "block_id": "70a416ce-1843-4404-985a-4b365f917c82"
+          },
+          "created_time": "2023-01-26T01:31:00.000Z",
+          "last_edited_time": "2023-01-26T01:31:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "đầu tháng 03 = tổng 47",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "đầu tháng 03 = tổng 47",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "0c1302a3-a676-40bd-9946-b26829964b1f",
+          "parent": {
+            "type": "block_id",
+            "block_id": "70a416ce-1843-4404-985a-4b365f917c82"
+          },
+          "created_time": "2023-01-26T01:31:00.000Z",
+          "last_edited_time": "2023-01-26T02:08:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "3 ngày giữ mình = tổng 50 ngày",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "3 ngày giữ mình = tổng 50 ngày",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "60c2136c-3e9d-438e-9229-ba80598e6e9b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:25:00.000Z",
+      "last_edited_time": "2023-01-26T02:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔵 Nghi thức tiếp nhận Giao Ước",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔵 Nghi thức tiếp nhận Giao Ước",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "97254b28-68dd-4e92-b587-78b87560bdc1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:42:00.000Z",
+      "last_edited_time": "2023-01-26T01:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "073318c4-9fda-45fe-a455-ca55a56a6f5c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:43:00.000Z",
+      "last_edited_time": "2023-01-26T02:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": true,
+        "has_row_header": false
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "8aa2bc81-4e0f-4fa0-adbe-33355fde5e1b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "073318c4-9fda-45fe-a455-ca55a56a6f5c"
+          },
+          "created_time": "2023-01-26T01:43:00.000Z",
+          "last_edited_time": "2023-01-26T02:20:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Giao Ước Cũ",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Giao Ước Cũ",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Giao Ước Mới",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Giao Ước Mới",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "31035642-2aa5-48fa-a5d7-18a06e030e40",
+          "parent": {
+            "type": "block_id",
+            "block_id": "073318c4-9fda-45fe-a455-ca55a56a6f5c"
+          },
+          "created_time": "2023-01-26T01:43:00.000Z",
+          "last_edited_time": "2023-01-26T01:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Tin Môi-se",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Tin Môi-se",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Tin Đức Chúa Jesus",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Tin Đức Chúa Jesus",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "23d32266-fbc5-4d4a-b440-d6b8fb52249b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "073318c4-9fda-45fe-a455-ca55a56a6f5c"
+          },
+          "created_time": "2023-01-26T01:43:00.000Z",
+          "last_edited_time": "2023-01-26T01:51:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Phải chờ đợi, dọn mình thánh sạch",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Phải chờ đợi, dọn mình thánh sạch",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Phải chờ đợi",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Phải chờ đợi",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "e1b84b42-ead1-49ed-b9f2-a4cc8f575f27",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:47:00.000Z",
+      "last_edited_time": "2023-01-26T01:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Xuất 19:9\n\n9/ Ngài phán rằng: Nầy, ta sẽ ở trong đám mây mịt mịt đi đến ngươi; đặng khi nào ta phán cùng ngươi, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Xuất 19:9\n\n9/ Ngài phán rằng: Nầy, ta sẽ ở trong đám mây mịt mịt đi đến ngươi; đặng khi nào ta phán cùng ngươi, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "thì dân sự nghe và tin cậy ngươi luôn luôn",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "thì dân sự nghe và tin cậy ngươi luôn luôn",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ". Đoạn, Môi-se đem lời của dân sự thưa lại cho Đức Giê-hô-va.\n10/ Đức Giê-hô-va bèn phán cùng Môi-se rằng: Hãy đi đến cùng dân sự, khiến dân giữ mình thánh sạch ngày nay và ngày mai, cùng phải giặt áo xống mình.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ". Đoạn, Môi-se đem lời của dân sự thưa lại cho Đức Giê-hô-va.\n10/ Đức Giê-hô-va bèn phán cùng Môi-se rằng: Hãy đi đến cùng dân sự, khiến dân giữ mình thánh sạch ngày nay và ngày mai, cùng phải giặt áo xống mình.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🆕"
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "4adf3210-167b-4e59-9cda-0654021c6de7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:47:00.000Z",
+      "last_edited_time": "2023-01-26T02:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Công Vụ 1:3-4\n\n3/ Sau khi chịu đau đớn rồi, thì trước mặt các sứ đồ, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Công Vụ 1:3-4\n\n3/ Sau khi chịu đau đớn rồi, thì trước mặt các sứ đồ, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Ngài lấy nhiều chứng cớ tỏ ra mình là sống",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ngài lấy nhiều chứng cớ tỏ ra mình là sống",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", và ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", và ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "hiện đến với các sứ đồ trong bốn mươi ngày",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "hiện đến với các sứ đồ trong bốn mươi ngày",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", phán bảo những sự về nước Đức Chúa Trời.\n\n4/ Lúc ở với các sứ đồ, Ngài dặn rằng đừng ra khỏi thành Giê-ru-sa-lem, nhưng ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", phán bảo những sự về nước Đức Chúa Trời.\n\n4/ Lúc ở với các sứ đồ, Ngài dặn rằng đừng ra khỏi thành Giê-ru-sa-lem, nhưng ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "phải ở đó chờ điều Cha đã hứa",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "phải ở đó chờ điều Cha đã hứa",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", là ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", là ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "điều các ngươi đã nghe ta nói",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "điều các ngươi đã nghe ta nói",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🆕"
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "16081b87-36e5-4f20-ac69-74b87f1e2948",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:51:00.000Z",
+      "last_edited_time": "2023-01-26T02:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔵 Giao Ước được thiết lập",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔵 Giao Ước được thiết lập",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "882be273-d861-4af6-90a1-beb8b5fef8e4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:09:00.000Z",
+      "last_edited_time": "2023-01-26T02:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31087fba-6ba8-4d4a-89f6-8c5a24371870",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:53:00.000Z",
+      "last_edited_time": "2023-01-26T02:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Xuất 19:16-\n\n16/ Qua sáng ngày thứ ba, có sấm vang chớp nhoáng, một áng mây mịt mịt ở trên núi, và tiếng kèn thổi rất vang động; cả dân sự ở trong trại quân đều run hãi.\n17/ Môi-se bèn biểu dân ra khỏi trại quân nghinh tiếp Đức Chúa Trời; dân sự dừng lại tại chân núi.\n18/ Vả, bấy giờ, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Xuất 19:16-\n\n16/ Qua sáng ngày thứ ba, có sấm vang chớp nhoáng, một áng mây mịt mịt ở trên núi, và tiếng kèn thổi rất vang động; cả dân sự ở trong trại quân đều run hãi.\n17/ Môi-se bèn biểu dân ra khỏi trại quân nghinh tiếp Đức Chúa Trời; dân sự dừng lại tại chân núi.\n18/ Vả, bấy giờ, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "khắp núi Si-na-i đều ra khói",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "khắp núi Si-na-i đều ra khói",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ", vì Đức Giê-hô-va ở trong lửa giáng lâm nơi đó; khói ra khác nào khói của lò lửa lớn kia, và ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ", vì Đức Giê-hô-va ở trong lửa giáng lâm nơi đó; khói ra khác nào khói của lò lửa lớn kia, và ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "cả hòn núi đều rung động cách kịch liệt",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "cả hòn núi đều rung động cách kịch liệt",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".\n19/ Tiếng kèn càng vang động; Môi-se nói, Đức Chúa Trời đáp tiếng lại.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".\n19/ Tiếng kèn càng vang động; Môi-se nói, Đức Chúa Trời đáp tiếng lại.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "cee74451-1632-4a71-85fe-e568e1814b73",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:52:00.000Z",
+      "last_edited_time": "2023-01-26T02:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Công Vụ 2:1-7\n\n1/ Đến ngày lễ Ngũ tuần, môn đồ ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Công Vụ 2:1-7\n\n1/ Đến ngày lễ Ngũ tuần, môn đồ ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "nhóm họp tại một chỗ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "nhóm họp tại một chỗ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".\n2/ Thình lình, có tiếng từ trời đến như tiếng gió thổi ào ào, đầy khắp nhà môn đồ ngồi.\n3/ Các môn đồ thấy lưỡi rời rạc từng cái một, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".\n2/ Thình lình, có tiếng từ trời đến như tiếng gió thổi ào ào, đầy khắp nhà môn đồ ngồi.\n3/ Các môn đồ thấy lưỡi rời rạc từng cái một, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "như lưỡi bằng lửa hiện ra, đậu trên mỗi người",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "như lưỡi bằng lửa hiện ra, đậu trên mỗi người",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " trong bọn mình.\n4/ Hết thảy đều được đầy dẫy Đức Thánh Linh, khởi sự nói các thứ tiếng khác, theo như Đức Thánh Linh cho mình nói.\n5/ Vả, bấy giờ có người Giu-đa, kẻ mộ đạo, từ các dân thiên hạ đến, ở tại thành Giê-ru-sa-lem. \n6/ Lúc tiếng ấy vang ra, dân chúng chạy đến, ai nấy đều sững sờ vì mỗi người đều nghe các môn đồ nói tiếng xứ mình. \n7/ Chúng đều sợ hãi và lấy làm lạ mà rằng: Hết thảy người nói đó, há chẳng phải là người Ga-li-lê sao?",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " trong bọn mình.\n4/ Hết thảy đều được đầy dẫy Đức Thánh Linh, khởi sự nói các thứ tiếng khác, theo như Đức Thánh Linh cho mình nói.\n5/ Vả, bấy giờ có người Giu-đa, kẻ mộ đạo, từ các dân thiên hạ đến, ở tại thành Giê-ru-sa-lem. \n6/ Lúc tiếng ấy vang ra, dân chúng chạy đến, ai nấy đều sững sờ vì mỗi người đều nghe các môn đồ nói tiếng xứ mình. \n7/ Chúng đều sợ hãi và lấy làm lạ mà rằng: Hết thảy người nói đó, há chẳng phải là người Ga-li-lê sao?",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "external",
+          "external": {
+            "url": "https://www.notion.so/icons/layers_gray.svg"
+          }
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "00a30063-de3f-465f-8dbb-f6cc2d80227c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:56:00.000Z",
+      "last_edited_time": "2023-01-26T02:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "table",
+      "table": {
+        "table_width": 2,
+        "has_column_header": false,
+        "has_row_header": false
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "6dc4dc74-86a6-404b-a99a-9ca8acd28b7b",
+          "parent": {
+            "type": "block_id",
+            "block_id": "00a30063-de3f-465f-8dbb-f6cc2d80227c"
+          },
+          "created_time": "2023-01-26T01:56:00.000Z",
+          "last_edited_time": "2023-01-26T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Si-nai",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Si-nai",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Giê-ru-sa-lem",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Giê-ru-sa-lem",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "67d34b31-e0ce-4b1b-b87e-15db9bac6244",
+          "parent": {
+            "type": "block_id",
+            "block_id": "00a30063-de3f-465f-8dbb-f6cc2d80227c"
+          },
+          "created_time": "2023-01-26T01:56:00.000Z",
+          "last_edited_time": "2023-01-26T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "- Sấm vang chớp nhoáng\n- Áng mây mịt mịt",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "- Sấm vang chớp nhoáng\n- Áng mây mịt mịt",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Gió thổi ào ào",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Gió thổi ào ào",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "86f4bd7d-e76a-4ab6-be18-306ca1b160ea",
+          "parent": {
+            "type": "block_id",
+            "block_id": "00a30063-de3f-465f-8dbb-f6cc2d80227c"
+          },
+          "created_time": "2023-01-26T01:57:00.000Z",
+          "last_edited_time": "2023-01-26T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "- Khắp núi Si-nai đều ra khói\n- khói ra khác nào khói của lò lửa lớn kia",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "- Khắp núi Si-nai đều ra khói\n- khói ra khác nào khói của lò lửa lớn kia",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Như lưỡi bằng lửa… đâu trên mỗi người…",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Như lưỡi bằng lửa… đâu trên mỗi người…",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "3ff2c127-805e-4b6f-8043-bf3e6f3087dc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "00a30063-de3f-465f-8dbb-f6cc2d80227c"
+          },
+          "created_time": "2023-01-26T02:00:00.000Z",
+          "last_edited_time": "2023-01-26T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [],
+              []
+            ]
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "82da6143-1381-4bfe-9519-f8b5085d2617",
+          "parent": {
+            "type": "block_id",
+            "block_id": "00a30063-de3f-465f-8dbb-f6cc2d80227c"
+          },
+          "created_time": "2023-01-26T01:56:00.000Z",
+          "last_edited_time": "2023-01-26T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "- Cả hòn núi đều rung động…\n- Dân sự đều run hãi",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "- Cả hòn núi đều rung động…\n- Dân sự đều run hãi",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "Ai nấy đều sững sờ…",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "Ai nấy đều sững sờ…",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "36545852-d188-48ef-8b19-38d6c6165a09",
+          "parent": {
+            "type": "block_id",
+            "block_id": "00a30063-de3f-465f-8dbb-f6cc2d80227c"
+          },
+          "created_time": "2023-01-26T01:58:00.000Z",
+          "last_edited_time": "2023-01-26T02:03:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "table_row",
+          "table_row": {
+            "cells": [
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "- Tiếng ấy vang ra, dân chúng chạy đến",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "- Tiếng ấy vang ra, dân chúng chạy đến",
+                  "href": null
+                }
+              ],
+              [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "mỗi người đều nghe các môn đồ nói tiếng xứ mình",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "mỗi người đều nghe các môn đồ nói tiếng xứ mình",
+                  "href": null
+                }
+              ]
+            ]
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "d600f745-ea78-4020-be77-ed638eab68c2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T01:58:00.000Z",
+      "last_edited_time": "2023-01-26T02:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔵 3000 người",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔵 3000 người",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "923da4a4-6bbb-488b-81fe-d015fd7288cd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:09:00.000Z",
+      "last_edited_time": "2023-01-26T02:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "e1a5755a-3844-45a2-bf85-f029c9e773a9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:09:00.000Z",
+      "last_edited_time": "2023-01-26T02:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📖 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📖 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "3,000 người bị giết",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3,000 người bị giết",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "9a9c2c93-516b-4f71-9b46-60ea900768c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:04:00.000Z",
+      "last_edited_time": "2023-01-26T02:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "”Vả, Môi-se thấy dân sự buông lung, vì A-rôn để họ buông lung, đến đỗi bị sỉ nhục trong vòng các thù nghịch, thì người đứng nơi cửa trại quân mà nói rằng: Ai thuộc về Đức Giê-hô-va, hãy đến cùng ta đây! Hết thảy người Lê-vi đều nhóm lại gần bên người.  Người truyền cho họ rằng: Giê-hô-va, là Đức Chúa Trời của Y-sơ-ra-ên, có phán như vầy: Mỗi người trong các ngươi hãy đeo gươm bên mình, đi qua đi lại trong trại quân, từ cửa nầy đến cửa kia, và mỗi người hãy giết anh em, bạn hữu, và kẻ lân cận mình. Dân Lê-vi bèn làm y như lời Môi-se; trong ngày đó có chừng ba ngàn người bị chết.” (Xuất 32:25-28)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "”Vả, Môi-se thấy dân sự buông lung, vì A-rôn để họ buông lung, đến đỗi bị sỉ nhục trong vòng các thù nghịch, thì người đứng nơi cửa trại quân mà nói rằng: Ai thuộc về Đức Giê-hô-va, hãy đến cùng ta đây! Hết thảy người Lê-vi đều nhóm lại gần bên người.  Người truyền cho họ rằng: Giê-hô-va, là Đức Chúa Trời của Y-sơ-ra-ên, có phán như vầy: Mỗi người trong các ngươi hãy đeo gươm bên mình, đi qua đi lại trong trại quân, từ cửa nầy đến cửa kia, và mỗi người hãy giết anh em, bạn hữu, và kẻ lân cận mình. Dân Lê-vi bèn làm y như lời Môi-se; trong ngày đó có chừng ba ngàn người bị chết.” (Xuất 32:25-28)",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🆕"
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "ed77a78f-378b-4147-9a7c-d32249c4a524",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:05:00.000Z",
+      "last_edited_time": "2023-01-26T02:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📖 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📖 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "3,000 được thêm vào",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3,000 được thêm vào",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "e2a35652-99e1-4541-88b4-447221cda868",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:05:00.000Z",
+      "last_edited_time": "2023-01-26T02:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“Bấy giờ, Phi-e-rơ đứng ra cùng mười một sứ đồ, cất tiếng nói với dân chúng rằng: Hỡi người Giu-đa, và mọi người ở tại thành Giê-ru-sa-lem, hãy biết rõ điều nầy, và lắng tai nghe lời ta.… Vậy, những kẻ nhận lời đó đều chịu phép báp-têm; và trong ngày ấy, ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“Bấy giờ, Phi-e-rơ đứng ra cùng mười một sứ đồ, cất tiếng nói với dân chúng rằng: Hỡi người Giu-đa, và mọi người ở tại thành Giê-ru-sa-lem, hãy biết rõ điều nầy, và lắng tai nghe lời ta.… Vậy, những kẻ nhận lời đó đều chịu phép báp-têm; và trong ngày ấy, ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "có độ ba ngàn người thêm vào Hội Thánh",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": true,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "có độ ba ngàn người thêm vào Hội Thánh",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".” (Công Vụ 2)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".” (Công Vụ 2)",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🆕"
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "27f90658-ef99-496a-9e28-8daab0f1ad96",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:06:00.000Z",
+      "last_edited_time": "2023-01-26T02:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔵 Lời kết",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔵 Lời kết",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "5613986c-0522-4795-82eb-ab7a080bc71f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:10:00.000Z",
+      "last_edited_time": "2023-01-26T02:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "28e82878-90d8-479f-b0dd-2a59d4c4d3b5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:12:00.000Z",
+      "last_edited_time": "2023-01-26T02:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hê-bơ-rơ 10:15-18",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hê-bơ-rơ 10:15-18",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🆕"
+        },
+        "color": "pink_background"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "4434487f-2b78-4a0c-9b80-61bcfad26114",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28e82878-90d8-479f-b0dd-2a59d4c4d3b5"
+          },
+          "created_time": "2023-01-26T02:12:00.000Z",
+          "last_edited_time": "2023-01-26T02:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Đức Thánh Linh cũng làm chứng cho chúng ta như vậy",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": true,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Đức Thánh Linh cũng làm chứng cho chúng ta như vậy",
+                "href": null
+              },
+              {
+                "type": "text",
+                "text": {
+                  "content": "; vì đã phán rằng:",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "; vì đã phán rằng:",
+                "href": null
+              }
+            ],
+            "color": "default",
+            "list_start_index": 15
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "48bbc6cc-5955-43ba-b13f-8b66558a6c7e",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28e82878-90d8-479f-b0dd-2a59d4c4d3b5"
+          },
+          "created_time": "2023-01-26T02:14:00.000Z",
+          "last_edited_time": "2023-01-26T02:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Chúa phán: Nầy là giao ước ta lập với chúng nó.\nSau những ngày đó,\nTa sẽ để luật pháp ta vào lòng chúng nó\nVà ghi tạc nơi trí khôn,",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Chúa phán: Nầy là giao ước ta lập với chúng nó.\nSau những ngày đó,\nTa sẽ để luật pháp ta vào lòng chúng nó\nVà ghi tạc nơi trí khôn,",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "8b7f2dcf-d59b-47ce-9ad7-807a5af64838",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28e82878-90d8-479f-b0dd-2a59d4c4d3b5"
+          },
+          "created_time": "2023-01-26T02:14:00.000Z",
+          "last_edited_time": "2023-01-26T02:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Lại phán: Ta sẽ chẳng còn nhớ đến tội lỗi gian ác của chúng nó nữa.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Lại phán: Ta sẽ chẳng còn nhớ đến tội lỗi gian ác của chúng nó nữa.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "724df27b-aed3-4a24-b0f1-92732f635866",
+          "parent": {
+            "type": "block_id",
+            "block_id": "28e82878-90d8-479f-b0dd-2a59d4c4d3b5"
+          },
+          "created_time": "2023-01-26T02:14:00.000Z",
+          "last_edited_time": "2023-01-26T02:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Bởi hễ có sự tha thứ thì không cần dâng của lễ vì tội lỗi nữa.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Bởi hễ có sự tha thứ thì không cần dâng của lễ vì tội lỗi nữa.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "1ebd6482-f005-482f-bb95-8f6419aa686e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:15:00.000Z",
+      "last_edited_time": "2023-01-26T02:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "f2a488b3-dbb0-4e06-92f6-fef3373eaaf5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:10:00.000Z",
+      "last_edited_time": "2023-01-26T02:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Giao Ước đã được ký kết với Hội Thánh của Thiên Chúa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Giao Ước đã được ký kết với Hội Thánh của Thiên Chúa",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "4f4f3aef-60ac-45a6-89a9-6fce725ea493",
+      "parent": {
+        "type": "page_id",
+        "page_id": "f17b1c51-94f4-4465-aa5e-08faf49d8af3"
+      },
+      "created_time": "2023-01-26T02:11:00.000Z",
+      "last_edited_time": "2023-01-26T02:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": true,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Đức Thánh Linh là trọng tâm của Giao Ước",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Đức Thánh Linh là trọng tâm của Giao Ước",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false,
+      "children": [
+        {
+          "object": "block",
+          "id": "0af317f8-5830-46ae-ae73-08401950acae",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4f4f3aef-60ac-45a6-89a9-6fce725ea493"
+          },
+          "created_time": "2023-01-26T02:11:00.000Z",
+          "last_edited_time": "2023-01-26T02:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Ngài ở cùng chúng ta",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Ngài ở cùng chúng ta",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "971964f7-29a7-41b3-8f6c-2f4d7b029784",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4f4f3aef-60ac-45a6-89a9-6fce725ea493"
+          },
+          "created_time": "2023-01-26T02:11:00.000Z",
+          "last_edited_time": "2023-01-26T02:11:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Giúp sức chúng ta",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Giúp sức chúng ta",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "b9e0bfb0-407c-4a08-9aec-89455a65f8a3",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4f4f3aef-60ac-45a6-89a9-6fce725ea493"
+          },
+          "created_time": "2023-01-26T02:11:00.000Z",
+          "last_edited_time": "2023-01-26T02:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Quyền năng để loan báo phúc âm",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Quyền năng để loan báo phúc âm",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        },
+        {
+          "object": "block",
+          "id": "ad9ce8ec-7c65-4101-8e1a-de90dbe21ff9",
+          "parent": {
+            "type": "block_id",
+            "block_id": "4f4f3aef-60ac-45a6-89a9-6fce725ea493"
+          },
+          "created_time": "2023-01-26T02:15:00.000Z",
+          "last_edited_time": "2023-01-26T02:15:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "color": "default"
+          },
+          "archived": false
+        }
+      ]
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/Giao-c-c-a-Thi-n-Ch-a-f17b1c5194f44465aa5e08faf49d8af3"
+}

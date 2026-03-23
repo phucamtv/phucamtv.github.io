@@ -1,0 +1,147 @@
+{
+  "id": "ff6f18d1-6afa-4de8-b0bf-4b19d56c6158",
+  "title": "Loạt bài: Ngày nào là ngày thánh",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-03-07T15:34:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "c34f1f4b-899f-4da4-93d0-07f03fa833cd",
+          "name": "Ngày Sa-bát",
+          "color": "brown"
+        },
+        {
+          "id": "8c20f86a-dcc0-4fd2-8336-ebd288c221ec",
+          "name": "Hiểu Lầm",
+          "color": "pink"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "35bdc397-3e3d-4b8f-bea9-abb5ff375348"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2022-02-21",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/baigiang/sa-bat/huynh-duc-phuc/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/baigiang/sa-bat/huynh-duc-phuc/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Loạt bài: Ngày nào là ngày thánh",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Loạt bài: Ngày nào là ngày thánh",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "9ab5f8af-9648-4e3f-958a-1e8503de24c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "ff6f18d1-6afa-4de8-b0bf-4b19d56c6158"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-03-07T15:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "{% Playlist id=\"PLDsf8pkV3dAFwUN6rN3ghN5jp1hMyGZzj\" %}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "{% Playlist id=\"PLDsf8pkV3dAFwUN6rN3ghN5jp1hMyGZzj\" %}",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/Lo-t-b-i-Ng-y-n-o-l-ng-y-th-nh-ff6f18d16afa4de8b0bf4b19d56c6158"
+}

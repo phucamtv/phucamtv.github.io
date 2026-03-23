@@ -1,0 +1,220 @@
+{
+  "id": "8270e39f-e339-41c6-b58d-c43a662e6123",
+  "title": "Sách nói: Lẽ thật ngày Sa-bát",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-03-07T15:36:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "c34f1f4b-899f-4da4-93d0-07f03fa833cd",
+          "name": "Ngày Sa-bát",
+          "color": "brown"
+        },
+        {
+          "id": "8c20f86a-dcc0-4fd2-8336-ebd288c221ec",
+          "name": "Hiểu Lầm",
+          "color": "pink"
+        },
+        {
+          "id": "a168aac5-b2cf-4288-906a-4f7ab5925e63",
+          "name": "Luật Pháp",
+          "color": "green"
+        },
+        {
+          "id": "148a0508-adee-445e-bb21-d47b8ab60ae7",
+          "name": "Loạt bài",
+          "color": "red"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "e4f86cb1-43ff-46d3-bf5c-bbfe25a9b521"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2022-07-17",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/baigiang/sa-bat/duong-quoc-tung/le-that-ngay-sa-bat/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/baigiang/sa-bat/duong-quoc-tung/le-that-ngay-sa-bat/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Sách nói: Lẽ thật ngày Sa-bát",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Sách nói: Lẽ thật ngày Sa-bát",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "2e364ea6-2616-4696-bf46-c005798923f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "8270e39f-e339-41c6-b58d-c43a662e6123"
+      },
+      "created_time": "2023-03-07T15:36:00.000Z",
+      "last_edited_time": "2023-03-07T15:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "{% Playlist id=\"PL4eFesMwCbEdEfwtE-0d4VRMxg17CDOV0\" %}",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "{% Playlist id=\"PL4eFesMwCbEdEfwtE-0d4VRMxg17CDOV0\" %}",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "09f8662b-e14e-4b09-968e-a9a2f54db530",
+      "parent": {
+        "type": "page_id",
+        "page_id": "8270e39f-e339-41c6-b58d-c43a662e6123"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "> ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "> ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://sabat.phucam.tv",
+              "link": {
+                "url": "https://sabat.phucam.tv/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://sabat.phucam.tv",
+            "href": "https://sabat.phucam.tv/"
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/S-ch-n-i-L-th-t-ng-y-Sa-b-t-8270e39fe33941c6b58dc43a662e6123"
+}

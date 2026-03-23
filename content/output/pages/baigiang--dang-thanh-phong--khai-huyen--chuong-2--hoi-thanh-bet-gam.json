@@ -1,0 +1,137 @@
+{
+  "id": "16af2c21-2b04-49ba-8e91-9773a0130547",
+  "title": "Bẹt-găm - Hội Thánh dung túng tội lỗi",
+  "created_time": "2023-03-08T14:32:00.000Z",
+  "last_edited_time": "2023-03-08T15:12:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "8fbf13ae-6c70-4fa8-afd7-80de93ca0315",
+          "name": "Khải Huyền",
+          "color": "yellow"
+        },
+        {
+          "id": "dc82287f-561d-4631-9976-3a0990de7836",
+          "name": "Tiên Tri",
+          "color": "yellow"
+        },
+        {
+          "id": "00ea27ba-aaea-4fe5-b008-27d8f31d90a0",
+          "name": "Jesus Christ",
+          "color": "blue"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "7c7b4433-48d5-4fb2-a090-644fa0a59681"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": true
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2023-03-09",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/baigiang/dang-thanh-phong/khai-huyen/chuong-2/hoi-thanh-bet-gam/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/baigiang/dang-thanh-phong/khai-huyen/chuong-2/hoi-thanh-bet-gam/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bẹt-găm - Hội Thánh dung túng tội lỗi",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bẹt-găm - Hội Thánh dung túng tội lỗi",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "0925c82c-f134-47a3-93b0-b5fb6600f488",
+      "parent": {
+        "type": "page_id",
+        "page_id": "16af2c21-2b04-49ba-8e91-9773a0130547"
+      },
+      "created_time": "2023-03-08T14:36:00.000Z",
+      "last_edited_time": "2023-03-08T14:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "https://www.youtube.com/watch?v=tlTL7ePVrec"
+        }
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/B-t-g-m-H-i-Th-nh-dung-t-ng-t-i-l-i-16af2c212b0449ba8e919773a0130547"
+}

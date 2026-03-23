@@ -1,0 +1,294 @@
+{
+  "id": "03e75508-ee5b-4459-86fc-a6bb68f4d374",
+  "title": "Khải Huyền 14:9-12 › Nhận dạng con thú | Thảo Luận Thánh Kinh",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-01-12T22:43:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "8fbf13ae-6c70-4fa8-afd7-80de93ca0315",
+          "name": "Khải Huyền",
+          "color": "yellow"
+        },
+        {
+          "id": "dc82287f-561d-4631-9976-3a0990de7836",
+          "name": "Tiên Tri",
+          "color": "yellow"
+        },
+        {
+          "id": "f8c09c9e-8316-4db8-a63f-056d25175c54",
+          "name": "Sự Tái Lâm",
+          "color": "default"
+        },
+        {
+          "id": "c34f1f4b-899f-4da4-93d0-07f03fa833cd",
+          "name": "Ngày Sa-bát",
+          "color": "brown"
+        },
+        {
+          "id": "a168aac5-b2cf-4288-906a-4f7ab5925e63",
+          "name": "Luật Pháp",
+          "color": "green"
+        },
+        {
+          "id": "df66a72e-8cc4-4ca9-95e7-e0c00adef4c7",
+          "name": "Sự Thờ Phượng",
+          "color": "pink"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "6518f9f6-5a7b-4792-b742-87dffcbe5aeb"
+        },
+        {
+          "id": "b95fac7b-b3de-43f8-986e-ac3e94ee523f"
+        },
+        {
+          "id": "a2f208fa-5cce-4c7c-9e5d-bb4ce8d9b617"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": true
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2022-11-08",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/thongdiep3thiensu/05-nhan-dang-con-thu/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/thongdiep3thiensu/05-nhan-dang-con-thu/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Khải Huyền 14:9-12 › Nhận dạng con thú | Thảo Luận Thánh Kinh",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Khải Huyền 14:9-12 › Nhận dạng con thú | Thảo Luận Thánh Kinh",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "1124c318-8ad5-4a65-9b16-5ad894d3322a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03e75508-ee5b-4459-86fc-a6bb68f4d374"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "https://www.youtube.com/watch?v=FiSw1FuWfSs"
+        }
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "a120975c-8527-4266-9e21-5e4fbe2f5f22",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03e75508-ee5b-4459-86fc-a6bb68f4d374"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\"Lại một vị thiên sứ khác, là vị thứ ba, theo sau, nói lớn tiếng mà rằng: Nếu ai thờ phượng con thú cùng tượng nó, và chịu dấu nó ghi trên trán hay trên tay, thì người ấy cũng vậy, sẽ uống rượu thạnh nộ không pha của Đức Chúa Trời rót trong chén thạnh nộ Ngài; và sẽ chịu đau đớn trong lửa và diêm ở trước mặt các thiên sứ thánh và trước mặt Chiên Con. Khói của sự đau đớn chúng nó bay lên đời đời. Những kẻ thờ lạy con thú và tượng nó, cùng những kẻ chịu dấu của tên nó ghi, thì cả ngày lẫn đêm không lúc nào được yên nghỉ.  Đây tỏ ra sự nhịn nhục của các thánh đồ: Chúng giữ điều răn của Đức Chúa Trời và giữ lòng tin Đức Chúa Jêsus.\" (Khải Huyền 14:9-12)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\"Lại một vị thiên sứ khác, là vị thứ ba, theo sau, nói lớn tiếng mà rằng: Nếu ai thờ phượng con thú cùng tượng nó, và chịu dấu nó ghi trên trán hay trên tay, thì người ấy cũng vậy, sẽ uống rượu thạnh nộ không pha của Đức Chúa Trời rót trong chén thạnh nộ Ngài; và sẽ chịu đau đớn trong lửa và diêm ở trước mặt các thiên sứ thánh và trước mặt Chiên Con. Khói của sự đau đớn chúng nó bay lên đời đời. Những kẻ thờ lạy con thú và tượng nó, cùng những kẻ chịu dấu của tên nó ghi, thì cả ngày lẫn đêm không lúc nào được yên nghỉ.  Đây tỏ ra sự nhịn nhục của các thánh đồ: Chúng giữ điều răn của Đức Chúa Trời và giữ lòng tin Đức Chúa Jêsus.\" (Khải Huyền 14:9-12)",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "📃"
+        },
+        "color": "pink_background"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "ab91642d-e41f-4d91-a690-7a4b7d9e1f78",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03e75508-ee5b-4459-86fc-a6bb68f4d374"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Nói đến Khải Huyền, không thể không nói đến con thú, tượng con thú. Vì các thế lực này được Thiên Chúa miêu tả rất chi tiết ở chương 12, 13, 14, 17, 18, 19, 20.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Nói đến Khải Huyền, không thể không nói đến con thú, tượng con thú. Vì các thế lực này được Thiên Chúa miêu tả rất chi tiết ở chương 12, 13, 14, 17, 18, 19, 20.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "568375c4-fbaf-4b60-a33b-caa903cb5a6d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "03e75508-ee5b-4459-86fc-a6bb68f4d374"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Trong chương trình tuần này, kính mời quý vị cùng anh em chúng tôi tìm hiểu \"con thú từ biển\" là hình ảnh biểu trưng cho thế lực nào.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Trong chương trình tuần này, kính mời quý vị cùng anh em chúng tôi tìm hiểu \"con thú từ biển\" là hình ảnh biểu trưng cho thế lực nào.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/Kh-i-Huy-n-14-9-12-Nh-n-d-ng-con-th-Th-o-Lu-n-Th-nh-Kinh-03e75508ee5b445986fca6bb68f4d374"
+}

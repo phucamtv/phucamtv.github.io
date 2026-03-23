@@ -1,0 +1,127 @@
+{
+  "id": "55732137-47bd-495a-8bf2-b0b75e247d06",
+  "title": "Trả lời thắc mắc: Phó cho ma quỷ để được cứu?",
+  "created_time": "2023-01-12T22:43:00.000Z",
+  "last_edited_time": "2023-03-07T15:55:00.000Z",
+  "properties": {
+    "Tags": {
+      "id": "I%3ArB",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "4f55a907-d9fb-47ac-9078-5102f4a196c7",
+          "name": "Trả Lời Thắc Mắc",
+          "color": "red"
+        }
+      ]
+    },
+    "Unpublished": {
+      "id": "I%7Ci%3D",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Author": {
+      "id": "LPlo",
+      "type": "relation",
+      "relation": [
+        {
+          "id": "e4f86cb1-43ff-46d3-bf5c-bbfe25a9b521"
+        }
+      ],
+      "has_more": false
+    },
+    "Part of series": {
+      "id": "%5C%5Df~",
+      "type": "checkbox",
+      "checkbox": false
+    },
+    "Date": {
+      "id": "nt%7CU",
+      "type": "date",
+      "date": {
+        "start": "2022-05-24",
+        "end": null,
+        "time_zone": null
+      }
+    },
+    "Permalink": {
+      "id": "%7DdZr",
+      "type": "rich_text",
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "/giai-dap/duong-quoc-tung/pho-cho-ma-quy/index.html",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "/giai-dap/duong-quoc-tung/pho-cho-ma-quy/index.html",
+          "href": null
+        }
+      ]
+    },
+    "Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Trả lời thắc mắc: Phó cho ma quỷ để được cứu?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Trả lời thắc mắc: Phó cho ma quỷ để được cứu?",
+          "href": null
+        }
+      ]
+    }
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "ab186269-14ea-4af8-8aab-071b7ec1a064",
+      "parent": {
+        "type": "page_id",
+        "page_id": "55732137-47bd-495a-8bf2-b0b75e247d06"
+      },
+      "created_time": "2023-01-12T22:43:00.000Z",
+      "last_edited_time": "2023-01-12T22:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e1ceb136-e1b8-47d5-9ab6-0265d244a289"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "video",
+      "video": {
+        "caption": [],
+        "type": "external",
+        "external": {
+          "url": "https://www.youtube.com/watch?v=aKcxJ1pJeVg"
+        }
+      },
+      "archived": false
+    }
+  ],
+  "downloaded_images": [],
+  "url": "https://www.notion.so/Tr-l-i-th-c-m-c-Ph-cho-ma-qu-c-c-u-5573213747bd495a8bf2b0b75e247d06"
+}
