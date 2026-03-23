@@ -373,6 +373,50 @@ footer {
   color: #b8a88a;
 }
 
+/* Pagination */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e2dacf;
+}
+
+.pagination a, .pagination-current {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  height: 2rem;
+  padding: 0 0.5rem;
+  font-size: 0.88rem;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.pagination a {
+  color: #5c5347;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.pagination a:hover {
+  background: #f0ece3;
+  color: #3d3529;
+}
+
+.pagination-current {
+  background: #3d3529;
+  color: #fff;
+  font-weight: 600;
+}
+
+.pagination-prev, .pagination-next {
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+}
+
 @media (max-width: 860px) {
   .article-layout {
     grid-template-columns: 1fr;

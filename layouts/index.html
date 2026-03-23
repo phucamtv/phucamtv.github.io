@@ -2,7 +2,9 @@
 <section class="home" style="max-width:800px">
   {{ .Content }}
   <h2>Bài mới nhất</h2>
-  {{ range first 20 (where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) }}
+  {{ $pages := where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true }}
+  {{ $paginator := .Paginate $pages }}
+  {{ range $paginator.Pages }}
   <article class="summary">
     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
@@ -12,6 +14,24 @@
     </span>
     {{ end }}
   </article>
+  {{ end }}
+
+  {{ if gt $paginator.TotalPages 1 }}
+  <nav class="pagination">
+    {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" class="pagination-prev">&laquo; Mới hơn</a>
+    {{ end }}
+    {{ range $paginator.Pagers }}
+      {{ if eq . $paginator }}
+        <span class="pagination-current">{{ .PageNumber }}</span>
+      {{ else }}
+        <a href="{{ .URL }}">{{ .PageNumber }}</a>
+      {{ end }}
+    {{ end }}
+    {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" class="pagination-next">Cũ hơn &raquo;</a>
+    {{ end }}
+  </nav>
   {{ end }}
 </section>
 {{ end }}

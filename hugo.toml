@@ -1,7 +1,8 @@
 baseURL = "https://phucam.tv/"
 languageCode = "vi"
 title = "Phúc Âm"
-
+[pagination]
+  pagerSize = 20
 
 [params]
   description = "Phúc Âm TV"
