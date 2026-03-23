@@ -564,6 +564,10 @@ footer {
     order: -1;
   }
 
+  .article-layout:has(.doctrine-sidebar) .author-sidebar {
+    order: 1;
+  }
+
   .sidebar-card {
     position: static;
     background: transparent;
