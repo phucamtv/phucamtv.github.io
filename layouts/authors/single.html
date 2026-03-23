@@ -10,19 +10,27 @@
     </nav>
     <h1>{{ .Title }}</h1>
     <h2>Bài viết</h2>
+    <ol class="doctrines-list">
+    {{ $idx := 0 }}
     {{ range where $.Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true }}
     {{ if in .Params.authors $slug }}
-    <article class="summary">
-      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
-      {{ with .Params.tags }}
-      <span class="tags">
-        {{ range . }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
-      </span>
-      {{ end }}
-    </article>
+    {{ $idx = add $idx 1 }}
+    <li class="doctrine-item">
+      <a href="{{ .Permalink }}" class="doctrine-item-link">
+        <span class="doctrine-num">{{ printf "%02d" $idx }}</span>
+        <div class="doctrine-item-body">
+          <span class="doctrine-item-title">{{ .Title }}</span>
+          <span class="doctrine-item-keywords">
+            <span class="doctrine-kw">{{ .Date.Format "02/01/2006" }}</span>
+            {{ range .Params.tags }}<span class="doctrine-kw">{{ . }}</span>{{ end }}
+          </span>
+        </div>
+        <svg class="doctrine-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+      </a>
+    </li>
     {{ end }}
     {{ end }}
+    </ol>
   </section>
 
   <aside class="author-sidebar">

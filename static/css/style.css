@@ -652,6 +652,16 @@ footer {
   border-radius: 3px;
 }
 
+/* Author list avatar (reuses doctrine-item layout) */
+.author-list-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 2px solid #e2dacf;
+}
+
 .doctrine-arrow {
   width: 18px;
   height: 18px;
