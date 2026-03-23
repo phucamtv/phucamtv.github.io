@@ -15,5 +15,7 @@ title = "Phúc Âm"
     [markup.goldmark.renderer]
       unsafe = true
 
+ignoreFiles = ['\.py$', 'output/']
+
 [taxonomies]
   tag = "tags"

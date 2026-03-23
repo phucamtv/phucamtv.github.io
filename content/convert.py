@@ -105,6 +105,13 @@ def blocks_to_md(blocks, indent=0):
                 r'{{< Playlist id="\1" >}}',
                 text,
             )
+            text = re.sub(
+                r'\{% Youtube id="([^"]+)"(?:,\s*start=(\d+))? %\}',
+                lambda m: '{{< youtube id="' + m.group(1) + '"' + (
+                    ' start="' + m.group(2) + '"' if m.group(2) else ''
+                ) + ' >}}',
+                text,
+            )
             lines.append(f"{prefix}{text}")
             lines.append("")
             numbered_counter = 0

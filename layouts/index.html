@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section class="home">
+<section class="home" style="max-width:800px">
   {{ .Content }}
   <h2>Bài mới nhất</h2>
   {{ range first 20 (where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) }}
