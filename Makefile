@@ -1,4 +1,4 @@
-.PHONY: build serve clean
+.PHONY: build serve clean find-video-only
 
 build:
 	hugo --minify
@@ -8,3 +8,6 @@ serve:
 
 clean:
 	rm -rf public/
+
+find-video-only:
+	bun scripts/find-video-only-articles.ts
