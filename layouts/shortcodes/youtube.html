@@ -1,0 +1,10 @@
+{{- $id := .Get "id" | default (.Get 0) -}}
+{{- $start := .Get "start" | default "" -}}
+<div class="youtube-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/{{ $id }}{{ with $start }}?start={{ . }}{{ end }}"
+    allowfullscreen
+    frameborder="0"
+    loading="lazy">
+  </iframe>
+</div>

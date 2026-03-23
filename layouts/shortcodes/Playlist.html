@@ -1,0 +1,9 @@
+{{- $id := .Get "id" | default (.Get 0) -}}
+<div class="youtube-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/videoseries?list={{ $id }}"
+    allowfullscreen
+    frameborder="0"
+    loading="lazy">
+  </iframe>
+</div>

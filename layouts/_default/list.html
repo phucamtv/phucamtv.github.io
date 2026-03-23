@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="list">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages.ByDate.Reverse }}
+  {{ if not .Params.unpublished }}
+  <article class="summary">
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+    {{ with .Params.tags }}
+    <span class="tags">
+      {{ range . }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+    </span>
+    {{ end }}
+  </article>
+  {{ end }}
+  {{ end }}
+</section>
+{{ end }}

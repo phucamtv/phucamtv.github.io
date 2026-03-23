@@ -1,0 +1,19 @@
+baseURL = "https://phucam.tv/"
+languageCode = "vi"
+title = "Phúc Âm"
+
+
+[params]
+  description = "Phúc Âm TV"
+
+[permalinks]
+  [permalinks.page]
+    articles = "/:sections/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
