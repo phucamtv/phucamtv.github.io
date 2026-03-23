@@ -117,8 +117,3 @@ Thánh Kinh giới thiệu Thiên Chúa là Đấng yêu thương toàn nhân lo
 Việc tái lập nhà nước Israel có thể là một sự kiện lịch sử trọng đại. Nhưng chớ nên vội vàng gán ghép nó với lời tiên tri thiêng liêng. Các điều kiện then chốt — ấy là sự ăn năn tập thể và sự hiện diện của Đấng Mê-si-a — đều vắng mặt.
 
 Khi đọc Thánh Kinh, chúng ta cần tìm kiếm Đấng Christ, Đấng Cứu Chúa của muôn dân. Chớ nên để mình bị cuốn vào những cái lối diễn giải chính trị đội lốt lời tiên tri. Kẻo rồi lại đánh mất đi cái bản thể siêu việt của Nước Trời đó vậy.
-
-
-## Liên Kết
-
-- [Toàn bộ nội dung của Hong Truong](https://gist.github.com/and1truong/4aa0e2a6d729c20dc1b2c49b16c96bdd)
