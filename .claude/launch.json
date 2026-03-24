@@ -4,7 +4,7 @@
     {
       "name": "hugo",
       "runtimeExecutable": "hugo",
-      "runtimeArgs": ["server", "-D", "--source", "/Users/htruong/code/phucamtv"],
+      "runtimeArgs": ["server", "-D", "--source", "/Users/devpro/code/phucamtv.github.io"],
       "port": 1313
     }
   ]
