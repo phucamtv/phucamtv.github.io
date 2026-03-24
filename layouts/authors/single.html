@@ -19,7 +19,7 @@
       <a href="{{ .Permalink }}" class="doctrine-item-link">
         <span class="doctrine-num">{{ printf "%02d" $idx }}</span>
         <div class="doctrine-item-body">
-          <span class="doctrine-item-title">{{ .Title }}</span>
+          <h3 class="doctrine-item-title">{{ .Title }}</h3>
           <span class="doctrine-item-keywords">
             <span class="doctrine-kw">{{ .Date.Format "02/01/2006" }}</span>
             {{ range .Params.tags }}<span class="doctrine-kw">{{ . }}</span>{{ end }}
