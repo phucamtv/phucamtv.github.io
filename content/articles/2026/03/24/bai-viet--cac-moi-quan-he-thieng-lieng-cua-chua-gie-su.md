@@ -1,9 +1,9 @@
 ---
-title: "Các Mối Quan Hệ Thiêng Liêng Của Đức Chúa Giê-su Christ: Phân Tích Thần Học Phê Phán"
+title: "Em-ma-nu-ên - Đức Chúa Trời ở cùng chúng ta"
 date: 2026-03-24
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh", "Đức Chúa Giêsu"]
 authors: ["truong-the-hong"]
-url: /bai-viet/cac-moi-quan-he-thieng-lieng-cua-chua-gie-su/
+url: /bai-viet/em-ma-nu-en/
 draft: false
 ---
 
