@@ -1,5 +1,5 @@
 ---
-title: "Cái gì là thánh nhất trong đền thờ?"
+title: "Vật chí thánh trong Đền Thánh?"
 slug: /den-tho/cai-gi-la-thanh-nhat
 date: 2026-03-10
 description: "Suy ngẫm về đền thánh và kế hoạch cứu rỗi của Đức Chúa Trời — từ chiên con sinh tế, chức vụ thầy tế lễ, bảy kỳ lễ tiên tri, đến câu trả lời bất ngờ: bàn thờ là thánh nhất."
@@ -8,7 +8,7 @@ authors: ["truong-the-hong"]
 draft: false
 ---
 
-Suy ngẫm về đền thánh và kế hoạch cứu rỗi của Đức Chúa Trời
+Suy ngẫm về Đền Thánh và kế hoạch cứu rỗi của Đức Chúa Trời
 
 ## Mở đầu: Một câu hỏi tưởng chừng đơn giản
 
