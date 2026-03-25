@@ -7,6 +7,7 @@ series: ["bai-hoc-truong-sa-bat"]
 url: /baihoctruongsabat/khong-ai-chien-dau-mot-minh/index.html
 draft: false
 part_of_series: true
+image: /images/khong-ai-chien-dau-mot-minh.webp
 ---
 
 > "Phàm việc gì cũng phải tạ ơn Chúa; vì ý muốn của Đức Chúa Trời trong Đức Chúa Giê-su Christ đối với anh em là như vậy." — 1 Tê-sa-lô-ni-ca 5:18
@@ -14,6 +15,8 @@ part_of_series: true
 Khi Phao-lô viết những dòng cuối cùng của thư Cô-lô-se, ông không kết thúc bằng một bài thần học cao siêu hay một mệnh lệnh lớn lao. Ông kết thúc bằng những cái tên — Ty-chi-cơ, Ô-nê-sim, A-ri-tạc, Mác, Lu-ca, Ê-pháp-ra, Nim-pha. Những cái tên bình thường của những con người bình thường. Nhưng chính những con người ấy đã giữ cho ngọn lửa phúc âm không bao giờ tắt.
 
 Có lẽ đây là bài học sâu sắc nhất mà Cô-lô-se chương 4 dạy chúng ta: sứ mạng của Đức Chúa Trời không bao giờ là cuộc chiến của một người.
+
+![Không Ai Chiến Đấu Một Mình](/images/khong-ai-chien-dau-mot-minh.webp)
 
 Phao-lô đang ở trong tù. Ông không thể đi đâu, không thể đứng trước đám đông giảng dạy, không thể đặt chân lên con đường truyền giáo quen thuộc. Nhưng từ trong xiềng xích, ông vẫn kết nối, vẫn gửi người đi, vẫn viết thư, vẫn cầu nguyện. Ông hiểu rằng giới hạn của mình không phải là giới hạn của Đức Chúa Trời. Ty-chi-cơ sẽ là đôi chân của ông. Ô-nê-sim sẽ là bằng chứng sống của phúc âm biến đổi. Ê-pháp-ra sẽ quỳ gối cầu thay cho những hội thánh mà Phao-lô chưa bao giờ đặt chân đến.
 
