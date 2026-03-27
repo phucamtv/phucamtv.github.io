@@ -4,5 +4,5 @@ slug: mark-finley
 email: ""
 phone: ""
 country: "Hoa Kỳ"
-avatar: "mark-finley.png"
+avatar: "mark-finley.webp"
 ---

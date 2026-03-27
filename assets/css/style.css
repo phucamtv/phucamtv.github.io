@@ -330,6 +330,30 @@ footer {
   max-width: 800px;
 }
 
+.article-main {
+  max-width: 750px;
+  min-width: 0;
+}
+
+.article-main figure {
+  margin: 1.5rem 0;
+}
+
+.article-main img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.article-main figcaption {
+  font-size: 0.85rem;
+  color: #888;
+  text-align: center;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
 .article-main h1 {
   margin-bottom: 1rem;
 }
