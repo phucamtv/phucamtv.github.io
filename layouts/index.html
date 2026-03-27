@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="home" style="max-width:800px">
   {{ .Content }}
-  {{ $pages := where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true }}
+  {{ $pages := where (where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil }}
   {{ $paginator := .Paginate $pages }}
   {{ range $paginator.Pages }}
   <article class="summary">
