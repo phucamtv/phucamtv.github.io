@@ -3,7 +3,7 @@
 build:
 	hugo --minify
 
-serve:
+dev:
 	hugo server -D --buildFuture
 
 clean:

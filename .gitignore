@@ -1,3 +1,6 @@
 public/
 .hugo_build.lock
 .env
+.claude/data/
+.claude/tasks/
+*.log
