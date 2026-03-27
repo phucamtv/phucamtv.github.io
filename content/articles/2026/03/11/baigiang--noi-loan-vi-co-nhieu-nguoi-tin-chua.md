@@ -1,6 +1,7 @@
 ---
 title: "Nổi Loạn Vì Có Nhiều Người Tin Chúa | Công-vụ các Sứ-đồ 19:21-41"
 date: 2026-03-11
+url: /baigiang/noi-loan-vi-co-nhieu-nguoi-tin-chua/
 description: "Học hỏi Công-vụ các Sứ-đồ 19:21-41 — Phao-lô quyên tiền giúp Hội Thánh Giê-ru-sa-lem nghèo khó, rồi cuộc nổi loạn tại Ê-phê-sô khi thợ bạc Đê-mê-triu kích động dân chúng vì việc truyền giáo ảnh hưởng đến nguồn lợi kinh doanh tượng thần."
 tags: ["Phao-lô", "Công-vụ các Sứ-đồ", "Đức Tin", "Hội Thánh", "Bắt Bớ"]
 authors: ["duong-quang-thoai"]

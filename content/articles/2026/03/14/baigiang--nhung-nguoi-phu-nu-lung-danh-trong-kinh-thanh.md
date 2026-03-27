@@ -1,6 +1,7 @@
 ---
 title: "Những Người Phụ Nữ Lừng Danh Trong Kinh-Thánh"
 date: 2026-03-14
+url: /baigiang/nhung-nguoi-phu-nu-lung-danh-trong-kinh-thanh/
 description: "Tổng hợp 35 người phụ nữ trong Kinh Thánh — 18 gương xấu và 17 gương tốt — từ Ê-va, Sa-ra, Đa-li-la đến Ma-ri, Ru-tơ, Ê-xơ-tê và Đô-ca. Bài học về thiên chức người phụ nữ trong gia đình và trong chương trình cứu rỗi của Đức Chúa Trời."
 tags: ["Phụ Nữ", "Nhân Vật Kinh Thánh", "Gia Đình", "Gương Đức Tin", "Sáng-thế Ký"]
 authors: ["duong-quang-thoai"]

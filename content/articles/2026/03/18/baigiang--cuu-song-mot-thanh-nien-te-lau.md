@@ -1,6 +1,7 @@
 ---
 title: "Cứu Sống Một Thanh Niên Té Lầu | Công-vụ 20:1-16"
 date: 2026-03-18
+url: /baigiang/cuu-song-mot-thanh-nien-te-lau/
 description: "Học hỏi Công-vụ các Sứ-đồ 20:1-16 — hành trình Phao-lô qua Ma-xê-đoan và Hy Lạp, câu chuyện cứu sống kỳ diệu chàng Ơ-tích té từ tầng lầu thứ ba, và lòng khao khát của Phao-lô muốn về Giê-ru-sa-lem dự Lễ Ngũ Tuần."
 tags: ["Phao-lô", "Công-vụ các Sứ-đồ", "Hội Thánh", "Đức Tin", "Tiệc Thánh"]
 authors: ["duong-quang-thoai"]

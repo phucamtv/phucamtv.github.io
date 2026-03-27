@@ -1,6 +1,7 @@
 ---
 title: "Chỉ Trong Một Ngày! | Chắp Cánh Bay Cao"
 date: 2020-04-20
+url: /baigiang/chi-trong-mot-ngay/
 description: "Thành Rô-ma mất cả trăm năm để xây dựng nhưng bị thiêu rụi chỉ trong một ngày — bài học về việc vun đắp những giá trị tinh thần bền vững và cần sự khôn ngoan của Chúa để duy trì, không phá đổ."
 tags: ["Đời Sống", "Gia Đình", "Khôn Ngoan", "Chắp Cánh Bay Cao", "Truyền Đạo"]
 authors: ["duong-quang-thoai"]

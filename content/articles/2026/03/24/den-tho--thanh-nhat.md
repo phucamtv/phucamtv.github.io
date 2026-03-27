@@ -1,6 +1,6 @@
 ---
 title: "Vật chí thánh trong Đền Thánh?"
-slug: /den-tho/vat-chi-thanh
+url: /den-tho/vat-chi-thanh/
 date: 2026-03-10
 description: "Suy ngẫm về đền thánh và kế hoạch cứu rỗi của Đức Chúa Trời — từ chiên con sinh tế, chức vụ thầy tế lễ, bảy kỳ lễ tiên tri, đến câu trả lời bất ngờ: bàn thờ là thánh nhất."
 tags: ["Đền Thánh", "Kế Hoạch Cứu Rỗi", "Thánh Kinh"]

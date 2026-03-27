@@ -1,6 +1,7 @@
 ---
 title: "Bán Máu Nuôi Con | Chắp Cánh Bay Cao"
 date: 2020-04-06
+url: /baigiang/ban-mau-nuoi-con/
 description: "Câu chuyện có thật về một người mẹ bán máu để nuôi hai con gái — bài học cảm động về tình hy sinh của cha mẹ và lời kêu gọi hiếu kính cha mẹ theo Lời Chúa."
 tags: ["Gia Đình", "Cha Mẹ", "Hiếu Kính", "Hy Sinh", "Tình Yêu Thương", "Chắp Cánh Bay Cao"]
 authors: ["duong-quang-thoai"]

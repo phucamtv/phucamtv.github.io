@@ -1,6 +1,7 @@
 ---
 title: "Những Kẻ Mạo Danh Chúa | Công-vụ 19:1-20"
 date: 2026-03-04
+url: /baigiang/nhung-ke-mao-danh-chua/
 description: "Bài học từ Công-vụ 19:1-20 về ba chủ đề: sự phân biệt giữa báp-têm của Giăng và báp-têm trong danh Chúa Giê-su, tình yêu mến Lời Chúa qua gương của Phao-lô và các môn đồ tại trường Tiranu, và cảnh báo về những kẻ mạo danh Chúa cùng hậu quả nghiêm trọng khi bảy con trai của Sê-va bị quỷ dữ đánh đuổi."
 tags: ["Công-vụ Các Sứ Đồ", "Báp-têm", "Đức Thánh Linh", "Lời Chúa", "Mạo Danh", "Danh Chúa", "Ê-phê-sô"]
 authors: ["duong-quang-thoai"]

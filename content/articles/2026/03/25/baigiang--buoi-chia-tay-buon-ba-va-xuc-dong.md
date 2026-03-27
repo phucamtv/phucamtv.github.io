@@ -1,6 +1,7 @@
 ---
 title: "Buổi Chia Tay Buồn Bã Và Xúc Động | Công-vụ 20:17-38"
 date: 2026-03-25
+url: /baigiang/buoi-chia-tay-buon-ba-va-xuc-dong/
 description: "Học hỏi Công-vụ 20:17-38 — bài học sâu sắc từ lời chia tay của Phao-lô với các trưởng lão Ê-phê-sô: sống minh bạch, hầu việc Chúa với khiêm nhường, cảnh báo về 'muôn sói', và tinh thần không kể sự sống mình làm quý."
 tags: ["Phao-lô", "Công-vụ các Sứ-đồ", "Hội Thánh", "Chức Vụ", "Khiêm Nhường", "Đức Tin"]
 authors: ["duong-quang-thoai"]

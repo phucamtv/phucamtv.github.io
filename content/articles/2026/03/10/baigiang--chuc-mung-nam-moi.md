@@ -1,6 +1,7 @@
 ---
 title: "Chúc Mừng Năm Mới"
 date: 2026-03-10
+url: /baigiang/chuc-mung-nam-moi/
 description: "Bài chia sẻ nhân dịp Tết Bính Ngọ tại Hội Thánh Cơ Đốc Phục Lâm Cần Thơ — năm mới thật sự hạnh phúc không đến từ lời chúc hay bánh tét, mà đến từ sự tái sanh và bước đi theo Thánh Linh, với chủ đích mới là sự cứu rỗi trong ngày Chúa tái lâm."
 tags: ["Tái Sanh", "Năm Mới", "Thánh Linh", "Cứu Rỗi", "Đức Tin", "Đời Sống Mới"]
 authors: ["tran-vinh-hai"]

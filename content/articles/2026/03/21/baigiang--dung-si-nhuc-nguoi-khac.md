@@ -1,6 +1,7 @@
 ---
 title: "Đừng Sỉ Nhục Người Khác!"
 date: 2026-03-21
+url: /baigiang/dung-si-nhuc-nguoi-khac/
 description: "Từ câu chuyện bà Heather Cho (Korea Air Lines) bị kết án tù vì sỉ nhục tiếp viên, bài học Kinh Thánh về tội hà hiếp người khác, thói kiêu ngạo hách dịch, và lời kêu gọi sống khiêm nhường tôn trọng mọi người."
 tags: ["Nhân Cách", "Khiêm Nhường", "Kiêu Ngạo", "Đối Nhân Xử Thế", "Gia Đình"]
 authors: ["duong-quang-thoai"]

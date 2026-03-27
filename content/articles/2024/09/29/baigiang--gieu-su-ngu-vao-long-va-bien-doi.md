@@ -1,6 +1,7 @@
 ---
 title: "Giê-su Ngự Vào Lòng Và Biến Đổi"
 date: 2024-09-29
+url: /baigiang/gieu-su-ngu-vao-long-va-bien-doi/
 description: "Bài giảng tại Lễ Báp-têm Hội Thánh Cần Thơ ngày 21.09.2024 — khám phá bảy đặc điểm quyền năng của Lời Chúa: tạo dựng, tái tạo, cai trị thiên nhiên, xây dựng đức tin, ban sự bình an, sưởi ấm lòng, và đem lại niềm vui. Lời Chúa là nền tảng duy nhất để được biến đổi và chuẩn bị cho lễ báp-têm."
 tags: ["Lời Chúa", "Báp-têm", "Đức Tin", "Biến Đổi", "Thánh Linh", "Sự Cứu Rỗi"]
 authors: ["joni-de-oliveira"]
