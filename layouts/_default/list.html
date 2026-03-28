@@ -1,9 +1,35 @@
 {{ define "main" }}
+{{- $pathParts := split (strings.TrimPrefix "/articles/" .Path) "/" -}}
+{{- $isArchive := and (ge (len $pathParts) 2) (findRE `^\d{4}$` (index $pathParts 0)) -}}
+{{- if $isArchive -}}
+<div class="home-layout">
+  <section class="home-main">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{- $yearMonth := printf "%s/%s" (index $pathParts 0) (index $pathParts 1) -}}
+    {{- $allPages := where (where site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil -}}
+    {{- range $allPages -}}
+      {{- if eq (.Date.Format "2006/01") $yearMonth -}}
+    <article class="summary">
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+      {{ with .Params.tags }}
+      <span class="tags">
+        {{ range . }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+      </span>
+      {{ end }}
+    </article>
+      {{- end -}}
+    {{- end -}}
+  </section>
+  {{ partial "month-nav.html" . }}
+</div>
+{{- else -}}
 <section class="list" style="max-width:800px">
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages.ByDate.Reverse }}
-  {{ if not .Params.unpublished }}
+  {{ $pages := where (where .RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil }}
+  {{ range $pages }}
   <article class="summary">
     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
@@ -14,6 +40,6 @@
     {{ end }}
   </article>
   {{ end }}
-  {{ end }}
 </section>
+{{- end -}}
 {{ end }}

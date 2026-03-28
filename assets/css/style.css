@@ -314,9 +314,249 @@ footer {
   font-size: 0.78rem;
 }
 
-/* List & home pages: keep narrow */
-.list, .home {
+/* List pages: keep narrow */
+.list {
   max-width: 800px;
+}
+
+/* Home two-column layout */
+.home-layout {
+  display: grid;
+  grid-template-columns: 1fr 260px;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.home-main {
+  min-width: 0;
+}
+
+.home-sidebar {
+  position: sticky;
+  top: 1.5rem;
+}
+
+/* Month navigation */
+.sidebar-card--months {
+  max-height: calc(100vh - 3rem);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.month-nav {
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #d4c9b8 transparent;
+}
+
+/* Hide toggle arrow on desktop */
+.sidebar-heading--mobile-toggle::after {
+  display: none;
+}
+
+.sidebar-heading--mobile-toggle {
+  list-style: none;
+  cursor: default;
+}
+
+.sidebar-heading--mobile-toggle::-webkit-details-marker {
+  display: none;
+}
+
+.month-nav-year {
+  border-bottom: 1px solid #ebe6dd;
+}
+
+.month-nav-year:last-child {
+  border-bottom: none;
+}
+
+.month-nav-year-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.6rem 0.5rem;
+  font-family: "Lora", Georgia, serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #3d3529;
+  cursor: pointer;
+  user-select: none;
+  list-style: none;
+  transition: color 0.15s ease;
+}
+
+.month-nav-year-label::-webkit-details-marker {
+  display: none;
+}
+
+.month-nav-year-label::after {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-right: 1.5px solid #a09585;
+  border-bottom: 1.5px solid #a09585;
+  transform: rotate(-45deg);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+.month-nav-year[open] > .month-nav-year-label::after {
+  transform: rotate(45deg);
+}
+
+.month-nav-year-label:hover {
+  color: #5c5347;
+}
+
+.month-nav-list {
+  list-style: none;
+  padding: 0 0 0.4rem;
+  margin: 0;
+}
+
+.month-nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.35rem 0.5rem 0.35rem 1.1rem;
+  text-decoration: none;
+  font-size: 0.84rem;
+  color: #5c5347;
+  border-radius: 4px;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.month-nav-link:hover {
+  background: rgba(0, 0, 0, 0.04);
+  color: #3d3529;
+}
+
+.month-nav-link--active {
+  background: #ebe6dd;
+  color: #3d3529;
+  font-weight: 600;
+}
+
+.month-nav-month {
+  flex: 1;
+}
+
+.month-nav-count {
+  font-size: 0.72rem;
+  color: #a09585;
+  background: rgba(0, 0, 0, 0.03);
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+@media (max-width: 860px) {
+  .home-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .home-sidebar {
+    position: static;
+    margin: 0 -1rem;
+    padding: 0 1rem;
+  }
+
+  .sidebar-card--months {
+    max-height: none;
+    background: transparent;
+    border: none;
+    border-top: 1px solid #e2dacf;
+    border-radius: 0;
+    padding: 0;
+    overflow: visible;
+  }
+
+  /* Hide heading on mobile, prevent collapsing */
+  .sidebar-card--months > .sidebar-heading {
+    display: none;
+    pointer-events: none;
+  }
+
+  /* Override details/summary behavior on mobile */
+  .sidebar-card--months[open] > .month-nav,
+  .sidebar-card--months:not([open]) > .month-nav {
+    display: block;
+  }
+
+  /* Flatten structure: hide year labels, show all months inline */
+  .month-nav {
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding: 0.6rem 0 0.4rem;
+    white-space: nowrap;
+  }
+
+  .month-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .month-nav-year {
+    display: inline;
+    border-bottom: none;
+  }
+
+  .month-nav-year-label {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #8a7f72;
+    padding: 0 0.25rem 0 0;
+    letter-spacing: 0.03em;
+  }
+
+  .month-nav-year-label::after {
+    display: none;
+  }
+
+  .month-nav-list {
+    display: inline;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .month-nav-list li {
+    display: inline;
+  }
+
+  .month-nav-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.2rem;
+    padding: 0.3rem 0.55rem;
+    margin: 0.15rem 0.15rem;
+    font-size: 0.78rem;
+    background: #f5f2ed;
+    border: 1px solid #e2dacf;
+    border-radius: 4px;
+    color: #5c5347;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+
+  .month-nav-link:hover {
+    background: #ebe6dd;
+    border-color: #b8a88a;
+    color: #3d3529;
+  }
+
+  .month-nav-count {
+    background: none;
+    padding: 0;
+    font-size: 0.65rem;
+    color: #a09585;
+  }
 }
 
 /* Article two-column layout */

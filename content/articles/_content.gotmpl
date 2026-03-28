@@ -1,0 +1,28 @@
+{{- $ctx := . -}}
+{{- range readDir "content/articles" -}}
+  {{- if .IsDir -}}
+    {{- $year := .Name -}}
+    {{- if findRE `^\d{4}$` $year -}}
+      {{- $ctx.AddPage (dict
+        "kind" "section"
+        "path" $year
+        "title" $year
+        "url" (printf "/%s/" $year)
+      ) -}}
+      {{- range readDir (printf "content/articles/%s" $year) -}}
+        {{- if .IsDir -}}
+          {{- $month := .Name -}}
+          {{- if findRE `^\d{2}$` $month -}}
+            {{- $monthNum := int (strings.TrimLeft "0" $month) -}}
+            {{- $ctx.AddPage (dict
+              "kind" "section"
+              "path" (printf "%s/%s" $year $month)
+              "title" (printf "Tháng %d, %s" $monthNum $year)
+              "url" (printf "/%s/%s/" $year $month)
+            ) -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

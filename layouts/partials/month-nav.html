@@ -1,0 +1,47 @@
+{{- $pathParts := split (strings.TrimPrefix "/articles/" .Path) "/" -}}
+{{- $activeYearMonth := "" -}}
+{{- if and (ge (len $pathParts) 2) (findRE `^\d{4}$` (index $pathParts 0)) -}}
+  {{- $activeYearMonth = printf "%s/%s" (index $pathParts 0) (index $pathParts 1) -}}
+{{- end -}}
+{{- $activeYear := cond (ne $activeYearMonth "") (substr $activeYearMonth 0 4) (now.Format "2006") -}}
+<aside class="home-sidebar">
+  <details class="sidebar-card sidebar-card--months" open>
+    <summary class="sidebar-heading sidebar-heading--mobile-toggle">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-right:0.35rem;color:#b8a88a"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Lưu trữ
+    </summary>
+    <nav class="month-nav" aria-label="Lưu trữ theo tháng">
+      {{- $allPages := where (where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil -}}
+      {{- $grouped := dict -}}
+      {{- range $allPages -}}
+        {{- $key := .Date.Format "2006/01" -}}
+        {{- $count := index $grouped $key | default 0 -}}
+        {{- $grouped = merge $grouped (dict $key (add $count 1)) -}}
+      {{- end -}}
+      {{- $keys := slice -}}
+      {{- range $key, $_ := $grouped -}}
+        {{- $keys = $keys | append $key -}}
+      {{- end -}}
+      {{- $keys = sort $keys "value" "desc" -}}
+      {{- $currentYear := "" -}}
+      {{- range $keys -}}
+        {{- $year := substr . 0 4 -}}
+        {{- $month := substr . 5 2 -}}
+        {{- $count := index $grouped . -}}
+        {{- if ne $year $currentYear -}}
+          {{- if ne $currentYear "" }}</ul></details>{{ end -}}
+          {{- $currentYear = $year -}}
+          <details class="month-nav-year" name="archive"{{ if eq $year $activeYear }} open{{ end }}>
+            <summary class="month-nav-year-label">{{ $year }}</summary>
+            <ul class="month-nav-list">
+        {{- end -}}
+              <li>
+                <a href="/{{ . }}/" class="month-nav-link{{ if eq . $activeYearMonth }} month-nav-link--active{{ end }}">
+                  <span class="month-nav-month">Tháng {{ strings.TrimLeft "0" $month }}</span>
+                  <span class="month-nav-count">{{ $count }} bài</span>
+                </a>
+              </li>
+      {{- end -}}
+      {{- if ne $currentYear "" }}</ul></details>{{ end -}}
+    </nav>
+  </details>
+</aside>
