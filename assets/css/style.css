@@ -368,13 +368,73 @@ footer {
 }
 
 /* Author sidebar */
+.author-sidebar {
+  position: sticky;
+  top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
 .sidebar-card {
   background: linear-gradient(170deg, #faf8f4 0%, #f3efe8 100%);
   border: 1px solid #e2dacf;
   border-radius: 10px;
   padding: 1.5rem;
-  position: sticky;
-  top: 1.5rem;
+}
+
+/* Tag cloud */
+.sidebar-card--tags {
+  max-height: calc(100vh - 22rem);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-card--tags .sidebar-heading {
+  flex-shrink: 0;
+}
+
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #d4c9b8 transparent;
+}
+
+.tag-cloud-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.8rem;
+  text-decoration: none;
+  color: #5c5347;
+  background: rgba(0, 0, 0, 0.03);
+  border: 1px solid #e2dacf;
+  border-radius: 5px;
+  padding: 0.25rem 0.5rem;
+  transition: all 0.2s ease;
+}
+
+.tag-cloud-item:hover {
+  color: #3d3529;
+  background: rgba(0, 0, 0, 0.06);
+  border-color: #b8a88a;
+}
+
+.tag-cloud-item svg {
+  width: 12px;
+  height: 12px;
+  color: #b8a88a;
+  flex-shrink: 0;
+}
+
+.tag-cloud-count {
+  font-size: 0.7rem;
+  color: #a09585;
+  margin-left: 0.1rem;
 }
 
 .sidebar-heading {
@@ -595,6 +655,8 @@ footer {
 
   .author-sidebar {
     order: -1;
+    position: static;
+    gap: 0;
   }
 
   .article-layout:has(.doctrine-sidebar) .author-sidebar {
@@ -652,6 +714,23 @@ footer {
   .sidebar-field--email,
   .sidebar-section {
     display: none;
+  }
+
+  .sidebar-card--tags {
+    background: transparent;
+    border: none;
+    border-top: 1px solid #e2dacf;
+    border-radius: 0;
+    padding: 0.75rem 0 0 0;
+    display: block;
+  }
+
+  .sidebar-card--tags .sidebar-heading {
+    display: block;
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0;
+    border-bottom: none;
   }
 }
 

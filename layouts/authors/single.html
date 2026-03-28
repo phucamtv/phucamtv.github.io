@@ -71,6 +71,31 @@
         {{ end }}
       </div>
     </div>
+
+    {{/* Collect tags from this author's articles */}}
+    {{ $tagMap := newScratch }}
+    {{ range where $.Site.RegularPages "Params.unpublished" "ne" true }}
+      {{ if in .Params.authors $slug }}
+        {{ range .Params.tags }}
+          {{ $tagMap.Add . 1 }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{ with $tagMap.Values }}
+    <div class="sidebar-card sidebar-card--tags">
+      <div class="sidebar-heading">Chủ đề</div>
+      <div class="tag-cloud">
+        {{ range $tag, $count := . }}
+        <a href="{{ "tags/" | relURL }}{{ $tag | urlize }}/" class="tag-cloud-item" data-count="{{ $count }}">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
+          {{ $tag }}
+          <span class="tag-cloud-count">{{ $count }}</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
   </aside>
 </div>
 {{ end }}
