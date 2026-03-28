@@ -1,36 +1,110 @@
 {{ define "main" }}
-<section class="home" style="max-width:800px">
-  {{ .Content }}
-  {{ $pages := where (where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil }}
-  {{ $paginator := .Paginate $pages }}
-  {{ range $paginator.Pages }}
-  <article class="summary">
-    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
-    {{ with .Params.tags }}
-    <span class="tags">
-      {{ range . }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
-    </span>
-    {{ end }}
-  </article>
-  {{ end }}
-
-  {{ if gt $paginator.TotalPages 1 }}
-  <nav class="pagination">
-    {{ if $paginator.HasPrev }}
-      <a href="{{ $paginator.Prev.URL }}" class="pagination-prev">&laquo; Mới hơn</a>
-    {{ end }}
-    {{ range $paginator.Pagers }}
-      {{ if eq . $paginator }}
-        <span class="pagination-current">{{ .PageNumber }}</span>
-      {{ else }}
-        <a href="{{ .URL }}">{{ .PageNumber }}</a>
+<div class="home-layout">
+  <section class="home-main">
+    {{ .Content }}
+    {{ $pages := where (where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil }}
+    {{ $paginator := .Paginate $pages }}
+    {{ range $paginator.Pages }}
+    <article class="summary">
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+      {{ with .Params.tags }}
+      <span class="tags">
+        {{ range . }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+      </span>
       {{ end }}
+    </article>
     {{ end }}
-    {{ if $paginator.HasNext }}
-      <a href="{{ $paginator.Next.URL }}" class="pagination-next">Cũ hơn &raquo;</a>
+
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="pagination" role="navigation" aria-label="Phân trang">
+      {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="pagination-arrow pagination-prev" aria-label="Trang trước">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+        </a>
+      {{ else }}
+        <span class="pagination-arrow pagination-arrow--disabled" aria-hidden="true">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+        </span>
+      {{ end }}
+
+      {{ $current := $paginator.PageNumber }}
+      {{ $total := $paginator.TotalPages }}
+      {{ $windowSize := 2 }}
+      {{ range $paginator.Pagers }}
+        {{ $pn := .PageNumber }}
+        {{ $showPage := false }}
+        {{ if or (eq $pn 1) (eq $pn $total) }}{{ $showPage = true }}{{ end }}
+        {{ if and (ge $pn (sub $current $windowSize)) (le $pn (add $current $windowSize)) }}{{ $showPage = true }}{{ end }}
+
+        {{ if $showPage }}
+          {{ if eq $pn $current }}
+            <span class="pagination-current" aria-current="page">{{ $pn }}</span>
+          {{ else }}
+            <a href="{{ .URL }}" class="pagination-page">{{ $pn }}</a>
+          {{ end }}
+        {{ else }}
+          {{ if or (eq $pn (add 1 1)) (eq $pn (sub $total 1)) }}
+            <span class="pagination-ellipsis" aria-hidden="true">&hellip;</span>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="pagination-arrow pagination-next" aria-label="Trang sau">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"/></svg>
+        </a>
+      {{ else }}
+        <span class="pagination-arrow pagination-arrow--disabled" aria-hidden="true">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 6 15 12 9 18"/></svg>
+        </span>
+      {{ end }}
+
+      <span class="pagination-indicator">Trang {{ $current }} / {{ $total }}</span>
+    </nav>
     {{ end }}
-  </nav>
-  {{ end }}
-</section>
+  </section>
+
+  <aside class="home-sidebar">
+    <div class="sidebar-card sidebar-card--months">
+      <h2 class="sidebar-heading">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px;margin-right:0.35rem;color:#b8a88a"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Lưu trữ
+      </h2>
+      <nav class="month-nav" aria-label="Lưu trữ theo tháng">
+        {{- $allPages := where (where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil -}}
+        {{- $grouped := dict -}}
+        {{- range $allPages -}}
+          {{- $key := .Date.Format "2006/01" -}}
+          {{- $count := index $grouped $key | default 0 -}}
+          {{- $grouped = merge $grouped (dict $key (add $count 1)) -}}
+        {{- end -}}
+        {{- $keys := slice -}}
+        {{- range $key, $_ := $grouped -}}
+          {{- $keys = $keys | append $key -}}
+        {{- end -}}
+        {{- $keys = sort $keys "value" "desc" -}}
+        {{- $currentYear := "" -}}
+        {{- range $keys -}}
+          {{- $year := substr . 0 4 -}}
+          {{- $month := substr . 5 2 -}}
+          {{- $count := index $grouped . -}}
+          {{- if ne $year $currentYear -}}
+            {{- if ne $currentYear "" }}</ul></details>{{ end -}}
+            {{- $currentYear = $year -}}
+            <details class="month-nav-year"{{ if eq $year (now.Format "2006") }} open{{ end }}>
+              <summary class="month-nav-year-label">{{ $year }}</summary>
+              <ul class="month-nav-list">
+          {{- end -}}
+                <li>
+                  <a href="/articles/{{ . }}/" class="month-nav-link">
+                    <span class="month-nav-month">Tháng {{ int $month }}</span>
+                    <span class="month-nav-count">{{ $count }} bài</span>
+                  </a>
+                </li>
+        {{- end -}}
+        {{- if ne $currentYear "" }}</ul></details>{{ end -}}
+      </nav>
+    </div>
+  </aside>
+</div>
 {{ end }}
