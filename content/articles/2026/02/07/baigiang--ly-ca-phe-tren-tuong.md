@@ -3,7 +3,7 @@ title: "Ly Cà-Phê Trên Tường"
 date: 2026-02-07
 url: /baigiang/ly-ca-phe-tren-tuong/
 description: "Từ câu chuyện 'ly cà-phê trên tường' khởi phát tại thành phố Napoli nước Ý, bài giảng rút ra ba bài học Kinh Thánh: người nghèo là hiện thân của Chúa Cứu Thế (Ma-thi-ơ 25), làm việc lành không cần phô trương, và mọi điều chúng ta giúp kẻ nghèo đều được Đức Chúa Trời ghi nhận và trả lại với lãi suất (Châm Ngôn 19:17)."
-tags: ["Việc Lành", "Người Nghèo", "Lòng Thương Xót", "Bố Thí", "Ma-thi-ơ 25", "Gieo Gặt", "Đức Tin Thực Hành"]
+tags: ["Việc Lành", "Người Nghèo", "Lòng Thương Xót", "Bố Thí", "Ma-thi-ơ 25", "Gieo Gặt", "Đức Tin"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["VT8lKxDi7ks"]

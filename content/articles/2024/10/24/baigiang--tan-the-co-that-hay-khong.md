@@ -2,7 +2,7 @@
 title: "Tận Thế Có Thật Hay Không"
 date: 2024-10-24
 description: "Bài giảng giải đáp câu hỏi tận thế có thật hay không dựa trên Ma-thi-ơ 24:3, phân tích các dấu hiệu ngày cuối cùng và sự tái lâm của Đức Chúa Giêsu theo lời tiên tri trong Kinh Thánh."
-tags: ["Tận Thế", "Tái Lâm", "Lời Tiên Tri", "Ngày Cuối Cùng"]
+tags: ["Tận Thế", "Sự Tái Lâm", "Lời Tiên Tri", "Ngày Cuối Cùng"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["0cSlFj84q10"]

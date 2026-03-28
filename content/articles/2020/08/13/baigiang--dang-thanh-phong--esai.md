@@ -1,7 +1,7 @@
 ---
 title: "Tiên tri Ê-sai thờ phượng Chúa"
 date: 2020-08-13
-tags: ["Nhân Vật", "Sự Thờ Phượng"]
+tags: ["Nhân Vật", "Thờ Phượng"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["WW-EdRi1kp8"]

@@ -2,7 +2,7 @@
 title: "Chắp Cánh Bay Cao - Lòng Can Đảm"
 date: 2020-05-30
 description: "Câu chuyện cảm động về một cậu bé sẵn sàng hy sinh mạng sống để cứu chị gái, là minh chứng sống động cho tình yêu thực sự mà Chúa đòi hỏi nơi chúng ta."
-tags: ["Chắp Cánh Bay Cao", "Tình yêu", "Hy sinh"]
+tags: ["Chắp Cánh Bay Cao", "Tình Yêu Thương", "Hy Sinh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["6JuqWyiZLLk"]

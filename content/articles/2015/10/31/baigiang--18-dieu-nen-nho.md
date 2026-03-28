@@ -3,7 +3,7 @@ title: "18 Điều Nên Nhớ"
 date: 2015-10-31
 url: /baigiang/18-dieu-nen-nho/
 description: "Suy gẫm 18 bài học quý giá từ văn hóa Nhật Bản dưới ánh sáng Kinh Thánh — về giá trị con người, những điều làm hỏng cuộc sống, những thứ không lấy lại được, và ba điều quý nhất trên đời: đức tin, hy vọng và tình yêu thương."
-tags: ["Văn Hóa", "Kinh Thánh", "Giá Trị Sống", "Tình Yêu Thương", "Đức Tin", "Hy Vọng"]
+tags: ["Văn Hóa", "Thánh Kinh", "Giá Trị Sống", "Tình Yêu Thương", "Đức Tin", "Hy Vọng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["0SU8oYGIZmw"]

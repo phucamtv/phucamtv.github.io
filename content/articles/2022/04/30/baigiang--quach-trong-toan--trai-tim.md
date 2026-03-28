@@ -1,7 +1,7 @@
 ---
 title: "Những bài học từ trái tim"
 date: 2022-04-30
-tags: []
+tags: ["Tấm Lòng", "Đời Sống Cơ Đốc"]
 authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["RoY4M6BlUho"]

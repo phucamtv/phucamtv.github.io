@@ -3,12 +3,7 @@ title: "Chúa Yêu Những Gì Thuộc Về Ngài"
 date: 2020-06-22
 url: /baigiang/chua-yeu-nhung-gi-thuoc-ve-ngai/
 description: "Suy ngẫm về tình yêu bất biến của Đức Chúa Trời dành cho mọi tạo vật của Ngài, qua câu chuyện về nhà soạn nhạc Irving Berlin và lời Kinh Thánh Giăng 13:1."
-tags:
-  - tình yêu Chúa
-  - tạo vật
-  - Kinh Thánh
-  - Giăng
-  - Chắp Cánh Bay Cao
+tags: ["Tình Yêu Thương", "Tạo Vật", "Thánh Kinh", "Giăng", "Chắp Cánh Bay Cao"]
 authors:
   - duong-quang-thoai
 plugins:

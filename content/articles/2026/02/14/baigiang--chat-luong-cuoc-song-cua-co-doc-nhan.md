@@ -3,7 +3,7 @@ title: "Chất Lượng Cuộc Sống Của Cơ-Đốc Nhân | Ma-thi-ơ 5:13-16
 date: 2026-02-14
 url: /baigiang/chat-luong-cuoc-song-cua-co-doc-nhan/
 description: "Bốn điều nâng cao chất lượng cuộc sống của Cơ-Đốc nhân dựa trên Ma-thi-ơ 5:13-16 — muối và ánh sáng: học Kinh Thánh và cầu nguyện, chăm sóc sức khỏe và dinh dưỡng, lao động với tinh thần phục vụ, và nghỉ ngơi với sự tiết độ trong mọi sinh hoạt."
-tags: ["Ma-thi-ơ", "Muối và Ánh Sáng", "Đời Sống Cơ Đốc", "Kinh Thánh", "Cầu Nguyện", "Sức Khỏe", "Phục Vụ", "Tiết Độ"]
+tags: ["Ma-thi-ơ", "Muối Và Ánh Sáng", "Đời Sống Cơ Đốc", "Thánh Kinh", "Cầu Nguyện", "Sức Khỏe", "Phục Vụ", "Tiết Độ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["4sQnu6teEFI"]

@@ -3,7 +3,7 @@ title: "Những Lời Hứa Của Chúa"
 date: 2022-03-26
 url: /baigiang/nhung-loi-hua-cua-chua/
 description: "Bài giảng về giá trị của những lời hứa Đức Chúa Trời trong Kinh Thánh — từ lời hứa tha thứ, cứu rỗi, đến sự tái lâm. Với 5.891 lời hứa được ghi nhận, Đức Chúa Trời là Đấng Thành Tín, không bao giờ thất hứa, và mỗi lời hứa của Ngài là sức mạnh, niềm hy vọng cho đời sống Cơ Đốc nhân."
-tags: ["Lời Hứa", "Đức Chúa Trời", "Đức Tin", "Sự Tha Thứ", "Sự Cứu Rỗi", "Sự Tái Lâm", "Kinh Thánh"]
+tags: ["Lời Hứa", "Đức Chúa Trời", "Đức Tin", "Sự Tha Thứ", "Sự Cứu Rỗi", "Sự Tái Lâm", "Thánh Kinh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["1WKFFPiKzOY"]

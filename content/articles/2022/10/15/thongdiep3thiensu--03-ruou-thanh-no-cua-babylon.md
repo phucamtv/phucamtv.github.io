@@ -1,7 +1,7 @@
 ---
 title: "Khải Huyền 14:8 › Rượu thạnh nộ của Ba-by-lôn | Thảo Luận Thánh Kinh"
 date: 2022-10-15
-tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm", "Sự Thờ Phượng", "Ngày Sa-bát", "Luật Pháp"]
+tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm", "Thờ Phượng", "Ngày Sa-bát", "Luật Pháp"]
 authors: ["truong-the-hong", "nguyen-thanh-hung", "nguyen-hung-cuong"]
 plugins: [youtube]
 youtubeIDs: ["M4AWlsqz69I"]

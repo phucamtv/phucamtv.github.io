@@ -3,13 +3,7 @@ title: "Bí Quyết Thành Công Trong Lao Động"
 date: 2020-11-28
 url: /baigiang/bi-quyet-thanh-cong-trong-lao-dong/
 description: "Bài giảng trình bày 7 nguyên tắc từ Kinh Thánh giúp Cơ Đốc nhân đạt được thành công trong lao động và mọi lĩnh vực đời sống."
-tags:
-  - "lao động"
-  - "thành công"
-  - "cầu nguyện"
-  - "tiết độ"
-  - "Cơ Đốc nhân"
-  - "đời sống"
+tags: ["Lao Động", "Thành Công", "Cầu Nguyện", "Tiết Độ", "Cơ Đốc nhân", "Đời Sống"]
 authors:
   - "duong-quang-thoai"
 plugins:

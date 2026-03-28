@@ -1,7 +1,7 @@
 ---
 title: "Khải Huyền 14:8 › Nhận diện Ba-by-lôn - Thảo luận Thánh Kinh"
 date: 2022-09-30
-tags: ["Tiên Tri", "Khải Huyền", "Sự Tái Lâm", "Sự Thờ Phượng"]
+tags: ["Tiên Tri", "Khải Huyền", "Sự Tái Lâm", "Thờ Phượng"]
 authors: ["truong-the-hong", "nguyen-thanh-hung", "nguyen-hung-cuong"]
 plugins: [youtube]
 youtubeIDs: ["EYzX-266G8I"]

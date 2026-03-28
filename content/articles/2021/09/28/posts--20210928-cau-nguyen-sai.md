@@ -1,7 +1,7 @@
 ---
 title: "Những lỗi lầm trong sự cầu nguyện"
 date: 2021-09-28
-tags: ["Sự Cầu Nguyện"]
+tags: ["Cầu Nguyện"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["ch26AJSrUOU"]

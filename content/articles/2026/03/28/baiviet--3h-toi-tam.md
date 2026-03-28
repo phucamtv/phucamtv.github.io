@@ -2,7 +2,7 @@
 title: "Ba Giờ Tối Tăm — Golgotha, ~30 CN"
 url: /baiviet/3h-toi-tam
 date: 2026-03-28
-tags: ["đức tin", "lịch sử", "JESUS", "phục sinh"]
+tags: ["Đức Tin", "Lịch Sử", "JESUS", "Phục Sinh"]
 description: "3 Giờ Tối Tăm phi lô-gic"
 authors: ["truong-the-hong"]
 ---

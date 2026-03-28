@@ -3,7 +3,7 @@ title: "Từ Chối Lời Mời Của Chúa | Lu-ca 14:15-24"
 date: 2026-02-21
 url: /baigiang/tu-choi-loi-moi-cua-chua/
 description: "Nghiên cứu ẩn dụ bữa đại tiệc trong Lu-ca 14:15-24 — ba hạng người từ chối lời mời của Chúa vì đám ruộng, vì năm đôi bò, vì mới cưới vợ — và bài học về việc không để công việc, ham muốn hay gia đình trở thành rào cản giữa chúng ta với Đức Chúa Trời."
-tags: ["Lu-ca", "Ẩn Dụ", "Lời Mời", "Cứu Rỗi", "Nước Thiên Đàng", "Thờ Phượng", "Ưu Tiên"]
+tags: ["Lu-ca", "Ẩn Dụ", "Lời Mời", "Sự Cứu Rỗi", "Nước Thiên Đàng", "Thờ Phượng", "Ưu Tiên"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["h2dlJ_45Zds"]

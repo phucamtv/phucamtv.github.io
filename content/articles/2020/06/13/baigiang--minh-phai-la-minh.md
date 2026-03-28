@@ -2,7 +2,7 @@
 title: "Mình Phải Là Mình!"
 date: 2020-06-13
 description: "Chắp Cánh Bay Cao - Ngày 14.6: Câu chuyện về vị đạo sĩ cứu con bọ cạp dạy chúng ta bài học về bản chất yêu thương của Cơ Đốc Nhân - hãy yêu kẻ thù nghịch."
-tags: ["chắp cánh bay cao"]
+tags: ["Chắp Cánh Bay Cao"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["2bAysG7ZhvI"]

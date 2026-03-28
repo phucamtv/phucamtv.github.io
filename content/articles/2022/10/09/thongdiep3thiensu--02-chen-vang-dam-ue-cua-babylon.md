@@ -1,7 +1,7 @@
 ---
 title: "Khải Huyền 14:8 › Chén vàng dâm uế của Ba-by-lôn | Thảo luận Thánh Kinh"
 date: 2022-10-09
-tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm", "Sự Thờ Phượng"]
+tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm", "Thờ Phượng"]
 authors: ["nguyen-thanh-hung", "truong-the-hong", "nguyen-hung-cuong"]
 plugins: [youtube]
 youtubeIDs: ["lSVRjrqRJU4"]

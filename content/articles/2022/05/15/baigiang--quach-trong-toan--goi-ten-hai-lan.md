@@ -1,7 +1,7 @@
 ---
 title: "Khi Thiên Chúa gọi tên hai lần"
 date: 2022-05-15
-tags: []
+tags: ["Đức Tin", "Nhân Vật", "Lời Chúa"]
 authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["FN-ywefqg2A"]

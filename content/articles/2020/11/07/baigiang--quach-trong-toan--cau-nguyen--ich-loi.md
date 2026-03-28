@@ -1,7 +1,7 @@
 ---
 title: "Ích lợi của sự cầu nguyện"
 date: 2020-11-07
-tags: ["Sự Cầu Nguyện"]
+tags: ["Cầu Nguyện"]
 authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["7Zt54V_DEG8"]

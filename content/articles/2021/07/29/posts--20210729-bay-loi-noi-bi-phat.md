@@ -1,7 +1,7 @@
 ---
 title: "Bảy lời nói bị Chúa phạt"
 date: 2021-07-29
-tags: ["Sự Cầu Nguyện", "Lời Cảnh Báo"]
+tags: ["Cầu Nguyện", "Lời Cảnh Báo"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["DSdyGzLuNQQ"]

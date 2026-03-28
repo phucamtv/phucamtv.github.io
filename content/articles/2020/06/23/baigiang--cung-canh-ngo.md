@@ -3,12 +3,7 @@ title: "Cùng Cảnh Ngộ"
 date: 2020-06-23
 url: /baigiang/cung-canh-ngo/
 description: "Câu chuyện cảm động về phòng đợi khu cấp cứu bệnh viện - nơi con người, dù khác biệt địa vị và giàu nghèo, đều san sẻ nỗi lo lắng và yêu thương nhau như chính mình, dựa trên lời dạy của Kinh Thánh."
-tags:
-  - bài giảng
-  - yêu thương
-  - cảm thông
-  - cuộc sống
-  - Kinh Thánh
+tags: ["Tình Yêu Thương", "Cảm Thông", "Cuộc Sống", "Thánh Kinh"]
 authors:
   - duong-quang-thoai
 plugins:

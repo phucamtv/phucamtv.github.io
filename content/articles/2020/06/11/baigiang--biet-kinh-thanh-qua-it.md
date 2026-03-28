@@ -3,7 +3,7 @@ title: "Biết Kinh Thánh Quá Ít! | Chắp Cánh Bay Cao"
 date: 2020-06-11
 url: /baigiang/biet-kinh-thanh-qua-it/
 description: "Qua câu chuyện hài hước về một hội thánh giàu có nhưng ít học Kinh Thánh, bài tĩnh nguyện nhắc nhở chúng ta rằng Lời Chúa cần phải là ánh sáng và lương thực cho cuộc đời, chứ không chỉ là kiến thức hời hợt bên ngoài."
-tags: ["Chắp Cánh Bay Cao", "Kinh Thánh", "Tĩnh Nguyện", "Lời Chúa", "Đời Sống Thuộc Linh", "2 Ti-mô-thê"]
+tags: ["Chắp Cánh Bay Cao", "Thánh Kinh", "Tĩnh Nguyện", "Lời Chúa", "Đời Sống Thuộc Linh", "2 Ti-mô-thê"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["0sVn4TFLCcw"]

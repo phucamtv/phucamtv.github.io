@@ -3,7 +3,7 @@ title: "Nước Thiên Đàng Ở Đâu?"
 date: 2026-03-10
 url: /baigiang/nuoc-thien-dang-o-dau/
 description: "Bài giảng ngày Mùng Một Tết: khám phá câu hỏi 'Nước thiên đàng ở đâu?' qua Lu-ca 17:20-21, Giăng 14:1-4, và hành trình từ một nước thiên đàng có thật đến nước thiên đàng trong lòng mỗi người."
-tags: ["Nước Thiên Đàng", "Tái Lâm", "Đức Tin", "Tái Sinh", "Biến Đổi", "Bát Phúc"]
+tags: ["Nước Thiên Đàng", "Sự Tái Lâm", "Đức Tin", "Tái Sinh", "Biến Đổi", "Bát Phúc"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["FgDpakFfTdg"]

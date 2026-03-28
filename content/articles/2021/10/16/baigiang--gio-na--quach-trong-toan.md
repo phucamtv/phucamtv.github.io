@@ -1,7 +1,7 @@
 ---
 title: "Giô-na: Lời cầu nguyện từ đáy âm-phủ"
 date: 2021-10-16
-tags: ["Sự Cầu Nguyện"]
+tags: ["Cầu Nguyện"]
 authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["AAHgNCQ2mgs"]

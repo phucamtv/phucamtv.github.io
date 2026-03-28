@@ -3,13 +3,7 @@ title: "Đừng Trêu Chọc Nhau"
 date: 2020-06-17
 url: /baigiang/dung-treu-choc-nhau/
 description: "Câu chuyện cảm động về bé gái Amy Hagadorn và bài học quý báu về sự tôn trọng, thân ái, cảm thông trong cách đối xử với nhau, dựa trên lời dạy của Kinh Thánh Lê-vi-ký 19:14."
-tags:
-  - đối xử
-  - tôn trọng
-  - cảm thông
-  - bài học cuộc sống
-  - trẻ em
-  - lời Chúa
+tags: ["Đối Nhân Xử Thế", "Tôn Trọng", "Cảm Thông", "Bài Học Cuộc Sống", "Trẻ Em", "Lời Chúa"]
 authors:
   - duong-quang-thoai
 plugins:

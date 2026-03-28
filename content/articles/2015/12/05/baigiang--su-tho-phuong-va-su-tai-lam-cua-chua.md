@@ -3,7 +3,7 @@ title: "Sự Thờ Phượng Và Sự Tái Lâm Của Chúa"
 date: 2015-12-05
 url: /baigiang/su-tho-phuong-va-su-tai-lam-cua-chua/
 description: "Bài giảng bồi linh khai thác mối liên hệ sống còn giữa sự thờ phượng chân thật và sự chuẩn bị cho ngày Chúa tái lâm, dựa trên Giăng 4:23, Lu-ca 14:16-24, và sứ điệp ba thiên sứ trong Khải Huyền 14, kêu gọi tín hữu trở lại với sự thờ phượng bằng tâm thần và lẽ thật thay vì sống trong sự chểnh mảng thuộc linh."
-tags: ["Thờ Phượng", "Tái Lâm", "Khải Huyền 14", "Sứ Điệp Ba Thiên Sứ", "Bồi Linh", "Sa-bát", "Giăng 4"]
+tags: ["Thờ Phượng", "Sự Tái Lâm", "Khải Huyền 14", "Sứ Điệp Ba Thiên Sứ", "Bồi Linh", "Sa-bát", "Giăng 4"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["4qd5koRNLxs"]

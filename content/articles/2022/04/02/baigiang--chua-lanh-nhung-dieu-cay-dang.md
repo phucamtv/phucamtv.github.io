@@ -3,7 +3,7 @@ title: "Chữa Lành Những Điều Cay Đắng | Xuất Ê-díp-tô Ký 15:22-
 date: 2022-04-02
 url: /baigiang/chua-lanh-nhung-dieu-cay-dang/
 description: "Bài giảng từ Xuất Ê-díp-tô Ký 15:22-25 — câu chuyện vùng nước đắng Ma-ra và cây gỗ làm nước hóa ngọt, hình ảnh Thập Tự Giá chữa lành mọi sự cay đắng trong đời sống Cơ Đốc nhân."
-tags: ["Xuất Ê-díp-tô Ký", "Thập Tự Giá", "Sự Chữa Lành", "Đời Sống Cơ Đốc Nhân", "Môi-se"]
+tags: ["Xuất Ê-díp-tô Ký", "Thập Tự Giá", "Sự Chữa Lành", "Đời Sống Cơ Đốc", "Môi-se"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["18aP3AK8gPE"]

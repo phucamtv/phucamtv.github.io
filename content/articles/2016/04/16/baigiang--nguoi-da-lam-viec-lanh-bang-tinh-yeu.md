@@ -3,7 +3,7 @@ title: "Người Đã Làm Việc Lành Bằng Tình Yêu"
 date: 2016-04-16
 url: /baigiang/nguoi-da-lam-viec-lanh-bang-tinh-yeu/
 description: "Bài giảng từ Công Vụ 9:36-43 về người phụ nữ Tabitha (Đô-ca) — môn đồ đã làm nhiều việc lành và hay bố thí bằng tình yêu thương thật sự. Mục sư Dương Quang Thoại chia sẻ rằng sự vĩ đại thật sự không nằm ở tài sản hay danh vọng, mà ở lòng tốt, sự khiêm nhường và tinh thần phục vụ người khác."
-tags: ["Công Vụ", "Tabitha", "Tình Yêu", "Phục Vụ", "Việc Lành", "Bố Thí", "Lòng Tốt", "Phục Lâm"]
+tags: ["Công Vụ", "Tabitha", "Tình Yêu Thương", "Phục Vụ", "Việc Lành", "Bố Thí", "Lòng Tốt", "Phục Lâm"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["5wUZ5Is3ngs"]

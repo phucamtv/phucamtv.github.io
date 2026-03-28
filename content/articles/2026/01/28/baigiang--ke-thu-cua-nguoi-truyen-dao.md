@@ -3,7 +3,7 @@ title: "Kẻ Thù Của Người Truyền Đạo | Công-vụ 17:1-21"
 date: 2026-01-28
 url: /baigiang/ke-thu-cua-nguoi-truyen-dao/
 description: "Công-vụ 17:1-21 theo dấu chân Phao-lô qua Tê-sa-lô-ni-ca, Bê-rê và A-thên — ba thành phố, ba bài học: lòng ghen ghét dùng mọi thủ đoạn để hãm hại người truyền đạo; tinh thần người Bê-rê đối chiếu lời giảng với Kinh Thánh; và Phao-lô đơn độc giữa thành phố thần tượng nhưng không sờn lòng."
-tags: ["Công-vụ", "Phao-lô", "Bắt Bớ", "Truyền Giáo", "Kinh Thánh", "A-thên", "Hội Thánh Đầu Tiên"]
+tags: ["Công-vụ", "Phao-lô", "Bắt Bớ", "Truyền Giáo", "Thánh Kinh", "A-thên", "Hội Thánh Đầu Tiên"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["7zmhKSvPAeo"]

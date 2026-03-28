@@ -3,7 +3,7 @@ title: "Tình Yêu Chúa Qua Các Loại Tình Yêu"
 date: 2026-01-17
 url: /baigiang/tinh-yeu-chua-qua-cac-loai-tinh-yeu/
 description: "Kinh Thánh dùng các mối quan hệ yêu thương của con người — tình đôi lứa, tình vợ chồng, tình cha mẹ, tình anh chị em — để phản ánh tình yêu của Đức Chúa Trời dành cho chúng ta. Từ sách Nhã Ca đến dụ ngôn người con hoang đàng, mỗi loại tình yêu mở ra một khía cạnh khác nhau của tình yêu vô điều kiện từ Đấng Tạo Hóa."
-tags: ["Tình Yêu", "Nhã Ca", "Dụ Ngôn", "Cha Mẹ", "Gia Đình", "Đức Chúa Trời", "Kinh Thánh"]
+tags: ["Tình Yêu Thương", "Nhã Ca", "Dụ Ngôn", "Cha Mẹ", "Gia Đình", "Đức Chúa Trời", "Thánh Kinh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["EuZdCJn_GmE"]

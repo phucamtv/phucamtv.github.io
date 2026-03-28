@@ -3,12 +3,7 @@ title: "Phát Triển Đời Sống Đức Tin"
 date: 2025-08-11
 url: /baigiang/phat-trien-doi-song-duc-tin/
 description: "Bài giảng về tầm quan trọng của việc phát triển đời sống đức tin trong thời kỳ cuối cùng, qua việc gắn kết với Chúa, giữ sự thờ phượng và làm theo lời Ngài."
-tags:
-  - đức tin
-  - phát triển tâm linh
-  - đời sống Cơ Đốc nhân
-  - thời kỳ cuối cùng
-  - lời Chúa
+tags: ["Đức Tin", "Phát Triển Tâm Linh", "Đời Sống Cơ Đốc Nhân", "Thời Kỳ Cuối Cùng", "Lời Chúa"]
 authors:
   - "nguyen-tuan"
 plugins:

@@ -1,7 +1,7 @@
 ---
 title: "Cách cầu nguyện để được Chúa nhậm lời"
 date: 2019-05-20
-tags: ["Sự Cầu Nguyện"]
+tags: ["Cầu Nguyện"]
 authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["ENB6X4FCnRY"]

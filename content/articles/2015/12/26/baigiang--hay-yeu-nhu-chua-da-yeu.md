@@ -3,7 +3,7 @@ title: "Hãy Yêu Như Chúa Đã Yêu"
 date: 2015-12-26
 url: /baigiang/hay-yeu-nhu-chua-da-yeu/
 description: "Qua sứ điệp Giáng Sinh từ I Giăng 4:9-11 và Giăng 13:34, bài giảng soi sáng tình yêu vô điều kiện của Đức Chúa Trời — Đấng đã sai Con Một vào đời để cứu chuộc nhân loại — và kêu gọi con cái Chúa hãy yêu nhau bằng chính loại tình yêu hy sinh, chân chính ấy như dấu hiệu duy nhất chứng tỏ mình là môn đồ của Ngài."
-tags: ["Giáng Sinh", "Tình Yêu", "I Giăng", "Hy Sinh", "Cứu Rỗi", "Tha Thứ", "Môn Đồ"]
+tags: ["Giáng Sinh", "Tình Yêu Thương", "I Giăng", "Hy Sinh", "Sự Cứu Rỗi", "Tha Thứ", "Môn Đồ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["3oIENiaCe0g"]

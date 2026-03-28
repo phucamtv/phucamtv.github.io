@@ -3,7 +3,7 @@ title: "Giá Trị Của Những Lời Tiên Tri"
 date: 2016-03-12
 url: /baigiang/gia-tri-cua-nhung-loi-tien-tri/
 description: "Bài giảng khảo sát giá trị của lời tiên tri trong Kinh Thánh, từ II Phi-e-rơ 1:19, cho thấy lời tiên tri chiếm gần 1/3 Kinh Thánh và đã ứng nghiệm chính xác qua lịch sử — từ các đế quốc trong Đa-ni-ên đoạn 2 và 7, đến sự sụp đổ của Ba-by-lôn, Ai Cập, và thành Ti-rơ — để củng cố đức tin nơi Đức Chúa Trời."
-tags: ["Lời Tiên Tri", "Kinh Thánh", "Đa-ni-ên", "Ba-by-lôn", "Ai Cập", "Ti-rơ", "Đức Tin", "Lịch Sử"]
+tags: ["Lời Tiên Tri", "Thánh Kinh", "Đa-ni-ên", "Ba-by-lôn", "Ai Cập", "Ti-rơ", "Đức Tin", "Lịch Sử"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["2gkv3l1n3Gs"]

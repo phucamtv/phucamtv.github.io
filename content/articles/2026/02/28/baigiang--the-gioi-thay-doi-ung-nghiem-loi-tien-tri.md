@@ -3,7 +3,7 @@ title: "Thế Giới Thay Đổi, Ứng Nghiệm Lời Tiên Tri"
 date: 2026-02-28
 url: /baigiang/the-gioi-thay-doi-ung-nghiem-loi-tien-tri/
 description: "Nghiên cứu Ma-thi-ơ 24:3-42 và các lời tiên tri trong Kinh Thánh đang ứng nghiệm qua các sự kiện thế giới: chiến tranh, đói kém, lòng nguội lạnh, Tin Lành được rao truyền khắp nơi, và sự tiến bộ vượt bực của khoa học — tất cả chỉ về ngày Chúa Giê-su tái lâm đã gần."
-tags: ["Tái Lâm", "Lời Tiên Tri", "Ma-thi-ơ 24", "Đa-ni-ên", "Ngày Cuối Cùng", "Tỉnh Thức", "Hy Vọng"]
+tags: ["Sự Tái Lâm", "Lời Tiên Tri", "Ma-thi-ơ 24", "Đa-ni-ên", "Ngày Cuối Cùng", "Tỉnh Thức", "Hy Vọng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["sYONqOUwR_4"]

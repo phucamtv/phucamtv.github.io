@@ -2,7 +2,7 @@
 title: "Giá Trị Con Người"
 date: 2020-09-28
 description: "Chúa Cứu Thế yêu mến và xem trọng giá trị con người, dù hoàn cảnh nào Ngài vẫn yêu thương bằng một tình yêu không dời đổi."
-tags: ["Chắp Cánh Bay Cao", "Tình Yêu Chúa"]
+tags: ["Chắp Cánh Bay Cao", "Tình Yêu Thương"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["1ha3J5LlaEk"]

@@ -3,13 +3,7 @@ title: "Chuẩn bị Cầu nguyện lúc 16g chiều nay 18.4.2020"
 date: 2020-04-18T00:00:00+07:00
 url: /baigiang/chuan-bi-cau-nguyen-luc-16g-chieu-nay-18-4-2020/
 description: "Mục sư Dương Quang Thoại kêu gọi và hướng dẫn cộng đồng Cơ Đốc Phục Lâm Đông Nam Á chuẩn bị hiệp lòng cầu nguyện vào lúc 4 giờ chiều ngày 18.4.2020, cầu thay cho thế giới đang đối diện với đại dịch COVID-19."
-tags:
-  - cầu nguyện
-  - COVID-19
-  - đại dịch
-  - hiệp lòng cầu nguyện
-  - Đông Nam Á
-  - Cơ Đốc Phục Lâm
+tags: ["Cầu Nguyện", "COVID-19", "Đại Dịch", "Hiệp Lòng Cầu Nguyện", "Đông Nam Á", "Cơ Đốc Phục Lâm"]
 authors:
   - duong-quang-thoai
 plugins:

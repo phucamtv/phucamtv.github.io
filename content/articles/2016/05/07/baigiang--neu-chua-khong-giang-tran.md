@@ -3,7 +3,7 @@ title: "Nếu Chúa Không Giáng Trần?"
 date: 2016-05-07
 url: /baigiang/neu-chua-khong-giang-tran/
 description: "Nếu Chúa Cứu Thế Giê-su không giáng trần, con người sẽ mãi sống trong bóng tối tội lỗi, tuyệt vọng và không có lối thoát. Mục sư Dương Quang Thoại dùng triết lý âm nhạc Trịnh Công Sơn để khắc họa thân phận con người, rồi chỉ ra rằng Chúa Giê-su — Con Đức Chúa Trời — là giải pháp duy nhất đưa con người từ tuyệt vọng đến niềm hy vọng."
-tags: ["Giáng Sinh", "Cứu Rỗi", "Tội Lỗi", "Hy Vọng", "Truyền Giảng", "Thân Phận Con Người"]
+tags: ["Giáng Sinh", "Sự Cứu Rỗi", "Tội Lỗi", "Hy Vọng", "Truyền Giảng", "Thân Phận Con Người"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["6YT_WPq4kVc"]

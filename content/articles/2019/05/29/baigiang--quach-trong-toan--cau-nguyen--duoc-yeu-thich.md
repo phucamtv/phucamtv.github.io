@@ -1,7 +1,7 @@
 ---
 title: "Một lời cầu nguyện được Chúa thích"
 date: 2019-05-29
-tags: ["Sự Cầu Nguyện"]
+tags: ["Cầu Nguyện"]
 authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["U4Q2_nhBP-0"]

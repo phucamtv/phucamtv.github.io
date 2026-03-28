@@ -2,7 +2,7 @@
 title: "Tôi có một bạn quí!"
 date: 2022-01-22
 description: "Bài giảng về tình bạn qua câu chuyện Đa-vít và Giô-na-than trong Kinh Thánh, từ đó suy gẫm về tình bạn cao quý nhất mà Đức Chúa Giê-su dành cho mỗi chúng ta."
-tags: ["Tình Bạn", "Đa-vít", "Giô-na-than", "Tình Yêu Chúa"]
+tags: ["Tình Bạn", "Đa-vít", "Giô-na-than", "Tình Yêu Thương"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["125G8fcqk_w"]

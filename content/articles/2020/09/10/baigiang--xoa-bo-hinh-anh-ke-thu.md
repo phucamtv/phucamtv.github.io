@@ -3,7 +3,7 @@ title: "Xóa Bỏ Hình Ảnh Kẻ Thù"
 date: 2020-09-10
 url: /baigiang/xoa-bo-hinh-anh-ke-thu/
 description: "Hạt giống tình yêu không thể nảy mầm trên mảnh đất thù hận. Qua câu chuyện danh họa Leonardo Da Vinci vẽ bức tranh Tiệc Thánh, bài học về việc buông bỏ sự cay đắng và thù ghét để tình yêu và đức hạnh được thăng hoa."
-tags: ["Tha Thứ", "Tình Yêu", "Đời Sống", "Chắp Cánh Bay Cao"]
+tags: ["Tha Thứ", "Tình Yêu Thương", "Đời Sống", "Chắp Cánh Bay Cao"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["4JjDk6qZc4E"]

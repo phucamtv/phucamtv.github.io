@@ -3,7 +3,7 @@ title: "Lời Kêu Gọi Cuối Cùng Cho Nhân Loại | Khải Huyền 14"
 date: 2023-12-08
 url: /baigiang/loi-keu-goi-cuoi-cung-cho-nhan-loai/
 description: "Khải Huyền 14:6-7 — Sứ điệp ba thiên sứ là lời kêu gọi cuối cùng của Chúa trước ngày Đấng Christ tái lâm: kính sợ Chúa, tôn vinh Chúa, và thờ phượng Đấng Tạo Hóa bằng cách giữ ngày Sa-bát thứ bảy."
-tags: ["Khải Huyền", "Sứ Điệp Ba Thiên Sứ", "Sa-bát", "Tôn Vinh Chúa", "Kính Sợ Chúa", "Tái Lâm", "Tin Lành"]
+tags: ["Khải Huyền", "Sứ Điệp Ba Thiên Sứ", "Sa-bát", "Tôn Vinh Chúa", "Kính Sợ Chúa", "Sự Tái Lâm", "Tin Lành"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["-N8Po1u9bJI"]

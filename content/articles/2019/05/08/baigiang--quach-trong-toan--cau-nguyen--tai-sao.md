@@ -1,7 +1,7 @@
 ---
 title: "Tại sao phải cầu nguyện"
 date: 2019-05-08
-tags: ["Sự Cầu Nguyện"]
+tags: ["Cầu Nguyện"]
 authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["VDlCCTovwdI"]

@@ -3,7 +3,7 @@ title: "Bài Giảng Về Chúa Không Biết | Công-vụ 17:22-34; 18:1-11"
 date: 2026-02-04
 url: /baigiang/bai-giang-ve-chua-khong-biet/
 description: "Phao-lô tại đồi A-rê-ô-ba-gơ dùng bàn thờ 'Chúa Không Biết' làm điểm xuất phát để rao giảng về Đức Chúa Trời Tạo Hóa — và ba phản ứng của người nghe: chế giễu, trì hoãn, và tin nhận. Tiếp theo, tại Cô-rinh-tô, Phao-lô làm lều với Aquila, rao giảng trong hội đường, rồi nhận khải tượng 'Ta có nhiều dân trong thành này' — sứ điệp không nản lòng dù bị chống đối."
-tags: ["Công-vụ", "Phao-lô", "Truyền Giáo", "Cứu Rỗi", "Đức Tin", "Hội Thánh Đầu Tiên", "A-rê-ô-ba-gơ", "Cô-rinh-tô"]
+tags: ["Công-vụ", "Phao-lô", "Truyền Giáo", "Sự Cứu Rỗi", "Đức Tin", "Hội Thánh Đầu Tiên", "A-rê-ô-ba-gơ", "Cô-rinh-tô"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["zly0gtuQMg0"]

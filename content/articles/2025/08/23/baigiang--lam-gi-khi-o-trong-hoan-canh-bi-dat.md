@@ -3,12 +3,7 @@ title: "Làm Gì Khi Ở Trong Hoàn Cảnh Bi Đát?"
 date: 2025-08-23
 url: /baigiang/lam-gi-khi-o-trong-hoan-canh-bi-dat/
 description: "Bài giảng từ Ha-ba-cúc 3:17-19 về cách người Cơ Đốc nhân đối diện với hoàn cảnh bi đát, đặt niềm vui trong sự cứu rỗi và giữ lòng trung tín với Chúa dù gặp thử thách."
-tags:
-  - đức tin
-  - thử thách
-  - sự cứu rỗi
-  - Ha-ba-cúc
-  - hoạn nạn
+tags: ["Đức Tin", "Thử Thách", "Sự Cứu Rỗi", "Ha-ba-cúc", "Hoạn Nạn"]
 authors:
   - "duong-quang-thoai"
 plugins:

@@ -3,7 +3,7 @@ title: "Tiếng Hót Cuối Cùng Của Thiên Nga!"
 date: 2022-06-18
 url: /baigiang/tieng-hot-cuoi-cung-cua-thien-nga/
 description: "Qua hình ảnh 'tiếng hót của thiên nga' — những lời cuối cùng của sứ đồ Phao-lô trong 2 Ti-mô-thê 4 — bài giảng nhấn mạnh tầm quan trọng của việc đọc Kinh Thánh, nghiên cứu tài liệu tâm linh, và sứ mạng rao giảng Tin Lành qua ấn phẩm của Giáo hội."
-tags: ["Sứ Đồ Phao-lô", "2 Ti-mô-thê", "Kinh Thánh", "Ấn Phẩm", "Sứ Mạng Truyền Giáo", "Đọc Sách", "Rao Giảng Tin Lành"]
+tags: ["Sứ Đồ Phao-lô", "2 Ti-mô-thê", "Thánh Kinh", "Ấn Phẩm", "Sứ Mạng Truyền Giáo", "Đọc Sách", "Rao Giảng Tin Lành"]
 authors: ["tran-quoc-khoi"]
 plugins: [youtube]
 youtubeIDs: ["1WaJnoy5suA"]

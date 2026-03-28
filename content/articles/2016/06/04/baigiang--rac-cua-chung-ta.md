@@ -3,7 +3,7 @@ title: "Rác Của Chúng Ta | Ma-thi-ơ 15:1-20"
 date: 2016-06-04
 url: /baigiang/rac-cua-chung-ta/
 description: "Bài giảng về 'rác của tâm hồn' dựa trên Ma-thi-ơ 15:1-20: từ vấn đề rác thải vật chất đến những thứ rác rưởi trong lòng người — ghen ghét, ích kỷ, giả hình, tham dục — mà Kinh Thánh gọi là tội lỗi, và lời kêu gọi dọn sạch tâm hồn bằng sự xưng tội trước mặt Chúa."
-tags: ["Ma-thi-ơ", "Tội Lỗi", "Tâm Hồn", "Ăn Năn", "Sự Thánh Khiết", "Đời Sống Cơ Đốc Nhân"]
+tags: ["Ma-thi-ơ", "Tội Lỗi", "Tâm Hồn", "Ăn Năn", "Sự Thánh Khiết", "Đời Sống Cơ Đốc"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["3q5pMCqLNts"]

@@ -3,7 +3,7 @@ title: "Lấy Mọi Thứ Làm Của Chung"
 date: 2025-07-09
 url: /baigiang/lay-moi-thu-lam-cua-chung/
 description: "Từ Công-vụ 4:23-37, Mục sư Dương Quang Thoại giảng về hai điều nổi bật của Hội Thánh đầu tiên: sức mạnh của lời cầu nguyện sau cơn bắt bớ và tình yêu thương thực tiễn khi các tín hữu bán tài sản chia sẻ cho nhau, không để ai thiếu thốn."
-tags: ["Hội Thánh", "Cầu Nguyện", "Tình Yêu Thương", "Chia Sẻ", "Công Vụ", "Thánh Linh", "Hiệp Nhất", "Của Cải"]
+tags: ["Hội Thánh", "Cầu Nguyện", "Tình Yêu Thương", "Chia Sẻ", "Công Vụ", "Đức Thánh Linh", "Hiệp Nhất", "Của Cải"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["5Zd053MasJo"]

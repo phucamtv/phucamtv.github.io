@@ -1,7 +1,7 @@
 ---
 title: "Khải Huyền 14:9-12 › Nhận dạng con thú theo Đa-ni-ên 7 | Thảo Luận Thánh Kinh"
 date: 2022-11-16
-tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm", "Sự Thờ Phượng", "Ngày Sa-bát", "Luật Pháp"]
+tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm", "Thờ Phượng", "Ngày Sa-bát", "Luật Pháp"]
 authors: ["nguyen-thanh-hung", "truong-the-hong", "nguyen-hung-cuong"]
 plugins: [youtube]
 youtubeIDs: ["ayK76zRsUaY"]

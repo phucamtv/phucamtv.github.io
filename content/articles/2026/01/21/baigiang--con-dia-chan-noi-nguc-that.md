@@ -3,7 +3,7 @@ title: "Cơn Địa Chấn Nơi Ngục Thất | Công-vụ 16:16-40"
 date: 2026-01-21
 url: /baigiang/con-dia-chan-noi-nguc-that/
 description: "Công-vụ 16:16-40 kể câu chuyện Phao-lô và Si-la trong ngục thành Phi-líp — từ cô gái bị quỷ Python ám, đến cơn địa chấn giữa đêm, đến người cai ngục sắp tự sát và cả nhà tiếp nhận Chúa. Bài học về thủ đoạn tinh vi của ma quỷ, tinh thần ca ngợi giữa nghịch cảnh, và tình yêu thương vượt qua sự thù ghét."
-tags: ["Công-vụ", "Phao-lô", "Bắt Bớ", "Cầu Nguyện", "Đức Tin", "Phép Lạ", "Cứu Rỗi", "Hội Thánh Đầu Tiên"]
+tags: ["Công-vụ", "Phao-lô", "Bắt Bớ", "Cầu Nguyện", "Đức Tin", "Phép Lạ", "Sự Cứu Rỗi", "Hội Thánh Đầu Tiên"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["ILHeiQ3QqUo"]
