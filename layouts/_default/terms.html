@@ -1,0 +1,62 @@
+{{ define "main" }}
+<section class="tag-cloud-section">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div class="tag-cloud">
+    {{- range .Data.Terms.Alphabetical -}}
+    {{- $c := .Count -}}
+    {{- $cls := "tc-1" -}}
+    {{- if ge $c 15 -}}{{- $cls = "tc-5" -}}
+    {{- else if ge $c 8 -}}{{- $cls = "tc-4" -}}
+    {{- else if ge $c 4 -}}{{- $cls = "tc-3" -}}
+    {{- else if ge $c 2 -}}{{- $cls = "tc-2" -}}
+    {{- end -}}
+    <a href="{{ "tags/" | relURL }}{{ partial "tag-slug.html" .Page.Title }}/" class="tag-cloud-item {{ $cls }}" title="{{ .Count }} bài">{{ .Page.Title }}</a>
+    {{- end -}}
+  </div>
+</section>
+
+<style>
+.tag-cloud-section {
+  max-width: 900px;
+  padding: 1rem 0 3rem;
+}
+.tag-cloud-section h1 {
+  font-family: "Lora", Georgia, serif;
+  font-weight: 400;
+  color: #3d3529;
+  margin-bottom: 2rem;
+  font-size: 1.8rem;
+}
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.15rem 0.6rem;
+  line-height: 2.4;
+}
+.tag-cloud-item {
+  font-family: "Lora", Georgia, serif;
+  text-decoration: none;
+  padding: 0.1rem 0.3rem;
+  border: none;
+  background: none;
+  border-radius: 2px;
+  transition: color 0.2s ease, background 0.2s ease;
+  white-space: nowrap;
+}
+.tag-cloud-item:hover {
+  background: #f0ece3;
+}
+.tc-1 { font-size: 0.82rem; color: #b8a88a; }
+.tc-2 { font-size: 0.95rem; color: #8a7f72; }
+.tc-3 { font-size: 1.15rem; color: #6b5d4f; }
+.tc-4 { font-size: 1.45rem; color: #5a3e2b; }
+.tc-5 { font-size: 1.85rem; color: #3d3529; font-weight: 500; }
+.tc-1:hover { color: #6b5d4f; }
+.tc-2:hover { color: #5a3e2b; }
+.tc-3:hover { color: #3d3529; }
+.tc-4:hover { color: #3d3529; }
+.tc-5:hover { color: #1a1510; }
+</style>
+{{ end }}
