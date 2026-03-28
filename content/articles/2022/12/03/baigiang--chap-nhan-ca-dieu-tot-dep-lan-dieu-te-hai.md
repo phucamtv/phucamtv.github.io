@@ -1,12 +1,12 @@
 ---
 title: "Chấp Nhận Cả Điều Tốt Đẹp Lẫn Điều Tệ Hại"
 date: 2022-12-03
-description: "Bài giảng về thái độ của người tin Chúa khi đối diện với nghịch cảnh. Qua các gương Kinh Thánh từ Ghê-đê-ôn, Nô-ê, Gia-cốp, Môi-se, Đa-vít đến Gióp, chúng ta học cách thay đổi tư tưởng để chấp nhận cả điều tốt lẫn điều tệ hại trong cuộc đời theo Chúa."
-tags: ["Đức Tin", "Thử Thách", "Gióp", "Ghê-đê-ôn", "Sự Chịu Khổ", "Kiên Nhẫn"]
+url: /baigiang/chap-nhan-ca-dieu-tot-dep-lan-dieu-te-hai/
+description: "Tại sao tin Chúa mà vẫn gặp tai họa? Bài giảng giúp tín hữu thay đổi tư tưởng, hiểu rằng con đường theo Chúa không dễ dàng, và phần thưởng trên trời sẽ lớn lắm cho những ai trung tín chịu khổ vì danh Ngài."
+tags: ["Thử Thách", "Đức Tin", "Gióp", "Chịu Khổ", "Phần Thưởng", "Kiên Nhẫn"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["_0VBJmDZzXM"]
-url: /baigiang/chap-nhan-ca-dieu-tot-dep-lan-dieu-te-hai/
 draft: false
 ---
 
