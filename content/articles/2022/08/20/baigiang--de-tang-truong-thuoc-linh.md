@@ -26,7 +26,7 @@ Hê-bơ-rơ 5:12, 14 cũng cảnh cáo rằng có những tín hữu đáng lẽ
 
 ## Biểu Hiện Của Đời Sống Không Trưởng Thành
 
-Mục sư chỉ ra những dấu hiệu cụ thể của sự không trưởng thành thuộc linh. Thứ nhất là bước đi theo con người mà không theo Chúa Giê-su — để cho ý riêng của mình dẫn dắt thay vì để Lời Chúa hướng dẫn. Thứ hai là hay lý luận, biện minh, nói nhiều mà không hành động — biết đạo lý nhưng không sống theo đạo lý. Thứ ba là sống vì chính mình mà không vì Chúa và vì người khác — một đời sống ích kỷ, chỉ nhận mà không cho đi.
+Mục sư chỉ ra những dấu hiệu cụ thể của sự không trưởng thành thuộc linh. Thứ nhất là bước đi theo con người mà không theo Đức Chúa Giê-su — để cho ý riêng của mình dẫn dắt thay vì để Lời Chúa hướng dẫn. Thứ hai là hay lý luận, biện minh, nói nhiều mà không hành động — biết đạo lý nhưng không sống theo đạo lý. Thứ ba là sống vì chính mình mà không vì Chúa và vì người khác — một đời sống ích kỷ, chỉ nhận mà không cho đi.
 
 I Cô-rinh-tô 11:17 là một câu Kinh Thánh đáng sợ: sự nhóm lại của anh em không làm cho mình hay hơn mà làm cho mình dở hơn. Điều này đặt ra câu hỏi nghiêm túc cho mỗi tín hữu: sau mỗi buổi nhóm thờ phượng, sau mỗi lần đọc Kinh Thánh, chúng ta có thật sự tốt hơn không, hay vẫn cứ giậm chân tại chỗ hoặc thậm chí tệ hơn?
 

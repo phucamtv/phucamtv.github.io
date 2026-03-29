@@ -36,7 +36,7 @@ Sự chủ quan khiến ta đánh mất khả năng tự xét mình. Khi lòng t
 
 Lời Chúa trong sách Khải Huyền đã cảnh tỉnh Hội Thánh Lao-đi-xê — một hội thánh tự cho mình là giàu có, đầy đủ, không thiếu thốn gì, nhưng thực chất lại khốn khổ, đáng thương, nghèo ngặt, đui mù và lõa lồ.
 
-Chúa Giê-su phán: "Ta khuyên ngươi hãy mua những áo trắng, hầu cho ngươi được mặc vào và điều xấu hổ về sự trần truồng ngươi khỏi lộ ra; lại mua thuốc xức mắt đặng thoa mắt ngươi, hầu cho ngươi thấy được" (Khải Huyền 3:18).
+Đức Chúa Giê-su phán: "Ta khuyên ngươi hãy mua những áo trắng, hầu cho ngươi được mặc vào và điều xấu hổ về sự trần truồng ngươi khỏi lộ ra; lại mua thuốc xức mắt đặng thoa mắt ngươi, hầu cho ngươi thấy được" (Khải Huyền 3:18).
 
 Áo trắng tượng trưng cho sự công bình của Đấng Christ, để che đậy sự trần trụi thuộc linh. Thuốc xức mắt là sự soi sáng của Đức Thánh Linh, giúp ta mở mắt nhìn thấy thực trạng của mình.
 

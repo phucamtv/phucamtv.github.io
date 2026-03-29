@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 13:10-17, 34-35 và 13:24-30, 36-43
 
-Bài giảng được chia làm hai phần chính. Phần thứ nhất xoay quanh chủ đề "Chân lý và người nghe" (Ma-thi-ơ 13:10-17, 34-35), giải thích lý do Chúa Giê-su dùng ẩn dụ khi giảng dạy. Phần thứ hai đi sâu vào ẩn dụ nổi tiếng về cỏ lùng và lúa mì (Ma-thi-ơ 13:24-30, 36-43), qua đó bày tỏ hành động phá hoại của kẻ thù và thái độ mà người tin Chúa cần có.
+Bài giảng được chia làm hai phần chính. Phần thứ nhất xoay quanh chủ đề "Chân lý và người nghe" (Ma-thi-ơ 13:10-17, 34-35), giải thích lý do Đức Chúa Giê-su dùng ẩn dụ khi giảng dạy. Phần thứ hai đi sâu vào ẩn dụ nổi tiếng về cỏ lùng và lúa mì (Ma-thi-ơ 13:24-30, 36-43), qua đó bày tỏ hành động phá hoại của kẻ thù và thái độ mà người tin Chúa cần có.
 
 ---
 
@@ -22,7 +22,7 @@ Bài giảng được chia làm hai phần chính. Phần thứ nhất xoay quan
 
 ### Sự Mầu Nhiệm Không Phải Là Bí Ẩn
 
-Khi các môn đồ hỏi tại sao Chúa Giê-su dùng ẩn dụ, Ngài đáp rằng đã ban cho họ biết những điều mầu nhiệm của nước thiên đàng, còn những người khác thì không. Câu trả lời này thoạt nghe có vẻ bất công, nhưng thực chất không phải Đức Chúa Trời chọn lựa ai được cứu, ai không. Vấn đề nằm ở chính tấm lòng của người nghe.
+Khi các môn đồ hỏi tại sao Đức Chúa Giê-su dùng ẩn dụ, Ngài đáp rằng đã ban cho họ biết những điều mầu nhiệm của nước thiên đàng, còn những người khác thì không. Câu trả lời này thoạt nghe có vẻ bất công, nhưng thực chất không phải Đức Chúa Trời chọn lựa ai được cứu, ai không. Vấn đề nằm ở chính tấm lòng của người nghe.
 
 Chữ "mầu nhiệm" trong Tân Ước không mang nghĩa huyền bí, không ai hiểu được. Trái lại, nó có nghĩa là cùng một sự việc, một số người hiểu rất rõ trong khi người khác hoàn toàn không hiểu. Tiệc Thánh là một ví dụ: người ngoài nhìn vào thấy chỉ là mẩu bánh và chút nước nho, nhưng với người trong cuộc, đó là khoảnh khắc thiêng liêng kỷ niệm sự thương khó của Chúa.
 
@@ -44,7 +44,7 @@ Tiên tri Ê-sai đã nói trước về những người cố tình nhắm mắ
 
 Nước thiên đàng giống như người kia gieo giống tốt trong ruộng mình. Nhưng khi người ta ngủ, kẻ thù lén đến gieo cỏ lùng vào giữa lúa mì. Khi lúa lớn lên trổ bông thì cỏ lùng cũng lộ ra. Các đầy tớ xin nhổ cỏ, nhưng chủ bảo đừng, vì sợ nhổ lộn lúa mì. Hãy để cả hai lớn lên cho đến mùa gặt, rồi sẽ nhổ cỏ lùng đốt đi, còn lúa mì thâu vào kho.
 
-Chúa Giê-su giải thích: kẻ gieo giống tốt là Con Người, ruộng là thế gian, giống tốt là con cái nước thiên đàng, cỏ lùng là con cái quỷ dữ, kẻ thù gieo cỏ là ma quỷ, mùa gặt là ngày tận thế.
+Đức Chúa Giê-su giải thích: kẻ gieo giống tốt là Con Người, ruộng là thế gian, giống tốt là con cái nước thiên đàng, cỏ lùng là con cái quỷ dữ, kẻ thù gieo cỏ là ma quỷ, mùa gặt là ngày tận thế.
 
 ### Năm Bài Học Từ Ẩn Dụ
 

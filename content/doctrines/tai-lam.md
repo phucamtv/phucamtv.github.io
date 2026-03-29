@@ -1,6 +1,6 @@
 ---
 slug: tai-lam
-title: Sự tái lâm của Đức Chúa Jesus
+title: Sự tái lâm của Đức Chúa Giê-su
 weight: 25
 ---
 

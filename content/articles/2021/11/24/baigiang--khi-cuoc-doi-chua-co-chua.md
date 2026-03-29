@@ -18,7 +18,7 @@ Sứ đồ Phao-lô viết cho Hội Thánh Ê-phê-sô: *"Còn anh em đã ch�
 
 Một người làm cha, làm mẹ, làm con, làm chồng, làm vợ — nếu không sống đúng với cương vị mà Chúa giao, tức là đã trật mục tiêu, đã phạm tội. Theo định nghĩa này, không ai có thể tự nhận mình vô tội, dù người đó được thế gian đánh giá là tốt nhất.
 
-Phao-lô còn dùng chữ *paraptoma*, nghĩa là "trượt" — giống như đi trên đường trơn mà bị trượt ngã. Chúa Giê-su phán Ngài là đường đi, lẽ thật và sự sống; nhưng có một quyền lực tội ác đẩy con người trượt khỏi con đường đó, trượt khỏi lẽ thật, trượt khỏi sự sống. Kết quả là nhiều người đang sống mà như đã chết — không có sức sống thật sự, không hoàn tất được sứ mạng cao cả mà Chúa trao khi cho họ bước vào đời.
+Phao-lô còn dùng chữ *paraptoma*, nghĩa là "trượt" — giống như đi trên đường trơn mà bị trượt ngã. Đức Chúa Giê-su phán Ngài là đường đi, lẽ thật và sự sống; nhưng có một quyền lực tội ác đẩy con người trượt khỏi con đường đó, trượt khỏi lẽ thật, trượt khỏi sự sống. Kết quả là nhiều người đang sống mà như đã chết — không có sức sống thật sự, không hoàn tất được sứ mạng cao cả mà Chúa trao khi cho họ bước vào đời.
 
 ---
 

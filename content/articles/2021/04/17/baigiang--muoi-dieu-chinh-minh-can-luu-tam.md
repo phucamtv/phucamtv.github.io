@@ -24,7 +24,7 @@ Trong đời sống đức tin, chúng ta thường hướng ra bên ngoài — 
 
 Tấm lòng là trung tâm của mọi vấn đề. Khi tấm lòng sai, mọi thứ bên ngoài cũng sai theo. Gia-cơ 1:26 cảnh báo rằng nếu ai tưởng mình tin đạo mà lừa dối lòng mình, thì sự tin đạo ấy là vô ích. Điều đáng sợ là con người có thể tự lừa dối chính mình — xây dựng một hệ thống suy nghĩ sai lệch về bản thân, tưởng mình mạnh mẽ trong khi thực tế yếu đuối.
 
-Nhưng lời hứa trong Ê-xê-chi-ên 36:26-27 mang đến hy vọng: Đức Chúa Trời sẽ cất lòng bằng đá và ban cho chúng ta lòng bằng thịt mềm mại. Đây chính là giao ước mới — không phải con người tự cố gắng, mà là sống trong sức mạnh chiến thắng của Chúa Giê-xu.
+Nhưng lời hứa trong Ê-xê-chi-ên 36:26-27 mang đến hy vọng: Đức Chúa Trời sẽ cất lòng bằng đá và ban cho chúng ta lòng bằng thịt mềm mại. Đây chính là giao ước mới — không phải con người tự cố gắng, mà là sống trong sức mạnh chiến thắng của Đức Chúa Giê-su.
 
 ---
 
@@ -48,7 +48,7 @@ Mỗi ngày chúng ta nhìn gương và thấy khuôn mặt quen thuộc, nhưng
 
 > *"Sao ngươi dòm thấy cái rác trong mắt anh em ngươi, mà chẳng thấy cây đà trong mắt mình?"* — Ma-thi-ơ 7:3
 
-Con người có khuynh hướng tự nhiên là nhìn thấy lỗi lầm người khác rất rõ nhưng lại không thấy lỗi lầm của chính mình. Chúa Giê-xu dạy rằng trước hết phải lấy cây đà khỏi mắt mình, rồi mới thấy rõ để giúp người khác. Xét mình là thói quen cần thiết hằng ngày của mỗi tín hữu — không phải để tự kết án, mà để được Thánh Linh soi sáng và chỉnh sửa.
+Con người có khuynh hướng tự nhiên là nhìn thấy lỗi lầm người khác rất rõ nhưng lại không thấy lỗi lầm của chính mình. Đức Chúa Giê-su dạy rằng trước hết phải lấy cây đà khỏi mắt mình, rồi mới thấy rõ để giúp người khác. Xét mình là thói quen cần thiết hằng ngày của mỗi tín hữu — không phải để tự kết án, mà để được Thánh Linh soi sáng và chỉnh sửa.
 
 ---
 
@@ -72,7 +72,7 @@ Khiêm nhường là phẩm chất mà Chúa quý trọng. Tình yêu thương �
 
 > *"Hãy khiêm nhường, coi người khác như tôn trọng hơn mình."* — Phi-líp 2:3
 
-Đây không phải là hạ thấp giá trị bản thân, mà là thái độ tôn trọng và ưu tiên người khác. Khi chúng ta xem người khác hơn mình, chúng ta sống theo gương của Chúa Giê-xu — Đấng đã rời bỏ ngôi trời vinh hiển để phục vụ nhân loại.
+Đây không phải là hạ thấp giá trị bản thân, mà là thái độ tôn trọng và ưu tiên người khác. Khi chúng ta xem người khác hơn mình, chúng ta sống theo gương của Đức Chúa Giê-su — Đấng đã rời bỏ ngôi trời vinh hiển để phục vụ nhân loại.
 
 ---
 

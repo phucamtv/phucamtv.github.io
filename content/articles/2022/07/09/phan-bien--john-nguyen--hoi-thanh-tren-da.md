@@ -1,7 +1,7 @@
 ---
 title: "Hội Thánh trên đá"
 date: 2022-07-09
-tags: ["Hội Thánh", "Jesus Christ"]
+tags: ["Hội Thánh", "Đức Chúa Giê-su Christ"]
 authors: ["tini-rimomi"]
 plugins: [youtube]
 youtubeIDs: ["7yXS5eJcGWA"]

@@ -30,7 +30,7 @@ Khi chúng ta nhớ đến ân huệ của Chúa trong quá khứ, chúng ta s�
 
 Khoáng Thức có câu: "Kẻ tiểu nhân chỉ mong người ta làm ơn cho, nhưng khi đã chịu ơn rồi thì không cần nhớ ơn nữa. Người quân tử không dễ chịu ơn ai, nhưng khi đã chịu ơn ai thì không bao giờ quên."
 
-Trong Lu-ca 17:11-19, mười người phung được Chúa chữa lành nhưng chỉ có một người quay trở lại cảm tạ — và người đó lại là người Sa-ma-ri, một dân tộc bị khinh miệt. Chúa Giê-xu than thở: "Không phải mười người đều được sạch cả sao? Còn chín người kia ở đâu?" Đây không phải câu hỏi thắc mắc mà là lời than thở trước sự vô ơn của con người. Rồi Ngài phán với người Sa-ma-ri: "Đức tin ngươi đã cứu ngươi" — sự biết ơn trong lòng người ấy đã cứu rỗi cuộc đời người.
+Trong Lu-ca 17:11-19, mười người phung được Chúa chữa lành nhưng chỉ có một người quay trở lại cảm tạ — và người đó lại là người Sa-ma-ri, một dân tộc bị khinh miệt. Đức Chúa Giê-su than thở: "Không phải mười người đều được sạch cả sao? Còn chín người kia ở đâu?" Đây không phải câu hỏi thắc mắc mà là lời than thở trước sự vô ơn của con người. Rồi Ngài phán với người Sa-ma-ri: "Đức tin ngươi đã cứu ngươi" — sự biết ơn trong lòng người ấy đã cứu rỗi cuộc đời người.
 
 ## Bày Tỏ Lòng Biết Ơn
 

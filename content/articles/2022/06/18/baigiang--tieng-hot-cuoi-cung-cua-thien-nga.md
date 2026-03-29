@@ -60,4 +60,4 @@ Một trang sách có thể thay đổi cuộc đời một con người. Lời 
 
 Chúng ta đang sống trong thời kỳ cuối cùng. Ma quỷ biết thì giờ không còn nhiều và đang tìm mọi cách lôi kéo con cái Chúa đi lạc. Việc siêng năng đi thờ phượng mỗi ngày Sa-bát là tốt, nhưng chưa đủ. Mỗi người cần dành thời gian hàng ngày nghiên cứu lời Chúa, đọc tài liệu của Giáo hội, để được trang bị và bảo vệ niềm tin.
 
-Hãy góp phần trong khả năng của mình — chia sẻ một đường link bài giảng, gửi một quyển sách, tặng một ấn phẩm — để trong ngày Chúa Giê-su trở lại, không chỉ mình chúng ta được cứu, mà tất cả những người trong tầm ảnh hưởng của chúng ta cũng biết về tình yêu thương và sự cứu rỗi của Ngài.
+Hãy góp phần trong khả năng của mình — chia sẻ một đường link bài giảng, gửi một quyển sách, tặng một ấn phẩm — để trong ngày Đức Chúa Giê-su trở lại, không chỉ mình chúng ta được cứu, mà tất cả những người trong tầm ảnh hưởng của chúng ta cũng biết về tình yêu thương và sự cứu rỗi của Ngài.

@@ -12,13 +12,13 @@ draft: false
 
 {{< youtube "TuaQPxlgjnI" >}}
 
-Trong thư Ê-phê-sô đoạn 3 câu 14 đến 21, sứ đồ Phao-lô tiếp tục vẽ lên bức tranh về Hội Thánh của Đức Chúa Trời. Trong một thế giới đầy dẫy sự chia rẽ, theo kế hoạch của Đức Chúa Trời, tất cả những điều lộn xộn ấy sẽ được hiệp nhất trong Chúa Cứu Thế Giê-xu. Điều này không thể thực hiện được nếu Hội Thánh không mang tin mừng rao giảng cho mọi người. Chính vì điều này mà Phao-lô cầu nguyện cho cả Hội Thánh hiệp nhất trong thân thể Đấng Cơ Đốc.
+Trong thư Ê-phê-sô đoạn 3 câu 14 đến 21, sứ đồ Phao-lô tiếp tục vẽ lên bức tranh về Hội Thánh của Đức Chúa Trời. Trong một thế giới đầy dẫy sự chia rẽ, theo kế hoạch của Đức Chúa Trời, tất cả những điều lộn xộn ấy sẽ được hiệp nhất trong Chúa Cứu Thế Giê-su. Điều này không thể thực hiện được nếu Hội Thánh không mang tin mừng rao giảng cho mọi người. Chính vì điều này mà Phao-lô cầu nguyện cho cả Hội Thánh hiệp nhất trong thân thể Đấng Cơ Đốc.
 
 ## 1. Phao-lô quỳ gối cầu nguyện trước mặt Cha
 
 Phao-lô bảo rằng ông đã quỳ gối trước mặt Cha. Chữ "quỳ gối" ở đây theo nguyên ngữ có nghĩa là quỳ mọp xuống, bày tỏ lòng nhiệt thành và tôn kính. Dù tư thế cầu nguyện không phải lúc nào cũng quan trọng -- trong lúc nguy hiểm, đang lái xe hay chạy trốn, người ta vẫn có thể thốt lên lời cầu nguyện -- nhưng khi có thì giờ riêng với Chúa, tư thế quỳ gối vẫn được khuyến khích để bày tỏ lòng tôn kính.
 
-Phao-lô gọi Đức Chúa Trời là Cha. Chữ "Cha" mang ba ý nghĩa: thứ nhất, Ngài là Cha của Chúa Cứu Thế Giê-xu; thứ hai, Ngài là Cha của toàn thể nhân loại; và thứ ba, Ngài là hình ảnh hoàn hảo của một người cha. Trong thế giới này, hình ảnh của người cha đôi khi bị méo mó -- có những người cha đánh đập con cái, bỏ bê gia đình. Nhưng khi Kinh Thánh nói Đức Chúa Trời là Cha, đó là một người Cha hoàn hảo, đầy tình yêu thương và sự che chở.
+Phao-lô gọi Đức Chúa Trời là Cha. Chữ "Cha" mang ba ý nghĩa: thứ nhất, Ngài là Cha của Chúa Cứu Thế Giê-su; thứ hai, Ngài là Cha của toàn thể nhân loại; và thứ ba, Ngài là hình ảnh hoàn hảo của một người cha. Trong thế giới này, hình ảnh của người cha đôi khi bị méo mó -- có những người cha đánh đập con cái, bỏ bê gia đình. Nhưng khi Kinh Thánh nói Đức Chúa Trời là Cha, đó là một người Cha hoàn hảo, đầy tình yêu thương và sự che chở.
 
 ## 2. Con người bên trong được mạnh mẽ
 
@@ -36,4 +36,4 @@ Nhiều nhà truyền giáo dùng hình ảnh thập tự giá với bốn hư�
 
 John Wesley nói rằng không có ai lên thiên đàng một mình. Khi một người có Chúa, có tình yêu Chúa, thì luôn muốn giới thiệu về tình yêu ấy cho người khác. Hội Thánh có thể có nhiều thiếu sót, tín đồ có thể sống chưa xứng đáng, nhưng trong mối thông công với Chúa, chúng ta tìm được tình yêu của Thượng Đế.
 
-Thế giới này không phải nơi lý tưởng -- nó bị xé nát bởi các thế lực chống đối nhau, bởi cay đắng, ganh ghét, tranh cạnh. Nhưng theo hoạch định của Đức Chúa Trời, mọi người đều sẽ hiệp nhất trong Chúa Cứu Thế. Thay vì chất chứa sự cay đắng trong lòng, hãy để tình yêu ngọt ngào của Chúa đẩy lùi mọi cay đắng. Người ta có thể bất công với bạn, nhưng Đức Chúa Trời rất công bằng. Hãy chia sẻ tình yêu ấy với mọi người, vì qua Chúa Giê-xu, Đức Chúa Trời đem đến cho chúng ta niềm hi vọng rất lớn để tất cả đều có thể hiệp nhất, dù có những khác biệt trên thế giới này.
+Thế giới này không phải nơi lý tưởng -- nó bị xé nát bởi các thế lực chống đối nhau, bởi cay đắng, ganh ghét, tranh cạnh. Nhưng theo hoạch định của Đức Chúa Trời, mọi người đều sẽ hiệp nhất trong Chúa Cứu Thế. Thay vì chất chứa sự cay đắng trong lòng, hãy để tình yêu ngọt ngào của Chúa đẩy lùi mọi cay đắng. Người ta có thể bất công với bạn, nhưng Đức Chúa Trời rất công bằng. Hãy chia sẻ tình yêu ấy với mọi người, vì qua Đức Chúa Giê-su, Đức Chúa Trời đem đến cho chúng ta niềm hi vọng rất lớn để tất cả đều có thể hiệp nhất, dù có những khác biệt trên thế giới này.

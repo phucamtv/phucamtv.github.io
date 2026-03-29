@@ -2,7 +2,7 @@
 title: "Một Cuộc Thí Nghiệm"
 date: 2020-04-24
 url: /baigiang/mot-cuoc-thi-nghiem/
-description: "Bản chất tội lỗi trong con người không thể tự cải hóa. Qua câu chuyện về cuộc thí nghiệm giữa sư tử và cừu, chúng ta nhận ra rằng chỉ có Chúa Giê-su mới có thể biến đổi tấm lòng con người từ bên trong."
+description: "Bản chất tội lỗi trong con người không thể tự cải hóa. Qua câu chuyện về cuộc thí nghiệm giữa sư tử và cừu, chúng ta nhận ra rằng chỉ có Đức Chúa Giê-su mới có thể biến đổi tấm lòng con người từ bên trong."
 tags: ["Tội Lỗi", "Sự Cứu Rỗi", "Biến Đổi", "Chắp Cánh Bay Cao"]
 authors:
   - duong-quang-thoai
@@ -27,7 +27,7 @@ Kinh Thánh cho biết bản chất tội lỗi trong con người không thể 
 
 Sứ đồ Phao-lô đã diễn tả chính xác thực trạng này trong thư Rô-ma 7:18-20: chúng ta muốn làm điều lành nhưng không có sức để thực hiện; điều ác mà chúng ta không muốn làm thì lại cứ làm. Đây không phải là kinh nghiệm của riêng ai, mà là cuộc chiến chung của mọi người trước sức mạnh của tội lỗi.
 
-Chính vì thế mà Chúa Giê-su phải giáng trần. Giải pháp cứu rỗi không nằm trong nỗ lực tự thân của con người, mà chỉ có thể thực hiện qua đức tin nơi Ngài. Những ai cảm thấy mình không cần có Chúa, tin rằng mình có thể tự sửa đổi, thì hãy cẩn thận — cứ vài ngày sẽ lại mất thêm một con cừu.
+Chính vì thế mà Đức Chúa Giê-su phải giáng trần. Giải pháp cứu rỗi không nằm trong nỗ lực tự thân của con người, mà chỉ có thể thực hiện qua đức tin nơi Ngài. Những ai cảm thấy mình không cần có Chúa, tin rằng mình có thể tự sửa đổi, thì hãy cẩn thận — cứ vài ngày sẽ lại mất thêm một con cừu.
 
 ## Không Thể Sống Chung Lẫn Lộn
 

@@ -37,7 +37,7 @@ Thực tế cho thấy rằng khi kết quả to lớn được góp nhặt từ
 
 ## Lời Chúa Dạy Về Sự Trung Tín
 
-Kinh Thánh dạy rất rõ ràng về giá trị của sự trung tín trong những việc nhỏ. Trong sách Ma-thi-ơ đoạn 25, câu 21, Chúa Giê-xu phán rằng người đầy tớ trung tín trong việc nhỏ sẽ được giao cho coi sóc nhiều việc lớn hơn và được hưởng sự vui mừng của Chúa mình.
+Kinh Thánh dạy rất rõ ràng về giá trị của sự trung tín trong những việc nhỏ. Trong sách Ma-thi-ơ đoạn 25, câu 21, Đức Chúa Giê-su phán rằng người đầy tớ trung tín trong việc nhỏ sẽ được giao cho coi sóc nhiều việc lớn hơn và được hưởng sự vui mừng của Chúa mình.
 
 Lời hứa này cho chúng ta thấy rằng Đức Chúa Trời không đánh giá con người qua quy mô của công việc mà qua sự trung tín trong từng phần việc được giao. Ngài quan tâm đến thái độ và sự kiên trì hơn là kết quả bề ngoài. Một người trung tín trong việc nhỏ chứng tỏ tấm lòng đáng tin cậy và sẵn sàng cho những trách nhiệm lớn hơn.
 

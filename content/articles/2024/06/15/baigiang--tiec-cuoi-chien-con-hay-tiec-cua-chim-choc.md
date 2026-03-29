@@ -31,9 +31,9 @@ Trên thiên đàng, cảnh tượng diễn ra là tiệc cưới Chiên Con. Ha
 
 ## Ý Nghĩa Của "Vợ Chiên Con"
 
-Một số người hiểu câu 7 theo nghĩa đen và cho rằng Chúa Giê-su có vợ. Mục Sư Đặng Thanh Phong phân tích rõ: Kinh Thánh dùng nhiều hình ảnh khác nhau để mô tả mối quan hệ giữa Chúa và hội thánh.
+Một số người hiểu câu 7 theo nghĩa đen và cho rằng Đức Chúa Giê-su có vợ. Mục Sư Đặng Thanh Phong phân tích rõ: Kinh Thánh dùng nhiều hình ảnh khác nhau để mô tả mối quan hệ giữa Chúa và hội thánh.
 
-Trong Giăng 15, Chúa ví mình là gốc nho, còn chúng ta là nhánh nho — chẳng lẽ điều đó có nghĩa Chúa thực sự là một cây nho? Trong Ê-phê-sô 5, Phao-lô viết rằng chồng là đầu vợ "khác nào Đấng Chúa Giê-su là đầu Hội Thánh." Ngài là chồng, Hội Thánh là vợ — đây là hình ảnh chỉ về mối liên hệ đặc biệt giữa Chúa với dân sự Ngài, không phải ý nghĩa đen của việc Chúa có vợ bằng xương bằng thịt.
+Trong Giăng 15, Chúa ví mình là gốc nho, còn chúng ta là nhánh nho — chẳng lẽ điều đó có nghĩa Chúa thực sự là một cây nho? Trong Ê-phê-sô 5, Phao-lô viết rằng chồng là đầu vợ "khác nào Đấng Đức Chúa Giê-su là đầu Hội Thánh." Ngài là chồng, Hội Thánh là vợ — đây là hình ảnh chỉ về mối liên hệ đặc biệt giữa Chúa với dân sự Ngài, không phải ý nghĩa đen của việc Chúa có vợ bằng xương bằng thịt.
 
 Giê-rê-mi 31:31-33 cũng xác nhận điều này: "Ta làm chồng chúng nó" — Đức Giê-hô-va dùng hình ảnh vợ chồng để nói về giao ước mới với dân Ngài. Đây là cách Kinh Thánh diễn đạt mối quan hệ yêu thương, trung tín, và gắn bó không thể tách rời giữa Chúa và hội thánh Ngài.
 
@@ -49,6 +49,6 @@ Con thú bị bắt, tiên tri giả bị bắt, cả hai bị quăng sống và
 
 Sứ điệp của Khải Huyền 19 rất rõ ràng: ai thuộc về Chúa — giữ điều răn của Đức Chúa Trời và lòng tin trong Đức Chúa Giê-su — sẽ được mời đến tiệc cưới Chiên Con. Câu 9 ghi lại lời phán của thiên sứ: *"Phước thay cho những kẻ được mời đến dự tiệc cưới Chiên Con!"*
 
-Đây là lời mời hạnh phúc nhất mà một con người có thể nhận được. Nhưng để nhận được lời mời đó, mỗi người cần quyết định ngay hôm nay — tiếp nhận Chúa Giê-su làm Cứu Chúa và chủ cuộc đời mình, sống theo lời Ngài, và giữ lòng trung tín cho đến cuối cùng.
+Đây là lời mời hạnh phúc nhất mà một con người có thể nhận được. Nhưng để nhận được lời mời đó, mỗi người cần quyết định ngay hôm nay — tiếp nhận Đức Chúa Giê-su làm Cứu Chúa và chủ cuộc đời mình, sống theo lời Ngài, và giữ lòng trung tín cho đến cuối cùng.
 
 Không ai chạy thoát được một trong hai bữa tiệc này. Câu hỏi đặt ra cho mỗi chúng ta là: **Bạn sẽ dự tiệc nào?**

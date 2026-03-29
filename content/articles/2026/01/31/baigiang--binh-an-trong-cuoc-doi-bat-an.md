@@ -40,7 +40,7 @@ Chúng ta muốn kiểm soát sức khỏe, công việc, tài chính, gia đìn
 
 ## Sự Bình An Thật Đến Từ Đâu?
 
-Chúa Giê-su hứa trong Giăng 14:27: *"Ta để sự bình an lại cho các ngươi. Ta ban sự bình an ta cho các ngươi. Ta cho các ngươi sự bình an chẳng phải như thế gian cho. Lòng các ngươi chớ bối rối và đừng sợ hãi."*
+Đức Chúa Giê-su hứa trong Giăng 14:27: *"Ta để sự bình an lại cho các ngươi. Ta ban sự bình an ta cho các ngươi. Ta cho các ngươi sự bình an chẳng phải như thế gian cho. Lòng các ngươi chớ bối rối và đừng sợ hãi."*
 
 Đây không phải sự bình an do hoàn cảnh mang lại — mà là sự bình an Ngài tự mình ban.
 
@@ -94,7 +94,7 @@ Những khó khăn, những cơn bão trong đời không phải là bằng ch�
 
 ## Kết Luận: Bình An Là Kết Quả Của Đời Sống Tin Cậy
 
-Giăng 16:33 ghi lời Chúa Giê-su: *"Ta đã bảo các ngươi những điều đó, hầu cho các ngươi có lòng bình yên trong Ta. Các ngươi sẽ có sự hoạn nạn trong thế gian; nhưng hãy cứ vững lòng, Ta đã thắng thế gian rồi."*
+Giăng 16:33 ghi lời Đức Chúa Giê-su: *"Ta đã bảo các ngươi những điều đó, hầu cho các ngươi có lòng bình yên trong Ta. Các ngươi sẽ có sự hoạn nạn trong thế gian; nhưng hãy cứ vững lòng, Ta đã thắng thế gian rồi."*
 
 Bình an không phải là cảm xúc nhất thời — đến khi hoàn cảnh thuận lợi, biến mất khi hoàn cảnh đảo chiều. Bình an thật là **kết quả của một đời sống tin cậy Chúa mỗi ngày**: sống trong Lời Ngài, trao gánh nặng cho Ngài trong cầu nguyện, và nhìn mọi thử thách bằng con mắt biết rằng Ngài đang ở cùng và đang tể trị.
 

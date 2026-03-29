@@ -34,7 +34,7 @@ Sự hy sinh của giám mục Valentine gây đau đớn cho những người y
 
 Ê-sai 53:7-8 mô tả: *"Người bị hà hiếp nhưng khi chịu sự khốn khổ chẳng hề mở miệng, như chiên con bị dắt đến hàng làm thịt."* Trong nỗi oan ức tột cùng, Chúa Cứu Thế không hề than oán. Ngài chịu đựng tất cả vì yêu thương — để phục hồi lại những gì Adam và Eva đã đánh mất trong vườn Ê-đen, để mở ra con đường cứu rỗi cho nhân loại.
 
-Đây là điểm mấu chốt mà Mục sư Dương Quang Thoại nhấn mạnh: không phải chỉ biết Chúa Giê-su là Đấng Cứu Thế của nhân loại, mà phải tiếp nhận Ngài là Cứu Chúa cho riêng cuộc đời mình. Chỉ khi tình yêu của Chúa chạm đến trái tim từng người một cách cá nhân, người ta mới thực sự xúc động và không bao giờ có thể bỏ Ngài.
+Đây là điểm mấu chốt mà Mục sư Dương Quang Thoại nhấn mạnh: không phải chỉ biết Đức Chúa Giê-su là Đấng Cứu Thế của nhân loại, mà phải tiếp nhận Ngài là Cứu Chúa cho riêng cuộc đời mình. Chỉ khi tình yêu của Chúa chạm đến trái tim từng người một cách cá nhân, người ta mới thực sự xúc động và không bao giờ có thể bỏ Ngài.
 
 ## Hội Thánh là người vợ, Chúa là người chồng
 

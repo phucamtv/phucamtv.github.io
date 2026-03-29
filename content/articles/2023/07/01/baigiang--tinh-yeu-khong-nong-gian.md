@@ -18,7 +18,7 @@ Nóng giận là một trong những cảm xúc tự nhiên của con người �
 
 Kinh Thánh cho thấy chính Đức Chúa Trời cũng nóng giận. Dân Số Ký 14:18 chép rằng Đức Giê-hô-va vốn chậm nóng giận và đầy ơn. Ngài giận, nhưng Ngài chậm giận — Ngài kiểm soát được cơn giận và biết mọi điều, cho nên cơn giận của Ngài luôn chính xác.
 
-Chúa Giê-su cũng nổi giận khi thấy người ta biến sân đền thờ — nơi trang nghiêm để cầu nguyện — thành chỗ buôn bán ồn ào. Ngài lật đổ bàn của những người đổi tiền và đuổi hết những kẻ buôn bán. Cơn giận của Ngài là chánh đáng, vì Ngài biết rõ mình đang làm gì.
+Đức Chúa Giê-su cũng nổi giận khi thấy người ta biến sân đền thờ — nơi trang nghiêm để cầu nguyện — thành chỗ buôn bán ồn ào. Ngài lật đổ bàn của những người đổi tiền và đuổi hết những kẻ buôn bán. Cơn giận của Ngài là chánh đáng, vì Ngài biết rõ mình đang làm gì.
 
 ---
 

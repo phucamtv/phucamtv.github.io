@@ -24,7 +24,7 @@ Câu chuyện này được chia thành hai phần: phần thứ nhất từ câ
 
 Theo tập quán xưa, khi gia đình quyết định tổ chức đám cưới, họ sẽ mời trước khi ấn định ngày và khách mời xác nhận nhận lời. Sau khi chuẩn bị xong mọi thứ và định ngày, đầy tớ mới đi nhắc lại lần thứ hai. Vì vậy, những ai đã nhận lời mà không đến thì lỗi hoàn toàn thuộc về khách mời — họ đã thất hứa với nhà vua.
 
-Trong câu 7, chi tiết "đốt phá thành" dường như không ăn nhập với câu chuyện tiệc cưới. Tuy nhiên, đây chính là lời tiên tri của Chúa Giê-su về việc thành Giê-ru-sa-lem sẽ bị quân La Mã tàn phá vào năm 70 sau Công Nguyên — khoảng 40 năm sau khi Ngài phán lời này.
+Trong câu 7, chi tiết "đốt phá thành" dường như không ăn nhập với câu chuyện tiệc cưới. Tuy nhiên, đây chính là lời tiên tri của Đức Chúa Giê-su về việc thành Giê-ru-sa-lem sẽ bị quân La Mã tàn phá vào năm 70 sau Công Nguyên — khoảng 40 năm sau khi Ngài phán lời này.
 
 ---
 

@@ -16,13 +16,13 @@ draft: false
 
 Ma-thi-ơ đoạn 18 mở đầu bằng một câu hỏi của các môn đồ: "Ai là lớn hơn hết trong nước thiên đàng?" Đây là câu hỏi cho thấy họ chưa hiểu gì về nước thiên đàng. Trong các cuộc họp báo, có những câu hỏi hay và cũng có những câu hỏi khiến người được phỏng vấn bực mình vì người hỏi không nắm rõ vấn đề. Câu hỏi của các môn đồ thuộc loại thứ hai — họ đang hình dung nước thiên đàng giống như thế gian, nơi có cấp bậc, quyền lợi, và thứ bậc để tranh giành.
 
-Chúa Giê-su không trả lời thẳng vào câu hỏi đó. Thay vào đó, Ngài gọi một đứa trẻ đến, đặt ở giữa đám đông, và phán: "Nếu các ngươi không đổi lại và nên như đứa trẻ, thì chẳng được vào nước thiên đàng đâu." Câu trả lời này hàm ý rằng chính cách đặt câu hỏi của họ đang đẩy họ ra xa nước Đức Chúa Trời. Cái tinh thần tranh giành, hỏi xem ai lớn ai nhỏ, chính là bằng chứng của sự thiếu khiêm nhường.
+Đức Chúa Giê-su không trả lời thẳng vào câu hỏi đó. Thay vào đó, Ngài gọi một đứa trẻ đến, đặt ở giữa đám đông, và phán: "Nếu các ngươi không đổi lại và nên như đứa trẻ, thì chẳng được vào nước thiên đàng đâu." Câu trả lời này hàm ý rằng chính cách đặt câu hỏi của họ đang đẩy họ ra xa nước Đức Chúa Trời. Cái tinh thần tranh giành, hỏi xem ai lớn ai nhỏ, chính là bằng chứng của sự thiếu khiêm nhường.
 
 ---
 
 ## Năm Bản Tính Của Đứa Trẻ
 
-Chúa Giê-su dùng hình ảnh đứa trẻ để dạy về những đức tính cần có để bước vào nước thiên đàng. Ngài không nói "hãy giống như đứa trẻ" mà dùng chữ **đổi lại** — ngụ ý rằng người trưởng thành đã đi quá xa, cần chuyển hướng trở lại. Cuộc đời thường đẩy con người đến những thay đổi theo chiều tiêu cực: mất đi sự trong trắng, sự khiêm tốn, lòng tin cậy đơn sơ.
+Đức Chúa Giê-su dùng hình ảnh đứa trẻ để dạy về những đức tính cần có để bước vào nước thiên đàng. Ngài không nói "hãy giống như đứa trẻ" mà dùng chữ **đổi lại** — ngụ ý rằng người trưởng thành đã đi quá xa, cần chuyển hướng trở lại. Cuộc đời thường đẩy con người đến những thay đổi theo chiều tiêu cực: mất đi sự trong trắng, sự khiêm tốn, lòng tin cậy đơn sơ.
 
 **Thứ nhất, sự khiêm nhường.** Một đứa trẻ khi được đẩy ra trước đám đông để biểu diễn thường thụt lùi, ẩn mình, đẩy người khác ra thay. Không phải vì yếm thế, mà vì nó không nghĩ mình hơn ai. Đó là hình ảnh người khiêm tốn thật sự — không tranh giành vị trí, không cạnh tranh chức vụ.
 
@@ -38,11 +38,11 @@ Chúa Giê-su dùng hình ảnh đứa trẻ để dạy về những đức tí
 
 ## Tiếp Nhận Đứa Trẻ Là Tiếp Nhận Chúa
 
-Từ câu 5 đến câu 7 và câu 10, Chúa Giê-su mở rộng ý nghĩa của chữ "đứa trẻ" theo nghĩa bóng: đó là những người mới tin Chúa, những người yếu đuối trong đức tin, những người đang ở những giai đoạn non nớt trong đời sống thuộc linh.
+Từ câu 5 đến câu 7 và câu 10, Đức Chúa Giê-su mở rộng ý nghĩa của chữ "đứa trẻ" theo nghĩa bóng: đó là những người mới tin Chúa, những người yếu đuối trong đức tin, những người đang ở những giai đoạn non nớt trong đời sống thuộc linh.
 
 Ngài phán: "Hễ ai vì danh ta chịu tiếp một đứa trẻ này, tức là chịu tiếp ta." Chữ "tiếp" ở đây mang ba nghĩa: tiếp nhận một người khiêm nhường, giúp một người sống tốt hơn, và nhìn thấy Chúa trong người đó. Khi chúng ta vì tình yêu Chúa mà phục vụ những người yếu đuối — dù là thiếu nhi trong khu xóm nghèo, dù là những người có hoàn cảnh phức tạp — chúng ta đang chuyển tải ơn phước Chúa đến cho họ.
 
-Chúa Giê-su trong dụ ngôn chia chiên và dê cũng nhắc nhở điều tương tự: những việc nhỏ làm cho người chung quanh — cho ăn, cho uống, cho mặc — chính là làm cho Ngài. Đừng từ chối những đứa trẻ hay những người nhỏ bé chỉ vì họ không đủ tiêu chuẩn hay không đáp ứng kỳ vọng của chúng ta.
+Đức Chúa Giê-su trong dụ ngôn chia chiên và dê cũng nhắc nhở điều tương tự: những việc nhỏ làm cho người chung quanh — cho ăn, cho uống, cho mặc — chính là làm cho Ngài. Đừng từ chối những đứa trẻ hay những người nhỏ bé chỉ vì họ không đủ tiêu chuẩn hay không đáp ứng kỳ vọng của chúng ta.
 
 ---
 

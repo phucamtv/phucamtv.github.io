@@ -62,7 +62,7 @@ Nếu phát hiện ra rằng mình đã đến cùng Chúa, đã nghe lời Chú
 
 ## Không Thể Theo Chúa Một Cách Hời Hợt
 
-Chúa Giê-su cảnh báo rằng con đường theo Chúa là con đường hẹp, đầy khó khăn. Những người theo Chúa một cách hời hợt sẽ không bao giờ chạm được sự cứu rỗi. Tin Chúa một cách cẩu thả — xây ngôi nhà cho xong để người ta nhìn thấy — rồi tự hào rằng mình cũng là cơ đốc nhân, cũng là mục sư truyền đạo như ai, nhưng cuối cùng lại rất cẩu thả trong chức vụ.
+Đức Chúa Giê-su cảnh báo rằng con đường theo Chúa là con đường hẹp, đầy khó khăn. Những người theo Chúa một cách hời hợt sẽ không bao giờ chạm được sự cứu rỗi. Tin Chúa một cách cẩu thả — xây ngôi nhà cho xong để người ta nhìn thấy — rồi tự hào rằng mình cũng là cơ đốc nhân, cũng là mục sư truyền đạo như ai, nhưng cuối cùng lại rất cẩu thả trong chức vụ.
 
 Phao-lô dạy Ti-mô-thê trong II Ti-mô-thê 2:15: "Hãy chuyên tâm cho được đẹp lòng Đức Chúa Trời, như người làm công không chỗ trách được, lấy lòng ngay thẳng giảng dạy lời của lẽ thật." Người hầu việc Chúa phải chuyên tâm, cần mẫn, nhiệt thành — giống như đầu bếp dọn một bữa ăn với tất cả tấm lòng, chứ không phải làm cho có, làm qua loa.
 

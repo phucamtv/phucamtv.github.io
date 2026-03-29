@@ -34,11 +34,11 @@ Phục-truyền Luật-lệ Ký 27:16 cũng chép: *"Đáng rủa sả thay ngư
 
 Châm Ngôn 20:20 cảnh báo: *"Ngọn đèn của kẻ rủa cha mẹ mình sẽ tắt giữa vùng tăm tối mờ mịt."* Đây vừa là lời nguyền rủa, vừa là lời tiên tri, vừa là lời cảnh tỉnh. Cuộc đời mỗi người như một ngọn đèn; kẻ nào rủa cha mẹ thì ngọn đèn ấy sẽ tắt giữa bóng tối dày đặc. Dù tài năng hay sức lực đến đâu, không ai bất hiếu mà có thể tỏa sáng được.
 
-## 3. Gương Hiếu Thảo Của Chúa Giê-su
+## 3. Gương Hiếu Thảo Của Đức Chúa Giê-su
 
 Lu-ca 2:51 ghi lại rằng Đức Chúa Giê-su trong suốt thời niên thiếu đã "chịu lụy" cha mẹ — nghĩa là Ngài vâng phục, thuận lụy trong gia đình. Chỉ hai chữ "chịu lụy" mà tóm tắt gần 30 năm Ngài làm tròn trách nhiệm của một người con. Đức Chúa Giê-su là Thượng Đế, chưa bao giờ cần ai sai bảo, chưa bao giờ cần lao động. Nhưng khi trở thành người, Ngài đã phụ giúp cha mẹ, làm nghề thợ mộc với Giô-sép, và chăm sóc gia đình.
 
-Ngay cả khi bị đóng đinh trên thập tự giá, trong giờ phút đau đớn tột cùng, Chúa Giê-su vẫn nhìn xuống mẹ mình và giao bà Ma-ri cho môn đồ Giăng chăm sóc. Ngài hoàn tất trách nhiệm làm con đến hơi thở cuối cùng.
+Ngay cả khi bị đóng đinh trên thập tự giá, trong giờ phút đau đớn tột cùng, Đức Chúa Giê-su vẫn nhìn xuống mẹ mình và giao bà Ma-ri cho môn đồ Giăng chăm sóc. Ngài hoàn tất trách nhiệm làm con đến hơi thở cuối cùng.
 
 ## Hãy Tận Dụng Khi Còn Cơ Hội
 

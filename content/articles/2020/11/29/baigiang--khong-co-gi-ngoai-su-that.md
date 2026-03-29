@@ -30,7 +30,7 @@ Sách Châm Ngôn 19:5 chép rằng: "Kẻ làm chứng gian chẳng khỏi bị
 
 ## Dối Trá — Ngôn Ngữ Của Ma Quỷ
 
-Dối trá là ngôn ngữ của ma quỷ. Chúa Giê-su đã phán rằng ma quỷ là cha của sự nói dối, và trong nó không có lẽ thật. Những ai thuộc về Đấng Christ thì được mọi người biết đến như là những người của lẽ thật, những người luôn nói thật trong mọi hoàn cảnh.
+Dối trá là ngôn ngữ của ma quỷ. Đức Chúa Giê-su đã phán rằng ma quỷ là cha của sự nói dối, và trong nó không có lẽ thật. Những ai thuộc về Đấng Christ thì được mọi người biết đến như là những người của lẽ thật, những người luôn nói thật trong mọi hoàn cảnh.
 
 Sự dối trá thoạt đầu có vẻ như là một lối thoát tiện lợi — giúp ta tránh né trách nhiệm, che giấu lỗi lầm, hoặc đạt được lợi ích trước mắt. Nhưng thật ra, nó lại đi vào ngõ cụt. Mỗi lời dối trá đòi hỏi thêm nhiều lời dối trá khác để duy trì, và cuối cùng, toàn bộ sự giả dối sẽ sụp đổ.
 

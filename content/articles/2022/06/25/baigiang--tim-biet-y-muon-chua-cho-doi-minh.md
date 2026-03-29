@@ -20,11 +20,11 @@ Trong mọi mối quan hệ, việc hiểu nhau là nền tảng. Vợ chồng k
 
 ## Nghe Và Hiểu — Hai Bước Không Thể Tách Rời
 
-Trong Ma-thi-ơ đoạn 15 câu 14, Đức Chúa Giê-xu kêu đoàn dân đến và phán: "Hãy nghe Ta và hiểu." Hai bước này nằm gần nhau nhưng nhiều người chỉ dừng lại ở bước thứ nhất — nghe mà không hiểu. Khi nghe mà không hiểu rõ, bước tiếp theo chắc chắn sẽ là làm sai.
+Trong Ma-thi-ơ đoạn 15 câu 14, Đức Chúa Giê-su kêu đoàn dân đến và phán: "Hãy nghe Ta và hiểu." Hai bước này nằm gần nhau nhưng nhiều người chỉ dừng lại ở bước thứ nhất — nghe mà không hiểu. Khi nghe mà không hiểu rõ, bước tiếp theo chắc chắn sẽ là làm sai.
 
-Chính Đức Chúa Giê-xu là Con Đức Chúa Trời cũng cần hiểu rõ ý muốn của Cha để làm theo. Trong Giăng đoạn 4 câu 34, Ngài phán: "Đồ ăn của Ta tức là làm theo ý muốn của Đấng đã sai Ta đến." Hình ảnh đồ ăn cho thấy việc làm theo ý Chúa không phải là điều tùy chọn mà là nhu cầu sống còn — như cơ thể cần thức ăn mỗi ngày để tồn tại.
+Chính Đức Chúa Giê-su là Con Đức Chúa Trời cũng cần hiểu rõ ý muốn của Cha để làm theo. Trong Giăng đoạn 4 câu 34, Ngài phán: "Đồ ăn của Ta tức là làm theo ý muốn của Đấng đã sai Ta đến." Hình ảnh đồ ăn cho thấy việc làm theo ý Chúa không phải là điều tùy chọn mà là nhu cầu sống còn — như cơ thể cần thức ăn mỗi ngày để tồn tại.
 
-## Đức Chúa Giê-xu Đề Cao Người Làm Theo Ý Chúa
+## Đức Chúa Giê-su Đề Cao Người Làm Theo Ý Chúa
 
 Mác đoạn 3 câu 35 ghi lại lời Chúa: "Ai làm theo ý muốn Đức Chúa Trời, ấy là anh em, chị em và mẹ Ta." Ngài nâng những người vâng theo ý Cha lên vị trí thân thiết nhất, ngang hàng với gia đình ruột thịt. Trong Ma-thi-ơ đoạn 21, qua ẩn dụ về hai người con — đứa nói đi nhưng không đi, đứa nói không nhưng cuối cùng lại đi — Chúa cho thấy điều quan trọng không phải là lời nói ban đầu mà là hành động cuối cùng có phù hợp với ý muốn của Cha hay không.
 

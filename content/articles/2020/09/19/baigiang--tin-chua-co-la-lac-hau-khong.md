@@ -14,7 +14,7 @@ draft: false
 
 Trong chuyến xe lửa từ Lyon đến Paris, Pháp, một chàng thanh niên ngồi chung toa với một ông già tóc cắt ngắn, gương mặt phong trần, chiếc quần lấm đất và một đôi giày cũ kỹ. Tuy thế, gương mặt ông già lại toát lên một nét đạo hạnh đầy ấn tượng, ngực ông đeo một chiếc thập tự giá nhỏ, bằng kim loại.
 
-Chàng trai gợi chuyện: "Cháu thấy ông rất đáng kính, nhưng cháu ngạc nhiên vì dường như ông vẫn còn tin tưởng vào những điều từ thời trung cổ về thập tự giá và Chúa Giê-su, cùng những giáo điều do nhà thờ dạy."
+Chàng trai gợi chuyện: "Cháu thấy ông rất đáng kính, nhưng cháu ngạc nhiên vì dường như ông vẫn còn tin tưởng vào những điều từ thời trung cổ về thập tự giá và Đức Chúa Giê-su, cùng những giáo điều do nhà thờ dạy."
 
 Ông già điềm tĩnh trả lời: "Đúng vậy, còn cậu thì sao?"
 

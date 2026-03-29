@@ -51,7 +51,7 @@ Con ngựa vàng (ngựa tái) mang tên Sự Chết, âm phủ theo sau. Đây 
 
 ## Ấn Thứ Năm: Tiếng Kêu Dưới Bàn Thờ
 
-Ấn thứ năm cho thấy những linh hồn dưới bàn thờ — những người chịu giết vì đạo — kêu xin Chúa đoán xét. Đây là hình ảnh biểu tượng chứ không phải nghĩa đen, vì người chết trong Chúa chỉ ngủ, chưa ai lên thiên đàng ngay. Bài học quan trọng: sự đoán xét thuộc về Chúa, Ngài có thời điểm riêng. Chính Chúa Giê-su trên thập tự giá đã cầu nguyện xin Cha tha tội cho những kẻ giết mình; Ê-tiên khi bị ném đá cũng xin Chúa đừng đổ tội cho họ. Đó mới là tinh thần thật của con cái Chúa.
+Ấn thứ năm cho thấy những linh hồn dưới bàn thờ — những người chịu giết vì đạo — kêu xin Chúa đoán xét. Đây là hình ảnh biểu tượng chứ không phải nghĩa đen, vì người chết trong Chúa chỉ ngủ, chưa ai lên thiên đàng ngay. Bài học quan trọng: sự đoán xét thuộc về Chúa, Ngài có thời điểm riêng. Chính Đức Chúa Giê-su trên thập tự giá đã cầu nguyện xin Cha tha tội cho những kẻ giết mình; Ê-tiên khi bị ném đá cũng xin Chúa đừng đổ tội cho họ. Đó mới là tinh thần thật của con cái Chúa.
 
 ---
 

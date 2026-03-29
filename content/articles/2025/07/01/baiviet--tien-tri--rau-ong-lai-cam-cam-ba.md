@@ -30,7 +30,7 @@ Vậy mà những người lập nên cái nhà nước Israel hiện đại nà
 
 Lời tiên tri nói về cái sự sống lại từ cõi chết. Vậy thì, "sống lại" ở đây có nghĩa là gì? Nếu cứ hiểu theo cái nghĩa thể xác, thì tại sao lại thiếu mất mười chi phái? Nếu hiểu theo cái nghĩa tinh thần, thì thử hỏi: làm thế nào một dân tộc có thể gọi là "sống lại" khi mà họ đã khăng khăng chối bỏ chính cái Nguồn Sống của mình?
 
-Chẳng phải chính cái dân tộc này, trong cái sự mê muội của mình, đã mượn tay Bôn-xơ Phi-lát, một viên tổng đốc La Mã, để đóng đinh chính "Vua Dân Giu-đa" của họ trên cây thập tự đó sao? Thánh Kinh đã ghi lại cái cảnh tượng bi thảm ấy một cách không thể nào rõ ràng hơn, khi Phi-lát đem Đức Chúa Jesus ra trước đám đông:
+Chẳng phải chính cái dân tộc này, trong cái sự mê muội của mình, đã mượn tay Bôn-xơ Phi-lát, một viên tổng đốc La Mã, để đóng đinh chính "Vua Dân Giu-đa" của họ trên cây thập tự đó sao? Thánh Kinh đã ghi lại cái cảnh tượng bi thảm ấy một cách không thể nào rõ ràng hơn, khi Phi-lát đem Đức Chúa Giê-su ra trước đám đông:
 
 > ¹⁴ Bấy giờ là ngày sắm sửa Lễ Vượt Qua, độ chừng giờ thứ sáu. Phi-lát nói với dân Giu-đa: "Đây là Vua của các ngươi!" ¹⁵ Nhưng chúng la lên: "Hãy trừ nó đi! Trừ nó đi! Đóng đinh nó trên cây thập tự!" Phi-lát hỏi: "Ta sẽ đóng đinh Vua của các ngươi sao?" Các thầy tế lễ cả đáp: "Ngoài Sê-sa, chúng tôi không có vua nào khác." (Giăng 19:14-15)
 
@@ -58,7 +58,7 @@ Thánh Kinh nói thế nào? Hãy xem Ê-xê-chi-ên 37:25, ngay tại cái chư
 
 Thế thì, thử hỏi: cái vùng đất mà nhà nước Israel chiếm được từ năm 1948 cho đến nay, nó có rộng lớn như vương quốc xưa, trải dài từ sông này đến sông kia không? Và cái điều quan trọng hơn là: cái sự "cho đến đời đời" kia, nó nằm ở đâu? Đã bao giờ cái đất ấy được yên ổn "cho đến đời đời" chưa, hay vẫn mãi chìm trong vòng tranh chấp, chiến tranh không ngớt? Cái đất đai mà người ta đang cố sức chiếm giữ bằng quân sự, bằng chính trị đó, liệu có bảo đảm được sự "cho đến đời đời" như lời hứa thiêng liêng không? Rõ ràng, cái lời hứa thiêng liêng về đất đai an bình và vĩnh cửu đó, nó vẫn cứ xa vời lắm với cái thực tế chính trị hỗn loạn này. Vậy thì, làm sao ta có thể nhắm mắt mà bảo rằng đây chính là sự ứng nghiệm?
 
-Hơn nữa, Giao Ước Mới đã chuyển cái trọng tâm đi rồi. Không còn là đất đai vật lý, mà là lời hứa thiêng liêng. Thánh Kinh viết: "Họ mong ước một quê hương tốt hơn, tức là quê hương ở trên trời." Chính Đức Chúa Jesus cũng đã tuyên bố: "Nước ta chẳng phải thuộc về thế gian này." (Giăng 18:36)
+Hơn nữa, Giao Ước Mới đã chuyển cái trọng tâm đi rồi. Không còn là đất đai vật lý, mà là lời hứa thiêng liêng. Thánh Kinh viết: "Họ mong ước một quê hương tốt hơn, tức là quê hương ở trên trời." Chính Đức Chúa Giê-su cũng đã tuyên bố: "Nước ta chẳng phải thuộc về thế gian này." (Giăng 18:36)
 
 Vậy, cái việc cố gắng gán ghép một giá trị thiêng liêng, một lời hứa thiên niên kỷ vào những đường biên giới chính trị của một quốc gia hiện đại, há chẳng phải là một cách hiểu hết sức trần tục đó sao? Ấy đã làm cho cái tinh thần siêu việt của lời hứa bị đánh mất đi hoàn toàn. Người ta cứ mãi miết nhìn xuống đất mà quên bẵng đi cái lời hứa ở trên trời.
 
@@ -66,7 +66,7 @@ Vậy, cái việc cố gắng gán ghép một giá trị thiêng liêng, một
 
 Không một ai có thể phủ nhận cái đặc ân của dân Do Thái. Thánh Kinh đã được giao phó cho họ. Đấng Cứu Thế cũng đã sinh ra giữa vòng họ. Ấy là sự thật.
 
-Nhưng họ cũng đã có cái hành vi khước từ và đóng đinh Đấng Mê-si-a của chính mình đó vậy. Đức Chúa Jesus đã cảnh báo những nhà lãnh đạo Do Thái chống đối Ngài rằng: "Các ngươi thuộc về cha mình là ma quỷ" (Giăng 8:44). Thiên Chúa, chớ nào có cái chuyện bênh vực vô điều kiện cho bất cứ kẻ nào. Ngài có thể ban phước, thì Ngài cũng có thể rủa sả, như đã chép: "Ngươi sẽ bị rủa sả khi đi ra và lúc đi vào... cho đến chừng nào ngươi bị hủy diệt" (Phục Truyền Luật Lệ Ký 28:19-20).
+Nhưng họ cũng đã có cái hành vi khước từ và đóng đinh Đấng Mê-si-a của chính mình đó vậy. Đức Chúa Giê-su đã cảnh báo những nhà lãnh đạo Do Thái chống đối Ngài rằng: "Các ngươi thuộc về cha mình là ma quỷ" (Giăng 8:44). Thiên Chúa, chớ nào có cái chuyện bênh vực vô điều kiện cho bất cứ kẻ nào. Ngài có thể ban phước, thì Ngài cũng có thể rủa sả, như đã chép: "Ngươi sẽ bị rủa sả khi đi ra và lúc đi vào... cho đến chừng nào ngươi bị hủy diệt" (Phục Truyền Luật Lệ Ký 28:19-20).
 
 Thậm chí, chính Ngài đã báo trước một điều khiến người ta phải giật mình suy nghĩ. Khi ra khỏi Đền thờ, Ngài tuyên bố rõ ràng với môn đồ (Ma-thi-ơ 24:1-2):
 
@@ -112,7 +112,7 @@ Cái sự học hỏi Thánh Kinh, cái lẽ phải là một công việc hết
 
 ## Kết
 
-Thánh Kinh giới thiệu Thiên Chúa là Đấng yêu thương toàn nhân loại. Chớ nào phải là thần hộ mệnh cho riêng một dân tộc nào. Sứ điệp cốt lõi của Phúc Âm là sự cứu rỗi đến bởi ân điển qua đức tin nơi Đức Chúa Jesus Christ. Không bởi dòng máu. Không bởi lãnh thổ.
+Thánh Kinh giới thiệu Thiên Chúa là Đấng yêu thương toàn nhân loại. Chớ nào phải là thần hộ mệnh cho riêng một dân tộc nào. Sứ điệp cốt lõi của Phúc Âm là sự cứu rỗi đến bởi ân điển qua đức tin nơi Đức Chúa Giê-su Christ. Không bởi dòng máu. Không bởi lãnh thổ.
 
 Việc tái lập nhà nước Israel có thể là một sự kiện lịch sử trọng đại. Nhưng chớ nên vội vàng gán ghép nó với lời tiên tri thiêng liêng. Các điều kiện then chốt — ấy là sự ăn năn tập thể và sự hiện diện của Đấng Mê-si-a — đều vắng mặt.
 

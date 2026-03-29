@@ -42,7 +42,7 @@ Chúng ta không cần đợi đến khi có một ánh sáng thật lớn rồi
 
 ## Lời Chúa Dạy
 
-Chúa Giê-su phán dạy trong Ma-thi-ơ 5:14-15 rằng các con là ánh sáng của thế gian, một cái thành ở trên núi thì không khi nào bị khuất được, cũng không ai thắp đèn mà để dưới cái thùng, song người ta để trên chân đèn thì nó soi sáng mọi người ở trong nhà.
+Đức Chúa Giê-su phán dạy trong Ma-thi-ơ 5:14-15 rằng các con là ánh sáng của thế gian, một cái thành ở trên núi thì không khi nào bị khuất được, cũng không ai thắp đèn mà để dưới cái thùng, song người ta để trên chân đèn thì nó soi sáng mọi người ở trong nhà.
 
 Mỗi Cơ Đốc nhân đều được Chúa giao cho một ánh sáng, dù lớn hay nhỏ. Điều quan trọng không phải là kích thước của ánh sáng, mà là sự trung tín trong việc thắp sáng nó mỗi ngày. Đôi khi chính những hành động nhỏ bé nhất — một lời cầu nguyện thầm lặng, một sự phục vụ không ai biết đến, một bước đi vâng phục trong đêm tối — lại là điều Chúa dùng để dẫn dắt những linh hồn đang lạc lối trở về với Ngài.
 

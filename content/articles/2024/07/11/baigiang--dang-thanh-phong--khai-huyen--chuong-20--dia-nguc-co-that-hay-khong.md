@@ -27,7 +27,7 @@ Kinh Thánh xác nhận rõ ràng có địa ngục. Ma-thi-ơ 10:28 cảnh báo
 
 Nhiều người lầm tưởng âm phủ và địa ngục là một, nhưng Kinh Thánh phân biệt rất rõ. Thi Thiên 139:8 nhắc đến âm phủ như nơi ở dưới đối lập với trời ở trên. Công Vụ 2:27 nói Chúa chẳng để linh hồn nơi âm phủ. Ma-thi-ơ 11:23 dùng từ âm phủ với nghĩa nơi hạ xuống thấp.
 
-Thực chất, từ "âm phủ" trong Kinh Thánh chỉ về nghĩa địa — nơi chôn người chết — chứ không phải hồ lửa. Bằng chứng rõ ràng nhất nằm ngay trong Khải Huyền 20:14: "Sự chết và âm phủ bị quăng xuống hồ lửa." Nếu âm phủ và hồ lửa là một thì không thể ném cái này vào cái kia được. Chúa Giê-su cầm chìa khóa của sự chết và âm phủ (Khải Huyền 1:18), cho thấy âm phủ là nơi tạm thời chứa người chết cho đến ngày phán xét.
+Thực chất, từ "âm phủ" trong Kinh Thánh chỉ về nghĩa địa — nơi chôn người chết — chứ không phải hồ lửa. Bằng chứng rõ ràng nhất nằm ngay trong Khải Huyền 20:14: "Sự chết và âm phủ bị quăng xuống hồ lửa." Nếu âm phủ và hồ lửa là một thì không thể ném cái này vào cái kia được. Đức Chúa Giê-su cầm chìa khóa của sự chết và âm phủ (Khải Huyền 1:18), cho thấy âm phủ là nơi tạm thời chứa người chết cho đến ngày phán xét.
 
 ---
 
@@ -53,7 +53,7 @@ Bài giảng đưa ra ba lý do cho thấy lửa địa ngục không cháy đ�
 
 Ma-thi-ơ 25:41 cho biết lửa đời đời được sắm sẵn cho ma quỷ và quỷ sứ của nó — Chúa không dành địa ngục cho con người. Nhưng những ai chọn đi theo ma quỷ, từ chối ân điển cứu rỗi, thì sẽ chung số phận với Sa-tan trong hồ lửa.
 
-Điều quan trọng là Chúa không dùng địa ngục để dọa con người. Chúa dùng tình yêu thương, dùng sự hy sinh trên thập tự giá, dùng huyết của Chúa Giê-su để cảm hóa lòng người. Chúa ban Đức Thánh Linh để cảm động tấm lòng, mong muốn mọi người ăn năn quay về với Ngài. Đó mới là phương cách của Đức Chúa Trời — không phải uy quyền, không phải vật chất, không phải phép lạ — mà là tình yêu thương vô điều kiện.
+Điều quan trọng là Chúa không dùng địa ngục để dọa con người. Chúa dùng tình yêu thương, dùng sự hy sinh trên thập tự giá, dùng huyết của Đức Chúa Giê-su để cảm hóa lòng người. Chúa ban Đức Thánh Linh để cảm động tấm lòng, mong muốn mọi người ăn năn quay về với Ngài. Đó mới là phương cách của Đức Chúa Trời — không phải uy quyền, không phải vật chất, không phải phép lạ — mà là tình yêu thương vô điều kiện.
 
 ---
 

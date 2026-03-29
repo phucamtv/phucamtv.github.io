@@ -35,23 +35,23 @@ Những con người quá tốt, rất tốt, mà cuối cùng luôn luôn gặp
 
 **Thứ ba**, chấp nhận đương đầu với bất công. Đức Chúa Trời dường như luôn sử dụng sự bất công để rèn luyện bản tánh của dân sự Ngài, giống như câu nói trong quân đội: "Đổ mồ hôi ở thao trường thì ở chiến trường bớt đổ máu."
 
-## Sự bất công mà Chúa Giê-su phải chịu
+## Sự bất công mà Đức Chúa Giê-su phải chịu
 
-Ma-thi-ơ đoạn 26-27 phơi bày một chuỗi bất công có hệ thống nhắm vào Chúa Giê-su. Người ta lập mưu bắt và giết Ngài (26:3-4). Người ta lường trước phản ứng của dân chúng (26:5). Người ta mua chuộc Giu-đa bằng 30 bạc (26:14-16). Người ta sắp xếp phiên xử giữa đêm khuya, không thông báo trước (26:57). Người ta kiếm chứng dối để buộc tội (26:59). Người ta cậy miệng Ngài để tìm sơ hở (26:62-63). Khi có cơ hội, người ta nhổ trên mặt Ngài, đấm Ngài, vả Ngài (26:66-68).
+Ma-thi-ơ đoạn 26-27 phơi bày một chuỗi bất công có hệ thống nhắm vào Đức Chúa Giê-su. Người ta lập mưu bắt và giết Ngài (26:3-4). Người ta lường trước phản ứng của dân chúng (26:5). Người ta mua chuộc Giu-đa bằng 30 bạc (26:14-16). Người ta sắp xếp phiên xử giữa đêm khuya, không thông báo trước (26:57). Người ta kiếm chứng dối để buộc tội (26:59). Người ta cậy miệng Ngài để tìm sơ hở (26:62-63). Khi có cơ hội, người ta nhổ trên mặt Ngài, đấm Ngài, vả Ngài (26:66-68).
 
 Đến đoạn 27, ngay cả Phi-lát cũng biết đây là vụ án bất công -- vì quan ấy biết bởi lòng ghen ghét nên chúng đã nộp Ngài (27:18). Nhưng áp lực của điều ác quá mạnh; người có quyền trong tay biết rằng đây là bất công mà vẫn không thể bẻ lái về sự công bằng. Cuối cùng đoàn dân đồng thanh: "Đóng đinh nó trên cây thập tự!"
 
-## Bài học từ phản ứng của Chúa Giê-su
+## Bài học từ phản ứng của Đức Chúa Giê-su
 
-Khi Phi-e-rơ rút gươm chém đứt tai đầy tớ thầy cả thượng phẩm (26:51), Chúa Giê-su ngăn lại: "Hãy nạp gươm vào vỏ, vì hễ ai cầm gươm thì sẽ bị chết vì gươm" (26:52). Đừng xử với họ theo cách họ đã xử với mình.
+Khi Phi-e-rơ rút gươm chém đứt tai đầy tớ thầy cả thượng phẩm (26:51), Đức Chúa Giê-su ngăn lại: "Hãy nạp gươm vào vỏ, vì hễ ai cầm gươm thì sẽ bị chết vì gươm" (26:52). Đừng xử với họ theo cách họ đã xử với mình.
 
-Điều đáng kinh ngạc là Chúa Giê-su có quyền lực: Ngài có thể xin Cha lập tức sai hơn 12 đạo thiên sứ đến giải cứu (26:53). Một người không có quyền lực mà chấp nhận bất công -- đó là một. Nhưng trong tay Ngài có quyền lực mà Ngài vẫn chấp nhận bất công -- đó là cả ngàn, cả triệu sự chịu đựng.
+Điều đáng kinh ngạc là Đức Chúa Giê-su có quyền lực: Ngài có thể xin Cha lập tức sai hơn 12 đạo thiên sứ đến giải cứu (26:53). Một người không có quyền lực mà chấp nhận bất công -- đó là một. Nhưng trong tay Ngài có quyền lực mà Ngài vẫn chấp nhận bất công -- đó là cả ngàn, cả triệu sự chịu đựng.
 
 ## Chúng ta được gì khi ở trong sự bất công?
 
 **Ở trong sự bất công là cơ hội nương cậy Chúa nhiều hơn.** Khi không còn điều gì công bằng trong thế giới này để bám víu, chỉ còn một nơi nương tựa duy nhất là Đức Chúa Trời.
 
-**Ở trong sự bất công là cơ hội cảm thông Chúa nhiều hơn.** Khi nhìn lại những gì Chúa Giê-su phải chịu -- bị trói, bị vả, bị khạc nhổ, bị đóng đinh -- thì sự bất công mà chúng ta gặp chỉ như một hạt cát so với cả bãi biển.
+**Ở trong sự bất công là cơ hội cảm thông Chúa nhiều hơn.** Khi nhìn lại những gì Đức Chúa Giê-su phải chịu -- bị trói, bị vả, bị khạc nhổ, bị đóng đinh -- thì sự bất công mà chúng ta gặp chỉ như một hạt cát so với cả bãi biển.
 
 **Ở trong sự bất công là cơ hội trở nên giống Chúa hơn.** Chúa không sai thiên sứ, Chúa ngăn cản gươm đao, Chúa im lặng. Hãy học từ Ngài và trở nên giống Ngài từng ngày trong cách ứng xử của mình.
 

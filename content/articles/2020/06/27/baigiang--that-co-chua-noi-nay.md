@@ -26,13 +26,13 @@ Tiên tri Giô-na cũng từng có suy nghĩ tương tự. Khi được Chúa sa
 
 Môi-se cũng gặp Chúa tại một nơi rất bất ngờ — giữa đồng vắng mênh mông, nơi một bụi gai đang cháy mà không hề tàn. Xuất Ê-díp-tô ký 3:2-5 ghi lại rằng khi Môi-se bước đến gần, Đức Chúa Trời phán: "Chớ lại gần chốn nầy. Hãy cởi giày ngươi ra, vì chỗ ngươi đương đứng là đất thánh." Phần đất ấy hằng ngày chỉ là đất thường, nhưng khi có sự hiện diện của Đức Chúa Trời, nó trở thành đất thánh.
 
-Hai môn đồ trên đường về làng Em-ma-út sau khi Chúa Giê-su bị đóng đinh cũng không nhận ra Đấng đồng hành với mình chính là Chúa Phục Sinh. Họ buồn bã, nặng lòng, nhưng khi Ngài giảng giải Kinh Thánh, lòng họ được đốt cháy. Chỉ đến khi Chúa bẻ bánh, mắt họ mới mở ra và nhận biết Ngài.
+Hai môn đồ trên đường về làng Em-ma-út sau khi Đức Chúa Giê-su bị đóng đinh cũng không nhận ra Đấng đồng hành với mình chính là Chúa Phục Sinh. Họ buồn bã, nặng lòng, nhưng khi Ngài giảng giải Kinh Thánh, lòng họ được đốt cháy. Chỉ đến khi Chúa bẻ bánh, mắt họ mới mở ra và nhận biết Ngài.
 
 ## Chốn Nầy Đáng Kinh Khủng Thay
 
 Khi nhận ra sự hiện diện của Đức Chúa Trời, Gia-cốp bắt sợ mà nói: "Chốn nầy đáng kinh khủng thay! Đây thật là đền Đức Chúa Trời, thật là cửa của trời!" Sự nhận thức về sự hiện diện của Chúa thay đổi hoàn toàn cách chúng ta sống. Nếu chúng ta ý thức rằng Ngài đang ở đây, mọi hành vi, lời nói, thái độ của chúng ta sẽ phải phù hợp với sự thánh khiết của Ngài.
 
-Thi-thiên 139:2 nhắc nhở: "Chúa biết khi tôi ngồi, lúc tôi đứng dậy; từ xa Chúa hiểu biết ý tưởng tôi." Chúa biết rõ từng chi tiết trong cuộc đời chúng ta. Chúa cũng hiện diện qua những người xung quanh — những kẻ tù đày, bệnh tật, nghèo khổ cần được giúp đỡ. Ma-thi-ơ 25:42-43 ghi lại lời Chúa Giê-su phán rằng khi chúng ta không giúp đỡ những người đó, chính là chúng ta đã không làm cho Ngài.
+Thi-thiên 139:2 nhắc nhở: "Chúa biết khi tôi ngồi, lúc tôi đứng dậy; từ xa Chúa hiểu biết ý tưởng tôi." Chúa biết rõ từng chi tiết trong cuộc đời chúng ta. Chúa cũng hiện diện qua những người xung quanh — những kẻ tù đày, bệnh tật, nghèo khổ cần được giúp đỡ. Ma-thi-ơ 25:42-43 ghi lại lời Đức Chúa Giê-su phán rằng khi chúng ta không giúp đỡ những người đó, chính là chúng ta đã không làm cho Ngài.
 
 ## Nếu Chúa Ở Cùng Tôi, Thì Ngài Sẽ Là Chúa Tôi
 

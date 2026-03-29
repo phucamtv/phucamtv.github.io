@@ -52,9 +52,9 @@ Ngược lại với 300 người lính, Ê-sau đã không kiểm soát đượ
 
 ## 3. Những Việc Nhỏ Mang Lại Sự Cứu Rỗi
 
-Chúa Giê-su phán trong Ma-thi-ơ 10:42: *"Ai sẽ cho một người trong bọn nhỏ này chỉ uống một chén nước lạnh... kẻ ấy sẽ chẳng mất phần thưởng của mình đâu."* Một chén nước lạnh gần như không có giá trị vật chất, nhưng phần thưởng từ Chúa thì không hề mất.
+Đức Chúa Giê-su phán trong Ma-thi-ơ 10:42: *"Ai sẽ cho một người trong bọn nhỏ này chỉ uống một chén nước lạnh... kẻ ấy sẽ chẳng mất phần thưởng của mình đâu."* Một chén nước lạnh gần như không có giá trị vật chất, nhưng phần thưởng từ Chúa thì không hề mất.
 
-Câu chuyện bà góa dâng hai đồng xu trong Lu-ca 21 cũng là một minh chứng. Bà rón rén, xấu hổ vì số tiền quá nhỏ so với những bao tiền vàng của người khác. Nhưng Chúa Giê-su đánh giá bà đã dâng nhiều hơn hết thảy, vì đó là tất cả những gì bà có.
+Câu chuyện bà góa dâng hai đồng xu trong Lu-ca 21 cũng là một minh chứng. Bà rón rén, xấu hổ vì số tiền quá nhỏ so với những bao tiền vàng của người khác. Nhưng Đức Chúa Giê-su đánh giá bà đã dâng nhiều hơn hết thảy, vì đó là tất cả những gì bà có.
 
 Cậu bé với năm cái bánh và hai con cá cũng vậy — giữa 5.000 người, không ai dâng gì cho Chúa, chỉ riêng cậu đem hết khẩu phần ăn của mình. Qua bàn tay Đức Chúa Trời, những điều nhỏ nhặt nhất trở thành phép lạ vĩ đại.
 

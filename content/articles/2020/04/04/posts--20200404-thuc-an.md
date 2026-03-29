@@ -41,7 +41,7 @@ Thức ăn là một chủ đề rất quan trọng, được Thánh Kinh dạy 
 
 - Tổ phụ loài người là A-đam và Ê-va cũng vì món ăn mà phạm tội cũng Thiên Chúa.
 - Dân Israel cũng vì thức ăn mà phạm tội cùng Thiên Chúa ở trong đồng vắng.
-- Ma quỷ dùng thức ăn để cám dỗ Đức Chúa Jesus
+- Ma quỷ dùng thức ăn để cám dỗ Đức Chúa Giê-su
 - Dấu con thú: cấm mua cùng bán → liên quan đến thức ăn.
 ### Sáng thế ký
 
@@ -102,7 +102,7 @@ Về các loài sống dưới nước, chỉ những vật có vây và có v�
 
 > "Các ngươi phải nên thánh, vì ta là thánh." (Lê-vi ký 11:45)
 
-### Đức Chúa Jesus có thay đổi luật ăn uống?
+### Đức Chúa Giê-su có thay đổi luật ăn uống?
 
 Ma-thi-ơ 15 ký thuật lại câu chuyện quan trọng về sự ăn uống và gây một số nhầm lẫn:
 
@@ -110,7 +110,7 @@ Ma-thi-ơ 15 ký thuật lại câu chuyện quan trọng về sự ăn uống v
 
 Người Pha-ri-si cho rằng dân sự của Thiên Chúa có thể bị lây nhiễm tội lỗi khi tiếp xúc với người ngoại bang, sự ô-uế đi theo chén bát mà đi vào cơ thể làm cho cơ thể trở nên ô-uế. Vì thế, để không bị ảnh hưởng bới lối sống tội lỗi của người đời, luật rửa tay trước ăn đã ra đời.
 
-Đây là một quan điểm rất là sai lầm mà Đức Chúa Jesus đã làm rõ:
+Đây là một quan điểm rất là sai lầm mà Đức Chúa Giê-su đã làm rõ:
 
 > "Hãy nghe, và hiểu: Chẳng phải điều chi vào miệng làm dơ dáy người…"
 
@@ -122,13 +122,13 @@ Ngài còn giải thích cặn kẽ hơn:
 
 > "16 Đức Chúa Jêsus hỏi rằng: Các ngươi cũng còn chưa hiểu biết sao? 17 Các ngươi chưa hiểu vật gì vào miệng thì đi thẳng xuống bụng, rồi phải bỏ ra nơi kín sao? 18 Song những điều bởi miệng mà ra là từ trong lòng, thì những điều đó làm dơ dáy người. 19 Vì từ nơi lòng mà ra những ác tưởng, những tội giết người, tà dâm, dâm dục, trộm cướp, làm chứng dối, và lộng ngôn. 20 Ấy đó là những điều làm dơ dáy người: Song sự ăn mà không rửa tay chẳng làm dơ dáy người đâu." (Ma-thi-ơ 15:16-20)
 
-Đức Chúa Jesus đến thế gian để sống như con người, chết thay cho con người (Phi-líp 2:5-11); đừng bao giờ tưởng rằng "Đức Chúa Jesus đến đặng phá luật pháp hay là lời tiên tri", nhưng cần biết rằng Ngài đã đến "không phải để phá, song để làm cho trọn.". Luật pháp về ăn uống được chép trong Lê-vi ký vẫn vẹn nguyên không dời dịch. Các con vật được kể là ô-uế từ cựu ước (heo, chó, rắn, …) thì nó vẫn là những con vật ô-uế thời tân ước (Khải Huyền 18:2, 22:11, 15)
+Đức Chúa Giê-su đến thế gian để sống như con người, chết thay cho con người (Phi-líp 2:5-11); đừng bao giờ tưởng rằng "Đức Chúa Giê-su đến đặng phá luật pháp hay là lời tiên tri", nhưng cần biết rằng Ngài đã đến "không phải để phá, song để làm cho trọn.". Luật pháp về ăn uống được chép trong Lê-vi ký vẫn vẹn nguyên không dời dịch. Các con vật được kể là ô-uế từ cựu ước (heo, chó, rắn, …) thì nó vẫn là những con vật ô-uế thời tân ước (Khải Huyền 18:2, 22:11, 15)
 
-Phi-e-rơ, một sứ đồ gần gũi với Đức Chúa Jesus cũng không hề hiểu sai lời Đức Chúa Jesus phán dặn ở đây như nhiều "học giả" ngày nay:
+Phi-e-rơ, một sứ đồ gần gũi với Đức Chúa Giê-su cũng không hề hiểu sai lời Đức Chúa Giê-su phán dặn ở đây như nhiều "học giả" ngày nay:
 
 > "Lạy Chúa, chẳng vậy; vì tôi chẳng ăn giống gì dơ dáy chẳng sạch bao giờ." (Công vụ 10:14)
 
-Như vậy, việc không rửa tay trước khi ăn không làm cho chúng ta thánh hơn cũng không làm chúng ta ô uế hơn. Hiểu được điều được ý mà Đức Chúa Jesus dạy dỗ ở đây, chúng ta có thể phản biện lại những tà ý cho rằng Đức Chúa Jesus đã thay đổi luật ăn uống, rằng Ngài đã cho phép dân sự Ngài ăn uống tất cả mọi thứ -- không hề như thế, vật ô-uế vẫn là ô-uế, vật thanh sạch vẫn là thanh sạch, không có gì thay đổi các sự thật đó.
+Như vậy, việc không rửa tay trước khi ăn không làm cho chúng ta thánh hơn cũng không làm chúng ta ô uế hơn. Hiểu được điều được ý mà Đức Chúa Giê-su dạy dỗ ở đây, chúng ta có thể phản biện lại những tà ý cho rằng Đức Chúa Giê-su đã thay đổi luật ăn uống, rằng Ngài đã cho phép dân sự Ngài ăn uống tất cả mọi thứ -- không hề như thế, vật ô-uế vẫn là ô-uế, vật thanh sạch vẫn là thanh sạch, không có gì thay đổi các sự thật đó.
 
 ### Luật ăn uống có thay đổi trong giai đoạn các sứ đồ?
 
@@ -170,7 +170,7 @@ Thoả thuận được đặt ra giữa Hội Thánh lúc đó cũng không li�
 
 > "Vậy Đức Chúa Trời cũng đã ban sự ăn năn cho người ngoại để họ được sự sống!" (Công vụ 11:18)
 
-Câu chuyện Cọt-nây trở lại với phúc âm, cho chúng ta hiểu hơn về chương trình cứu rỗi của Thiên Chúa cho muôn dân muôn nước, không phân biệt Giu-đa hay Gờ-réc, không kẻ tự chủ hay tôi mọi, không tuỳ thuộc vào đàn ông hay đàn bà, … câu chuyện này càng không nói phải là sự dạy dỗ về thực đơn ăn uống. Vả lại, nếu việc thay đổi thực đơn ăn uống thật sự là ý chỉ của Thiên Chúa, thì Đức Chúa Jesus đã dạy dỗ rõ ràng khi Ngài còn đi lại trên mặt đất, nhưng hơn ba năm chức vụ, Đức Chúa Jesus không hề làm việc đó. Đơn giản đó không phải là ý định từ trời.
+Câu chuyện Cọt-nây trở lại với phúc âm, cho chúng ta hiểu hơn về chương trình cứu rỗi của Thiên Chúa cho muôn dân muôn nước, không phân biệt Giu-đa hay Gờ-réc, không kẻ tự chủ hay tôi mọi, không tuỳ thuộc vào đàn ông hay đàn bà, … câu chuyện này càng không nói phải là sự dạy dỗ về thực đơn ăn uống. Vả lại, nếu việc thay đổi thực đơn ăn uống thật sự là ý chỉ của Thiên Chúa, thì Đức Chúa Giê-su đã dạy dỗ rõ ràng khi Ngài còn đi lại trên mặt đất, nhưng hơn ba năm chức vụ, Đức Chúa Giê-su không hề làm việc đó. Đơn giản đó không phải là ý định từ trời.
 
 Mọi việc càng rõ ràng hơn, khi Phi-e-rơ trích dẫn Thánh Kinh Lê-vi ký 11 trong thư tín của mình:
 

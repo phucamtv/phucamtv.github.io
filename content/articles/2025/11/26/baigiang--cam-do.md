@@ -25,7 +25,7 @@ Theo I Phi-e-rơ 5:8, ma quỷ như sư tử rống đi rình mò chung quanh, t
 
 ## Tại sao chúng ta bị cám dỗ
 
-Chúa Giê-su cũng đã bị cám dỗ (Ma-thi-ơ 4:1), nên không ai có thể tránh khỏi. Nhìn từ phía ma quỷ, đó là cám dỗ; nhưng nhìn từ phía Đức Chúa Trời, đó là thử thách đức tin. Gia-cơ 1:2-4 dạy rằng hãy coi sự thử thách trăm bề đến cho anh em như là điều vui mừng trọn vẹn, vì sự thử thách đức tin sanh ra sự nhịn nhục.
+Đức Chúa Giê-su cũng đã bị cám dỗ (Ma-thi-ơ 4:1), nên không ai có thể tránh khỏi. Nhìn từ phía ma quỷ, đó là cám dỗ; nhưng nhìn từ phía Đức Chúa Trời, đó là thử thách đức tin. Gia-cơ 1:2-4 dạy rằng hãy coi sự thử thách trăm bề đến cho anh em như là điều vui mừng trọn vẹn, vì sự thử thách đức tin sanh ra sự nhịn nhục.
 
 Theo Gia-cơ 1:12-15, mỗi người bị cám dỗ khi bị lòng tư dục xui dục mình. Sự yếu đuối của chúng ta chính là cơ hội cho ma quỷ tấn công. Nhưng theo I Cô-rinh-tô 10:13, Đức Chúa Trời chẳng hề cho chúng ta bị cám dỗ quá sức mình, và trong sự cám dỗ, Ngài cũng mở đường cho ra khỏi.
 

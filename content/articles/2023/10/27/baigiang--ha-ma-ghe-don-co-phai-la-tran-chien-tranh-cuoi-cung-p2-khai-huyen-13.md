@@ -55,7 +55,7 @@ Từ năm 538, khi Giáo Hoàng nắm toàn quyền ở Âu Châu, đến năm 1
 
 ### Phạm Thượng Theo Kinh Thánh
 
-Trong Tân Ước, Chúa Giê-su bị cáo buộc phạm thượng vì hai điều: tha tội và tuyên bố mình là Đức Chúa Trời. Công giáo La Mã xưng các linh mục có quyền tha tội, xưng Giáo Hoàng là "Đại Diện Chúa Trên Đất" — đây là sự phạm thượng theo đúng định nghĩa thánh kinh. Ngoài ra, việc hướng dẫn người ta cầu nguyện với các thánh, dâng lạy tượng, để các linh mục thay thế vai trò thầy tế lễ thượng phẩm của Chúa Giê-su — tất cả đều xúc phạm đến chương trình cứu rỗi của Đức Chúa Trời.
+Trong Tân Ước, Đức Chúa Giê-su bị cáo buộc phạm thượng vì hai điều: tha tội và tuyên bố mình là Đức Chúa Trời. Công giáo La Mã xưng các linh mục có quyền tha tội, xưng Giáo Hoàng là "Đại Diện Chúa Trên Đất" — đây là sự phạm thượng theo đúng định nghĩa thánh kinh. Ngoài ra, việc hướng dẫn người ta cầu nguyện với các thánh, dâng lạy tượng, để các linh mục thay thế vai trò thầy tế lễ thượng phẩm của Đức Chúa Giê-su — tất cả đều xúc phạm đến chương trình cứu rỗi của Đức Chúa Trời.
 
 ---
 

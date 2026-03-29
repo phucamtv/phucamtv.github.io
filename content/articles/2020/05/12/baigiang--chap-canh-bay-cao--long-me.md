@@ -44,7 +44,7 @@ Kinh Thánh ghi lại một hình ảnh cảm động nhất trong lịch sử n
 
 Ma-ri không chạy trốn. Bà không giả vờ không quen biết để bảo toàn tính mạng mình. Bà đứng đó — chứng kiến từng lời nhục mạ, từng tiếng đóng đinh, từng hơi thở cuối cùng của Con. Đó là sức mạnh của lòng mẹ: không bỏ đi ngay cả khi cần phải chịu đựng nỗi đau lớn nhất.
 
-Và chính trong giờ phút ấy, Chúa Giê-xu — dù đang gánh chịu hình phạt nặng nề — vẫn nhìn thấy mẹ. Ngài thu xếp cho người mẹ yêu dấu được nương tựa, được chăm sóc. Lòng hiếu thảo không bao giờ tắt, dù trong hoàn cảnh nào.
+Và chính trong giờ phút ấy, Đức Chúa Giê-su — dù đang gánh chịu hình phạt nặng nề — vẫn nhìn thấy mẹ. Ngài thu xếp cho người mẹ yêu dấu được nương tựa, được chăm sóc. Lòng hiếu thảo không bao giờ tắt, dù trong hoàn cảnh nào.
 
 ---
 

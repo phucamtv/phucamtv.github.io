@@ -2,7 +2,7 @@
 title: "Bữa Tiệc Cuối Cùng | Ma-thi-ơ 26:17-19, 26-30"
 date: 2025-03-19
 url: /baigiang/bua-tiec-cuoi-cung/
-description: "Qua phân đoạn Ma-thi-ơ 26:17-19 và 26-30, Mục sư Dương Quang Thoại giảng giải về bữa tiệc cuối cùng của Chúa Giê-su với các môn đồ — từ Lễ Vượt Qua của người Do Thái đến sự thiết lập Lễ Tiệc Thánh, mang ý nghĩa giải phóng, bảo đảm an toàn và giao ước kết nối con người với Đức Chúa Trời."
+description: "Qua phân đoạn Ma-thi-ơ 26:17-19 và 26-30, Mục sư Dương Quang Thoại giảng giải về bữa tiệc cuối cùng của Đức Chúa Giê-su với các môn đồ — từ Lễ Vượt Qua của người Do Thái đến sự thiết lập Lễ Tiệc Thánh, mang ý nghĩa giải phóng, bảo đảm an toàn và giao ước kết nối con người với Đức Chúa Trời."
 tags: ["Lễ Tiệc Thánh", "Lễ Vượt Qua", "Ma-thi-ơ", "Giao Ước", "Thập Tự Giá", "Sự Chuộc Tội", "Huyết Chúa"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,15 +14,15 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 26:17-19, 26-30
 
-Bài giảng tập trung vào bữa tiệc cuối cùng của Chúa Giê-su với các môn đồ trước khi Ngài bị bắt — khi Ngài biến Lễ Vượt Qua của người Do Thái thành Lễ Tiệc Thánh mà Hội Thánh ngày nay vẫn tuân giữ. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi qua hai phân đoạn: sự chuẩn bị Lễ Vượt Qua (câu 17-19) và sự thiết lập Lễ Tiệc Thánh (câu 26-30).
+Bài giảng tập trung vào bữa tiệc cuối cùng của Đức Chúa Giê-su với các môn đồ trước khi Ngài bị bắt — khi Ngài biến Lễ Vượt Qua của người Do Thái thành Lễ Tiệc Thánh mà Hội Thánh ngày nay vẫn tuân giữ. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi qua hai phân đoạn: sự chuẩn bị Lễ Vượt Qua (câu 17-19) và sự thiết lập Lễ Tiệc Thánh (câu 26-30).
 
 ---
 
 ## Sự Chuẩn Bị Chu Đáo Cho Lễ Vượt Qua
 
-### Chúa Giê-su Đã Sắp Xếp Trước
+### Đức Chúa Giê-su Đã Sắp Xếp Trước
 
-Khi các môn đồ hỏi Chúa muốn dọn Lễ Vượt Qua tại đâu, Ngài chỉ dẫn họ vào thành, đến một ngôi nhà cụ thể, và nói với chủ nhà một câu gần như là ám hiệu. Điều này cho thấy Chúa Giê-su đã có sự chuẩn bị trước — không phải phép lạ, mà là sự sắp xếp cẩn thận, có thể qua trung gian và bạn bè.
+Khi các môn đồ hỏi Chúa muốn dọn Lễ Vượt Qua tại đâu, Ngài chỉ dẫn họ vào thành, đến một ngôi nhà cụ thể, và nói với chủ nhà một câu gần như là ám hiệu. Điều này cho thấy Đức Chúa Giê-su đã có sự chuẩn bị trước — không phải phép lạ, mà là sự sắp xếp cẩn thận, có thể qua trung gian và bạn bè.
 
 Bài học rút ra: dù việc lớn hay việc nhỏ, từ sự thờ phượng Chúa cho đến sinh hoạt gia đình và công việc, chúng ta cần có sự chuẩn bị chu đáo. Khi chuẩn bị kỹ lưỡng, tỉ lệ thành công sẽ cao hơn. Đức Chúa Trời là Đức Chúa Trời của sự trật tự, và Ngài muốn con cái Ngài cũng sống trong sự ngăn nắp, có kế hoạch.
 
@@ -40,9 +40,9 @@ Ngoài bánh không men, người Do Thái còn chuẩn bị bốn thứ: một 
 
 ### Hành Động Mang Thông Điệp
 
-Khi đang ăn, Chúa Giê-su lấy bánh, tạ ơn, bẻ ra và nói: *"Này là thân thể ta."* Rồi Ngài lấy chén rượu nho, truyền cho môn đồ: *"Này là huyết ta, huyết của sự giao ước, đã đổ ra cho nhiều người được tha tội."*
+Khi đang ăn, Đức Chúa Giê-su lấy bánh, tạ ơn, bẻ ra và nói: *"Này là thân thể ta."* Rồi Ngài lấy chén rượu nho, truyền cho môn đồ: *"Này là huyết ta, huyết của sự giao ước, đã đổ ra cho nhiều người được tha tội."*
 
-Giống như các tiên tri thời Cựu Ước dùng hành động để truyền thông điệp — tiên tri chôn chiếc áo bên bờ sông để nói về sự mục nát của Israel, hay tiên tri lấy vợ không chung thủy để nói về sự phản bội của dân sự — Chúa Giê-su cũng dùng hành động bẻ bánh và rót rượu để khắc sâu một thông điệp vĩnh cửu.
+Giống như các tiên tri thời Cựu Ước dùng hành động để truyền thông điệp — tiên tri chôn chiếc áo bên bờ sông để nói về sự mục nát của Israel, hay tiên tri lấy vợ không chung thủy để nói về sự phản bội của dân sự — Đức Chúa Giê-su cũng dùng hành động bẻ bánh và rót rượu để khắc sâu một thông điệp vĩnh cửu.
 
 ### Ba Ý Nghĩa Song Song
 
@@ -50,7 +50,7 @@ Giống như các tiên tri thời Cựu Ước dùng hành động để truy�
 
 **Sự bảo đảm an toàn:** Trong đêm tai vạ thứ mười, máu chiên con bôi trên cột cửa và mày cửa bảo vệ gia đình khỏi sự hủy diệt. Cũng vậy, trong Chúa Cứu Thế, huyết Ngài bảo đảm cho chúng ta sự an toàn — không phải mua bằng tiền bạc hay bùa chú, mà hoàn toàn bởi sự hy sinh của Ngài trên thập tự giá.
 
-**Giao ước kết nối:** Sau khi A-đam và Ê-va phạm tội, mối liên hệ giữa con người với Đức Chúa Trời bị cắt đứt hoàn toàn. Đức Chúa Trời đã dùng nhiều cách để kết nối lại — qua tiên tri, qua thiên nhiên, qua Thánh Linh — và cuối cùng qua chính Con Ngài. Huyết của Chúa Giê-su là chất liệu đặc biệt duy nhất có thể kết nối con người hữu hạn với Đức Chúa Trời vô hạn — điều mà A-đam dù muốn cũng không thể tự làm được.
+**Giao ước kết nối:** Sau khi A-đam và Ê-va phạm tội, mối liên hệ giữa con người với Đức Chúa Trời bị cắt đứt hoàn toàn. Đức Chúa Trời đã dùng nhiều cách để kết nối lại — qua tiên tri, qua thiên nhiên, qua Thánh Linh — và cuối cùng qua chính Con Ngài. Huyết của Đức Chúa Giê-su là chất liệu đặc biệt duy nhất có thể kết nối con người hữu hạn với Đức Chúa Trời vô hạn — điều mà A-đam dù muốn cũng không thể tự làm được.
 
 ---
 

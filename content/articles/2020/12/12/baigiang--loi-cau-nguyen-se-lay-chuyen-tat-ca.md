@@ -18,7 +18,7 @@ Trong cuộc đời Cơ Đốc nhân, chúng ta đều hiểu rằng sự cầu 
 
 I Phi-e-rơ 4:7 dạy rằng: *"Sự cuối cùng của muôn vật đã gần; vậy hãy khôn ngoan tỉnh thức mà cầu nguyện."* Sự cầu nguyện không chỉ là để xin Chúa đáp ứng những nhu cầu hàng ngày như cơm áo gạo tiền, hay để giải quyết những mối lo âu. Kinh Thánh dạy rằng sự cầu nguyện bao bọc cả cuộc đời chúng ta, ảnh hưởng đến cả số phận đời đời.
 
-Chúa Giê-su — dù là Đức Chúa Trời, dù có đầy đủ quyền năng thần thánh lẫn nhân tính — vẫn xem sự cầu nguyện là phần quan trọng nhất trong thời khóa biểu hàng ngày của Ngài. Lu-ca 6:12 ghi: *"Đức Chúa Giê-su đi lên núi để cầu nguyện; và thức thâu đêm cầu nguyện Đức Chúa Trời."* Mác 1:35 cho biết: *"Sáng hôm sau, trời còn mờ mờ, Ngài chờ dậy, bước ra, đi vào nơi vắng vẻ, và cầu nguyện tại đó."*
+Đức Chúa Giê-su — dù là Đức Chúa Trời, dù có đầy đủ quyền năng thần thánh lẫn nhân tính — vẫn xem sự cầu nguyện là phần quan trọng nhất trong thời khóa biểu hàng ngày của Ngài. Lu-ca 6:12 ghi: *"Đức Chúa Giê-su đi lên núi để cầu nguyện; và thức thâu đêm cầu nguyện Đức Chúa Trời."* Mác 1:35 cho biết: *"Sáng hôm sau, trời còn mờ mờ, Ngài chờ dậy, bước ra, đi vào nơi vắng vẻ, và cầu nguyện tại đó."*
 
 Nếu Chúa là Chúa mà vẫn coi sự cầu nguyện là quan trọng như vậy, thì chúng ta là ai mà lại coi nhẹ nó?
 
@@ -28,9 +28,9 @@ Nếu Chúa là Chúa mà vẫn coi sự cầu nguyện là quan trọng như v�
 
 Đây là điều có vẻ táo bạo nhưng Kinh Thánh minh chứng rõ ràng.
 
-Trong Lu-ca 18:1-8, Chúa Giê-su kể dụ ngôn người đàn bà góa và quan án không công bình. Vị quan án đó không kính sợ Đức Chúa Trời, không vị nể ai. Thế nhưng vì người đàn bà góa kiên trì đến kêu cầu, quan án cuối cùng phải xét lẽ công bình cho bà — chỉ để thoát khỏi sự làm phiền.
+Trong Lu-ca 18:1-8, Đức Chúa Giê-su kể dụ ngôn người đàn bà góa và quan án không công bình. Vị quan án đó không kính sợ Đức Chúa Trời, không vị nể ai. Thế nhưng vì người đàn bà góa kiên trì đến kêu cầu, quan án cuối cùng phải xét lẽ công bình cho bà — chỉ để thoát khỏi sự làm phiền.
 
-Chúa Giê-su dùng chính sự tương phản đó để dạy: nếu một quan án tệ như vậy còn nghe lời kêu cầu, huống chi Đức Chúa Trời — Đấng yêu thương dân sự, luôn muốn bày tỏ tình yêu và quyền năng của Ngài — há lại không nghe những lời cầu nguyện kiên trì, chân thành của chúng ta sao?
+Đức Chúa Giê-su dùng chính sự tương phản đó để dạy: nếu một quan án tệ như vậy còn nghe lời kêu cầu, huống chi Đức Chúa Trời — Đấng yêu thương dân sự, luôn muốn bày tỏ tình yêu và quyền năng của Ngài — há lại không nghe những lời cầu nguyện kiên trì, chân thành của chúng ta sao?
 
 Minh chứng rõ ràng nhất là câu chuyện Môi-se. Sau khi dân Y-sơ-ra-ên đúc bò vàng và thờ phượng, Đức Giê-hô-va phán với Môi-se rằng Ngài sẽ diệt dân này và làm cho Môi-se trở thành một dân lớn hơn (Xuất 32:9-10). Đó không phải lời nói đùa hay lời giận lẫy — đó là phán quyết nghiêm túc của Đức Chúa Trời.
 
@@ -48,7 +48,7 @@ Gia-cơ 5:16-18 viết: *"Người công bình lấy lòng sốt sắng cầu ng
 
 Câu chuyện này không phải ngoại lệ chỉ dành cho các tiên tri. Nó là bằng chứng cho thấy lời cầu nguyện của bất kỳ người nào — dù yếu đuối đến đâu — nếu được dâng lên với lòng sốt sắng và chân thành, đều có thể lay chuyển được vạn vật.
 
-Cũng trong Mác 9:28-29, khi các môn đồ hỏi tại sao họ không đuổi được quỷ, Chúa Giê-su trả lời: *"Nếu không cầu nguyện, thì chẳng ai đuổi thứ quỷ ấy ra được."* Không phải họ thiếu quyền năng được ban cho — mà họ thiếu sự cầu nguyện thật sự. Lời cầu nguyện của họ đã trở thành nghi thức, thành thủ tục quen thuộc, không còn là sự gặp gỡ chân thành với Đức Chúa Trời nữa.
+Cũng trong Mác 9:28-29, khi các môn đồ hỏi tại sao họ không đuổi được quỷ, Đức Chúa Giê-su trả lời: *"Nếu không cầu nguyện, thì chẳng ai đuổi thứ quỷ ấy ra được."* Không phải họ thiếu quyền năng được ban cho — mà họ thiếu sự cầu nguyện thật sự. Lời cầu nguyện của họ đã trở thành nghi thức, thành thủ tục quen thuộc, không còn là sự gặp gỡ chân thành với Đức Chúa Trời nữa.
 
 ---
 

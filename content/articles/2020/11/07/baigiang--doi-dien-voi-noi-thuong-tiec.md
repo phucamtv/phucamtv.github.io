@@ -27,21 +27,21 @@ Những bi kịch ấy nhắc nhở rằng thế giới chúng ta đang sống �
 
 Mục sư dẫn dắt hội chúng đến câu chuyện vua Đa-vít trong Kinh Thánh. Đa-vít là vị vua đưa dân Y-sơ-ra-ên đến thời kỳ cực thịnh, nhưng chính đứa con trai Áp-sa-lôm lại phản nghịch, kéo quân về nhằm giết cha để cướp ngôi. Dù vậy, khi Áp-sa-lôm bị giết, Đa-vít không hề vui mừng mà khóc thảm thiết: *"Ôi Áp-sa-lôm, con trai ta! Ước chi chính ta chết thế cho con!"* (II Sa-mu-ên 18:33).
 
-Câu chuyện này phản ánh tình yêu của Thượng Đế — Ngài yêu con người dù con người phản nghịch, chống lại Ngài. Đức Chúa Trời đã trở thành con người trong Chúa Giê-xu, nếm trải mọi nỗi đau của kiếp người: biết đói, biết khát, biết buồn, biết bị ruồng bỏ, để không có điều gì Ngài không thể cảm thông với chúng ta.
+Câu chuyện này phản ánh tình yêu của Thượng Đế — Ngài yêu con người dù con người phản nghịch, chống lại Ngài. Đức Chúa Trời đã trở thành con người trong Đức Chúa Giê-su, nếm trải mọi nỗi đau của kiếp người: biết đói, biết khát, biết buồn, biết bị ruồng bỏ, để không có điều gì Ngài không thể cảm thông với chúng ta.
 
-Minh chứng rõ ràng nhất là khi Chúa Giê-xu đến trước mộ La-xa-rơ, người bạn thân đã chết bốn ngày. Giăng 11:33-35 ghi lại: Chúa thấy mọi người khóc, Ngài đau lòng cảm động và chính Ngài cũng khóc. Đức Chúa Giê-xu không đứng ngoài nỗi đau — Ngài bước vào trong đó, cùng khóc với những người đang thương tiếc.
+Minh chứng rõ ràng nhất là khi Đức Chúa Giê-su đến trước mộ La-xa-rơ, người bạn thân đã chết bốn ngày. Giăng 11:33-35 ghi lại: Chúa thấy mọi người khóc, Ngài đau lòng cảm động và chính Ngài cũng khóc. Đức Chúa Giê-su không đứng ngoài nỗi đau — Ngài bước vào trong đó, cùng khóc với những người đang thương tiếc.
 
 ## Chấp nhận trong niềm hy vọng
 
 Mục sư chia sẻ kinh nghiệm cá nhân khi mẹ của ông qua đời tại bãi biển Vũng Tàu. Nhiều người nói "không thể chấp nhận được", nhưng nhìn lại, ông nhận ra tình yêu của Chúa trong sự ra đi ấy, bởi nếu mẹ ông sống thêm vài năm, bà sẽ phải chịu đựng nhiều biến chứng nặng nề của tiểu đường.
 
-Kinh Thánh dạy rằng sự chết là hệ quả tất yếu của tội lỗi: *"Bởi một người mà tội lỗi vào trong thế gian, lại bởi tội lỗi mà có sự chết"* (Rô-ma 5:12). Sứ đồ Phao-lô đã thốt lên: *"Khốn nạn cho tôi! Ai sẽ cứu tôi thoát khỏi thân thể hay chết này?"* — rồi chính ông trả lời: *"Cảm tạ Đức Chúa Trời, nhờ Đức Chúa Jêsus Christ"* (Rô-ma 7:24-25). Chúa Giê-xu là nhịp cầu duy nhất đưa con người vượt qua thung lũng sự chết đến sự sống đời đời.
+Kinh Thánh dạy rằng sự chết là hệ quả tất yếu của tội lỗi: *"Bởi một người mà tội lỗi vào trong thế gian, lại bởi tội lỗi mà có sự chết"* (Rô-ma 5:12). Sứ đồ Phao-lô đã thốt lên: *"Khốn nạn cho tôi! Ai sẽ cứu tôi thoát khỏi thân thể hay chết này?"* — rồi chính ông trả lời: *"Cảm tạ Đức Chúa Trời, nhờ Đức Chúa Jêsus Christ"* (Rô-ma 7:24-25). Đức Chúa Giê-su là nhịp cầu duy nhất đưa con người vượt qua thung lũng sự chết đến sự sống đời đời.
 
 ## Niềm tin không phải là điều viển vông
 
 Mục sư nhấn mạnh rằng niềm tin vào Thượng Đế không phải là điều không thực tế. Người đời chạy theo sách dạy làm giàu, bí quyết thành công, mà bỏ qua niềm tin. Nhưng trong những khoảnh khắc cận kề cái chết — khi đất sập, khi tai nạn ập đến — con người mới nhận ra mình đang thiếu một niềm tin vững chắc.
 
-I Tê-sa-lô-ni-ca 4:13 viết: *"Hỡi anh em, chúng tôi chẳng muốn anh em không biết về phần người đã ngủ, hầu cho anh em chớ buồn rầu như người khác không có sự trông cậy."* Kinh Thánh dùng chữ "ngủ" thay cho "chết" — vì ngủ thì có thức dậy. Sự sống lại của Chúa Giê-xu được gần 500 người chứng kiến, và những nhân chứng ấy đã dặn dò con cháu giữ vững niềm tin cho đến chết.
+I Tê-sa-lô-ni-ca 4:13 viết: *"Hỡi anh em, chúng tôi chẳng muốn anh em không biết về phần người đã ngủ, hầu cho anh em chớ buồn rầu như người khác không có sự trông cậy."* Kinh Thánh dùng chữ "ngủ" thay cho "chết" — vì ngủ thì có thức dậy. Sự sống lại của Đức Chúa Giê-su được gần 500 người chứng kiến, và những nhân chứng ấy đã dặn dò con cháu giữ vững niềm tin cho đến chết.
 
 ## Những lời hứa an ủi từ Kinh Thánh
 

@@ -18,7 +18,7 @@ Bài giảng mở đầu bằng một thực trạng đáng suy ngẫm: nhiều 
 
 Có trường hợp cơ thể phát triển nhưng tâm lý vẫn còn rất non nớt, ngược lại có trẻ chưa phát triển sinh lý mà tâm lý đã "già" như người lớn. Sự bất đồng bộ này tạo nên những vấn đề phức tạp nếu cha mẹ không nhận ra và điều chỉnh cách giáo dục cho phù hợp.
 
-Trong Kinh Thánh, mốc 12 tuổi rất quan trọng: Chúa Giê-su khi 12 tuổi đã tách cha mẹ để đàm đạo với các thầy thông giáo; Môi-se được mẹ ruột nuôi đến 12 tuổi rồi mới vào cung điện Pha-ra-ôn. Châm ngôn dạy rằng: "Hãy dạy cho trẻ thơ con đường nó phải theo, dầu khi trở về già nó không lìa khỏi."
+Trong Kinh Thánh, mốc 12 tuổi rất quan trọng: Đức Chúa Giê-su khi 12 tuổi đã tách cha mẹ để đàm đạo với các thầy thông giáo; Môi-se được mẹ ruột nuôi đến 12 tuổi rồi mới vào cung điện Pha-ra-ôn. Châm ngôn dạy rằng: "Hãy dạy cho trẻ thơ con đường nó phải theo, dầu khi trở về già nó không lìa khỏi."
 
 ---
 
@@ -26,7 +26,7 @@ Trong Kinh Thánh, mốc 12 tuổi rất quan trọng: Chúa Giê-su khi 12 tu�
 
 Xuyên suốt Kinh Thánh, Đức Chúa Trời chọn lựa từng dòng dõi, từng gia tộc để giữ gìn lẽ thật. Từ Áp-ra-ham đến Y-sác, Gia-cốp, rồi 12 chi phái Israel — gia đình luôn là nhân tố then chốt để bảo tồn đức tin. Chính vì thế, gia đình cũng trở thành mục tiêu tấn công hàng đầu của Sa-tan.
 
-Từ Ca-in giết A-bên, Ê-sau hận thù Gia-cốp, đến gia đình rối ren của Gia-cốp với một chồng bốn vợ và mười ba người con, hay hai con trai của thầy tế lễ Hê-li — Kinh Thánh không hề che giấu những đổ vỡ trong các gia đình. Chúa Giê-su cũng dùng ẩn dụ người con trai hoang đàng để cho thấy sự phân rẽ khi con cái không muốn sống với cha nữa.
+Từ Ca-in giết A-bên, Ê-sau hận thù Gia-cốp, đến gia đình rối ren của Gia-cốp với một chồng bốn vợ và mười ba người con, hay hai con trai của thầy tế lễ Hê-li — Kinh Thánh không hề che giấu những đổ vỡ trong các gia đình. Đức Chúa Giê-su cũng dùng ẩn dụ người con trai hoang đàng để cho thấy sự phân rẽ khi con cái không muốn sống với cha nữa.
 
 ---
 

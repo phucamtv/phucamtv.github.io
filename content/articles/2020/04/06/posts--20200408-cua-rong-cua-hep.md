@@ -1,7 +1,7 @@
 ---
 title: "Cửa rộng và cửa hẹp"
 date: 2020-04-06
-tags: ["Jesus Christ"]
+tags: ["Đức Chúa Giê-su Christ"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["wpssrNFSPws"]

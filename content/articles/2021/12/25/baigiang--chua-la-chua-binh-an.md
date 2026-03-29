@@ -2,7 +2,7 @@
 title: "Chúa, Là Chúa Bình An | Ê-sai 9:5"
 date: 2021-12-25
 url: /baigiang/chua-la-chua-binh-an/
-description: "Từ khi con người phạm tội, sự bất an bao trùm thế giới. Đức Chúa Giê-xu giáng sinh với danh xưng Chúa Bình An, để phục hồi ba mối quan hệ bình an: bình an với Đức Chúa Trời qua sự giảng hòa, bình an với người khác qua sự tha thứ, và bình an với chính mình qua đức tin nơi Ngài."
+description: "Từ khi con người phạm tội, sự bất an bao trùm thế giới. Đức Chúa Giê-su giáng sinh với danh xưng Chúa Bình An, để phục hồi ba mối quan hệ bình an: bình an với Đức Chúa Trời qua sự giảng hòa, bình an với người khác qua sự tha thứ, và bình an với chính mình qua đức tin nơi Ngài."
 tags: ["Giáng Sinh", "Bình An", "Ê-sai", "Giảng Hòa", "Tội Lỗi", "Ba Ngôi", "Đức Tin"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -26,7 +26,7 @@ Giê-rê-mi 12:5 đặt câu hỏi thách thức: nếu chạy thi với ngườ
 
 Sáng Thế Ký đoạn 4 ghi lại gương mặt Ca-in gằm xuống vì tội lỗi — ông không thèm nhìn mặt Đức Chúa Trời. Mối tương giao giữa ông và Đấng Tạo Hóa đã bị tội lỗi cắt đứt, và sự bất an đẩy ông đến việc giết chết em mình. Ngày nay, tội lỗi vẫn tiếp tục rạn nứt mối quan hệ giữa con người với Đức Chúa Trời.
 
-Chính vì vậy, một trong những sứ mạng quan trọng nhất khi Chúa Giê-xu giáng sinh là đem đến sự bình an. Lu-ca 2:14 ghi lại bài ca thiên thần: "Sáng danh Chúa trên các tầng trời rất cao, bình an dưới đất, ân trạch cho loài người!" Ê-sai 9:5 tiên tri về Ngài với năm danh xưng đặc biệt: Đấng Lạ Lùng, Đấng Mưu Luận, Đức Chúa Trời Quyền Năng, Cha Đời Đời, và Chúa Bình An. Danh xưng cuối cùng khẳng định sứ mạng đem bình an cho nhân loại.
+Chính vì vậy, một trong những sứ mạng quan trọng nhất khi Đức Chúa Giê-su giáng sinh là đem đến sự bình an. Lu-ca 2:14 ghi lại bài ca thiên thần: "Sáng danh Chúa trên các tầng trời rất cao, bình an dưới đất, ân trạch cho loài người!" Ê-sai 9:5 tiên tri về Ngài với năm danh xưng đặc biệt: Đấng Lạ Lùng, Đấng Mưu Luận, Đức Chúa Trời Quyền Năng, Cha Đời Đời, và Chúa Bình An. Danh xưng cuối cùng khẳng định sứ mạng đem bình an cho nhân loại.
 
 Ê-sai 53:5 cho thấy cái giá của sự bình an ấy: bởi sự sửa phạt Ngài chịu, chúng ta được bình an; bởi lằn roi Ngài, chúng ta được lành bệnh. Và II Cô-rinh-tô 5:20 kêu gọi: hãy hòa thuận lại với Đức Chúa Trời. Phao-lô không nói ngắn gọn mà nhấn mạnh vai trò khâm sai — ông được Chúa cử đến như đại sứ của Nước Trời để khuyên bảo con người trở lại mối tương giao với Đấng Tạo Hóa.
 
@@ -36,7 +36,7 @@ Chính vì vậy, một trong những sứ mạng quan trọng nhất khi Chúa 
 
 Những người chúng ta giao tiếp nhiều nhất lại là những người dễ làm mất bình an nhất — đặc biệt trong gia đình. Người ta nói tu ở chùa là dễ nhất vì yên tĩnh không ai quấy rối, nhưng tu tại gia mới thật sự khó: sống với vợ chồng, con cái, cha mẹ, anh chị em — đó mới là thử thách lớn. Chỉ một ánh mắt, một thái độ cũng đủ khiến cả nhà bất an.
 
-Chúa Giê-xu dạy trong Lu-ca 10:5: khi vào nhà ai, trước hết hãy cầu sự bình an cho nhà ấy. Mác 9:50 nhắc nhở: hãy có muối trong lòng mình và hòa thuận cùng nhau. Rô-ma 12:18 kêu gọi: hết sức mình mà hòa thuận với mọi người. Ma-thi-ơ 5:9 hứa phước cho những ai làm cho người hòa thuận — họ sẽ được gọi là con Đức Chúa Trời.
+Đức Chúa Giê-su dạy trong Lu-ca 10:5: khi vào nhà ai, trước hết hãy cầu sự bình an cho nhà ấy. Mác 9:50 nhắc nhở: hãy có muối trong lòng mình và hòa thuận cùng nhau. Rô-ma 12:18 kêu gọi: hết sức mình mà hòa thuận với mọi người. Ma-thi-ơ 5:9 hứa phước cho những ai làm cho người hòa thuận — họ sẽ được gọi là con Đức Chúa Trời.
 
 Đặc biệt, Ma-thi-ơ 5:23-24 đặt điều kiện rõ ràng: nếu đang dâng của lễ mà nhớ anh em có điều nghịch cùng mình, hãy để của lễ trước bàn thờ, trở về giảng hòa trước đã rồi mới dâng. Sự thờ phượng không thể tách rời khỏi mối quan hệ hòa thuận với anh em.
 

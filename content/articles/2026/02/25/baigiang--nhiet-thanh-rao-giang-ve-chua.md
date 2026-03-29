@@ -2,7 +2,7 @@
 title: "Nhiệt Thành Rao Giảng Về Chúa | Công-vụ 18:12-28"
 date: 2026-02-25
 url: /baigiang/nhiet-thanh-rao-giang-ve-chua/
-description: "Nghiên cứu Công-vụ 18:12-28 qua ba phân đoạn: tính cách vững vàng của quan trấn thủ Ga-li-ôn, hành trình trở về của Phao-lô và bài học về lời hứa nguyện Na-xi-rê, và sự xuất hiện của A-bô-lô — người nhiệt thành rao giảng về Chúa Giê-su với những gì mình biết và không chờ đến khi hoàn hảo."
+description: "Nghiên cứu Công-vụ 18:12-28 qua ba phân đoạn: tính cách vững vàng của quan trấn thủ Ga-li-ôn, hành trình trở về của Phao-lô và bài học về lời hứa nguyện Na-xi-rê, và sự xuất hiện của A-bô-lô — người nhiệt thành rao giảng về Đức Chúa Giê-su với những gì mình biết và không chờ đến khi hoàn hảo."
 tags: ["Công-vụ Các Sứ Đồ", "Phao-lô", "Rao Giảng", "A-bô-lô", "Hứa Nguyện", "Đức Tin", "Chức Vụ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -44,7 +44,7 @@ Qua chi tiết này, bài học quan trọng cho chúng ta là: **đừng hứa 
 
 Đáng chú ý là Phao-lô không chỉ gây dựng hội thánh rồi bỏ đi, mà ông **quay trở lại thăm viếng và khích lệ** để anh em vững lòng. Trồng cây đã khó, nhưng chăm bón mới là thử thách lâu dài. Trong lãnh vực thuộc linh cũng vậy — xây dựng là quan trọng, nhưng duy trì còn quan trọng hơn.
 
-Và chữ **"đạo Chúa"** — tiếng Hán-Nôm có nghĩa là *đường đi*, không phải lý thuyết suông. Chúa Giê-su phán: *"Ta là đường đi, lẽ thật và sự sống."* Đạo Chúa chính là con đường cụ thể dẫn đến sự cứu rỗi và nước thiên đàng.
+Và chữ **"đạo Chúa"** — tiếng Hán-Nôm có nghĩa là *đường đi*, không phải lý thuyết suông. Đức Chúa Giê-su phán: *"Ta là đường đi, lẽ thật và sự sống."* Đạo Chúa chính là con đường cụ thể dẫn đến sự cứu rỗi và nước thiên đàng.
 
 ---
 
@@ -54,11 +54,11 @@ Phân đoạn cuối giới thiệu một nhân vật mới đặc biệt: **A-b
 
 Kinh Thánh mô tả ông với hai điểm nổi bật bổ sung cho nhau:
 - **Khéo nói** — hoạt ngôn, diễn đạt lưu loát, ứng xử nhanh nhẹn.
-- **Hiểu Kinh Thánh** — nắm vững Cựu Ước và biết ứng dụng vào cuộc đời và chức vụ của Chúa Giê-su.
+- **Hiểu Kinh Thánh** — nắm vững Cựu Ước và biết ứng dụng vào cuộc đời và chức vụ của Đức Chúa Giê-su.
 
 Hai điều này cần đi đôi với nhau. Khéo nói mà không hiểu Kinh Thánh thì chỉ là ý kiến riêng. Hiểu Kinh Thánh mà không biết trình bày thì sự hiểu biết đó chỉ có ích cho bản thân.
 
-A-bô-lô đã tìm thấy trong Cựu Ước những lời tiên tri chỉ về Đấng Mê-si và nhận ra rằng Giê-su người Na-xa-rét chính là Đấng đó. Với niềm tin đó, ông bắt đầu rao giảng cách dạn dĩ trong nhà hội — dù ông chỉ biết phép báp-têm của Giăng, chưa biết đầy đủ về báp-têm trong danh Chúa Giê-su.
+A-bô-lô đã tìm thấy trong Cựu Ước những lời tiên tri chỉ về Đấng Mê-si và nhận ra rằng Giê-su người Na-xa-rét chính là Đấng đó. Với niềm tin đó, ông bắt đầu rao giảng cách dạn dĩ trong nhà hội — dù ông chỉ biết phép báp-têm của Giăng, chưa biết đầy đủ về báp-têm trong danh Đức Chúa Giê-su.
 
 Khi Bê-rít-sin và A-qui-la nghe ông giảng, họ không công khai chỉ trích mà **đưa ông về nhà và giải bày đạo Đức Chúa Trời cho càng kỹ lưỡng hơn**. Đây là cách dạy dỗ đúng đắn — trong sự quan tâm và tôn trọng, bổ sung những gì còn thiếu.
 

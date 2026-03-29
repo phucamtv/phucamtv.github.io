@@ -17,7 +17,7 @@ draft: false
 
 ## Người giàu trong mắt thế gian
 
-Trong Lu-ca 12:16-21, Chúa Giê-su kể ví dụ về một người nông dân giàu có. Ruộng của ông sinh lợi nhiều lắm, nhiều đến nỗi không còn đủ chỗ chứa. Ông bèn lên kế hoạch phá kho cũ, xây kho lớn hơn, thâu trữ tất cả sản vật vào đó, rồi tự nhủ rằng linh hồn mình đã có đủ của cải dùng lâu năm, cứ ăn uống vui vẻ.
+Trong Lu-ca 12:16-21, Đức Chúa Giê-su kể ví dụ về một người nông dân giàu có. Ruộng của ông sinh lợi nhiều lắm, nhiều đến nỗi không còn đủ chỗ chứa. Ông bèn lên kế hoạch phá kho cũ, xây kho lớn hơn, thâu trữ tất cả sản vật vào đó, rồi tự nhủ rằng linh hồn mình đã có đủ của cải dùng lâu năm, cứ ăn uống vui vẻ.
 
 Nhìn từ góc độ thế gian, đây là một người khôn ngoan: biết tạo ra tài sản, biết giữ gìn, biết lập kế hoạch dài hạn và biết hưởng thụ thành quả. Nhưng Đức Chúa Trời gọi ông là kẻ dại. Sự khôn ngoan của đời này, trước mặt Đức Chúa Trời, là sự dại dột (I Cô-rinh-tô 3:18-19).
 
@@ -39,7 +39,7 @@ Có một câu chuyện của văn hào Lép Tôn-xtôi kể về người nông
 
 ## Sự sống thuộc về Chúa
 
-Người giàu nghĩ rằng tất cả những gì mình có là thuộc về mình. Nhưng ông không nhận ra rằng chính sự sống của ông cũng nằm trong tay Đức Chúa Trời. Chúa Giê-su hỏi: "Người nào được cả thế gian mà mất linh hồn mình thì có ích gì? Hay người lấy gì mà đổi linh hồn mình lại?" (Ma-thi-ơ 16:26).
+Người giàu nghĩ rằng tất cả những gì mình có là thuộc về mình. Nhưng ông không nhận ra rằng chính sự sống của ông cũng nằm trong tay Đức Chúa Trời. Đức Chúa Giê-su hỏi: "Người nào được cả thế gian mà mất linh hồn mình thì có ích gì? Hay người lấy gì mà đổi linh hồn mình lại?" (Ma-thi-ơ 16:26).
 
 Tất cả chúng ta đều phải ứng hầu trước tòa án của Đấng Christ để trả lời về những điều mình đã làm lúc còn trong xác thịt (II Cô-rinh-tô 5:10). Nếu cả đời chỉ tích góp cho mình mà không có mối tương giao với Chúa, thì khi bị đòi lại linh hồn, chúng ta còn lại gì?
 

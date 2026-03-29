@@ -36,7 +36,7 @@ Tình yêu thương chính là chất keo kết dính Hội Thánh. Không có t
 
 ## Ân điển -- Ơn ban cho người không xứng đáng
 
-Ân điển là ơn Chúa ban cho người không xứng đáng để nhận. Như tử tội trước khi ra pháp trường được hỏi ân huệ cuối cùng -- họ không xứng đáng, nhưng vẫn được ban cho. Tiền công của tội lỗi là sự chết, nhưng sự ban cho của Đức Chúa Trời là sự sống đời đời trong Chúa Giê-su (Rô-ma 6:23).
+Ân điển là ơn Chúa ban cho người không xứng đáng để nhận. Như tử tội trước khi ra pháp trường được hỏi ân huệ cuối cùng -- họ không xứng đáng, nhưng vẫn được ban cho. Tiền công của tội lỗi là sự chết, nhưng sự ban cho của Đức Chúa Trời là sự sống đời đời trong Đức Chúa Giê-su (Rô-ma 6:23).
 
 Điều đặc biệt là ân điển không đồng đều cho mọi người theo cùng một tiêu chuẩn. Ai thiếu nhiều thì Chúa lấp đầy nhiều, ai mạnh hơn thì không cần tuôn đổ bằng. Ân điển là để lấp đầy, để mọi người có thể đạt được sự công bình trước mặt Chúa. Nhưng Phao-lô lưu ý: ân điển dành cho những ai "lấy lòng yêu thương chẳng phai mà kính mến Đức Chúa Giê-su." Giữ cho tình yêu không phai mờ -- đó là thách thức lớn nhất, vì yêu nhau đã khó, giữ cho ngọn lửa tình yêu luôn cháy còn khó hơn.
 

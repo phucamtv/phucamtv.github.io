@@ -17,7 +17,7 @@ draft: false
 
 ## Bức Tranh Quý Bị Bỏ Quên
 
-Tại nhà ăn của Tu viện dòng Tên ở Dublin, Ái Nhĩ Lan, có treo một bức tranh xưa mang tên "Chúa Giê-su bị bắt." Suốt hơn 50 năm, bức tranh ấy nằm lặng lẽ trên tường phòng ăn mà không ai quan tâm. Các tu sĩ lão thành trong dòng chỉ biết rằng bức tranh do một số ân nhân tặng từ lâu, và ai cũng nghĩ rằng nó chẳng có giá trị gì đặc biệt, có lẽ chỉ là tác phẩm của một họa sĩ tầm thường người Flamand nào đó.
+Tại nhà ăn của Tu viện dòng Tên ở Dublin, Ái Nhĩ Lan, có treo một bức tranh xưa mang tên "Đức Chúa Giê-su bị bắt." Suốt hơn 50 năm, bức tranh ấy nằm lặng lẽ trên tường phòng ăn mà không ai quan tâm. Các tu sĩ lão thành trong dòng chỉ biết rằng bức tranh do một số ân nhân tặng từ lâu, và ai cũng nghĩ rằng nó chẳng có giá trị gì đặc biệt, có lẽ chỉ là tác phẩm của một họa sĩ tầm thường người Flamand nào đó.
 
 Thế nhưng vào ngày 20 tháng 3 năm 1993, một tu sĩ tình cờ muốn tìm hiểu lai lịch của tác phẩm, đã mang bức tranh đến Viện Mỹ thuật Quốc gia Ái Nhĩ Lan. Kết quả kiểm định khiến mọi người vô cùng kinh ngạc: tác giả của kiệt tác này là một danh họa người Ý đã vẽ bức tranh vào thế kỷ thứ 16. Giới hữu trách thẩm định giá trị của nó dao động từ 38 ngàn đến 75 ngàn đô-la Mỹ. Tu viện ngay lập tức tuyên bố sẽ không bao giờ bán bức tranh ấy. Một tài sản vô giá đã bị bỏ quên suốt nửa thế kỷ chỉ vì không ai biết giá trị thật sự của nó.
 
@@ -29,7 +29,7 @@ Nhưng Ê-sau đã không nhận biết giá trị của đặc quyền ấy. Tr
 
 ## Bài Học Cho Cơ Đốc Nhân Ngày Nay
 
-Giống như bức tranh quý bị bỏ quên trong nhà ăn tu viện, và giống như Ê-sau không biết giá trị quyền trưởng nam, nhiều Cơ Đốc nhân ngày nay cũng đang sở hữu một di sản vô giá mà không hề hay biết. Họ đang thừa hưởng sự cứu rỗi quý báu mà Chúa Giê-su phải dùng chính sự chết của Ngài trên thập tự giá để đạt được. Thế nhưng, thay vì trân trọng ân sủng ấy, nhiều người lại tỏ ra xem thường, thậm chí bán rẻ sự sống đời đời để đổi lấy những hưởng thụ tạm bợ của trần thế.
+Giống như bức tranh quý bị bỏ quên trong nhà ăn tu viện, và giống như Ê-sau không biết giá trị quyền trưởng nam, nhiều Cơ Đốc nhân ngày nay cũng đang sở hữu một di sản vô giá mà không hề hay biết. Họ đang thừa hưởng sự cứu rỗi quý báu mà Đức Chúa Giê-su phải dùng chính sự chết của Ngài trên thập tự giá để đạt được. Thế nhưng, thay vì trân trọng ân sủng ấy, nhiều người lại tỏ ra xem thường, thậm chí bán rẻ sự sống đời đời để đổi lấy những hưởng thụ tạm bợ của trần thế.
 
 Có những tín hữu đang nắm giữ một tài sản vĩ đại — đó là năng lực và sự sống trong Chúa Cứu Thế — mà lại không biết sử dụng. Họ sống như thể mình không có gì đặc biệt, trong khi thực tế họ là những viên đá sống được Chúa xây dựng nên đền thờ thiêng liêng. Sự cứu chuộc không phải là điều rẻ mạt, mà là kho tàng quý giá nhất mà Đức Chúa Trời đã ban cho nhân loại.
 

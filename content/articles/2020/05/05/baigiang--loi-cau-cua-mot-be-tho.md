@@ -1,7 +1,7 @@
 ---
 title: "Lời Cầu Của Một Bé Thơ"
 date: 2020-05-05
-description: "Câu chuyện cảm động về lời cầu nguyện đơn sơ nhưng đầy đức tin của một em bé trước ca phẫu thuật, và bài học về sự khiêm nhường qua lời dạy của Chúa Giê-xu."
+description: "Câu chuyện cảm động về lời cầu nguyện đơn sơ nhưng đầy đức tin của một em bé trước ca phẫu thuật, và bài học về sự khiêm nhường qua lời dạy của Đức Chúa Giê-su."
 tags: ["Cầu Nguyện", "Đức Tin", "Khiêm Nhường", "Trẻ Thơ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -24,11 +24,11 @@ Vị bác sĩ đứng lặng yên, chăm chú lắng nghe từng lời cầu ngu
 
 Lời cầu nguyện đơn sơ của một em bé đã trở thành công cụ Chúa dùng để đánh thức tấm lòng của một người lớn đã xa rời đức tin từ lâu. Đây chính là minh chứng rõ ràng rằng Đức Chúa Trời có thể sử dụng bất kỳ ai, kể cả những người nhỏ bé nhất, để thực hiện công việc lớn lao của Ngài.
 
-## Chúa Giê-xu Và Tấm Lòng Trẻ Thơ
+## Đức Chúa Giê-su Và Tấm Lòng Trẻ Thơ
 
-Trong cuộc sống, chúng ta thường có xu hướng xem nhẹ những việc làm của trẻ nhỏ. Chúng ta cho rằng chỉ có người lớn mới có đủ khôn ngoan và tư cách để dạy dỗ, để làm gương. Thế nhưng Chúa Cứu Thế Giê-xu lại luôn tôn trọng và yêu thương trẻ thơ. Ngài dùng chính đời sống của các em nhỏ như một chuẩn mực, một điển hình cho lối sống đạo đức mà Ngài muốn các môn đồ noi theo.
+Trong cuộc sống, chúng ta thường có xu hướng xem nhẹ những việc làm của trẻ nhỏ. Chúng ta cho rằng chỉ có người lớn mới có đủ khôn ngoan và tư cách để dạy dỗ, để làm gương. Thế nhưng Chúa Cứu Thế Giê-su lại luôn tôn trọng và yêu thương trẻ thơ. Ngài dùng chính đời sống của các em nhỏ như một chuẩn mực, một điển hình cho lối sống đạo đức mà Ngài muốn các môn đồ noi theo.
 
-Chúa Giê-xu dạy rằng nếu chúng ta không trở nên khiêm nhường như con trẻ thì không thể vào được nước thiên đàng. Đây không phải là lời nói suông mà là một nguyên tắc sống còn trong đời sống đức tin. Sự khiêm nhường, đơn sơ và lòng tin cậy hoàn toàn nơi Chúa chính là những phẩm chất mà trẻ thơ sở hữu một cách tự nhiên, và cũng là những điều mà người lớn chúng ta thường đánh mất theo năm tháng.
+Đức Chúa Giê-su dạy rằng nếu chúng ta không trở nên khiêm nhường như con trẻ thì không thể vào được nước thiên đàng. Đây không phải là lời nói suông mà là một nguyên tắc sống còn trong đời sống đức tin. Sự khiêm nhường, đơn sơ và lòng tin cậy hoàn toàn nơi Chúa chính là những phẩm chất mà trẻ thơ sở hữu một cách tự nhiên, và cũng là những điều mà người lớn chúng ta thường đánh mất theo năm tháng.
 
 ## Bài Học Về Sự Khiêm Nhường
 

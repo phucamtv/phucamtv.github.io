@@ -22,7 +22,7 @@ Câu Kinh Thánh tuy ngắn gọn nhưng gói trọn ba chiều của tình yêu
 
 Ê-phê-sô 5:1 dạy rằng hãy trở nên kẻ bắt chước Đức Chúa Trời như con cái rất yêu dấu của Ngài. Khi một người ngưỡng mộ ai đó, họ luôn muốn trở nên giống người đó — giới trẻ bắt chước thần tượng từ cách ăn mặc đến nói năng. Phao-lô cũng kêu gọi hội thánh bắt chước ông, nhưng ông không phải là tiêu chuẩn; ông bắt chước Đấng Christ và kêu gọi người khác nhìn vào đời sống mẫu mực của các tôi tớ Chúa mà noi theo.
 
-Một trong những điều tối kỵ nhất là nói mà không làm. Chúa Giê-su đã thấy điều này nhan nhản trong giới lãnh đạo tôn giáo và cảnh cáo trong Ma-thi-ơ 23:3: hãy làm theo mọi điều họ dạy, nhưng đừng bắt chước việc làm của họ, vì họ nói mà không làm. Dù ở bất kỳ vị trí nào — thầy giáo, người hầu việc Chúa, cha mẹ — chúng ta đều phải gương mẫu. Nếu không, lời nói của chúng ta mất hết sức mạnh.
+Một trong những điều tối kỵ nhất là nói mà không làm. Đức Chúa Giê-su đã thấy điều này nhan nhản trong giới lãnh đạo tôn giáo và cảnh cáo trong Ma-thi-ơ 23:3: hãy làm theo mọi điều họ dạy, nhưng đừng bắt chước việc làm của họ, vì họ nói mà không làm. Dù ở bất kỳ vị trí nào — thầy giáo, người hầu việc Chúa, cha mẹ — chúng ta đều phải gương mẫu. Nếu không, lời nói của chúng ta mất hết sức mạnh.
 
 ## Công Dân Của Nước Thiên Đàng
 
@@ -34,8 +34,8 @@ Hê-bơ-rơ 11:13-16 cho thấy các tổ phụ đức tin đã sống trên đ�
 
 ## Tình Yêu Thương — Dấu Hiệu Duy Nhất
 
-Giăng 13:35 ghi lại lời Chúa Giê-su phán trong những giây phút cuối trước khi bước lên thập tự giá: nếu các ngươi yêu nhau, thì ấy là tại điều đó mà thiên hạ sẽ nhận biết các ngươi là môn đồ ta. Dấu hiệu của môn đồ không phải là đeo thập giá thật to, không phải ôm khư khư quyển Kinh Thánh, không phải lúc nào cũng trích dẫn lời Chúa, cũng không phải siêng năng sốt sắng — dù tất cả những điều đó đều tốt. Nhưng không gì có thể thay thế cho dấu hiệu duy nhất mà Chúa đã truyền phán: yêu thương lẫn nhau.
+Giăng 13:35 ghi lại lời Đức Chúa Giê-su phán trong những giây phút cuối trước khi bước lên thập tự giá: nếu các ngươi yêu nhau, thì ấy là tại điều đó mà thiên hạ sẽ nhận biết các ngươi là môn đồ ta. Dấu hiệu của môn đồ không phải là đeo thập giá thật to, không phải ôm khư khư quyển Kinh Thánh, không phải lúc nào cũng trích dẫn lời Chúa, cũng không phải siêng năng sốt sắng — dù tất cả những điều đó đều tốt. Nhưng không gì có thể thay thế cho dấu hiệu duy nhất mà Chúa đã truyền phán: yêu thương lẫn nhau.
 
-Câu chuyện người Sa-ma-ri nhân lành trong Lu-ca 10:25-37 minh họa rõ ràng điều này. Thầy tế lễ và người Lê-vi có thể được nhận ra qua trang phục, qua dấu hiệu bề ngoài — nhưng người được tôn quý lại là người Sa-ma-ri ăn mặc bình thường, hành động bằng lòng yêu thương thật sự. Dấu hiệu thật không nằm ở chiếc áo khoác lên mà ở hành động xuất phát từ tấm lòng. Chúa Giê-su kết luận: hãy đi làm theo như vậy.
+Câu chuyện người Sa-ma-ri nhân lành trong Lu-ca 10:25-37 minh họa rõ ràng điều này. Thầy tế lễ và người Lê-vi có thể được nhận ra qua trang phục, qua dấu hiệu bề ngoài — nhưng người được tôn quý lại là người Sa-ma-ri ăn mặc bình thường, hành động bằng lòng yêu thương thật sự. Dấu hiệu thật không nằm ở chiếc áo khoác lên mà ở hành động xuất phát từ tấm lòng. Đức Chúa Giê-su kết luận: hãy đi làm theo như vậy.
 
 Tình yêu mà Chúa đòi hỏi không còn là tình yêu của cảm xúc, của rung động nhất thời. Đó là tình yêu của lý trí, của sự vâng lời Đức Chúa Trời — bởi vì khi chúng ta yêu Ngài, chúng ta buộc phải yêu người khác. Nếu không yêu được nhau, mọi lời nói về Đức Chúa Trời, mọi nỗ lực truyền giáo đều sẽ vô ích. Hãy dẹp bỏ những dấu hiệu tự tạo, những sự phô trương, và chứng tỏ bằng tình yêu thật đối với mọi người.

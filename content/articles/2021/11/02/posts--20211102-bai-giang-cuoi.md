@@ -1,7 +1,7 @@
 ---
-title: "Bài giảng cuối cùng của Đức Chúa JESUS"
+title: "Bài giảng cuối cùng của Đức Chúa Giê-su"
 date: 2021-11-02
-tags: ["Jesus Christ"]
+tags: ["Đức Chúa Giê-su Christ"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["eonRCKMYsgw"]

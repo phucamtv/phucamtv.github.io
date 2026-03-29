@@ -1,7 +1,7 @@
 ---
 title: "Học Cách Đợi Chờ"
 date: 2016-08-13
-description: "Bài giảng về sự chờ đợi trong đời sống tâm linh: chờ đợi sự đáp lời của Chúa, chờ đợi sự giải cứu trong hoạn nạn, và chờ đợi ngày Chúa Giê-su trở lại. Qua các câu chuyện về Abraham, Giô-sa-phát, mười người nữ đồng trinh, và bài học từ Alexander Fleming và Thomas Edison."
+description: "Bài giảng về sự chờ đợi trong đời sống tâm linh: chờ đợi sự đáp lời của Chúa, chờ đợi sự giải cứu trong hoạn nạn, và chờ đợi ngày Đức Chúa Giê-su trở lại. Qua các câu chuyện về Abraham, Giô-sa-phát, mười người nữ đồng trinh, và bài học từ Alexander Fleming và Thomas Edison."
 tags: ["Đức Tin", "Kiên Nhẫn"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -69,7 +69,7 @@ Trước tất cả những thử thách, khó khăn, nghèo đói, sợ hãi, b
 
 Và sự thật, Đức Chúa Trời đã chiến đấu cho Giô-sa-phát, đã chiến đấu cho dân Israel trước dân Mô-áp và các đồng minh.
 
-## 3. Chờ đợi ngày Chúa Giê-su trở lại
+## 3. Chờ đợi ngày Đức Chúa Giê-su trở lại
 
 > "Vì người chờ đợi một thành có nền vững chắc, mà Đức Chúa Trời đã xây cất và sáng lập." — Hê-bơ-rơ 11:10
 
@@ -83,7 +83,7 @@ Thomas Edison đã nói: "Tất cả mọi thứ sẽ đến với người bi�
 
 > "Hỡi anh em, vậy hãy nhịn nhục cho tới Chúa đến. Hãy xem kẻ làm ruộng: họ bền lòng chờ đợi sản vật quý báu dưới đất, cho đến chừng nào đã được mưa đầu mùa và cuối mùa." — Gia-cơ 5:7
 
-Chúng ta đang chờ đợi ngày Chúa Giê-su trở lại. Có thể những ngày chờ đợi là gian nan, vất vả, có những lúc tưởng như không còn có thể chờ đợi nổi. Nhưng hãy nghĩ đến ngày gặt hái — là ngày Chúa Giê-su trở lại.
+Chúng ta đang chờ đợi ngày Đức Chúa Giê-su trở lại. Có thể những ngày chờ đợi là gian nan, vất vả, có những lúc tưởng như không còn có thể chờ đợi nổi. Nhưng hãy nghĩ đến ngày gặt hái — là ngày Đức Chúa Giê-su trở lại.
 
 > "Ngài sẽ hiện ra lần thứ hai, không phải để cất tội đi nữa, nhưng để ban sự cứu rỗi cho kẻ chờ đợi Ngài." — Hê-bơ-rơ 9:28b
 

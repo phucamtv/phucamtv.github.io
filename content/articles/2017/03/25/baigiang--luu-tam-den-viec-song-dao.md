@@ -14,7 +14,7 @@ draft: false
 
 ## Quá nhiều mối lưu tâm lấn át đời sống tâm linh
 
-Trong Lu-ca 14:15-24, Chúa Giê-su kể ẩn dụ về một người dọn tiệc lớn và mời nhiều khách. Khi đến giờ ăn, chủ tiệc sai đầy tớ đi nhắc nhở, nhưng tất cả những người được mời đều từ chối. Người thứ nhất bảo rằng mình vừa mua một đám ruộng cần đi xem. Người thứ hai nói mình mới mua năm cặp bò phải đi thử. Người thứ ba thì viện lý do mới cưới vợ nên không thể đến.
+Trong Lu-ca 14:15-24, Đức Chúa Giê-su kể ẩn dụ về một người dọn tiệc lớn và mời nhiều khách. Khi đến giờ ăn, chủ tiệc sai đầy tớ đi nhắc nhở, nhưng tất cả những người được mời đều từ chối. Người thứ nhất bảo rằng mình vừa mua một đám ruộng cần đi xem. Người thứ hai nói mình mới mua năm cặp bò phải đi thử. Người thứ ba thì viện lý do mới cưới vợ nên không thể đến.
 
 Ba trường hợp điển hình này phản ánh ba lĩnh vực trong đời sống thường ngày khiến chúng ta xao lãng việc quan tâm đến phần tâm linh. Thứ nhất là tài sản — chúng ta mải mê lo tích lũy của cải vật chất. Thứ hai là công việc — sự bận rộn mưu sinh kéo chúng ta ra khỏi mối quan tâm thuộc linh. Thứ ba là các mối quan hệ và thú vui cá nhân — những điều tự nó không xấu nhưng trở thành rào cản khi chúng ta đặt chúng lên trên hết.
 

@@ -22,7 +22,7 @@ Bài giảng mở đầu bằng câu hỏi nền tảng: Tại sao Kinh Thánh �
 
 ### Ma Quỷ Lừa Dối Chúng Ta Về Đức Chúa Trời
 
-Trong Giăng 8:44, Chúa Giê-su nói một lời rất nặng nề: *"Các ngươi bởi cha mình là ma quỷ mà sanh ra."* Sa-tan vốn là kẻ nói dối và là cha của sự nói dối. Ngay từ sự cám dỗ đầu tiên trong vườn Ê-đen, Sa-tan đã xuyên tạc lời Đức Chúa Trời để khiến Ê-va nghi ngờ. Dù Ê-va rất hiểu và thuộc lời Chúa, sẵn sàng bảo vệ lẽ thật, cuối cùng bà vẫn thất bại trước sự lừa dối tinh vi của ma quỷ.
+Trong Giăng 8:44, Đức Chúa Giê-su nói một lời rất nặng nề: *"Các ngươi bởi cha mình là ma quỷ mà sanh ra."* Sa-tan vốn là kẻ nói dối và là cha của sự nói dối. Ngay từ sự cám dỗ đầu tiên trong vườn Ê-đen, Sa-tan đã xuyên tạc lời Đức Chúa Trời để khiến Ê-va nghi ngờ. Dù Ê-va rất hiểu và thuộc lời Chúa, sẵn sàng bảo vệ lẽ thật, cuối cùng bà vẫn thất bại trước sự lừa dối tinh vi của ma quỷ.
 
 Sau hơn sáu ngàn năm kinh nghiệm cám dỗ, Sa-tan càng trở nên điêu luyện hơn trong khi con người càng yếu đuối hơn. Nó có thể xoay chuyển chúng ta, lật bên này, lật bên kia — thật ở đây, giả ở kia — khiến chúng ta hoang mang không biết đâu là chân lý.
 
@@ -30,7 +30,7 @@ Sau hơn sáu ngàn năm kinh nghiệm cám dỗ, Sa-tan càng trở nên điêu
 
 Hình thức lừa dối thứ hai là luôn nghĩ mình đúng. Các Quan Xét 17:6 ghi lại rằng trong thời kỳ không có vua nơi Israel, mọi người cứ làm theo ý mình tưởng là phải. Hai vấn đề ở đây: một là không có vua, hai là mỗi người tự làm theo ý mình mà tưởng là đúng — nhưng chưa chắc đã đúng.
 
-Mục sư minh họa bằng câu chuyện Sau-lơ trước khi trở thành sứ đồ Phao-lô. Ông cưỡi ngựa kéo đoàn tùy tùng đi bắt bớ những người theo Chúa Giê-su, đốt nhà, đánh đập, bỏ tù — và không bao giờ nghĩ mình sai. Cho đến khi Chúa hiện ra trên đường đi Đa-mách, ánh sáng làm ông mù mắt, rồi tại nhà A-na-nia, một bức màn tối tăm rơi xuống khỏi mắt ông. Từ đó Sau-lơ nhận ra tất cả những gì ông nghĩ là phải trong quá khứ đều sai, để rồi ông từ bỏ địa vị nghị viên tòa Công Luận mà đi hầu việc Chúa.
+Mục sư minh họa bằng câu chuyện Sau-lơ trước khi trở thành sứ đồ Phao-lô. Ông cưỡi ngựa kéo đoàn tùy tùng đi bắt bớ những người theo Đức Chúa Giê-su, đốt nhà, đánh đập, bỏ tù — và không bao giờ nghĩ mình sai. Cho đến khi Chúa hiện ra trên đường đi Đa-mách, ánh sáng làm ông mù mắt, rồi tại nhà A-na-nia, một bức màn tối tăm rơi xuống khỏi mắt ông. Từ đó Sau-lơ nhận ra tất cả những gì ông nghĩ là phải trong quá khứ đều sai, để rồi ông từ bỏ địa vị nghị viên tòa Công Luận mà đi hầu việc Chúa.
 
 ### Lừa Dối Người Khác Qua Định Kiến
 

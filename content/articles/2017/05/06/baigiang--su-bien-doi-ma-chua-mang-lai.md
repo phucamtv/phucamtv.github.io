@@ -1,7 +1,7 @@
 ---
 title: "Sự Biến Đổi Mà Chúa Mang Lại"
 date: 2017-05-06
-description: "Bài giảng về sự biến đổi bản chất con người mà chỉ Chúa Giê-su mới có thể thực hiện, nhấn mạnh rằng con người không thể tự mình trở nên tốt lành mà cần được tái sanh bởi lời hằng sống của Đức Chúa Trời."
+description: "Bài giảng về sự biến đổi bản chất con người mà chỉ Đức Chúa Giê-su mới có thể thực hiện, nhấn mạnh rằng con người không thể tự mình trở nên tốt lành mà cần được tái sanh bởi lời hằng sống của Đức Chúa Trời."
 tags: ["Biến Đổi", "Tái Sanh", "Bản Chất Con Người", "Ân Điển", "Đức Tin"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -18,7 +18,7 @@ Giê-rê-mi 13:23 đặt ra một câu hỏi mang tính khẳng định: "Ngư�
 
 Tại vườn quốc gia South Luangwa, người ta từng chứng kiến một con sư tử đực tên Garlic đứng cạnh một con nai con, liếm nó nhẹ nhàng. Người ta nghĩ rằng đây là một tình bạn hiếm thấy giữa hai loài vật. Nhưng 30 phút sau, con sư tử đã cắn nát cổ con nai và ăn thịt nó. Bản chất của loài thú dữ vẫn là thú dữ — cho dù có kiềm chế trong chốc lát, bản năng cuối cùng vẫn trỗi dậy.
 
-Giăng 8:44 ghi lại lời Chúa Giê-su phán rằng bản chất con người thuộc về ma quỷ — cha của sự nói dối và giết người. Nếu không có sự can thiệp từ bên ngoài, con người mãi bế tắc trong vòng xoáy của tội lỗi mà không thể tự mình thoát ra.
+Giăng 8:44 ghi lại lời Đức Chúa Giê-su phán rằng bản chất con người thuộc về ma quỷ — cha của sự nói dối và giết người. Nếu không có sự can thiệp từ bên ngoài, con người mãi bế tắc trong vòng xoáy của tội lỗi mà không thể tự mình thoát ra.
 
 ## Người tốt vẫn có lúc xấu, người xấu vẫn có lúc tốt
 
@@ -36,15 +36,15 @@ Nhiều tôn giáo dạy con người tự tu tâm, tự tìm kiếm sự giải
 
 Phép báp-tem là nghi thức của sự rửa sạch, nhưng nó chỉ là phương tiện. Việc đi nhà thờ, đọc Kinh Thánh, cầu nguyện — tất cả đều là phương tiện để đưa chúng ta đến sự tái sanh. Nếu chỉ dừng lại ở nghi thức mà không tìm kiếm sự đổi mới thật sự, thì sự cứu rỗi vẫn còn rất xa.
 
-## Sự biến đổi đến từ việc gặp gỡ Chúa Giê-su
+## Sự biến đổi đến từ việc gặp gỡ Đức Chúa Giê-su
 
-Câu chuyện người đàn bà mất huyết 12 năm trong Lu-ca 8:43-44 cho thấy một bài học sâu sắc: khi bà chạm vào trôn áo Chúa Giê-su, lập tức huyết cầm lại. Sự chạm đến Chúa đem lại sự thay đổi tức thì. Trong đời sống tâm linh cũng vậy, nếu chúng ta thật sự gặp gỡ Chúa, chạm được Ngài trong tâm linh, chắc chắn phải có một sự biến đổi, một sự nhận thức và chữa lành.
+Câu chuyện người đàn bà mất huyết 12 năm trong Lu-ca 8:43-44 cho thấy một bài học sâu sắc: khi bà chạm vào trôn áo Đức Chúa Giê-su, lập tức huyết cầm lại. Sự chạm đến Chúa đem lại sự thay đổi tức thì. Trong đời sống tâm linh cũng vậy, nếu chúng ta thật sự gặp gỡ Chúa, chạm được Ngài trong tâm linh, chắc chắn phải có một sự biến đổi, một sự nhận thức và chữa lành.
 
 Nhiều người trong chúng ta mang những căn bệnh thuộc linh mà không hay biết, tự trấn an rằng mình ổn, rằng mình còn tốt hơn người khác. Nhưng nếu chưa gặp Chúa Cứu Thế, chúng ta không thể có được sự biến đổi — và sự biến đổi này gắn liền với sự cứu rỗi.
 
 ## Phải được sanh lại để vào nước Đức Chúa Trời
 
-Ni-cô-đem, một học giả Do Thái có chức trọng, đã đến gặp Chúa Giê-su vào ban đêm. Chúa phán với ông trong Giăng 3:3 rằng nếu một người chẳng sanh lại thì không thể thấy được nước Đức Chúa Trời. Ni-cô-đem hiểu sai — ông nghĩ đến việc thu nhỏ mình lại chui vào bụng mẹ. Nhưng Chúa nói đến một sự biến đổi hoàn toàn trong bản chất và tâm tánh — một con người không còn sống theo tiêu chuẩn tự đặt ra mà sống theo tiêu chuẩn của Đức Chúa Trời.
+Ni-cô-đem, một học giả Do Thái có chức trọng, đã đến gặp Đức Chúa Giê-su vào ban đêm. Chúa phán với ông trong Giăng 3:3 rằng nếu một người chẳng sanh lại thì không thể thấy được nước Đức Chúa Trời. Ni-cô-đem hiểu sai — ông nghĩ đến việc thu nhỏ mình lại chui vào bụng mẹ. Nhưng Chúa nói đến một sự biến đổi hoàn toàn trong bản chất và tâm tánh — một con người không còn sống theo tiêu chuẩn tự đặt ra mà sống theo tiêu chuẩn của Đức Chúa Trời.
 
 I Phi-e-rơ 1:23 chép rằng chúng ta được lại sanh chẳng phải bởi giống hay hư nát, nhưng bởi giống chẳng hư nát, là bởi lời hằng sống và bền vững của Đức Chúa Trời. Vàng bạc sẽ hư mất, những việc phước thiện hay cúng kiến cũng không thể đem đến sự tái sanh. Chỉ có lời Chúa mới có quyền năng biến đổi con người từ bên trong.
 
@@ -54,4 +54,4 @@ I Phi-e-rơ 1:23 chép rằng chúng ta được lại sanh chẳng phải bởi
 
 Giống như một miếng thịt có thể được tẩm gia vị, thẩm thấu qua từng thớ và được thay đổi hoàn toàn, tấm lòng bằng thịt có thể tiếp nhận lời Chúa và được biến đổi. Nhưng một cục đá thì dù ngâm trong bất cứ dung dịch nào, đem ra rửa sạch vẫn chỉ là đá.
 
-Lời kêu gọi hôm nay dành cho mỗi chúng ta: hãy như người đàn bà mất huyết kia, tìm cách chạm được Chúa. Sự gặp gỡ với Chúa Giê-su sẽ đem đến một sự biến đổi hoàn toàn — và đó chính là sức mạnh của đạo Chúa.
+Lời kêu gọi hôm nay dành cho mỗi chúng ta: hãy như người đàn bà mất huyết kia, tìm cách chạm được Chúa. Sự gặp gỡ với Đức Chúa Giê-su sẽ đem đến một sự biến đổi hoàn toàn — và đó chính là sức mạnh của đạo Chúa.

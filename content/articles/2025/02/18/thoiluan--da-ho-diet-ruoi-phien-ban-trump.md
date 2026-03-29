@@ -105,9 +105,9 @@ Con người tự nhiên — chưa được tái sinh bởi quyền năng của 
 
 > "Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng sanh lại thì không thể thấy được nước Đức Chúa Trời." — Giăng 3:3
 
-### Giải pháp duy nhất: Sự cứu rỗi trong Đức Chúa Jesus Christ
+### Giải pháp duy nhất: Sự cứu rỗi trong Đức Chúa Giê-su Christ
 
-Giải pháp duy nhất và trọn vẹn cho vấn nạn tham nhũng — cũng như mọi tội lỗi khác — là sự cứu rỗi trong Đức Chúa Jesus Christ. Chỉ có Ngài mới có quyền năng tha thứ tội lỗi, giải phóng con người khỏi ách nô lệ của tội lỗi, và ban cho họ một bản tính mới, một tấm lòng mới.
+Giải pháp duy nhất và trọn vẹn cho vấn nạn tham nhũng — cũng như mọi tội lỗi khác — là sự cứu rỗi trong Đức Chúa Giê-su Christ. Chỉ có Ngài mới có quyền năng tha thứ tội lỗi, giải phóng con người khỏi ách nô lệ của tội lỗi, và ban cho họ một bản tính mới, một tấm lòng mới.
 
 > "Chẳng có sự cứu rỗi trong đấng nào khác; vì ở dưới trời, chẳng có danh nào khác ban cho loài người, để chúng ta phải nhờ đó mà được cứu." — Công Vụ 4:12
 
@@ -121,6 +121,6 @@ Giải pháp duy nhất và trọn vẹn cho vấn nạn tham nhũng — cũng n
 
 ---
 
-Vấn nạn tham nhũng không chỉ là vấn đề của một quốc gia, một thể chế hay một thời đại cụ thể — nó là vấn đề của bản chất con người tội lỗi. Các chiến dịch chống tham nhũng, dù có cần thiết và có thể mang lại một số kết quả nhất định, nhưng không thể giải quyết tận gốc vấn đề. Chỉ có sự biến đổi từ bên trong, bởi quyền năng của Đức Chúa Trời, thông qua sự cứu rỗi của Đức Chúa Jesus Christ, mới có thể đem lại một giải pháp bền vững.
+Vấn nạn tham nhũng không chỉ là vấn đề của một quốc gia, một thể chế hay một thời đại cụ thể — nó là vấn đề của bản chất con người tội lỗi. Các chiến dịch chống tham nhũng, dù có cần thiết và có thể mang lại một số kết quả nhất định, nhưng không thể giải quyết tận gốc vấn đề. Chỉ có sự biến đổi từ bên trong, bởi quyền năng của Đức Chúa Trời, thông qua sự cứu rỗi của Đức Chúa Giê-su Christ, mới có thể đem lại một giải pháp bền vững.
 
-Thay vì chỉ trông đợi vào các chiến dịch "đả hổ diệt ruồi" hay "đốt lò" hay "tát cạn đầm lầy", chúng ta cần hướng đến một giải pháp cao hơn, sâu xa hơn — đó là sự trở lại với Đức Chúa Trời, sự ăn năn tội lỗi, và sự tiếp nhận Đức Chúa Jesus làm Cứu Chúa và Chủ của đời sống mình. Chỉ khi đó, chúng ta mới có thể hy vọng vào một xã hội công bằng, liêm chính.
+Thay vì chỉ trông đợi vào các chiến dịch "đả hổ diệt ruồi" hay "đốt lò" hay "tát cạn đầm lầy", chúng ta cần hướng đến một giải pháp cao hơn, sâu xa hơn — đó là sự trở lại với Đức Chúa Trời, sự ăn năn tội lỗi, và sự tiếp nhận Đức Chúa Giê-su làm Cứu Chúa và Chủ của đời sống mình. Chỉ khi đó, chúng ta mới có thể hy vọng vào một xã hội công bằng, liêm chính.

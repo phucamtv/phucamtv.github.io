@@ -24,7 +24,7 @@ Công-vụ 17:1-21 dẫn chúng ta qua ba thành phố trong hành trình truy�
 
 Khi đến Tê-sa-lô-ni-ca — một thành phố nằm trên trục đường giao thương chính nối châu Âu với châu Á — Phao-lô tìm đến nhà hội người Do Thái. Đây không phải sự ngẫu nhiên: Đức Chúa Trời đã sắp xếp để Tin Lành lan rộng từ những trung tâm giao thông, nơi thông tin có thể truyền ra khắp các hướng một cách nhanh chóng.
 
-Phao-lô *"tới nhà hội theo thói quen mình"* — chi tiết nhỏ nhưng quan trọng. Các môn đồ vẫn giữ ngày Sa-bát nhiều thập kỷ sau khi Chúa Giê-su về trời. Mãi đến khoảng 300 năm sau mới có sự thay đổi sang ngày thứ nhất (Chủ nhật), vốn ban đầu là ngày thờ thần mặt trời.
+Phao-lô *"tới nhà hội theo thói quen mình"* — chi tiết nhỏ nhưng quan trọng. Các môn đồ vẫn giữ ngày Sa-bát nhiều thập kỷ sau khi Đức Chúa Giê-su về trời. Mãi đến khoảng 300 năm sau mới có sự thay đổi sang ngày thứ nhất (Chủ nhật), vốn ban đầu là ngày thờ thần mặt trời.
 
 Trong ba tuần Sa-bát liên tiếp, Phao-lô giảng từ Kinh Thánh Cựu Ước, chứng minh rằng Đấng Christ phải chịu thương khó và sống lại từ kẻ chết. Kết quả: nhiều người Do Thái, người Hy Lạp, và phụ nữ quyền quý tin nhận.
 

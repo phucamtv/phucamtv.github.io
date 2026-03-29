@@ -16,7 +16,7 @@ draft: false
 
 Ma-thi-ơ đoạn 24 ghi lại những lời tiên tri của Đức Chúa Giê-su liên quan đến hai sự kiện trọng đại: thành Giê-ru-sa-lem bị tàn phá và sự tái lâm của Ngài. Điểm đặc biệt là Ma-thi-ơ ký thuật các lời tiên tri này xen kẽ với nhau, khiến người đọc cần phân loại cẩn thận để nắm được trình tự thời gian.
 
-Mục sư William Barclay đã đề nghị phân chia Ma-thi-ơ 24:1-31 thành sáu phần: thành Giê-ru-sa-lem bị tướng La-mã Titus bao vây (câu 15-22), thành bị hủy diệt hoàn toàn (câu 1-2), quan niệm của dân Y-sơ-ra-ên về Ngày của Chúa (câu 6-8, 29-31), sự bắt bớ người tin Chúa (câu 9-10), sự đe dọa đời sống thánh sạch của Hội Thánh (câu 4-5, 11-13, 23-26), và sự tái lâm của Chúa Giê-su (câu 3, 14, 27-28). Có những lời tiên tri có thể áp dụng cho cả hai sự kiện cùng lúc.
+Mục sư William Barclay đã đề nghị phân chia Ma-thi-ơ 24:1-31 thành sáu phần: thành Giê-ru-sa-lem bị tướng La-mã Titus bao vây (câu 15-22), thành bị hủy diệt hoàn toàn (câu 1-2), quan niệm của dân Y-sơ-ra-ên về Ngày của Chúa (câu 6-8, 29-31), sự bắt bớ người tin Chúa (câu 9-10), sự đe dọa đời sống thánh sạch của Hội Thánh (câu 4-5, 11-13, 23-26), và sự tái lâm của Đức Chúa Giê-su (câu 3, 14, 27-28). Có những lời tiên tri có thể áp dụng cho cả hai sự kiện cùng lúc.
 
 ---
 
@@ -26,7 +26,7 @@ Khi Đức Chúa Giê-su ra khỏi đền thờ, các môn đồ chỉ cho Ngài
 
 Đền thờ được xây trên đỉnh núi Si-ôn, nơi người ta đã san bằng với diện tích mỗi cạnh khoảng 300 mét. Toàn bộ đền thờ được xây bằng đá cẩm thạch và dát vàng, khiến từ xa nhìn vào ánh nắng mặt trời, nó rực rỡ chói lọi. Những cột trụ cao 12 mét bằng đá cẩm thạch nguyên khối, bề tròn lớn đến mức ba người trưởng thành nắm tay nhau ôm không hết. Các tảng đá ở góc đền nặng khoảng 100 tấn, dài từ 7 đến 14 mét — một quy mô mà người ta liên tưởng đến sự kỳ bí của Kim Tự Tháp Ai Cập.
 
-Với quy mô đồ sộ như vậy, lời Chúa Giê-su phán rằng không còn hòn đá nào chồng trên hòn đá khác là điều khó tin đối với người đương thời. Tuy nhiên, gần 40 năm sau, vào năm 70 sau Chúa, lời tiên tri đã ứng nghiệm chính xác.
+Với quy mô đồ sộ như vậy, lời Đức Chúa Giê-su phán rằng không còn hòn đá nào chồng trên hòn đá khác là điều khó tin đối với người đương thời. Tuy nhiên, gần 40 năm sau, vào năm 70 sau Chúa, lời tiên tri đã ứng nghiệm chính xác.
 
 ---
 
@@ -44,9 +44,9 @@ Khi quân La-mã phóng hỏa đốt đền thờ, vàng dát trên tường ch�
 
 ## Lời Tiên Tri Đa-ni-ên Và Sự Ứng Nghiệm
 
-Trong câu 15, Đức Chúa Giê-su nhắc đến lời tiên tri Đa-ni-ên đoạn 9:24-27 về 70 tuần lễ (tương ứng 490 năm). Lời tiên tri này xác định rằng sau khi Đấng chịu xức dầu (Đấng Mê-si) bị trừ đi — tức là Chúa Giê-su bị đóng đinh trên thập tự giá — thì thành và nơi thánh sẽ bị hủy phá.
+Trong câu 15, Đức Chúa Giê-su nhắc đến lời tiên tri Đa-ni-ên đoạn 9:24-27 về 70 tuần lễ (tương ứng 490 năm). Lời tiên tri này xác định rằng sau khi Đấng chịu xức dầu (Đấng Mê-si) bị trừ đi — tức là Đức Chúa Giê-su bị đóng đinh trên thập tự giá — thì thành và nơi thánh sẽ bị hủy phá.
 
-Chúa Giê-su chịu phép báp-têm năm 27 sau Chúa, giảng đạo 3 năm, chịu chết trên thập tự giá năm 31, rồi đến năm 34 khi Ê-tiên bị ném đá, đạo Chúa được rao truyền cho dân ngoại. Từ năm 27 đến năm 34 là 7 năm — đúng với một tuần lễ tiên tri, và giữa tuần lễ đó (3 năm rưỡi) thì của lễ bị dứt đi khi Chúa chịu chết thay cho nhân loại.
+Đức Chúa Giê-su chịu phép báp-têm năm 27 sau Chúa, giảng đạo 3 năm, chịu chết trên thập tự giá năm 31, rồi đến năm 34 khi Ê-tiên bị ném đá, đạo Chúa được rao truyền cho dân ngoại. Từ năm 27 đến năm 34 là 7 năm — đúng với một tuần lễ tiên tri, và giữa tuần lễ đó (3 năm rưỡi) thì của lễ bị dứt đi khi Chúa chịu chết thay cho nhân loại.
 
 ---
 

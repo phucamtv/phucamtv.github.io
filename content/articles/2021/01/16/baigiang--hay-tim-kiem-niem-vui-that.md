@@ -38,7 +38,7 @@ Thi Thiên 122:1 nói rằng tôi vui mừng khi người ta bảo tôi rằng t
 
 ### 4. Niềm Vui Khi Tạo Nên Sự Hòa Bình
 
-Châm-ngôn 12:20 dạy rằng sự vui vẻ thuộc về người khuyên lơn sự hòa bình. Trong các phước lành mà Chúa Giê-su phán, phước cho những kẻ làm cho người hòa thuận vì họ sẽ được gọi là con Đức Chúa Trời. Chúa Giê-su đến để đem sự hòa bình, kết nối giữa trời và đất, giữa người với người. Chúng ta hãy bắt đầu tạo nên sự hòa bình ngay trong chính gia đình mình.
+Châm-ngôn 12:20 dạy rằng sự vui vẻ thuộc về người khuyên lơn sự hòa bình. Trong các phước lành mà Đức Chúa Giê-su phán, phước cho những kẻ làm cho người hòa thuận vì họ sẽ được gọi là con Đức Chúa Trời. Đức Chúa Giê-su đến để đem sự hòa bình, kết nối giữa trời và đất, giữa người với người. Chúng ta hãy bắt đầu tạo nên sự hòa bình ngay trong chính gia đình mình.
 
 ### 5. Niềm Vui Khi Quan Tâm Đến Anh Em
 

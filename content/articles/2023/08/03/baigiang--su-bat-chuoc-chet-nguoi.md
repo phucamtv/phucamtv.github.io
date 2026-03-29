@@ -30,11 +30,11 @@ Vị thiên sứ này là ai? Những đặc điểm được mô tả ở đây
 
 ## Đức Chúa Giê-su Và Danh Xưng Thiên Sứ Trưởng
 
-Một câu hỏi thường được đặt ra: nếu Đức Chúa Giê-su được gọi là thiên sứ, thì Ngài chỉ là một tạo vật sao? Có những giáo lý sai lạc hạ thấp vai trò của Chúa Giê-su, cho rằng Ngài không thể ngang bằng với Đức Chúa Trời. Nhưng cần hiểu rằng danh xưng không quyết định bản chất.
+Một câu hỏi thường được đặt ra: nếu Đức Chúa Giê-su được gọi là thiên sứ, thì Ngài chỉ là một tạo vật sao? Có những giáo lý sai lạc hạ thấp vai trò của Đức Chúa Giê-su, cho rằng Ngài không thể ngang bằng với Đức Chúa Trời. Nhưng cần hiểu rằng danh xưng không quyết định bản chất.
 
-Cũng giống như Chúa Giê-su được gọi là Chiên Con của Đức Chúa Trời, điều đó không có nghĩa Ngài là một con chiên theo nghĩa đen. Đó là hình ảnh chỉ về vai trò hy sinh chuộc tội của Ngài. Tương tự, khi Lu-xi-phe — vốn là thiên sứ trưởng — nổi loạn và lôi kéo một phần ba thiên sứ chống lại Đức Chúa Trời, Đức Chúa Giê-su đã đích thân nắm quyền tổng lãnh đạo các thiên sứ còn lại. Ngài mang vai trò thiên sứ trưởng không phải vì Ngài thấp hơn Đức Chúa Trời, mà vì Ngài kiêm nhiệm chức vụ ấy.
+Cũng giống như Đức Chúa Giê-su được gọi là Chiên Con của Đức Chúa Trời, điều đó không có nghĩa Ngài là một con chiên theo nghĩa đen. Đó là hình ảnh chỉ về vai trò hy sinh chuộc tội của Ngài. Tương tự, khi Lu-xi-phe — vốn là thiên sứ trưởng — nổi loạn và lôi kéo một phần ba thiên sứ chống lại Đức Chúa Trời, Đức Chúa Giê-su đã đích thân nắm quyền tổng lãnh đạo các thiên sứ còn lại. Ngài mang vai trò thiên sứ trưởng không phải vì Ngài thấp hơn Đức Chúa Trời, mà vì Ngài kiêm nhiệm chức vụ ấy.
 
-Người Do Thái hiểu rõ điều này. Khi Chúa Giê-su xưng mình là Con Đức Chúa Trời, họ liền muốn ném đá Ngài vì cho rằng Ngài phạm thượng — bởi trong văn hóa Do Thái, Con Đức Chúa Trời có nghĩa là đồng đẳng với Đức Chúa Trời.
+Người Do Thái hiểu rõ điều này. Khi Đức Chúa Giê-su xưng mình là Con Đức Chúa Trời, họ liền muốn ném đá Ngài vì cho rằng Ngài phạm thượng — bởi trong văn hóa Do Thái, Con Đức Chúa Trời có nghĩa là đồng đẳng với Đức Chúa Trời.
 
 ---
 

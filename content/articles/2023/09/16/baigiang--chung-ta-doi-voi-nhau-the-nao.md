@@ -40,7 +40,7 @@ Giữa cuộc sống ồn ào và bận rộn, chúng ta rất dễ quên nhữn
 
 Hội Thánh Phi-líp bắt đầu từ một phụ nữ buôn bán vải tên Ly-đi, từ một điểm nhóm tư gia nhỏ bên bờ sông. Đó không phải là một Hội Thánh hoàn hảo — không có Hội Thánh nào, không có mục sư nào hoàn hảo trên đất này. Vậy mà khi Phao-lô nhắc đến Hội Thánh Phi-líp, ông vẫn cảm tạ Đức Chúa Trời.
 
-Chúa Giê-su trong ẩn dụ về lúa mì và cỏ lùng (Ma-thi-ơ 13:25-30) đã dạy rằng trong Hội Thánh chắc chắn có người tốt lẫn người xấu, có người thật và người giả. Nhưng chủ ruộng không cho đầy tớ nhổ cỏ lùng sớm vì sợ nhổ nhầm lúa mì. Bài học ở đây là: chúng ta phải chấp nhận chung sống, và quyền phán xét thuộc về Đức Chúa Trời, không thuộc về con người. Chúng ta không thể nhìn bề ngoài mà phán xét lòng người — chỉ Đức Chúa Trời mới thấy được tấm lòng.
+Đức Chúa Giê-su trong ẩn dụ về lúa mì và cỏ lùng (Ma-thi-ơ 13:25-30) đã dạy rằng trong Hội Thánh chắc chắn có người tốt lẫn người xấu, có người thật và người giả. Nhưng chủ ruộng không cho đầy tớ nhổ cỏ lùng sớm vì sợ nhổ nhầm lúa mì. Bài học ở đây là: chúng ta phải chấp nhận chung sống, và quyền phán xét thuộc về Đức Chúa Trời, không thuộc về con người. Chúng ta không thể nhìn bề ngoài mà phán xét lòng người — chỉ Đức Chúa Trời mới thấy được tấm lòng.
 
 Phao-lô không nghĩ đến những người gây chia rẽ, nổi loạn hay tham lam trong Hội Thánh. Ông nghĩ đến những người hiệp nhất, âm thầm cầu nguyện, hết lòng dâng hiến. Chính việc hướng tâm trí về những điều tốt đẹp đã giúp Phao-lô luôn cảm tạ Đức Chúa Trời.
 

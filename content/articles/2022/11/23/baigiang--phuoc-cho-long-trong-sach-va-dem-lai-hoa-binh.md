@@ -75,9 +75,9 @@ Chữ "hòa thuận" trong tiếng Hy Lạp là *eirene*, tiếng Hê-bơ-rơ l�
 
 ## Con Của Đức Chúa Trời
 
-Tại sao người đem lại hòa bình lại được gọi là con Đức Chúa Trời? Bởi vì *cha nào con nấy*. Đức Chúa Trời là Chúa Hòa Bình — công việc lớn nhất của Ngài là hòa giải con người tội lỗi với Đức Chúa Trời thánh khiết qua Chúa Giê-su. Ai tiếp nối công việc đó, làm giống như Ngài đã làm, thì là con của Ngài.
+Tại sao người đem lại hòa bình lại được gọi là con Đức Chúa Trời? Bởi vì *cha nào con nấy*. Đức Chúa Trời là Chúa Hòa Bình — công việc lớn nhất của Ngài là hòa giải con người tội lỗi với Đức Chúa Trời thánh khiết qua Đức Chúa Giê-su. Ai tiếp nối công việc đó, làm giống như Ngài đã làm, thì là con của Ngài.
 
-Kinh Thánh luôn đề cao mối liên hệ giữa người với người. Mười điều răn chia làm hai phần: phần đầu về tình yêu với Đức Chúa Trời, phần sau về tình yêu với người lân cận — mỗi phần giữ một nửa cán cân. Chúa Giê-su không dạy chúng ta xuất thế, thoát ly đời sống. Ngài nhập thế, trở nên người, đến ở giữa loài người — và những ai theo Ngài cũng phải nhập cuộc, đem hòa bình vào trong thế gian.
+Kinh Thánh luôn đề cao mối liên hệ giữa người với người. Mười điều răn chia làm hai phần: phần đầu về tình yêu với Đức Chúa Trời, phần sau về tình yêu với người lân cận — mỗi phần giữ một nửa cán cân. Đức Chúa Giê-su không dạy chúng ta xuất thế, thoát ly đời sống. Ngài nhập thế, trở nên người, đến ở giữa loài người — và những ai theo Ngài cũng phải nhập cuộc, đem hòa bình vào trong thế gian.
 
 ---
 

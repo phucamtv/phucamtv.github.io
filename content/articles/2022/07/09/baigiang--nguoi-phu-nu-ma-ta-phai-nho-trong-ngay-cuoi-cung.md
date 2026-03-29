@@ -2,7 +2,7 @@
 title: "Người Phụ Nữ Mà Ta Phải Nhớ Trong Ngày Cuối Cùng"
 date: 2022-07-09
 url: /baigiang/nguoi-phu-nu-ma-ta-phai-nho-trong-ngay-cuoi-cung/
-description: "Bài giảng từ Lu-ca 17:32 về lời cảnh báo của Chúa Giê-su: 'Hãy nhớ lại vợ của Lót.' Ba bài học từ câu chuyện vợ Lót — đặc quyền tôn giáo, sự cầu nguyện của người thân, và cái chết — chuẩn bị cho ngày tái lâm."
+description: "Bài giảng từ Lu-ca 17:32 về lời cảnh báo của Đức Chúa Giê-su: 'Hãy nhớ lại vợ của Lót.' Ba bài học từ câu chuyện vợ Lót — đặc quyền tôn giáo, sự cầu nguyện của người thân, và cái chết — chuẩn bị cho ngày tái lâm."
 tags: ["Vợ Lót", "Ngày Cuối Cùng", "Tái Lâm", "Lu-ca 17", "Sáng Thế Ký 19", "Đức Tin", "Vâng Lời", "Cứu Rỗi", "Thế Gian"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -12,11 +12,11 @@ draft: false
 
 {{< youtube "9SGXFYQRCtY" >}}
 
-## Người Phụ Nữ Mà Chúa Giê-su Bảo Phải Nhớ
+## Người Phụ Nữ Mà Đức Chúa Giê-su Bảo Phải Nhớ
 
-Kinh Thánh có đề cập đến nhiều người phụ nữ đáng kính — Sa-ra, Ra-háp, An-ne, Ru-tơ, Ma-ry, những người phụ nữ đứng bên chân thập tự giá. Đó đều là những tấm gương đức hạnh và đức tin. Thế nhưng có một người phụ nữ mà chính Chúa Giê-su không chỉ nhắc đến — mà còn truyền lệnh cho chúng ta *phải nhớ* đến bà. Và đó lại không phải là một người phụ nữ gương mẫu. Đó là **vợ của Lót** — người đã hóa thành tượng muối.
+Kinh Thánh có đề cập đến nhiều người phụ nữ đáng kính — Sa-ra, Ra-háp, An-ne, Ru-tơ, Ma-ry, những người phụ nữ đứng bên chân thập tự giá. Đó đều là những tấm gương đức hạnh và đức tin. Thế nhưng có một người phụ nữ mà chính Đức Chúa Giê-su không chỉ nhắc đến — mà còn truyền lệnh cho chúng ta *phải nhớ* đến bà. Và đó lại không phải là một người phụ nữ gương mẫu. Đó là **vợ của Lót** — người đã hóa thành tượng muối.
 
-Trong Lu-ca 17:32, giữa lúc Chúa Giê-su đang giảng về ngày tái lâm, Ngài bất chợt dừng lại và nói ngắn gọn: *"Hãy nhớ lại vợ của Lót."* Không giải thích thêm. Không cần bình luận. Chúa biết rằng chúng ta đã biết câu chuyện đó rồi. Nhưng Ngài muốn chúng ta *suy ngẫm* — không chỉ nhớ sự kiện, mà nhớ để rút ra bài học cho chính mình trong thời đại cuối cùng.
+Trong Lu-ca 17:32, giữa lúc Đức Chúa Giê-su đang giảng về ngày tái lâm, Ngài bất chợt dừng lại và nói ngắn gọn: *"Hãy nhớ lại vợ của Lót."* Không giải thích thêm. Không cần bình luận. Chúa biết rằng chúng ta đã biết câu chuyện đó rồi. Nhưng Ngài muốn chúng ta *suy ngẫm* — không chỉ nhớ sự kiện, mà nhớ để rút ra bài học cho chính mình trong thời đại cuối cùng.
 
 ## Bối Cảnh: Thời Nô-ê, Thời Lót, Và Thời Nay
 
@@ -54,6 +54,6 @@ Sự quay lại của bà chứng tỏ ba điều: bà không vâng lời Đức
 
 Chúng ta đang sống trong thế giới giống như Sô-đôm xưa — đầy những cám dỗ, những giá trị vật chất, những điều thu hút ánh mắt và tấm lòng quay về phía sau. II Phi-e-rơ 3:11 nhắc nhở: *"Vì mọi vật đó phải tiêu tán, thì anh em đáng nên thánh và tin kính trong mọi sự ăn ở của mình là dường nào."*
 
-Lời Chúa Giê-su — *"Hãy nhớ lại vợ của Lót"* — không phải lời phán xét lạnh lùng. Đó là lời yêu thương khẩn thiết của một Đấng Cứu Thế đang nhìn thấy ngày phán xét sắp đến. Ngài muốn không ai bị bỏ lại. Ngài muốn chúng ta học từ câu chuyện bi thương đó để không lặp lại sai lầm của bà.
+Lời Đức Chúa Giê-su — *"Hãy nhớ lại vợ của Lót"* — không phải lời phán xét lạnh lùng. Đó là lời yêu thương khẩn thiết của một Đấng Cứu Thế đang nhìn thấy ngày phán xét sắp đến. Ngài muốn không ai bị bỏ lại. Ngài muốn chúng ta học từ câu chuyện bi thương đó để không lặp lại sai lầm của bà.
 
 Hãy từ bỏ những điều hư mất của thế gian. Hãy hướng lòng về những điều vĩnh cửu. Và hãy nhanh chóng quay về với Đức Chúa Trời — ngay hôm nay, trước khi quá muộn.

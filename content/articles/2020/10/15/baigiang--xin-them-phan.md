@@ -70,6 +70,6 @@ Câu chuyện "xin thêm phấn" là một lời nhắc nhẹ nhàng nhưng sâu
 - **Người rao giảng Lời Chúa càng phải soi xét chính mình nhiều hơn.**
 - **Ăn năn không phải việc làm một lần — đó là hành trình trọn đời.**
 
-Chúa Giê-su dạy môn đồ cầu nguyện mỗi ngày: *"Xin tha tội lỗi chúng con"* — không phải vì tội lỗi chúng ta mỗi ngày đều giống nhau, nhưng vì mỗi ngày chúng ta đều cần ơn tha thứ và sự đổi mới từ Ngài.
+Đức Chúa Giê-su dạy môn đồ cầu nguyện mỗi ngày: *"Xin tha tội lỗi chúng con"* — không phải vì tội lỗi chúng ta mỗi ngày đều giống nhau, nhưng vì mỗi ngày chúng ta đều cần ơn tha thứ và sự đổi mới từ Ngài.
 
 Hãy để giấc mơ "xin thêm phấn" trở thành lời cầu nguyện chân thành của mỗi người: *"Lạy Chúa, xin tha thứ con. Con cần ân điển Ngài mỗi ngày."*

@@ -17,7 +17,7 @@ draft: false
 
 ## Điều Răn Mới – Yêu Nhau Như Chúa Đã Yêu
 
-Chúa Giê-xu phán trong Giăng 13:34-35: *"Ta ban cho các ngươi một điều răn mới, nghĩa là các ngươi phải yêu nhau; như ta đã yêu các ngươi thể nào, thì các ngươi cũng hãy yêu nhau thể ấy. Nếu các ngươi yêu nhau, thì ấy là tại điều đó mà thiên hạ sẽ nhận biết các ngươi là môn đồ ta."*
+Đức Chúa Giê-su phán trong Giăng 13:34-35: *"Ta ban cho các ngươi một điều răn mới, nghĩa là các ngươi phải yêu nhau; như ta đã yêu các ngươi thể nào, thì các ngươi cũng hãy yêu nhau thể ấy. Nếu các ngươi yêu nhau, thì ấy là tại điều đó mà thiên hạ sẽ nhận biết các ngươi là môn đồ ta."*
 
 Đây không phải "điều răn thứ mười một" như nhiều người nói vui, mà thực chất là điều răn thứ nhì trong hai điều răn lớn nhất – kính Chúa và yêu người. Nhưng ở đây Ngài đẩy xa hơn: không phải yêu nhau theo cách riêng mình, mà phải yêu nhau *như Chúa đã yêu chúng ta*. Đó là một chuẩn mực cụ thể, có gương mẫu để noi theo.
 
@@ -51,6 +51,6 @@ Ma quỉ phá hội thánh bằng cách tạo bất hòa. Khi chúng ta không c
 
 ## Kết Luận
 
-Rô-ma 12:18 dạy: *"Nếu có thể được, thì hãy hết sức mình mà hòa thuận với mọi người."* I Giăng 3:23 gắn kết hai điều răn lớn: tin vào Chúa Giê-xu Christ và yêu mến lẫn nhau – như là hai mặt không thể tách rời của cùng một điều răn.
+Rô-ma 12:18 dạy: *"Nếu có thể được, thì hãy hết sức mình mà hòa thuận với mọi người."* I Giăng 3:23 gắn kết hai điều răn lớn: tin vào Đức Chúa Giê-su Christ và yêu mến lẫn nhau – như là hai mặt không thể tách rời của cùng một điều răn.
 
 Trong Chúa, chúng ta không có quyền chọn lựa yêu hay không yêu. Tất cả những ai thuộc về Ngài đều ngồi trên cùng một chuyến tàu hướng về thiên quốc. Chịu đựng nhau không phải là nhu nhược hay tiêu cực, mà là sự nỗ lực để thực thi điều răn yêu thương – yêu như Chúa đã yêu chúng ta, bất chấp mọi sự.

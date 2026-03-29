@@ -50,7 +50,7 @@ Lê-vi ký 19:32-33 còn dạy: trước mặt người tóc bạc hãy đứng 
 
 ## Câu Chuyện Người Sa-ma-ri Nhân Lành
 
-Chúa Giê-su kể về một người lái buôn bị cướp trên đường vắng từ Giê-ru-sa-lem xuống Giê-ri-cô — bị đánh dở sống dở chết, nằm rên rỉ bên đường.
+Đức Chúa Giê-su kể về một người lái buôn bị cướp trên đường vắng từ Giê-ru-sa-lem xuống Giê-ri-cô — bị đánh dở sống dở chết, nằm rên rỉ bên đường.
 
 Một **thầy tế lễ** đi ngang — người có địa vị cao trong đền thờ. Ông thấy người bị nạn, tỏ vẻ thương xót, nhưng nghĩ rằng mình còn phải lên đền thờ làm nhiệm vụ. Ông bỏ đi, hy vọng sẽ có người khác cứu giúp.
 

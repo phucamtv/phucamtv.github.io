@@ -12,13 +12,13 @@ draft: false
 
 {{< youtube "WcCT54iEuXI" >}}
 
-## Lời Quở Trách Của Chúa Giê-su Về Đức Tin
+## Lời Quở Trách Của Đức Chúa Giê-su Về Đức Tin
 
-Trong Ma-thi-ơ 17:20, Chúa Giê-su phán rằng nếu chỉ cần đức tin bằng một hạt cải, chúng ta có thể khiến núi dời đi. Vậy mà ngày hôm nay, chúng ta không dời được điều gì cả. Điều đó cho thấy đức tin của chúng ta đang có vấn đề nghiêm trọng.
+Trong Ma-thi-ơ 17:20, Đức Chúa Giê-su phán rằng nếu chỉ cần đức tin bằng một hạt cải, chúng ta có thể khiến núi dời đi. Vậy mà ngày hôm nay, chúng ta không dời được điều gì cả. Điều đó cho thấy đức tin của chúng ta đang có vấn đề nghiêm trọng.
 
 Chúa không quở trách những người xa lạ — Ngài quở trách chính các môn đệ thân yêu, những người được chọn, cùng sống với Ngài, chứng kiến mọi phép lạ. Trong cơn bão giữa biển (Ma-thi-ơ 8:26), Ngài phán: "Hỡi kẻ ít đức tin kia, cớ sao các ngươi sợ?" Khi Phi-e-rơ chìm xuống nước (Ma-thi-ơ 14:31), Ngài nói: "Hỡi người ít đức tin, sao ngươi hồ nghi?"
 
-Trớ trêu thay, một viên thầy đội người La Mã — người ngoại bang chưa hề biết Chúa — lại khiến Chúa Giê-su kinh ngạc vì đức tin lớn của ông. Những người gần gũi Chúa, chứng kiến phép lạ, đôi khi lại ít đức tin nhất. Điều gì đang ngăn cản đức tin chúng ta phát triển? Phải chăng là sự tự mãn, là thói quen ngủ quên trên danh hiệu cơ đốc nhân của mình?
+Trớ trêu thay, một viên thầy đội người La Mã — người ngoại bang chưa hề biết Chúa — lại khiến Đức Chúa Giê-su kinh ngạc vì đức tin lớn của ông. Những người gần gũi Chúa, chứng kiến phép lạ, đôi khi lại ít đức tin nhất. Điều gì đang ngăn cản đức tin chúng ta phát triển? Phải chăng là sự tự mãn, là thói quen ngủ quên trên danh hiệu cơ đốc nhân của mình?
 
 ## Không Có Đức Tin Thì Không Đẹp Lòng Chúa
 

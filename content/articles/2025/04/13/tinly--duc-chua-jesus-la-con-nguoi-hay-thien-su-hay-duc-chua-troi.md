@@ -1,5 +1,5 @@
 ---
-title: "Đức Chúa Jesus là con người, hay thiên sứ, hay Đức Chúa Trời?"
+title: "Đức Chúa Giê-su là con người, hay thiên sứ, hay Đức Chúa Trời?"
 date: 2025-04-13
 description: "Tra xét Thánh Kinh qua bốn cấp bậc: Đức Chúa Trời, thiên sứ, con người, súc vật -- Đức Chúa Giêsu hiện diện ở mọi cấp bậc, chứng minh Ngài chính là Thiên Chúa."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh", "Đức Chúa Giêsu"]

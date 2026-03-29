@@ -32,15 +32,15 @@ Chúa không chỉ kêu gọi chúng ta yêu hòa bình mà phải tích cực l
 
 Như Abraham Lincoln đã nói: hãy nhổ cỏ và trồng hoa vào chỗ đó. Đừng để trống sau khi loại bỏ điều xấu, vì điều xấu tự nó sẽ phát triển trở lại. Hãy bắt đầu từ gia đình mình, rồi lan tỏa đến hội thánh và xã hội.
 
-Đặc biệt, trong tám phước lành, chỉ riêng phước thứ bảy này mang phần thưởng: được gọi là con Đức Chúa Trời. Đây là vị trí vinh dự nhất, vì chính Con Đức Chúa Trời — Chúa Giê-su — là Đấng làm cho Đức Chúa Trời hòa thuận với loài người và loài người hòa thuận với nhau. Ai làm cho người hòa thuận là đang bước theo chính con đường của Chúa Cứu Thế.
+Đặc biệt, trong tám phước lành, chỉ riêng phước thứ bảy này mang phần thưởng: được gọi là con Đức Chúa Trời. Đây là vị trí vinh dự nhất, vì chính Con Đức Chúa Trời — Đức Chúa Giê-su — là Đấng làm cho Đức Chúa Trời hòa thuận với loài người và loài người hòa thuận với nhau. Ai làm cho người hòa thuận là đang bước theo chính con đường của Chúa Cứu Thế.
 
 ---
 
 ## Phước Cho Những Kẻ Chịu Bắt Bớ Vì Sự Công Bình (Ma-thi-ơ 5:10-12)
 
-Chúa Giê-su không bao giờ giấu các môn đồ về những khó khăn phía trước. Ngài không trải thảm hoa trên con đường theo Chúa. Cơ Đốc giáo mang đến khó khăn trong công việc khi chúng ta không chấp nhận gian dối. Cơ Đốc giáo xáo trộn các mối quan hệ xã hội khi chúng ta không còn ăn nhậu, chửi thề, chơi bời như trước. Và Cơ Đốc giáo có thể gây chia rẽ ngay trong gia đình khi người thân không chấp nhận đức tin mới.
+Đức Chúa Giê-su không bao giờ giấu các môn đồ về những khó khăn phía trước. Ngài không trải thảm hoa trên con đường theo Chúa. Cơ Đốc giáo mang đến khó khăn trong công việc khi chúng ta không chấp nhận gian dối. Cơ Đốc giáo xáo trộn các mối quan hệ xã hội khi chúng ta không còn ăn nhậu, chửi thề, chơi bời như trước. Và Cơ Đốc giáo có thể gây chia rẽ ngay trong gia đình khi người thân không chấp nhận đức tin mới.
 
-Lịch sử Hội Thánh đầu tiên ghi lại những cuộc bách hại kinh hoàng dưới thời La Mã. Bạo chúa Nero đã bày ra những hình phạt tàn khốc dành cho các Cơ Đốc nhân — gói người trong nhựa chai làm đuốc, khâu vào da thú cho sói xé, nấu chì đổ lên thân thể — chỉ vì họ từ chối thờ Sê-sa và trung thành với đức tin nơi Chúa Giê-su.
+Lịch sử Hội Thánh đầu tiên ghi lại những cuộc bách hại kinh hoàng dưới thời La Mã. Bạo chúa Nero đã bày ra những hình phạt tàn khốc dành cho các Cơ Đốc nhân — gói người trong nhựa chai làm đuốc, khâu vào da thú cho sói xé, nấu chì đổ lên thân thể — chỉ vì họ từ chối thờ Sê-sa và trung thành với đức tin nơi Đức Chúa Giê-su.
 
 Nhưng sự bắt bớ vì danh Chúa mang bốn ý nghĩa tích cực: đó là cơ hội bày tỏ lòng trung thành công khai với Đức Chúa Trời; là đi trên con đường mà các bậc tiền bối từ A-bên trở đi đã bước; là được dự phần trong chương trình vĩ đại của Ngài; và là sự chịu đựng cho các thế hệ tiếp theo, không bao giờ cô đơn.
 

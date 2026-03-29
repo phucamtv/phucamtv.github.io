@@ -43,6 +43,6 @@ Thi Thiên 42:1 bày tỏ tấm lòng khao khát Chúa như con nai cái thèm k
 
 Cơ trưởng thông báo thực đơn phục vụ suốt chuyến bay gồm tình bạn, sức khỏe, thịnh vượng, tin tốt lành, thành công, hạnh phúc và tiếng cười. Câu hỏi đặt ra là chúng ta chọn đưa vào lòng mình những dưỡng chất nào: tình bạn hay oán hận, sức khỏe hay chán chường, hạnh phúc hay cay đắng?
 
-Chất dinh dưỡng nào đưa vào cơ thể sẽ nuôi cơ thể theo cách đó. Về đời sống thuộc linh, những gì chúng ta nghe và thấy qua hai cánh cửa là lỗ tai và đôi mắt sẽ đi vào tâm trí. Nếu chứa đầy oán hận, mặc cảm, cay đắng thì cuộc sống sẽ chết dần. Chúa Giê-xu phán trong Giăng 4:32 rằng Ngài có một thứ lương thực mà người ta không biết. Phục Truyền Luật Lệ Ký 8:3 khẳng định loài người sống chẳng phải nhờ bánh mà thôi, nhưng nhờ mọi lời bởi miệng Đức Giê-hô-va mà ra.
+Chất dinh dưỡng nào đưa vào cơ thể sẽ nuôi cơ thể theo cách đó. Về đời sống thuộc linh, những gì chúng ta nghe và thấy qua hai cánh cửa là lỗ tai và đôi mắt sẽ đi vào tâm trí. Nếu chứa đầy oán hận, mặc cảm, cay đắng thì cuộc sống sẽ chết dần. Đức Chúa Giê-su phán trong Giăng 4:32 rằng Ngài có một thứ lương thực mà người ta không biết. Phục Truyền Luật Lệ Ký 8:3 khẳng định loài người sống chẳng phải nhờ bánh mà thôi, nhưng nhờ mọi lời bởi miệng Đức Giê-hô-va mà ra.
 
 Hãy nuôi mình bằng lời Chúa, bằng tình yêu, hạnh phúc, sự tha thứ và cảm thông. Chính những dưỡng chất tốt lành ấy sẽ giúp chúng ta lớn lên trong Chúa Cứu Thế và hoàn thành tốt đẹp chuyến bay cuộc đời mình.

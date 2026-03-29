@@ -27,11 +27,11 @@ Tiệc Thánh không phải do con người nghĩ ra. Chính Đức Chúa Giê-s
 
 ### 2. Đánh Dấu Một Giao Ước
 
-Giao ước là sự cam kết giữa hai bên, giống như một hợp đồng được ký kết và công chứng. Đức Chúa Trời đã hạ mình xuống để lập giao ước với con người. Và huyết của Chúa Giê-su chính là "con dấu đỏ" xác nhận giao ước ấy — mọi điều Ngài hứa với chúng ta, Ngài sẽ thực hiện. Như Hê-bơ-rơ 10:16 chép rằng Chúa sẽ để luật pháp Ngài vào lòng chúng ta và ghi tạc nơi trí khôn.
+Giao ước là sự cam kết giữa hai bên, giống như một hợp đồng được ký kết và công chứng. Đức Chúa Trời đã hạ mình xuống để lập giao ước với con người. Và huyết của Đức Chúa Giê-su chính là "con dấu đỏ" xác nhận giao ước ấy — mọi điều Ngài hứa với chúng ta, Ngài sẽ thực hiện. Như Hê-bơ-rơ 10:16 chép rằng Chúa sẽ để luật pháp Ngài vào lòng chúng ta và ghi tạc nơi trí khôn.
 
 ### 3. Thực Đơn Là Chính Ngài
 
-Thực đơn của các bữa tiệc thường là cơm, thịt, cá — những món ăn vật chất. Nhưng thực đơn của Tiệc Thánh là chính thân thể và huyết của Chúa Giê-su. Đây là nghĩa bóng chỉ về sự hy sinh trọn vẹn của Ngài trên thập tự giá. Khi chúng ta ăn bánh và uống nước nho trong Tiệc Thánh, chúng ta tưởng nhớ rằng Ngài đã phó chính thân thể mình vì chúng ta.
+Thực đơn của các bữa tiệc thường là cơm, thịt, cá — những món ăn vật chất. Nhưng thực đơn của Tiệc Thánh là chính thân thể và huyết của Đức Chúa Giê-su. Đây là nghĩa bóng chỉ về sự hy sinh trọn vẹn của Ngài trên thập tự giá. Khi chúng ta ăn bánh và uống nước nho trong Tiệc Thánh, chúng ta tưởng nhớ rằng Ngài đã phó chính thân thể mình vì chúng ta.
 
 ### 4. Kèm Theo Hai Mệnh Lệnh
 
@@ -43,7 +43,7 @@ Sứ đồ Phao-lô đã nghiêm khắc cảnh cáo Hội Thánh Cô-rinh-tô v�
 
 ### 6. Kèm Theo Một Lời Hứa
 
-Chúa Giê-su hứa rằng Ngài sẽ không uống nước nho này nữa cho đến ngày Ngài cùng chúng ta uống mới trong nước Thiên Đàng (Ma-thi-ơ 26:29). Đây là lời hứa về sự tái lâm vinh hiển và bữa tiệc vĩnh cửu trong nước Đức Chúa Trời.
+Đức Chúa Giê-su hứa rằng Ngài sẽ không uống nước nho này nữa cho đến ngày Ngài cùng chúng ta uống mới trong nước Thiên Đàng (Ma-thi-ơ 26:29). Đây là lời hứa về sự tái lâm vinh hiển và bữa tiệc vĩnh cửu trong nước Đức Chúa Trời.
 
 ## Thái Độ Đúng Đắn Khi Dự Tiệc Thánh
 
@@ -51,7 +51,7 @@ Chúa Giê-su hứa rằng Ngài sẽ không uống nước nho này nữa cho �
 
 Khi dự Tiệc Thánh, chúng ta được kéo vào mối quan hệ đặc biệt giữa loài thọ tạo nhỏ bé và Đấng Sáng Tạo vĩ đại. Đức Chúa Trời — Đấng dựng nên cả vũ trụ bao la với hàng tỷ tinh cầu — lại muốn có mối liên hệ với con người chúng ta. Dù tội lỗi đã tạo sự ngăn cách, nhưng Ngài đã giang tay ra đón nhận chúng ta trở lại, như lời Giê-rê-mi 3:12: Chúa sẽ không lấy nét mặt giận nhìn chúng ta, vì Ngài hay thương xót và chẳng ngậm giận đời đời.
 
-Cuộc sống đầy áp lực — có người mất ngủ, có người khóc suốt đêm, có người đang lo bệnh tật, nợ nần. Nhưng Chúa Giê-su mời gọi trong Ma-thi-ơ 11:28: Hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các ngươi được yên nghỉ. Tiệc Thánh chính là dịp để chúng ta mang mọi gánh nặng đến với Chúa và tìm được sự bình an trong Ngài.
+Cuộc sống đầy áp lực — có người mất ngủ, có người khóc suốt đêm, có người đang lo bệnh tật, nợ nần. Nhưng Đức Chúa Giê-su mời gọi trong Ma-thi-ơ 11:28: Hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các ngươi được yên nghỉ. Tiệc Thánh chính là dịp để chúng ta mang mọi gánh nặng đến với Chúa và tìm được sự bình an trong Ngài.
 
 ### Nhớ Lại Giao Ước Và Tự Xét Mình
 

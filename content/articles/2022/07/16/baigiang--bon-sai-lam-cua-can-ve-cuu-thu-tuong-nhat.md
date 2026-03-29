@@ -33,7 +33,7 @@ Khi Sa-tan tiếp cận Ê-va, A-đam ở đâu? Ê-va đã rời xa chồng mì
 
 Giống như con chiên non rời khỏi bầy, tưởng rằng mình tìm được tự do, nhưng đó chính là lúc sói rình rập. Nhiều người nghĩ rằng nghỉ đi nhà thờ vài tháng không sao, nhưng rồi một dự án mới lại kéo đến và khoảng cách với Chúa ngày càng xa hơn. Phục Truyền 13:10 cảnh cáo rằng kẻ nào làm cho dân sự Chúa xa cách Chúa thì phải bị xử phạt nặng nề.
 
-Chúa Giê-su trong Giăng 17:11 đã tha thiết cầu nguyện: "Cha Thánh ơi, xin gìn giữ họ trong danh Cha, để họ cũng hiệp làm một như chúng ta." Nhưng Giê-rê-mi 12:2 cũng cảnh báo: miệng họ ở gần Ngài song lòng họ cách xa Ngài. Chúng ta cần xem lại khoảng cách thật sự giữa mình với Chúa có còn an toàn hay không.
+Đức Chúa Giê-su trong Giăng 17:11 đã tha thiết cầu nguyện: "Cha Thánh ơi, xin gìn giữ họ trong danh Cha, để họ cũng hiệp làm một như chúng ta." Nhưng Giê-rê-mi 12:2 cũng cảnh báo: miệng họ ở gần Ngài song lòng họ cách xa Ngài. Chúng ta cần xem lại khoảng cách thật sự giữa mình với Chúa có còn an toàn hay không.
 
 ## Sai lầm thứ ba: thái độ lưỡng lự
 

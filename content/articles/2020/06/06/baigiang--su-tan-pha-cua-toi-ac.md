@@ -44,4 +44,4 @@ Tội lỗi giống như bệnh ung thư. Nó âm thầm ăn mòn từng bộ ph
 
 Thế nhưng Đức Chúa Trời không nóng giận hủy diệt ngay. Ngài chấp nhận chịu đau khổ, kiên nhẫn chờ đợi để tội lỗi bộc lộ hết bản chất tồi tệ của nó — để cuối cùng cả vũ trụ đều nhận ra tội ác là gì. Tình yêu và sự khoan dung của Đức Chúa Trời lớn lao hơn bất cứ ngôn từ nào có thể miêu tả.
 
-Mục đích của Đức Chúa Trời khi ban Chúa Giê-su đến cho chúng ta không chỉ là tha thứ tội lỗi bởi dòng huyết vô tội của Ngài, mà còn là **phục hồi bản tính tốt đẹp** mà Ngài đã đặt trong con người từ thuở ban đầu. Rô-ma 3:23 nói: *"Mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời."* Nhưng tin lành là Chúa đến để phục hồi điều đã mất ấy. Đó là chủ đích cao cả nhất của đức tin.
+Mục đích của Đức Chúa Trời khi ban Đức Chúa Giê-su đến cho chúng ta không chỉ là tha thứ tội lỗi bởi dòng huyết vô tội của Ngài, mà còn là **phục hồi bản tính tốt đẹp** mà Ngài đã đặt trong con người từ thuở ban đầu. Rô-ma 3:23 nói: *"Mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời."* Nhưng tin lành là Chúa đến để phục hồi điều đã mất ấy. Đó là chủ đích cao cả nhất của đức tin.

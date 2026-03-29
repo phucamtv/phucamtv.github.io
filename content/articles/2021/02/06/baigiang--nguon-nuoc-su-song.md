@@ -18,7 +18,7 @@ draft: false
 
 Điều đáng chú ý đầu tiên là dòng nước này bắt nguồn từ đền thờ. Đền thờ là nơi Đức Chúa Trời gặp gỡ dân sự Ngài, là nơi con cái Chúa thờ phượng và tôn vinh Ngài. Nếu con sông này là nguồn của phước hạnh, nguồn của sức mạnh, nguồn của quyền năng, thì tất cả đều bắt nguồn từ mối tương giao với Đức Chúa Trời.
 
-Chúa Giê-su đã khẳng định trong Giăng 4:23 rằng giờ đã đến khi những kẻ thờ phượng thật sẽ lấy tâm thần và lẽ thật mà thờ phượng Cha. Sự thờ phượng thật không nằm ở một ngọn núi nào, không thuộc về một giáo hội nào, mà là tấm lòng kính sợ Chúa kết hợp với lẽ thật của Kinh Thánh. Nhiều người tìm kiếm năng lực, sức mạnh và niềm vui từ những thứ của thế gian này, nhưng Kinh Thánh cho biết nguồn sống thật sự đến từ sự thờ phượng, sự cầu nguyện và sự học hỏi Lời Chúa.
+Đức Chúa Giê-su đã khẳng định trong Giăng 4:23 rằng giờ đã đến khi những kẻ thờ phượng thật sẽ lấy tâm thần và lẽ thật mà thờ phượng Cha. Sự thờ phượng thật không nằm ở một ngọn núi nào, không thuộc về một giáo hội nào, mà là tấm lòng kính sợ Chúa kết hợp với lẽ thật của Kinh Thánh. Nhiều người tìm kiếm năng lực, sức mạnh và niềm vui từ những thứ của thế gian này, nhưng Kinh Thánh cho biết nguồn sống thật sự đến từ sự thờ phượng, sự cầu nguyện và sự học hỏi Lời Chúa.
 
 Thi-thiên 84:7 chép rằng họ đi tới, sức lực lần lần thêm, ai nấy đều ra mắt Đức Chúa Trời tại Si-ôn. Không chỉ sức lực được thêm lên, mà đích đến cuối cùng của cuộc hành trình ấy chính là Đức Chúa Trời.
 
@@ -40,7 +40,7 @@ Xa-cha-ri 2:1-2 cũng ghi lại khải tượng về một người cầm dây �
 
 Tại sao không đo một lần cho xong mà phải chia thành nhiều chặng? Bởi vì nếu cứ đứng yên một chỗ, nước mãi mãi chỉ đến mắt cá mà thôi. Đời sống tâm linh đòi hỏi sự trưởng thành, đòi hỏi phải bước đi liên tục. Sự tự mãn chính là kẻ thù lớn nhất giữ chân người tin Chúa: nghĩ rằng mình đã đủ tốt, đã đủ mạnh mẽ, đã hơn người khác. Khi tự mãn bao phủ, phép lạ không thể xảy ra.
 
-Chúa Giê-su phán cùng người bại 38 năm trong Giăng 5:8 rằng hãy đứng dậy, vác giường ngươi và đi. Người con trai hoang đàng trong Lu-ca 15 cũng phải đứng dậy thật sự, không chỉ nghĩ trong đầu mà phải hành động, mới được phục hồi trở lại làm con. Càng bước đi trong nguồn sống của Chúa, chúng ta càng được dầm thấm trong phước hạnh của Ngài, cho đến khi không còn bước mà phải bơi trong dòng sông ân điển bất tận.
+Đức Chúa Giê-su phán cùng người bại 38 năm trong Giăng 5:8 rằng hãy đứng dậy, vác giường ngươi và đi. Người con trai hoang đàng trong Lu-ca 15 cũng phải đứng dậy thật sự, không chỉ nghĩ trong đầu mà phải hành động, mới được phục hồi trở lại làm con. Càng bước đi trong nguồn sống của Chúa, chúng ta càng được dầm thấm trong phước hạnh của Ngài, cho đến khi không còn bước mà phải bơi trong dòng sông ân điển bất tận.
 
 ---
 

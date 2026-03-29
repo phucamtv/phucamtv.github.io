@@ -2,7 +2,7 @@
 title: "Nếu Chúa Không Giáng Trần?"
 date: 2016-05-07
 url: /baigiang/neu-chua-khong-giang-tran/
-description: "Nếu Chúa Cứu Thế Giê-su không giáng trần, con người sẽ mãi sống trong bóng tối tội lỗi, tuyệt vọng và không có lối thoát. Mục sư Dương Quang Thoại dùng triết lý âm nhạc Trịnh Công Sơn để khắc họa thân phận con người, rồi chỉ ra rằng Chúa Giê-su — Con Đức Chúa Trời — là giải pháp duy nhất đưa con người từ tuyệt vọng đến niềm hy vọng."
+description: "Nếu Chúa Cứu Thế Giê-su không giáng trần, con người sẽ mãi sống trong bóng tối tội lỗi, tuyệt vọng và không có lối thoát. Mục sư Dương Quang Thoại dùng triết lý âm nhạc Trịnh Công Sơn để khắc họa thân phận con người, rồi chỉ ra rằng Đức Chúa Giê-su — Con Đức Chúa Trời — là giải pháp duy nhất đưa con người từ tuyệt vọng đến niềm hy vọng."
 tags: ["Giáng Sinh", "Sự Cứu Rỗi", "Tội Lỗi", "Hy Vọng", "Truyền Giảng", "Thân Phận Con Người"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -62,7 +62,7 @@ Thượng Đế chứng kiến A-đam và Ê-va phạm tội, đau khổ, và ch
 
 Khi một người thân của chúng ta rơi vào ngục tù, nghiện ngập, hay sống dở chết dở — nếu có quyền lực, chúng ta sẽ bằng mọi cách giải cứu họ. Thượng Đế có quyền năng vô hạn. Ngài không thể im lặng trước nỗi khổ của con người yêu dấu.
 
-### Giải Pháp Duy Nhất: Chúa Giê-su Giáng Trần
+### Giải Pháp Duy Nhất: Đức Chúa Giê-su Giáng Trần
 
 Và đây là điều Ngài đã làm: sai Con Một của Ngài — Đức Chúa Giê-su — từ trời đến thế gian, mang thân phận của một con người, để cảm thông với mọi nỗi đau khổ mà chúng ta chịu, và để cứu chúng ta.
 
@@ -76,7 +76,7 @@ Người tù trưởng da đỏ đã giải thích lý do ông tin Chúa bằng 
 
 Đó là lý do tại sao ông tin Chúa.
 
-Chỉ có sợi dây từ *bên ngoài* mới kéo được người đang chìm trong vực thẳm lên. Chúa Giê-su là sợi dây đó — Ngài đến từ bên ngoài thế giới tội lỗi này, không bị ô nhiễm bởi tội, để kéo chúng ta ra.
+Chỉ có sợi dây từ *bên ngoài* mới kéo được người đang chìm trong vực thẳm lên. Đức Chúa Giê-su là sợi dây đó — Ngài đến từ bên ngoài thế giới tội lỗi này, không bị ô nhiễm bởi tội, để kéo chúng ta ra.
 
 ---
 
@@ -84,7 +84,7 @@ Chỉ có sợi dây từ *bên ngoài* mới kéo được người đang chìm
 
 ### Hòa Bình Giữa Con Người Và Đức Chúa Trời
 
-Cô-lô-se 1:20 viết: *"Bởi huyết Ngài trên thập tự giá thì đã làm nên hòa bình, khiến muôn vật dưới đất trên trời đều nhờ Ngài mà hòa thuận cùng chính Đức Chúa Trời."* Sự ngăn cách do tội lỗi tạo ra đã được Chúa Giê-su phá vỡ trên thập tự giá. Con người giờ đây có thể mạnh dạn đến với Đức Chúa Trời — không còn phải trốn tránh như A-đam và Ê-va.
+Cô-lô-se 1:20 viết: *"Bởi huyết Ngài trên thập tự giá thì đã làm nên hòa bình, khiến muôn vật dưới đất trên trời đều nhờ Ngài mà hòa thuận cùng chính Đức Chúa Trời."* Sự ngăn cách do tội lỗi tạo ra đã được Đức Chúa Giê-su phá vỡ trên thập tự giá. Con người giờ đây có thể mạnh dạn đến với Đức Chúa Trời — không còn phải trốn tránh như A-đam và Ê-va.
 
 ### Ánh Sáng Trong Bóng Tối
 

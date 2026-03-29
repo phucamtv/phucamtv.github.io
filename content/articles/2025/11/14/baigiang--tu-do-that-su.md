@@ -32,11 +32,11 @@ Khi Chúa tạo dựng con người, Ngài đặt ba giới hạn nền tảng n
 
 ## Ba Giới Hạn Nền Tảng
 
-**Thứ nhất — Hôn nhân:** Chúa tạo dựng người nam và người nữ, ban hôn nhân là mối quan hệ một vợ một chồng, suốt đời. Chúa Giê-su trong Ma-thi-ơ 19:4-6 xác nhận lại điều này: *"Vì cớ đó người nam sẽ lìa cha mẹ và dính díu với vợ mình, hai người sẽ cùng nên một thịt."* Khi con người vượt qua giới hạn này — tự do yêu đương không giới hạn, hôn nhân đồng giới, ly dị tùy tiện — hậu quả là gia đình sụp đổ, và khi gia đình sụp đổ, xã hội tất yếu sụp đổ theo. Lịch sử các đế quốc từ thời cổ đã cho thấy điều đó.
+**Thứ nhất — Hôn nhân:** Chúa tạo dựng người nam và người nữ, ban hôn nhân là mối quan hệ một vợ một chồng, suốt đời. Đức Chúa Giê-su trong Ma-thi-ơ 19:4-6 xác nhận lại điều này: *"Vì cớ đó người nam sẽ lìa cha mẹ và dính díu với vợ mình, hai người sẽ cùng nên một thịt."* Khi con người vượt qua giới hạn này — tự do yêu đương không giới hạn, hôn nhân đồng giới, ly dị tùy tiện — hậu quả là gia đình sụp đổ, và khi gia đình sụp đổ, xã hội tất yếu sụp đổ theo. Lịch sử các đế quốc từ thời cổ đã cho thấy điều đó.
 
 **Thứ hai — Thức ăn:** Ngay từ đầu Chúa chỉ định thức ăn cho con người là hoa quả cây cỏ. Sau đại hồng thủy, Chúa mới cho phép ăn thịt động vật — nhưng kèm theo phân biệt rõ ràng loài sạch và loài không sạch. Ê-sai 65 và 66 ghi lại lời Đức Chúa Trời nghiêm khắc về những kẻ ăn thịt heo và những đồ ăn gớm ghiếc. Nhiều Cơ Đốc nhân ngày nay cho rằng ân điển Tân Ước đã giải phóng họ khỏi mọi quy định thức ăn — nhưng sứ điệp này nhắc lại rằng Kinh Thánh không hề bãi bỏ những nguyên tắc đó. Thực tế khoa học hiện đại cũng xác nhận: hầu hết bệnh tật đều đến từ thức ăn và cách ăn uống.
 
-**Thứ ba — Ngày Sa-bát:** Sáng-thế Ký 2:1-3 ghi Chúa nghỉ ngơi ngày thứ bảy, ban phước và biệt nó ra thánh. Xuất Ê-díp-tô Ký 20:8-11 lập ngày nghỉ thành điều răn thứ tư trong mười điều răn — không phải cho riêng dân Y-sơ-ra-ên, mà là nguyên tắc cho toàn thể loài người. Ê-sai 66:22-23 cho biết đến trời mới đất mới, mọi xác thịt vẫn đến thờ lạy Chúa từ ngày Sa-bát nọ đến ngày Sa-bát kia. Chúa Giê-su xuống thế 33 năm rưỡi mà không một lần tuyên bố bãi bỏ ngày Sa-bát — điều đó có ý nghĩa rõ ràng.
+**Thứ ba — Ngày Sa-bát:** Sáng-thế Ký 2:1-3 ghi Chúa nghỉ ngơi ngày thứ bảy, ban phước và biệt nó ra thánh. Xuất Ê-díp-tô Ký 20:8-11 lập ngày nghỉ thành điều răn thứ tư trong mười điều răn — không phải cho riêng dân Y-sơ-ra-ên, mà là nguyên tắc cho toàn thể loài người. Ê-sai 66:22-23 cho biết đến trời mới đất mới, mọi xác thịt vẫn đến thờ lạy Chúa từ ngày Sa-bát nọ đến ngày Sa-bát kia. Đức Chúa Giê-su xuống thế 33 năm rưỡi mà không một lần tuyên bố bãi bỏ ngày Sa-bát — điều đó có ý nghĩa rõ ràng.
 
 ---
 
@@ -52,7 +52,7 @@ A-đam và Ê-va đã ăn trái cấm, và sự chết đã xâm nhập vào th�
 
 Tại sao Chúa để cây biết điều thiện và điều ác ngay giữa vườn? Nếu không có cây đó, con người không có cơ hội phạm tội — nhưng cũng không có tự do. Tự do thật sự phải bao gồm quyền lựa chọn. Chúa muốn con người yêu Ngài và vâng lời Ngài bằng ý chí tự do — không phải vì bị ép buộc.
 
-Chúa Giê-su cũng đưa ra hai con đường: cửa rộng và cửa hẹp, đường dẫn đến hủy diệt và đường dẫn đến sự sống. Chúa không áp đặt — Ngài mời gọi. Nhưng Ngài cũng không che giấu hậu quả của mỗi sự chọn lựa.
+Đức Chúa Giê-su cũng đưa ra hai con đường: cửa rộng và cửa hẹp, đường dẫn đến hủy diệt và đường dẫn đến sự sống. Chúa không áp đặt — Ngài mời gọi. Nhưng Ngài cũng không che giấu hậu quả của mỗi sự chọn lựa.
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Thế Giới Thay Đổi, Ứng Nghiệm Lời Tiên Tri"
 date: 2026-02-28
 url: /baigiang/the-gioi-thay-doi-ung-nghiem-loi-tien-tri/
-description: "Nghiên cứu Ma-thi-ơ 24:3-42 và các lời tiên tri trong Kinh Thánh đang ứng nghiệm qua các sự kiện thế giới: chiến tranh, đói kém, lòng nguội lạnh, Tin Lành được rao truyền khắp nơi, và sự tiến bộ vượt bực của khoa học — tất cả chỉ về ngày Chúa Giê-su tái lâm đã gần."
+description: "Nghiên cứu Ma-thi-ơ 24:3-42 và các lời tiên tri trong Kinh Thánh đang ứng nghiệm qua các sự kiện thế giới: chiến tranh, đói kém, lòng nguội lạnh, Tin Lành được rao truyền khắp nơi, và sự tiến bộ vượt bực của khoa học — tất cả chỉ về ngày Đức Chúa Giê-su tái lâm đã gần."
 tags: ["Sự Tái Lâm", "Lời Tiên Tri", "Ma-thi-ơ 24", "Đa-ni-ên", "Ngày Cuối Cùng", "Tỉnh Thức", "Hy Vọng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -54,7 +54,7 @@ Những người có Kinh Thánh **không bị bất ngờ** bởi những sự 
 
 > *"Lại vì cớ tội ác sẽ thêm nhiều thì lòng yêu mến của phần nhiều người sẽ nguội lạnh. Nhưng kẻ nào bền chí cho đến cuối cùng thì sẽ được cứu."*
 
-Đây là lời cảnh báo đáng sợ cho chính những người tin Chúa. Không phải hội thánh sẽ ngày càng mạnh, tình yêu thương ngày càng tăng — mà Chúa Giê-su cảnh báo rằng ngay giữa anh em con cái Chúa sẽ có sự phản nghịch, ghen ghét lẫn nhau. Ma quỷ sẽ dỗ dành chính những người đang chờ đợi Chúa trở lại.
+Đây là lời cảnh báo đáng sợ cho chính những người tin Chúa. Không phải hội thánh sẽ ngày càng mạnh, tình yêu thương ngày càng tăng — mà Đức Chúa Giê-su cảnh báo rằng ngay giữa anh em con cái Chúa sẽ có sự phản nghịch, ghen ghét lẫn nhau. Ma quỷ sẽ dỗ dành chính những người đang chờ đợi Chúa trở lại.
 
 II Ti-mô-thê 3:1-5 liệt kê bản thống kê tội ác của thời kỳ cuối: *tự kỷ, tham lam, khoe khoang, xấc xược, hay nói xấu, nghịch cha mẹ, bội bạc, không tin kính, vô tình, khó hòa thuận, không tiết độ, dữ tợn, thù người lành, phản bạn, nóng giận, kiêu ngạo, ưa thích sự vui chơi hơn yêu mến Đức Chúa Trời, đạo đức giả.* Đọc danh sách này, chúng ta không chỉ thấy thế giới — chúng ta cũng thấy chính mình trong đó.
 
@@ -64,7 +64,7 @@ II Ti-mô-thê 3:1-5 liệt kê bản thống kê tội ác của thời kỳ cu
 
 > *"Tin lành này về nước Đức Chúa Trời sẽ được giảng ra khắp đất để làm chứng cho muôn dân. Bấy giờ sự cuối cùng sẽ đến."*
 
-Chúa Giê-su nói ngài về trời ích lợi hơn — vì khi còn trong thân xác, Ngài bị giới hạn về không gian. Nhưng khi Đức Thánh Linh đến, Ngài ở khắp mọi nơi cùng một lúc. Ngày nay, chỉ cần một chiếc điện thoại thông minh, người ta có thể nghe Lời Chúa, đọc Kinh Thánh, tìm hiểu giải nghĩa bất cứ lúc nào. Khó ai trong thế kỷ 21 này có thể nói *"tôi chưa bao giờ nghe về Đức Chúa Giê-su."* Tin Lành đã được rao giảng — lời tiên tri này đang được ứng nghiệm.
+Đức Chúa Giê-su nói ngài về trời ích lợi hơn — vì khi còn trong thân xác, Ngài bị giới hạn về không gian. Nhưng khi Đức Thánh Linh đến, Ngài ở khắp mọi nơi cùng một lúc. Ngày nay, chỉ cần một chiếc điện thoại thông minh, người ta có thể nghe Lời Chúa, đọc Kinh Thánh, tìm hiểu giải nghĩa bất cứ lúc nào. Khó ai trong thế kỷ 21 này có thể nói *"tôi chưa bao giờ nghe về Đức Chúa Giê-su."* Tin Lành đã được rao giảng — lời tiên tri này đang được ứng nghiệm.
 
 ### Các Dân Tộc Sầu Não Rối Loạn (Lu-ca 21:25)
 
@@ -82,9 +82,9 @@ Ma-thi-ơ 24:32-33:
 
 > *"Hãy nghe lời thí dụ về cây vả: vừa lúc nhành non lá mới đâm thì các ngươi biết mùa hạ gần tới. Cũng vậy, khi các ngươi thấy mọi điều ấy, khá biết rằng Con người gần đến, ngài đương ở trước cửa."*
 
-Chúa đang đứng trước cửa — không phải ngoài sân, không phải xa đằng kia. Chỉ còn mở cửa ra là Ngài xuất hiện. Với những dấu hiệu đang xảy ra, Chúa Giê-su nói: *chỉ còn tích tắc nữa thôi*.
+Chúa đang đứng trước cửa — không phải ngoài sân, không phải xa đằng kia. Chỉ còn mở cửa ra là Ngài xuất hiện. Với những dấu hiệu đang xảy ra, Đức Chúa Giê-su nói: *chỉ còn tích tắc nữa thôi*.
 
-Ma-thi-ơ 24:36 cũng khẳng định rõ: *"Về ngày và giờ đó, chẳng có ai biết chi cả, thiên sứ trên trời hay là chính Con cũng vậy, song chỉ một mình Cha biết mà thôi."* **Xác định ngày Chúa tái lâm là tà giáo, phản Kinh Thánh, và xúc phạm đến chính Chúa Giê-su.** Điều này áp dụng cho mọi cá nhân hay tổ chức dám ấn định ngày cụ thể.
+Ma-thi-ơ 24:36 cũng khẳng định rõ: *"Về ngày và giờ đó, chẳng có ai biết chi cả, thiên sứ trên trời hay là chính Con cũng vậy, song chỉ một mình Cha biết mà thôi."* **Xác định ngày Chúa tái lâm là tà giáo, phản Kinh Thánh, và xúc phạm đến chính Đức Chúa Giê-su.** Điều này áp dụng cho mọi cá nhân hay tổ chức dám ấn định ngày cụ thể.
 
 Ma-thi-ơ 24:40 đưa ra một hình ảnh nghiêm trọng: *"Lúc ấy sẽ có hai người nam ở trong đồng ruộng, một người được đem đi, một người bị để lại."* Hai người làm việc giống hệt nhau — chỉ có Chúa biết sự khác biệt bên trong. Cha không cứu được con, chồng không cứu được vợ. Mỗi người phải tự quyết định mối quan hệ của mình với Chúa.
 

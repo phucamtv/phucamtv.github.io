@@ -34,19 +34,19 @@ Vua Đa-vít — người đã đưa dân Israel đến thời kỳ vàng son, n
 
 **Đa-ni-ên:** Sống giữa đất nước xa lạ, gìn giữ đức tin trung thành trong hoàn cảnh áp bức — đơn độc theo một nghĩa khác nhưng không kém phần nặng nề.
 
-### Chúa Giê-su Cũng Từng Đơn Độc
+### Đức Chúa Giê-su Cũng Từng Đơn Độc
 
-Khi Chúa Giê-su đang cầu nguyện trong vườn Ghết-sê-ma-nê, Ngài quay lại thấy ba môn đồ thân thiết nhất đang ngủ. Ngài phán: *"Si-môn, ngủ ư! Ngươi không thức được một giờ sao?"* (Mác 14:37). Rồi đến lúc bị bắt, *"hết thảy môn đồ bỏ Ngài mà trốn đi"* (Ma-thi-ơ 26:56). Và trên thập tự giá, chính Ngài đã thốt lên tiếng kêu của Thi-thiên 22:1: *"Đức Chúa Trời tôi ơi! Đức Chúa Trời tôi ơi! Sao Ngài lìa bỏ tôi?"*
+Khi Đức Chúa Giê-su đang cầu nguyện trong vườn Ghết-sê-ma-nê, Ngài quay lại thấy ba môn đồ thân thiết nhất đang ngủ. Ngài phán: *"Si-môn, ngủ ư! Ngươi không thức được một giờ sao?"* (Mác 14:37). Rồi đến lúc bị bắt, *"hết thảy môn đồ bỏ Ngài mà trốn đi"* (Ma-thi-ơ 26:56). Và trên thập tự giá, chính Ngài đã thốt lên tiếng kêu của Thi-thiên 22:1: *"Đức Chúa Trời tôi ơi! Đức Chúa Trời tôi ơi! Sao Ngài lìa bỏ tôi?"*
 
 Chúa Cứu Thế đã đi qua con đường đơn độc sâu nhất mà không ai có thể thấu hiểu. Ngài biết cảm giác đó là gì.
 
 ### Ngài Đã Làm Gì Khi Đơn Độc?
 
-Dù đơn độc giữa đám đông hay đơn độc giữa đêm tối, Chúa Giê-su luôn hướng đến Cha. *"Xong rồi, Ngài lên núi để cầu nguyện riêng; đến chiều tối, Ngài ở đó một mình"* (Ma-thi-ơ 14:23) — nhưng Ngài có Chúa Cha, nên không thật sự đơn độc. Trong vườn Ghết-sê-ma-nê, Ngài cầu nguyện trong sự vâng phục trọn vẹn: *"Nếu chén nầy không thể lìa khỏi Con được mà Con phải uống, thì xin ý Cha được nên"* (Ma-thi-ơ 26:42).
+Dù đơn độc giữa đám đông hay đơn độc giữa đêm tối, Đức Chúa Giê-su luôn hướng đến Cha. *"Xong rồi, Ngài lên núi để cầu nguyện riêng; đến chiều tối, Ngài ở đó một mình"* (Ma-thi-ơ 14:23) — nhưng Ngài có Chúa Cha, nên không thật sự đơn độc. Trong vườn Ghết-sê-ma-nê, Ngài cầu nguyện trong sự vâng phục trọn vẹn: *"Nếu chén nầy không thể lìa khỏi Con được mà Con phải uống, thì xin ý Cha được nên"* (Ma-thi-ơ 26:42).
 
 ### Chúng Ta Cần Làm Gì Khi Cảm Thấy Đơn Độc?
 
-**Bám chắc lấy lời hứa của Đức Chúa Trời.** Giô-suê 1:9 nhắc nhở: *"Hãy vững lòng bền chí, chớ run sợ, chớ kinh khủng; vì Giê-hô-va Đức Chúa Trời ngươi vẫn ở cùng ngươi trong mọi nơi ngươi đi."* Chúa Giê-su cũng hứa: *"Ta không để cho các ngươi mồ côi đâu, ta sẽ đến cùng các ngươi"* (Giăng 14:18).
+**Bám chắc lấy lời hứa của Đức Chúa Trời.** Giô-suê 1:9 nhắc nhở: *"Hãy vững lòng bền chí, chớ run sợ, chớ kinh khủng; vì Giê-hô-va Đức Chúa Trời ngươi vẫn ở cùng ngươi trong mọi nơi ngươi đi."* Đức Chúa Giê-su cũng hứa: *"Ta không để cho các ngươi mồ côi đâu, ta sẽ đến cùng các ngươi"* (Giăng 14:18).
 
 **Ôn lại những ơn phước đã qua.** Thi-thiên 103:2 dạy: *"Hỡi linh hồn ta, hãy ngợi khen Đức Giê-hô-va, chớ quên các ân huệ của Ngài."* Khi đơn độc, hãy nhớ lại những lần Chúa đã đồng hành, những lần Ngài đã giải cứu và yên ủi.
 
@@ -58,6 +58,6 @@ Dù đơn độc giữa đám đông hay đơn độc giữa đêm tối, Chúa 
 
 Ê-li-sê và các học trò run rẩy khi quân Sy-ri vây hãm Đô-than. Nhưng Ê-li-sê đáp: *"Chớ sợ, những người ở với chúng ta đông hơn những người ở với chúng nó"* (II Các vua 6:16). Đôi mắt thuộc linh được mở ra, họ thấy cả đạo thiên binh bao quanh họ.
 
-Và Chúa Giê-su phán: *"Ví thử các ngươi làm theo điều ta dạy, thì các ngươi là bạn hữu ta"* (Giăng 15:14). Ngài không chỉ là Chúa từ trên cao — Ngài gọi chúng ta là bạn hữu. Hơn thế nữa, Đức Giê-hô-va đã phán qua Giê-rê-mi: *"Ta đã lấy sự yêu thương đời đời mà yêu ngươi; nên đã lấy sự nhân từ mà kéo ngươi đến"* (Giê-rê-mi 31:3).
+Và Đức Chúa Giê-su phán: *"Ví thử các ngươi làm theo điều ta dạy, thì các ngươi là bạn hữu ta"* (Giăng 15:14). Ngài không chỉ là Chúa từ trên cao — Ngài gọi chúng ta là bạn hữu. Hơn thế nữa, Đức Giê-hô-va đã phán qua Giê-rê-mi: *"Ta đã lấy sự yêu thương đời đời mà yêu ngươi; nên đã lấy sự nhân từ mà kéo ngươi đến"* (Giê-rê-mi 31:3).
 
 Sự cô đơn là thật. Cảm giác đơn độc là thật. Nhưng sự hiện diện của Đức Chúa Trời cũng thật — và Ngài thật hơn cả những gì chúng ta cảm nhận được. Hãy bám chắc vào Ngài trong những lúc tâm hồn trống rỗng nhất.

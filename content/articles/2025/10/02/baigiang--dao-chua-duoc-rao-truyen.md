@@ -46,7 +46,7 @@ Chúng ta thấy ba bước kế tiếp: giảng cho người Do Thái thuần t
 
 Điều đặc biệt là Kinh Thánh không ghi tên một người nào cụ thể trong phân đoạn này. "Tay Chúa ở cùng mấy người đó nên số người tin và trở lại cùng Chúa rất nhiều" — chỉ vậy thôi. Những con người vô danh, không có tên tuổi trong sử sách, đã đặt nền móng cho hàng tỷ người tin Chúa trong hai nghìn năm qua. Công việc lớn của Đức Chúa Trời nhiều khi được thực hiện bởi những người làm việc rất âm thầm.
 
-Chúa Giê-su đã dạy: nếu chúng ta cầu nguyện, bố thí, kiêng ăn mà đánh trống thổi kèn thì đã nhận phần thưởng của thế gian rồi, và không còn được nhận phần thưởng của Đức Chúa Trời. Càng làm âm thầm được chừng nào, càng ơn phước chừng đó.
+Đức Chúa Giê-su đã dạy: nếu chúng ta cầu nguyện, bố thí, kiêng ăn mà đánh trống thổi kèn thì đã nhận phần thưởng của thế gian rồi, và không còn được nhận phần thưởng của Đức Chúa Trời. Càng làm âm thầm được chừng nào, càng ơn phước chừng đó.
 
 ---
 
@@ -68,4 +68,4 @@ Phân đoạn kết thúc bằng một chi tiết đáng chú ý: tại An-ti-�
 
 Nhưng những Cơ Đốc nhân đầu tiên tại An-ti-ốt đã chấp nhận cái tên đó. "Anh nhạo tôi, anh cười tôi, không sao — nhưng tên của tôi gắn liền với tên của Chúa tôi." Và từ thế kỷ này qua thế kỷ khác, với lối sống đạo hạnh, yêu thương và tràn đầy đức tin, những Cơ Đốc nhân đã biến cái tên từng bị khinh bỉ trở thành danh xưng đáng được tôn trọng.
 
-Vấn đề không phải là chấp nhận hay từ chối một cái tên — vấn đề là mình có biến cái tên đó trở thành đáng tôn trọng hay không. Và điều đó tùy thuộc vào đời sống của chúng ta có thật giống Chúa Giê-su hay không. Khi chúng ta xưng mình là Cơ Đốc nhân, có bản tánh nào của Đấng Cơ Đốc thật sự ở trong con người chúng ta không?
+Vấn đề không phải là chấp nhận hay từ chối một cái tên — vấn đề là mình có biến cái tên đó trở thành đáng tôn trọng hay không. Và điều đó tùy thuộc vào đời sống của chúng ta có thật giống Đức Chúa Giê-su hay không. Khi chúng ta xưng mình là Cơ Đốc nhân, có bản tánh nào của Đấng Cơ Đốc thật sự ở trong con người chúng ta không?

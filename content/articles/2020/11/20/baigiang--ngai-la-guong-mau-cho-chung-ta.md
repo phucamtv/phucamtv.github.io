@@ -16,25 +16,25 @@ draft: false
 
 Chủ đề của chương trình Bồi Linh năm 2020 là "Hành trình về Thiên Quốc." Trong đêm thứ ba này, đề tài được chia sẻ là: Đức Chúa Giê-su là gương mẫu cho chúng ta, hay nói cách khác, chúng ta hãy sống như Chúa đã sống.
 
-Kinh Thánh khẳng định trong Cô-lô-se 2:9 rằng sự đầy trọn của thần tính Đức Chúa Trời hiện diện trong thân thể hữu hình của Chúa Giê-su. Dù Đấng Tạo Hóa toàn năng là vô cùng vĩ đại, khi Đức Chúa Giê-su trở thành người, Ngài chịu nhiều giới hạn trong thân phận con người, nhưng tất cả bản tính của Đức Chúa Trời vẫn được thể hiện trọn vẹn qua cuộc đời Ngài.
+Kinh Thánh khẳng định trong Cô-lô-se 2:9 rằng sự đầy trọn của thần tính Đức Chúa Trời hiện diện trong thân thể hữu hình của Đức Chúa Giê-su. Dù Đấng Tạo Hóa toàn năng là vô cùng vĩ đại, khi Đức Chúa Giê-su trở thành người, Ngài chịu nhiều giới hạn trong thân phận con người, nhưng tất cả bản tính của Đức Chúa Trời vẫn được thể hiện trọn vẹn qua cuộc đời Ngài.
 
-Giăng 14:6 ghi lại lời Chúa Giê-su phán: "Ta là đường đi, lẽ thật, và sự sống; chẳng bởi ta thì không ai được đến cùng Cha." Ngài chính là chiếc cầu nối liền thiên đàng và hạ giới, là giải pháp duy nhất cho sự ngăn cách giữa con người tội lỗi và Đức Chúa Trời thánh khiết.
+Giăng 14:6 ghi lại lời Đức Chúa Giê-su phán: "Ta là đường đi, lẽ thật, và sự sống; chẳng bởi ta thì không ai được đến cùng Cha." Ngài chính là chiếc cầu nối liền thiên đàng và hạ giới, là giải pháp duy nhất cho sự ngăn cách giữa con người tội lỗi và Đức Chúa Trời thánh khiết.
 
-## Những điều Chúa Giê-su thể hiện trong cuộc đời trần gian
+## Những điều Đức Chúa Giê-su thể hiện trong cuộc đời trần gian
 
-**Tình yêu thương:** Ma-thi-ơ 9:36 cho biết khi Ngài thấy đoàn dân đông thì động lòng thương xót vì họ cùng khốn và tan lạc như chiên không có kẻ chăn. Suốt cuộc đời trong thân phận con người, Chúa Giê-su đã biểu lộ trọn vẹn tình yêu của Đức Chúa Trời dành cho tội nhân.
+**Tình yêu thương:** Ma-thi-ơ 9:36 cho biết khi Ngài thấy đoàn dân đông thì động lòng thương xót vì họ cùng khốn và tan lạc như chiên không có kẻ chăn. Suốt cuộc đời trong thân phận con người, Đức Chúa Giê-su đã biểu lộ trọn vẹn tình yêu của Đức Chúa Trời dành cho tội nhân.
 
 **Sự tha thứ:** Giăng 8:11 ghi lại câu chuyện người phụ nữ bị bắt quả tang phạm tội. Thay vì kết tội, Đức Chúa Giê-su phán: "Ta cũng không định tội ngươi, hãy đi, đừng phạm tội nữa." Sự tha thứ là điều kéo chúng ta đến với Chúa Cứu Thế, khác hẳn với các tôn giáo dạy phải tự mình làm công đức để chuộc lỗi lầm.
 
 **Sự cảm thông:** Giăng 11:35 ghi lại ngắn gọn rằng Đức Chúa Giê-su khóc khi đến thăm gia đình La-xa-rơ. Chúa cũng khóc với chúng ta mỗi khi chúng ta rơi vào đau khổ, tuyệt vọng hay bị ruồng bỏ. Không một giọt nước mắt nào của chúng ta rơi xuống mà Ngài không biết.
 
-**Sự quan tâm:** Ma-thi-ơ 19:14 cho biết khi các môn đồ ngăn cản các bà mẹ đưa con trẻ đến, Chúa Giê-su phán: "Hãy để con trẻ đến cùng ta, đừng ngăn cấm chúng." Ngài quan tâm đến từng nhu cầu nhỏ nhất trong đời sống chúng ta.
+**Sự quan tâm:** Ma-thi-ơ 19:14 cho biết khi các môn đồ ngăn cản các bà mẹ đưa con trẻ đến, Đức Chúa Giê-su phán: "Hãy để con trẻ đến cùng ta, đừng ngăn cấm chúng." Ngài quan tâm đến từng nhu cầu nhỏ nhất trong đời sống chúng ta.
 
 **Sự hy sinh:** Mác 15:23 ghi lại rằng dù bị bắt, bị đánh đập, bị sỉ nhục và khạc nhổ, Ngài chẳng đáp một lời. Tất cả vì chủ đích làm gương cho chúng ta.
 
 ## Hãy bắt chước Đấng Christ
 
-Giăng 13:1 nhắc nhở rằng Ngài đã yêu kẻ thuộc về mình trong thế gian thì cứ yêu cho đến cuối cùng. Tại An-ti-ốt, người ta bắt đầu gọi các môn đồ là "Cơ Đốc nhân" (Công vụ 11:26) vì họ sống giống như Chúa Giê-su.
+Giăng 13:1 nhắc nhở rằng Ngài đã yêu kẻ thuộc về mình trong thế gian thì cứ yêu cho đến cuối cùng. Tại An-ti-ốt, người ta bắt đầu gọi các môn đồ là "Cơ Đốc nhân" (Công vụ 11:26) vì họ sống giống như Đức Chúa Giê-su.
 
 Sứ đồ Phao-lô kêu gọi trong 1 Cô-rinh-tô 11:1: "Hãy bắt chước tôi, cũng như chính tôi bắt chước Đấng Christ." Ông dùng chính đời sống mình làm bằng chứng rằng con người có thể noi gương Chúa.
 

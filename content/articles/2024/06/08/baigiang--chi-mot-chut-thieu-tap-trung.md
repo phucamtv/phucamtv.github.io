@@ -44,11 +44,11 @@ Giống như tài công Garzon Amo cho tàu chạy 192 km/giờ trong khi quy đ
 
 ## 3. Phải Tỉnh Thức Vì Ngày Chúa Đã Rất Gần
 
-Trong vườn Ghết-sê-ma-nê, Chúa Giê-su phán với các môn đồ đang ngủ: "Các ngươi không tỉnh thức với ta trong một giờ được sao?" (**Ma-thi-ơ 26:38-40**). Lời quở trách ấy vang vọng đến ngày nay khi nhiều Cơ Đốc nhân đang ngủ mê trên tiền tài, danh vọng, sự thành công và những bận rộn đời thường.
+Trong vườn Ghết-sê-ma-nê, Đức Chúa Giê-su phán với các môn đồ đang ngủ: "Các ngươi không tỉnh thức với ta trong một giờ được sao?" (**Ma-thi-ơ 26:38-40**). Lời quở trách ấy vang vọng đến ngày nay khi nhiều Cơ Đốc nhân đang ngủ mê trên tiền tài, danh vọng, sự thành công và những bận rộn đời thường.
 
 **1 Phi-e-rơ 5:8** cảnh báo: ma quỷ như sư tử rống đi rình mò tìm kiếm người nào nó có thể nuốt được. Con sư tử khi no thì hiền như mèo, nhưng khi rống tức là đang đói khát. Chúng ta ngồi quanh đống lửa của đức tin, nhưng phía sau lưng là bóng tối với vô số kẻ thù đang rình rập. Nếu chúng ta ngủ mê, không mở mắt quan sát, con đường theo Chúa sẽ đi vào hư mất.
 
-Thế giới ngày nay cho thấy những dấu hiệu mà Kinh Thánh đã tiên tri hàng ngàn năm trước đang ứng nghiệm với mức độ chưa từng có — chiến tranh, thiên tai, dịch lệ. Chưa bao giờ chúng ta ở gần sự tái lâm của Chúa Giê-su đến vậy.
+Thế giới ngày nay cho thấy những dấu hiệu mà Kinh Thánh đã tiên tri hàng ngàn năm trước đang ứng nghiệm với mức độ chưa từng có — chiến tranh, thiên tai, dịch lệ. Chưa bao giờ chúng ta ở gần sự tái lâm của Đức Chúa Giê-su đến vậy.
 
 **Ma-thi-ơ 24:42** kêu gọi: hãy tỉnh thức vì không biết ngày nào Chúa mình sẽ đến. Và **1 Phi-e-rơ 4:7** khẳng định: sự cuối cùng của muôn vật đã gần, vậy hãy khôn ngoan tỉnh thức mà cầu nguyện.
 

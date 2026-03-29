@@ -30,9 +30,9 @@ Rô-ma 1:28-32 mô tả tình trạng tội ác của con người, trong đó c
 
 I Ti-mô-thê 6:4-5 cho biết trong hội thánh sẽ có những người "có bệnh" hay gạn hỏi, cãi lẫy, ghen ghét, tranh cạnh, gièm chê. Phao-lô dùng chữ "có bệnh" — nghĩa là nó đã ăn sâu vào bản chất, gặp gì cũng chê, chuyện gì cũng bới móc. Những lời như thế phá hoại mối tương giao tốt đẹp giữa anh em với nhau.
 
-Chính Chúa Giê-su cũng luôn bị rình rập bởi những người Pha-ri-si và thầy thông giáo — những người lãnh đạo tôn giáo. Họ gièm chê Ngài ăn uống với người thu thuế (Lu-ca 5:30), thậm chí vu khống Ngài nhờ chúa quỷ mà trừ quỷ (Ma-thi-ơ 12:24).
+Chính Đức Chúa Giê-su cũng luôn bị rình rập bởi những người Pha-ri-si và thầy thông giáo — những người lãnh đạo tôn giáo. Họ gièm chê Ngài ăn uống với người thu thuế (Lu-ca 5:30), thậm chí vu khống Ngài nhờ chúa quỷ mà trừ quỷ (Ma-thi-ơ 12:24).
 
-Chúa Giê-su đáp lại bằng một nguyên tắc quan trọng: do sự đầy dẫy trong lòng mà miệng mới nói ra (Ma-thi-ơ 12:34). Vấn đề không phải ở việc kiểm soát miệng lưỡi bề ngoài, mà ở việc lòng mình đang chứa gì. Lòng chứa điều thiện thì nói ra điều thiện; lòng chứa điều ác thì nói ra điều ác.
+Đức Chúa Giê-su đáp lại bằng một nguyên tắc quan trọng: do sự đầy dẫy trong lòng mà miệng mới nói ra (Ma-thi-ơ 12:34). Vấn đề không phải ở việc kiểm soát miệng lưỡi bề ngoài, mà ở việc lòng mình đang chứa gì. Lòng chứa điều thiện thì nói ra điều thiện; lòng chứa điều ác thì nói ra điều ác.
 
 Và lời cảnh cáo nghiêm trọng nhất: đến ngày phán xét, mọi lời hư không đều phải khai trình; bởi lời nói mà được xưng công bình, cũng bởi lời nói mà bị phạt (Ma-thi-ơ 12:36-37).
 

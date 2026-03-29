@@ -14,13 +14,13 @@ draft: false
 
 ## Giới Thiệu
 
-Ma-thi-ơ đoạn 13 là chương chứa đựng một loạt các ẩn dụ mà Chúa Giê-su dùng để giảng dạy về Nước Thiên Đàng. Trong bài giảng này, Mục sư Dương Quang Thoại hướng dẫn chúng ta qua ba phân đoạn cuối của chương đó: ẩn dụ về lưới cá (câu 47-50), hình ảnh kho đồ cũ và mới (câu 51-52), và sự kiện Chúa trở về quê hương Nazarét (câu 53-58). Ba phần này đan xen nhau để truyền đạt một thông điệp xuyên suốt: thành kiến và sự vô tín là những rào cản nguy hiểm nhất trên hành trình tiếp nhận chân lý.
+Ma-thi-ơ đoạn 13 là chương chứa đựng một loạt các ẩn dụ mà Đức Chúa Giê-su dùng để giảng dạy về Nước Thiên Đàng. Trong bài giảng này, Mục sư Dương Quang Thoại hướng dẫn chúng ta qua ba phân đoạn cuối của chương đó: ẩn dụ về lưới cá (câu 47-50), hình ảnh kho đồ cũ và mới (câu 51-52), và sự kiện Chúa trở về quê hương Nazarét (câu 53-58). Ba phần này đan xen nhau để truyền đạt một thông điệp xuyên suốt: thành kiến và sự vô tín là những rào cản nguy hiểm nhất trên hành trình tiếp nhận chân lý.
 
 ---
 
 ## Phần I: Đánh Bắt Và Chọn Lựa (Ma-thi-ơ 13:47-50)
 
-Ẩn dụ về lưới cá mô tả Nước Thiên Đàng như một tay lưới thả xuống biển, bắt đủ mọi thứ cá. Khi lưới đầy, người đánh cá kéo lên bờ, ngồi chọn giống tốt để riêng ra, còn giống xấu thì ném đi. Chúa Giê-su giải thích đây là hình ảnh của ngày tận thế, khi các thiên sứ sẽ đến chia kẻ ác với người công bình.
+Ẩn dụ về lưới cá mô tả Nước Thiên Đàng như một tay lưới thả xuống biển, bắt đủ mọi thứ cá. Khi lưới đầy, người đánh cá kéo lên bờ, ngồi chọn giống tốt để riêng ra, còn giống xấu thì ném đi. Đức Chúa Giê-su giải thích đây là hình ảnh của ngày tận thế, khi các thiên sứ sẽ đến chia kẻ ác với người công bình.
 
 Mục sư giải thích rằng cách lưới mà Chúa đề cập là kiểu lưới kéo — một hoặc hai chiếc thuyền căng lưới và cào đi, thu vào tất cả mọi thứ trên đường đi: cá lớn, cá nhỏ, tép tôm, rác lá, rễ cây — không phân biệt.
 
@@ -36,19 +36,19 @@ Hội thánh ngày nay thường rơi vào một trong hai thái cực: hoặc l
 
 ## Phần II: Kho Đồ Cũ Và Mới (Ma-thi-ơ 13:51-52)
 
-Sau loạt ẩn dụ, Chúa Giê-su hỏi các môn đồ: "Các ngươi có hiểu mọi điều đó chăng?" Khi họ xác nhận, Ngài phán: người thầy thông giáo đã học thông đạo về Nước Thiên Đàng giống như người chủ nhà đem những vật mới và cũ từ trong kho ra.
+Sau loạt ẩn dụ, Đức Chúa Giê-su hỏi các môn đồ: "Các ngươi có hiểu mọi điều đó chăng?" Khi họ xác nhận, Ngài phán: người thầy thông giáo đã học thông đạo về Nước Thiên Đàng giống như người chủ nhà đem những vật mới và cũ từ trong kho ra.
 
-Mục sư giải thích rằng "kho" ở đây là hình ảnh tâm trí của người tin Chúa. Các môn đồ trước khi theo Chúa đã được dạy dỗ trong Do Thái giáo — họ có nền tảng từ Torah, từ các thầy thông giáo, từ người Pha-ri-si. Đó là "đồ cũ" trong kho. Bây giờ Chúa Giê-su chiếu thêm "ánh sáng mới" lên những văn tự quen thuộc đó, giúp họ hiểu sâu hơn và rộng hơn.
+Mục sư giải thích rằng "kho" ở đây là hình ảnh tâm trí của người tin Chúa. Các môn đồ trước khi theo Chúa đã được dạy dỗ trong Do Thái giáo — họ có nền tảng từ Torah, từ các thầy thông giáo, từ người Pha-ri-si. Đó là "đồ cũ" trong kho. Bây giờ Đức Chúa Giê-su chiếu thêm "ánh sáng mới" lên những văn tự quen thuộc đó, giúp họ hiểu sâu hơn và rộng hơn.
 
 Điều này có ý nghĩa thiết thực: khi tin Chúa, không nhất thiết phải bỏ hết mọi thứ của đời sống cũ. Người kinh doanh vẫn cứ kinh doanh — nhưng lương thiện. Vận động viên vẫn thi đấu — nhưng trung thực, cao thượng. Nghệ sĩ vẫn làm nghề — nhưng cân nhắc những vai diễn không phù hợp với tư cách một Cơ Đốc nhân. Đồ cũ nào còn dùng được thì giữ; đồ nào không phù hợp thì loại bỏ.
 
-Hơn nữa, Chúa Giê-su còn chiếu ánh sáng mới lên những điều luật cũ. Ví dụ điều răn "ngươi chớ giết người" — người ta chỉ hiểu theo nghĩa hẹp là hành vi giết chóc bằng thể xác. Nhưng Chúa Giê-su mở rộng: "nếu các ngươi ghét anh em mình, các ngươi cũng là kẻ giết người." Đó là cách dùng kho đồ cũ và mới cùng một lúc.
+Hơn nữa, Đức Chúa Giê-su còn chiếu ánh sáng mới lên những điều luật cũ. Ví dụ điều răn "ngươi chớ giết người" — người ta chỉ hiểu theo nghĩa hẹp là hành vi giết chóc bằng thể xác. Nhưng Đức Chúa Giê-su mở rộng: "nếu các ngươi ghét anh em mình, các ngươi cũng là kẻ giết người." Đó là cách dùng kho đồ cũ và mới cùng một lúc.
 
 ---
 
 ## Phần III: Rào Cản Của Thành Kiến Và Vô Tín (Ma-thi-ơ 13:53-58)
 
-Phần cuối và cũng là phần trọng tâm của bài giảng: Chúa Giê-su trở về quê hương Nazarét, vào nhà hội giảng dạy. Người nghe kinh ngạc trước sự khôn ngoan và phép lạ của Ngài, nhưng rồi họ lại vấp phạm — bởi vì họ biết quá rõ Ngài. Họ nói: "Đây không phải là con người thợ mộc sao? Mẹ Ngài là Ma-ri, anh em Ngài là Gia-cơ, Giô-sép… Bởi đâu mà Ngài có những điều này?"
+Phần cuối và cũng là phần trọng tâm của bài giảng: Đức Chúa Giê-su trở về quê hương Nazarét, vào nhà hội giảng dạy. Người nghe kinh ngạc trước sự khôn ngoan và phép lạ của Ngài, nhưng rồi họ lại vấp phạm — bởi vì họ biết quá rõ Ngài. Họ nói: "Đây không phải là con người thợ mộc sao? Mẹ Ngài là Ma-ri, anh em Ngài là Gia-cơ, Giô-sép… Bởi đâu mà Ngài có những điều này?"
 
 Chính vì thành kiến đó mà Chúa không thể làm nhiều phép lạ ở đó — không phải vì Ngài không có quyền năng, mà vì lòng vô tín của họ tạo ra một bức tường ngăn cách.
 

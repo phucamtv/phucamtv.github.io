@@ -17,7 +17,7 @@ draft: false
 
 ## Làm việc tốt nhưng bị vu khống
 
-Câu chuyện trong Công vụ các sứ đồ đoạn 16 từ câu 16 đến 40 kể lại một sự kiện đầy kịch tính trong hành trình truyền giáo của sứ đồ Phao-lô và Si-la. Tại thành Phi-líp, có một đứa đầy tớ gái bị quỷ Phi-tôn ám, có khả năng bói khoa và đem lại lợi lớn cho các chủ của nó. Khi con quỷ này cứ theo đoàn truyền giáo mà la lên rằng họ là đầy tớ của Đức Chúa Trời, Phao-lô đã nhân danh Chúa Giê-su Christ mà đuổi quỷ ra khỏi cô gái.
+Câu chuyện trong Công vụ các sứ đồ đoạn 16 từ câu 16 đến 40 kể lại một sự kiện đầy kịch tính trong hành trình truyền giáo của sứ đồ Phao-lô và Si-la. Tại thành Phi-líp, có một đứa đầy tớ gái bị quỷ Phi-tôn ám, có khả năng bói khoa và đem lại lợi lớn cho các chủ của nó. Khi con quỷ này cứ theo đoàn truyền giáo mà la lên rằng họ là đầy tớ của Đức Chúa Trời, Phao-lô đã nhân danh Đức Chúa Giê-su Christ mà đuổi quỷ ra khỏi cô gái.
 
 Hành động giải phóng cô gái khỏi sự trói buộc của ma quỷ lẽ ra phải được ca ngợi, nhưng thực tế lại hoàn toàn ngược lại. Các chủ của cô gái thấy nguồn lợi bất chính bị cắt đứt, liền nổi giận và bịa ra những cáo buộc nghiêm trọng: làm rối loạn thành phố, tuyên truyền điều sai trái, và xúc phạm văn hóa La Mã. Ba tội danh nặng nề chỉ vì một việc thiện lành. Đây là bài học nhắc nhở rằng khi lòng tham bị đụng chạm, con người có thể bịa đặt mọi điều để hãm hại người khác.
 

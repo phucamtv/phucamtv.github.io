@@ -110,9 +110,9 @@ Hãy hình dung một gia đình yêu thương, nơi mọi người nương tự
 
 Tương tự, trong mối quan hệ với Đức Chúa Trời, sự phụ thuộc không phải là sự nô lệ, mà là con đường dẫn đến sự tự do thật sự. Giống như một người nghiện tìm thấy tự do khi vượt qua được sự lệ thuộc vào chất kích thích, chúng ta cũng tìm thấy tự do khi bỏ đi sự lệ thuộc vào ảo ảnh của cái tôi, vào tiền tài danh vọng hão huyền.
 
-### Đức Chúa Giê-xu -- Con đường dẫn đến tự do
+### Đức Chúa Giê-su -- Con đường dẫn đến tự do
 
-Đức Chúa Giê-xu, qua thập tự giá và sự sống lại, đã mở đường cho chúng ta bước vào sự tự do này. Ngài đã bỏ đi cái tôi của mình, vâng theo ý muốn của Cha trên trời, để chúng ta có thể được giải thoát khỏi sự trói buộc của tội lỗi và sự chết.
+Đức Chúa Giê-su, qua thập tự giá và sự sống lại, đã mở đường cho chúng ta bước vào sự tự do này. Ngài đã bỏ đi cái tôi của mình, vâng theo ý muốn của Cha trên trời, để chúng ta có thể được giải thoát khỏi sự trói buộc của tội lỗi và sự chết.
 
 Bằng cách noi gương Ngài, chúng ta học cách khiêm nhường, bỏ đi những tham vọng ích kỷ, và tìm thấy niềm vui thật sự trong việc phục vụ Đức Chúa Trời và yêu thương mọi người.
 

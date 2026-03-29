@@ -54,7 +54,7 @@ Khi chúng ta đánh mất chính mình, không còn là con người cũ trong 
 
 ## Điều Thứ Ba: Đánh Mất Sự Hiện Diện Của Đức Chúa Trời
 
-Chúa luôn khao khát ở gần dân sự Ngài. Từ vườn Ê-đen với A-đam và Ê-va, đến lời hứa với Áp-ra-ham, Y-sác, Gia-cốp, Môi-se, Giô-suê — Ngài luôn phán rằng *"Ta ở cùng ngươi."* Trong đồng vắng, Ngài bảo dân sự dựng Đền Tạm để Ngài ở giữa họ. Rồi qua Chúa Giê-su — Em-ma-nu-ên, Đức Chúa Trời ở cùng chúng ta. Khi Chúa về trời, Ngài ban Đức Thánh Linh ở trong chúng ta đời đời.
+Chúa luôn khao khát ở gần dân sự Ngài. Từ vườn Ê-đen với A-đam và Ê-va, đến lời hứa với Áp-ra-ham, Y-sác, Gia-cốp, Môi-se, Giô-suê — Ngài luôn phán rằng *"Ta ở cùng ngươi."* Trong đồng vắng, Ngài bảo dân sự dựng Đền Tạm để Ngài ở giữa họ. Rồi qua Đức Chúa Giê-su — Em-ma-nu-ên, Đức Chúa Trời ở cùng chúng ta. Khi Chúa về trời, Ngài ban Đức Thánh Linh ở trong chúng ta đời đời.
 
 Chỉ có sự hiện diện của Chúa trong đời sống mới giúp chúng ta giữ được mọi ơn phước, không đánh mất chính mình.
 

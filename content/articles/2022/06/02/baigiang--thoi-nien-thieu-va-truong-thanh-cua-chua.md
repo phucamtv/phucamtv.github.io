@@ -2,8 +2,8 @@
 title: "Thời Niên Thiếu Và Trưởng Thành Của Chúa"
 date: 2022-06-02
 url: /baigiang/thoi-nien-thieu-va-truong-thanh-cua-chua/
-description: "Qua Ma-thi-ơ 2:16-23, bài giảng khám phá hai sự kiện quan trọng: cuộc thảm sát trẻ con tại Bết-lê-hem bởi vua Hê-rốt, và 30 năm im lặng trong đời Chúa Giê-su — từ thời niên thiếu đến khi bước vào chức vụ."
-tags: ["Ma-thi-ơ", "Chúa Giê-su", "Thời Niên Thiếu", "Vua Hê-rốt", "Gia Đình"]
+description: "Qua Ma-thi-ơ 2:16-23, bài giảng khám phá hai sự kiện quan trọng: cuộc thảm sát trẻ con tại Bết-lê-hem bởi vua Hê-rốt, và 30 năm im lặng trong đời Đức Chúa Giê-su — từ thời niên thiếu đến khi bước vào chức vụ."
+tags: ["Ma-thi-ơ", "Đức Chúa Giê-su", "Thời Niên Thiếu", "Vua Hê-rốt", "Gia Đình"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["WmDwFYkcclo"]
@@ -28,7 +28,7 @@ Trong lãnh vực tâm linh, có những người cũng không muốn mời Chú
 
 Sau khi Hê-rốt Đại Đế băng hà, thiên sứ hiện ra cùng Giô-sép trong chiêm bao, truyền bảo đưa con trẻ và mẹ Ngài trở về xứ Y-sơ-ra-ên. Tuy nhiên, A-chê-la-u nối ngôi cha cai trị xứ Giu-đê lại còn tàn bạo hơn, nên Giô-sép được Chúa mách bảo đi lên miền Ga-li-lê, định cư tại thành Na-xa-rét — ứng nghiệm lời tiên tri rằng Ngài sẽ được gọi là người Na-xa-rét.
 
-## 30 Năm Im Lặng Của Chúa Giê-su
+## 30 Năm Im Lặng Của Đức Chúa Giê-su
 
 Từ cuối đoạn 2 đến đoạn 3 của Ma-thi-ơ, có một khoảng trống 30 năm mà Kinh Thánh hầu như không ghi lại, ngoại trừ câu chuyện Chúa lên Giê-ru-sa-lem lúc 12 tuổi trong sách Lu-ca. Dù không có ghi chép chi tiết, chúng ta vẫn có thể rút ra nhiều bài học quý giá.
 
@@ -38,8 +38,8 @@ Ma-ri là người phụ nữ đức hạnh được Đức Chúa Trời lựa c
 
 ### 2. Chúa Làm Tròn Nhiệm Vụ Người Anh Cả
 
-Nhiều học giả cho rằng Giô-sép lớn tuổi hơn Ma-ri nhiều và có thể đã qua đời sớm. Chúa Giê-su theo phần xác là người anh cả, đã học nghề mộc từ Giô-sép và tiếp tục hành nghề để nuôi mẹ, chăm sóc các em. Dù biết mình đến thế gian với trọng trách cứu chuộc nhân loại, Ngài vẫn kiên nhẫn, âm thầm chu toàn trách nhiệm gia đình. Những sự cống hiến âm thầm không phải là không có giá trị — chính chúng đặt nền móng cho những điều vĩ đại.
+Nhiều học giả cho rằng Giô-sép lớn tuổi hơn Ma-ri nhiều và có thể đã qua đời sớm. Đức Chúa Giê-su theo phần xác là người anh cả, đã học nghề mộc từ Giô-sép và tiếp tục hành nghề để nuôi mẹ, chăm sóc các em. Dù biết mình đến thế gian với trọng trách cứu chuộc nhân loại, Ngài vẫn kiên nhẫn, âm thầm chu toàn trách nhiệm gia đình. Những sự cống hiến âm thầm không phải là không có giá trị — chính chúng đặt nền móng cho những điều vĩ đại.
 
 ### 3. Chúa Học Cách Làm Một Người Bình Thường
 
-Đức Chúa Giê-su muốn nếm trải tất cả những gì một con người bình thường phải trải qua: tìm cách kiếm tiền, lên kế hoạch chi tiêu, đối diện với khách hàng khó tính. Ngài cần hiểu rõ con người để có thể cứu con người. Có hiểu biết mới có cảm thông, có cảm thông mới có thể tha thứ. Câu chuyện nữ hoàng Marie Antoinette bảo dân chúng không có bánh mì thì ăn bánh ngọt cho thấy hậu quả khi người lãnh đạo không hiểu được nỗi khổ của người dân. Chúa Giê-su thì không như vậy — Ngài đã sống giữa con người, làm việc như con người, để thấu hiểu trọn vẹn thân phận con người.
+Đức Chúa Giê-su muốn nếm trải tất cả những gì một con người bình thường phải trải qua: tìm cách kiếm tiền, lên kế hoạch chi tiêu, đối diện với khách hàng khó tính. Ngài cần hiểu rõ con người để có thể cứu con người. Có hiểu biết mới có cảm thông, có cảm thông mới có thể tha thứ. Câu chuyện nữ hoàng Marie Antoinette bảo dân chúng không có bánh mì thì ăn bánh ngọt cho thấy hậu quả khi người lãnh đạo không hiểu được nỗi khổ của người dân. Đức Chúa Giê-su thì không như vậy — Ngài đã sống giữa con người, làm việc như con người, để thấu hiểu trọn vẹn thân phận con người.

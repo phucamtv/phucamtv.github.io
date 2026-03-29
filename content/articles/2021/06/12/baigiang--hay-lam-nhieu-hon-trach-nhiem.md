@@ -24,7 +24,7 @@ Cuối cùng, bằng cách cho từng xe tắt còi một và lắng nghe qua đ
 
 ## Đi Hai Dặm Thay Vì Một Dặm
 
-Câu chuyện Eric minh họa sống động cho lời Chúa Giê-xu trong Ma-thi-ơ 5:41: nếu ai bắt con đi một dặm đường, hãy đi hai dặm với họ. Nếu Eric chỉ làm tròn bổn phận, anh hoàn toàn có thể ghi nhận cuộc gọi rồi báo cáo rằng không có đủ thông tin để cứu hộ — và không ai trách anh được. Nhưng Eric đã làm vượt xa trách nhiệm của mình.
+Câu chuyện Eric minh họa sống động cho lời Đức Chúa Giê-su trong Ma-thi-ơ 5:41: nếu ai bắt con đi một dặm đường, hãy đi hai dặm với họ. Nếu Eric chỉ làm tròn bổn phận, anh hoàn toàn có thể ghi nhận cuộc gọi rồi báo cáo rằng không có đủ thông tin để cứu hộ — và không ai trách anh được. Nhưng Eric đã làm vượt xa trách nhiệm của mình.
 
 Người đời cũng làm tròn bổn phận. Nhưng cơ đốc nhân được kêu gọi sống ở một tiêu chuẩn cao hơn. Nếu muốn từ chối, có hàng trăm ngàn lý do. Nhưng nếu quyết tâm thực hiện, chúng ta sẽ tìm ra giải pháp. Điều lớn nhất ngăn cản chúng ta cống hiến và phục vụ chính là sự lười biếng.
 
@@ -46,4 +46,4 @@ Trong Lu-ca 15, người phụ nữ mất một đồng bạc trong bộ sưu t�
 
 Đừng chỉ làm những gì mình thích. Hãy nỗ lực làm tất cả những gì có ích, kể cả những điều không thích, bằng tất cả lòng nhiệt thành. Một đứa trẻ lấy chén cho mẹ với thái độ bực bội vì đang chơi game hoàn toàn khác với đứa trẻ vui vẻ mang chén đến vì biết mẹ đau chân. Hành động giống nhau nhưng tinh thần khác biệt sẽ tạo nên kết quả khác biệt.
 
-Chúa Giê-xu phán rằng dù chỉ cho người khác một ly nước lạnh cũng không mất phần thưởng. Mọi hành động của chúng ta, dù nhỏ đến đâu, đều được thiên đàng ghi nhận. Vì vậy, hãy sống như người có Chúa Cứu Thế — làm vượt lên trên trách nhiệm, làm bằng tình yêu, và làm cho đến khi hoàn thành.
+Đức Chúa Giê-su phán rằng dù chỉ cho người khác một ly nước lạnh cũng không mất phần thưởng. Mọi hành động của chúng ta, dù nhỏ đến đâu, đều được thiên đàng ghi nhận. Vì vậy, hãy sống như người có Chúa Cứu Thế — làm vượt lên trên trách nhiệm, làm bằng tình yêu, và làm cho đến khi hoàn thành.

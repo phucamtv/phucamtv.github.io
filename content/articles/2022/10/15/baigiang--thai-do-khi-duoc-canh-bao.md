@@ -2,7 +2,7 @@
 title: "Thái Độ Khi Được Cảnh Báo!"
 date: 2022-10-15
 url: /baigiang/thai-do-khi-duoc-canh-bao/
-description: "Bài giảng về thái độ của các môn đồ khi nhận lời cảnh báo từ Chúa Giê-su qua Ma-thi-ơ 26:30-35, và bài học cho đời sống đức tin của chúng ta hôm nay."
+description: "Bài giảng về thái độ của các môn đồ khi nhận lời cảnh báo từ Đức Chúa Giê-su qua Ma-thi-ơ 26:30-35, và bài học cho đời sống đức tin của chúng ta hôm nay."
 tags: ["Ma-thi-ơ", "Phi-e-rơ", "Đức Tin", "Sự Yếu Đuối", "Ân Điển"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -18,7 +18,7 @@ Trong đời sống hằng ngày, khi ai đó cảnh báo chúng ta về một n
 
 ## 1. Chúa biết chúng ta yếu đuối
 
-Điều đầu tiên và quan trọng nhất là Chúa Giê-su hoàn toàn hiểu sự yếu đuối của các môn đồ. Hê-bơ-rơ 5:2 cho biết Ngài đã bị vây trong sự yếu đuối, nên có thể thương xót những kẻ ngu dốt sai lầm. Chúa Giê-su là Thầy Tế Lễ có thể cảm thông với chúng ta, không giống những thầy tế lễ thuộc dòng Lê-vi. Đây là niềm an ủi lớn lao: Đấng chúng ta tôn thờ tuy rất cao cả nhưng lại có thể hạ mình xuống để chia sẻ, cảm thông với những yếu đuối của chúng ta.
+Điều đầu tiên và quan trọng nhất là Đức Chúa Giê-su hoàn toàn hiểu sự yếu đuối của các môn đồ. Hê-bơ-rơ 5:2 cho biết Ngài đã bị vây trong sự yếu đuối, nên có thể thương xót những kẻ ngu dốt sai lầm. Đức Chúa Giê-su là Thầy Tế Lễ có thể cảm thông với chúng ta, không giống những thầy tế lễ thuộc dòng Lê-vi. Đây là niềm an ủi lớn lao: Đấng chúng ta tôn thờ tuy rất cao cả nhưng lại có thể hạ mình xuống để chia sẻ, cảm thông với những yếu đuối của chúng ta.
 
 Khi Chúa nói với các môn đồ rằng họ sẽ vấp phạm, Ngài nói bằng một giọng bình thản, không hề giận dữ, không oán trách, không một chút cay đắng. Ngài nói như một sự thông báo, thể hiện sự tôn trọng dành cho các môn đồ. Ngài mở cho họ thấy những gì sẽ xảy ra, nhưng quyết định vẫn thuộc về họ. Không hề có sự cưỡng bức trong tình yêu của Chúa. Nếu có cưỡng bức, đó không phải là tình yêu.
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Lời Khuyên Đáng Giá Của Ga-ma-li-ên
 
-Công-vụ 5:33-42 mở đầu với một cảnh căng thẳng: sau khi nghe sứ đồ Phi-e-rơ và Giăng trình bày về sự sống lại của Chúa Giê-su, toàn thể tòa công luận bừng bừng tức giận và bàn mưu giết các sứ đồ. Nhưng giữa bầu không khí đó, một nhân vật rất đặc biệt đứng lên — Ga-ma-li-ên.
+Công-vụ 5:33-42 mở đầu với một cảnh căng thẳng: sau khi nghe sứ đồ Phi-e-rơ và Giăng trình bày về sự sống lại của Đức Chúa Giê-su, toàn thể tòa công luận bừng bừng tức giận và bàn mưu giết các sứ đồ. Nhưng giữa bầu không khí đó, một nhân vật rất đặc biệt đứng lên — Ga-ma-li-ên.
 
 Ga-ma-li-ên là người thuộc phái Pha-ri-si, nhưng không phải Pha-ri-si thông thường. Ông là người được tôn kính nhất trong số những người Pha-ri-si — một học giả, một bậc thầy về luật pháp mà lời nói có trọng lượng lớn trong tòa công luận. Ông đề nghị đem các sứ đồ ra ngoài rồi nói với các nhà lãnh đạo Do Thái bằng một lập luận rất thực tế.
 
@@ -28,7 +28,7 @@ Lời của Ga-ma-li-ên không chỉ là một nhận xét lịch sử — đó
 
 Mục sư chia sẻ một câu chuyện thực tế: có người từng khẳng định nhận được khải thị từ Chúa, rằng sẽ xây một nhà thờ chứa 100.000 người — con số lớn hơn cả những sân vận động lớn nhất thế giới. Khi nhìn lại, phong trào đó đã tan dần thành quá khứ. Điều này không phải để phán xét ai, mà để nhắc nhở mỗi người: trước khi hoạch định bất kỳ điều gì, cần tự hỏi thật sự liệu đó là động lực từ Chúa, hay chỉ là tham vọng của mình được khoác tấm áo thuộc linh?
 
-Sứ đồ Phao-lô (lúc đó là Sau-lơ) chính là một ví dụ điển hình: ông hăng hái bắt bớ hội thánh, tưởng rằng mình đang phục vụ Đức Chúa Trời — cho đến khi Chúa Giê-su phán trực tiếp: *"Sao-lơ, Sao-lơ, ngươi bắt bớ Ta làm gì?"* Chính Sa-tan có thể lái chúng ta để tưởng rằng mình đang hầu việc Chúa, trong khi thực ra đang phá công việc Ngài.
+Sứ đồ Phao-lô (lúc đó là Sau-lơ) chính là một ví dụ điển hình: ông hăng hái bắt bớ hội thánh, tưởng rằng mình đang phục vụ Đức Chúa Trời — cho đến khi Đức Chúa Giê-su phán trực tiếp: *"Sao-lơ, Sao-lơ, ngươi bắt bớ Ta làm gì?"* Chính Sa-tan có thể lái chúng ta để tưởng rằng mình đang hầu việc Chúa, trong khi thực ra đang phá công việc Ngài.
 
 ---
 

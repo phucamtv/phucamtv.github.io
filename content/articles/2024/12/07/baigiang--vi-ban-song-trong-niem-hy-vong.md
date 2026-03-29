@@ -40,7 +40,7 @@ Mi-chê 7:8 khích lệ: dù bị ngã sẽ lại dậy, dù ngồi trong nơi t
 
 ## 3. Niềm Hy Vọng Lớn Nhất: Sự Sống Lại
 
-Niềm hy vọng cao trọng nhất mà Chúa Cứu Thế mang đến chính là sự sống lại. Ma-thi-ơ 20:19 ghi lời Chúa Giê-su báo trước: Ngài sẽ bị đánh đập, đóng đinh trên cây thập tự, nhưng đến ngày thứ ba sẽ sống lại. Và điều này đã xảy ra đúng như vậy — Ma-thi-ơ 28:6 thuật lại thiên sứ nói với các môn đồ: Ngài không ở đây đâu, Ngài sống lại rồi. I Cô-rinh-tô 15:6 xác nhận Ngài hiện ra cho hơn năm trăm người xem thấy.
+Niềm hy vọng cao trọng nhất mà Chúa Cứu Thế mang đến chính là sự sống lại. Ma-thi-ơ 20:19 ghi lời Đức Chúa Giê-su báo trước: Ngài sẽ bị đánh đập, đóng đinh trên cây thập tự, nhưng đến ngày thứ ba sẽ sống lại. Và điều này đã xảy ra đúng như vậy — Ma-thi-ơ 28:6 thuật lại thiên sứ nói với các môn đồ: Ngài không ở đây đâu, Ngài sống lại rồi. I Cô-rinh-tô 15:6 xác nhận Ngài hiện ra cho hơn năm trăm người xem thấy.
 
 Giăng 11:25 ghi lại lời phán đầy quyền năng: "Ta là sự sống lại và sự sống; kẻ nào tin ta thì sẽ sống, mặc dầu đã chết rồi." Đây chính là câu trả lời cho câu hỏi muôn đời: sau khi chết sẽ đi đâu? Trong thân xác này ai cũng phải chết, nhưng nếu chết trong niềm hy vọng nơi Chúa Cứu Thế, Ngài sẽ làm cho sống lại.
 

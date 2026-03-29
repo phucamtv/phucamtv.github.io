@@ -14,13 +14,13 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 13:1-9; 18-23
 
-Ẩn dụ về người gieo giống là một trong những câu chuyện quen thuộc nhất của Chúa Giê-su. Trong bài giảng này, Mục sư Dương Quang Thoại đặt ẩn dụ trong bối cảnh rộng hơn của cách giảng dạy bằng hình ảnh, rồi đi sâu vào bốn loại đất — bốn hạng người đón nhận đạo Chúa với những tấm lòng khác nhau.
+Ẩn dụ về người gieo giống là một trong những câu chuyện quen thuộc nhất của Đức Chúa Giê-su. Trong bài giảng này, Mục sư Dương Quang Thoại đặt ẩn dụ trong bối cảnh rộng hơn của cách giảng dạy bằng hình ảnh, rồi đi sâu vào bốn loại đất — bốn hạng người đón nhận đạo Chúa với những tấm lòng khác nhau.
 
 ---
 
 ## Giá Trị Của Việc Dùng Ẩn Dụ
 
-Chúa Giê-su thường xuyên sử dụng ẩn dụ trong sự giảng dạy: muối, ánh sáng, chim trời, hoa huệ, nhà xây trên đá hay trên cát, bầu rượu da, men làm bánh... Cách giảng dạy bằng hình ảnh mang lại nhiều lợi ích: biến những điều trừu tượng thành cụ thể, lấy cái đã biết để giúp người ta hiểu cái chưa biết, thu hút người nghe, và quan trọng nhất — thúc đẩy người nghe tự khám phá ra chân lý. Một bài giảng không có ví dụ giống như căn nhà không có cửa sổ.
+Đức Chúa Giê-su thường xuyên sử dụng ẩn dụ trong sự giảng dạy: muối, ánh sáng, chim trời, hoa huệ, nhà xây trên đá hay trên cát, bầu rượu da, men làm bánh... Cách giảng dạy bằng hình ảnh mang lại nhiều lợi ích: biến những điều trừu tượng thành cụ thể, lấy cái đã biết để giúp người ta hiểu cái chưa biết, thu hút người nghe, và quan trọng nhất — thúc đẩy người nghe tự khám phá ra chân lý. Một bài giảng không có ví dụ giống như căn nhà không có cửa sổ.
 
 Tuy nhiên, cùng một ẩn dụ mà người này hiểu còn người kia thì không — đó là do chính tấm lòng của người tiếp nhận.
 
@@ -30,7 +30,7 @@ Tuy nhiên, cùng một ẩn dụ mà người này hiểu còn người kia th�
 
 Loại đất đầu tiên là đường đi — những lối mòn giữa các thửa ruộng bị người ta đi miết cho đến khi đất trở nên cứng ngắc. Hạt giống rơi trên đó không thể chui xuống, nằm trơ vơ cho đến khi chim bay đến ăn mất.
 
-Chúa Giê-su giải thích đây là những người nghe đạo mà không hiểu, Quỷ Dữ đến cướp đi. Nhưng sâu xa hơn, đó là những người đóng chặt lỗ tai mình vì thành kiến, kiêu ngạo, hoặc lười biếng. Thành kiến nào cũng đem đến sự mù lòa — yêu quá thì không thấy khuyết điểm, ghét quá thì không nhận ra điểm tốt. Có người không muốn nghe chân lý vì sợ phải thay đổi, giống như người nghiện thuốc chuyển kênh mỗi khi tivi nói về tác hại của thuốc lá.
+Đức Chúa Giê-su giải thích đây là những người nghe đạo mà không hiểu, Quỷ Dữ đến cướp đi. Nhưng sâu xa hơn, đó là những người đóng chặt lỗ tai mình vì thành kiến, kiêu ngạo, hoặc lười biếng. Thành kiến nào cũng đem đến sự mù lòa — yêu quá thì không thấy khuyết điểm, ghét quá thì không nhận ra điểm tốt. Có người không muốn nghe chân lý vì sợ phải thay đổi, giống như người nghiện thuốc chuyển kênh mỗi khi tivi nói về tác hại của thuốc lá.
 
 ---
 
@@ -46,7 +46,7 @@ Loại đất thứ hai trông bề ngoài sạch sẽ, tươm tất, nhưng bê
 
 Loại đất thứ ba thực chất là đất tốt — bên dưới không có đá, đã được cày xới kỹ càng. Khi gieo, gai đã bị dọn sạch, nhưng rễ gai vẫn ẩn bên dưới. Gai phát triển nhanh hơn lúa, che phủ và làm nghẹt ngòi cây non.
 
-Chúa Giê-su chỉ ra đây là hình ảnh của sự lo lắng về đời này và sự mê đắm về của cải. Nhịp sống hiện đại quá vội vàng, quá bon chen, cướp mất niềm hạnh phúc thật. Những bận rộn, đam mê, yêu thích dần trở thành ưu tiên thay cho mối tương giao với Chúa. Buổi sáng thức dậy, thay vì học Kinh Thánh và cầu nguyện, người ta vội vàng bốc điện thoại lo công việc. Dù vẫn đi nhà thờ hàng tuần nhưng đó chỉ còn là thói quen, không còn là sự gắn kết thật.
+Đức Chúa Giê-su chỉ ra đây là hình ảnh của sự lo lắng về đời này và sự mê đắm về của cải. Nhịp sống hiện đại quá vội vàng, quá bon chen, cướp mất niềm hạnh phúc thật. Những bận rộn, đam mê, yêu thích dần trở thành ưu tiên thay cho mối tương giao với Chúa. Buổi sáng thức dậy, thay vì học Kinh Thánh và cầu nguyện, người ta vội vàng bốc điện thoại lo công việc. Dù vẫn đi nhà thờ hàng tuần nhưng đó chỉ còn là thói quen, không còn là sự gắn kết thật.
 
 Phần đất này rất gần gũi với tất cả chúng ta — kể cả mục sư, truyền đạo, không riêng gì tín đồ.
 

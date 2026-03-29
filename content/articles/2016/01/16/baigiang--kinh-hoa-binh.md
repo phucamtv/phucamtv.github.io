@@ -2,7 +2,7 @@
 title: "Kinh Hòa Bình"
 date: 2016-01-16
 url: /baigiang/kinh-hoa-binh/
-description: "Bài giảng về Kinh Hòa Bình — lời cầu nguyện nổi tiếng của Thánh Francisco. Mục sư Dương Quang Thoại dẫn dắt hội thánh suy gẫm về hòa bình trong gia đình, hội thánh và thế giới, kêu gọi sống phục vụ, tha thứ và quên mình theo gương Chúa Giê-su."
+description: "Bài giảng về Kinh Hòa Bình — lời cầu nguyện nổi tiếng của Thánh Francisco. Mục sư Dương Quang Thoại dẫn dắt hội thánh suy gẫm về hòa bình trong gia đình, hội thánh và thế giới, kêu gọi sống phục vụ, tha thứ và quên mình theo gương Đức Chúa Giê-su."
 tags: ["Hòa Bình", "Phục Vụ", "Tha Thứ", "Quên Mình", "Gia Đình", "Thập Tự Giá"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -34,7 +34,7 @@ Khi các thiên sứ hiện ra với những mục đồng tại Bết-lê-hem, 
 
 Thập tự giá gồm hai thanh — thanh dọc nối con người với Thiên Chúa, thanh ngang nối con người với nhau. Nếu chúng ta mang thập tự giá trong lòng, hãy mang nó trong từng lời nói và hành động: nói lên những lời hòa bình, hành động vì mục đích đắp xây hòa bình.
 
-Chúa Giê-su dạy trong Ma-thi-ơ 20:28 rằng Ngài đến không phải để người ta hầu việc mình, nhưng để hầu việc người ta. Cả cuộc đời Ngài để lại chân lý cụ thể: phục vụ người khác. Ngài có thừa quyền năng để bắt người ta phục vụ, nhưng Ngài chọn quỳ xuống rửa chân cho môn đồ. Muốn phục vụ mà lưng cứ thẳng, ngực cứ ưỡn lên thì không bao giờ phục vụ được — phải khòm xuống như Chúa Cứu Thế.
+Đức Chúa Giê-su dạy trong Ma-thi-ơ 20:28 rằng Ngài đến không phải để người ta hầu việc mình, nhưng để hầu việc người ta. Cả cuộc đời Ngài để lại chân lý cụ thể: phục vụ người khác. Ngài có thừa quyền năng để bắt người ta phục vụ, nhưng Ngài chọn quỳ xuống rửa chân cho môn đồ. Muốn phục vụ mà lưng cứ thẳng, ngực cứ ưỡn lên thì không bao giờ phục vụ được — phải khòm xuống như Chúa Cứu Thế.
 
 ## Đem Yêu Thương Vào Nơi Oán Thù
 

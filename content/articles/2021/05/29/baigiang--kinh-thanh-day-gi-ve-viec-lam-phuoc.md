@@ -18,7 +18,7 @@ Trong bối cảnh dịch bệnh năm 2021, nhiều tấm lòng rộng mở giú
 
 Về hành động bên ngoài, rất khó phân biệt. Nhưng về động lực bên trong, sự khác biệt là rõ ràng. Trong các tôn giáo dân gian và một số niềm tin khác, người ta thường làm công đức để tích lũy điều tốt lành, bù đắp lỗi lầm, hoặc đổi lấy phước hạnh cho bản thân — một hình thức "chuộc tội" bằng việc làm.
 
-Kinh Thánh dạy hoàn toàn khác: sự cứu rỗi của Cơ Đốc nhân không phải bởi việc làm công đức. Mọi lỗi lầm đã được xóa sạch trong huyết Chúa Giê-su. Người tin Chúa không làm phước để được cứu — họ làm phước vì họ đã được cứu rồi. Đó là sự khác biệt căn bản. Việc làm lành là kết quả của đức tin, là biểu hiện của lòng kính sợ Chúa và tình yêu thương đối với mọi người — hai điều mà Chúa Giê-su đúc kết là cốt lõi của toàn bộ luật pháp.
+Kinh Thánh dạy hoàn toàn khác: sự cứu rỗi của Cơ Đốc nhân không phải bởi việc làm công đức. Mọi lỗi lầm đã được xóa sạch trong huyết Đức Chúa Giê-su. Người tin Chúa không làm phước để được cứu — họ làm phước vì họ đã được cứu rồi. Đó là sự khác biệt căn bản. Việc làm lành là kết quả của đức tin, là biểu hiện của lòng kính sợ Chúa và tình yêu thương đối với mọi người — hai điều mà Đức Chúa Giê-su đúc kết là cốt lõi của toàn bộ luật pháp.
 
 ---
 

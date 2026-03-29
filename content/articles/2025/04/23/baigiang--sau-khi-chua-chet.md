@@ -24,13 +24,13 @@ Bức màn bị xé từ trên xuống — không phải từ dưới lên — c
 
 Những nghi lễ đó là "bóng", còn "hình" chính là Đức Chúa Giê-su Christ. Khi hình đã xuất hiện, bóng không còn ý nghĩa. Như mục sư Dương Quang Thoại minh họa: khi bạn đón người thân ở sân bay mà vẫn ôm nhìn tấm ảnh của họ thay vì ôm chính người đó, điều đó thật vô lý. Nghi lễ Cựu Ước là tấm ảnh dẫn dắt về Đấng Christ thật — và nay Ngài đã đến.
 
-Từ thời điểm đó, mọi người tin Chúa Giê-su đều có quyền bước thẳng vào sự hiện diện Đức Chúa Trời — không cần qua thầy tế lễ, không cần nghi lễ, chỉ cần qua thập tự giá.
+Từ thời điểm đó, mọi người tin Đức Chúa Giê-su đều có quyền bước thẳng vào sự hiện diện Đức Chúa Trời — không cần qua thầy tế lễ, không cần nghi lễ, chỉ cần qua thập tự giá.
 
 ---
 
 ## Mồ Mả Mở Ra: Quyền Năng Phục Sinh Đã Đến
 
-Sự kiện thứ hai là đất rúng động, đá lớn bể ra, và nhiều thây của các thánh đã qua đời được sống lại (câu 52-53). Sau khi Chúa Giê-su sống lại vào buổi sáng ngày thứ nhất, các thánh đó ra khỏi mồ mả, đi vào thành thánh và hiện ra cho nhiều người thấy.
+Sự kiện thứ hai là đất rúng động, đá lớn bể ra, và nhiều thây của các thánh đã qua đời được sống lại (câu 52-53). Sau khi Đức Chúa Giê-su sống lại vào buổi sáng ngày thứ nhất, các thánh đó ra khỏi mồ mả, đi vào thành thánh và hiện ra cho nhiều người thấy.
 
 Có một tranh luận về thời điểm: phải chăng họ sống lại ngay lúc Chúa chết chiều thứ Sáu, hay là họ chỉ sống lại sau khi Chúa sống lại vào sáng Chủ Nhật? Cách tường thuật của Ma-thi-ơ có thể gây nhầm lẫn, nhưng điều quan trọng hơn thời điểm chính là sứ điệp: sự chết của Đấng Christ mang theo quyền năng phục sinh.
 
@@ -42,7 +42,7 @@ Sự chết sẽ không còn là điều bi đát tuyệt đối đối với nh
 
 Sự kiện thứ ba là lời chứng của thầy đội La Mã và những người lính canh giữ. Khi thấy đất rúng động, đá bể, trời đất âm u, viên sĩ quan La Mã — được rèn luyện để lạnh lùng và cứng rắn — đã thốt lên: *"Thật người này là Con Đức Chúa Trời."*
 
-Chúa Giê-su đã phán trước trong Giăng 12:32: *"Còn Ta, khi Ta đã được treo lên khỏi đất, Ta sẽ kéo mọi người đến cùng Ta."* Lời này ứng nghiệm ngay tại đồi Gô-gô-tha khi Ngài trút hơi thở cuối cùng. Qua hơn 2000 năm, lời đó vẫn tiếp tục ứng nghiệm — và đó là sứ mạng của mỗi người tin Chúa: kéo mọi người đến cùng Ngài, không phải kéo về giáo hội mình hay đường lối mình.
+Đức Chúa Giê-su đã phán trước trong Giăng 12:32: *"Còn Ta, khi Ta đã được treo lên khỏi đất, Ta sẽ kéo mọi người đến cùng Ta."* Lời này ứng nghiệm ngay tại đồi Gô-gô-tha khi Ngài trút hơi thở cuối cùng. Qua hơn 2000 năm, lời đó vẫn tiếp tục ứng nghiệm — và đó là sứ mạng của mỗi người tin Chúa: kéo mọi người đến cùng Ngài, không phải kéo về giáo hội mình hay đường lối mình.
 
 Sự kiện thứ tư là những người phụ nữ đứng nhìn từ xa. Họ đã theo Chúa suốt ba năm rưỡi từ Ga-li-lê xuống Giê-ru-sa-lem, âm thầm lo liệu phần ăn uống, nấu nướng, giặt giũ cho cả đoàn thầy trò. Khi tất cả các môn đồ bỏ chạy, họ vẫn ở đó — dù bị cắm lại xa xa, họ vẫn tiến đến gần nhất có thể.
 
@@ -54,15 +54,15 @@ Lòng trung thành của họ không cần ai biết đến. Họ không cần �
 
 Khi vấn đề chôn cất Chúa trở nên cấp bách — luật Do Thái không cho treo xác tội nhân qua đêm, và ngày Sa-bát sắp đến — một nhân vật bước ra: Giô-sép người A-ri-ma-thê.
 
-Ông là nghị viên tòa công luận nhưng cũng là môn đồ của Chúa Giê-su. Lu-ca 23:51 ghi rõ ông "không đồng ý và cũng không dự việc các người kia đã làm." Nhiều khả năng thầy cả thượng phẩm đã cố tình không triệu tập ông trong đêm xét xử Chúa, vì biết ông sẽ phản đối.
+Ông là nghị viên tòa công luận nhưng cũng là môn đồ của Đức Chúa Giê-su. Lu-ca 23:51 ghi rõ ông "không đồng ý và cũng không dự việc các người kia đã làm." Nhiều khả năng thầy cả thượng phẩm đã cố tình không triệu tập ông trong đêm xét xử Chúa, vì biết ông sẽ phản đối.
 
-Giô-sép đã can đảm đến gặp Phi-lát để xin xác Chúa — hành động này công khai hóa sự đồng nhất của ông với một tội nhân bị hành hình. Ông tặng cho Chúa Giê-su ngôi mộ mới đục trong đá mà ông đã chuẩn bị cho chính mình. Đây là hành động yêu thương táo bạo trong giờ phút nguy hiểm nhất.
+Giô-sép đã can đảm đến gặp Phi-lát để xin xác Chúa — hành động này công khai hóa sự đồng nhất của ông với một tội nhân bị hành hình. Ông tặng cho Đức Chúa Giê-su ngôi mộ mới đục trong đá mà ông đã chuẩn bị cho chính mình. Đây là hành động yêu thương táo bạo trong giờ phút nguy hiểm nhất.
 
 ---
 
 ## Kẻ Ác Sợ Chúa Sống Lại
 
-Phần cuối của đoạn Kinh Thánh này chứa đựng sự mỉa mai sâu sắc: đến ngày Sa-bát, các thầy tế lễ và người Pha-ri-si — chính những người đã tuyên bố Chúa Giê-su là kẻ lừa dối — lại đến gặp Phi-lát để xin lính canh mộ.
+Phần cuối của đoạn Kinh Thánh này chứa đựng sự mỉa mai sâu sắc: đến ngày Sa-bát, các thầy tế lễ và người Pha-ri-si — chính những người đã tuyên bố Đức Chúa Giê-su là kẻ lừa dối — lại đến gặp Phi-lát để xin lính canh mộ.
 
 Đây là ngày Sa-bát, ngày họ không được phép làm việc theo luật mà chính họ bảo vệ. Vậy mà họ đã vi phạm để thực hiện mưu đồ. Lý do họ đưa ra: sợ các môn đồ đến trộm xác rồi phao tin Chúa sống lại.
 
@@ -74,7 +74,7 @@ Phi-lát từ chối thẳng thừng: "Các ngươi có lính canh; hãy đi can
 
 ## Ứng Dụng Cho Cuộc Sống
 
-Ma-thi-ơ 27:51-66 đặt trước mắt chúng ta một loạt sự kiện sau cái chết của Chúa Giê-su, mỗi sự kiện mang một sứ điệp riêng:
+Ma-thi-ơ 27:51-66 đặt trước mắt chúng ta một loạt sự kiện sau cái chết của Đức Chúa Giê-su, mỗi sự kiện mang một sứ điệp riêng:
 
 - **Bức màn xé**: Chúng ta được bước thẳng vào sự hiện diện Đức Chúa Trời — đừng mang nặng gánh nghi lễ, hãy đến trực tiếp qua thập tự giá.
 - **Các thánh sống lại**: Sự chết không phải là kết thúc — hy vọng phục sinh là thật và chắc chắn.

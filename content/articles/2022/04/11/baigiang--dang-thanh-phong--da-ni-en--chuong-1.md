@@ -16,7 +16,7 @@ description: "Qua ba từ 'vả' trong Đa-ni-ên chương 1, Mục Sư Đặng 
 
 ## Đa-ni-ên: Sách Tiên Tri Dành Cho Ngày Cuối Cùng
 
-Sách Đa-ni-ên gồm 12 chương, được chia làm hai phần rõ ràng. Sáu chương đầu cho biết dân sự Chúa phải sống như thế nào trong ngày cuối cùng. Sáu chương sau cho biết chuyện gì sẽ xảy ra trên thế giới trong thời kỳ cuối cùng. Chính Chúa Giê-su trong Ma-thi-ơ 24:15 đã xác nhận Đa-ni-ên là đấng tiên tri và khuyên rằng "ai đọc phải để ý" — nghĩa là sách này liên quan trực tiếp đến ngày tận thế. Đa-ni-ên 12:4 cũng ghi rõ: những lời này sẽ được đóng lại cho đến kỳ cuối cùng, khi sự đi lại nhanh chóng và học thức gia tăng — đúng như thực tế thế giới ngày nay.
+Sách Đa-ni-ên gồm 12 chương, được chia làm hai phần rõ ràng. Sáu chương đầu cho biết dân sự Chúa phải sống như thế nào trong ngày cuối cùng. Sáu chương sau cho biết chuyện gì sẽ xảy ra trên thế giới trong thời kỳ cuối cùng. Chính Đức Chúa Giê-su trong Ma-thi-ơ 24:15 đã xác nhận Đa-ni-ên là đấng tiên tri và khuyên rằng "ai đọc phải để ý" — nghĩa là sách này liên quan trực tiếp đến ngày tận thế. Đa-ni-ên 12:4 cũng ghi rõ: những lời này sẽ được đóng lại cho đến kỳ cuối cùng, khi sự đi lại nhanh chóng và học thức gia tăng — đúng như thực tế thế giới ngày nay.
 
 Riêng chương 1, tuy là chương mở đầu nhưng đã chứa đựng cả hai vấn đề: tình trạng thế giới trong ngày cuối cùng và cách sống của dân sự Chúa. Bài giảng tập trung vào ba từ "vả" xuất hiện trong chương này, mỗi từ mở ra một bài học quan trọng.
 

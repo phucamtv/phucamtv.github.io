@@ -108,7 +108,7 @@ Và bây giờ, ông không thể ở lại bảo vệ họ nữa. Ông giao ph�
 
 Phao-lô tự làm việc tay chân để không lệ thuộc tài chính vào Hội Thánh, bởi ông hiểu một nguyên tắc thực tế: *lệ thuộc kinh tế thì lép vế lập trường.* Người không bị ràng buộc bởi tiền lương sẽ mạnh dạn rao truyền lẽ thật mà không sợ bị đe dọa, bị cắt hỗ trợ.
 
-Ông cũng nhắc lại một câu của Chúa Giê-su không ghi trong bốn sách Phúc Âm:
+Ông cũng nhắc lại một câu của Đức Chúa Giê-su không ghi trong bốn sách Phúc Âm:
 
 > *"Ban cho thì có phước hơn là nhận lãnh."* (câu 35)
 

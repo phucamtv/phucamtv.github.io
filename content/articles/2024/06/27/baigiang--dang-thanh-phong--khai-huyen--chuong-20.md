@@ -47,7 +47,7 @@ I Cô-rinh-tô 6:2–3 xác nhận: các thánh đồ sẽ xét đoán thế gia
 
 Kinh Thánh nêu ra ba nhóm người đặc biệt được tham gia phán xét cùng Chúa trong một ngàn năm:
 
-1. **Những người chết chém vì làm chứng cho Đức Chúa Giê-su** — các sứ đồ và tín hữu thời hội thánh đầu tiên, bị giết vì công khai tuyên bố Chúa Giê-su là Đấng Mê-si.
+1. **Những người chết chém vì làm chứng cho Đức Chúa Giê-su** — các sứ đồ và tín hữu thời hội thánh đầu tiên, bị giết vì công khai tuyên bố Đức Chúa Giê-su là Đấng Mê-si.
 
 2. **Những người chết vì lời Đức Chúa Trời** — những tín hữu thời trung cổ bị giết vì bảo vệ Kinh Thánh, rao giảng lẽ thật trong đêm trường trung cổ khi thế lực Ba-by-lôn tiêu diệt những ai sở hữu Kinh Thánh.
 

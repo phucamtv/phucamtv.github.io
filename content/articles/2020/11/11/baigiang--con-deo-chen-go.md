@@ -25,7 +25,7 @@ Một ngày kia, hai vợ chồng đi chợ về, thấy đứa con lên tám đ
 
 Hiếu thảo với cha mẹ là nền tảng cho đạo đức trong mọi cách cư xử ở đời. Bất hiếu là một trọng tội, vì cha mẹ là người ta thấy được mà ta không yêu thương tôn kính, thì nói gì đến việc yêu thương tôn kính một Đức Chúa Trời mà ta không nhìn thấy được.
 
-Chúa Giê-su truyền dạy rằng những ai biện bạch rằng mình không thể giúp đỡ cha mẹ vì thời gian phải dành cho công việc Chúa, thì cũng là phạm điều răn thứ năm (Ma-thi-ơ 15:5). Lý do phục vụ Chúa không thể trở thành cái cớ để bỏ bê trách nhiệm với đấng sinh thành. Đức Chúa Trời không chấp nhận sự thờ phượng được xây trên nền tảng bất hiếu.
+Đức Chúa Giê-su truyền dạy rằng những ai biện bạch rằng mình không thể giúp đỡ cha mẹ vì thời gian phải dành cho công việc Chúa, thì cũng là phạm điều răn thứ năm (Ma-thi-ơ 15:5). Lý do phục vụ Chúa không thể trở thành cái cớ để bỏ bê trách nhiệm với đấng sinh thành. Đức Chúa Trời không chấp nhận sự thờ phượng được xây trên nền tảng bất hiếu.
 
 ## Luật Gieo Và Gặt
 

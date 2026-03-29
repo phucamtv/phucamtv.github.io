@@ -46,7 +46,7 @@ Câu chuyện về Kỳ Hoàng Dương tiến cử chính kẻ thù của mình 
 
 Công việc chính của người hầu việc Chúa là đưa người khác đến với Chúa — Kinh Thánh dùng chữ "cứu." Chữ "cứu" cho thấy tình trạng tuyệt vọng của những người cần được giúp đỡ. Nếu một người đi hầu việc Chúa chỉ vì trách nhiệm, vì đồng tiền, vì danh vọng mà không có tình yêu đối với tha nhân, thì không thể nào cứu được ai.
 
-Ê-xê-chi-ên 34 phân biệt rõ ràng giữa người chăn chiên thật và kẻ chăn thuê. Người chăn thật tìm đồng cỏ xanh, dòng nước mát cho bầy chiên; kẻ chăn thuê dẫm nát cỏ, làm đục nước rồi bắt chiên ăn uống những thứ nhơ bẩn ấy. Mô-se phải chăn chiên 40 năm để học cách đối xử với một bầy chiên đủ loại — con khỏe mạnh, con yếu đuối, con ngỗ nghịch, con bị thương tích — trước khi dẫn dắt hơn 600.000 người Israel. Bài học ở đây: đừng bao giờ loại bỏ ai, dù họ như thế nào, họ vẫn đáng để có được Thập Tự Giá. Ma-thi-ơ 12:20 nói về Chúa Giê-su: "Người sẽ chẳng bẻ cây sậy đã gãy, chẳng tắt ngọn đèn gần tàn."
+Ê-xê-chi-ên 34 phân biệt rõ ràng giữa người chăn chiên thật và kẻ chăn thuê. Người chăn thật tìm đồng cỏ xanh, dòng nước mát cho bầy chiên; kẻ chăn thuê dẫm nát cỏ, làm đục nước rồi bắt chiên ăn uống những thứ nhơ bẩn ấy. Mô-se phải chăn chiên 40 năm để học cách đối xử với một bầy chiên đủ loại — con khỏe mạnh, con yếu đuối, con ngỗ nghịch, con bị thương tích — trước khi dẫn dắt hơn 600.000 người Israel. Bài học ở đây: đừng bao giờ loại bỏ ai, dù họ như thế nào, họ vẫn đáng để có được Thập Tự Giá. Ma-thi-ơ 12:20 nói về Đức Chúa Giê-su: "Người sẽ chẳng bẻ cây sậy đã gãy, chẳng tắt ngọn đèn gần tàn."
 
 ---
 

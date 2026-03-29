@@ -26,7 +26,7 @@ Khải Huyền 3:1 nói với Hội Thánh Sạt-đe: *"Ta biết công việc n
 
 Đây là lời cảnh báo đau nhất có thể nói với một hội thánh. Chết hẳn thì còn đỡ — bởi vì ít nhất nó nhất quán. Đau nhất là *có tiếng là sống* — nhìn bề ngoài thì rất năng nổ, nhiều chương trình, đông đúc, hoành tráng, tốn kém — nhưng bên trong không có Thánh Linh, không có sức sống từ nơi Chúa.
 
-Chúa Giê-su dạy trong Ma-thi-ơ 4:10: *"Ngươi phải thờ phượng Chúa là Đức Chúa Trời ngươi và chỉ hầu việc một mình Ngài mà thôi."* Nhưng ngày nay có quá nhiều "thần" cạnh tranh sự chú ý của chúng ta — thần Facebook, thần TikTok, thần hài kịch, thần những thú vui đời này. Chúng ta có thể thờ phượng Chúa trong nhà thờ, nhưng rời cửa ra là lập tức chuyển sang những "thần" khác mà không nhận ra.
+Đức Chúa Giê-su dạy trong Ma-thi-ơ 4:10: *"Ngươi phải thờ phượng Chúa là Đức Chúa Trời ngươi và chỉ hầu việc một mình Ngài mà thôi."* Nhưng ngày nay có quá nhiều "thần" cạnh tranh sự chú ý của chúng ta — thần Facebook, thần TikTok, thần hài kịch, thần những thú vui đời này. Chúng ta có thể thờ phượng Chúa trong nhà thờ, nhưng rời cửa ra là lập tức chuyển sang những "thần" khác mà không nhận ra.
 
 Ma-thi-ơ 6:24 cảnh báo rõ: *"Chẳng ai được làm tôi hai chủ... Các ngươi không thể làm tôi Đức Chúa Trời, lại làm tôi Ma-môn nữa."* Ma-môn là thần tiền bạc. Lòng chúng ta không đủ chỗ cho cả hai.
 
@@ -68,7 +68,7 @@ Ngay cả người truyền đạo cũng không miễn nhiễm với sự ngại
 
 Hai câu chuyện chứng đạo đáng suy gẫm:
 
-**Người bị quỷ ám tại Decabolis** (Mác 5:18-20): Sau khi được chữa lành, người đàn ông này xin theo Chúa. Nhưng Chúa Giê-su nói không — hãy về nhà và thuật lại những gì Ngài đã làm. Kết quả: cả vùng Decabolis, nơi không có người Do Thái sinh sống, đã có tín hữu và hội thánh — chỉ từ lời chứng của một người từng trần truồng trong nghĩa trang, tự rạch thân mình.
+**Người bị quỷ ám tại Decabolis** (Mác 5:18-20): Sau khi được chữa lành, người đàn ông này xin theo Chúa. Nhưng Đức Chúa Giê-su nói không — hãy về nhà và thuật lại những gì Ngài đã làm. Kết quả: cả vùng Decabolis, nơi không có người Do Thái sinh sống, đã có tín hữu và hội thánh — chỉ từ lời chứng của một người từng trần truồng trong nghĩa trang, tự rạch thân mình.
 
 **Người phụ nữ Sa-ma-ri** (Giăng 4:28-30): Bà không dám ra giếng buổi sáng vì tiếng xấu. Nhưng sau khi gặp Chúa, bà bỏ cả vò nước, chạy về báo cho cả thành. Kết quả: cả thành kéo ra gặp Chúa. Người đầu tiên nói lời cảm ơn bà? Không ai — họ nói *"chúng tôi tin là vì chính chúng tôi đã nghe, chứ không phải vì lời bà."* Bà không buồn, không phàn nàn — vì niềm vui của sự chứng đạo không cần được ghi công.
 

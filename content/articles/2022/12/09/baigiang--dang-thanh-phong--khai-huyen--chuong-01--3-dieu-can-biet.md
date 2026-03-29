@@ -1,7 +1,7 @@
 ---
-title: "Ba điều cần biết về Đức Chúa JESUS - Khải Huyền 1"
+title: "Ba điều cần biết về Đức Chúa Giê-su - Khải Huyền 1"
 date: 2022-12-09
-tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm", "Jesus Christ"]
+tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm", "Đức Chúa Giê-su Christ"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["7yfS1zcgDxo"]

@@ -34,11 +34,11 @@ Hãy tự hỏi: trong một ngày, chúng ta dành bao nhiêu thời gian nghe 
 
 ## 2. Đạo Lành Và Lời Êm Tai — Sự Khác Biệt Cốt Lõi
 
-Chúa Giê-su cầu nguyện trong Giăng 17:17: *"Xin Cha lấy lẽ thật khiến họ nên thánh; lời Cha tức là lẽ thật."* Đạo lành phải khiến người ta nên thánh, phải biến đổi đời sống. Nếu những gì chúng ta nghe hàng ngày không tạo nên sự thay đổi thật sự trong con người mình, thì chúng ta chưa thực sự chạm đến chân lý.
+Đức Chúa Giê-su cầu nguyện trong Giăng 17:17: *"Xin Cha lấy lẽ thật khiến họ nên thánh; lời Cha tức là lẽ thật."* Đạo lành phải khiến người ta nên thánh, phải biến đổi đời sống. Nếu những gì chúng ta nghe hàng ngày không tạo nên sự thay đổi thật sự trong con người mình, thì chúng ta chưa thực sự chạm đến chân lý.
 
 Kinh Thánh thật sự "khó nuốt" — nó không ngọt ngào dễ chịu như những nội dung giải trí trên mạng. Lời thật thì mất lòng, và lẽ thật của Đức Chúa Trời đánh thẳng vào tim, như gươm hai lưỡi thấu đến chia hồn, linh, cốt, tủy, xem xét tư tưởng và ý định trong lòng.
 
-Chúa Giê-su phán với người Giu-đa trong Giăng 8:44-45 rằng cha họ là ma quỷ — kẻ nói dối từ ban đầu. Vì bản chất tự nhiên con người đã mang mầm dối, nên khi nghe lẽ thật thì không thích, chỉ muốn nghe những gì hợp ý mình. Câu chuyện về chàng thanh niên người Úc đeo tai nghe nhạc lớn đi trên đường ray xe lửa ở Áo năm 1993 và bị cán chết là một minh họa đau lòng: khi đã bịt tai bằng những âm thanh êm ái, chúng ta không còn nghe được tiếng cảnh báo của sự nguy hiểm đang đến.
+Đức Chúa Giê-su phán với người Giu-đa trong Giăng 8:44-45 rằng cha họ là ma quỷ — kẻ nói dối từ ban đầu. Vì bản chất tự nhiên con người đã mang mầm dối, nên khi nghe lẽ thật thì không thích, chỉ muốn nghe những gì hợp ý mình. Câu chuyện về chàng thanh niên người Úc đeo tai nghe nhạc lớn đi trên đường ray xe lửa ở Áo năm 1993 và bị cán chết là một minh họa đau lòng: khi đã bịt tai bằng những âm thanh êm ái, chúng ta không còn nghe được tiếng cảnh báo của sự nguy hiểm đang đến.
 
 ---
 
@@ -52,6 +52,6 @@ Giê-rê-mi 13:10-11 kể về hình ảnh chiếc đai gai mục nát — dân 
 
 ## Lời Kêu Gọi: Hãy Lắng Tai Nghe!
 
-Chúa Giê-su phán: *"Ai có tai mà nghe, hãy nghe!"* (Mác 4:9). Ê-sai kêu gọi: *"Hãy lắng tai, nghe tiếng ta; hãy để ý, nghe lời ta!"* (Ê-sai 28:23). Giê-rê-mi cảnh báo: nếu không chịu nghe, linh hồn Đức Giê-hô-va sẽ khóc thầm vì sự kiêu ngạo của dân sự, vì bầy của Ngài bị bắt đi.
+Đức Chúa Giê-su phán: *"Ai có tai mà nghe, hãy nghe!"* (Mác 4:9). Ê-sai kêu gọi: *"Hãy lắng tai, nghe tiếng ta; hãy để ý, nghe lời ta!"* (Ê-sai 28:23). Giê-rê-mi cảnh báo: nếu không chịu nghe, linh hồn Đức Giê-hô-va sẽ khóc thầm vì sự kiêu ngạo của dân sự, vì bầy của Ngài bị bắt đi.
 
 Câu hỏi đặt ra cho mỗi chúng ta hôm nay: Tâm hồn ta, con cái chúng ta, gia đình chúng ta đã bị bắt đi chưa? Hãy kiểm soát thính giác — cả nghĩa đen lẫn tâm linh. Đừng để những lời êm tai ru ngủ tâm hồn trong khi lẽ thật của Đức Chúa Trời đang kêu gọi sự biến đổi. Hãy gắn bó cuộc đời với Chúa từng ngày, để Lời Ngài thấm vào từng thớ thịt của tấm lòng chúng ta.

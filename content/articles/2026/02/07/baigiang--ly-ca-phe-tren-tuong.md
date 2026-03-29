@@ -30,7 +30,7 @@ Phục Truyền Luật Lệ Ký 15:11 dặn: *"Vì sẽ có kẻ nghèo trong x�
 
 Một **bàn tay xè ra** là bàn tay của sự chia sẻ và ban cho. Một **bàn tay nắm lại** là bàn tay của hưởng thụ và lòng ích kỷ.
 
-Chúa Giê-su không chỉ kêu gọi chúng ta giúp đỡ người nghèo — Ngài dùng một ẩn dụ sâu xa hơn, tuyên bố rằng chính Ngài hiện thân trong những người đó. Ma-thi-ơ 25:31-40 ghi lại: trong ngày phán xét, Vua sẽ phán cùng những người bên hữu:
+Đức Chúa Giê-su không chỉ kêu gọi chúng ta giúp đỡ người nghèo — Ngài dùng một ẩn dụ sâu xa hơn, tuyên bố rằng chính Ngài hiện thân trong những người đó. Ma-thi-ơ 25:31-40 ghi lại: trong ngày phán xét, Vua sẽ phán cùng những người bên hữu:
 
 > *"Ta đói, các ngươi đã cho ta ăn. Ta khát, các ngươi đã cho ta uống. Ta là khách lạ, các ngươi tiếp rước ta. Ta trần truồng, các ngươi mặc cho ta. Ta đau, các ngươi thăm ta. Ta bị tù, các ngươi viếng ta."*
 
@@ -48,7 +48,7 @@ Ma-thi-ơ 6:2-4 dạy:
 
 > *"Vậy khi ngươi bố thí, đừng thổi kèn trước mặt mình, như bọn giả hình làm trong nhà hội và ngoài đường, để được người ta tôn kính... Song khi ngươi bố thí, đừng cho tay tả biết tay hữu làm việc gì, hầu cho sự bố thí được kín nhiệm, và Cha ngươi là Đấng thấy trong chỗ kín nhiệm, sẽ thưởng cho ngươi."*
 
-"Thổi kèn" ở đây là nghĩa bóng — chỉ mọi hình thức phô trương, muốn người khác biết và khen ngợi mình khi làm việc tốt. Chúa Giê-su chỉ ra rằng ngay cả những người có chức vụ tôn giáo cũng có thể rơi vào bẫy này.
+"Thổi kèn" ở đây là nghĩa bóng — chỉ mọi hình thức phô trương, muốn người khác biết và khen ngợi mình khi làm việc tốt. Đức Chúa Giê-su chỉ ra rằng ngay cả những người có chức vụ tôn giáo cũng có thể rơi vào bẫy này.
 
 Điều quan trọng không phải là chúng ta cho bao nhiêu, mà là **động lực** của sự cho. Khi chúng ta làm để người khác khen, phần thưởng đó là tất cả những gì chúng ta nhận được. Nhưng khi làm trong kín nhiệm, Đức Chúa Trời — Đấng thấy mọi việc trong kín nhiệm — sẽ thưởng lại.
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 25:14-30
 
-Ẩn dụ về các ta-lâng là một trong những câu chuyện quen thuộc nhất của Chúa Giê-su, liên quan đến ngày tái lâm của Ngài. Một người chủ trước khi đi xa đã giao của cải cho ba đầy tớ: người thứ nhất năm ta-lâng, người thứ hai hai ta-lâng, và người thứ ba một ta-lâng — tùy theo khả năng mỗi người. Khi chủ trở về tín sổ, hai người đầu được khen thưởng, còn người cuối bị trừng phạt nặng nề. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi sâu vào từng chi tiết để rút ra những bài học sống động cho đời sống đức tin.
+Ẩn dụ về các ta-lâng là một trong những câu chuyện quen thuộc nhất của Đức Chúa Giê-su, liên quan đến ngày tái lâm của Ngài. Một người chủ trước khi đi xa đã giao của cải cho ba đầy tớ: người thứ nhất năm ta-lâng, người thứ hai hai ta-lâng, và người thứ ba một ta-lâng — tùy theo khả năng mỗi người. Khi chủ trở về tín sổ, hai người đầu được khen thưởng, còn người cuối bị trừng phạt nặng nề. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi sâu vào từng chi tiết để rút ra những bài học sống động cho đời sống đức tin.
 
 ---
 

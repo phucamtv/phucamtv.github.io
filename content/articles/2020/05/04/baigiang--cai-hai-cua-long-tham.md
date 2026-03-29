@@ -40,4 +40,4 @@ Lời Chúa trong I Ti-mô-thê 6:8-10 dạy rằng khi đã có đủ ăn đủ
 
 Phương thuốc chữa trị lòng tham mà Lời Chúa chỉ ra chính là lòng hy sinh và sự quên mình. Thay vì sống cho bản thân, tín hữu được kêu gọi sống vì người khác. Thay vì tích trữ cho riêng mình, hãy rộng tay ban phát. Thay vì tìm kiếm vinh hoa phú quý trần gian, hãy tìm kiếm nước Đức Chúa Trời và sự công bình của Ngài trước hết.
 
-Câu chuyện vua nước Thục nhắc nhở chúng ta rằng lòng tham không chỉ hại bản thân mà còn hại cả những người xung quanh. Nguyện xin Chúa giúp mỗi chúng ta biết bằng lòng với những gì mình có, sống đời hy sinh và quên mình theo gương Chúa Giê-su, để không rơi vào cạm bẫy chết người của lòng tham.
+Câu chuyện vua nước Thục nhắc nhở chúng ta rằng lòng tham không chỉ hại bản thân mà còn hại cả những người xung quanh. Nguyện xin Chúa giúp mỗi chúng ta biết bằng lòng với những gì mình có, sống đời hy sinh và quên mình theo gương Đức Chúa Giê-su, để không rơi vào cạm bẫy chết người của lòng tham.

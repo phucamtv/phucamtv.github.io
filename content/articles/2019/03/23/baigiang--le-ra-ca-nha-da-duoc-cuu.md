@@ -36,7 +36,7 @@ Câu 14 chép rằng khi Lót nói với các con rể: "Hãy chỗi dậy đi r
 
 Câu hỏi đặt ra là: bình thường Lót có hay nói chơi không? Lời nói của ông trong gia đình có giá trị thật sự không? Rõ ràng là không. Những con rể của ông gần như xem thường lời nói của ông. Khi con người sống một đằng mà nói một nẻo, khi lời nói không đi đôi với lối sống, thì đến lúc quan trọng nhất, không ai nghe cả.
 
-Chúa Giê-su khi giảng dạy, người ta nói: "Chưa có ai nói như người này đã nói." Uy tín không đến từ chức vụ hay danh tiếng, mà đến từ lối sống nhất quán, từ sự nghiêm túc trong từng lời nói hằng ngày. Chúng ta cần tự hỏi: lời nói của mình đối với gia đình có trọng lượng thật sự không?
+Đức Chúa Giê-su khi giảng dạy, người ta nói: "Chưa có ai nói như người này đã nói." Uy tín không đến từ chức vụ hay danh tiếng, mà đến từ lối sống nhất quán, từ sự nghiêm túc trong từng lời nói hằng ngày. Chúng ta cần tự hỏi: lời nói của mình đối với gia đình có trọng lượng thật sự không?
 
 ### 2. Vợ Chồng Không Có Đời Sống Thuộc Linh Chung
 

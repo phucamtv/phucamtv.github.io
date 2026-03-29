@@ -1,5 +1,5 @@
 ---
-title: "Hình ảnh đặc biệt của Đức Chúa JESUS - Khải Huyền 1"
+title: "Hình ảnh đặc biệt của Đức Chúa Giê-su - Khải Huyền 1"
 date: 2022-11-25
 tags: ["Khải Huyền", "Tiên Tri", "Sự Tái Lâm"]
 authors: ["dang-thanh-phong"]

@@ -16,7 +16,7 @@ Trong đời sống đức tin, có lẽ ít đề tài nào khiến người ta
 
 ## Đức Chúa Trời là Đấng ban cho
 
-Trước hết, chúng ta cần nhận biết bản tính của Đức Chúa Trời. Ngài là Đấng yêu thích sự ban cho, thực hành sự ban cho, và ban cho luôn là bản tánh chính yếu của Ngài. Ngài luôn ban cho trước — không bao giờ đòi hỏi trước. Khi A-đam và Ê-va mở mắt chào đời, mọi thứ đã được chuẩn bị sẵn sàng. Ngài luôn ban cho những điều tốt nhất, và món quà lớn nhất chính là sự cứu rỗi qua Chúa Giê-su.
+Trước hết, chúng ta cần nhận biết bản tính của Đức Chúa Trời. Ngài là Đấng yêu thích sự ban cho, thực hành sự ban cho, và ban cho luôn là bản tánh chính yếu của Ngài. Ngài luôn ban cho trước — không bao giờ đòi hỏi trước. Khi A-đam và Ê-va mở mắt chào đời, mọi thứ đã được chuẩn bị sẵn sàng. Ngài luôn ban cho những điều tốt nhất, và món quà lớn nhất chính là sự cứu rỗi qua Đức Chúa Giê-su.
 
 Đức Chúa Trời không nghèo khổ đến nỗi phải van xin tiền bạc của chúng ta. Vàng là của Ngài, bạc là của Ngài, cả thế giới này thuộc về Ngài. Việc Ngài kêu gọi chúng ta dâng hiến không phải vì Ngài thiếu thốn, mà ẩn sâu trong đó là một bí quyết: sự dâng hiến đem cho chúng ta một vị trí đặc biệt trong tấm lòng của Ngài.
 
@@ -40,7 +40,7 @@ Bản chất của việc dâng hiến chính là mối tương giao giữa chú
 
 Đầu tư với Chúa trong sứ mạng của Ngài sẽ mang lại lợi nhuận lớn hơn bất kỳ khoản đầu tư nào trên đời. Điều tự nhiên của tâm trí con người là theo đuổi những gì mình cho là quan trọng. Nếu chúng ta xem công việc Chúa là ưu tiên, chúng ta sẽ dành cho Ngài trước thay vì để Ngài nhận phần dư thừa.
 
-Chúa Giê-su dạy rằng không ai có thể làm tôi hai chủ — không thể vừa phục vụ Đức Chúa Trời vừa phục vụ tiền bạc. Nếu quá yêu tiền, không còn chỗ để yêu Chúa. Nếu yêu Chúa, tiền bạc chỉ là phương tiện chứ không phải cứu cánh.
+Đức Chúa Giê-su dạy rằng không ai có thể làm tôi hai chủ — không thể vừa phục vụ Đức Chúa Trời vừa phục vụ tiền bạc. Nếu quá yêu tiền, không còn chỗ để yêu Chúa. Nếu yêu Chúa, tiền bạc chỉ là phương tiện chứ không phải cứu cánh.
 
 ## Trước hết hãy tìm kiếm nước Đức Chúa Trời
 
@@ -48,4 +48,4 @@ Chúa Giê-su dạy rằng không ai có thể làm tôi hai chủ — không th
 
 Mọi điều chúng ta đang lo lắng — tiền bạc, thức ăn, quần áo, nhà cửa, sức khỏe, gia đình — Ngài sẽ lo liệu, nếu chúng ta đặt Ngài lên hàng đầu. Đức Chúa Trời muốn làm chủ cuộc đời chúng ta, muốn có thẩm quyền trên mọi lãnh vực. Khi chúng ta tự quyết định mọi thứ theo ý mình, chúng ta đã cướp lấy quyền của Chúa.
 
-Cuối cùng, làm quản gia trung tín là chứng tỏ Chúa Giê-su là Chúa và là Vua trong lòng chúng ta, là chứng tỏ chúng ta đang có mối tương giao cá nhân thật sự với Đức Chúa Trời. Xin Chúa giúp chúng ta thay đổi những thói quen dâng hiến chưa đúng, để từ nay dâng cho Ngài tấm lòng, tiền bạc, sức lực, thì giờ và mọi khả năng cho công việc của Ngài.
+Cuối cùng, làm quản gia trung tín là chứng tỏ Đức Chúa Giê-su là Chúa và là Vua trong lòng chúng ta, là chứng tỏ chúng ta đang có mối tương giao cá nhân thật sự với Đức Chúa Trời. Xin Chúa giúp chúng ta thay đổi những thói quen dâng hiến chưa đúng, để từ nay dâng cho Ngài tấm lòng, tiền bạc, sức lực, thì giờ và mọi khả năng cho công việc của Ngài.

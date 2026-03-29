@@ -26,9 +26,9 @@ Sau khi được chữa lành, Na-a-man mang theo lễ vật đã chuẩn bị t
 
 Ngược lại, Ghê-ha-xi mang một quan niệm khác: tại sao làm ơn lớn đến vậy mà lại không nhận sự đền đáp? Anh không cam lòng để Na-a-man ra đi mang theo tất cả lễ vật.
 
-### Lời Chúa Giê-su Dạy
+### Lời Đức Chúa Giê-su Dạy
 
-Trong Lu-ca 14:12-14, Chúa Giê-su dạy rằng khi đãi tiệc, đừng mời bạn bè hay bà con giàu có — vì họ sẽ mời lại để trả ơn. Thay vào đó, hãy mời những người nghèo khó, tàn tật, vì họ không có gì để trả lại. Phần thưởng thật sự đến từ Đức Chúa Trời. Nguyên tắc này mở rộng ra: khi chúng ta làm điều tốt với chủ đích để được đền đáp, ca ngợi hay tôn vinh, thì việc làm tốt ấy trở nên vô nghĩa.
+Trong Lu-ca 14:12-14, Đức Chúa Giê-su dạy rằng khi đãi tiệc, đừng mời bạn bè hay bà con giàu có — vì họ sẽ mời lại để trả ơn. Thay vào đó, hãy mời những người nghèo khó, tàn tật, vì họ không có gì để trả lại. Phần thưởng thật sự đến từ Đức Chúa Trời. Nguyên tắc này mở rộng ra: khi chúng ta làm điều tốt với chủ đích để được đền đáp, ca ngợi hay tôn vinh, thì việc làm tốt ấy trở nên vô nghĩa.
 
 ---
 

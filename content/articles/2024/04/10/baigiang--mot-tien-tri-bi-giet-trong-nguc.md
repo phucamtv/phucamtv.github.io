@@ -48,7 +48,7 @@ Hê-rốt là nhân vật trung tâm của câu chuyện bi kịch này. Từ cu
 
 ### 1. Lương Tâm Nặng Nề Sau Khi Phạm Tội
 
-Khi nghe tin về Chúa Giê-su, Hê-rốt lập tức sợ hãi và nói: "Đây là Giăng Báp-tít, người chết đi sống lại." Ông sống trong nỗi ám ảnh triền miên về hành động giết người vô tội của mình. Lương tâm con người không thể yên nghỉ khi mang gánh nặng tội lỗi. Sự bình an thật sự chỉ đến khi được tha thứ.
+Khi nghe tin về Đức Chúa Giê-su, Hê-rốt lập tức sợ hãi và nói: "Đây là Giăng Báp-tít, người chết đi sống lại." Ông sống trong nỗi ám ảnh triền miên về hành động giết người vô tội của mình. Lương tâm con người không thể yên nghỉ khi mang gánh nặng tội lỗi. Sự bình an thật sự chỉ đến khi được tha thứ.
 
 ### 2. Sự Hèn Nhát Và Nhu Nhược
 
@@ -62,7 +62,7 @@ Việc lấy Hê-rô-đia làm vợ là quyết định dẫn đến sự sụp 
 
 ## Cái Chết Của Giăng Báp-tít: Quan Điểm Kinh Thánh
 
-Nhìn theo con mắt thế gian, cái chết của Giăng Báp-tít là một bi kịch không thể giải thích được. Một người chính trực, không chỗ trách được, người mà chính Chúa Giê-su đã nói: "Trong tất cả những người được đàn bà sanh ra trên thế gian này, không ai lớn hơn Giăng Báp-tít" — lại phải chết một cách tàn khốc, không toàn vẹn như vậy.
+Nhìn theo con mắt thế gian, cái chết của Giăng Báp-tít là một bi kịch không thể giải thích được. Một người chính trực, không chỗ trách được, người mà chính Đức Chúa Giê-su đã nói: "Trong tất cả những người được đàn bà sanh ra trên thế gian này, không ai lớn hơn Giăng Báp-tít" — lại phải chết một cách tàn khốc, không toàn vẹn như vậy.
 
 Nhiều triết lý và tôn giáo sẽ giải thích điều này theo thuyết nghiệp báo: có lẽ kiếp trước đã làm điều gì đó nên kiếp này phải chịu hậu quả. Nhưng Kinh Thánh bác bỏ hoàn toàn cách giải thích đó.
 

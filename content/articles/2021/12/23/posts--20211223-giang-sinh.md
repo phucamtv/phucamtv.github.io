@@ -1,7 +1,7 @@
 ---
-title: "Sự Giáng Sinh Của Đức Chúa JESUS có phải là sự thật?"
+title: "Sự Giáng Sinh Của Đức Chúa Giê-su có phải là sự thật?"
 date: 2021-12-23
-tags: ["Jesus Christ", "Giáng Sinh"]
+tags: ["Đức Chúa Giê-su Christ", "Giáng Sinh"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["p9EGydkk_W0"]

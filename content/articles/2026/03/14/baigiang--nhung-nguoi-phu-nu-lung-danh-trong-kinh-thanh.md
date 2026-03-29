@@ -46,15 +46,15 @@ Cần hiểu đúng: không phải Kinh Thánh xem thường người phụ nữ
 
 Ngay từ lời rủa sả trên con rắn, Đức Chúa Trời đã đặt người phụ nữ vào trọng tâm của chương trình cứu rỗi. Đấng Mê-si-a sẽ đến qua dòng dõi người nữ.
 
-### 5. Những tổ mẫu của Chúa Giê-su — hoàn cảnh trái ngang
+### 5. Những tổ mẫu của Đức Chúa Giê-su — hoàn cảnh trái ngang
 
-Ma-thi-ơ chương 1 ghi lại gia phả của Chúa Giê-su với ba người phụ nữ có hoàn cảnh đặc biệt trái ngang:
+Ma-thi-ơ chương 1 ghi lại gia phả của Đức Chúa Giê-su với ba người phụ nữ có hoàn cảnh đặc biệt trái ngang:
 
 - **Tha-ma** (câu 3): Con dâu của Giu-đa, cải trang thành gái điếm để sinh con với cha chồng mình.
 - **Ru-tơ** (câu 5): Góa phụ người Mô-áp, theo mẹ chồng về quê hương, ngủ dưới chân ông Bô-ô. Bà là bà cố nội của vua Đa-vít.
 - **Bát-Sê-ba** (câu 6): Vợ của U-ri, bị vua Đa-vít cưỡng đoạt sau khi sắp đặt cho U-ri chết trận. Bà sinh ra Sa-lô-môn.
 
-Ba tổ mẫu của Chúa Giê-su đều có quá khứ đau thương và trái ngang. Điều này nhắc nhở chúng ta: **dù quá khứ của chúng ta như thế nào, điều quan trọng là từ khi biết Chúa, cuộc sống của chúng ta được biến đổi ra sao**.
+Ba tổ mẫu của Đức Chúa Giê-su đều có quá khứ đau thương và trái ngang. Điều này nhắc nhở chúng ta: **dù quá khứ của chúng ta như thế nào, điều quan trọng là từ khi biết Chúa, cuộc sống của chúng ta được biến đổi ra sao**.
 
 ---
 
@@ -101,7 +101,7 @@ Ba tổ mẫu của Chúa Giê-su đều có quá khứ đau thương và trái 
 | 2 | **Đê-bô-ra** | Nữ tiên tri, nữ quan xét, lãnh đạo dân Israel chiến thắng | Các quan xét 5 |
 | 3 | **An-ne** | Dâng đứa con trai duy nhất — Sa-mu-ên — cho Đức Chúa Trời | I Sa-mu-ên 2:1-10 |
 | 4 | **Ê-li-sa-bét** | Mẹ của Giăng Báp-tít, đức độ thánh thiện | Lu-ca 1:42 |
-| 5 | **Ma-ri** | Mẹ phần xác của Chúa Giê-su, được Chúa chọn lựa đặc biệt | Lu-ca 1:46 |
+| 5 | **Ma-ri** | Mẹ phần xác của Đức Chúa Giê-su, được Chúa chọn lựa đặc biệt | Lu-ca 1:46 |
 | 6 | **Ru-tơ** | Hiếu thảo với mẹ chồng, theo mẹ chồng về quê hương | Sách Ru-tơ |
 | 7 | **Na-ô-mi** | Kính sợ Đức Chúa Trời, khôn ngoan giúp Ru-tơ tìm được tương lai | Ru-tơ 1 |
 | 8 | **Bà góa Sa-rép-ta** | Đức tin dâng phần bột và dầu cuối cùng cho tiên tri Ê-li | I Các Vua 17:8-24 |
@@ -110,7 +110,7 @@ Ba tổ mẫu của Chúa Giê-su đều có quá khứ đau thương và trái 
 | 11 | **Bà góa dâng của** | Dâng hai đồng xu cuối cùng — tất cả những gì bà có | Lu-ca 21:2-4 |
 | 12 | **Ma-ri và Ma-thê** | Yêu mến Chúa, tiếp đón Ngài, ngồi dưới chân Ngài nghe lời dạy | Mác 14 |
 | 13 | **Ma-ri Ma-đơ-len** | Được Chúa chữa lành, trung thành theo Ngài, người đầu tiên gặp Ngài sau khi phục sinh | Mác 16:1 |
-| 14 | **Vợ Phi-lát** | Khuyên can chồng đừng xử Chúa Giê-su vì Ngài là người công chính | Ma-thi-ơ 27:19 |
+| 14 | **Vợ Phi-lát** | Khuyên can chồng đừng xử Đức Chúa Giê-su vì Ngài là người công chính | Ma-thi-ơ 27:19 |
 | 15 | **Đô-ca** | May quần áo, mền gối giúp người nghèo trong cộng đồng | Công-vụ 9:36 |
 | 16 | **Ly-đi** | Kính sợ Chúa, mở nhà làm điểm nhóm, góp phần thành lập Hội Thánh | Công-vụ 16:14 |
 | 17 | **Lô-ít và Ơ-nít** | Bà ngoại và mẹ Ti-mô-thê, để lại gương đức tin cho con cháu | I Ti-mô-thê 1:5 |
@@ -123,7 +123,7 @@ Ba tổ mẫu của Chúa Giê-su đều có quá khứ đau thương và trái 
 
 **An-ne** — Dâng đứa con trai duy nhất — đứa con cầu xin bao năm — cho Đức Chúa Trời phục vụ ở đền thờ. Đức tin và lòng dâng hiến của bà không có gì sánh được. Chúa đã đáp lại bằng cách ban thêm cho bà những đứa con khác.
 
-**Bà góa dâng của** — Khi Chúa Giê-su ngồi quan sát người ta dâng tiền, Ngài không nhìn vào số tiền mà nhìn vào tỉ lệ. Bà góa dâng hai đồng xu — tất cả những gì bà có trong ngày — được Chúa ghi nhận là *người dâng nhiều nhất*. Có thể bữa trưa hôm đó bà không còn gì ăn. Nhưng bà đã dâng hết.
+**Bà góa dâng của** — Khi Đức Chúa Giê-su ngồi quan sát người ta dâng tiền, Ngài không nhìn vào số tiền mà nhìn vào tỉ lệ. Bà góa dâng hai đồng xu — tất cả những gì bà có trong ngày — được Chúa ghi nhận là *người dâng nhiều nhất*. Có thể bữa trưa hôm đó bà không còn gì ăn. Nhưng bà đã dâng hết.
 
 **Lô-ít và Ơ-nít** — Hai người phụ nữ không nổi tiếng, không có chức vụ lớn. Nhưng họ đã trung thành xây dựng đức tin cho Ti-mô-thê — người cộng sự đắc lực của Phao-lô sau này. Ảnh hưởng của một người mẹ, người bà trên đức tin của con cháu là di sản quý báu nhất.
 
@@ -133,6 +133,6 @@ Ba tổ mẫu của Chúa Giê-su đều có quá khứ đau thương và trái 
 
 Qua 35 câu chuyện về người phụ nữ trong Kinh Thánh — từ gương xấu đến gương tốt — chúng ta thấy một bức tranh toàn diện và trung thực về nhân loại. Kinh Thánh không tô vẽ hay che giấu sự thật.
 
-Dù bạn là ai, dù quá khứ của bạn như thế nào — luôn luôn có chỗ để bắt đầu lại. Ba tổ mẫu của Chúa Giê-su đều có hoàn cảnh trái ngang, nhưng họ vẫn được ghi danh trong gia phả của Đấng Cứu Thế. Điều quan trọng không phải là nơi chúng ta bắt đầu, mà là chúng ta chọn đứng ở đâu từ hôm nay trở đi.
+Dù bạn là ai, dù quá khứ của bạn như thế nào — luôn luôn có chỗ để bắt đầu lại. Ba tổ mẫu của Đức Chúa Giê-su đều có hoàn cảnh trái ngang, nhưng họ vẫn được ghi danh trong gia phả của Đấng Cứu Thế. Điều quan trọng không phải là nơi chúng ta bắt đầu, mà là chúng ta chọn đứng ở đâu từ hôm nay trở đi.
 
 Người phụ nữ được kêu gọi trong thiên chức cao quý: làm vợ, làm mẹ, làm chị — và qua những vai trò ấy, góp phần làm cho gia đình, xã hội và thế giới trở nên tốt đẹp hơn mỗi ngày.

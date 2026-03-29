@@ -16,7 +16,7 @@ draft: false
 
 Mỗi dịp Tết đến, chúng ta vui mừng sum họp, ngắm pháo hoa rực rỡ trên bầu trời đêm giao thừa. Nhưng pháo hoa chỉ bùng lên trong phút chốc rồi tắt lịm, trả lại bầu trời đen thẫm. Thi Thiên 90:10 nhắc rằng đời người đến được bảy mươi, mạnh khỏe thì đến tám mươi — rồi chóng qua, bay mất đi. Mọi niềm vui trần thế đều là tạm bợ.
 
-Nhưng Hê-bơ-rơ 12:2 mở ra một hướng nhìn khác: *"Nhìn xem Đức Chúa Jêsus, là cội rễ và cuối cùng của đức tin, tức là Đấng vì sự vui mừng đã đặt trước mặt mình, chịu lấy thập tự giá, khinh điều sỉ nhục."* Trước mắt Chúa Giê-su là cái chết bi thảm, là sỉ nhục, đòn roi — nhưng Ngài vẫn chịu lấy vì sự vui mừng đã đặt trước mặt Ngài. Đó chính là tấm gương cho chúng ta: hãy đặt trước mặt mình niềm vui trong Chúa, không phải niềm vui của trần thế.
+Nhưng Hê-bơ-rơ 12:2 mở ra một hướng nhìn khác: *"Nhìn xem Đức Chúa Jêsus, là cội rễ và cuối cùng của đức tin, tức là Đấng vì sự vui mừng đã đặt trước mặt mình, chịu lấy thập tự giá, khinh điều sỉ nhục."* Trước mắt Đức Chúa Giê-su là cái chết bi thảm, là sỉ nhục, đòn roi — nhưng Ngài vẫn chịu lấy vì sự vui mừng đã đặt trước mặt Ngài. Đó chính là tấm gương cho chúng ta: hãy đặt trước mặt mình niềm vui trong Chúa, không phải niềm vui của trần thế.
 
 ---
 
@@ -44,7 +44,7 @@ Thi Thiên 122:1 — "Tôi vui mừng khi người ta nói với tôi rằng: Ta
 
 Khi Đa-vít kêu gọi dân sự dâng hiến chuẩn bị vật liệu xây đền thờ, I Sử Ký 29:9 ghi: "Dân sự lấy làm vui mừng về sự mình chọn lòng vui ý dâng cho Đức Giê-hô-va, và vua Đa-vít cũng lấy làm vui mừng lắm."
 
-Chúa Giê-su phán: đừng chứa của cải dưới đất, hãy chứa của cải trên trời. Những gì chúng ta phục vụ Chúa tại đây được ghi nhận và chuyển giao lên thiên đàng. Trên thiên đàng không có sự bình đẳng kiểu ai cũng giống ai, nhưng có sự công bình — mỗi người nhận phần thưởng tùy theo việc mình làm.
+Đức Chúa Giê-su phán: đừng chứa của cải dưới đất, hãy chứa của cải trên trời. Những gì chúng ta phục vụ Chúa tại đây được ghi nhận và chuyển giao lên thiên đàng. Trên thiên đàng không có sự bình đẳng kiểu ai cũng giống ai, nhưng có sự công bình — mỗi người nhận phần thưởng tùy theo việc mình làm.
 
 Thi Thiên 126:5 khích lệ: "Kẻ nào gieo giống mà giọt lệ, sẽ gặt hái cách vui mừng." Làm công việc Chúa có khi bị chửi bới, gặp khó khăn, bị từ chối — nhưng Chúa đựng từng giọt nước mắt của chúng ta trong ve của Ngài, và ngày đến với Chúa, chúng ta sẽ thấy tất cả thật sự ý nghĩa biết bao.
 
@@ -52,7 +52,7 @@ Thi Thiên 126:5 khích lệ: "Kẻ nào gieo giống mà giọt lệ, sẽ gặ
 
 ## 4. Vui Vì Niềm Hy Vọng Sự Sống Đời Đời
 
-Giăng 14:3 — Chúa Giê-su phán: "Khi ta đã đi và đã sắm sẵn cho các ngươi một chỗ rồi, ta sẽ trở lại đem các ngươi đi với ta, hầu cho ta ở đâu thì các ngươi cũng ở đó." Và trong lời cầu nguyện với Đức Chúa Cha (Giăng 17:24), Ngài nói: "Cha ơi, Con muốn Con ở đâu thì những kẻ Cha đã giao cho Con cũng ở đó với Con." Chúa khao khát được ở với chúng ta, thậm chí tha thiết hơn cả chúng ta mong muốn.
+Giăng 14:3 — Đức Chúa Giê-su phán: "Khi ta đã đi và đã sắm sẵn cho các ngươi một chỗ rồi, ta sẽ trở lại đem các ngươi đi với ta, hầu cho ta ở đâu thì các ngươi cũng ở đó." Và trong lời cầu nguyện với Đức Chúa Cha (Giăng 17:24), Ngài nói: "Cha ơi, Con muốn Con ở đâu thì những kẻ Cha đã giao cho Con cũng ở đó với Con." Chúa khao khát được ở với chúng ta, thậm chí tha thiết hơn cả chúng ta mong muốn.
 
 Giăng 14:28 — "Nếu các ngươi yêu mến ta thì sẽ vui mừng về điều ta đi đến cùng Cha." Niềm vui về việc sẽ được gặp Chúa, được sống mãi với Ngài — phải là niềm vui liên tục, lấn lướt mọi nỗi buồn, mọi tai họa mà cuộc đời mang đến.
 

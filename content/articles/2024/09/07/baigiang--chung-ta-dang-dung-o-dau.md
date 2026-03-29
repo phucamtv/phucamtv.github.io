@@ -32,7 +32,7 @@ Câu chuyện Ba-la-am trong **Dân-số Ký 23-24** cho thấy một bài học
 
 Con đường theo Chúa đòi hỏi sự hy sinh, chiến đấu và can đảm. Trong **Đa-ni-ên 3:10-12**, khi tất cả quỳ trước pho tượng vàng của Nê-bu-cát-nết-sa, ba chàng trai Sa-đơ-rắc, Mê-sác và A-bết-Nê-gô đứng sừng sững giữa đám đông. Họ biết mình tin ai, biết con đường mình đi, và chấp nhận hậu quả — kể cả lò lửa — để giữ vững đức tin. Không khòm xuống, không giả vờ cột dây giày, họ đứng thẳng vì biết Đấng mình thờ phượng.
 
-**Giăng 19:25** ghi lại hình ảnh xúc động tại chân thập tự giá: khi tất cả môn đồ nam đã trốn chạy, chỉ có mẹ Ngài, Ma-ri Ma-đơ-len và vài người phụ nữ dám đứng bên cạnh Chúa Giê-su trong giờ phút cuối cùng. Những người xã hội coi thường lại là những người can đảm nhất, chọn đứng bên Chúa khi mọi người khác bỏ chạy.
+**Giăng 19:25** ghi lại hình ảnh xúc động tại chân thập tự giá: khi tất cả môn đồ nam đã trốn chạy, chỉ có mẹ Ngài, Ma-ri Ma-đơ-len và vài người phụ nữ dám đứng bên cạnh Đức Chúa Giê-su trong giờ phút cuối cùng. Những người xã hội coi thường lại là những người can đảm nhất, chọn đứng bên Chúa khi mọi người khác bỏ chạy.
 
 Ê-tiên, chấp sự đầu tiên của Hội Thánh (**Công-vụ 6:12-15; 7:1-2**), bị bắt và đưa ra trước tòa Công Luận. Dù đứng ở vị trí của phạm nhân, bị vu khống và đối diện cái chết, ông mở miệng bằng lời lẽ lịch sự và lễ độ. Gương mặt ông sáng như thiên sứ. Ê-tiên dạy chúng ta rằng dù đứng ở đâu, hãy giữ phong thái của người theo Chúa — không chỉ khi ở nhà thờ, mà cả ngoài chợ, nơi làm việc, trong gia đình.
 

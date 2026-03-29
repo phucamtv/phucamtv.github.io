@@ -32,7 +32,7 @@ Truyền Đạo 12:13-14 kết luận toàn bộ sách bằng lời:
 
 Phục Truyền 4:10-13 cho thấy khi Đức Chúa Trời hiện ra tại núi Si-na-i, Ngài phán với dân Y-sơ-ra-ên từ giữa lửa — và những gì Ngài truyền lại chính là Mười Điều Răn, được chép trên hai bảng đá. Hê-bơ-rơ 12:25-29 nhắc lại rằng tiếng Chúa ngày xưa làm rung chuyển đất, và tiếng Ngài trong tương lai sẽ rung chuyển cả trời đất.
 
-Kính sợ Chúa nghĩa là nhận biết quyền năng và uy quyền của Ngài, rồi để sự nhận biết đó định hình cách ta sống mỗi ngày. Chúa Giê-su phán:
+Kính sợ Chúa nghĩa là nhận biết quyền năng và uy quyền của Ngài, rồi để sự nhận biết đó định hình cách ta sống mỗi ngày. Đức Chúa Giê-su phán:
 
 > *"Đừng sợ kẻ chỉ giết được thân thể mà không giết được linh hồn; nhưng hãy sợ Đấng có quyền hủy diệt cả linh hồn lẫn thân thể trong địa ngục."* (Ma-thi-ơ 10:28)
 

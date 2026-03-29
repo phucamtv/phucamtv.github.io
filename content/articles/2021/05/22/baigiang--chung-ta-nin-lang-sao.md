@@ -22,7 +22,7 @@ Giữa hoàn cảnh bi đát ấy, bốn người phung đứng ngoài cửa th�
 
 ## Bài Học Thứ Nhất: Hoạn Nạn Là Điều Không Thể Tránh Khỏi
 
-Một trong những sự dạy dỗ quan trọng từ câu chuyện này là xác nhận rằng dân sự của Đức Chúa Trời vẫn phải đối diện với hoạn nạn. Từ thời Ê-li, Ê-li-sê cho đến thời Tân Ước, hầu hết các tôi tớ Chúa đều trải qua những giai đoạn khó khăn kinh khủng. Chính Chúa Giê-su trong Ma-thi-ơ 24:9 đã cảnh báo rõ ràng rằng những người theo Ngài sẽ bị nộp trong sự hoạn nạn, bị giết, và bị mọi dân ghét vì danh Ngài.
+Một trong những sự dạy dỗ quan trọng từ câu chuyện này là xác nhận rằng dân sự của Đức Chúa Trời vẫn phải đối diện với hoạn nạn. Từ thời Ê-li, Ê-li-sê cho đến thời Tân Ước, hầu hết các tôi tớ Chúa đều trải qua những giai đoạn khó khăn kinh khủng. Chính Đức Chúa Giê-su trong Ma-thi-ơ 24:9 đã cảnh báo rõ ràng rằng những người theo Ngài sẽ bị nộp trong sự hoạn nạn, bị giết, và bị mọi dân ghét vì danh Ngài.
 
 Điều này nghĩa là chúng ta đừng nghe những lời đường mật hứa hẹn rằng tin Chúa thì sẽ không bao giờ gặp bệnh tật, đói khổ hay hoạn nạn. Toàn bộ Kinh Thánh cho chúng ta thấy rằng con cái Chúa vẫn có thể rơi vào hoạn nạn. Ngay cả trong thảm kịch tháp đôi tại New York, trong số những nạn nhân cũng có những người tin kính Chúa. Trong lúc hoạn nạn, tiền bạc và tài sản đều trở nên vô nghĩa — giống như trên con tàu Titanic, khi tàu sắp chìm thì dù có bao nhiêu tiền cũng chỉ là giấy vụn. Điều giữ vững chúng ta trong cơn khốn khó chính là đức tin.
 
@@ -38,7 +38,7 @@ Kết quả là chính họ trở thành những anh hùng giải cứu cả th�
 
 ### Tấm Gương Xa-chê Và Ê-xơ-tê
 
-Câu chuyện của Xa-chê cũng tương tự — chính vì thấp bé hơn mọi người mà ông mới nghĩ ra cách leo lên cây sung, và nhờ đó mà Chúa Giê-su dừng lại, nhìn lên và vào nhà ông. Nếu Xa-chê cao bình thường, ông chỉ là một trong hàng ngàn người đứng hai bên đường mà thôi.
+Câu chuyện của Xa-chê cũng tương tự — chính vì thấp bé hơn mọi người mà ông mới nghĩ ra cách leo lên cây sung, và nhờ đó mà Đức Chúa Giê-su dừng lại, nhìn lên và vào nhà ông. Nếu Xa-chê cao bình thường, ông chỉ là một trong hàng ngàn người đứng hai bên đường mà thôi.
 
 Hoàng hậu Ê-xơ-tê cũng vậy — một cô gái dân phu tù trở thành hoàng hậu, tưởng chừng vô lý, nhưng chính vì ngôi vị ấy mà bà cứu được cả dân tộc mình khỏi sự tuyệt diệt. Mạc-đô-chê đã nói với bà rằng có lẽ vì ngày hôm nay mà bà đã được đặt vào ngôi hoàng hậu.
 

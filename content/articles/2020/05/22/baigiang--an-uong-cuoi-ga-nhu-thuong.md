@@ -22,7 +22,7 @@ Rồi ngày 29 tháng 4 năm 1945, lúc một giờ khuya, Hitler tổ chức l�
 
 Theo Chúa không có nghĩa là không được ăn uống hay cưới gả. Đó là những sinh hoạt bình thường của con người. Nhưng khi những biến cố vô cùng quan trọng đang sắp diễn ra mà lòng người vẫn mãi mê thỏa mãn tham dục, sống như thể không có gì xảy ra — thì đó là sự điên cuồng.
 
-Chúa Giê-su đã cảnh báo rõ ràng trong Ma-thi-ơ 24:37–39: "Trong những ngày trước nước lụt, người ta ăn uống, cưới gả như thường, cho đến ngày Nô-ê vào tàu, và người ta không ngờ chi hết, cho đến khi nước lụt tới mà đùa đem đi hết thảy. Khi Con Người đến cũng như vậy." Thời Nô-ê, con người không phải không biết ông đang đóng tàu. Họ thấy, họ nghe, nhưng họ chọn phớt lờ. Họ tiếp tục cuộc sống ăn chơi hưởng lạc cho đến khi nước lụt ập đến và cuốn trôi tất cả.
+Đức Chúa Giê-su đã cảnh báo rõ ràng trong Ma-thi-ơ 24:37–39: "Trong những ngày trước nước lụt, người ta ăn uống, cưới gả như thường, cho đến ngày Nô-ê vào tàu, và người ta không ngờ chi hết, cho đến khi nước lụt tới mà đùa đem đi hết thảy. Khi Con Người đến cũng như vậy." Thời Nô-ê, con người không phải không biết ông đang đóng tàu. Họ thấy, họ nghe, nhưng họ chọn phớt lờ. Họ tiếp tục cuộc sống ăn chơi hưởng lạc cho đến khi nước lụt ập đến và cuốn trôi tất cả.
 
 ## Tiếng Chuông Cảnh Tỉnh Đang Vang Lên
 
@@ -32,6 +32,6 @@ Những ai có Lời Chúa, đọc Kinh Thánh và hiểu được các dấu hi
 
 ## Sứ Mạng Chúa Tái Lâm Phải Thay Đổi Nếp Sống
 
-Sự trở lại của Chúa Giê-su không phải là một khái niệm xa vời để bàn luận trong nhà thờ rồi quên đi khi bước ra ngoài. Đó phải là một thực tại ảnh hưởng trực tiếp đến nếp sống hằng ngày của mỗi tín hữu. Cách chúng ta sử dụng thời gian, cách chúng ta ưu tiên những điều thuộc linh, cách chúng ta đối xử với người xung quanh — tất cả phải phản ánh niềm tin rằng Chúa có thể trở lại bất cứ lúc nào.
+Sự trở lại của Đức Chúa Giê-su không phải là một khái niệm xa vời để bàn luận trong nhà thờ rồi quên đi khi bước ra ngoài. Đó phải là một thực tại ảnh hưởng trực tiếp đến nếp sống hằng ngày của mỗi tín hữu. Cách chúng ta sử dụng thời gian, cách chúng ta ưu tiên những điều thuộc linh, cách chúng ta đối xử với người xung quanh — tất cả phải phản ánh niềm tin rằng Chúa có thể trở lại bất cứ lúc nào.
 
 Câu chuyện Hitler tổ chức sinh nhật và đám cưới trong hầm trú ẩn giữa lúc Berlin sụp đổ là một hình ảnh đầy ám ảnh. Đó là bức tranh thu nhỏ của nhân loại đang mải mê ăn uống, cưới gả trong khi ngày phán xét đang đến gần. Đừng để khi Chúa đến, chúng ta bị bắt gặp trong tình trạng mê ngủ thuộc linh. Hãy tỉnh thức, hãy sẵn sàng, vì Con Người sẽ đến trong giờ mà chúng ta không ngờ.

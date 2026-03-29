@@ -44,11 +44,11 @@ Theo sách Giăng, người đàn bà này là Ma-ri, em của Ma-thê và La-xa
 
 **Tình yêu thật thì hoang phí.** Khi yêu thương sâu sắc, người ta không nghĩ đến giá cả. Họ chỉ muốn cho đi thật nhiều và vẫn cảm thấy là chưa đủ. Hãy xem lại tình yêu và sự dâng hiến của chúng ta cho Chúa — có đủ mạnh để vượt qua ranh giới của sự tính toán không?
 
-**Nhận định phổ thông đôi khi sai.** Cả nhóm môn đồ đều cho là bà phí phạm — đó là lý trí. Nhưng Chúa Giê-su đánh giá theo trái tim: Ngài nhìn thấy sự ăn năn, lòng biết ơn và tình yêu mãnh liệt ẩn chứa trong cái bình dầu ấy. Quà tặng của tình yêu đôi khi vượt ngoài sự mong đợi bình thường — giống như Đức Chúa Trời yêu thế gian "đến nỗi" ban Con Một của Ngài.
+**Nhận định phổ thông đôi khi sai.** Cả nhóm môn đồ đều cho là bà phí phạm — đó là lý trí. Nhưng Đức Chúa Giê-su đánh giá theo trái tim: Ngài nhìn thấy sự ăn năn, lòng biết ơn và tình yêu mãnh liệt ẩn chứa trong cái bình dầu ấy. Quà tặng của tình yêu đôi khi vượt ngoài sự mong đợi bình thường — giống như Đức Chúa Trời yêu thế gian "đến nỗi" ban Con Một của Ngài.
 
 **Tận dụng cơ hội.** Bà đã chuẩn bị trước, theo dõi lộ trình của Chúa, rồi hành động khi thời điểm đến. Cơ hội phục vụ Chúa không phải lúc nào cũng trở lại. Nếu chần chờ, cơ hội có thể vụt qua không bao giờ trở lại.
 
-**Nghĩa cử còn lưu truyền mãi.** Chúa Giê-su phán: *"Khắp cả thế gian, hễ nơi nào Tin Lành này được giảng ra, thì cũng thuật lại việc người ấy đã làm để nhớ đến người."* Câu chuyện được nhớ đến không chỉ vì vẻ đẹp của nó, mà vì nó là ánh sáng rực rỡ giữa bóng tối của phản bội và âm mưu — một tấm gương vô giá cho muôn đời.
+**Nghĩa cử còn lưu truyền mãi.** Đức Chúa Giê-su phán: *"Khắp cả thế gian, hễ nơi nào Tin Lành này được giảng ra, thì cũng thuật lại việc người ấy đã làm để nhớ đến người."* Câu chuyện được nhớ đến không chỉ vì vẻ đẹp của nó, mà vì nó là ánh sáng rực rỡ giữa bóng tối của phản bội và âm mưu — một tấm gương vô giá cho muôn đời.
 
 ---
 
@@ -62,7 +62,7 @@ Mục sư Dương Quang Thoại nêu ra ba lý do có thể dẫn đến quyết
 
 ### Giu-đa Muốn Tạo Ra Một Chúa Khác
 
-Dù lý do là gì, Giu-đa không chấp nhận Chúa Giê-su như Ngài vốn là. Ông muốn tạo ra một Đức Chúa Giê-su theo ý riêng của mình — một nhà lãnh đạo chính trị, một người cách mạng. Đây là bài học cảnh tỉnh cho mỗi tín nhân: đừng cố gắng "sửa" Chúa theo cái nhìn hạn hẹp của mình. Hãy để Chúa thay đổi chúng ta, thay vì chúng ta cố gắng thay đổi Chúa.
+Dù lý do là gì, Giu-đa không chấp nhận Đức Chúa Giê-su như Ngài vốn là. Ông muốn tạo ra một Đức Chúa Giê-su theo ý riêng của mình — một nhà lãnh đạo chính trị, một người cách mạng. Đây là bài học cảnh tỉnh cho mỗi tín nhân: đừng cố gắng "sửa" Chúa theo cái nhìn hạn hẹp của mình. Hãy để Chúa thay đổi chúng ta, thay vì chúng ta cố gắng thay đổi Chúa.
 
 ---
 

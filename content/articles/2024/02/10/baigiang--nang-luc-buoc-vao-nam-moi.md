@@ -46,7 +46,7 @@ Con người có thể thất hứa, nhưng Đức Chúa Trời thì không. Tro
 
 Tuy nhiên, một thực tế đáng suy ngẫm: nhiều gia đình có Kinh Thánh trong nhà, thậm chí nhiều quyển, nhưng chúng trở thành những quyển sách cổ chỉ để trưng bày. Chúng ta tôn trọng Kinh Thánh nhưng lại xa lạ với Kinh Thánh. Những lời hứa của Đức Chúa Trời được chứa trong đó sẽ đem cho chúng ta năng lực, nếu chúng ta chịu mở ra đọc và suy gẫm.
 
-Chúa Giê-su phán: "Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong Ta và Ta trong họ thì sinh ra lắm trái; vì ngoài Ta các ngươi chẳng làm chi được" (Giăng 15:5). Niềm tin của chúng ta không thể chỉ dựa vào truyền thống gia đình như cột dây kẽm vào cây — phải là niềm tin của chính mình, gắn kết thật sự với Chúa để nhận lấy nhựa sống từ Ngài.
+Đức Chúa Giê-su phán: "Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong Ta và Ta trong họ thì sinh ra lắm trái; vì ngoài Ta các ngươi chẳng làm chi được" (Giăng 15:5). Niềm tin của chúng ta không thể chỉ dựa vào truyền thống gia đình như cột dây kẽm vào cây — phải là niềm tin của chính mình, gắn kết thật sự với Chúa để nhận lấy nhựa sống từ Ngài.
 
 ## Lời Kết
 

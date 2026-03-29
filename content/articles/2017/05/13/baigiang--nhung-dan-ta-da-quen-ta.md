@@ -38,7 +38,7 @@ Câu 17 và 19 chỉ ra rằng mọi điều bất hạnh xảy ra đều bắt 
 
 Câu chuyện người con trai hoang đàng trong Lu-ca 15 cho thấy rõ điều này. Khi rời cha, ban đầu anh ta hít thở không khí tự do, thỏa sức vui chơi, không chịu bất kỳ ràng buộc nào. Anh ta cảm thấy hạnh phúc — cho đến khi của cải cạn kiệt và cơn đói kém ập đến. Bấy giờ anh mới tỉnh ngộ.
 
-Đứng sau sự cám dỗ bỏ Chúa là ma quỷ — một quyền lực có thể ban cho người ta sự giàu có, quyền lực, địa vị. Ngay khi cám dỗ Đức Chúa Giê-su nơi đồng vắng, nó dám chỉ hết thảy các nước thế gian và nói rằng: *"Ví bằng ngươi sấp mình trước mặt ta mà thờ lạy, thì ta sẽ cho ngươi hết thảy mọi sự này."* Khi ngay cả Chúa Giê-su mà nó còn dám đưa ra lời hứa đó, thì những con người phàm xác như chúng ta bị nó thuyết phục là điều không lạ.
+Đứng sau sự cám dỗ bỏ Chúa là ma quỷ — một quyền lực có thể ban cho người ta sự giàu có, quyền lực, địa vị. Ngay khi cám dỗ Đức Chúa Giê-su nơi đồng vắng, nó dám chỉ hết thảy các nước thế gian và nói rằng: *"Ví bằng ngươi sấp mình trước mặt ta mà thờ lạy, thì ta sẽ cho ngươi hết thảy mọi sự này."* Khi ngay cả Đức Chúa Giê-su mà nó còn dám đưa ra lời hứa đó, thì những con người phàm xác như chúng ta bị nó thuyết phục là điều không lạ.
 
 Đó là lý do vì sao nhiều người xa Chúa vẫn thấy bình thường, thậm chí còn thấy cuộc sống tốt đẹp hơn — vì kẻ thù đứng phía sau đang hỗ trợ họ. Điều này khiến người ta không thấy ngay cái bất hạnh về tâm linh của mình.
 

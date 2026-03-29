@@ -28,7 +28,7 @@ Giấc mơ ấy đã làm thay đổi cuộc đời Francis. Ông tìm thấy h�
 
 Không ai dám đồng hóa hình ảnh thánh khiết của Chúa Cứu Thế với những khuôn mặt lở loét vì bệnh tật, thân thể tiều tụy vì đói khát, nhân phẩm bị chà đạp như những kẻ tù đày. Ấy thế mà chính Chúa đã tự đồng hóa hình ảnh của Ngài như thế, để chúng ta biết quan tâm đến những kẻ cùng khổ quanh ta.
 
-Trong Ma-thi-ơ đoạn 25, câu 35 và 36, Chúa Giê-xu phán rằng khi chúng ta cho kẻ đói ăn, cho kẻ khát uống, tiếp đãi khách lạ, cho kẻ rách rưới mặc, thăm viếng kẻ đau và kẻ tù — ấy chính là chúng ta làm cho Ngài. Đây là một lẽ thật sâu sắc: phục vụ con người chính là phục vụ Đức Chúa Trời.
+Trong Ma-thi-ơ đoạn 25, câu 35 và 36, Đức Chúa Giê-su phán rằng khi chúng ta cho kẻ đói ăn, cho kẻ khát uống, tiếp đãi khách lạ, cho kẻ rách rưới mặc, thăm viếng kẻ đau và kẻ tù — ấy chính là chúng ta làm cho Ngài. Đây là một lẽ thật sâu sắc: phục vụ con người chính là phục vụ Đức Chúa Trời.
 
 ## Hạnh phúc thật đến từ sự ban cho
 

@@ -2,7 +2,7 @@
 title: "Tánh Khoe Khoang! | Ma-thi-ơ 6:1-6"
 date: 2021-10-23
 url: /baigiang/tanh-khoe-khoang/
-description: "Ma-thi-ơ 6:1-6 cho thấy Chúa Giê-su cảnh báo về sự khoe khoang trong đời sống thuộc linh — từ việc bố thí đến cầu nguyện. Bài giảng phân tích ba lý do Cơ Đốc nhân không được khoe khoang: Chúa không thích sự phô trương, tình yêu thương không cho phép, và khoe khoang chính là tội lỗi dẫn đến sự tự mãn giết chết đời sống tâm linh."
+description: "Ma-thi-ơ 6:1-6 cho thấy Đức Chúa Giê-su cảnh báo về sự khoe khoang trong đời sống thuộc linh — từ việc bố thí đến cầu nguyện. Bài giảng phân tích ba lý do Cơ Đốc nhân không được khoe khoang: Chúa không thích sự phô trương, tình yêu thương không cho phép, và khoe khoang chính là tội lỗi dẫn đến sự tự mãn giết chết đời sống tâm linh."
 tags: ["Khoe Khoang", "Khiêm Nhường", "Ma-thi-ơ", "Cơ Đốc Nhân", "Tự Mãn", "Tình Yêu Thương"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -22,7 +22,7 @@ Câu chuyện dân gian về anh chàng mua đôi giày mới minh họa rõ đi
 
 ## Chúa Không Thích Sự Phô Trương
 
-Trong Ma-thi-ơ 6:1-6, Chúa Giê-su nêu lên hình ảnh những người làm việc thuộc linh nhưng lồng sự khoe khoang vào đó. Khi bố thí thì thổi kèn cho mọi người biết, khi cầu nguyện thì đứng giữa ngã tư đường để thiên hạ chiêm ngưỡng. Chúa gọi họ là "bọn giả hình" và tuyên bố rằng phần thưởng của họ đã hết — người ta khen rồi thì Đức Chúa Trời không thưởng nữa.
+Trong Ma-thi-ơ 6:1-6, Đức Chúa Giê-su nêu lên hình ảnh những người làm việc thuộc linh nhưng lồng sự khoe khoang vào đó. Khi bố thí thì thổi kèn cho mọi người biết, khi cầu nguyện thì đứng giữa ngã tư đường để thiên hạ chiêm ngưỡng. Chúa gọi họ là "bọn giả hình" và tuyên bố rằng phần thưởng của họ đã hết — người ta khen rồi thì Đức Chúa Trời không thưởng nữa.
 
 Ngài đặt ra sự lựa chọn rõ ràng: muốn người ta khen hay muốn Đức Chúa Trời khen? Phần thưởng từ con người giỏi lắm là một lời khen, một tấm bằng — rồi qua đi. Nhưng phần thưởng từ Đức Chúa Trời là điều cao quý và vĩnh cửu. Câu nói "tay trái đừng cho tay phải biết" không phải là sự ngu ngơ về sinh lý học như người vô thần chế nhạo, mà là lời dạy sâu xa: ngay cả chính mình cũng đừng tự hào về những việc lành mình làm.
 

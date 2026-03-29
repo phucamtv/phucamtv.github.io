@@ -2,7 +2,7 @@
 title: "Lời Thách Thức Của Chúa | Ma-thi-ơ 16:24-26"
 date: 2024-06-19
 url: /baigiang/loi-thach-thuc-cua-chua/
-description: "Qua Ma-thi-ơ 16:24-26, Mục sư Dương Quang Thoại phân tích ba điều kiện Chúa Giê-su đặt ra cho người muốn theo Ngài: từ bỏ chính mình, vác thập tự giá, và đi theo Chúa — cùng với lời cảnh tỉnh về giá trị linh hồn con người mà không gì trên đời có thể đánh đổi."
+description: "Qua Ma-thi-ơ 16:24-26, Mục sư Dương Quang Thoại phân tích ba điều kiện Đức Chúa Giê-su đặt ra cho người muốn theo Ngài: từ bỏ chính mình, vác thập tự giá, và đi theo Chúa — cùng với lời cảnh tỉnh về giá trị linh hồn con người mà không gì trên đời có thể đánh đổi."
 tags: ["Ma-thi-ơ", "Thập Tự Giá", "Môn Đồ Hóa", "Từ Bỏ Mình", "Linh Hồn", "Sự Sống"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -16,7 +16,7 @@ draft: false
 
 > *"Đức Chúa Giê-su bèn phán cùng môn đồ rằng: Nếu ai muốn theo ta, thì phải liều mình, vác thập tự giá mình mà theo ta. Vì ai muốn cứu sự sống mình thì sẽ mất, còn ai vì cớ ta mà mất sự sống thì sẽ được lại. Người nào nếu được cả thiên hạ mà mất linh hồn mình, thì có ích gì? Vậy thì người lấy chi mà đổi linh hồn mình lại?"*
 
-Chỉ ba câu Kinh Thánh ngắn gọn, nhưng bao gồm toàn bộ lời thách thức mà Chúa Giê-su dành cho những ai muốn theo Ngài. Đây là đề tài được Chúa nhắc lại nhiều lần xuyên suốt các sách Phúc Âm (Ma-thi-ơ 10:37-39; Mác 8:34-37; Lu-ca 9:23-27; 17:33; Giăng 12:25), cho thấy tầm quan trọng đặc biệt của sứ điệp này — không chỉ dành cho các môn đồ hay người hầu việc Chúa, mà cho tất cả những ai xưng mình là Cơ-đốc nhân.
+Chỉ ba câu Kinh Thánh ngắn gọn, nhưng bao gồm toàn bộ lời thách thức mà Đức Chúa Giê-su dành cho những ai muốn theo Ngài. Đây là đề tài được Chúa nhắc lại nhiều lần xuyên suốt các sách Phúc Âm (Ma-thi-ơ 10:37-39; Mác 8:34-37; Lu-ca 9:23-27; 17:33; Giăng 12:25), cho thấy tầm quan trọng đặc biệt của sứ điệp này — không chỉ dành cho các môn đồ hay người hầu việc Chúa, mà cho tất cả những ai xưng mình là Cơ-đốc nhân.
 
 ---
 

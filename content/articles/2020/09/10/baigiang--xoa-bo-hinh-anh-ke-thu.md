@@ -14,7 +14,7 @@ draft: false
 
 ## Câu Chuyện Bức Tranh "Tiệc Thánh" Của Leonardo Da Vinci
 
-Danh họa Leonardo Da Vinci khi vẽ bức tranh "Tiệc Thánh" đã cố gắng thể hiện tính chất của từng sứ đồ trên gương mặt họ. Ông quyết định vẽ xong khuôn mặt của 12 sứ đồ, sau đó sẽ đến Chúa Giê-su. Ông muốn hình Phi-e-rơ phải mạnh mẽ, Giăng phải trẻ trung và hiền hậu.
+Danh họa Leonardo Da Vinci khi vẽ bức tranh "Tiệc Thánh" đã cố gắng thể hiện tính chất của từng sứ đồ trên gương mặt họ. Ông quyết định vẽ xong khuôn mặt của 12 sứ đồ, sau đó sẽ đến Đức Chúa Giê-su. Ông muốn hình Phi-e-rơ phải mạnh mẽ, Giăng phải trẻ trung và hiền hậu.
 
 Khi vẽ đến Giu-đa Ích-ca-ri-ốt, kẻ phản Chúa, Da Vinci đã dồn hết tâm trí để tạo một gương mặt ranh ma, phản bội và đáng ghét nhất. Nhìn vào, người ta có thể nhận ra Giu-đa ngay.
 

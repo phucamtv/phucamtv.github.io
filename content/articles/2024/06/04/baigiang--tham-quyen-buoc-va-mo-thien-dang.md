@@ -16,17 +16,17 @@ draft: false
 
 Ma-thi-ơ 16:17-19 là một trong những phân đoạn Kinh Thánh gây ra nhiều tranh luận nhất trong lịch sử Cơ Đốc giáo. Chỉ với ba câu ngắn gọn, nhưng nội dung chứa đựng bên trong đã trở thành cội nguồn cho nhiều thế kỷ tranh cãi liên quan đến tổ chức Hội Thánh, quyền lực giáo hoàng, và số phận đời đời của con người.
 
-Giáo hội Công giáo La-mã đã dựa trên phân đoạn này để khẳng định rằng Phi-e-rơ là vị giáo hoàng đầu tiên, và Chúa Giê-su đã trao cho ông thẩm quyền đặc biệt: Hội Thánh được đặt trên nền tảng Phi-e-rơ, và ông có chìa khóa nước thiên đàng để buộc hoặc mở số phận đời đời của con người. Từ đó, hệ thống giáo hoàng quyền được thiết lập, với niềm tin rằng đức giáo hoàng là đại diện cho Con Đức Chúa Trời trên đất, là đấng vô ngộ, có thẩm quyền trên trời, trên đất và dưới âm phủ.
+Giáo hội Công giáo La-mã đã dựa trên phân đoạn này để khẳng định rằng Phi-e-rơ là vị giáo hoàng đầu tiên, và Đức Chúa Giê-su đã trao cho ông thẩm quyền đặc biệt: Hội Thánh được đặt trên nền tảng Phi-e-rơ, và ông có chìa khóa nước thiên đàng để buộc hoặc mở số phận đời đời của con người. Từ đó, hệ thống giáo hoàng quyền được thiết lập, với niềm tin rằng đức giáo hoàng là đại diện cho Con Đức Chúa Trời trên đất, là đấng vô ngộ, có thẩm quyền trên trời, trên đất và dưới âm phủ.
 
-## Petros và Petra: Lối chơi chữ của Chúa Giê-su
+## Petros và Petra: Lối chơi chữ của Đức Chúa Giê-su
 
-Trong tiếng Hy-lạp, tên Phi-e-rơ là *Petros*, còn chữ "đá" (tảng đá) là *Petra*. Trong tiếng A-ram, tên Phi-e-rơ là *Kephas*, cũng có nghĩa là đá. Chính sự tương đồng này đã tạo nên một lối chơi chữ khi Chúa Giê-su phán: "Ngươi là Petros, ta sẽ lập Hội Thánh ta trên Petra này."
+Trong tiếng Hy-lạp, tên Phi-e-rơ là *Petros*, còn chữ "đá" (tảng đá) là *Petra*. Trong tiếng A-ram, tên Phi-e-rơ là *Kephas*, cũng có nghĩa là đá. Chính sự tương đồng này đã tạo nên một lối chơi chữ khi Đức Chúa Giê-su phán: "Ngươi là Petros, ta sẽ lập Hội Thánh ta trên Petra này."
 
-Có bốn cách giải thích chính về "tảng đá" trong câu Kinh Thánh này: tảng đá là chính Chúa Giê-su; tảng đá là chân lý; tảng đá là đức tin của Phi-e-rơ; hoặc tảng đá là Phi-e-rơ với tư cách nền tảng cho Hội Thánh đầu tiên. Tuy nhiên, khi xem xét toàn bộ ngữ cảnh, chúng ta sẽ thấy ý nghĩa sâu xa hơn mà Chúa muốn truyền đạt.
+Có bốn cách giải thích chính về "tảng đá" trong câu Kinh Thánh này: tảng đá là chính Đức Chúa Giê-su; tảng đá là chân lý; tảng đá là đức tin của Phi-e-rơ; hoặc tảng đá là Phi-e-rơ với tư cách nền tảng cho Hội Thánh đầu tiên. Tuy nhiên, khi xem xét toàn bộ ngữ cảnh, chúng ta sẽ thấy ý nghĩa sâu xa hơn mà Chúa muốn truyền đạt.
 
 ## Phi-e-rơ không tự nhận mình là nền tảng Hội Thánh
 
-Một bằng chứng quan trọng là chính Phi-e-rơ không bao giờ tự nhận mình là nền tảng Hội Thánh. Trong Ê-phê-sô 2:20, ông viết rằng Hội Thánh được dựng trên nền của các sứ đồ, và chính Đức Chúa Giê-su là đá góc nhà. Trong I Phi-e-rơ 2:4-5, ông khẳng định Chúa Giê-su là "hòn đá sống," còn anh em tín hữu cũng như đá sống được xây nên nhà thiêng liêng.
+Một bằng chứng quan trọng là chính Phi-e-rơ không bao giờ tự nhận mình là nền tảng Hội Thánh. Trong Ê-phê-sô 2:20, ông viết rằng Hội Thánh được dựng trên nền của các sứ đồ, và chính Đức Chúa Giê-su là đá góc nhà. Trong I Phi-e-rơ 2:4-5, ông khẳng định Đức Chúa Giê-su là "hòn đá sống," còn anh em tín hữu cũng như đá sống được xây nên nhà thiêng liêng.
 
 Hơn nữa, ngay sau khi Chúa phán lời tôn vinh Phi-e-rơ ở câu 19, chỉ một đoạn ngắn phía dưới tại câu 23, Chúa lại quở trách ông: "Hỡi Sa-tan, hãy lui ra đằng sau ta!" Điều này cho thấy không thể nào Hội Thánh của Đức Chúa Trời lại được đặt trên một con người đầy lỗi lầm và yếu đuối như Phi-e-rơ, cũng như không thể trao quyền sống chết cho một người bình thường có nhiều khiếm khuyết.
 

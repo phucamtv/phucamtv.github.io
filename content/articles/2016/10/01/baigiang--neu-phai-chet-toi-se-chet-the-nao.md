@@ -2,7 +2,7 @@
 title: "Nếu Phải Chết, Tôi Sẽ Chết Thế Nào? | Rô-ma 5:12, Giăng 11:25"
 date: 2016-10-01
 url: /baigiang/neu-phai-chet-toi-se-chet-the-nao/
-description: "Mục sư Dương Quang Thoại đặt câu hỏi mà ít ai muốn đối diện: Nếu phải chết, chúng ta sẽ chết thế nào? Từ Kinh Thánh, bài giảng cho thấy cái chết chỉ là giấc ngủ, và điều quan trọng hơn cả là hãy sống cho ra sống — sống có ý nghĩa, phục vụ người khác, và đặt niềm tin vào sự sống lại của Chúa Giê-su."
+description: "Mục sư Dương Quang Thoại đặt câu hỏi mà ít ai muốn đối diện: Nếu phải chết, chúng ta sẽ chết thế nào? Từ Kinh Thánh, bài giảng cho thấy cái chết chỉ là giấc ngủ, và điều quan trọng hơn cả là hãy sống cho ra sống — sống có ý nghĩa, phục vụ người khác, và đặt niềm tin vào sự sống lại của Đức Chúa Giê-su."
 tags: ["Sự Chết", "Sự Sống Lại", "Ý Nghĩa Cuộc Sống", "Rô-ma", "Giăng", "Ê-xơ-tê", "Phi-líp", "Ga-la-ti", "Khải Huyền", "Truyền Giảng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -26,7 +26,7 @@ Rô-ma 5:12 cho biết nguyên nhân: tội lỗi đã vào thế gian qua sự 
 
 Nhưng Kinh Thánh cũng mang đến một góc nhìn hoàn toàn khác. Trong I Tê-sa-lô-ni-ca 4:13, sứ đồ Phao-lô gọi sự chết là một giấc ngủ, và khuyên tín hữu đừng quá buồn rầu như những người không có hy vọng. Nếu đã ngủ thì sẽ có lúc thức dậy — đó là niềm tin cốt lõi mà Kinh Thánh trao cho người tin Chúa.
 
-Giăng 11:25 ghi lại lời Chúa Giê-su phán: "Ta là sự sống lại và sự sống, kẻ nào tin Ta thì sẽ sống, mặc dù đã chết rồi." Ngài đã chứng minh lời ấy bằng chính sự phục sinh của mình — ngôi mộ trống tại Giê-ru-sa-lem là bằng chứng mà hàng triệu người đã sẵn sàng chết để bảo vệ niềm tin ấy.
+Giăng 11:25 ghi lại lời Đức Chúa Giê-su phán: "Ta là sự sống lại và sự sống, kẻ nào tin Ta thì sẽ sống, mặc dù đã chết rồi." Ngài đã chứng minh lời ấy bằng chính sự phục sinh của mình — ngôi mộ trống tại Giê-ru-sa-lem là bằng chứng mà hàng triệu người đã sẵn sàng chết để bảo vệ niềm tin ấy.
 
 ---
 
@@ -44,7 +44,7 @@ Mục sư kể về một chủ ngân hàng ở nước Ý vào năm 1930 — m�
 
 Phi-líp 1:21 viết: "Vì Đấng Christ là sự sống của tôi, và sự chết là điều ích lợi cho tôi." Nếu sống mà mỗi ngày một già nua, bệnh tật, không tự chăm sóc được mình, thì sự chết trở thành sự nghỉ ngơi. Nhưng khi còn sống, hãy sống cho Chúa.
 
-Ma-thi-ơ 10:45 cho biết Chúa Giê-su đến không phải để được phục vụ, mà để phục vụ người khác. Ngài trò chuyện với trẻ em, nâng đỡ người bại liệt, mở mắt cho kẻ mù lòa. Nếu trong gia đình mình mà chúng ta còn không phục vụ được, thì làm sao nói đến chuyện phục vụ người xa lạ?
+Ma-thi-ơ 10:45 cho biết Đức Chúa Giê-su đến không phải để được phục vụ, mà để phục vụ người khác. Ngài trò chuyện với trẻ em, nâng đỡ người bại liệt, mở mắt cho kẻ mù lòa. Nếu trong gia đình mình mà chúng ta còn không phục vụ được, thì làm sao nói đến chuyện phục vụ người xa lạ?
 
 Ga-la-ti 2:20 ghi lại lời Phao-lô: "Tôi đã bị đóng đinh vào thập tự giá với Đấng Christ, mà tôi sống, không phải là tôi sống nữa, nhưng Đấng Christ sống trong tôi." Mục sư minh họa bằng hình ảnh một kiếm khách đã từng giết nhiều người, nhưng sau khi được cứu sống bởi lòng nhân từ của một lão tiều phu, anh đã thay đổi hoàn toàn — sẵn sàng chịu chết chứ không hại ai nữa. Cuộc sống thay đổi khi chúng ta gặp được Đấng đã cứu mình.
 
@@ -52,6 +52,6 @@ Ga-la-ti 2:20 ghi lại lời Phao-lô: "Tôi đã bị đóng đinh vào thập
 
 ## Niềm Hy Vọng Cuối Cùng
 
-Khải Huyền 1:18 chép rằng Chúa Giê-su phán: "Ta là Đấng sống, Ta đã chết, kìa nay Ta sống đời đời, cầm chìa khóa của sự chết." Chìa khóa ấy nằm trong tay Ngài, và chúng ta có quyền hy vọng. Khải Huyền 21:4 hứa rằng sẽ đến ngày không còn sự chết, không còn than khóc hay đau đớn.
+Khải Huyền 1:18 chép rằng Đức Chúa Giê-su phán: "Ta là Đấng sống, Ta đã chết, kìa nay Ta sống đời đời, cầm chìa khóa của sự chết." Chìa khóa ấy nằm trong tay Ngài, và chúng ta có quyền hy vọng. Khải Huyền 21:4 hứa rằng sẽ đến ngày không còn sự chết, không còn than khóc hay đau đớn.
 
 Cái chết chỉ là sự thử thách — nó nhắc chúng ta đừng lãng phí thời gian, hãy bày tỏ tình yêu thương ngay từ bây giờ. Đừng chờ đến khi quá muộn mới nói với cha mẹ, con cái, vợ chồng rằng mình yêu thương họ. Khải Huyền 14:13 kết luận: "Phước thay cho những người chết trong Chúa, vì những người ấy nghỉ ngơi khỏi sự khó nhọc." Hãy tin vào sự sống lại, và trong khi còn sống, hãy sống thật sự có ý nghĩa.

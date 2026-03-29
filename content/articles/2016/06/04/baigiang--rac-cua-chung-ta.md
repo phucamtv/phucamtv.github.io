@@ -32,9 +32,9 @@ Kinh Thánh gọi rác tâm hồn là **tội lỗi**. Chúa muốn chúng ta g�
 
 ## Ma-thi-ơ 15:1-20 — Sự Rửa Tay Trước Khi Ăn
 
-Người Pha-ri-si và thầy thông giáo chất vấn Chúa Giê-su: tại sao môn đồ Ngài không rửa tay trước khi ăn, phạm lời truyền khẩu của người xưa? Người Do Thái đã đẩy việc rửa tay từ vấn đề vệ sinh lên thành nghi lễ phức tạp — phải rửa từng ngón tay theo chiều từ trong ra ngoài, rửa lòng bàn tay trước, mu bàn tay sau, rồi để nước chảy xuống.
+Người Pha-ri-si và thầy thông giáo chất vấn Đức Chúa Giê-su: tại sao môn đồ Ngài không rửa tay trước khi ăn, phạm lời truyền khẩu của người xưa? Người Do Thái đã đẩy việc rửa tay từ vấn đề vệ sinh lên thành nghi lễ phức tạp — phải rửa từng ngón tay theo chiều từ trong ra ngoài, rửa lòng bàn tay trước, mu bàn tay sau, rồi để nước chảy xuống.
 
-Nhân cơ hội này, Chúa Giê-su dạy: *"Chẳng phải điều chi vào miệng làm dơ dáy người; nhưng điều chi ở miệng ra, ấy mới là điều làm dơ dáy người vậy!"* (câu 11). Ngài giải thích: thức ăn vào miệng đi xuống bụng rồi bỏ ra, nhưng những điều bởi miệng mà ra là từ trong lòng — và đó mới là điều làm dơ dáy người.
+Nhân cơ hội này, Đức Chúa Giê-su dạy: *"Chẳng phải điều chi vào miệng làm dơ dáy người; nhưng điều chi ở miệng ra, ấy mới là điều làm dơ dáy người vậy!"* (câu 11). Ngài giải thích: thức ăn vào miệng đi xuống bụng rồi bỏ ra, nhưng những điều bởi miệng mà ra là từ trong lòng — và đó mới là điều làm dơ dáy người.
 
 ---
 
@@ -50,7 +50,7 @@ Nếu nặng về hình thức bên ngoài thì nhẹ về bên trong — giốn
 
 ## 2. Nghĩa Đen Và Nghĩa Bóng
 
-Người Pha-ri-si nói về nghĩa đen — rửa tay bằng nước trước khi ăn. Nhưng Chúa Giê-su đưa ra bài học nghĩa bóng: vấn đề không phải thức ăn vào miệng, mà là những lời nói và hành động phát ra từ tâm hồn ô uế.
+Người Pha-ri-si nói về nghĩa đen — rửa tay bằng nước trước khi ăn. Nhưng Đức Chúa Giê-su đưa ra bài học nghĩa bóng: vấn đề không phải thức ăn vào miệng, mà là những lời nói và hành động phát ra từ tâm hồn ô uế.
 
 Châm-ngôn 30:32 dạy: *"Nếu ngươi có ác tưởng, hãy đặt tay che miệng mình."* Mọi thứ đều xuất phát từ suy nghĩ. Nếu bạn nghĩ sai, tưởng tượng phóng đại, thêu dệt, phán xét, kết án — thì nó sẽ ra những lời nói tồi tệ và hành động tồi tệ.
 

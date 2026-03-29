@@ -1,5 +1,5 @@
 ---
-title: "Đức Chúa Jesus có phải là Đức Chúa Trời?"
+title: "Đức Chúa Giê-su có phải là Đức Chúa Trời?"
 date: 2023-11-24
 description: "Đức Chúa Giêsu có phải là Đức Chúa Trời không? Phân tích Ma-thi-ơ chương 4 về sự cám dỗ của ma quỷ cho thấy chính Chúa Giêsu xác nhận thần tính của Ngài."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh"]

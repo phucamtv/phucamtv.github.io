@@ -17,7 +17,7 @@ description: "Khải Huyền 11:15-19 mô tả tiếng loa của thiên sứ th�
 
 Khải Huyền chương 11 từ câu 15 đến 19 ghi lại một sự kiện trọng đại: vị thiên sứ thứ bảy thổi loa, và có những tiếng lớn vang ra trên trời rằng — *"Từ nay nước của thế gian thuộc về Chúa chúng ta và đấng viết của Ngài; Ngài sẽ trị vì đời đời."*
 
-Đây là lời tuyên bố dứt khoát: thế giới tội lỗi chấm dứt, quyền cai trị đời đời thuộc về Đức Chúa Trời. Để điều đó xảy ra, Chúa Giê-su phải tái lâm. Không có cách nào khác.
+Đây là lời tuyên bố dứt khoát: thế giới tội lỗi chấm dứt, quyền cai trị đời đời thuộc về Đức Chúa Trời. Để điều đó xảy ra, Đức Chúa Giê-su phải tái lâm. Không có cách nào khác.
 
 Chúa đã hứa: *"Ta đi, Ta sẽ trở lại."* Lời hứa đó chắc chắn ứng nghiệm. Nhưng Kinh Thánh, đặc biệt là Sách Khải Huyền, cho chúng ta biết rằng trước khi Chúa tái lâm, sẽ có nhiều biến cố lớn xảy ra — và trong tiếng loa của thiên sứ thứ bảy, ít nhất năm biến cố được loan báo.
 
@@ -25,7 +25,7 @@ Chúa đã hứa: *"Ta đi, Ta sẽ trở lại."* Lời hứa đó chắc chắ
 
 ## Tại Sao Sách Khải Huyền Quan Trọng
 
-Trong bốn sách Phúc Âm — Ma-thi-ơ, Mác, Lu-ca, Giăng — Chúa Giê-su đề cập tổng quát về những dấu hiệu trước khi tái lâm: động đất, đói kém, tiên tri giả, chiến tranh, bách hại. Nhưng những điều đó chỉ là đại cương, chung chung.
+Trong bốn sách Phúc Âm — Ma-thi-ơ, Mác, Lu-ca, Giăng — Đức Chúa Giê-su đề cập tổng quát về những dấu hiệu trước khi tái lâm: động đất, đói kém, tiên tri giả, chiến tranh, bách hại. Nhưng những điều đó chỉ là đại cương, chung chung.
 
 Sách Khải Huyền cho chúng ta **chi tiết cụ thể hơn** về tình hình chính trị, kinh tế, tôn giáo trên thế giới trong ngày cuối cùng. Đặc biệt, Khải Huyền phân biệt rõ ràng giữa **hội thánh tinh sạch** — người đàn bà tinh sạch — và **Babylon tà dâm** — hệ thống tôn giáo giả mạo mà ma quỷ dựng lên để lừa dối thế giới.
 

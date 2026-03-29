@@ -34,7 +34,7 @@ Giăng 3:16 chứa đựng cốt lõi của sứ điệp Giáng sinh: *"Vì Đ�
 
 Hai chữ "đến nỗi" làm nổi bật chiều sâu của tình yêu Thượng Đế. Yêu đến nỗi — nghĩa là yêu quá sức, yêu đến mức sẵn sàng hy sinh tất cả, sẵn sàng làm mọi điều để người mình yêu được hạnh phúc. Thượng Đế không thể ngồi trên ngai cai quản vũ trụ trong khi nhìn địa cầu đầy đau khổ và chết chóc. Nên một Đấng đã giáng trần — không phải một con người bình thường, mà là chính Thiên Chúa trở thành người.
 
-Ma-thi-ơ 1:21 tiên báo: Ma-ri sẽ sanh một trai, ngươi khá đặt tên là Giê-su, vì chính Con Trai ấy sẽ cứu dân mình ra khỏi tội. Hàng trăm, thậm chí hàng ngàn năm trước khi Chúa Giê-su ra đời, Kinh Thánh đã tiên tri chính xác mọi chi tiết — từ giới tính, nơi sinh tại Bết-lê-hem, cho đến việc Ngài sẽ chịu khổ, chết trên thập tự giá, sống lại và về trời.
+Ma-thi-ơ 1:21 tiên báo: Ma-ri sẽ sanh một trai, ngươi khá đặt tên là Giê-su, vì chính Con Trai ấy sẽ cứu dân mình ra khỏi tội. Hàng trăm, thậm chí hàng ngàn năm trước khi Đức Chúa Giê-su ra đời, Kinh Thánh đã tiên tri chính xác mọi chi tiết — từ giới tính, nơi sinh tại Bết-lê-hem, cho đến việc Ngài sẽ chịu khổ, chết trên thập tự giá, sống lại và về trời.
 
 ---
 
@@ -42,7 +42,7 @@ Ma-thi-ơ 1:21 tiên báo: Ma-ri sẽ sanh một trai, ngươi khá đặt tên 
 
 Ma-thi-ơ 4:16 viết: *"Dân ấy ngồi chỗ tối tăm đã thấy ánh sáng lớn, và trên những kẻ ngồi trong miền và dưới bóng sự chết thì ánh sáng đã mọc lên."*
 
-Chiến tranh, đói kém, bệnh tật, hôn nhân đổ vỡ, con cái phản nghịch, anh em kiện tụng — tất cả là bóng tối bao phủ đời sống con người. Nhưng sự giáng sinh của Chúa Giê-su mang đến ánh sáng cho những ai đang ngồi dưới bóng sự chết. Thế gian sợ hãi cái chết vì không biết điều gì đằng sau đó, nhưng những người tin Chúa có niềm hy vọng — ánh sáng của sự sống lại.
+Chiến tranh, đói kém, bệnh tật, hôn nhân đổ vỡ, con cái phản nghịch, anh em kiện tụng — tất cả là bóng tối bao phủ đời sống con người. Nhưng sự giáng sinh của Đức Chúa Giê-su mang đến ánh sáng cho những ai đang ngồi dưới bóng sự chết. Thế gian sợ hãi cái chết vì không biết điều gì đằng sau đó, nhưng những người tin Chúa có niềm hy vọng — ánh sáng của sự sống lại.
 
 Nghịch lý thay, Con Trời lại giáng sinh trong chuồng gia súc tại Bết-lê-hem. Không phải một cảnh máng cỏ đẹp đẽ như ta thường thấy trưng bày, mà là nơi nồng nặc mùi phân, ẩm thấp với rơm rạ và thức ăn thừa của súc vật. Ngài chọn nếm trải nỗi khổ tột cùng của kiếp người, để không ai có thể nói mình là người khổ nhất thế giới.
 

@@ -2,7 +2,7 @@
 title: "Đối Diện Với Sự Cô Đơn"
 date: 2020-06-06
 url: /baigiang/doi-dien-voi-su-co-don/
-description: "Bài giảng khai thác chủ đề cô đơn — nỗi đau thầm lặng nhất của con người — qua câu chuyện người bại tại ao Bê-tết-đa, sự cô đơn tột cùng của Chúa Giê-su trên thập tự giá, và lời kêu gọi hãy sưởi ấm những tâm hồn lạnh giá quanh mình, đặc biệt là cha mẹ trong gia đình."
+description: "Bài giảng khai thác chủ đề cô đơn — nỗi đau thầm lặng nhất của con người — qua câu chuyện người bại tại ao Bê-tết-đa, sự cô đơn tột cùng của Đức Chúa Giê-su trên thập tự giá, và lời kêu gọi hãy sưởi ấm những tâm hồn lạnh giá quanh mình, đặc biệt là cha mẹ trong gia đình."
 tags: ["Cô Đơn", "Giăng 5", "Giăng 14", "Thi Thiên 27", "Gia Đình", "Hiếu Thảo", "Chăm Sóc Cha Mẹ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -26,9 +26,9 @@ Trong Kinh Thánh, Giăng 5:7 ghi lại tiếng kêu đau đớn của người 
 
 Đức Chúa Giê-su không phải là người xa lạ với nỗi cô đơn. Ngài sinh ra trong chuồng gia súc, nằm trong máng cỏ, vì nhà quán không có chỗ cho gia đình Ngài. Lu-ca 2:6-7 ghi lại rằng ngay từ giây phút đầu tiên bước vào thế gian, Con Đức Chúa Trời đã chọn đứng về phía những kẻ bị gạt ra bên lề.
 
-Rồi trong vườn Ghết-sê-ma-nê, khi đối diện với giờ phút kinh hoàng nhất, Chúa Giê-su mang ba môn đồ thân tín cùng đi cầu nguyện, nhưng họ đều ngủ thiếp. Ngài phải một mình quỳ gối trong đêm tối, mồ hôi như giọt máu rơi xuống đất. Và trên thập tự giá, nỗi cô đơn đạt đến tột cùng khi Ngài thốt lên: *"Đức Chúa Trời tôi ơi, sao Ngài lìa bỏ tôi?"*
+Rồi trong vườn Ghết-sê-ma-nê, khi đối diện với giờ phút kinh hoàng nhất, Đức Chúa Giê-su mang ba môn đồ thân tín cùng đi cầu nguyện, nhưng họ đều ngủ thiếp. Ngài phải một mình quỳ gối trong đêm tối, mồ hôi như giọt máu rơi xuống đất. Và trên thập tự giá, nỗi cô đơn đạt đến tột cùng khi Ngài thốt lên: *"Đức Chúa Trời tôi ơi, sao Ngài lìa bỏ tôi?"*
 
-Suốt ba năm thi hành chức vụ, Chúa Giê-su luôn tìm đến những con người bị xã hội ruồng bỏ: người phong cùi, kẻ bại liệt, người bị quỷ ám, các bệnh nhân ô uế mà không ai dám đến gần. Ngài cảm thông với nỗi cô đơn của họ bởi chính Ngài đã gánh lấy sự cô đơn lớn nhất trong lịch sử nhân loại — sự cô đơn trên thập tự giá, bị cả trời lẫn đất quay lưng.
+Suốt ba năm thi hành chức vụ, Đức Chúa Giê-su luôn tìm đến những con người bị xã hội ruồng bỏ: người phong cùi, kẻ bại liệt, người bị quỷ ám, các bệnh nhân ô uế mà không ai dám đến gần. Ngài cảm thông với nỗi cô đơn của họ bởi chính Ngài đã gánh lấy sự cô đơn lớn nhất trong lịch sử nhân loại — sự cô đơn trên thập tự giá, bị cả trời lẫn đất quay lưng.
 
 Thông điệp này dành cho mỗi chúng ta: dù nỗi cô đơn của ta có lớn đến đâu, nó vẫn không sánh được với sự cô đơn mà Chúa Cứu Thế đã chịu thay cho chúng ta. Và dù thân phận ta có nghiệt ngã đến mức nào, hãy tin rằng chúng ta còn có một Người Cha ở trên trời luôn yêu thương và sẵn sàng đón nhận.
 

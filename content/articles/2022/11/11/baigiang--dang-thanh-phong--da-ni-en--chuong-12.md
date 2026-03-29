@@ -26,7 +26,7 @@ Khải Huyền 22:12 ghi lại lời Chúa: "Ta đến mau chóng, và đem ph�
 
 Đa-ni-ên 12:1 chép rằng khi Mi-ca-ên — Đấng đứng thay mặt con cái dân Chúa — trỗi dậy, sẽ có tai nạn lớn chưa từng có. Nhưng trong vòng dân sự Ngài, kẻ nào được ghi tên trong sách sự sống thì sẽ được cứu.
 
-Vấn đề nằm ở chỗ: được ghi tên không có nghĩa là tên đó sẽ ở đó mãi mãi. Trong Lu-ca 10:17-20, khi các môn đồ vui mừng vì quỷ phục họ, Chúa Giê-su dạy rằng đừng mừng vì quyền năng đuổi quỷ, mà hãy mừng vì tên mình được ghi trên thiên đàng — đó mới là điều quan trọng nhất.
+Vấn đề nằm ở chỗ: được ghi tên không có nghĩa là tên đó sẽ ở đó mãi mãi. Trong Lu-ca 10:17-20, khi các môn đồ vui mừng vì quỷ phục họ, Đức Chúa Giê-su dạy rằng đừng mừng vì quyền năng đuổi quỷ, mà hãy mừng vì tên mình được ghi trên thiên đàng — đó mới là điều quan trọng nhất.
 
 Nhưng Khải Huyền 3:5 cảnh báo rõ ràng: kẻ nào thắng sẽ được mặc áo trắng và Chúa sẽ không xóa tên người khỏi sách sự sống. Điều ngược lại cũng đúng: nếu không thắng, Chúa có quyền xóa tên. Bảy bức thư gửi cho bảy hội thánh trong Khải Huyền cho thấy Chúa kêu gọi ăn năn, nhận biết tội lỗi, và sống đắc thắng. Hội thánh Sạt-đe bị trách vì hâm hẩm — không nóng, không lạnh — và Chúa cảnh cáo sẽ mửa ra.
 

@@ -18,7 +18,7 @@ Cái miệng — nơi phát xuất lời nói — là một trong những bộ p
 
 ## Phép lạ "Ép-pha-ta" — Hãy mở ra!
 
-Mác 7:32-35 kể về một người vừa điếc vừa ngọng được Chúa Giê-su chữa lành. Ngài đặt ngón tay vào lỗ tai người ấy, thấm nước miếng xức lưỡi, rồi ngửa mặt lên trời mà thốt lên: *"Ép-pha-ta!"* — nghĩa là "Hãy mở ra!" Tức thì tai được mở, lưỡi được thong thả, và người ấy nói rõ ràng.
+Mác 7:32-35 kể về một người vừa điếc vừa ngọng được Đức Chúa Giê-su chữa lành. Ngài đặt ngón tay vào lỗ tai người ấy, thấm nước miếng xức lưỡi, rồi ngửa mặt lên trời mà thốt lên: *"Ép-pha-ta!"* — nghĩa là "Hãy mở ra!" Tức thì tai được mở, lưỡi được thong thả, và người ấy nói rõ ràng.
 
 Bài giảng này xây dựng từ hình ảnh đó. Nhiều tín nhân có miệng nhưng lại câm lặng khi cần nói về Chúa. Chúng ta có thể nói đủ mọi chuyện — thời sự, thể thao, thời trang — nhưng khi liên quan đến lời của Đức Chúa Trời, chúng ta lại ngập ngừng như người ngọng. Chúa đang muốn phán với mỗi người: *"Ép-pha-ta — hãy mở miệng ra!"*
 

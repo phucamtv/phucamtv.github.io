@@ -3,7 +3,7 @@ title: "Cuộc Gọi Cấp Cứu Lúc 3 Giờ Sáng"
 date: 2016-03-05
 url: /baigiang/cuoc-goi-cap-cuu-luc-3-gio-sang/
 description: "Qua câu chuyện cuộc gọi cấp cứu lúc 3 giờ sáng tại Copenhagen, Đan Mạch, Mục sư Dương Quang Thoại chia sẻ về tình yêu tìm kiếm của Chúa Cứu Thế dành cho từng tội nhân hư mất, dựa trên Lu-ca 19:10 và Lu-ca 15:7-10."
-tags: ["Tìm Kiếm", "Cứu Rỗi", "Tình Yêu Chúa", "Truyền Giảng", "Trách Nhiệm", "Chúa Giê-su"]
+tags: ["Tìm Kiếm", "Cứu Rỗi", "Tình Yêu Chúa", "Truyền Giảng", "Trách Nhiệm", "Đức Chúa Giê-su"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["TZZOaQatFCA"]

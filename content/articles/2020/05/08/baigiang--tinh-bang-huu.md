@@ -31,7 +31,7 @@ Người canh lò choáng váng, lặng đi vì bất ngờ. Sau khi thi lễ, �
 
 Câu chuyện về vị hoàng đế Ba Tư là một hình ảnh tuyệt đẹp minh họa cho mối tương giao giữa Thượng Đế và con người. Chỉ trong Cơ Đốc giáo, chúng ta mới tìm gặp một Thượng Đế sẵn lòng hạ mình xuống để làm bạn với loài thọ tạo sa ngã. Đây không phải là một vị thần xa cách, lạnh lùng, mà là một Đấng yêu thương, khoan dung và độ lượng, muốn ở gần bên chúng ta.
 
-Chúa Giê-xu Christ, Con Đức Chúa Trời, đã rời bỏ ngai trời vinh hiển để đến thế gian trong hình hài con người. Ngài không đến trong cung điện xa hoa mà sinh ra nơi máng cỏ hèn mọn. Ngài đã sống giữa con người, chia sẻ niềm vui và nỗi buồn, đau khổ và hy vọng. Ngài đã ban chính mình Ngài cho chúng ta, không phải vì chúng ta xứng đáng, mà vì tình yêu vô điều kiện của Ngài.
+Đức Chúa Giê-su Christ, Con Đức Chúa Trời, đã rời bỏ ngai trời vinh hiển để đến thế gian trong hình hài con người. Ngài không đến trong cung điện xa hoa mà sinh ra nơi máng cỏ hèn mọn. Ngài đã sống giữa con người, chia sẻ niềm vui và nỗi buồn, đau khổ và hy vọng. Ngài đã ban chính mình Ngài cho chúng ta, không phải vì chúng ta xứng đáng, mà vì tình yêu vô điều kiện của Ngài.
 
 ## Đặc Ân Được Làm Bạn Với Chúa
 
@@ -39,7 +39,7 @@ Chúa Giê-xu Christ, Con Đức Chúa Trời, đã rời bỏ ngai trời vinh 
 
 Như người canh lò lửa kia, khi nhận biết vị vua đã dành cho mình tình bạn chân thành, ông không xin vàng bạc hay quyền lực. Ông chỉ xin một điều duy nhất: được giữ mãi tình bạn ấy. Đó cũng chính là điều quý giá nhất mà mỗi chúng ta cần trân trọng trong mối tương giao với Đấng Tạo Hóa.
 
-Lời Chúa trong sách Giăng chương 15, câu 14 và 15 đã khẳng định rõ ràng về mối quan hệ đặc biệt này. Chúa Giê-xu không gọi chúng ta là đầy tớ, mà gọi là bạn hữu. Ngài đã tỏ cho chúng ta biết mọi điều Ngài nghe nơi Cha. Một vị Chúa tể vũ trụ mà lại muốn kết bạn với con người nhỏ bé, đó quả thật là một tình yêu vượt quá sự hiểu biết của chúng ta.
+Lời Chúa trong sách Giăng chương 15, câu 14 và 15 đã khẳng định rõ ràng về mối quan hệ đặc biệt này. Đức Chúa Giê-su không gọi chúng ta là đầy tớ, mà gọi là bạn hữu. Ngài đã tỏ cho chúng ta biết mọi điều Ngài nghe nơi Cha. Một vị Chúa tể vũ trụ mà lại muốn kết bạn với con người nhỏ bé, đó quả thật là một tình yêu vượt quá sự hiểu biết của chúng ta.
 
 ## Lời Nhắn Nhủ
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Lắng Nghe — Bước Thứ Hai Không Thể Bỏ Qua
 
-Lu-ca 6:46-49 ghi lại lời Chúa Giê-su: "Sao các ngươi gọi ta: Chúa, Chúa, mà không làm theo lời ta phán?" Câu 47 tiếp: "Ta sẽ chỉ cho các ngươi biết kẻ nào đến cùng ta, nghe lời ta, và làm theo, thì giống ai." Sau khi phần 3 đã đề cập đến việc đến cùng Chúa, phần 4 đi sâu vào bước thứ hai: lắng nghe lời Ngài.
+Lu-ca 6:46-49 ghi lại lời Đức Chúa Giê-su: "Sao các ngươi gọi ta: Chúa, Chúa, mà không làm theo lời ta phán?" Câu 47 tiếp: "Ta sẽ chỉ cho các ngươi biết kẻ nào đến cùng ta, nghe lời ta, và làm theo, thì giống ai." Sau khi phần 3 đã đề cập đến việc đến cùng Chúa, phần 4 đi sâu vào bước thứ hai: lắng nghe lời Ngài.
 
 Ba bước — đến, nghe, làm — không thể tách rời. Nếu chưa đến thì không thể nghe, không nghe thì sẽ không thể làm đúng ý muốn của Ngài. Chủ đề trung tâm của bài giảng hôm nay là: **kẻ nào nghe lời Ta**.
 
@@ -34,7 +34,7 @@ Câu chuyện ngụ ngôn về con quạ và con cáo minh họa điều này si
 
 Một mối nguy hiểm khác là xu hướng thay thế Lời Đức Chúa Trời bằng lời của con người. Đọc Kinh Thánh, đôi khi người ta thấy "vô lý"; nhưng nghe người ta giải thích thì thấy "có lý hơn." Dần dần, lời truyền khẩu, lời giáo hội, lời truyền thống lấn át lời Chúa.
 
-Mác 7:13 ghi lại lời Chúa Giê-su cảnh báo người Pha-ri-si: "Dường ấy, các ngươi lấy lời truyền khẩu mình lập ra mà bỏ mất lời Đức Chúa Trời." Điều này cũng đang xảy ra ngay trong lòng Cơ-đốc giáo ngày nay khi người ta thêm thắt, cắt xén, hoặc giải nghĩa Kinh Thánh theo ý mình để lời Chúa phù hợp với lối sống thay vì để lời Chúa biến đổi cuộc đời.
+Mác 7:13 ghi lại lời Đức Chúa Giê-su cảnh báo người Pha-ri-si: "Dường ấy, các ngươi lấy lời truyền khẩu mình lập ra mà bỏ mất lời Đức Chúa Trời." Điều này cũng đang xảy ra ngay trong lòng Cơ-đốc giáo ngày nay khi người ta thêm thắt, cắt xén, hoặc giải nghĩa Kinh Thánh theo ý mình để lời Chúa phù hợp với lối sống thay vì để lời Chúa biến đổi cuộc đời.
 
 Giê-rê-mi 13:15 nhắc nhở: "Hãy nghe và lắng tai, đừng kiêu ngạo, vì Đức Giê-hô-va đã phán." Kiêu ngạo là rào cản lớn nhất ngăn chúng ta thật sự lắng nghe Lời Chúa.
 
@@ -60,7 +60,7 @@ Hê-bơ-rơ 4:12 mô tả sức mạnh phi thường của Lời Chúa: "Vì l�
 
 ## Ai Có Tai Hãy Nghe Lời Đức Thánh Linh Phán
 
-Chúa Giê-su kết thúc mỗi bức thư gửi bảy hội thánh trong sách Khải-huyền bằng câu: "Ai có tai hãy nghe lời Đức Thánh Linh phán cùng các hội thánh!" Đây là lời kêu gọi sống động, không chỉ là lời lịch sử.
+Đức Chúa Giê-su kết thúc mỗi bức thư gửi bảy hội thánh trong sách Khải-huyền bằng câu: "Ai có tai hãy nghe lời Đức Thánh Linh phán cùng các hội thánh!" Đây là lời kêu gọi sống động, không chỉ là lời lịch sử.
 
 Giăng 10:27 ghi: "Chiên ta nghe tiếng ta, ta quen nó, và nó theo ta." Người thuộc về Chúa thì nhận ra tiếng Ngài. Không nhận ra tiếng Chúa, không lắng nghe Ngài — đó là dấu hiệu của mối quan hệ đã nguội lạnh hay còn xa cách.
 

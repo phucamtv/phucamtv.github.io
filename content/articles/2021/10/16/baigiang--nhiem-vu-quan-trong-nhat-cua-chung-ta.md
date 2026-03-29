@@ -42,7 +42,7 @@ Rô-ma 10:10 nêu rõ: tin bởi trong lòng mà được sự công bình, còn
 
 I Cô-rinh-tô 11:26 dùng từ "rao" — mở miệng lên, nói lớn lên, vang lên — giống như người bán hàng rong ngày xưa phải rao khắp xóm để người ta biết. Nếu chở cả giỏ bánh mì mà đi quanh không rao tiếng nào, chiều về vẫn còn nguyên. Nhiều Cơ Đốc nhân cũng sống như vậy: chờ người ta hỏi rồi mới nói, giống người bán hàng ngồi chờ khách đến tìm.
 
-Câu chuyện hội truyền giáo Moravian đến sống với người Eskimo tại Greenland là một lời cảnh tỉnh. Họ quyết định sống nhiều năm mà không nói về Chúa, chờ thời điểm thuận lợi. Khi một người trong hội bất chợt buột miệng kể về Chúa Giê-su, người Eskimo nghe xong liền tức giận hỏi: "Tại sao bây giờ anh mới nói?" Câu hỏi ấy có thể là câu hỏi mà những người chung quanh chúng ta, hoặc chính Chúa, sẽ hỏi chúng ta một ngày nào đó.
+Câu chuyện hội truyền giáo Moravian đến sống với người Eskimo tại Greenland là một lời cảnh tỉnh. Họ quyết định sống nhiều năm mà không nói về Chúa, chờ thời điểm thuận lợi. Khi một người trong hội bất chợt buột miệng kể về Đức Chúa Giê-su, người Eskimo nghe xong liền tức giận hỏi: "Tại sao bây giờ anh mới nói?" Câu hỏi ấy có thể là câu hỏi mà những người chung quanh chúng ta, hoặc chính Chúa, sẽ hỏi chúng ta một ngày nào đó.
 
 ---
 

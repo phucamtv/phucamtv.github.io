@@ -43,7 +43,7 @@ Rô-ma 12:18 khuyên rằng nếu có thể được thì hãy hết sức mình
 
 ## Những lời hứa về sự bình an
 
-Giăng 14:27 ghi lại lời Chúa Giê-su phán trước khi về trời: ta để sự bình an lại cho các ngươi, ta ban sự bình an ta cho các ngươi, chẳng phải như thế gian cho. Sự bình an của Chúa hoàn toàn miễn phí — không cần mua bán, không có giá nào phải trả.
+Giăng 14:27 ghi lại lời Đức Chúa Giê-su phán trước khi về trời: ta để sự bình an lại cho các ngươi, ta ban sự bình an ta cho các ngươi, chẳng phải như thế gian cho. Sự bình an của Chúa hoàn toàn miễn phí — không cần mua bán, không có giá nào phải trả.
 
 Phi-líp 4:6-7 dạy rằng chớ lo phiền chi hết, nhưng trong mọi sự hãy dùng lời cầu nguyện, nài xin và sự tạ ơn mà trình các sự cầu xin của mình cho Đức Chúa Trời. Và sự bình an của Ngài, vượt quá mọi sự hiểu biết, sẽ giữ gìn lòng và ý tưởng chúng ta. Ma-thi-ơ 11:28-30 hứa rằng hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các ngươi được yên nghỉ. Và 1 Phi-e-rơ 5:7 kêu gọi: hãy trao mọi điều lo lắng mình cho Ngài, vì Ngài hay săn sóc anh em.
 

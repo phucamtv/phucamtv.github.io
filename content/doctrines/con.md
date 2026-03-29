@@ -4,7 +4,7 @@ keywords:
 - Đức Chúa Trời
 - Đức Chúa Cha
 - Đức Chúa Con
-- Đức Chúa Jesus
+- Đức Chúa Giê-su
 - Đức Thánh Linh
 slug: con
 title: Đức Chúa Con

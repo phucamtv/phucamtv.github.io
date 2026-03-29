@@ -54,7 +54,7 @@ Khác với một số tôn giáo đòi hỏi phải xưng tội qua trung gian 
 
 Ma-thi-ơ 18:35 là một câu Kinh Thánh đáng sợ: *"Nếu mỗi người trong các ngươi không hết lòng tha lỗi cho anh em mình, thì Cha ta ở trên trời cũng sẽ xử với các ngươi như vậy."*
 
-Đây là điều kiện Chúa Giê-su đặt ra trực tiếp: nếu chúng ta không tha thứ cho người khác, Đức Chúa Trời cũng sẽ không tha thứ cho chúng ta. Điều đó có nghĩa là chúng ta không thể cầu xin Đức Chúa Trời tha thứ cho mình trong khi vẫn giữ lòng oán thù với người khác.
+Đây là điều kiện Đức Chúa Giê-su đặt ra trực tiếp: nếu chúng ta không tha thứ cho người khác, Đức Chúa Trời cũng sẽ không tha thứ cho chúng ta. Điều đó có nghĩa là chúng ta không thể cầu xin Đức Chúa Trời tha thứ cho mình trong khi vẫn giữ lòng oán thù với người khác.
 
 Câu chuyện người đầy tớ không biết thương xót (Ma-thi-ơ 18:23-35) minh họa rõ ràng: một người được ông chủ tha món nợ khổng lồ một tỷ bạc, nhưng ra ngoài lại bóp cổ người bạn chỉ nợ mình mười nghìn đồng. Khi ông chủ biết được, liền thu hồi lòng thương xót đã ban và phạt nặng kẻ bất ơn đó. Martin Luther King Jr. đã nói: *"Ai không có sức mạnh để tha thứ cũng không có sức mạnh để yêu thương."*
 

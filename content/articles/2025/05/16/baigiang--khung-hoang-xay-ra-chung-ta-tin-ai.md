@@ -54,7 +54,7 @@ Kinh nghiệm của Đa-vít không chỉ là câu chuyện lịch sử. Mác 13
 
 Trong hoàn cảnh ấy, chúng ta sẽ tin ai? Nếu Đa-vít an toàn khi ở cùng Sa-mu-ên — tức là ở cùng Chúa — nhưng gặp tai họa khi rời bỏ Chúa chạy về con người, thì bài học đã rõ. Chúng ta không thể cứu lẫn nhau bằng sức riêng. Cha mẹ không cứu được con, vợ chồng không cứu được nhau. Mỗi người phải tự bám vào lời Chúa và chỉ tin nơi Chúa mà thôi.
 
-Chúa Giê-su cảnh báo: đừng tin ai nói Đấng Christ ở chỗ nọ chỗ kia dưới đất này. Khi Ngài tái lâm, Ngài xuất hiện giữa chốn không trung, và thiên sứ sẽ nhóm con dân Ngài lại. Mọi phép lạ, mọi tiên tri dưới đất đều là giả.
+Đức Chúa Giê-su cảnh báo: đừng tin ai nói Đấng Christ ở chỗ nọ chỗ kia dưới đất này. Khi Ngài tái lâm, Ngài xuất hiện giữa chốn không trung, và thiên sứ sẽ nhóm con dân Ngài lại. Mọi phép lạ, mọi tiên tri dưới đất đều là giả.
 
 ---
 

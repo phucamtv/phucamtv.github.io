@@ -17,17 +17,17 @@ draft: false
 
 ## Giới thiệu
 
-Trong loạt bài giảng về bài cầu nguyện chung mà Chúa Giê-su dạy các môn đồ, chúng ta tiếp tục đến phần thứ tư trong Ma-thi-ơ 6:11: "Xin cho chúng tôi hôm nay đồ ăn đủ ngày." Ba lời cầu nguyện đầu tiên hướng về Đức Chúa Trời — danh Cha, nước Cha và ý Cha. Bắt đầu từ câu 11, lời cầu nguyện chuyển sang những nhu cầu thiết thực của con người: lương thực hằng ngày, sự tha thứ tội lỗi, và sự giải cứu khỏi cám dỗ.
+Trong loạt bài giảng về bài cầu nguyện chung mà Đức Chúa Giê-su dạy các môn đồ, chúng ta tiếp tục đến phần thứ tư trong Ma-thi-ơ 6:11: "Xin cho chúng tôi hôm nay đồ ăn đủ ngày." Ba lời cầu nguyện đầu tiên hướng về Đức Chúa Trời — danh Cha, nước Cha và ý Cha. Bắt đầu từ câu 11, lời cầu nguyện chuyển sang những nhu cầu thiết thực của con người: lương thực hằng ngày, sự tha thứ tội lỗi, và sự giải cứu khỏi cám dỗ.
 
 Có hai quan điểm chính về lời cầu xin này. Quan điểm thứ nhất cho rằng "đồ ăn" mang nghĩa bóng — có thể là Bánh Tiệc Thánh, Lời Đức Chúa Trời, hoặc chính Đức Chúa Giê-su vì Ngài phán rằng "Ta là bánh sự sống" (Giăng 6:33-35). Tuy nhiên, đa số các nhà giải kinh đồng ý rằng đây hoàn toàn là nghĩa đen — lương thực cho nhu cầu hằng ngày. Dù đơn giản, lời cầu xin này chứa đựng những chân lý rộng lớn và sâu sắc.
 
 ## Đức Chúa Trời quan tâm đến đời sống thuộc thể
 
-Điều đầu tiên chúng ta nhận ra là Đức Chúa Trời thật sự quan tâm đến phần thuộc thể của con người. Khi Chúa Giê-su thi hành chức vụ, Ngài luôn song hành giữa hai việc: giảng đạo và chữa bệnh. Tâm linh và sức khỏe luôn đi đôi với nhau. Thậm chí Ngài còn hóa bánh ra nhiều để cung cấp lương thực cho đoàn dân đang đói (Ma-thi-ơ 14 và 15).
+Điều đầu tiên chúng ta nhận ra là Đức Chúa Trời thật sự quan tâm đến phần thuộc thể của con người. Khi Đức Chúa Giê-su thi hành chức vụ, Ngài luôn song hành giữa hai việc: giảng đạo và chữa bệnh. Tâm linh và sức khỏe luôn đi đôi với nhau. Thậm chí Ngài còn hóa bánh ra nhiều để cung cấp lương thực cho đoàn dân đang đói (Ma-thi-ơ 14 và 15).
 
 Những triết lý xem thường thân xác, cho rằng thể xác không có giá trị, thậm chí cần phải hành xác, là hoàn toàn phản lại Kinh Thánh. Chính Đức Chúa Giê-su đã nhập thể, mang lấy thân xác con người, cảm nhận được sự quan trọng của thể chất, rồi sau khi phục sinh, Ngài đưa chính thân xác ấy về trời. Sứ đồ Phao-lô cũng khẳng định rằng thân thể là đền thờ của Đức Thánh Linh (I Cô-rinh-tô 6:19).
 
-Cơ-đốc giáo không chỉ tập trung vào sự cứu rỗi mà quan tâm đến con người toàn diện trên bốn lĩnh vực: thuộc linh, sức khỏe, giáo dục và mối quan hệ xã hội — như Kinh Thánh ghi nhận Chúa Giê-su khôn ngoan càng thêm, thân hình càng lớn, càng được đẹp lòng Đức Chúa Trời và người ta.
+Cơ-đốc giáo không chỉ tập trung vào sự cứu rỗi mà quan tâm đến con người toàn diện trên bốn lĩnh vực: thuộc linh, sức khỏe, giáo dục và mối quan hệ xã hội — như Kinh Thánh ghi nhận Đức Chúa Giê-su khôn ngoan càng thêm, thân hình càng lớn, càng được đẹp lòng Đức Chúa Trời và người ta.
 
 ## Sống từng ngày trong đức tin
 

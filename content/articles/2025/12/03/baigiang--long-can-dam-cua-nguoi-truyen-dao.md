@@ -26,7 +26,7 @@ Sau khi bị ném đá, Phao-lô bị kéo ra ngoài thành vì những kẻ t�
 
 Nhưng khi các môn đồ đứng quanh than khóc, Phao-lô vùng đứng dậy. Đây không phải là ngất xỉu rồi tỉnh — những kẻ ném đá đã kiểm tra kỹ trước khi kéo ông đi một đoạn đường dài ra ngoài thành. Đức Chúa Trời đã giải cứu Phao-lô một cách kỳ diệu.
 
-Điều đáng kinh ngạc hơn cả: Phao-lô không bỏ chạy. Ông quay trở vào chính cái thành nơi người ta vừa ném đá ông, đối diện lại với những kẻ muốn giết mình. Đây không phải sự thách thức mà là lòng can đảm — đồng thời là lời minh chứng rằng Chúa đã cứu ông sống. Sự can đảm là yếu tố không thể thiếu của người đi theo Chúa, bởi sợ hãi là chất độc tiêu diệt đức tin, niềm hy vọng và mọi nhuệ khí. Chính vì vậy, Chúa Giê-su thường phán với các môn đồ: "Đừng sợ."
+Điều đáng kinh ngạc hơn cả: Phao-lô không bỏ chạy. Ông quay trở vào chính cái thành nơi người ta vừa ném đá ông, đối diện lại với những kẻ muốn giết mình. Đây không phải sự thách thức mà là lòng can đảm — đồng thời là lời minh chứng rằng Chúa đã cứu ông sống. Sự can đảm là yếu tố không thể thiếu của người đi theo Chúa, bởi sợ hãi là chất độc tiêu diệt đức tin, niềm hy vọng và mọi nhuệ khí. Chính vì vậy, Đức Chúa Giê-su thường phán với các môn đồ: "Đừng sợ."
 
 ---
 
@@ -34,7 +34,7 @@ Nhưng khi các môn đồ đứng quanh than khóc, Phao-lô vùng đứng dậ
 
 Phao-lô và Ba-na-ba sau đó quay trở lại các thành Lít-trơ, Y-cô-ni và An-ti-ốt để khuyên các môn đồ vững lòng và bền đổ trong đức tin. Ông nói thẳng với họ rằng phải trải qua nhiều nỗi khó khăn mới vào được nước Đức Chúa Trời.
 
-Đây là sự thành thật đáng quý — theo gương Chúa Giê-su khi Ngài nói sai môn đồ đi khác nào chiên giữa bầy muông sói. Các sứ đồ không chiêu dụ người ta bằng lời hứa hẹn dễ dãi rằng tin Chúa sẽ hết bệnh, hết nghèo, hết khó khăn. Chúa không đến để làm con đường dễ đi hơn, mà để làm cho con người trở nên mạnh mẽ hơn để vượt qua gian nan.
+Đây là sự thành thật đáng quý — theo gương Đức Chúa Giê-su khi Ngài nói sai môn đồ đi khác nào chiên giữa bầy muông sói. Các sứ đồ không chiêu dụ người ta bằng lời hứa hẹn dễ dãi rằng tin Chúa sẽ hết bệnh, hết nghèo, hết khó khăn. Chúa không đến để làm con đường dễ đi hơn, mà để làm cho con người trở nên mạnh mẽ hơn để vượt qua gian nan.
 
 Các sứ đồ cũng lựa chọn trưởng lão trong mỗi hội thánh, kiêng ăn cầu nguyện rồi giao phó họ cho Chúa. Bất kỳ nhóm người nào cũng cần tổ chức — trưởng lão không phải để áp đặt quyền hành trên tín đồ, mà là những người được xác nhận về đức tin, đạo đức và tài năng, sống tại địa phương để chăm sóc hội thánh khi các sứ đồ phải tiếp tục di chuyển.
 

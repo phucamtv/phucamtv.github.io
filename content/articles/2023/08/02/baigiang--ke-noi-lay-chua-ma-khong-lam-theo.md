@@ -15,7 +15,7 @@ draft: false
 
 {{< youtube "Xt5vCpnj2kE" >}}
 
-## Lời cảnh báo nghiêm khắc từ Chúa Giê-su
+## Lời cảnh báo nghiêm khắc từ Đức Chúa Giê-su
 
 Ma-thi-ơ 7:21-23 là một trong những khúc Kinh Thánh đáng sợ nhất đối với những người hầu việc Chúa. Đức Chúa Giê-su phán rằng không phải hễ ai nói "Lạy Chúa, lạy Chúa" thì đều được vào nước thiên đàng, nhưng chỉ kẻ làm theo ý muốn của Cha ở trên trời mà thôi. Điều đáng kinh ngạc là trong ngày phán xét, có nhiều người sẽ đến trước mặt Chúa, kể lại rằng họ đã nhân danh Ngài nói tiên tri, đuổi quỷ và làm phép lạ -- nhưng Chúa sẽ phán rằng: "Ta chẳng biết các ngươi bao giờ, hãy lui ra khỏi ta."
 

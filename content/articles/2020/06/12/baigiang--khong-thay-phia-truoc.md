@@ -40,4 +40,4 @@ Từng ngày, xin hãy tâm niệm: chủ đích cuộc sống của bạn là g
 
 Sứ đồ Phao-lô, người đã trải qua biết bao gian nan thử thách trong hành trình phục vụ Chúa, đã viết những lời đầy quyết tâm và khích lệ cho mỗi chúng ta:
 
-Kinh Thánh viết: *"Tôi cứ làm một điều: quên lửng mọi sự ở đằng sau, mà bươn theo sự đặt trước mặt tôi, tôi nhắm mục đích mà chạy, để giật giải về sự kêu gọi trên trời của Đức Chúa Trời trong Đức Chúa Giê-xu Christ."* (Phi-líp 3:13-14)
+Kinh Thánh viết: *"Tôi cứ làm một điều: quên lửng mọi sự ở đằng sau, mà bươn theo sự đặt trước mặt tôi, tôi nhắm mục đích mà chạy, để giật giải về sự kêu gọi trên trời của Đức Chúa Trời trong Đức Chúa Giê-su Christ."* (Phi-líp 3:13-14)

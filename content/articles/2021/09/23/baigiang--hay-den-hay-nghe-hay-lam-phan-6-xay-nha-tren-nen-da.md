@@ -14,7 +14,7 @@ draft: false
 
 ## Nhìn Lại Hành Trình 5 Bài Đầu
 
-Loạt bài "Hãy Đến – Hãy Nghe – Hãy Làm!" lấy gốc từ Luca 6:46-49, trong đó Chúa Giê-xu đặt ra ba bước căn bản cho người tin Ngài: đến cùng Ngài, nghe lời Ngài, và làm theo lời Ngài. Năm bài trước lần lượt khám phá từng yếu tố đó, từ câu hỏi "sao các ngươi gọi ta Chúa, Chúa mà không làm theo lời ta?" cho đến hành động cụ thể của người vâng phục.
+Loạt bài "Hãy Đến – Hãy Nghe – Hãy Làm!" lấy gốc từ Luca 6:46-49, trong đó Đức Chúa Giê-su đặt ra ba bước căn bản cho người tin Ngài: đến cùng Ngài, nghe lời Ngài, và làm theo lời Ngài. Năm bài trước lần lượt khám phá từng yếu tố đó, từ câu hỏi "sao các ngươi gọi ta Chúa, Chúa mà không làm theo lời ta?" cho đến hành động cụ thể của người vâng phục.
 
 Đến bài thứ sáu này, Mục sư Dương Quang Thoại tập trung vào hình ảnh kết quả: người hội đủ cả ba yếu tố đó — đến, nghe, làm — được ví như người "xây nhà làm nền trên đá." Bài thứ bảy sẽ nói về người xây nhà không nền trên đất để hoàn thiện bức tranh đối lập mà Chúa vẽ ra.
 
@@ -62,9 +62,9 @@ Không ai có thể đào thay. Mỗi người phải tự đào, tự đối ch
 
 ## Nền Đá Hay Nền Tổ Chức?
 
-Ê-phê-sô 2:20 chép: *"Anh em đã được dựng lên trên nền của các sứ-đồ cùng các đấng tiên tri, chính Đức Chúa Giê-xu là đá góc nhà."* Một số tổ chức tôn giáo lấy câu này để tuyên bố rằng phải đặt nền đức tin trên tổ chức của họ — trên "các sứ-đồ" của họ.
+Ê-phê-sô 2:20 chép: *"Anh em đã được dựng lên trên nền của các sứ-đồ cùng các đấng tiên tri, chính Đức Chúa Giê-su là đá góc nhà."* Một số tổ chức tôn giáo lấy câu này để tuyên bố rằng phải đặt nền đức tin trên tổ chức của họ — trên "các sứ-đồ" của họ.
 
-Mục sư Thoại giải thích: Phao-lô muốn nói rằng các sứ-đồ là những người đã nhận được lẽ thật trực tiếp từ Chúa và đặt nền đức tin cho các tín hữu đầu tiên — nhưng Chúa Giê-xu mới là đá góc nhà, tức là điểm chịu toàn bộ trọng lượng. Không thể đặt nền đức tin trên bất kỳ con người nào hay tổ chức nào — dù họ có uy tín đến đâu.
+Mục sư Thoại giải thích: Phao-lô muốn nói rằng các sứ-đồ là những người đã nhận được lẽ thật trực tiếp từ Chúa và đặt nền đức tin cho các tín hữu đầu tiên — nhưng Đức Chúa Giê-su mới là đá góc nhà, tức là điểm chịu toàn bộ trọng lượng. Không thể đặt nền đức tin trên bất kỳ con người nào hay tổ chức nào — dù họ có uy tín đến đâu.
 
 Cô-lô-se 2:7 nhắc nhở: *"Hãy chăm rễ và lập nền trong Ngài, lấy Đức tin làm cho bền vững."* Câu này cho thấy việc đào sâu và xây nền không phải chỉ làm một lần rồi thôi — đó là cả một đời chăm sóc, nuôi dưỡng.
 

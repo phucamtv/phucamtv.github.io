@@ -21,7 +21,7 @@ Xã hội ngày nay đang đối diện với vấn đề già hóa dân số ng
 
 Trong Hội Thánh, tình trạng này cũng rõ rệt khi lớp trẻ bị cuốn theo công việc, học hành và sự nghiệp, để lại Hội Thánh phần đông là người già và trẻ em. Đây là một thực tế mà chúng ta cần quan tâm và có cách ứng xử phù hợp.
 
-Người già thường mang tâm lý chung rằng mình không còn đóng góp được gì, trở thành gánh nặng cho người khác. Có những người già rơi vào trầm cảm, thậm chí tìm đến cái chết. Chúa Giê-su đã nói trong Giăng 21:18 về thực tế nghiệt ngã của tuổi già: khi còn trẻ thì tự mình thắt lưng lấy, muốn đi đâu thì đi; nhưng khi già, phải giơ tay ra cho người khác dắt mình đến nơi mình không muốn.
+Người già thường mang tâm lý chung rằng mình không còn đóng góp được gì, trở thành gánh nặng cho người khác. Có những người già rơi vào trầm cảm, thậm chí tìm đến cái chết. Đức Chúa Giê-su đã nói trong Giăng 21:18 về thực tế nghiệt ngã của tuổi già: khi còn trẻ thì tự mình thắt lưng lấy, muốn đi đâu thì đi; nhưng khi già, phải giơ tay ra cho người khác dắt mình đến nơi mình không muốn.
 
 ## Trách nhiệm của con cháu đối với người già
 

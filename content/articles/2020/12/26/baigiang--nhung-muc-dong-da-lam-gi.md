@@ -22,7 +22,7 @@ Câu chuyện Chúa Giáng Sinh được truyền tụng mỗi năm, nhưng ít 
 
 Sáu chữ ngắn gọn — *thức đêm canh giữ bầy chiên* — nhưng hàm chứa cả một tinh thần siêng năng và trách nhiệm. Những mục đồng này không biết đêm nay trời sẽ mở ra và thiên sứ sẽ xuất hiện. Họ chỉ biết làm tốt phần việc được giao, dù đó là công việc thấp kém trong mắt xã hội.
 
-Chúa Giê-su dạy trong Lu-ca 16:10: *"Ai trung tín trong việc rất nhỏ, cũng trung tín trong việc lớn."* Những người trẻ ngày nay thường ôm ấp ước vọng lớn lao, nhưng lại không chịu quét nhà, rửa chén, xếp mùng mền của chính mình. Đức Chúa Trời quan sát thái độ của chúng ta trong những việc nhỏ nhặt hàng ngày, và chỉ khi ta trung tín ở đó, Ngài mới trao phó những trách nhiệm lớn hơn.
+Đức Chúa Giê-su dạy trong Lu-ca 16:10: *"Ai trung tín trong việc rất nhỏ, cũng trung tín trong việc lớn."* Những người trẻ ngày nay thường ôm ấp ước vọng lớn lao, nhưng lại không chịu quét nhà, rửa chén, xếp mùng mền của chính mình. Đức Chúa Trời quan sát thái độ của chúng ta trong những việc nhỏ nhặt hàng ngày, và chỉ khi ta trung tín ở đó, Ngài mới trao phó những trách nhiệm lớn hơn.
 
 Ma-thi-ơ 25:21 xác nhận: *"Ngươi đã trung tín trong việc nhỏ, ta sẽ lập ngươi coi sóc nhiều."*
 

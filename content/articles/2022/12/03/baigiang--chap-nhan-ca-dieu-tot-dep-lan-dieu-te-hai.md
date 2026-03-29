@@ -20,11 +20,11 @@ Ghê-đê-ôn trong Các Quan Xét 6:13 đã thốt lên câu hỏi mà bao th�
 
 Vấn đề nằm ở chỗ chúng ta thường mang theo một tư tưởng sai lầm: nghĩ rằng tin Chúa là cuộc sống phải trơn tru, trải hoa hồng, không bệnh hoạn, không rủi ro. Đó là cách suy nghĩ của thế gian, không phải của Kinh Thánh.
 
-## Chúa Giê-su Không Che Giấu Con Đường Khó Khăn
+## Đức Chúa Giê-su Không Che Giấu Con Đường Khó Khăn
 
-Trong Ma-thi-ơ 10:34, Chúa Giê-su phán rằng Ngài đến không phải để đem sự bình an cho thế gian mà là đem gươm giáo. Câu này có vẻ mâu thuẫn với lời thiên sứ đêm Giáng Sinh, nhưng thật ra Chúa muốn nói rõ: Ngài dùng những điều tệ hại để thử rèn chúng ta. Như William Barclay đã nói, Ngài đến không phải để chúng ta có cuộc sống dễ dàng, nhưng để chúng ta trở thành những con người vĩ đại.
+Trong Ma-thi-ơ 10:34, Đức Chúa Giê-su phán rằng Ngài đến không phải để đem sự bình an cho thế gian mà là đem gươm giáo. Câu này có vẻ mâu thuẫn với lời thiên sứ đêm Giáng Sinh, nhưng thật ra Chúa muốn nói rõ: Ngài dùng những điều tệ hại để thử rèn chúng ta. Như William Barclay đã nói, Ngài đến không phải để chúng ta có cuộc sống dễ dàng, nhưng để chúng ta trở thành những con người vĩ đại.
 
-Nhìn lại lịch sử Kinh Thánh, không một tổ phụ nào có cuộc đời dễ dàng. Nô-ê bị chế giễu suốt 120 năm. Gia-cốp phải trả giá 20 năm cho sự lừa dối. Môi-se tưởng mình đủ sức lãnh đạo sau khi được đào tạo tại Ai Cập, nhưng phải chăn chiên 40 năm trong đồng vắng trước khi Chúa sử dụng. Đa-vít bị Sau-lơ truy sát, phải sống như kẻ chạy trốn. Và mười hai môn đồ của Chúa Giê-su — trừ Giăng — đều bị hành hình.
+Nhìn lại lịch sử Kinh Thánh, không một tổ phụ nào có cuộc đời dễ dàng. Nô-ê bị chế giễu suốt 120 năm. Gia-cốp phải trả giá 20 năm cho sự lừa dối. Môi-se tưởng mình đủ sức lãnh đạo sau khi được đào tạo tại Ai Cập, nhưng phải chăn chiên 40 năm trong đồng vắng trước khi Chúa sử dụng. Đa-vít bị Sau-lơ truy sát, phải sống như kẻ chạy trốn. Và mười hai môn đồ của Đức Chúa Giê-su — trừ Giăng — đều bị hành hình.
 
 ## Sự Thử Thách Là Bài Tập Rèn Sức Mạnh
 

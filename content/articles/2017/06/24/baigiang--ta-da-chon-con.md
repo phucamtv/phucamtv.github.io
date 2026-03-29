@@ -32,7 +32,7 @@ Giê-rê-mi 1:4-5 mở ra một chiều sâu hơn nữa: trước khi tạo nên
 
 Sứ đồ Phao-lô tuyên bố trong I Cô-rinh-tô 2:2 rằng ông chẳng biết sự gì khác ngoài Đức Chúa Giê-su Christ và Ngài bị đóng đinh trên thập tự giá. Đó là lý tưởng duy nhất của người được lựa chọn — không phải danh vọng, tiền tài hay địa vị, mà là Đấng Christ.
 
-Chính Chúa Giê-su cũng phán rằng đồ ăn của Ngài là làm theo ý muốn của Đấng sai Ngài đến và làm trọn công việc Ngài (Giăng 4:32-34). Khi sự lựa chọn của Đức Chúa Trời trở thành trung tâm đời sống, mọi thứ khác đều xếp vào đúng vị trí. Chúng ta không cần quan tâm đến việc con người hay tổ chức có lựa chọn mình hay không — điều duy nhất quan trọng là Đức Chúa Trời đã chọn chúng ta.
+Chính Đức Chúa Giê-su cũng phán rằng đồ ăn của Ngài là làm theo ý muốn của Đấng sai Ngài đến và làm trọn công việc Ngài (Giăng 4:32-34). Khi sự lựa chọn của Đức Chúa Trời trở thành trung tâm đời sống, mọi thứ khác đều xếp vào đúng vị trí. Chúng ta không cần quan tâm đến việc con người hay tổ chức có lựa chọn mình hay không — điều duy nhất quan trọng là Đức Chúa Trời đã chọn chúng ta.
 
 ---
 

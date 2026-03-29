@@ -29,7 +29,7 @@ Hãy nhìn gương Môi-se nói với Chúa rằng mình không có tài cán, S
 
 ## 2. Phải tính toán
 
-Lu-ca 14:28-32 ghi lại lời Chúa Giê-su dạy qua hai ẩn dụ: người xây tháp phải ngồi tính phí tổn, và vua đi đánh trận phải xem xét lực lượng của mình. Bên cạnh sự cầu nguyện, chúng ta phải có sự tính toán và lên kế hoạch cụ thể.
+Lu-ca 14:28-32 ghi lại lời Đức Chúa Giê-su dạy qua hai ẩn dụ: người xây tháp phải ngồi tính phí tổn, và vua đi đánh trận phải xem xét lực lượng của mình. Bên cạnh sự cầu nguyện, chúng ta phải có sự tính toán và lên kế hoạch cụ thể.
 
 Như người xưa nói "liệu cơm gắp mắm" -- phải xem mình có bao nhiêu rồi mới hành động. Nếu xây nền rồi mà không làm xong được, mọi người sẽ chê cười, và điều đó không chỉ ảnh hưởng đến bản thân mà còn làm ô danh Chúa.
 

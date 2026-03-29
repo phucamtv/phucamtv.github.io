@@ -3,7 +3,7 @@ title: "Năm Xưa Con Chúa Giáng Trần"
 date: 2023-12-22
 url: /baigiang/nam-xua-con-chua-giang-tran/
 description: "Qua Ê-sai 9:5 và Lu-ca 2:10-14, Mục sư Dương Quang Thoại chia sẻ ba ý nghĩa cốt lõi của mùa Giáng Sinh: món quà vô giá từ Thượng Đế, sự bình an thật giữa thế giới bất an, và niềm vui mừng lớn vĩnh cửu trong Chúa Cứu Thế."
-tags: ["Giáng Sinh", "Ê-sai", "Lu-ca", "Ban Cho", "Bình An", "Vui Mừng", "Chúa Giê-su"]
+tags: ["Giáng Sinh", "Ê-sai", "Lu-ca", "Ban Cho", "Bình An", "Vui Mừng", "Đức Chúa Giê-su"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["OT-id12wsDY"]
@@ -14,13 +14,13 @@ draft: false
 
 ## Một Sự Ban Cho Vô Giá
 
-Hàng trăm năm trước khi Đức Chúa Giê-su ra đời, tiên tri Ê-sai đã báo trước về sự giáng sinh của Ngài. Ê-sai 9:5 chép rằng một con trẻ sẽ được sanh cho chúng ta, quyền cai trị sẽ nấy trên vai Ngài, và Ngài sẽ được xưng là Đấng Lạ Lùng, Đấng Mưu Luận, Đức Chúa Trời Quyền Năng, Cha Đời Đời, Chúa Bình An. Tuy sanh ra như một đứa trẻ bình thường, Chúa Giê-su không phải là một đứa trẻ bình thường. Sự ra đời của Ngài là một phương cách duy nhất để Thượng Đế trở thành con người — vẫn là Thượng Đế nhưng mang hình hài con người.
+Hàng trăm năm trước khi Đức Chúa Giê-su ra đời, tiên tri Ê-sai đã báo trước về sự giáng sinh của Ngài. Ê-sai 9:5 chép rằng một con trẻ sẽ được sanh cho chúng ta, quyền cai trị sẽ nấy trên vai Ngài, và Ngài sẽ được xưng là Đấng Lạ Lùng, Đấng Mưu Luận, Đức Chúa Trời Quyền Năng, Cha Đời Đời, Chúa Bình An. Tuy sanh ra như một đứa trẻ bình thường, Đức Chúa Giê-su không phải là một đứa trẻ bình thường. Sự ra đời của Ngài là một phương cách duy nhất để Thượng Đế trở thành con người — vẫn là Thượng Đế nhưng mang hình hài con người.
 
 Khi chúng ta kỷ niệm Giáng Sinh, chúng ta kỷ niệm sự ra đời của Chúa Cứu Thế. Và điều cốt lõi nhất trong sự kiện này chính là sự ban cho. Đức Chúa Giê-su là món quà vô giá mà Thượng Đế dành tặng cho nhân loại. Khi chúng ta yêu thương ai, món quà chúng ta tặng phải thật đặc biệt — có thể không có giá trị tài chính lớn nhưng được gửi gắm bằng tất cả tấm lòng. Thượng Đế đã yêu con người đến nỗi ban chính Con Một của Ngài, và đó là món quà cao quý nhất.
 
 Phi-líp 2:4 dạy rằng mỗi người chớ chăm về lợi riêng mình, nhưng phải chăm về lợi kẻ khác nữa. Thế giới đang sống trong sự ích kỷ, tham lam và thỏa mãn dục vọng. Ma quỷ luôn muốn thế giới trở nên tồi tệ, muốn mỗi người sống trong sự ganh tỵ, hiềm khích. Đáng buồn thay, sự ích kỷ đôi khi bắt đầu ngay chính trong gia đình nhỏ của mình — chồng ích kỷ với vợ, cha mẹ ích kỷ với con cái, anh em ruột thịt ích kỷ với nhau.
 
-Công Vụ 20:35 nhắc lại lời Chúa Giê-su phán rằng ban cho thì có phước hơn là nhận lãnh. Nhận lãnh đã có phước, nhưng ban cho còn được phước hơn nữa. Chung quanh chúng ta còn rất nhiều người nghèo khó — đừng chờ đến lúc giàu có mới giúp đỡ người khác. Chúng ta vẫn có thể chia sẻ ngay bây giờ, học cách ban cho giống như Thượng Đế đã ban cho chúng ta.
+Công Vụ 20:35 nhắc lại lời Đức Chúa Giê-su phán rằng ban cho thì có phước hơn là nhận lãnh. Nhận lãnh đã có phước, nhưng ban cho còn được phước hơn nữa. Chung quanh chúng ta còn rất nhiều người nghèo khó — đừng chờ đến lúc giàu có mới giúp đỡ người khác. Chúng ta vẫn có thể chia sẻ ngay bây giờ, học cách ban cho giống như Thượng Đế đã ban cho chúng ta.
 
 ---
 
@@ -48,4 +48,4 @@ Nhưng niềm vui trong sự cứu rỗi mới là niềm vui lâu dài và vĩn
 
 ## Lời Kết
 
-Ba điều cốt lõi của mùa Giáng Sinh nhắc nhở chúng ta: Thứ nhất, Chúa ban cho chúng ta món quà là Chúa Cứu Thế Giê-su, thì chúng ta cũng hãy ban tặng cho nhau những điều tốt đẹp, trước hết là trong gia đình. Thứ hai, Chúa Giê-su đến thế gian chia sẻ tình yêu và sự bình an, thì chúng ta cũng hãy đem đến sự bình an cho những người chung quanh. Thứ ba, Giáng Sinh đem đến niềm vui và phước hạnh vĩnh cửu, thì chúng ta cũng hãy sống trong niềm vui ấy và chia sẻ niềm vui cho mọi người. Nguyện Chúa ở cùng tất cả chúng ta, để Giáng Sinh gợi nhớ về món quà Đức Chúa Trời dành cho con người — đó là tình yêu, sự hy sinh, sự bình an và niềm vui.
+Ba điều cốt lõi của mùa Giáng Sinh nhắc nhở chúng ta: Thứ nhất, Chúa ban cho chúng ta món quà là Chúa Cứu Thế Giê-su, thì chúng ta cũng hãy ban tặng cho nhau những điều tốt đẹp, trước hết là trong gia đình. Thứ hai, Đức Chúa Giê-su đến thế gian chia sẻ tình yêu và sự bình an, thì chúng ta cũng hãy đem đến sự bình an cho những người chung quanh. Thứ ba, Giáng Sinh đem đến niềm vui và phước hạnh vĩnh cửu, thì chúng ta cũng hãy sống trong niềm vui ấy và chia sẻ niềm vui cho mọi người. Nguyện Chúa ở cùng tất cả chúng ta, để Giáng Sinh gợi nhớ về món quà Đức Chúa Trời dành cho con người — đó là tình yêu, sự hy sinh, sự bình an và niềm vui.

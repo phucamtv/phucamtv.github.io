@@ -1,7 +1,7 @@
 ---
 title: "Chắp Cánh Bay Cao - Lời Chứng Của Tù Trưởng"
 date: 2020-11-17
-description: "Câu chuyện về một vị tù trưởng da đỏ tin Chúa đã dùng hình ảnh con sâu trong vòng lửa để minh họa cho tình cảnh tội nhân và sự giải cứu của Chúa Giê-su."
+description: "Câu chuyện về một vị tù trưởng da đỏ tin Chúa đã dùng hình ảnh con sâu trong vòng lửa để minh họa cho tình cảnh tội nhân và sự giải cứu của Đức Chúa Giê-su."
 tags: ["Chắp Cánh Bay Cao"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -22,7 +22,7 @@ Ngày kia, có một vị tù trưởng của bộ tộc láng giềng đến th
 
 Người tù trưởng tin Chúa liền nhặt một ít que củi thật nhỏ, đặt thành một vòng tròn trên mặt đất, rồi cho người bắt một con sâu bỏ vào giữa. Sau đó, ông đốt những que củi nhỏ tạo thành một vòng lửa bao quanh con sâu. Lúc đó, con vật khốn khổ cố tìm mọi cách để thoát ra khỏi vòng lửa, nhưng hoàn toàn vô ích. Lửa cháy xung quanh và không có một lối thoát nào.
 
-Tiếp theo, vị tù trưởng tin Chúa vội vàng gắp con sâu ra khỏi vòng lửa và bắt đầu giải thích: "Cái nhà tù đầy lửa đây chính là thế gian này, và tôi không khác gì con sâu đó. Quyền lực của tội lỗi vây hãm tôi, tôi không thể tự cứu lấy mình. Chúa Giê-su đã từ Thiên Đàng đến ngay chính giữa vòng lửa của sự chết và đưa tôi ra khỏi ngọn lửa hủy diệt của địa ngục. Thế rồi Ngài cho phép tôi trở nên con cái của Ngài."
+Tiếp theo, vị tù trưởng tin Chúa vội vàng gắp con sâu ra khỏi vòng lửa và bắt đầu giải thích: "Cái nhà tù đầy lửa đây chính là thế gian này, và tôi không khác gì con sâu đó. Quyền lực của tội lỗi vây hãm tôi, tôi không thể tự cứu lấy mình. Đức Chúa Giê-su đã từ Thiên Đàng đến ngay chính giữa vòng lửa của sự chết và đưa tôi ra khỏi ngọn lửa hủy diệt của địa ngục. Thế rồi Ngài cho phép tôi trở nên con cái của Ngài."
 
 ## Hình Ảnh Đơn Sơ Nhưng Đầy Thuyết Phục
 
@@ -40,6 +40,6 @@ Người nào chưa cảm biết nỗi thống khổ của một tội nhân —
 
 Sứ đồ Phao-lô đã viết trong thư Rô-ma đoạn 6, câu 18-19: "Vậy, anh em đã được buông tha khỏi tội lỗi, trở nên tôi mọi của sự công bình rồi... Anh em từng đặt chi thể mình làm tôi sự ô uế, thì bây giờ hãy đặt chi thể mình làm tôi sự công bình."
 
-Đây là lời kêu gọi mạnh mẽ dành cho mỗi người đã được Chúa giải cứu. Trước kia, chúng ta là nô lệ của tội lỗi, bị giam cầm trong vòng lửa hủy diệt không lối thoát. Nhưng khi Chúa Giê-su đưa tay kéo chúng ta ra, chúng ta được tự do — không phải để quay lại đời sống cũ, mà để sống một đời sống mới phục vụ sự công bình.
+Đây là lời kêu gọi mạnh mẽ dành cho mỗi người đã được Chúa giải cứu. Trước kia, chúng ta là nô lệ của tội lỗi, bị giam cầm trong vòng lửa hủy diệt không lối thoát. Nhưng khi Đức Chúa Giê-su đưa tay kéo chúng ta ra, chúng ta được tự do — không phải để quay lại đời sống cũ, mà để sống một đời sống mới phục vụ sự công bình.
 
 Câu chuyện về vị tù trưởng da đỏ nhắc nhở chúng ta rằng Phúc Âm không cần phải phức tạp để trở nên quyền năng. Đôi khi, một hình ảnh đơn sơ từ cuộc sống đời thường có thể truyền tải chân lý sâu sắc hơn ngàn lời giảng luận. Điều quan trọng là mỗi chúng ta phải nhận ra tình trạng thật của mình trước mặt Đức Chúa Trời, và đặt niềm tin nơi Đấng duy nhất có quyền năng giải cứu chúng ta khỏi vòng lửa tội lỗi.

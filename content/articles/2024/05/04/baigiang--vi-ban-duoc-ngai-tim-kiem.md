@@ -17,7 +17,7 @@ draft: false
 
 ## Con chiên lạc mất -- Thượng Đế đi tìm chúng ta
 
-Trong Lu-ca 15:3-7, Chúa Giê-su kể ẩn dụ về người chăn có một trăm con chiên, mất đi một con, liền để chín mươi chín con lại nơi đồng vắng mà đi tìm con chiên lạc cho kỳ được. Khi tìm được rồi thì vui mừng vác nó lên vai, về nhà kêu bạn hữu và kẻ lân cận đến chung vui.
+Trong Lu-ca 15:3-7, Đức Chúa Giê-su kể ẩn dụ về người chăn có một trăm con chiên, mất đi một con, liền để chín mươi chín con lại nơi đồng vắng mà đi tìm con chiên lạc cho kỳ được. Khi tìm được rồi thì vui mừng vác nó lên vai, về nhà kêu bạn hữu và kẻ lân cận đến chung vui.
 
 Ẩn dụ này rất quen thuộc với người Do Thái vì họ là dân chăn cừu. Mỗi ngày sau khi đưa bầy cừu về chuồng, người chăn đếm lại và phát hiện thiếu một con. Tâm lý tự nhiên là phải lên đường tìm kiếm, bởi không biết con chiên đó đã rơi vào vũng lầy, bụi gai hay hốc đá nào. Hình ảnh người chăn đi tìm con chiên lạc chính là hình ảnh của Thượng Đế đi tìm chúng ta. Không cần phải mất cả trăm người, chỉ một con người lạc mất thôi, Thượng Đế vẫn nỗ lực tìm kiếm và mang về.
 
@@ -43,4 +43,4 @@ Công Vụ 17:27 cho biết Đức Chúa Trời chẳng ở xa mỗi người tr
 
 Có câu chuyện về hai cha con sống với bầy cừu trên núi. Người cha có cây tù và, mỗi sáng mỗi chiều đều thổi để gom cừu. Khi con gái trưởng thành, xin lên thành phố lập nghiệp, ban đầu còn viết thư về, nhưng dần dần mất liên lạc. Người cha đau khổ lên thành phố tìm con, hỏi khắp nơi mà không ai biết. Cuối cùng, ông mang theo cây tù và đi khắp phố phường, thổi lên tiếng tù và não nuộc ngày này qua ngày khác. Đứa con gái đang sa ngã nơi tội lỗi, nghe tiếng tù và quen thuộc từ thời thơ ấu, mọi ký ức ùa về, cô vụt dậy chạy đến ôm cha, quỳ xuống tạ tội. Hai cha con ôm nhau khóc giữa đêm trường.
 
-Đó chính là hình ảnh của Thượng Đế đang tìm kiếm mỗi chúng ta. Ngài mong muốn chúng ta rời xa những gì đang vướng bận, kể cả những niềm tin sai lạc, để trở về thờ phượng Đấng Tạo Hóa. Ma-thi-ơ 4:17 ghi lại lời Chúa Giê-su: hãy ăn năn vì nước thiên đàng đã đến gần. Giờ là lúc chúng ta hãy hết sức tìm kiếm Đấng Tạo Hóa, mở Kinh Thánh ra như một kính viễn vọng để nhìn thấy chân dung của Thượng Đế một cách chính xác nhất, và có một quyết định quan trọng cho cuộc đời mình.
+Đó chính là hình ảnh của Thượng Đế đang tìm kiếm mỗi chúng ta. Ngài mong muốn chúng ta rời xa những gì đang vướng bận, kể cả những niềm tin sai lạc, để trở về thờ phượng Đấng Tạo Hóa. Ma-thi-ơ 4:17 ghi lại lời Đức Chúa Giê-su: hãy ăn năn vì nước thiên đàng đã đến gần. Giờ là lúc chúng ta hãy hết sức tìm kiếm Đấng Tạo Hóa, mở Kinh Thánh ra như một kính viễn vọng để nhìn thấy chân dung của Thượng Đế một cách chính xác nhất, và có một quyết định quan trọng cho cuộc đời mình.

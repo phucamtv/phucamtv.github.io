@@ -124,7 +124,7 @@ Phao-lô, một người vừa bị đuổi khỏi Phi-líp, bị nhạo cười
 
 Hai đoạn Công-vụ này dạy chúng ta nhiều điều thiết thực:
 
-**Sự linh hoạt trong tiếp cận** — Phao-lô không có một khuôn mẫu cứng nhắc. Tại A-thên ông dùng bàn thờ ngoại giáo làm điểm xuất phát. Tại Cô-rinh-tô ông làm lều để gây dựng tin tưởng. Điều không thay đổi là Tin Lành về Đức Chúa Trời và sự phục sinh của Chúa Giê-su.
+**Sự linh hoạt trong tiếp cận** — Phao-lô không có một khuôn mẫu cứng nhắc. Tại A-thên ông dùng bàn thờ ngoại giáo làm điểm xuất phát. Tại Cô-rinh-tô ông làm lều để gây dựng tin tưởng. Điều không thay đổi là Tin Lành về Đức Chúa Trời và sự phục sinh của Đức Chúa Giê-su.
 
 **Sự kiên nhẫn trước ba loại phản ứng** — chế giễu, trì hoãn, và tin nhận. Không phải ai cũng sẽ tin ngay. Nhiệm vụ của chúng ta không phải là ép buộc kết quả — mà là trung thành rao truyền và để Đức Thánh Linh làm công việc của Ngài.
 

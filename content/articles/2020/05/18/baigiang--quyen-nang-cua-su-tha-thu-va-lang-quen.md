@@ -38,7 +38,7 @@ Người không chịu tha thứ giống như một người tù tự nhốt mì
 
 ## Chắp Cánh Bay Cao Trong Sự Tha Thứ
 
-Lời Chúa Giê-su dạy trong Ma-thi-ơ 6:12, 14-15 rất rõ ràng: xin tha tội lỗi cho chúng tôi, như chúng tôi cũng tha kẻ phạm tội nghịch cùng chúng tôi. Nếu các ngươi tha lỗi cho người ta, thì Cha các ngươi ở trên trời cũng sẽ tha thứ. Song nếu không tha lỗi cho người ta, thì Cha các ngươi cũng sẽ không tha lỗi cho các ngươi.
+Lời Đức Chúa Giê-su dạy trong Ma-thi-ơ 6:12, 14-15 rất rõ ràng: xin tha tội lỗi cho chúng tôi, như chúng tôi cũng tha kẻ phạm tội nghịch cùng chúng tôi. Nếu các ngươi tha lỗi cho người ta, thì Cha các ngươi ở trên trời cũng sẽ tha thứ. Song nếu không tha lỗi cho người ta, thì Cha các ngươi cũng sẽ không tha lỗi cho các ngươi.
 
 Đây là một nguyên tắc thuộc linh quan trọng: sự tha thứ mà chúng ta nhận được từ Đức Chúa Trời gắn liền với sự tha thứ mà chúng ta dành cho người khác. Không thể nào chúng ta cầu xin Chúa tha thứ cho mình trong khi lại ôm khư khư sự oán giận đối với anh em mình.
 

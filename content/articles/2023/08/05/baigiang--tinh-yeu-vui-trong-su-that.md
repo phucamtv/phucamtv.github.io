@@ -52,7 +52,7 @@ Phần thứ hai của bài giảng chuyển sang mặt tích cực: tình yêu 
 
 **Niềm vui khi hòa thuận** — Ma-thi-ơ 5:9 chép rằng phước cho những kẻ làm cho người hòa thuận, vì sẽ được gọi là con Đức Chúa Trời. Nhưng trước khi hòa giải người khác, chính gia đình mình phải hòa thuận trước.
 
-**Niềm vui khi cho đi** — Công vụ 20:35 ghi lại lời Chúa Giê-su: ban cho thì có phước hơn là nhận lãnh. Nếu chỉ biết thu vén cho mình thì mất phước, nhưng ban cho lại là ơn phước vô cùng.
+**Niềm vui khi cho đi** — Công vụ 20:35 ghi lại lời Đức Chúa Giê-su: ban cho thì có phước hơn là nhận lãnh. Nếu chỉ biết thu vén cho mình thì mất phước, nhưng ban cho lại là ơn phước vô cùng.
 
 ---
 

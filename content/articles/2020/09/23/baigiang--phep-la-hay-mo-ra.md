@@ -14,7 +14,7 @@ draft: false
 
 ## Bối Cảnh Câu Chuyện
 
-Trong Mác 7:31-37, Chúa Giê-su đến vùng Đê-ca-bô-lơ gần biển Ga-li-lê. Người ta đem đến cho Ngài một người bị điếc và ngọng, xin Ngài đặt tay chữa lành. Đây là một trong khoảng hơn bốn mươi phép lạ chữa lành tiêu biểu được ghi lại trong các sách Phúc Âm, nhưng cách Chúa thực hiện phép lạ này rất đặc biệt và khác thường so với những lần trước.
+Trong Mác 7:31-37, Đức Chúa Giê-su đến vùng Đê-ca-bô-lơ gần biển Ga-li-lê. Người ta đem đến cho Ngài một người bị điếc và ngọng, xin Ngài đặt tay chữa lành. Đây là một trong khoảng hơn bốn mươi phép lạ chữa lành tiêu biểu được ghi lại trong các sách Phúc Âm, nhưng cách Chúa thực hiện phép lạ này rất đặc biệt và khác thường so với những lần trước.
 
 Người câm điếc sống trong sự thiệt thòi lớn: không nghe được, không nói rõ ràng, mất đi khả năng giao tiếp hai chiều với mọi người xung quanh. Sự cô lập này dễ khiến họ bị ức chế, mặc cảm và khép mình lại.
 
@@ -26,7 +26,7 @@ Chi tiết đầu tiên đáng chú ý là người câm điếc không tự mì
 
 ## Sự Riêng Tư Với Chúa
 
-Thay vì chữa lành ngay giữa đám đông như những lần trước, Chúa Giê-su kéo riêng người câm điếc ra khỏi đám đông. Điều này dạy cho chúng ta bài học quan trọng: sự chữa lành thật sự thường đến từ mối tương giao riêng tư với Chúa.
+Thay vì chữa lành ngay giữa đám đông như những lần trước, Đức Chúa Giê-su kéo riêng người câm điếc ra khỏi đám đông. Điều này dạy cho chúng ta bài học quan trọng: sự chữa lành thật sự thường đến từ mối tương giao riêng tư với Chúa.
 
 Trước mặt hội thánh, chúng ta có thể cầu nguyện hàng giờ, nói về Chúa cách dạn dĩ và mạnh mẽ. Nhưng khi về riêng một mình, chúng ta có thật sự ở riêng với Chúa không? Có cầu nguyện sâu sắc không? Có hát ca ngợi Ngài bằng cả tấm lòng không? Có đọc Lời Ngài không? Sự chữa lành thuộc linh phải đến từ sự riêng tư đó, xa khỏi những bận rộn và ồn ào của cuộc sống.
 

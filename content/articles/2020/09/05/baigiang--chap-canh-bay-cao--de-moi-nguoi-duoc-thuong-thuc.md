@@ -44,9 +44,9 @@ Những ai rơi vào một trong hai trường hợp này sẽ có một ngày n
 
 Câu hỏi thực tế cần suy ngẫm: Tôi có tài năng gì? Năng lực nào Chúa đã ban cho tôi? Và tôi đang dùng nó như thế nào? Cho công việc Ngài, hay đang để nó im lặng trong "bộ sưu tập" của riêng mình?
 
-## Lời Cảnh Tỉnh Từ Chúa Giê-su
+## Lời Cảnh Tỉnh Từ Đức Chúa Giê-su
 
-Chúa Giê-su đã nói rõ về hậu quả của việc không dùng tài năng qua dụ ngôn về những ta-lâng trong Ma-thi-ơ đoạn 25. Đầy tớ nhận một ta-lâng đã chôn giấu nó đi vì sợ hãi, và chính điều đó khiến ông bị gọi là "đầy tớ dữ và biếng nhác." Ngài phán:
+Đức Chúa Giê-su đã nói rõ về hậu quả của việc không dùng tài năng qua dụ ngôn về những ta-lâng trong Ma-thi-ơ đoạn 25. Đầy tớ nhận một ta-lâng đã chôn giấu nó đi vì sợ hãi, và chính điều đó khiến ông bị gọi là "đầy tớ dữ và biếng nhác." Ngài phán:
 
 > *"Sẽ cho thêm kẻ nào đã có, thì họ sẽ dư dật; nhưng kẻ nào không có, thì cũng cất luôn điều họ đã có nữa."* — Ma-thi-ơ 25:29
 

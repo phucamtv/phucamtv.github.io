@@ -17,7 +17,7 @@ draft: false
 
 ## Đừng Ngăn Con Trẻ Đến Cùng Chúa
 
-Trong Mác đoạn 10, chúng ta thấy một bức tranh đầy cảm động: người ta đem con trẻ đến cùng Chúa Giê-su để Ngài đặt tay chúc phước, nhưng các môn đồ lại ngăn cản họ. Theo phong tục Do Thái, cha mẹ thường mong muốn những người đạo hạnh, được tôn kính đặt tay trên con cái mình như một sự chúc phước, tin rằng điều đó sẽ ảnh hưởng tích cực đến tương lai của chúng.
+Trong Mác đoạn 10, chúng ta thấy một bức tranh đầy cảm động: người ta đem con trẻ đến cùng Đức Chúa Giê-su để Ngài đặt tay chúc phước, nhưng các môn đồ lại ngăn cản họ. Theo phong tục Do Thái, cha mẹ thường mong muốn những người đạo hạnh, được tôn kính đặt tay trên con cái mình như một sự chúc phước, tin rằng điều đó sẽ ảnh hưởng tích cực đến tương lai của chúng.
 
 Các môn đồ tưởng rằng mình đang bảo vệ Chúa — Ngài quá bận rộn, quá mệt mỏi với việc giảng dạy và chữa bệnh. Họ nghĩ rằng xua đuổi các bậc phụ huynh là làm điều tốt cho Thầy. Nhưng họ đã sai. Đức Chúa Giê-su nổi giận — không phải vì tội lỗi, mà vì hành động của các môn đồ đang làm cho người ta xa cách Ngài.
 
@@ -25,7 +25,7 @@ Các môn đồ tưởng rằng mình đang bảo vệ Chúa — Ngài quá bậ
 
 ## Bốn Phẩm Chất Của Con Trẻ
 
-Khi Chúa Giê-su phán rằng nước Đức Chúa Trời thuộc về những kẻ giống như con trẻ, Ngài không có ý nói thiên đàng chỉ toàn là trẻ em. Ngài muốn nói đến tâm tính, bản chất mà mọi người cần có để trở thành chủ nhân nước Trời.
+Khi Đức Chúa Giê-su phán rằng nước Đức Chúa Trời thuộc về những kẻ giống như con trẻ, Ngài không có ý nói thiên đàng chỉ toàn là trẻ em. Ngài muốn nói đến tâm tính, bản chất mà mọi người cần có để trở thành chủ nhân nước Trời.
 
 **Thứ nhất, sự khiêm nhường.** Một đứa trẻ bình thường biết mình không có gì — không tài sản, không nghề nghiệp, không danh vọng. Nó tựa vào cha mẹ, nhờ cậy người lớn. Chính vì không có gì để kiêu căng nên con trẻ mang bản chất khiêm nhường tự nhiên.
 
@@ -37,14 +37,14 @@ Khi Chúa Giê-su phán rằng nước Đức Chúa Trời thuộc về những 
 
 ## Người Trai Trẻ Giàu Có
 
-Tiếp theo trong Mác 10:17-22, một người trai trẻ giàu có chạy đến quỳ trước mặt Chúa Giê-su và hỏi: "Thưa Thầy nhân lành, tôi phải làm chi cho được hưởng sự sống đời đời?" Những động từ "chạy" và "quỳ" cho thấy sự nôn nóng, lòng mong mỏi được gặp Chúa của anh ta.
+Tiếp theo trong Mác 10:17-22, một người trai trẻ giàu có chạy đến quỳ trước mặt Đức Chúa Giê-su và hỏi: "Thưa Thầy nhân lành, tôi phải làm chi cho được hưởng sự sống đời đời?" Những động từ "chạy" và "quỳ" cho thấy sự nôn nóng, lòng mong mỏi được gặp Chúa của anh ta.
 
 Khi Chúa nhắc lại các điều răn, anh ta tự tin đáp rằng mình đã giữ tất cả từ nhỏ. Nhưng anh ta giữ luật pháp trong trạng thái thụ động — không chửi cha mắng mẹ, nhưng có làm cho cha mẹ vui không? Không giết người, nhưng có giúp đỡ người khác không? Không nói dối, nhưng có nói lời nâng đỡ người khác không? Luật pháp Đức Chúa Trời phải ở trạng thái tích cực, chủ động, chứ không phải chỉ là văn tự chết.
 
-Chúa Giê-su bảo anh hãy bán hết gia tài, bố thí cho kẻ nghèo, rồi đến theo Ngài. Đó là ba bước: bán hết, cho đi, và theo Chúa. Nhưng anh ta đã quay đi, buồn bã rầu rĩ vì có nhiều của cải. Anh ta nắm giữ thế gian và chấp nhận bỏ sự sống đời đời.
+Đức Chúa Giê-su bảo anh hãy bán hết gia tài, bố thí cho kẻ nghèo, rồi đến theo Ngài. Đó là ba bước: bán hết, cho đi, và theo Chúa. Nhưng anh ta đã quay đi, buồn bã rầu rĩ vì có nhiều của cải. Anh ta nắm giữ thế gian và chấp nhận bỏ sự sống đời đời.
 
 ## Sự Sống Đời Đời Có Giá
 
-Điều cảm động là Kinh Thánh ghi lại rằng Chúa Giê-su ngó người mà yêu. Ngài không nổi giận như với các môn đồ. Ngài nhìn thấy tâm hồn của người này và vẫn hy vọng rằng sau những đêm mất ngủ, những ngày suy tư, người trai trẻ sẽ mạnh dạn bước theo tiếng gọi của Ngài.
+Điều cảm động là Kinh Thánh ghi lại rằng Đức Chúa Giê-su ngó người mà yêu. Ngài không nổi giận như với các môn đồ. Ngài nhìn thấy tâm hồn của người này và vẫn hy vọng rằng sau những đêm mất ngủ, những ngày suy tư, người trai trẻ sẽ mạnh dạn bước theo tiếng gọi của Ngài.
 
 Sự cứu rỗi là vô điều kiện nhưng không có nghĩa là rẻ mạt. Muốn có được nước Thiên đàng, chúng ta phải sẵn lòng buông bỏ những gì mình đang nắm giữ. Không đơn thuần là giữ lời dạy của Chúa một cách khô cứng, mà đòi hỏi chúng ta phải từ bỏ chính mình để sống giống như Chúa — với tấm lòng của một con trẻ: khiêm nhường, vâng phục, nương cậy và sẵn sàng tha thứ.

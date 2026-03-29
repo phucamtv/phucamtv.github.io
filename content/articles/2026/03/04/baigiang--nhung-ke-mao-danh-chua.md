@@ -2,7 +2,7 @@
 title: "Những Kẻ Mạo Danh Chúa | Công-vụ 19:1-20"
 date: 2026-03-04
 url: /baigiang/nhung-ke-mao-danh-chua/
-description: "Bài học từ Công-vụ 19:1-20 về ba chủ đề: sự phân biệt giữa báp-têm của Giăng và báp-têm trong danh Chúa Giê-su, tình yêu mến Lời Chúa qua gương của Phao-lô và các môn đồ tại trường Tiranu, và cảnh báo về những kẻ mạo danh Chúa cùng hậu quả nghiêm trọng khi bảy con trai của Sê-va bị quỷ dữ đánh đuổi."
+description: "Bài học từ Công-vụ 19:1-20 về ba chủ đề: sự phân biệt giữa báp-têm của Giăng và báp-têm trong danh Đức Chúa Giê-su, tình yêu mến Lời Chúa qua gương của Phao-lô và các môn đồ tại trường Tiranu, và cảnh báo về những kẻ mạo danh Chúa cùng hậu quả nghiêm trọng khi bảy con trai của Sê-va bị quỷ dữ đánh đuổi."
 tags: ["Công-vụ Các Sứ Đồ", "Báp-têm", "Đức Thánh Linh", "Lời Chúa", "Mạo Danh", "Danh Chúa", "Ê-phê-sô"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -20,7 +20,7 @@ Qua phân đoạn này, có hai điểm quan trọng cần phân biệt:
 
 **Báp-têm của Giăng** chỉ là báp-têm của sự ăn năn hối cải — nhận biết mình tội lỗi và dọn lòng đón nhận Đấng Mê-si đến sau. Đó là nơi dừng lại của nó.
 
-**Báp-têm trong danh Chúa Giê-su** (nhân danh Đức Cha, Đức Con và Đức Thánh Linh theo Ma-thi-ơ 28) là tiếp nhận Chúa Giê-su làm Cứu Chúa, sau đó được sự biến đổi bởi Đức Thánh Linh.
+**Báp-têm trong danh Đức Chúa Giê-su** (nhân danh Đức Cha, Đức Con và Đức Thánh Linh theo Ma-thi-ơ 28) là tiếp nhận Đức Chúa Giê-su làm Cứu Chúa, sau đó được sự biến đổi bởi Đức Thánh Linh.
 
 Cũng cần làm rõ về ơn Thánh Linh: Kinh Thánh không nói nói tiếng lạ là dấu hiệu duy nhất xác định có Đức Thánh Linh. Ơn Thánh Linh rất đa dạng — quản trị, thông dịch, giảng dạy, cầu nguyện, dâng hiến, thăm viếng. Tương tự, "báp-têm bằng Thánh Linh" không có nghĩa là một nghi lễ đặt tay riêng biệt để truyền Thánh Linh. Chữ *baptizo* có nghĩa là dìm xuống, nhúng xuống, được phủ đầy — Thánh Linh ngự trong lòng và mang lại sự biến đổi trong đời sống, chứ không phải qua một nghi thức riêng.
 
@@ -44,7 +44,7 @@ So sánh điều đó với chúng ta ngày nay: chúng ta có điều kiện h�
 
 ## Công-vụ 19:13-20 — Những Kẻ Mạo Danh Chúa
 
-Đây là câu chuyện đặc biệt và đầy tính kịch tính. Lúc bấy giờ, trong xã hội Ê-phê-sô có nhiều thầy trừ quỷ người Do-thái đi từ nơi này sang nơi khác. Khi danh Chúa Giê-su trở nên mạnh mẽ qua chức vụ của Phao-lô, **bảy con trai của Sê-va** — một thầy tế lễ cả — đã lợi dụng danh đó để trừ quỷ:
+Đây là câu chuyện đặc biệt và đầy tính kịch tính. Lúc bấy giờ, trong xã hội Ê-phê-sô có nhiều thầy trừ quỷ người Do-thái đi từ nơi này sang nơi khác. Khi danh Đức Chúa Giê-su trở nên mạnh mẽ qua chức vụ của Phao-lô, **bảy con trai của Sê-va** — một thầy tế lễ cả — đã lợi dụng danh đó để trừ quỷ:
 
 > *"Ta nhơn danh Đức Chúa Giê-su này, là Đấng mà Phao-lô giảng, mà truyền khiến chúng bay."*
 

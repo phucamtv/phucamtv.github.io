@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 5:27-30
 
-Bài giảng thuộc loạt bài học về Bài Giảng Trên Núi, tập trung vào hai phân đoạn liên quan mật thiết: phạm tội trong tư tưởng (câu 27-28) và loại bỏ phương tiện phạm tội (câu 29-30). Chúa Giê-su nâng tiêu chuẩn luật pháp lên một tầm cao mới — không chỉ đòi hỏi hành vi bên ngoài mà còn đòi hỏi sự thanh sạch từ bên trong tâm trí.
+Bài giảng thuộc loạt bài học về Bài Giảng Trên Núi, tập trung vào hai phân đoạn liên quan mật thiết: phạm tội trong tư tưởng (câu 27-28) và loại bỏ phương tiện phạm tội (câu 29-30). Đức Chúa Giê-su nâng tiêu chuẩn luật pháp lên một tầm cao mới — không chỉ đòi hỏi hành vi bên ngoài mà còn đòi hỏi sự thanh sạch từ bên trong tâm trí.
 
 ---
 
@@ -22,9 +22,9 @@ Bài giảng thuộc loạt bài học về Bài Giảng Trên Núi, tập trung
 
 ### Không Chỉ Hành Động Mới Là Phạm Tội
 
-Luật pháp Môi-se dạy: *"Ngươi chớ phạm tội tà dâm."* Nhưng Chúa Giê-su đi xa hơn khi phán rằng hễ ai nhìn người khác mà động tình ham muốn thì trong lòng đã phạm tội rồi. Nguyên tắc này không giới hạn ở một loại tội duy nhất — nó áp dụng cho mọi hình thức tham muốn. Khi chúng ta nhìn tài sản của người khác mà động lòng tham, cũng đã ngang bằng với trộm cắp trong mắt Đức Chúa Trời.
+Luật pháp Môi-se dạy: *"Ngươi chớ phạm tội tà dâm."* Nhưng Đức Chúa Giê-su đi xa hơn khi phán rằng hễ ai nhìn người khác mà động tình ham muốn thì trong lòng đã phạm tội rồi. Nguyên tắc này không giới hạn ở một loại tội duy nhất — nó áp dụng cho mọi hình thức tham muốn. Khi chúng ta nhìn tài sản của người khác mà động lòng tham, cũng đã ngang bằng với trộm cắp trong mắt Đức Chúa Trời.
 
-Điểm cốt lõi Chúa Giê-su muốn nhấn mạnh: tội lỗi không bắt đầu ở bàn tay hay đôi chân, mà bắt đầu ngay trong tâm trí. Ngay khoảnh khắc lòng rung động vì sự kích thích, vì cám dỗ, đó đã là phạm tội.
+Điểm cốt lõi Đức Chúa Giê-su muốn nhấn mạnh: tội lỗi không bắt đầu ở bàn tay hay đôi chân, mà bắt đầu ngay trong tâm trí. Ngay khoảnh khắc lòng rung động vì sự kích thích, vì cám dỗ, đó đã là phạm tội.
 
 ### Đôi Mắt — Cánh Cửa Dẫn Vào Tâm Trí
 
@@ -34,7 +34,7 @@ Sứ đồ Giăng tóm tắt trọn vẹn: *"Sự mê tham của xác thịt, m�
 
 ### Thời Đại Ngày Nay — Sự Kích Thích Qua Đôi Mắt
 
-Ngày nay, sự cám dỗ qua thị giác càng trở nên mãnh liệt hơn bao giờ hết. Người ta tận dụng sức hấp dẫn của hình ảnh để quảng cáo, qua tranh ảnh, điện ảnh, ca nhạc, sân khấu và đặc biệt là mạng xã hội. Trong lĩnh vực nghệ thuật như hội họa, điêu khắc, nhiếp ảnh, có những tranh cãi về ranh giới giữa nghệ thuật và sự kích thích dục vọng. Chúa Giê-su không đánh giá sự vật bên ngoài mà nhấn mạnh điều quan trọng là tư tưởng chúng ta nghĩ gì khi nhìn vào một điều gì đó. Sự kiểm soát tư tưởng mới là điều chính yếu.
+Ngày nay, sự cám dỗ qua thị giác càng trở nên mãnh liệt hơn bao giờ hết. Người ta tận dụng sức hấp dẫn của hình ảnh để quảng cáo, qua tranh ảnh, điện ảnh, ca nhạc, sân khấu và đặc biệt là mạng xã hội. Trong lĩnh vực nghệ thuật như hội họa, điêu khắc, nhiếp ảnh, có những tranh cãi về ranh giới giữa nghệ thuật và sự kích thích dục vọng. Đức Chúa Giê-su không đánh giá sự vật bên ngoài mà nhấn mạnh điều quan trọng là tư tưởng chúng ta nghĩ gì khi nhìn vào một điều gì đó. Sự kiểm soát tư tưởng mới là điều chính yếu.
 
 ---
 
@@ -42,7 +42,7 @@ Ngày nay, sự cám dỗ qua thị giác càng trở nên mãnh liệt hơn bao
 
 ### Quyết Liệt Với Nguyên Nhân Dẫn Đến Tội Lỗi
 
-Chúa Giê-su dùng hình ảnh rất mạnh mẽ: nếu mắt xui phạm tội thì hãy móc bỏ, nếu tay xui phạm tội thì hãy chặt đi. Từ ngữ "xui cho phạm tội" trong nguyên ngữ ám chỉ một hòn đá đặt chỗ khuất trên đường, một sợi dây căng ngang, hay một cái bẫy được ngụy trang — tất cả đều nhằm làm người ta vấp ngã.
+Đức Chúa Giê-su dùng hình ảnh rất mạnh mẽ: nếu mắt xui phạm tội thì hãy móc bỏ, nếu tay xui phạm tội thì hãy chặt đi. Từ ngữ "xui cho phạm tội" trong nguyên ngữ ám chỉ một hòn đá đặt chỗ khuất trên đường, một sợi dây căng ngang, hay một cái bẫy được ngụy trang — tất cả đều nhằm làm người ta vấp ngã.
 
 Dĩ nhiên Chúa không dạy theo nghĩa đen là tự hủy hoại thân thể. Ý nghĩa sâu xa là phải diệt trừ không thương tiếc mọi thứ mang bóng dáng của sự phạm tội. Thói quen nào khiến ta dễ sa ngã, thú vui nào kéo ta gần sự cám dỗ, thì phải dứt khoát loại bỏ. Vì nếu còn giữ, trước sau gì cũng sẽ gục ngã.
 
@@ -58,4 +58,4 @@ Có một nghịch lý: khi cố gắng không nghĩ đến điều gì đó, ch
 
 ## Kết Luận
 
-Bài giảng nhắc nhở chúng ta rằng đời sống thánh khiết không chỉ được đo bằng hành vi bên ngoài, mà bắt đầu từ sự thanh sạch trong tư tưởng. Chúa Giê-su đòi hỏi chúng ta cẩn trọng với những gì đôi mắt và đôi tai tiếp nhận, đặc biệt trong thời đại tràn ngập thông tin và hình ảnh kích thích trên mạng xã hội. Con đường chiến thắng không phải là cố gắng "không nghĩ đến" điều xấu, mà là chủ động lấp đầy cuộc sống và tâm trí bằng những điều thuộc về Chúa.
+Bài giảng nhắc nhở chúng ta rằng đời sống thánh khiết không chỉ được đo bằng hành vi bên ngoài, mà bắt đầu từ sự thanh sạch trong tư tưởng. Đức Chúa Giê-su đòi hỏi chúng ta cẩn trọng với những gì đôi mắt và đôi tai tiếp nhận, đặc biệt trong thời đại tràn ngập thông tin và hình ảnh kích thích trên mạng xã hội. Con đường chiến thắng không phải là cố gắng "không nghĩ đến" điều xấu, mà là chủ động lấp đầy cuộc sống và tâm trí bằng những điều thuộc về Chúa.

@@ -29,7 +29,7 @@ Câu chuyện của Agassiz đặt ra cho mỗi chúng ta một câu hỏi lớn
 
 ## Không Thể Theo Đuổi Hai Lý Tưởng Đối Nghịch
 
-Lời Chúa Giê-xu đã dạy rõ ràng rằng không ai có thể làm tôi hai chủ cùng một lúc. Khi hai lý tưởng hoàn toàn khác biệt nhau, thậm chí đối nghịch nhau, thì việc cố gắng ôm giữ cả hai chỉ khiến chúng ta rơi vào tình trạng nửa vời. Bước trên con đường về thiên quốc mà tâm hồn vẫn trĩu nặng những lo toan của trần gian, ấy là một nghịch lý đau lòng mà nhiều Cơ Đốc nhân đang sống trong đó mỗi ngày.
+Lời Đức Chúa Giê-su đã dạy rõ ràng rằng không ai có thể làm tôi hai chủ cùng một lúc. Khi hai lý tưởng hoàn toàn khác biệt nhau, thậm chí đối nghịch nhau, thì việc cố gắng ôm giữ cả hai chỉ khiến chúng ta rơi vào tình trạng nửa vời. Bước trên con đường về thiên quốc mà tâm hồn vẫn trĩu nặng những lo toan của trần gian, ấy là một nghịch lý đau lòng mà nhiều Cơ Đốc nhân đang sống trong đó mỗi ngày.
 
 Sự thật phũ phàng nhưng cần thiết là: thiên đàng không có chỗ cho những người không biết từ bỏ ham muốn của chính mình. Đây không phải là lời đe dọa mà là lời nhắc nhở đầy yêu thương, giúp chúng ta tỉnh thức để nhận ra đâu là điều thật sự có giá trị vĩnh cửu.
 

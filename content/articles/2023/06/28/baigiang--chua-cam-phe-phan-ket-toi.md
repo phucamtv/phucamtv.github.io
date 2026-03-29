@@ -14,21 +14,21 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 7:1-5
 
-Trong bài giảng trên núi, Chúa Giê-su đưa ra một mệnh lệnh rõ ràng và nghiêm túc: *"Các ngươi đừng đoán xét ai, để mình khỏi bị đoán xét."* Mục sư Dương Quang Thoại dẫn dắt hội thánh đi sâu vào năm câu Kinh Thánh ngắn nhưng chứa đựng nguyên tắc sống vô cùng quan trọng cho đời sống Cơ Đốc nhân.
+Trong bài giảng trên núi, Đức Chúa Giê-su đưa ra một mệnh lệnh rõ ràng và nghiêm túc: *"Các ngươi đừng đoán xét ai, để mình khỏi bị đoán xét."* Mục sư Dương Quang Thoại dẫn dắt hội thánh đi sâu vào năm câu Kinh Thánh ngắn nhưng chứa đựng nguyên tắc sống vô cùng quan trọng cho đời sống Cơ Đốc nhân.
 
 ---
 
 ## Hình Ảnh Ẩn Dụ Đầy Khôi Hài Nhưng Sâu Sắc
 
-Chúa Giê-su sử dụng một hình ảnh ẩn dụ vừa khôi hài vừa thâm thúy: một người có cả cây đà trong mắt mình nhưng lại đòi lấy cái rác nhỏ xíu ra khỏi mắt anh em. Sự khôi hài được đẩy lên đỉnh điểm khi người ấy — với con mắt bị che khuất bởi cây đà khổng lồ — vẫn tin rằng mình nhìn thấy rõ lỗi lầm nhỏ bé của người khác.
+Đức Chúa Giê-su sử dụng một hình ảnh ẩn dụ vừa khôi hài vừa thâm thúy: một người có cả cây đà trong mắt mình nhưng lại đòi lấy cái rác nhỏ xíu ra khỏi mắt anh em. Sự khôi hài được đẩy lên đỉnh điểm khi người ấy — với con mắt bị che khuất bởi cây đà khổng lồ — vẫn tin rằng mình nhìn thấy rõ lỗi lầm nhỏ bé của người khác.
 
-Hình ảnh này đơn giản đến mức một em nhỏ cũng hiểu được, nhưng thông điệp lại cực kỳ sâu sắc: con người chúng ta có thói quen phê phán, lên án, thậm chí kết tội người khác trong khi bản thân mình còn nhiều khuyết điểm lớn hơn. Và điều đáng lưu ý là chúng ta thường xuyên vấp phạm điều này mà không nghĩ nó là tội lỗi. Chúng ta xem những lời nhận xét, phán đoán về người khác chỉ là gió thoảng, nhưng Chúa Giê-su gọi đó là hành vi của kẻ giả hình.
+Hình ảnh này đơn giản đến mức một em nhỏ cũng hiểu được, nhưng thông điệp lại cực kỳ sâu sắc: con người chúng ta có thói quen phê phán, lên án, thậm chí kết tội người khác trong khi bản thân mình còn nhiều khuyết điểm lớn hơn. Và điều đáng lưu ý là chúng ta thường xuyên vấp phạm điều này mà không nghĩ nó là tội lỗi. Chúng ta xem những lời nhận xét, phán đoán về người khác chỉ là gió thoảng, nhưng Đức Chúa Giê-su gọi đó là hành vi của kẻ giả hình.
 
 ---
 
 ## Nguyên Tắc Nền Tảng: Đối Xử Sao Nhận Lại Vậy
 
-Chúa Giê-su đặt mệnh lệnh này trên một nền tảng quen thuộc: đối với người ta thế nào thì Đức Chúa Trời sẽ đối với mình như vậy. Đây là nguyên tắc xuyên suốt trong lời dạy của Ngài — từ sự tha thứ trong bài cầu nguyện chung cho đến cách chúng ta cân đo đong đếm người khác.
+Đức Chúa Giê-su đặt mệnh lệnh này trên một nền tảng quen thuộc: đối với người ta thế nào thì Đức Chúa Trời sẽ đối với mình như vậy. Đây là nguyên tắc xuyên suốt trong lời dạy của Ngài — từ sự tha thứ trong bài cầu nguyện chung cho đến cách chúng ta cân đo đong đếm người khác.
 
 Người Do Thái cổ đại rất coi trọng điều này. Các thầy Ra-bi dạy rằng ai đoán xét anh em một cách rộng lượng thì sẽ được Đức Chúa Trời rộng lượng lại. Trong sáu việc quan trọng mà người Do Thái cho là có giá trị cả đời này lẫn đời sau, điều thứ sáu chính là "nghĩ tốt về người khác." Phê phán rộng lượng không chỉ là phép lịch sự xã giao mà còn là bổn phận thiêng liêng, liên quan trực tiếp đến đời sống tâm linh.
 
@@ -52,7 +52,7 @@ Tương truyền, một số vụ án tại Hy Lạp cổ đại được xử t
 
 ### 3. Không Ai Đủ Tốt Để Lên Án Người Khác
 
-Trong Giăng đoạn 8, khi người ta lôi người đàn bà phạm tội đến trước Chúa Giê-su, Ngài chỉ phán một câu: ai vô tội hãy ném đá trước. Kết quả là tất cả đều lặng lẽ bỏ đi, bắt đầu từ những người lớn tuổi nhất. Họ đến hùng hổ bao nhiêu thì ra đi lặng lẽ bấy nhiêu — bởi vì họ nhận ra mình không đủ tốt.
+Trong Giăng đoạn 8, khi người ta lôi người đàn bà phạm tội đến trước Đức Chúa Giê-su, Ngài chỉ phán một câu: ai vô tội hãy ném đá trước. Kết quả là tất cả đều lặng lẽ bỏ đi, bắt đầu từ những người lớn tuổi nhất. Họ đến hùng hổ bao nhiêu thì ra đi lặng lẽ bấy nhiêu — bởi vì họ nhận ra mình không đủ tốt.
 
 Những người đòi ném đá không phạm tội tà dâm, nhưng họ phạm những tội khác. Khi nhận ra điều đó, cái hừng hực muốn kết án người khác tan chảy hết. Đây chính là bí quyết để hạn chế sự đoán xét: luôn nhận biết rằng bản thân mình không hoàn hảo, không thánh thiện.
 
@@ -60,7 +60,7 @@ Những người đòi ném đá không phạm tội tà dâm, nhưng họ phạ
 
 ## Lấy Đà Ra Khỏi Mắt Mình Trước
 
-Chúa Giê-su không cấm hoàn toàn việc góp ý hay phê bình, nhưng Ngài đặt điều kiện tiên quyết: hãy lấy cây đà ra khỏi mắt mình trước. Khi mắt đã sáng, chúng ta mới thật sự có khả năng giúp anh em. Còn nếu cây đà vẫn còn — tức là sự tự hào, tự mãn, tự cho mình giỏi và tốt đẹp — thì mọi nỗ lực "giúp đỡ" chỉ khiến tình hình tồi tệ hơn.
+Đức Chúa Giê-su không cấm hoàn toàn việc góp ý hay phê bình, nhưng Ngài đặt điều kiện tiên quyết: hãy lấy cây đà ra khỏi mắt mình trước. Khi mắt đã sáng, chúng ta mới thật sự có khả năng giúp anh em. Còn nếu cây đà vẫn còn — tức là sự tự hào, tự mãn, tự cho mình giỏi và tốt đẹp — thì mọi nỗ lực "giúp đỡ" chỉ khiến tình hình tồi tệ hơn.
 
 Nguyên tắc này áp dụng trong mọi mối quan hệ: gia đình, bạn bè, nơi làm việc, và đặc biệt trong hội thánh. Khi sự đoán xét tồn tại trong hội thánh, nó phá vỡ sự hiệp nhất — phá vỡ chính gia đình của Đức Chúa Trời. Thay vì tìm kiếm điểm xấu của người khác, hãy nỗ lực tìm kiếm điểm tốt của họ, nhân lên và khen ngợi — như vậy chúng ta góp phần làm cho thế giới này tốt đẹp hơn.
 

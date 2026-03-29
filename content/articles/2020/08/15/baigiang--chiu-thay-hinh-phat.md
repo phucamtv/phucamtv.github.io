@@ -34,14 +34,14 @@ Ngày hôm sau, Jastun trở lại lớp và xin lỗi cô. Một không khí ho
 
 Câu chuyện cô giáo Sandina là hình ảnh thu nhỏ của điều Chúa Cứu Thế Giê-su đã làm cho nhân loại. Một đứa trẻ chỉ thấy sự trừng phạt mà không thấy tình thương trong cách giáo dục thì sẽ trở nên ngang ngược hơn. Cũng vậy, con người nếu chỉ sống dưới luật pháp nghiêm khắc mà thiếu đi ân điển thì sẽ ngày càng xa cách Đức Chúa Trời.
 
-Chúa Giê-su đến thế gian không phải để trừng phạt chúng ta, dù tội lỗi chúng ta đáng bị trừng phạt. Ngài đến để cảm thông, để gánh lấy cái án mà lẽ ra chúng ta phải chịu. Trên thập tự giá, Ngài đã nhận lấy mọi hình phạt thay cho chúng ta — không phải vì Ngài có tội, mà vì Ngài yêu thương chúng ta.
+Đức Chúa Giê-su đến thế gian không phải để trừng phạt chúng ta, dù tội lỗi chúng ta đáng bị trừng phạt. Ngài đến để cảm thông, để gánh lấy cái án mà lẽ ra chúng ta phải chịu. Trên thập tự giá, Ngài đã nhận lấy mọi hình phạt thay cho chúng ta — không phải vì Ngài có tội, mà vì Ngài yêu thương chúng ta.
 
-Tiên tri Ê-sai đã viết từ hàng trăm năm trước rằng Ngài đã vì tội lỗi chúng ta mà bị vết, vì sự gian ác chúng ta mà bị thương. Bởi sự xử phạt Ngài chịu, chúng ta được bình an; bởi lằn roi Ngài, chúng ta được lành bệnh (Ê-sai 53:5). Đây là lời tiên tri ứng nghiệm trọn vẹn nơi Chúa Giê-su Christ.
+Tiên tri Ê-sai đã viết từ hàng trăm năm trước rằng Ngài đã vì tội lỗi chúng ta mà bị vết, vì sự gian ác chúng ta mà bị thương. Bởi sự xử phạt Ngài chịu, chúng ta được bình an; bởi lằn roi Ngài, chúng ta được lành bệnh (Ê-sai 53:5). Đây là lời tiên tri ứng nghiệm trọn vẹn nơi Đức Chúa Giê-su Christ.
 
 ## Sống Với Tinh Thần Tình Yêu Thương
 
 Nếu Chúa đã đối xử với chúng ta bằng tình yêu thương hy sinh như vậy, thì chúng ta cũng được kêu gọi đối xử với nhau theo cách ấy. Thay vì trừng phạt, hãy tìm cách sửa đổi nhau bằng tinh thần yêu thương. Thay vì lên án, hãy cảm thông và tha thứ.
 
-Sự thay đổi thực sự không đến từ sự sợ hãi trước hình phạt, mà đến từ sự cảm nhận được tình yêu thương chân thật. Jastun thay đổi không phải vì sợ roi vọt, mà vì lần đầu tiên nó thấy có người sẵn sàng chịu đau vì mình. Cũng vậy, khi chúng ta thật sự nhận ra Chúa Giê-su đã chịu thay hình phạt cho mình trên thập tự giá, đời sống chúng ta sẽ được biến đổi từ bên trong.
+Sự thay đổi thực sự không đến từ sự sợ hãi trước hình phạt, mà đến từ sự cảm nhận được tình yêu thương chân thật. Jastun thay đổi không phải vì sợ roi vọt, mà vì lần đầu tiên nó thấy có người sẵn sàng chịu đau vì mình. Cũng vậy, khi chúng ta thật sự nhận ra Đức Chúa Giê-su đã chịu thay hình phạt cho mình trên thập tự giá, đời sống chúng ta sẽ được biến đổi từ bên trong.
 
 Hãy để tình yêu thương của Chúa trở thành động lực cho mọi mối quan hệ trong cuộc sống — trong gia đình, trong hội thánh và ngoài xã hội. Khi chúng ta sống với tinh thần hy sinh và tha thứ, chúng ta đang phản chiếu hình ảnh của Đấng đã chịu thay hình phạt cho cả nhân loại.

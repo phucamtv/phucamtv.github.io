@@ -2,7 +2,7 @@
 title: "Đối Tốt Với Kẻ Ghét Mình"
 date: 2020-10-11
 url: /baigiang/doi-tot-voi-ke-ghet-minh/
-description: "Qua câu chuyện nữ giáo sĩ Carolyn T. Hinson tại Ấn Độ, bài tĩnh nguyện nhắc nhở người tin Chúa về cách đối diện với sự thù ghét bằng tình yêu thương, sự khoan nhẫn và nhân từ — theo gương Chúa Giê-su, Đấng đã chiến thắng bằng sức mạnh của thập tự giá."
+description: "Qua câu chuyện nữ giáo sĩ Carolyn T. Hinson tại Ấn Độ, bài tĩnh nguyện nhắc nhở người tin Chúa về cách đối diện với sự thù ghét bằng tình yêu thương, sự khoan nhẫn và nhân từ — theo gương Đức Chúa Giê-su, Đấng đã chiến thắng bằng sức mạnh của thập tự giá."
 tags: ["Tình Yêu Thương", "Tha Thứ", "Chịu Khổ", "I Phi-e-rơ", "Chắp Cánh Bay Cao"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -30,7 +30,7 @@ Theo Chúa, chúng ta không chỉ chịu áp lực từ sự bắt bớ hung t�
 - **Chế ngự thái độ khinh bỉ** bằng hành vi khiêm tốn.
 - **Chinh phục những tâm hồn cứng cỏi** bằng nghĩa cử yêu thương chân thành.
 
-Chúa Giê-su đã chiến thắng bằng chính những vũ khí ấy, và chúng ta không được dạy cách đối phó nào khác hơn. Hãy cho thế gian biết sức mạnh của thập tự giá là sức mạnh của tình yêu thương.
+Đức Chúa Giê-su đã chiến thắng bằng chính những vũ khí ấy, và chúng ta không được dạy cách đối phó nào khác hơn. Hãy cho thế gian biết sức mạnh của thập tự giá là sức mạnh của tình yêu thương.
 
 ---
 

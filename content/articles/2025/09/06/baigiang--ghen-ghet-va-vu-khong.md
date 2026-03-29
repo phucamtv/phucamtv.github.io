@@ -2,8 +2,8 @@
 title: "Ghen Ghét Và Vu Khống"
 date: 2025-09-06
 url: /baigiang/ghen-ghet-va-vu-khong/
-description: "Bài giảng phân tích chủ đề ghen ghét và vu khống qua các nhân vật Kinh Thánh như Giô-sép, Nê-hê-mi, Mạc-đô-chê và Chúa Giê-su, đồng thời hướng dẫn cách đối phó với sự vu khống theo gương Đấng Christ."
-tags: ["Ghen Ghét", "Vu Khống", "Chịu Khổ Vì Danh Chúa", "Đức Tin", "Sự Im Lặng Của Chúa Giê-su"]
+description: "Bài giảng phân tích chủ đề ghen ghét và vu khống qua các nhân vật Kinh Thánh như Giô-sép, Nê-hê-mi, Mạc-đô-chê và Đức Chúa Giê-su, đồng thời hướng dẫn cách đối phó với sự vu khống theo gương Đấng Christ."
+tags: ["Ghen Ghét", "Vu Khống", "Chịu Khổ Vì Danh Chúa", "Đức Tin", "Sự Im Lặng Của Đức Chúa Giê-su"]
 authors:
   - "duong-quang-thoai"
 plugins:
@@ -21,7 +21,7 @@ Lời nói có sức mạnh hơn cả dao. Tục ngữ Việt Nam dạy rằng "
 
 Kinh Thánh ghi lại nhiều nhân vật từng chịu cảnh vu khống. Giô-sép bị vợ Phô-ti-pha vu khống (Sáng Thế Ký 39:7-23), từ vị trí quản gia bị tống vào ngục tù. Đáng chú ý, Phô-ti-pha không giết Giô-sép mà tống ông vào ngục của các quan đại thần -- điều này cho thấy có lẽ ông tin Giô-sép hơn cả vợ mình, nhưng Giô-sép vẫn phải gánh chịu hậu quả của sự vu khống. Nê-hê-mi bị San-ba-lát và Tô-bi-gia phá rối bằng lời vu khống khi xây lại vách thành (Nê-hê-mi 2-6). Mạc-đô-chê bị Ha-man tìm cách tuyệt diệt cả dân tộc Do Thái chỉ vì không chịu quỳ lạy (Ê-xơ-tê 3).
 
-Và khủng khiếp nhất là Chúa Giê-su. Suốt ba năm rưỡi, các thầy tế lễ và trưởng lão tìm cách bắt bẻ Ngài mà không được, cuối cùng họ bất chấp tất cả, bắt Ngài rồi tìm người chứng dối để kết tội (Ma-thi-ơ 26:59-63).
+Và khủng khiếp nhất là Đức Chúa Giê-su. Suốt ba năm rưỡi, các thầy tế lễ và trưởng lão tìm cách bắt bẻ Ngài mà không được, cuối cùng họ bất chấp tất cả, bắt Ngài rồi tìm người chứng dối để kết tội (Ma-thi-ơ 26:59-63).
 
 ## Chính chúng ta cũng có thể trở thành người vu khống
 
@@ -29,7 +29,7 @@ Gia-cơ 1:26 cảnh tỉnh rằng: ai tưởng mình là tin đạo mà không c
 
 ## Bị ghen ghét và vu khống vì danh Chúa
 
-Chúa Giê-su đã phán trước cho các môn đồ rằng họ sẽ bị thiên hạ ghen ghét vì danh Ngài (Ma-thi-ơ 10:22). Các môn đồ theo Chúa với suy nghĩ ngây thơ rằng sẽ được làm tướng, được giàu có, được tôn trọng -- nhưng Ngài kéo họ về thực tế.
+Đức Chúa Giê-su đã phán trước cho các môn đồ rằng họ sẽ bị thiên hạ ghen ghét vì danh Ngài (Ma-thi-ơ 10:22). Các môn đồ theo Chúa với suy nghĩ ngây thơ rằng sẽ được làm tướng, được giàu có, được tôn trọng -- nhưng Ngài kéo họ về thực tế.
 
 Ma-thi-ơ 5:10-12 dạy rằng phước cho người chịu bắt bớ vì sự công bình. Khi vì cớ Chúa mà bị mắng nhiếc, bắt bớ, vu khống, thì hãy vui mừng vì phần thưởng ở trên trời sẽ lớn lắm. Cái nghịch lý ở đây không phải là nở nụ cười hả hê khi bị vu khống, mà là có một niềm vui sâu lắng hơn, vượt lên trên mọi sự tầm thường -- niềm vui vì biết rằng các tổ phụ đức tin cũng đã chịu như vậy, và phần thưởng trên trời vượt xa mọi phần thưởng dưới đất.
 
@@ -37,7 +37,7 @@ Chúa cho phép điều này xảy ra để thử sức chịu đựng, thử đ
 
 ## Cách đối phó với sự ghen ghét và vu khống
 
-Chúa Giê-su đã làm gương cho chúng ta. Trước tòa Công Luận, khi các chứng nhân dối kiện cáo Ngài, Ngài cứ làm thinh (Ma-thi-ơ 26:62-63). Trước mặt Phi-lát cũng vậy, Ngài không đáp một lời nào khiến quan tổng đốc lấy làm lạ (Ma-thi-ơ 27:12-14). Sự im lặng này không phải là khinh thường, mà vì Ngài biết khi người ta đã rắp tâm hại mình thì mọi lời nói đều vô ích. Ngài chỉ mở miệng khi lời Ngài đem lại ích lợi cho người nghe.
+Đức Chúa Giê-su đã làm gương cho chúng ta. Trước tòa Công Luận, khi các chứng nhân dối kiện cáo Ngài, Ngài cứ làm thinh (Ma-thi-ơ 26:62-63). Trước mặt Phi-lát cũng vậy, Ngài không đáp một lời nào khiến quan tổng đốc lấy làm lạ (Ma-thi-ơ 27:12-14). Sự im lặng này không phải là khinh thường, mà vì Ngài biết khi người ta đã rắp tâm hại mình thì mọi lời nói đều vô ích. Ngài chỉ mở miệng khi lời Ngài đem lại ích lợi cho người nghe.
 
 Về phía Đức Chúa Trời, Châm Ngôn 4:18 hứa rằng con đường người công bình giống như sự sáng chiếu rạng, càng sáng thêm lên cho đến giữa trưa. Dù người ta cố dập tắt ánh sáng của bạn, nếu bạn đi theo đường lối Chúa thì ánh sáng ấy sẽ mãi chiếu rạng. Thi Thiên 118:6 khẳng định Đức Giê-hô-va bênh vực tôi, tôi chẳng sợ loài người làm chi tôi.
 

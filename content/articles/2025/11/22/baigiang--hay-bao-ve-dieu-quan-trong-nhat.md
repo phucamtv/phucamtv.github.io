@@ -17,7 +17,7 @@ draft: false
 
 ## Điều gì là quan trọng nhất?
 
-Mỗi người trong chúng ta đều có những điều mà mình xem là quan trọng nhất. Học sinh thì lo việc học, người tốt nghiệp thì lo tìm việc, người yêu đương thì lo hôn nhân, người chưa có nhà thì lo chỗ ở. Tuy nhiên, với người tin Chúa, không có điều gì được phép đặt cao hơn niềm tin nơi Ngài -- đặc biệt là niềm hy vọng về ngày Chúa Giê-su tái lâm.
+Mỗi người trong chúng ta đều có những điều mà mình xem là quan trọng nhất. Học sinh thì lo việc học, người tốt nghiệp thì lo tìm việc, người yêu đương thì lo hôn nhân, người chưa có nhà thì lo chỗ ở. Tuy nhiên, với người tin Chúa, không có điều gì được phép đặt cao hơn niềm tin nơi Ngài -- đặc biệt là niềm hy vọng về ngày Đức Chúa Giê-su tái lâm.
 
 Ma-thi-ơ 13:44 kể về người tìm được kho báu trong đám ruộng, vui mừng bán hết gia tài để mua đám ruộng ấy. Anh ta nhận thức rằng kho báu đó quý hơn tất cả những gì mình đang sở hữu. Đức Chúa Giê-su dạy rằng nước thiên đàng cũng giống như vậy. Vấn đề cốt lõi là: chúng ta có nhận thức được sự cứu rỗi quý báu hơn nhà cửa, tiền bạc, sự nghiệp và mọi thứ thuộc về thế gian hay không?
 

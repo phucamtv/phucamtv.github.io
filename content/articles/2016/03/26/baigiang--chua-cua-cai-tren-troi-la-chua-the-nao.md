@@ -2,7 +2,7 @@
 title: "Chứa Của Cải Trên Trời Là Chứa Thế Nào?"
 date: 2016-03-26
 url: /baigiang/chua-cua-cai-tren-troi-la-chua-the-nao/
-description: "Bài giảng Sa-bát giải thích lời dạy của Chúa Giê-su trong Ma-thi-ơ 6:19-21 về việc chứa của cải trên trời — không phải chuyển tiền vàng lên thiên đàng, mà là dâng hiến và phân phát theo ý muốn Đức Chúa Trời để tấm lòng hướng về nước trời, nơi của cải không bao giờ bị hao mòn hay mất mát."
+description: "Bài giảng Sa-bát giải thích lời dạy của Đức Chúa Giê-su trong Ma-thi-ơ 6:19-21 về việc chứa của cải trên trời — không phải chuyển tiền vàng lên thiên đàng, mà là dâng hiến và phân phát theo ý muốn Đức Chúa Trời để tấm lòng hướng về nước trời, nơi của cải không bao giờ bị hao mòn hay mất mát."
 tags: ["Của Cải", "Dâng Hiến", "Nước Trời", "Tài Chánh", "Ma-thi-ơ", "Tấm Lòng", "Đức Tin", "Thuộc Linh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -18,9 +18,9 @@ Sứ đồ Phao-lô từng nói rằng nếu niềm hy vọng của chúng ta ch
 
 Ai chuẩn bị định cư ở một quốc gia khác đều tìm cách chuyển tài sản của mình đến đó trước. Họ có thể bán nhà, thuê nơi ở tạm, chờ giấy tờ — nhưng điều quan trọng là toàn bộ tài sản phải được chuyển đến nơi họ sẽ sống. Đối với người tin Chúa, thiên quốc mới là quê hương thật sự, còn đời này chỉ là tạm bợ.
 
-## Lời Dạy Của Chúa Giê-su — Ma-thi-ơ 6:19-21
+## Lời Dạy Của Đức Chúa Giê-su — Ma-thi-ơ 6:19-21
 
-Chúa Giê-su phán: *"Các ngươi chớ chứa của cải ở dưới đất, là nơi có sâu mối, ten rét làm hư và kẻ trộm đào ngạch khoét vách mà lấy; nhưng phải chứa của cải ở trên trời, là nơi chẳng có sâu mối, ten rét làm hư, cũng chẳng có kẻ trộm đào ngạch khoét vách mà lấy. Vì của cải ngươi ở đâu thì lòng ngươi cũng ở đó."*
+Đức Chúa Giê-su phán: *"Các ngươi chớ chứa của cải ở dưới đất, là nơi có sâu mối, ten rét làm hư và kẻ trộm đào ngạch khoét vách mà lấy; nhưng phải chứa của cải ở trên trời, là nơi chẳng có sâu mối, ten rét làm hư, cũng chẳng có kẻ trộm đào ngạch khoét vách mà lấy. Vì của cải ngươi ở đâu thì lòng ngươi cũng ở đó."*
 
 Lời này không phải là lời trách cứ, mà là một thực tế: tài sản của chúng ta ở đâu, tấm lòng chúng ta sẽ ở đó. Người có tiền vàng cất trong nhà khóa bốn năm ổ khóa vẫn sợ trộm, không dám đi đâu xa. Còn người không có gì để mất thì ra đi tự do, không lo lắng. Tài sản gắn chặt lòng người với nơi nó ở.
 
@@ -28,17 +28,17 @@ Lời này không phải là lời trách cứ, mà là một thực tế: tài 
 
 ## Chứa Của Cải Trên Trời Là Chứa Thế Nào?
 
-Dĩ nhiên không phải theo nghĩa đen là chuyển tiền vàng lên thiên đàng — không có dịch vụ nào làm được điều đó. Câu trả lời rõ ràng trong Ma-thi-ơ 19:21, khi Chúa Giê-su nói với người thanh niên giàu có: *"Nếu ngươi muốn được trọn vẹn, hãy đi bán hết gia tài và bố thí cho kẻ nghèo nàn, thì ngươi sẽ có của quý ở trên trời."*
+Dĩ nhiên không phải theo nghĩa đen là chuyển tiền vàng lên thiên đàng — không có dịch vụ nào làm được điều đó. Câu trả lời rõ ràng trong Ma-thi-ơ 19:21, khi Đức Chúa Giê-su nói với người thanh niên giàu có: *"Nếu ngươi muốn được trọn vẹn, hãy đi bán hết gia tài và bố thí cho kẻ nghèo nàn, thì ngươi sẽ có của quý ở trên trời."*
 
 Chứa của cải trên trời có nghĩa là **phân phát của cải theo ý muốn Đức Chúa Trời** — dâng hiến để mở mang công việc của Ngài, chia sẻ với người khác, đầu tư vào nước trời. Đây là cách chuyển tài sản không qua ngân hàng hay dịch vụ tài chánh nào, nhưng kết quả là những điều chúng ta đã làm sẽ còn lại mãi mãi.
 
-Người thanh niên trong câu chuyện nghe xong lời này thì buồn rầu bỏ đi, vì chàng có nhiều của cải lắm. Chúa Giê-su biết chắc chàng sẽ không làm được, nhưng Ngài vẫn nói — để chúng ta học được bài học: nếu thật lòng yêu mến Chúa, chúng ta sẽ chứa của cải ở trên trời.
+Người thanh niên trong câu chuyện nghe xong lời này thì buồn rầu bỏ đi, vì chàng có nhiều của cải lắm. Đức Chúa Giê-su biết chắc chàng sẽ không làm được, nhưng Ngài vẫn nói — để chúng ta học được bài học: nếu thật lòng yêu mến Chúa, chúng ta sẽ chứa của cải ở trên trời.
 
 ## Khi Của Cải Làm Nghẹt Ngòi Đức Tin
 
 Ma-thi-ơ 13:22 cảnh báo về *"kẻ nghe đạo mà sự lo lắng về đời này và sự mê đắm về của cải làm cho nghẹt ngòi đạo và thành ra không kết quả."* Đây là thành phần những người tin Chúa thật sự — hạt giống rơi vào đất tốt, rễ bám sâu, lớn lên bình thường — nhưng bụi gai che phủ bên trên khiến cây không thể ra kết quả.
 
-Khi chúng ta quá lo lắng ưu tư về tiền bạc, công việc, của cải trong đời này, đời sống thuộc linh bị suy giảm. Ngược lại, khi hướng về của cải trên trời, lòng quan tâm cho nước trời sẽ làm đức tin tăng trưởng. Đây không phải lý thuyết — đây là quy luật thuộc linh Chúa Giê-su chỉ ra rõ ràng.
+Khi chúng ta quá lo lắng ưu tư về tiền bạc, công việc, của cải trong đời này, đời sống thuộc linh bị suy giảm. Ngược lại, khi hướng về của cải trên trời, lòng quan tâm cho nước trời sẽ làm đức tin tăng trưởng. Đây không phải lý thuyết — đây là quy luật thuộc linh Đức Chúa Giê-su chỉ ra rõ ràng.
 
 ## Của Cải Và Tiền Bạc Như Liều Thuốc Thử
 
@@ -50,7 +50,7 @@ Khi chúng ta cầm đồng tiền dâng vào trong bao tiền dâng, không ai 
 
 ## Sống Hai Mặt Là Giả Dối
 
-Nếu miệng nói lòng hướng về nước Đức Chúa Trời nhưng của cải không hề gửi lên nước trời mà chứa đầy dưới này — đó là sự giả dối. Chúa Giê-su không muốn chúng ta sống hai mặt: lòng nói một đằng, tài sản để một nẻo.
+Nếu miệng nói lòng hướng về nước Đức Chúa Trời nhưng của cải không hề gửi lên nước trời mà chứa đầy dưới này — đó là sự giả dối. Đức Chúa Giê-su không muốn chúng ta sống hai mặt: lòng nói một đằng, tài sản để một nẻo.
 
 Hãy nhìn lại trong quá khứ: chúng ta đã dâng hiến cho Chúa như thế nào? Tỷ lệ chúng ta chuyển của cải lên trời so với tỷ lệ dùng cho sự hưởng thụ cá nhân là bao nhiêu? Mỗi người sẽ có câu trả lời riêng — và câu trả lời đó phản ánh trung thực tấm lòng của mình đang ở đâu.
 

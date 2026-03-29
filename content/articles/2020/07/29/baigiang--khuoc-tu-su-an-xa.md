@@ -41,7 +41,7 @@ Lời đáp đó phản ánh thái độ của biết bao người qua mọi th�
 
 ## Hãy Đến Cùng Chúa
 
-Lời mời gọi của Chúa Giê-su vẫn vang lên nhẹ nhàng và êm dịu cho mỗi tấm lòng mệt mỏi: "Hãy đến cùng Ta!" Đây không phải là tiếng gọi đầy áp lực hay đe dọa, mà là lời yêu thương từ Đấng đã trả giá bằng chính mạng sống mình để mua sự tự do cho chúng ta.
+Lời mời gọi của Đức Chúa Giê-su vẫn vang lên nhẹ nhàng và êm dịu cho mỗi tấm lòng mệt mỏi: "Hãy đến cùng Ta!" Đây không phải là tiếng gọi đầy áp lực hay đe dọa, mà là lời yêu thương từ Đấng đã trả giá bằng chính mạng sống mình để mua sự tự do cho chúng ta.
 
 Nếu bạn đang mang gánh nặng của tội lỗi, nếu bạn đang bị giam cầm bởi quyền lực tăm tối, hãy biết rằng lệnh ân xá đã được ban ra từ thập tự giá. Sự khác biệt giữa tự do và giam cầm chỉ nằm ở quyết định của bạn: chấp nhận hay khước từ ân điển của Chúa.
 

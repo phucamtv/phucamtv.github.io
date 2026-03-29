@@ -54,7 +54,7 @@ Bài học sâu sắc: **Chúng ta không thể cảm thông khi chưa hiểu.**
 
 ### Chúa cảm thương sự yếu đuối của chúng ta
 
-Hê-bơ-rơ 4:15 xác nhận Chúa Giê-su *"cảm thương sự yếu đuối chúng ta."* Ngài không chỉ biết chúng ta yếu đuối — Ngài hiểu *tại sao* chúng ta yếu đuối, tại sao chúng ta gục ngã trước cám dỗ. Và từ chỗ hiểu đó, Ngài nâng đỡ chúng ta.
+Hê-bơ-rơ 4:15 xác nhận Đức Chúa Giê-su *"cảm thương sự yếu đuối chúng ta."* Ngài không chỉ biết chúng ta yếu đuối — Ngài hiểu *tại sao* chúng ta yếu đuối, tại sao chúng ta gục ngã trước cám dỗ. Và từ chỗ hiểu đó, Ngài nâng đỡ chúng ta.
 
 Ê-sai 66:13 dùng hình ảnh người mẹ ôm con để diễn tả tình yêu của Đức Chúa Trời: *"Ta sẽ yên ủi các ngươi như mẹ yên ủi con."* Không có điều gì ấm áp hơn vòng tay của mẹ — và Đức Chúa Trời muốn chúng ta cảm nhận sự ấm áp đó từ Ngài.
 
@@ -70,7 +70,7 @@ Phần thứ ba của bài giảng liệt kê những lời hứa cụ thể mà
 
 **Thi-thiên 68:5** — *"Đức Chúa Trời ở nơi thánh Ngài, là cha kẻ mồ côi và quan xét của người góa bụa."* Ngài đặc biệt quan tâm đến những người yếu thế, không nơi nương tựa trong xã hội.
 
-**Giăng 14:18** — *"Ta không để cho các ngươi mồ côi đâu, ta sẽ đến cùng các ngươi."* Đây là lời hứa Chúa Giê-su phán trước khi về trời — Ngài không rời bỏ chúng ta.
+**Giăng 14:18** — *"Ta không để cho các ngươi mồ côi đâu, ta sẽ đến cùng các ngươi."* Đây là lời hứa Đức Chúa Giê-su phán trước khi về trời — Ngài không rời bỏ chúng ta.
 
 **Ma-thi-ơ 28:20** — *"Và nầy, ta thường ở cùng các ngươi luôn cho đến tận thế."* Lời hứa cuối cùng và trọng đại nhất: sự hiện diện liên tục của Ngài trong mọi hoàn cảnh của đời sống chúng ta.
 

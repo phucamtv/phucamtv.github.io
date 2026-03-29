@@ -26,13 +26,13 @@ Mỗi người đều có một cái tên do cha mẹ đặt từ lúc mới ch�
 
 Trong Kinh Thánh, việc đặt tên mang ý nghĩa rất quan trọng, liên quan đến bản tánh và sứ mệnh. A-đam có nghĩa là "người," Ê-va là "sự sống," Giê-su là "cứu người ra khỏi tội," Giăng là "Chúa ban ân huệ." Y-sác có nghĩa là "cười" vì bà Sa-ra cười khi nghe tin mình sẽ có con ở tuổi ngoài chín mươi. Gia-cốp nghĩa là "nắm gót" hay "tiếm vị."
 
-Đặc biệt, khi Đức Chúa Trời đổi tên cho ai đó, Ngài giao cho họ một sứ mạng mới. Áp-ram (cha cao quý) được đổi thành Áp-ra-ham (cha của nhiều dân tộc). Gia-cốp được đổi thành Y-sơ-ra-ên (vật lộn cùng Đức Chúa Trời) sau đêm cầu nguyện thống thiết bên rạch Gia-bốc. Si-môn được Chúa Giê-su đổi thành Phi-e-rơ. Mỗi lần đổi tên là một bước ngoặt trong đời sống thuộc linh.
+Đặc biệt, khi Đức Chúa Trời đổi tên cho ai đó, Ngài giao cho họ một sứ mạng mới. Áp-ram (cha cao quý) được đổi thành Áp-ra-ham (cha của nhiều dân tộc). Gia-cốp được đổi thành Y-sơ-ra-ên (vật lộn cùng Đức Chúa Trời) sau đêm cầu nguyện thống thiết bên rạch Gia-bốc. Si-môn được Đức Chúa Giê-su đổi thành Phi-e-rơ. Mỗi lần đổi tên là một bước ngoặt trong đời sống thuộc linh.
 
 Ê-sai 43:1 khẳng định rằng Đức Chúa Trời gọi đích danh mỗi người chúng ta. Ngài biết tên chúng ta, Ngài đã chuộc chúng ta, và chúng ta thuộc về Ngài.
 
 ## Chúng Ta Mang Tên Của Chúa
 
-Tại thành An-ti-ốt, theo Công Vụ 11:26, các môn đồ lần đầu tiên được gọi là Cơ-rê-tiên (Christian). Từ gốc La-tinh "Christianus" có nghĩa là "người theo Chúa Giê-su," còn tiếng Hy Lạp "Christos" nghĩa là "người được xức dầu, được chọn." Danh xưng Cơ-Đốc nhân cho thấy chúng ta được gắn liền với danh Chúa.
+Tại thành An-ti-ốt, theo Công Vụ 11:26, các môn đồ lần đầu tiên được gọi là Cơ-rê-tiên (Christian). Từ gốc La-tinh "Christianus" có nghĩa là "người theo Đức Chúa Giê-su," còn tiếng Hy Lạp "Christos" nghĩa là "người được xức dầu, được chọn." Danh xưng Cơ-Đốc nhân cho thấy chúng ta được gắn liền với danh Chúa.
 
 Danh Giê-hô-va trong Xuất Ê-díp-tô Ký 3:13-14 được Chúa tự giới thiệu là "Đấng tự hữu hằng hữu." Xuất Ê-díp-tô Ký 34:6-7 mô tả Ngài là Đức Chúa Trời nhân từ, thương xót, chậm giận, đầy dẫy ân huệ và thành thực. Mang danh Chúa đồng nghĩa với việc cần phản ánh bản tánh của Ngài trong đời sống hàng ngày.
 

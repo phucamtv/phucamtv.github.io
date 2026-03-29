@@ -42,7 +42,7 @@ Trong khi đó, Đức Chúa Trời mà Kinh Thánh bày tỏ là Đấng đã t
 
 Giăng 3:16 khẳng định rằng Đức Chúa Trời yêu thương thế gian đến nỗi đã ban Con Một của Ngài, hầu cho ai tin Con ấy không bị hư mất mà được sự sống đời đời. Ê-sai 43:10 ghi lại lời Đức Chúa Trời phán rằng chẳng có thần nào trước Ngài, cũng chẳng có sau Ngài.
 
-Giăng 8:24 cảnh báo rằng nếu không tin Chúa Giê-su là Đấng Cứu Thế thì sẽ chết trong tội lỗi mình. Đây không phải là sự đe dọa mà là lời mời gọi hãy nắm lấy cơ hội được cứu rỗi khi còn có thể.
+Giăng 8:24 cảnh báo rằng nếu không tin Đức Chúa Giê-su là Đấng Cứu Thế thì sẽ chết trong tội lỗi mình. Đây không phải là sự đe dọa mà là lời mời gọi hãy nắm lấy cơ hội được cứu rỗi khi còn có thể.
 
 Sứ đồ Phao-lô trong II Ti-mô-thê 1:12 chia sẻ rằng ông biết rõ mình đã tin Đấng nào, và chắc rằng Đấng ấy có quyền phép gìn giữ điều ông đã phó thác cho đến ngày cuối cùng. Đó là một niềm tin có nền tảng, có sự hiểu biết, và có sự bảo đảm cho cõi đời đời.
 

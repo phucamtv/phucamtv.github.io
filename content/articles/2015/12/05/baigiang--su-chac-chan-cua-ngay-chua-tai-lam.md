@@ -26,7 +26,7 @@ Nếu không có sự chuẩn bị, ngày Chúa trở lại sẽ không phải n
 
 Mục sư mở đầu bằng câu chuyện có thật trong Thế Chiến Thứ Hai: khi chiếc máy bay mang cờ phe đồng minh bay qua trại giam, các tù nhân reo mừng ôm nhau vì biết giờ giải phóng đã đến. Nhưng cùng sự kiện ấy, những người cai ngục lại khiếp sợ chạy trốn vào rừng sâu — bởi ngày phán xét đã đến với họ.
 
-Cùng một sự kiện, hai tâm trạng khác nhau hoàn toàn. Điều này phản ánh trực tiếp ngày Chúa Giê-su Tái Lâm: sẽ có người vui mừng và có người run sợ.
+Cùng một sự kiện, hai tâm trạng khác nhau hoàn toàn. Điều này phản ánh trực tiếp ngày Đức Chúa Giê-su Tái Lâm: sẽ có người vui mừng và có người run sợ.
 
 ### Ai Sẽ Run Sợ?
 
@@ -70,4 +70,4 @@ Nếu một đại sứ đồ như Phao-lô còn không dám chắc chắn nếu
 
 ## Kết Luận: Sự Hiện Ra Của Ngài Là Chắc Chắn
 
-Ô-sê 6:3 khẳng định: *"Sự hiện ra của Ngài là chắc chắn như sự hiện ra của mặt trời sớm mai."* Chúa Giê-su chắc chắn trở lại. Câu hỏi còn lại là sự trở lại đó sẽ đem cho chúng ta niềm vui hay sự khiếp sợ — và điều đó hoàn toàn tùy thuộc vào việc chúng ta có sống theo lời Chúa dạy, yêu mến sự hiện ra của Ngài, và duy trì sự sẵn sàng trong tâm trí mỗi ngày hay không.
+Ô-sê 6:3 khẳng định: *"Sự hiện ra của Ngài là chắc chắn như sự hiện ra của mặt trời sớm mai."* Đức Chúa Giê-su chắc chắn trở lại. Câu hỏi còn lại là sự trở lại đó sẽ đem cho chúng ta niềm vui hay sự khiếp sợ — và điều đó hoàn toàn tùy thuộc vào việc chúng ta có sống theo lời Chúa dạy, yêu mến sự hiện ra của Ngài, và duy trì sự sẵn sàng trong tâm trí mỗi ngày hay không.

@@ -2,7 +2,7 @@
 title: "Chúa Hóa Hình Trên Núi"
 date: 2024-06-26
 url: /baigiang/chua-hoa-hinh-tren-nui/
-description: "Bài giảng về sự kiện Chúa Giê-su hóa hình trên núi từ Ma-thi-ơ 16:27-28 và 17:1-8, phân tích ý nghĩa của ngày phán xét, sự công bằng trong nước thiên đàng, và sự khích lệ của Đức Chúa Trời dành cho Chúa Giê-su trước khi Ngài chịu thương khó."
+description: "Bài giảng về sự kiện Đức Chúa Giê-su hóa hình trên núi từ Ma-thi-ơ 16:27-28 và 17:1-8, phân tích ý nghĩa của ngày phán xét, sự công bằng trong nước thiên đàng, và sự khích lệ của Đức Chúa Trời dành cho Đức Chúa Giê-su trước khi Ngài chịu thương khó."
 tags: ["Chúa Hóa Hình", "Ma-thi-ơ", "Ngày Phán Xét", "Sự Tái Lâm", "Nước Thiên Đàng"]
 authors:
   - "duong-quang-thoai"
@@ -39,14 +39,14 @@ Tuy nhiên, điều này không cho phép chúng ta lạm dụng để chia phe 
 
 ## Môi-se và Ê-li xuất hiện
 
-Hai nhân vật đặc biệt xuất hiện trò chuyện với Chúa Giê-su: Môi-se và Ê-li. Tại sao lại là hai vị này? Họ đều đã được lên thiên đàng trong những trường hợp đặc biệt -- Ê-li về trời không trải qua sự chết, còn Môi-se sau khi chết đã được sống lại đưa về trời. Sự hiện diện của họ là nguồn khích lệ dành cho Đức Chúa Giê-su trước khi Ngài bước vào con đường thương khó.
+Hai nhân vật đặc biệt xuất hiện trò chuyện với Đức Chúa Giê-su: Môi-se và Ê-li. Tại sao lại là hai vị này? Họ đều đã được lên thiên đàng trong những trường hợp đặc biệt -- Ê-li về trời không trải qua sự chết, còn Môi-se sau khi chết đã được sống lại đưa về trời. Sự hiện diện của họ là nguồn khích lệ dành cho Đức Chúa Giê-su trước khi Ngài bước vào con đường thương khó.
 
 ## Phản ứng của Phi-e-rơ và lời phán của Đức Chúa Trời
 
 Phi-e-rơ đề nghị đóng ba trại tại đó -- một phản ứng có vẻ lạc đề giữa sự kiện thiêng liêng. Ông chỉ nghĩ đến việc ở lại hưởng thụ cảnh tốt đẹp trước mắt mà không nhận ra thông điệp sâu xa. Đôi khi chúng ta cũng vậy -- đứng trước điều thiêng liêng mà chỉ nghĩ đến vật chất.
 
-Rồi đám mây sáng rực bao phủ -- biểu tượng quen thuộc của sự hiện diện Đức Chúa Trời, như trụ mây trụ lửa dẫn dân Israel trong đồng vắng, như mây phủ đền tạm khi khánh thành. Từ trong mây có tiếng phán: "Nầy là Con yêu dấu của ta, đẹp lòng ta mọi đường; hãy nghe lời Con đó!" -- lời xác nhận tương tự như lúc Chúa Giê-su chịu phép báp-têm.
+Rồi đám mây sáng rực bao phủ -- biểu tượng quen thuộc của sự hiện diện Đức Chúa Trời, như trụ mây trụ lửa dẫn dân Israel trong đồng vắng, như mây phủ đền tạm khi khánh thành. Từ trong mây có tiếng phán: "Nầy là Con yêu dấu của ta, đẹp lòng ta mọi đường; hãy nghe lời Con đó!" -- lời xác nhận tương tự như lúc Đức Chúa Giê-su chịu phép báp-têm.
 
 ## Bài học cho chúng ta
 
-Sự hóa hình trên núi là sự khích lệ của Đức Chúa Trời dành cho Chúa Giê-su trước giờ chịu thương khó. Trong cuộc sống hôm nay, Đức Chúa Trời cũng không bỏ quên chúng ta. Ngài luôn thể hiện qua lời Kinh Thánh, qua những con người, qua những sự việc hằng ngày để khích lệ và ban thêm sức mạnh cho chúng ta trong những lúc yếu đuối, chán chường, hay sắp đối mặt với thử thách. Cầu xin Chúa mở mắt chúng ta để nhận ra những điều thiêng liêng mà Ngài muốn dạy.
+Sự hóa hình trên núi là sự khích lệ của Đức Chúa Trời dành cho Đức Chúa Giê-su trước giờ chịu thương khó. Trong cuộc sống hôm nay, Đức Chúa Trời cũng không bỏ quên chúng ta. Ngài luôn thể hiện qua lời Kinh Thánh, qua những con người, qua những sự việc hằng ngày để khích lệ và ban thêm sức mạnh cho chúng ta trong những lúc yếu đuối, chán chường, hay sắp đối mặt với thử thách. Cầu xin Chúa mở mắt chúng ta để nhận ra những điều thiêng liêng mà Ngài muốn dạy.

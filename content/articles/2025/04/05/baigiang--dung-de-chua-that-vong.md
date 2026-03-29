@@ -34,7 +34,7 @@ Có một phương châm đáng ghi nhớ: thà hao mòn hơn rỉ sét. Con dao
 
 Ê-sai 43:1 chép: "Ta đã dựng nên ngươi... ta đã chuộc ngươi... ngươi thuộc về ta." Hai lý do khiến chúng ta phải thuộc về Đức Chúa Trời: Ngài đã tạo dựng chúng ta và Ngài đã chuộc chúng ta. Cái gì thuộc về ai thì người đó có quyền sử dụng. Nhưng nỗi đau của Chúa là con dân Ngài luôn nói "con thuộc về Ngài" mà lại không cho Ngài quyền điều khiển cuộc đời mình.
 
-Đặc biệt hơn, Ê-sai 54:5 dùng hình ảnh chồng-vợ để miêu tả mối quan hệ này — chưa từng có tôn giáo hay giáo chủ nào gọi mình là chồng của những kẻ tin. Phục Truyền 32:6 lại gọi Ngài là Cha. Chúa Giê-su gọi mình là bạn hữu. Tất cả mọi mối quan hệ — chồng, cha, mẹ, bạn, anh em — đều nhằm một mục đích: mong cho chúng ta ra trái.
+Đặc biệt hơn, Ê-sai 54:5 dùng hình ảnh chồng-vợ để miêu tả mối quan hệ này — chưa từng có tôn giáo hay giáo chủ nào gọi mình là chồng của những kẻ tin. Phục Truyền 32:6 lại gọi Ngài là Cha. Đức Chúa Giê-su gọi mình là bạn hữu. Tất cả mọi mối quan hệ — chồng, cha, mẹ, bạn, anh em — đều nhằm một mục đích: mong cho chúng ta ra trái.
 
 ## Không Có Sự Lựa Chọn Trung Lập
 

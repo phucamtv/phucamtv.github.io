@@ -41,7 +41,7 @@ Từ kinh nghiệm của Hội thánh đầu tiên được ghi lại trong Côn
 
 ### Bền lòng giữ lời dạy của các Sứ-đồ
 
-Điều đầu tiên là giữ lời Đức Chúa Trời. Biết Kinh Thánh giỏi chưa đủ, điều quan trọng là phải giữ và thực hành. Chúa Giê-su đã dùng ví dụ về hai căn nhà: người nghe và làm theo thì xây nhà trên đá, người nghe mà không làm thì xây nhà trên cát. Hai căn nhà trông giống nhau cho đến khi bão tố ập đến, lúc đó mới phân biệt được căn nào vững bền.
+Điều đầu tiên là giữ lời Đức Chúa Trời. Biết Kinh Thánh giỏi chưa đủ, điều quan trọng là phải giữ và thực hành. Đức Chúa Giê-su đã dùng ví dụ về hai căn nhà: người nghe và làm theo thì xây nhà trên đá, người nghe mà không làm thì xây nhà trên cát. Hai căn nhà trông giống nhau cho đến khi bão tố ập đến, lúc đó mới phân biệt được căn nào vững bền.
 
 ### Sự thông công chân thật
 

@@ -20,7 +20,7 @@ Mục sư Dương Quang Thoại tiếp tục loạt bài học Phúc Âm Ma-thi-
 
 ### Sự Nghịch Lý Trong Công Tác Truyền Đạo
 
-Nhìn bề ngoài, những người lãnh đạo Do Thái giáo thời Chúa Giê-su có vẻ là những nhà truyền giáo nhiệt thành — họ sẵn lòng đi khắp dưới nước trên bộ chỉ để thuyết phục một người gia nhập đạo. Đây là biểu hiện của lòng nhiệt thành truyền giáo rất đáng khen. Tuy nhiên, Chúa Giê-su không ngần ngại kết luận rằng họ là "người của địa ngục" và người mà họ đưa vào đạo sẽ trở thành "người địa ngục gấp đôi."
+Nhìn bề ngoài, những người lãnh đạo Do Thái giáo thời Đức Chúa Giê-su có vẻ là những nhà truyền giáo nhiệt thành — họ sẵn lòng đi khắp dưới nước trên bộ chỉ để thuyết phục một người gia nhập đạo. Đây là biểu hiện của lòng nhiệt thành truyền giáo rất đáng khen. Tuy nhiên, Đức Chúa Giê-su không ngần ngại kết luận rằng họ là "người của địa ngục" và người mà họ đưa vào đạo sẽ trở thành "người địa ngục gấp đôi."
 
 Vấn đề nằm ở **mục đích** và **điểm đến** của sự truyền đạo. Mục sư Dương Quang Thoại chỉ ra rằng những thầy thông giáo và người Pha-ri-si không đưa người đến với Đức Chúa Trời — họ đưa người đến với **tổ chức tôn giáo của họ**, với các lễ nghi, quy tắc và luật lệ mà chính họ đã đặt ra.
 
@@ -34,7 +34,7 @@ Mục sư Thoại thẳng thắn tự kiểm:
 
 Đây là cảnh báo nghiêm khắc cho mọi người làm công tác chăn bầy và truyền giảng ngày nay:
 - Nếu chỉ đưa người đến với **giáo phái** mà không đưa đến Đức Chúa Trời — đó là hành động gian ác.
-- Nếu đưa người đến để **tuân thủ quy tắc giáo hội** mà không dẫn họ đến **sự cứu rỗi trong Chúa Giê-su** — đó là giết chết linh hồn họ, chứ không phải cứu vớt.
+- Nếu đưa người đến để **tuân thủ quy tắc giáo hội** mà không dẫn họ đến **sự cứu rỗi trong Đức Chúa Giê-su** — đó là giết chết linh hồn họ, chứ không phải cứu vớt.
 
 ### Sự Độc Quyền Chân Lý — Dấu Hiệu Của Tà Giáo
 
@@ -46,7 +46,7 @@ Một điểm nguy hiểm khác được mục sư nhấn mạnh: bất kỳ gi�
 
 ### Hệ Thống Tránh Né Tinh Vi
 
-Trong phần thứ hai, Chúa Giê-su vạch trần một thủ đoạn tinh vi của các thầy thông giáo và người Pha-ri-si: họ tạo ra hệ thống phân loại lời thề để **tránh trách nhiệm** với những lời mình đã thề.
+Trong phần thứ hai, Đức Chúa Giê-su vạch trần một thủ đoạn tinh vi của các thầy thông giáo và người Pha-ri-si: họ tạo ra hệ thống phân loại lời thề để **tránh trách nhiệm** với những lời mình đã thề.
 
 Họ lập luận rằng:
 - Chỉ **đền thờ** mà thề → không mắc tội
@@ -58,11 +58,11 @@ Họ lập luận rằng:
 
 ### Lời Quở Trách: Kẻ Mù Dẫn Đường
 
-Chúa Giê-su gọi họ là "kẻ mù dẫn đường," "kẻ dại và mù" — vừa ngu dốt vừa mù lòa. Một người lãnh đạo với những phẩm chất như vậy là tai họa cho cả tổ chức họ dẫn dắt.
+Đức Chúa Giê-su gọi họ là "kẻ mù dẫn đường," "kẻ dại và mù" — vừa ngu dốt vừa mù lòa. Một người lãnh đạo với những phẩm chất như vậy là tai họa cho cả tổ chức họ dẫn dắt.
 
 ### Lời Dạy Của Chúa Về Lời Thề (Ma-thi-ơ 5:33–37)
 
-Mục sư đối chiếu với lời dạy của Chúa Giê-su trong Bài Giảng Trên Núi: *"Đừng thề chi hết... Lời các ngươi phải là phải, không là không."*
+Mục sư đối chiếu với lời dạy của Đức Chúa Giê-su trong Bài Giảng Trên Núi: *"Đừng thề chi hết... Lời các ngươi phải là phải, không là không."*
 
 Lý do Chúa không muốn chúng ta thề vì:
 1. **Con người không có quyền năng kiểm soát tương lai** — không thể làm cho một sợi tóc trắng hay đen, không kiểm soát được tai nạn hay hỏa hoạn.

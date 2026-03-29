@@ -20,7 +20,7 @@ Mục Sư kể lại những câu chuyện đau lòng: một gia đình đệ đ
 
 ## Nền tảng đức tin: Đức Chúa Trời cầm quyền tể trị
 
-Từ I Cô-rinh-tô 1:10, sứ đồ Phao-lô nhân danh Đức Chúa Giê-su Christ kêu gọi tín hữu phải đồng một tiếng nói, chớ phân rẽ nhau ra, nhưng phải hiệp một ý một lòng. Mục Sư nhấn mạnh rằng ngay từ thời Hội Thánh đầu tiên, sự chia rẽ đã là vấn đề nghiêm trọng, dù Chúa Giê-su mới về trời chỉ vài mươi năm.
+Từ I Cô-rinh-tô 1:10, sứ đồ Phao-lô nhân danh Đức Chúa Giê-su Christ kêu gọi tín hữu phải đồng một tiếng nói, chớ phân rẽ nhau ra, nhưng phải hiệp một ý một lòng. Mục Sư nhấn mạnh rằng ngay từ thời Hội Thánh đầu tiên, sự chia rẽ đã là vấn đề nghiêm trọng, dù Đức Chúa Giê-su mới về trời chỉ vài mươi năm.
 
 Châm Ngôn 16:33 khẳng định rằng mọi sự nhất định đều do nơi Đức Giê-hô-va mà đến. Giấc mơ của vua Nê-bu-cát-nết-sa trong Đa-ni-ên đoạn 2 cho thấy toàn bộ lịch sử nhân loại nằm trong tay Đức Chúa Trời. Nếu con cái Chúa thật sự tin vào quyền tể trị của Ngài trên mọi quốc gia và lãnh tụ, thái độ của họ trước những biến động chính trị sẽ hoàn toàn khác.
 
@@ -28,7 +28,7 @@ Châm Ngôn 16:33 khẳng định rằng mọi sự nhất định đều do nơ
 
 Công Vụ 17:26-27 cho biết Đức Chúa Trời định trước thời giờ và giới hạn chỗ ở của mỗi người, hầu cho chúng ta tìm kiếm Ngài. Không ai lựa chọn được quê hương mình, nhưng Chúa đặt chúng ta ở nơi nào với mục đích để chúng ta gặp được Ngài.
 
-Khi người ta hỏi Chúa Giê-su về việc đóng thuế cho Sê-sa (Ma-thi-ơ 22:19-21), Ngài phân định rõ ràng: hãy trả cho Sê-sa vật gì của Sê-sa, trả cho Đức Chúa Trời vật gì của Đức Chúa Trời. Trước mặt Phi-lát, Chúa tuyên bố nước của Ngài chẳng thuộc về thế gian này (Giăng 18:36). Con cái Chúa có bổn phận làm công dân tốt trong đất nước mình, nhưng phải nhớ rằng mình là công dân nước trời trước hết.
+Khi người ta hỏi Đức Chúa Giê-su về việc đóng thuế cho Sê-sa (Ma-thi-ơ 22:19-21), Ngài phân định rõ ràng: hãy trả cho Sê-sa vật gì của Sê-sa, trả cho Đức Chúa Trời vật gì của Đức Chúa Trời. Trước mặt Phi-lát, Chúa tuyên bố nước của Ngài chẳng thuộc về thế gian này (Giăng 18:36). Con cái Chúa có bổn phận làm công dân tốt trong đất nước mình, nhưng phải nhớ rằng mình là công dân nước trời trước hết.
 
 ## Hội Thánh là thân thể Đấng Christ
 

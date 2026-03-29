@@ -2,7 +2,7 @@
 title: "Sức Sống Từ Gốc Nho Thật | Giăng 15:1-6"
 date: 2021-02-13
 url: /baigiang/suc-song-tu-goc-nho-that/
-description: "Từ Giăng 15:1-6, Mục sư Dương Quang Thoại khai triển bốn chân lý về mối liên kết giữa Đức Cha, Chúa Giê-su và Cơ-Đốc nhân: mối tương quan đặc biệt giữa người trồng nho, gốc nho và nhánh nho; yêu cầu phải kết quả; điều kiện cứ ở trong Chúa; và hệ quả của việc không kết nối với Nguồn sống thật."
+description: "Từ Giăng 15:1-6, Mục sư Dương Quang Thoại khai triển bốn chân lý về mối liên kết giữa Đức Cha, Đức Chúa Giê-su và Cơ-Đốc nhân: mối tương quan đặc biệt giữa người trồng nho, gốc nho và nhánh nho; yêu cầu phải kết quả; điều kiện cứ ở trong Chúa; và hệ quả của việc không kết nối với Nguồn sống thật."
 tags: ["Giăng", "Gốc Nho", "Kết Quả", "Đời Sống Tâm Linh", "Ở Trong Chúa"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,13 +14,13 @@ draft: false
 
 ## Mối Liên Kết Đặc Biệt: Người Trồng Nho, Gốc Nho Và Nhánh Nho
 
-Giăng 15:1-6 là sứ điệp Chúa Giê-su gửi gắm đến các môn đệ thân yêu — và qua đó, gửi đến toàn thể hội thánh của Ngài qua mọi thời đại:
+Giăng 15:1-6 là sứ điệp Đức Chúa Giê-su gửi gắm đến các môn đệ thân yêu — và qua đó, gửi đến toàn thể hội thánh của Ngài qua mọi thời đại:
 
 > *"Ta là gốc nho thật, Cha ta là người trồng nho... Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong ta và ta trong họ thì sinh ra lắm trái; vì ngoài ta, các ngươi chẳng làm chi được."*
 
 Trong hình ảnh này, chỉ có ba nhân vật: người làm vườn, gốc nho và nhánh nho — tức là Đức Cha, Đức Chúa Giê-su và chúng ta. Một mối tương quan vô cùng đặc biệt.
 
-Ngày nay, sự kết nối là sức mạnh. Internet có thể kết nối cả thế giới; người bán không kết nối được với người mua thì không bán được hàng; những người yêu thương nhau mà không duy trì kết nối thì tình yêu cũng phai nhạt dần. Bài học từ cuộc sống hiện đại ấy lại hoàn toàn phù hợp với điều Chúa Giê-su dạy từ hàng nghìn năm trước: sự kết nối với Ngài là điều kiện sống còn.
+Ngày nay, sự kết nối là sức mạnh. Internet có thể kết nối cả thế giới; người bán không kết nối được với người mua thì không bán được hàng; những người yêu thương nhau mà không duy trì kết nối thì tình yêu cũng phai nhạt dần. Bài học từ cuộc sống hiện đại ấy lại hoàn toàn phù hợp với điều Đức Chúa Giê-su dạy từ hàng nghìn năm trước: sự kết nối với Ngài là điều kiện sống còn.
 
 Điều đáng trân trọng là chúng ta — những con người yếu đuối tội lỗi — lại được Đức Cha và Đức Chúa Giê-su trân trọng gọi là "nhánh nho" của gốc nho thật. Người trồng nho không phải là một nông dân bình thường, mà là Đức Chúa Trời — Đấng chăm sóc từng nhánh nhỏ với trọn tình yêu thương, như người chủ vườn bonsai biết từng đường nét của cây mình yêu quý.
 
@@ -28,7 +28,7 @@ Ngày nay, sự kết nối là sức mạnh. Internet có thể kết nối c�
 
 ## Phải Kết Quả: Không Phải Muốn Thì Ra, Không Muốn Thì Thôi
 
-Chúa Giê-su nhấn mạnh: kết quả là yêu cầu, không phải tùy chọn.
+Đức Chúa Giê-su nhấn mạnh: kết quả là yêu cầu, không phải tùy chọn.
 
 Không ai trồng một cây mít mà mười năm không có được một trái mít. Không ai trồng lúa để rồi cuối cùng không có một hạt lúa nào. Người trồng 100 gốc nho thì kỳ vọng 100 gốc đều kết quả. Đức Chúa Trời cũng vậy — Ngài đặt trên chúng ta một yêu cầu rõ ràng: phải ra trái.
 
@@ -69,7 +69,7 @@ Lu-ca 13:6-9 ghi lại dụ ngôn cây vả không kết quả: người chủ �
 
 ## Cảnh Báo: Những Nhánh Nho Giả
 
-Chúa Giê-su không nói "ta là gốc nho" mà nói "ta là **gốc nho thật**" — vì ngày nay có quá nhiều gốc nho giả. Nhiều Cơ-Đốc nhân ghép mình vào những gốc nho giả — những lý tưởng, triết học, tổ chức tôn giáo trống rỗng — mà tưởng rằng mình đang kết nối với Nguồn sống.
+Đức Chúa Giê-su không nói "ta là gốc nho" mà nói "ta là **gốc nho thật**" — vì ngày nay có quá nhiều gốc nho giả. Nhiều Cơ-Đốc nhân ghép mình vào những gốc nho giả — những lý tưởng, triết học, tổ chức tôn giáo trống rỗng — mà tưởng rằng mình đang kết nối với Nguồn sống.
 
 Có những người trông bề ngoài rất đẹp — như cây hạnh trưng Tết với những trái được cột bằng dây kẽm. Nhìn thì thấy trái đỏ đẹp, nhưng mở ra toàn giấy. Có những mục sư, tín đồ lâu năm, trưởng lão chấp sự — nhìn vào thấy lòng yêu thương, bình an, nhịn nhục — nhưng tất cả đều là dây kẽm, không phải sức sống thật từ gốc.
 

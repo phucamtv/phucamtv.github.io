@@ -1,7 +1,7 @@
 ---
 title: "Bẹt-găm - Hội Thánh dung túng tội lỗi"
 date: 2023-03-09
-tags: ["Khải Huyền", "Tiên Tri", "Jesus Christ"]
+tags: ["Khải Huyền", "Tiên Tri", "Đức Chúa Giê-su Christ"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["tlTL7ePVrec"]

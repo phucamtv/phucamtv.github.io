@@ -36,7 +36,7 @@ Câu 27 hỏi thẳng: có ai lo lắng mà làm cho đời mình dài thêm m�
 
 ## Bằng Chứng Thiên Nhiên Về Sự Chăm Sóc Của Chúa
 
-Điểm thứ ba là những bằng chứng cụ thể mà Chúa Giê-su đưa ra từ thế giới tự nhiên.
+Điểm thứ ba là những bằng chứng cụ thể mà Đức Chúa Giê-su đưa ra từ thế giới tự nhiên.
 
 "Hãy xem loài chim trời: chẳng có gieo, gặt, cũng chẳng có thâu trữ vào kho tàng, mà Cha các ngươi trên trời nuôi nó. Các ngươi há chẳng phải là quý trọng hơn loài chim sao?" (câu 26). Rồi những hoa huệ ngoài đồng, không làm khó nhọc cũng không kéo chỉ, nhưng "dẫu vua Sa-lô-môn sang trọng đến đâu, cũng không được mặc áo tốt như một hoa nào trong giống đó."
 
@@ -52,7 +52,7 @@ Câu 27 hỏi thẳng: có ai lo lắng mà làm cho đời mình dài thêm m�
 
 Ma-thi-ơ 6:33 là câu then chốt: "Nhưng trước hết, hãy tìm kiếm nước Đức Chúa Trời và sự công bình của Ngài, thì Ngài sẽ cho thêm các ngươi mọi điều ấy nữa." Mọi nhu cầu ăn mặc, mọi lo âu thường nhật — Ngài sẽ thêm cho, nhưng với điều kiện là chúng ta đặt Nước Đức Chúa Trời lên hàng ưu tiên.
 
-Câu 34 tiếp tục: "Chớ lo lắng chi về ngày mai; vì ngày mai sẽ lo về việc ngày mai. Sự khó nhọc ngày nào đủ cho ngày ấy." Đừng gánh thêm nỗi lo của ngày mai lên hôm nay. Thi-thiên 55:22 nhắc: "Hãy trao gánh nặng ngươi cho Đức Giê-hô-va, Ngài sẽ nâng đỡ ngươi." Ma-thi-ơ 11:28 là lời mời cụ thể của Chúa Giê-su: "Hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các ngươi được yên nghỉ."
+Câu 34 tiếp tục: "Chớ lo lắng chi về ngày mai; vì ngày mai sẽ lo về việc ngày mai. Sự khó nhọc ngày nào đủ cho ngày ấy." Đừng gánh thêm nỗi lo của ngày mai lên hôm nay. Thi-thiên 55:22 nhắc: "Hãy trao gánh nặng ngươi cho Đức Giê-hô-va, Ngài sẽ nâng đỡ ngươi." Ma-thi-ơ 11:28 là lời mời cụ thể của Đức Chúa Giê-su: "Hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các ngươi được yên nghỉ."
 
 ---
 

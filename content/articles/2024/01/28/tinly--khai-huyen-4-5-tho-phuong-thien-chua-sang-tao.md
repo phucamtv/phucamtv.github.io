@@ -63,7 +63,7 @@ Lịch sử dân Israel cho thấy bài học cảnh tỉnh: khi họ rời xa T
 
 Đức Chúa Giê-su dạy rằng sự thờ phượng phải dùng hai yếu tố: **tâm thần** và **lẽ thật**. Lẽ thật ở đây chính là sự phù hợp với Thánh Kinh. Sự thờ phượng không dựa trên Thánh Kinh thì không đẹp lòng Đức Chúa Trời.
 
-Giăng 17:3 ghi lời Chúa Giê-su:
+Giăng 17:3 ghi lời Đức Chúa Giê-su:
 
 > "Vả, sự sống đời đời là nhìn biết Cha, tức là Đức Chúa Trời có một và thật, cùng Giê-su Christ, là Đấng Cha đã sai đến."
 

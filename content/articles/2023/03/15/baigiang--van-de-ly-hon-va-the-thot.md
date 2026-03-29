@@ -2,7 +2,7 @@
 title: "Vấn Đề Ly Hôn và Thề Thốt — Ma-thi-ơ 5:31-37"
 date: 2023-03-15
 url: /baigiang/van-de-ly-hon-va-the-thot/
-description: "Bài giảng từ Ma-thi-ơ 5:31-37 giải thích lời dạy của Chúa Giê-su về vấn đề ly hôn và thề thốt trong bối cảnh văn hóa Do Thái thời xưa, nhấn mạnh trách nhiệm gìn giữ hôn nhân và sống chân thật thay vì lạm dụng lời thề."
+description: "Bài giảng từ Ma-thi-ơ 5:31-37 giải thích lời dạy của Đức Chúa Giê-su về vấn đề ly hôn và thề thốt trong bối cảnh văn hóa Do Thái thời xưa, nhấn mạnh trách nhiệm gìn giữ hôn nhân và sống chân thật thay vì lạm dụng lời thề."
 tags: ["Ma-thi-ơ", "Ly Hôn", "Thề Thốt", "Hôn Nhân", "Bài Giảng Trên Núi", "Trách Nhiệm"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -16,7 +16,7 @@ draft: false
 
 Tiếp tục loạt bài học từ Bài Giảng Trên Núi trong Ma-thi-ơ đoạn 5, bài giảng hôm nay đề cập đến hai vấn đề quan trọng: ly hôn (câu 31-32) và thề thốt (câu 33-37). Đây là những đề tài nhạy cảm mà nhiều người vẫn thắc mắc cho đến ngày nay.
 
-Để hiểu lời dạy của Chúa Giê-su, cần đặt trong bối cảnh lịch sử đương thời. Đất nước Israel lúc bấy giờ chịu tác động lớn từ hai nền văn hóa Hy Lạp và La Mã, khiến quan niệm về hôn nhân bị ảnh hưởng nghiêm trọng. Người Do Thái vốn là dân tộc đề cao hôn nhân — họ coi việc lập gia đình, sinh con là mệnh lệnh của Thiên Chúa dựa trên Sáng Thế Ký. Ai từ chối hôn nhân và sinh sản mà không có lý do chính đáng thì bị coi là phạm tội vì bất tuân thánh ý của Đức Chúa Trời.
+Để hiểu lời dạy của Đức Chúa Giê-su, cần đặt trong bối cảnh lịch sử đương thời. Đất nước Israel lúc bấy giờ chịu tác động lớn từ hai nền văn hóa Hy Lạp và La Mã, khiến quan niệm về hôn nhân bị ảnh hưởng nghiêm trọng. Người Do Thái vốn là dân tộc đề cao hôn nhân — họ coi việc lập gia đình, sinh con là mệnh lệnh của Thiên Chúa dựa trên Sáng Thế Ký. Ai từ chối hôn nhân và sinh sản mà không có lý do chính đáng thì bị coi là phạm tội vì bất tuân thánh ý của Đức Chúa Trời.
 
 Người Do Thái cũng rất khắt khe với việc ly dị. Ma-la-chi 2:16 ghi rõ rằng Đức Chúa Trời ghét người nào bỏ vợ. Tuy nhiên, theo thời gian, khi phụ nữ bị xem như đồ vật, việc ly dị trở nên bình thường như việc kết hôn. Vị trí người phụ nữ càng lúc càng bị thu hẹp, chà đạp và kiểm soát — phải lệ thuộc hoàn toàn vào cha hoặc chồng.
 
@@ -26,9 +26,9 @@ Phục Truyền Luật Lệ Ký 24:1 quy định rằng nếu người vợ khô
 
 Chính từ những cách giải thích khác nhau này mà việc ly dị tràn lan, bị lạm dụng nghiêm trọng. Đàn ông có thể bỏ vợ dễ dàng chỉ bằng một tờ giấy, trong khi phụ nữ không có quyền bỏ chồng.
 
-## Lời Phán Của Chúa Giê-su Về Ly Hôn
+## Lời Phán Của Đức Chúa Giê-su Về Ly Hôn
 
-Chúa Giê-su phán rằng ai bỏ vợ mà không phải vì cớ ngoại tình thì làm cho vợ mình trở thành kẻ tà dâm, và ai cưới người đàn bà bị bỏ đó cũng phạm tội tà dâm. Tuy nhiên, cần hiểu rằng Chúa không đưa ra một bộ luật chi tiết quy định trường hợp nào được hay không được ly dị. Lời phán của Ngài mang tính kêu gọi trách nhiệm — nhằm cứu vãn tình trạng ly dị bị lạm dụng tràn lan đương thời.
+Đức Chúa Giê-su phán rằng ai bỏ vợ mà không phải vì cớ ngoại tình thì làm cho vợ mình trở thành kẻ tà dâm, và ai cưới người đàn bà bị bỏ đó cũng phạm tội tà dâm. Tuy nhiên, cần hiểu rằng Chúa không đưa ra một bộ luật chi tiết quy định trường hợp nào được hay không được ly dị. Lời phán của Ngài mang tính kêu gọi trách nhiệm — nhằm cứu vãn tình trạng ly dị bị lạm dụng tràn lan đương thời.
 
 Ý nghĩa sâu xa mà Chúa muốn truyền đạt là: khi có bất hòa, mâu thuẫn hay không hài lòng nhau, đừng nghĩ ngay đến ly dị mà phải tìm mọi cách hàn gắn. Chúa muốn kéo con người trở lại với trách nhiệm xây đắp hôn nhân, hạn chế tối đa việc ly hôn, bởi Đức Chúa Trời tạo nên gia đình với những nhiệm vụ và mục đích cao cả.
 
@@ -38,7 +38,7 @@ Chúa Giê-su phán rằng ai bỏ vợ mà không phải vì cớ ngoại tình
 
 Phần thứ hai của bài giảng đề cập đến vấn đề thề thốt. Người Do Thái đương thời chia lời thề thành hai loại: lời thề lấy danh Chúa thì buộc phải giữ, còn lời thề không lấy danh Chúa thì có thể bỏ qua. Từ đó, họ lạm dụng việc thề bằng trời, đất, thành Giê-ru-sa-lem, hay đầu mình để bảo đảm cho lời nói.
 
-Chúa Giê-su nghiêm cấm điều này. Ngài dạy rằng lấy danh Chúa ra thề là phạm vào điều răn thứ ba. Còn thề bằng những thứ khác cũng là dại dột, vì chúng ta không kiểm soát được tương lai — ngay cả sợi tóc trên đầu mình cũng không làm cho trắng hay đen được, vậy sao lại lấy đó ra thề?
+Đức Chúa Giê-su nghiêm cấm điều này. Ngài dạy rằng lấy danh Chúa ra thề là phạm vào điều răn thứ ba. Còn thề bằng những thứ khác cũng là dại dột, vì chúng ta không kiểm soát được tương lai — ngay cả sợi tóc trên đầu mình cũng không làm cho trắng hay đen được, vậy sao lại lấy đó ra thề?
 
 Điều Chúa mong muốn là mỗi người hãy sống sao cho phải thì nói phải, không thì nói không — không cần bất kỳ lời thề nào làm bảo chứng. Khi con người sống chân thật, mỗi lời nói ra đều đáng tin, thì không cần phải thề thốt.
 

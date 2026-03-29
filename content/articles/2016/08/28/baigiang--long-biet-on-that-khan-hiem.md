@@ -32,7 +32,7 @@ Nô-ê chưa từng thấy mưa, nhưng vâng lời đóng tàu. Áp-ra-ham khô
 
 ## Biết Ơn Và Bày Tỏ Lòng Biết Ơn Là Hai Chuyện Khác Nhau
 
-Khi cả mười người đang đi thì phung được sạch. Họ mừng rỡ, ôm nhau, kiểm tra lại cơ thể mình — không còn một vết phung nào. Nhưng rồi mười người chia làm hai: chín người tiếp tục đi gặp thầy tế lễ, còn một người quay trở lại lớn tiếng tôn vinh Đức Chúa Trời và phủ phục dưới chân Chúa Giê-su mà tạ ơn.
+Khi cả mười người đang đi thì phung được sạch. Họ mừng rỡ, ôm nhau, kiểm tra lại cơ thể mình — không còn một vết phung nào. Nhưng rồi mười người chia làm hai: chín người tiếp tục đi gặp thầy tế lễ, còn một người quay trở lại lớn tiếng tôn vinh Đức Chúa Trời và phủ phục dưới chân Đức Chúa Giê-su mà tạ ơn.
 
 Cả mười người đều có đức tin. Cả mười người đều được chữa lành. Rất có thể cả mười người đều biết ơn trong lòng. Nhưng chỉ một người quay trở lại bày tỏ lòng biết ơn. Sự khác biệt nằm ở hành động quay trở lại. Lòng biết ơn thầm lặng, chỉ giữ trong lòng mà không bày tỏ, thì không tác động đến ai. Cũng giống như gói một gói quà thật đẹp rồi để ở nhà mà không bao giờ trao đi — cũng như không có gói quà.
 

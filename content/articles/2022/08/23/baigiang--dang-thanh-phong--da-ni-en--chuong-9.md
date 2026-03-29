@@ -43,14 +43,14 @@ Câu 25 xác định mốc bắt đầu: **từ khi ra lệnh tu bổ và xây l
 
 Từ mốc này, lời tiên tri được triển khai:
 
-- **7 + 62 = 69 tuần lễ** (483 năm): 457 TCN + 483 năm = năm 27 Tây lịch → **Chúa Giê-su chịu lễ báp-têm** và bắt đầu chức vụ. (Sự chênh lệch 3 năm so với năm 30 tuổi là do người làm lịch đã tính sai 3 năm từ lúc Chúa giáng sinh.)
-- **Giữa tuần lễ thứ 70** (sau 3,5 năm chức vụ): năm 31 Tây lịch → **Chúa Giê-su bị đóng đinh**, của lễ thiêu và của lễ khiến dứt đi, tấm màn đền thờ xé ra từ trên xuống dưới, kết thúc hệ thống tế lễ cũ.
+- **7 + 62 = 69 tuần lễ** (483 năm): 457 TCN + 483 năm = năm 27 Tây lịch → **Đức Chúa Giê-su chịu lễ báp-têm** và bắt đầu chức vụ. (Sự chênh lệch 3 năm so với năm 30 tuổi là do người làm lịch đã tính sai 3 năm từ lúc Chúa giáng sinh.)
+- **Giữa tuần lễ thứ 70** (sau 3,5 năm chức vụ): năm 31 Tây lịch → **Đức Chúa Giê-su bị đóng đinh**, của lễ thiêu và của lễ khiến dứt đi, tấm màn đền thờ xé ra từ trên xuống dưới, kết thúc hệ thống tế lễ cũ.
 - **Kết thúc 70 tuần lễ**: năm 34 Tây lịch — giao ước đặc biệt với quốc gia Y-sơ-ra-ên kết thúc.
 
 Sau khi cắt 490 năm cho Y-sơ-ra-ên ra khỏi 2.300 ngày, phần còn lại tiếp tục cho đến năm **1844 Tây lịch** — thời điểm lời tiên tri 2.300 buổi chiều và buổi mai ứng nghiệm hoàn toàn.
 
 ## Ý nghĩa cho tín hữu ngày nay
 
-Mục Sư Đặng Thanh Phong chỉ ra rằng lời tiên tri này không phải là ngẫu nhiên hay tượng trưng chung chung — nó là bằng chứng hùng hồn về sự toàn tri và thành tín của Đức Chúa Trời. Những chi tiết về Chúa Giê-su — từ thời điểm Ngài chịu lễ báp-têm, đến ngày Ngài bị đóng đinh — đã được tiên báo trước hơn 500 năm và ứng nghiệm chính xác.
+Mục Sư Đặng Thanh Phong chỉ ra rằng lời tiên tri này không phải là ngẫu nhiên hay tượng trưng chung chung — nó là bằng chứng hùng hồn về sự toàn tri và thành tín của Đức Chúa Trời. Những chi tiết về Đức Chúa Giê-su — từ thời điểm Ngài chịu lễ báp-têm, đến ngày Ngài bị đóng đinh — đã được tiên báo trước hơn 500 năm và ứng nghiệm chính xác.
 
 Bài học thực tiễn cho Cơ Đốc nhân: khi đối mặt với những điều khó hiểu trong Lời Chúa hay trong cuộc sống, hãy đến với Chúa bằng lòng khiêm nhường, cầu nguyện tha thiết, và tin cậy vào sự công bình của Ngài — như Đa-ni-ên đã làm. Đức Chúa Trời không im lặng; Ngài sẵn sàng bày tỏ sự khôn ngoan cho những ai thật lòng tìm kiếm Ngài.

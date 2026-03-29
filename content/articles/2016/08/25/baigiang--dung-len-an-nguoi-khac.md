@@ -33,7 +33,7 @@ Thay vì soi mình trong gương Kinh Thánh, chúng ta thường so sánh mình
 
 Như có lời nói: muốn người ta nghĩ tốt về mình thì đừng tự khoe mình. Tự khiêm thì được người ta kính phục, tự khoe thì bị người ta khinh chê.
 
-## Tấm gương của Chúa Giê-su
+## Tấm gương của Đức Chúa Giê-su
 
 Khi các thầy thông giáo và người Pha-ri-si mang đến một người phụ nữ phạm tội và đòi ném đá, Đức Chúa Giê-su -- Đấng có đủ thẩm quyền để kết án -- đã không lên án. Ngài ngồi xuống viết trên đất, rồi nói với người phụ nữ: hãy đi và đừng phạm tội nữa. Đấng có quyền kết tội mà không kết tội, trong khi chúng ta không có quyền ấy lại tự cho mình quyền phán xét người khác.
 

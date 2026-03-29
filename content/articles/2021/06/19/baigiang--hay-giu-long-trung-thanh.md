@@ -56,6 +56,6 @@ Sứ đồ Phao-lô dạy Ti-mô-thê ba bài học về lòng trung thành:
 
 ## Kiên Trì Cho Đến Cuối Cùng
 
-Hê-bơ-rơ 12:1-2 kêu gọi chúng ta vứt bỏ mọi gánh nặng, kiên trì theo đuổi cuộc đua, nhìn xem Đức Chúa Giê-xu — Đấng vì niềm vui đặt trước mặt mà vui chịu thập tự giá. Và Khải Huyền 2:10 khẳng định lời hứa: "Hãy trung tín cho đến chết, rồi Ta sẽ ban cho con mão triều thiên của sự sống."
+Hê-bơ-rơ 12:1-2 kêu gọi chúng ta vứt bỏ mọi gánh nặng, kiên trì theo đuổi cuộc đua, nhìn xem Đức Chúa Giê-su — Đấng vì niềm vui đặt trước mặt mà vui chịu thập tự giá. Và Khải Huyền 2:10 khẳng định lời hứa: "Hãy trung tín cho đến chết, rồi Ta sẽ ban cho con mão triều thiên của sự sống."
 
 Dù hoàn cảnh có thay đổi ra sao, dù cuộc đời có thăng trầm đến đâu, hãy giữ lòng trung thành với Chúa. Chiếc neo đức tin sẽ giữ vững con thuyền cuộc đời chúng ta, và phần thưởng cuối cùng là mão triều thiên sự sống đời đời.

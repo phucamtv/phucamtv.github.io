@@ -2,7 +2,7 @@
 title: "Chúa Phán: Các Con Là Sự Sáng! | Ma-thi-ơ 5:14-16"
 date: 2023-02-01
 url: /baigiang/chua-phan-cac-con-la-su-sang/
-description: "Ma-thi-ơ 5:14-16 ghi lại lời Chúa Giê-su phán rằng các môn đồ Ngài là sự sáng của thế gian. Bài giảng phân tích năm công dụng của ánh sáng — mang lại sự sống, soi đường, sưởi ấm, thanh tẩy và cảnh báo — cùng với lời kêu gọi sống bày tỏ ánh sáng của Chúa để người ta thấy việc lành mà ngợi khen Đức Chúa Trời."
+description: "Ma-thi-ơ 5:14-16 ghi lại lời Đức Chúa Giê-su phán rằng các môn đồ Ngài là sự sáng của thế gian. Bài giảng phân tích năm công dụng của ánh sáng — mang lại sự sống, soi đường, sưởi ấm, thanh tẩy và cảnh báo — cùng với lời kêu gọi sống bày tỏ ánh sáng của Chúa để người ta thấy việc lành mà ngợi khen Đức Chúa Trời."
 tags: ["Ma-thi-ơ", "Sự Sáng", "Bài Giảng Trên Núi", "Môn Đồ", "Làm Gương", "Việc Lành"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,7 +14,7 @@ draft: false
 
 ## Lời Ban Tặng Đặc Biệt Từ Chúa
 
-Ma-thi-ơ đoạn 5, câu 14 đến 16 là phần tiếp nối trong Bài Giảng Trên Núi của Chúa Giê-su, ngay sau phần Ngài phán rằng các môn đồ là muối của đất. Lần này, Chúa nâng cao thêm một bậc khi tuyên bố rằng các môn đồ Ngài chính là sự sáng của thế gian. Đây là một lời ban tặng hết sức đặc biệt, bởi trước đó chính Ngài đã phán rằng Ngài là sự sáng của thế gian. Giờ đây Ngài trao cho các môn đồ cùng một danh hiệu ấy, đồng nghĩa với việc Ngài muốn chúng ta thay thế Ngài để chiếu sáng giữa thế gian tối tăm.
+Ma-thi-ơ đoạn 5, câu 14 đến 16 là phần tiếp nối trong Bài Giảng Trên Núi của Đức Chúa Giê-su, ngay sau phần Ngài phán rằng các môn đồ là muối của đất. Lần này, Chúa nâng cao thêm một bậc khi tuyên bố rằng các môn đồ Ngài chính là sự sáng của thế gian. Đây là một lời ban tặng hết sức đặc biệt, bởi trước đó chính Ngài đã phán rằng Ngài là sự sáng của thế gian. Giờ đây Ngài trao cho các môn đồ cùng một danh hiệu ấy, đồng nghĩa với việc Ngài muốn chúng ta thay thế Ngài để chiếu sáng giữa thế gian tối tăm.
 
 Tuy nhiên, Chúa không đòi hỏi chúng ta phải tự tạo ra ánh sáng. Giống như mặt trăng chỉ phản chiếu ánh sáng mặt trời, Cơ-đốc nhân cũng phản chiếu ánh sáng của Đấng Christ ngự trong lòng mình. Ánh sáng thật phải xuất phát từ bên trong một tấm lòng có Chúa Cứu Thế, chứ không phải là một vẻ bề ngoài giả tạo như diễn viên đóng kịch.
 
@@ -22,7 +22,7 @@ Tuy nhiên, Chúa không đòi hỏi chúng ta phải tự tạo ra ánh sáng. 
 
 ## Ánh Sáng Phải Để Cho Người Ta Thấy
 
-Chúa Giê-su dùng hình ảnh rất cụ thể: một cái thành ở trên núi thì không thể bị khuất, và không ai thắp đèn mà lại lấy thùng úp lên. Ở Palestine thời đó, nhà cửa chỉ có cửa sổ nhỏ đường kính khoảng bốn đến năm tấc, nên trong nhà rất tối. Đèn dầu được giữ cháy liên tục vì việc nhóm lại lửa rất khó khăn. Vì thế, đèn luôn được đặt trên cao để soi sáng cho mọi người trong nhà.
+Đức Chúa Giê-su dùng hình ảnh rất cụ thể: một cái thành ở trên núi thì không thể bị khuất, và không ai thắp đèn mà lại lấy thùng úp lên. Ở Palestine thời đó, nhà cửa chỉ có cửa sổ nhỏ đường kính khoảng bốn đến năm tấc, nên trong nhà rất tối. Đèn dầu được giữ cháy liên tục vì việc nhóm lại lửa rất khó khăn. Vì thế, đèn luôn được đặt trên cao để soi sáng cho mọi người trong nhà.
 
 Cũng vậy, ánh sáng của Cơ-đốc nhân không thể chỉ chiếu sáng trong nội bộ nhà thờ. Nếu chỉ sáng trong hội thánh mà ra bên ngoài lại sống như người không có Chúa, thì chẳng khác nào lấy thùng úp đèn lại. Người xưa nói rằng không có môn đồ bí mật — nếu thật sự là môn đồ của Chúa thì tư cách ấy phải được bày tỏ qua mọi sinh hoạt hàng ngày: cách ăn nói, đi đứng, giao tiếp, đối xử trong gia đình lẫn ngoài xã hội.
 

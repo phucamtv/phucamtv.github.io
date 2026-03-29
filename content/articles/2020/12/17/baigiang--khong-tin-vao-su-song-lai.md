@@ -29,7 +29,7 @@ Người không tin chỉ chấp nhận những gì họ có thể chứng minh 
 
 ## Sự phục sinh của Chúa Cứu Thế
 
-Chúa Giê-xu Christ đã sống lại từ cõi chết. Đây là một sự kiện lịch sử có thật, được nhiều nhân chứng xác nhận, chứ không phải là một truyền thuyết hay huyền thoại. Sự phục sinh của Ngài đã mang đến cho thế giới đầy bệnh tật và chết chóc này một niềm hy vọng lớn lao: niềm hy vọng vào đời sau với một hình hài toàn vẹn hơn và một tâm tính thánh thiện hơn. Sự sống lại của Đấng Christ là nền tảng cho đức tin Cơ Đốc, là lời hứa chắc chắn rằng sự chết không phải là dấu chấm hết.
+Đức Chúa Giê-su Christ đã sống lại từ cõi chết. Đây là một sự kiện lịch sử có thật, được nhiều nhân chứng xác nhận, chứ không phải là một truyền thuyết hay huyền thoại. Sự phục sinh của Ngài đã mang đến cho thế giới đầy bệnh tật và chết chóc này một niềm hy vọng lớn lao: niềm hy vọng vào đời sau với một hình hài toàn vẹn hơn và một tâm tính thánh thiện hơn. Sự sống lại của Đấng Christ là nền tảng cho đức tin Cơ Đốc, là lời hứa chắc chắn rằng sự chết không phải là dấu chấm hết.
 
 ## Niềm tin không bao giờ vô ích
 

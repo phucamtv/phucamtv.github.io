@@ -40,7 +40,7 @@ Ma-thi-ơ 4:16 khẳng định: "Dân ấy ngồi chỗ tối tăm, đã thấy 
 
 Bóng tối đồng lõa với sợ hãi, và sợ hãi là kẻ thù của đức tin. Nơi nào có đức tin, nơi đó không tồn tại sự sợ hãi. Các nhà đại dương học phát hiện rằng những loài cá sống quá sâu dưới đáy biển, nơi ánh sáng không thể đến được, vẫn có mắt nhưng mắt đã mù hoàn toàn. Khi chúng ta ở quá lâu trong bóng tối, khả năng đón nhận ánh sáng cũng không còn nữa.
 
-Giăng 12:46 — Chúa Giê-su phán: "Ta là sự sáng đã đến thế gian, để ai tin Ta, chẳng ở nơi tối tăm nữa." Nếu Chúa Giê-su là ánh sáng, hãy tự hỏi: chúng ta có mang ánh sáng đó bên mình thường xuyên hay không?
+Giăng 12:46 — Đức Chúa Giê-su phán: "Ta là sự sáng đã đến thế gian, để ai tin Ta, chẳng ở nơi tối tăm nữa." Nếu Đức Chúa Giê-su là ánh sáng, hãy tự hỏi: chúng ta có mang ánh sáng đó bên mình thường xuyên hay không?
 
 ---
 

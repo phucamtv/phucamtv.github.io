@@ -2,7 +2,7 @@
 title: "Đường Theo Chúa Thật Gian Nan | Mác 13:1-2, 9-20"
 date: 2021-03-03
 url: /baigiang/duong-theo-chua-that-gian-nan/
-description: "Bài giảng Mác 13:1-2, 9-20 — lời tiên tri của Chúa Giê-su về sự sụp đổ đền thờ Giê-ru-sa-lem, những bách hại chờ đợi người tin Chúa, và lời kêu gọi bền lòng đến cuối cùng trên con đường đức tin gian nan."
+description: "Bài giảng Mác 13:1-2, 9-20 — lời tiên tri của Đức Chúa Giê-su về sự sụp đổ đền thờ Giê-ru-sa-lem, những bách hại chờ đợi người tin Chúa, và lời kêu gọi bền lòng đến cuối cùng trên con đường đức tin gian nan."
 tags: ["Bách Hại", "Mác", "Lời Tiên Tri", "Đức Tin", "Bền Lòng", "Giê-ru-sa-lem"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,15 +14,15 @@ draft: false
 
 ## Đền Thờ Sẽ Bị Phá Hủy (Mác 13:1-2)
 
-Khi Chúa Giê-su vừa ra khỏi đền thờ, một người môn đồ hướng mắt về phía công trình vĩ đại và thốt lên: *"Thưa thầy, hãy xem đá và các nhà này là dường nào!"* Đền thờ được vua Hê-rốt xây dựng từ năm 19–20 trước Công Nguyên là một kỳ quan kiến trúc của thời đại. Sử gia Josephus ghi nhận những khối đá khổng lồ — dài 13 mét, cao 4 mét, rộng 6 mét — được dựng lên bằng kỹ thuật mà người đương thời gần như không thể lý giải nổi.
+Khi Đức Chúa Giê-su vừa ra khỏi đền thờ, một người môn đồ hướng mắt về phía công trình vĩ đại và thốt lên: *"Thưa thầy, hãy xem đá và các nhà này là dường nào!"* Đền thờ được vua Hê-rốt xây dựng từ năm 19–20 trước Công Nguyên là một kỳ quan kiến trúc của thời đại. Sử gia Josephus ghi nhận những khối đá khổng lồ — dài 13 mét, cao 4 mét, rộng 6 mét — được dựng lên bằng kỹ thuật mà người đương thời gần như không thể lý giải nổi.
 
-Trong khi các môn đồ trầm trồ, Chúa Giê-su lại nói điều khiến ai cũng kinh ngạc: *"Rồi ra sẽ không còn một hòn đá sót lại trên một hòn khác nữa: cả thảy đều đổ xuống."* Lời tiên tri này được công bố khoảng hơn 40 năm trước khi xảy ra. Vào năm 70 Công Nguyên, tướng Titus của La Mã bao vây Giê-ru-sa-lem cho đến khi dân chúng chết đói và thành thất thủ. Đền thờ bị phóng hỏa — vàng phủ khắp tường nung chảy chảy xuống các khe đá, khiến binh lính La Mã đào bới từng tảng đá lên để lấy vàng — ứng nghiệm trọn vẹn từng chữ Chúa đã phán.
+Trong khi các môn đồ trầm trồ, Đức Chúa Giê-su lại nói điều khiến ai cũng kinh ngạc: *"Rồi ra sẽ không còn một hòn đá sót lại trên một hòn khác nữa: cả thảy đều đổ xuống."* Lời tiên tri này được công bố khoảng hơn 40 năm trước khi xảy ra. Vào năm 70 Công Nguyên, tướng Titus của La Mã bao vây Giê-ru-sa-lem cho đến khi dân chúng chết đói và thành thất thủ. Đền thờ bị phóng hỏa — vàng phủ khắp tường nung chảy chảy xuống các khe đá, khiến binh lính La Mã đào bới từng tảng đá lên để lấy vàng — ứng nghiệm trọn vẹn từng chữ Chúa đã phán.
 
 ---
 
 ## Lời Cảnh Báo Khẩn Cấp: Hãy Chạy Trốn (Mác 13:14-20)
 
-Chúa Giê-su không chỉ nói trước về sự sụp đổ của đền thờ mà còn ban một lời chỉ dẫn cụ thể cho những ai muốn thoát khỏi thảm họa: *"Bấy giờ những kẻ ở trong xứ Giu-đê hãy trốn lên núi; ai ở trên mái nhà chớ xuống, ai ở ngoài đồng chớ trở về lấy áo xống mình."* Đây là lời cảnh báo không thể rõ ràng hơn — nhưng khi sự việc thực sự xảy đến, phần đông người ta lại làm ngược lại. Thay vì chạy ra ngoài, họ đổ vào thành để tìm sự bảo vệ sau những bức tường kiên cố.
+Đức Chúa Giê-su không chỉ nói trước về sự sụp đổ của đền thờ mà còn ban một lời chỉ dẫn cụ thể cho những ai muốn thoát khỏi thảm họa: *"Bấy giờ những kẻ ở trong xứ Giu-đê hãy trốn lên núi; ai ở trên mái nhà chớ xuống, ai ở ngoài đồng chớ trở về lấy áo xống mình."* Đây là lời cảnh báo không thể rõ ràng hơn — nhưng khi sự việc thực sự xảy đến, phần đông người ta lại làm ngược lại. Thay vì chạy ra ngoài, họ đổ vào thành để tìm sự bảo vệ sau những bức tường kiên cố.
 
 Sử sách ghi lại kết quả bi thảm: khoảng 97.000 người bị bắt làm tù binh, hơn 1,1 triệu người chết vì đói và bị giết. Những ai còn nhớ lời Chúa tiên tri mà chạy lên núi, ra ngoài đồng — họ được sống. Bi kịch không phải là vì không có lời cảnh báo, mà vì người ta biết mà không làm theo.
 

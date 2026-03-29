@@ -14,7 +14,7 @@ draft: false
 
 ## Đức Chúa Giê-su Bắt Đầu Chức Vụ — Ma-thi-ơ 4:12-17
 
-Sau khi Giăng Báp-tít bị bắt bỏ tù, Đức Chúa Giê-su rời Na-xa-rét và đến định cư tại Ca-bê-na-um — một thành phố đông dân cư bên bờ biển Ga-li-lê, thuộc vùng địa phận Sa-bu-lôn và Nép-ta-li. Sự lựa chọn nơi đông đúc này không phải ngẫu nhiên. Chúa Giê-su đến những trung tâm dân số lớn vì tin tức có thể lan truyền nhanh chóng, đặt nền tảng cho sự phát triển rộng rãi hơn của Tin Lành.
+Sau khi Giăng Báp-tít bị bắt bỏ tù, Đức Chúa Giê-su rời Na-xa-rét và đến định cư tại Ca-bê-na-um — một thành phố đông dân cư bên bờ biển Ga-li-lê, thuộc vùng địa phận Sa-bu-lôn và Nép-ta-li. Sự lựa chọn nơi đông đúc này không phải ngẫu nhiên. Đức Chúa Giê-su đến những trung tâm dân số lớn vì tin tức có thể lan truyền nhanh chóng, đặt nền tảng cho sự phát triển rộng rãi hơn của Tin Lành.
 
 Sự xuất hiện của Ngài ứng nghiệm lời tiên tri Ê-sai đã nói: *"Dân ấy ngồi chỗ tối tăm đã thấy ánh sáng lớn; và trên những kẻ ngồi trong miền và dưới bóng sự chết, thì ánh sáng đã mọc lên."* Hình ảnh ánh sáng chiếu vào bóng tối là trung tâm của toàn bộ chức vụ Đấng Mê-si. Thế giới lúc bấy giờ đắm chìm trong tội lỗi, dân sự thờ phượng Chúa theo hình thức, các thầy tế lễ giả dối, không có tiên tri nào lên tiếng. Giữa cảnh u tối đó, sự xuất hiện của Đức Chúa Giê-su mang lại ánh sáng và hy vọng.
 

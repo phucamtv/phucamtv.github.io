@@ -27,7 +27,7 @@ Bên cạnh sứ điệp ăn năn, các môn đồ còn được ban quyền nă
 
 ## Giăng Báp-tít — sống và chết vì chân lý
 
-Phần chính của bài giảng xoay quanh cái chết của Giăng Báp-tít tại Mác 6:14-29. Giăng là người được Đức Chúa Trời chọn cách đặc biệt, sinh ra trước Chúa Giê-su sáu tháng, với sứ mạng dọn đường cho Đấng Cứu Thế. Thế nhưng, câu chuyện về sự qua đời của ông lại vô cùng đau buồn và cay đắng.
+Phần chính của bài giảng xoay quanh cái chết của Giăng Báp-tít tại Mác 6:14-29. Giăng là người được Đức Chúa Trời chọn cách đặc biệt, sinh ra trước Đức Chúa Giê-su sáu tháng, với sứ mạng dọn đường cho Đấng Cứu Thế. Thế nhưng, câu chuyện về sự qua đời của ông lại vô cùng đau buồn và cay đắng.
 
 Gia phả hoàng tộc Hê-rốt chứa đựng những mối quan hệ loạn luân phức tạp. Hê-rốt An-ti-pa đã dụ dỗ Hê-rô-đia bỏ chồng mình là Hê-rốt Phi-líp để đến chung sống với ông. Giăng Báp-tít không thể im lặng trước tội ác này. Ông thẳng thắn cảnh báo vua rằng việc lấy vợ của anh em mình là sai trái, dù biết rõ hậu quả có thể rất nặng nề.
 

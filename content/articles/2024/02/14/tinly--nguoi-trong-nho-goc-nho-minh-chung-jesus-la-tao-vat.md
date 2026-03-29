@@ -1,5 +1,5 @@
 ---
-title: "Người trồng nho — gốc nho, minh chứng Đức Chúa Jesus là tạo vật?"
+title: "Người trồng nho — gốc nho, minh chứng Đức Chúa Giê-su là tạo vật?"
 date: 2024-02-14
 description: "Phân tích ẩn dụ người trồng nho và gốc nho trong Giăng 15. Hình ảnh này có chứng minh Đức Chúa Giêsu là tạo vật không? Thánh Kinh cho thấy điều ngược lại."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh"]

@@ -26,9 +26,9 @@ Thực tế cuộc sống Cơ Đốc nhân không đơn giản như đôi khi đ
 
 Mác 4:37-38 ghi lại một cảnh rất đáng suy ngẫm: *"Có cơn bão lớn nổi lên, sóng tạt vào thuyền, đến nỗi gần đầy nước; nhưng Ngài đương ở đằng sau lái, dựa gối mà ngủ."*
 
-Chiếc thuyền đó có Chúa Giê-su ngồi trong đó. Vậy mà cơn bão vẫn nổi lên, sóng vẫn tạt vào, nước vẫn gần đầy thuyền. Đây là bằng chứng Kinh Thánh không thể chối cãi: sự hiện diện của Chúa không đồng nghĩa với sự vắng mặt của thử thách.
+Chiếc thuyền đó có Đức Chúa Giê-su ngồi trong đó. Vậy mà cơn bão vẫn nổi lên, sóng vẫn tạt vào, nước vẫn gần đầy thuyền. Đây là bằng chứng Kinh Thánh không thể chối cãi: sự hiện diện của Chúa không đồng nghĩa với sự vắng mặt của thử thách.
 
-Điều tương tự xảy ra ngay với chính Chúa Giê-su khi Ngài cầu nguyện trong vườn Ghết-sê-ma-nê: *"Xin Cha cất chén nầy khỏi con; nhưng không theo điều con muốn, mà theo điều Cha muốn"* (Mác 14:36). Đức Chúa Trời đã không nhậm lời cầu xin đó — không phải vì Ngài không nghe, mà vì Ngài thấy trước điều mà chúng ta không thấy. Nếu Chúa Giê-su thoát khỏi thập tự giá, toàn bộ kế hoạch cứu rỗi sẽ sụp đổ.
+Điều tương tự xảy ra ngay với chính Đức Chúa Giê-su khi Ngài cầu nguyện trong vườn Ghết-sê-ma-nê: *"Xin Cha cất chén nầy khỏi con; nhưng không theo điều con muốn, mà theo điều Cha muốn"* (Mác 14:36). Đức Chúa Trời đã không nhậm lời cầu xin đó — không phải vì Ngài không nghe, mà vì Ngài thấy trước điều mà chúng ta không thấy. Nếu Đức Chúa Giê-su thoát khỏi thập tự giá, toàn bộ kế hoạch cứu rỗi sẽ sụp đổ.
 
 Bài học sâu sắc ở đây: *đôi khi Đức Chúa Trời từ chối điều chúng ta cầu xin vì tình yêu thương và sự nhìn thấy trước của Ngài.* Chúng ta muốn thoát khỏi hoạn nạn, nhưng đôi khi Chúa muốn chúng ta đương đầu — để chúng ta chiến đấu và chiến thắng. Chịu thử thách làm tăng sức mạnh của niềm tin, ý chí và kinh nghiệm thuộc linh.
 
@@ -74,6 +74,6 @@ Thi-thiên 16:1-2 ghi lời Đa-vít: *"Đức Chúa Trời ôi! Xin hãy phù h
 
 Thi-thiên 46:2 thêm: *"Vì vậy, chúng tôi chẳng sợ dầu đất bị biến cải, núi lay động và bị quăng vào lòng biển."* Đây là sự bình an vượt quá mọi sự hiểu biết — không phải bình an vì hoàn cảnh yên ổn, mà bình an vì Đức Chúa Trời vẫn trên ngôi.
 
-Giăng 14:1 ghi lời Chúa Giê-su: *"Lòng các ngươi chớ hề bối rối; hãy tin Đức Chúa Trời, cũng hãy tin ta nữa."* Đây là lệnh — không phải lời đề nghị. Trong bóng tối, hành động đức tin là tiếp tục tin cậy dù không thấy đường ra.
+Giăng 14:1 ghi lời Đức Chúa Giê-su: *"Lòng các ngươi chớ hề bối rối; hãy tin Đức Chúa Trời, cũng hãy tin ta nữa."* Đây là lệnh — không phải lời đề nghị. Trong bóng tối, hành động đức tin là tiếp tục tin cậy dù không thấy đường ra.
 
 Hoạn nạn không phải là bằng chứng Chúa vắng mặt. Hoạn nạn là cơ hội để đức tin được thử luyện, được củng cố và được chứng minh là thật. Điều tạo nên sự khác biệt không phải là bóng tối có vây hãm hay không — mà là chúng ta có Chúa ở cùng trong bóng tối đó hay không.

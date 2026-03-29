@@ -46,13 +46,13 @@ Cơ Đốc giáo là tình yêu — không phải tình yêu đầu môi chót l
 
 Phao-lô rao giảng rằng *"các thần bởi tay người ta làm ra chẳng phải là Chúa"* — và hàng ngàn người tin Chúa từ bỏ việc thờ thần Đi-anh. Hệ quả: nguồn lợi của Đê-mê-triu và các thợ bạc bị ảnh hưởng nghiêm trọng.
 
-Tuy nhiên, Đê-mê-triu không đứng ra nói thẳng: *"Phao-lô làm tôi mất tiền."* Thay vào đó, ông kêu gọi bảo vệ **danh dự của nữ thần Đi-anh**. Đây là thủ thuật quen thuộc của những kẻ muốn hãm hại người khác — luôn tìm lý do nghe hay hơn để che đậy động cơ thật sự. Cũng giống như lúc người ta đóng đinh Chúa Giê-su: không tìm được tội danh gì, nhưng cuối cùng vẫn ép được Phi-lát ký lệnh tử hình.
+Tuy nhiên, Đê-mê-triu không đứng ra nói thẳng: *"Phao-lô làm tôi mất tiền."* Thay vào đó, ông kêu gọi bảo vệ **danh dự của nữ thần Đi-anh**. Đây là thủ thuật quen thuộc của những kẻ muốn hãm hại người khác — luôn tìm lý do nghe hay hơn để che đậy động cơ thật sự. Cũng giống như lúc người ta đóng đinh Đức Chúa Giê-su: không tìm được tội danh gì, nhưng cuối cùng vẫn ép được Phi-lát ký lệnh tử hình.
 
 ### Đám đông và tâm lý bầy đàn
 
 Cả thành rối loạn. Người ta kéo đến rạp hát, hò hét, la ó — nhưng câu 32 ghi lại một chi tiết đáng chú ý: *"phần nhiều người cũng không biết vì cớ nào mình nhóm lại."* Nhiều người hùa theo đám đông mà không hiểu chuyện gì đang xảy ra.
 
-Đặc biệt, đám đông la hét một câu duy nhất — *"Lớn thay là nữ thần Đi-anh của người Ê-phê-sô!"* — **suốt hai tiếng đồng hồ liên tục**. Điều này phản ánh niềm tin của nhiều tôn giáo ngoại giáo: lặp đi lặp lại càng nhiều thì thần thánh càng lắng nghe. Chính vì tâm lý này mà Chúa Giê-su đã quở trách những người cầu nguyện như người ngoại — cứ lặp đi lặp lại những lời nhàm chán, trong khi *"Đức Chúa Trời biết các ngươi muốn xin gì trước khi các ngươi mở miệng."*
+Đặc biệt, đám đông la hét một câu duy nhất — *"Lớn thay là nữ thần Đi-anh của người Ê-phê-sô!"* — **suốt hai tiếng đồng hồ liên tục**. Điều này phản ánh niềm tin của nhiều tôn giáo ngoại giáo: lặp đi lặp lại càng nhiều thì thần thánh càng lắng nghe. Chính vì tâm lý này mà Đức Chúa Giê-su đã quở trách những người cầu nguyện như người ngoại — cứ lặp đi lặp lại những lời nhàm chán, trong khi *"Đức Chúa Trời biết các ngươi muốn xin gì trước khi các ngươi mở miệng."*
 
 ### Người thư ký thành phố — bảo vệ mình hay bảo vệ lẽ thật?
 

@@ -24,7 +24,7 @@ Một năm mới hoàn toàn hạnh phúc không nằm ở những điều chún
 
 ## Phải Được Tái Sanh
 
-Chúa Giê-su phán với Ni-cô-đem:
+Đức Chúa Giê-su phán với Ni-cô-đem:
 
 > *"Thật ta bảo thật ngươi, nếu một người không được sanh lại thì không thể thấy vương quốc Đức Chúa Trời."* (Giăng 3:3)
 
@@ -34,7 +34,7 @@ Và khi Ni-cô-đem thắc mắc: *"Người đã già thì sinh lại làm sao 
 
 Ni-cô-đem là một người Pha-ri-si có địa vị — ông giữ luật pháp rất cứng nhắc nhưng lại thiếu điều cốt lõi nhất mà Chúa dạy: **tình yêu thương**. Câu chuyện người Samari nhân lành (Lu-ca 10) minh họa rõ điều này: thầy tế lễ và người Lê-vi đi đến nhà hội thờ phượng, nhưng bỏ qua người bị nạn đang thoi thóp bên đường. Họ giữ luật nhưng đánh mất tình yêu.
 
-Chúa dạy: rốt lại còn ba điều — đức tin, sự trông cậy, tình yêu thương — **nhưng điều quan trọng nhất là tình yêu thương.** Ni-cô-đem nhận ra mình chưa thật sự thỏa lòng, chưa tìm được sự bình an sau bao năm tin kính. Khi thấy những việc Chúa Giê-su làm, ông tin đây là Đấng đến từ Đức Chúa Trời — và đã hạ mình tìm đến học hỏi.
+Chúa dạy: rốt lại còn ba điều — đức tin, sự trông cậy, tình yêu thương — **nhưng điều quan trọng nhất là tình yêu thương.** Ni-cô-đem nhận ra mình chưa thật sự thỏa lòng, chưa tìm được sự bình an sau bao năm tin kính. Khi thấy những việc Đức Chúa Giê-su làm, ông tin đây là Đấng đến từ Đức Chúa Trời — và đã hạ mình tìm đến học hỏi.
 
 Giăng 3:16 khẳng định nền tảng:
 

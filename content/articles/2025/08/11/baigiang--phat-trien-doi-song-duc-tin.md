@@ -25,7 +25,7 @@ Thư Hê-bơ-rơ 6:1-2 dạy rằng chúng ta phải bỏ qua các điều sơ h
 
 ## Chăm rễ và lập nền trong Chúa
 
-Chúa Giê-su phán trong Giăng 15:5: "Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong Ta và Ta trong họ thì sinh ra lắm trái." Mối liên kết giữa nhánh và gốc nho phải được duy trì liên tục. Nếu nhánh tách rời khỏi gốc, nó sẽ héo đi và phải ném ra ngoài.
+Đức Chúa Giê-su phán trong Giăng 15:5: "Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong Ta và Ta trong họ thì sinh ra lắm trái." Mối liên kết giữa nhánh và gốc nho phải được duy trì liên tục. Nếu nhánh tách rời khỏi gốc, nó sẽ héo đi và phải ném ra ngoài.
 
 Cụm từ "ai cứ ở trong Ta" mô tả mối quan hệ mật thiết, liên tục giữa chúng ta với Chúa. Để gắn kết với Chúa, chúng ta cần đọc và tìm hiểu lời Ngài, lấy nguồn dinh dưỡng thiết yếu nuôi dưỡng đời sống tâm linh mỗi ngày.
 

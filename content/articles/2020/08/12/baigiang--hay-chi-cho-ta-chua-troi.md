@@ -2,7 +2,7 @@
 title: "Hãy Chỉ Cho Ta Chúa Trời!"
 date: 2020-08-12
 url: /baigiang/hay-chi-cho-ta-chua-troi/
-description: "Câu chuyện vua Trajan và Rabbi Josué mở ra bài học sâu sắc: con người phàm trần không đủ tư cách để đối diện trực tiếp với Đức Chúa Trời, nhưng Ngài đã bày tỏ chính mình qua công trình sáng tạo và qua Đức Chúa Giê-xu Christ."
+description: "Câu chuyện vua Trajan và Rabbi Josué mở ra bài học sâu sắc: con người phàm trần không đủ tư cách để đối diện trực tiếp với Đức Chúa Trời, nhưng Ngài đã bày tỏ chính mình qua công trình sáng tạo và qua Đức Chúa Giê-su Christ."
 tags: ["Bài Giảng", "Chắp Cánh Bay Cao", "Đức Chúa Trời", "Sáng Tạo", "Đức Tin", "Vinh Hiển Chúa"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -52,16 +52,16 @@ Vua Trajan sau khi nghe câu trả lời ấy đã không cãi lại. Ông cúi 
 
 Nhiều người nhầm lẫn rằng tin Chúa là tin mà không có lý do. Nhưng Kinh Thánh không dạy như vậy. Đức tin Kinh Thánh đặt nền tảng trên sự mặc khải — Đức Chúa Trời đã chủ động bày tỏ chính mình cho con người biết.
 
-Ngài bày tỏ qua thiên nhiên, qua lương tâm, qua lịch sử, và đặc biệt qua Đức Chúa Giê-xu Christ — Đấng mà Giăng 14:9 chép lại lời Ngài phán: *"Ai đã thấy Ta tức là đã thấy Cha."*
+Ngài bày tỏ qua thiên nhiên, qua lương tâm, qua lịch sử, và đặc biệt qua Đức Chúa Giê-su Christ — Đấng mà Giăng 14:9 chép lại lời Ngài phán: *"Ai đã thấy Ta tức là đã thấy Cha."*
 
-Phillip cũng từng hỏi Chúa Giê-xu: "Xin chỉ cho chúng tôi thấy Cha." Câu hỏi đó không khác gì câu hỏi của vua Trajan. Và câu trả lời của Chúa Giê-xu chính là: Ta đây. Ai biết Ta thì biết Cha. Ai thấy Ta thì thấy Cha.
+Phillip cũng từng hỏi Đức Chúa Giê-su: "Xin chỉ cho chúng tôi thấy Cha." Câu hỏi đó không khác gì câu hỏi của vua Trajan. Và câu trả lời của Đức Chúa Giê-su chính là: Ta đây. Ai biết Ta thì biết Cha. Ai thấy Ta thì thấy Cha.
 
-Đức Chúa Trời không bỏ mặc con người trong sự tìm kiếm. Ngài đã đến gần — trong hình hài con người, trong sự sống, sự chết và sự phục sinh của Chúa Giê-xu.
+Đức Chúa Trời không bỏ mặc con người trong sự tìm kiếm. Ngài đã đến gần — trong hình hài con người, trong sự sống, sự chết và sự phục sinh của Đức Chúa Giê-su.
 
 ## Lời Kết
 
 Câu chuyện ngày 12 tháng 8 nhắc nhở chúng ta về thái độ đúng đắn khi đứng trước Đức Chúa Trời: không phải thách thức, không phải đòi hỏi, mà là khiêm nhường nhận ra giới hạn của mình và mở lòng đón nhận sự mặc khải mà Ngài đã ban cho.
 
-Thiên nhiên kể về Ngài. Lương tâm hướng về Ngài. Kinh Thánh mặc khải Ngài. Và Chúa Giê-xu chính là Ngài đến trong xác thịt.
+Thiên nhiên kể về Ngài. Lương tâm hướng về Ngài. Kinh Thánh mặc khải Ngài. Và Đức Chúa Giê-su chính là Ngài đến trong xác thịt.
 
 Nguyện chúng ta không cứng lòng như những kẻ đòi bằng chứng mà đã có bằng chứng trước mắt, nhưng biết khiêm nhường như vua Trajan trong khoảnh khắc ông cúi đầu và đi vào sự im lặng suy ngẫm — để từ đó tìm đến Đấng mà thiên nhiên hằng rao truyền.

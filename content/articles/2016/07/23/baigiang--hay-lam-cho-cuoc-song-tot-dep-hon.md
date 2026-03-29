@@ -22,11 +22,11 @@ Nhưng Mục sư Dương Quang Thoại không dừng lại ở những điều b
 
 ## Bài Học Từ Cây Vả: Ma-thi-ơ 21:19
 
-Trọng tâm của bài giảng là câu chuyện trong Ma-thi-ơ 21:19, khi Chúa Giê-su và các môn đệ đang đói và đến gần một cây vả:
+Trọng tâm của bài giảng là câu chuyện trong Ma-thi-ơ 21:19, khi Đức Chúa Giê-su và các môn đệ đang đói và đến gần một cây vả:
 
 > *"Thấy một cây vả ở bên đường, Ngài bèn lại gần; song chỉ thấy những lá mà thôi, thì Ngài phán cùng cây vả rằng: Mày chẳng khi nào sanh trái nữa! Cây vả tức thì khô đi."*
 
-Đây không phải là câu chuyện Chúa Giê-su nổi giận vì đói rồi trút sự tức giận lên một cái cây vô tội. Ngài muốn truyền đạt một thông điệp sâu sắc cho các môn đệ — và cho tất cả chúng ta — về giá trị của một cuộc sống **sinh kết quả thật sự**.
+Đây không phải là câu chuyện Đức Chúa Giê-su nổi giận vì đói rồi trút sự tức giận lên một cái cây vô tội. Ngài muốn truyền đạt một thông điệp sâu sắc cho các môn đệ — và cho tất cả chúng ta — về giá trị của một cuộc sống **sinh kết quả thật sự**.
 
 Ở Palestine, cây vả rất phổ biến. Người ta trồng nó với một mục đích duy nhất: lấy trái. Một cây xoài, cây ổi, cây mít mà không ra trái thì không ai trồng làm gì — nó chỉ chiếm đất mà thôi. Cây vả trong câu chuyện này, nhìn từ xa thì đầy lá xanh tốt, tưởng chừng có trái; nhưng đến gần thì chỉ toàn lá — không có gì để ăn, không có gì để cho.
 
@@ -60,7 +60,7 @@ Câu Giăng 15:2 xác nhận: *"Hễ nhánh nào trong ta mà không kết quả
 
 Mục sư kể câu chuyện ngụ ngôn về cây tre muốn trở nên hữu ích. Dân làng chặt tre, róc hết nhánh, khoét hết mắt trong ruột — mỗi bước đều đau đớn. Nhưng cuối cùng, những ống tre được lắp lại thành hệ thống dẫn nước từ nguồn suối về cho dân làng. Sự đau đớn ấy không phải là hình phạt — mà là quá trình biến đổi để trở nên hữu ích hơn bao giờ hết.
 
-Chúa Giê-su không muốn chúng ta giả hình. Ngài dạy dỗ chúng ta những bài học đau đớn với một chủ đích duy nhất: *để chúng ta trở nên hữu ích cho mọi người*.
+Đức Chúa Giê-su không muốn chúng ta giả hình. Ngài dạy dỗ chúng ta những bài học đau đớn với một chủ đích duy nhất: *để chúng ta trở nên hữu ích cho mọi người*.
 
 ---
 

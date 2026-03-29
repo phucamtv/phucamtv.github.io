@@ -48,7 +48,7 @@ Cũng như cầu thủ giỏi được đưa lên làm đội trưởng, nhạc 
 
 ### 3. Sự Hiện Diện Của Đức Chúa Trời
 
-Chúa Giê-su bảo: hãy làm mọi điều trong sự kín nhiệm, nơi chỉ có Cha trên trời nhìn thấy. Khi phạm tội, con người muốn tránh xa sự hiện diện của Đức Chúa Trời — A-đam trốn trong lùm cây, Ca-in chối không biết em mình ở đâu. Nhưng khi sống đúng, sự hiện diện của Đức Chúa Trời trở nên ngọt ngào và thân mật.
+Đức Chúa Giê-su bảo: hãy làm mọi điều trong sự kín nhiệm, nơi chỉ có Cha trên trời nhìn thấy. Khi phạm tội, con người muốn tránh xa sự hiện diện của Đức Chúa Trời — A-đam trốn trong lùm cây, Ca-in chối không biết em mình ở đâu. Nhưng khi sống đúng, sự hiện diện của Đức Chúa Trời trở nên ngọt ngào và thân mật.
 
 Được ở trong sự kín nhiệm với Đức Chúa Trời — một chỗ chỉ có Chúa với mình — đó là ân phước lớn lắm rồi, và chính điều đó là phần thưởng cao quý nhất.
 

@@ -48,10 +48,10 @@ Hê-bơ-rơ 3:15 nhắc nhở: "Ngày nay nếu các ngươi nghe tiếng Ngài,
 
 ## Chúa Là Đường Đi — Bí Quyết Để Không Lạc Lối
 
-Chúa Giê-su phán: "Ta là đường đi, lẽ thật, và sự sống" (Giăng 14:6). Nếu Ngài là con đường, thì con đường ấy không thể dẫn đến chỗ sai trái. Nếu Ngài là Đấng dẫn dắt, chúng ta sẽ không lạc lối — miễn là chúng ta chịu đi trên con đường ấy và để Ngài nắm tay dẫn dắt.
+Đức Chúa Giê-su phán: "Ta là đường đi, lẽ thật, và sự sống" (Giăng 14:6). Nếu Ngài là con đường, thì con đường ấy không thể dẫn đến chỗ sai trái. Nếu Ngài là Đấng dẫn dắt, chúng ta sẽ không lạc lối — miễn là chúng ta chịu đi trên con đường ấy và để Ngài nắm tay dẫn dắt.
 
 Áp-ra-ham rời bỏ quê hương mà không có bản đồ, không GPS, không Google Maps — nhưng ông vẫn đến được nơi Đức Chúa Trời hứa. Bí quyết của ông là đức tin và sự lắng nghe tiếng phán của Chúa. Ngày nay chúng ta có nhiều hơn Áp-ra-ham: có Kinh Thánh, có Đức Thánh Linh, có bằng chứng lịch sử về sự thành tín của Đức Chúa Trời.
 
-Xuất Ê-díp-tô Ký 13:21 cho thấy Đức Giê-hô-va đi trước dân sự — ban ngày bằng trụ mây, ban đêm bằng trụ lửa — để dẫn đường không ngừng nghỉ. Ê-sai 30:21 hứa rằng khi ta rẽ qua bên hữu hay bên tả, tai ta sẽ nghe có tiếng phán: "Này là đường đây, hãy noi theo!" Đó chính là sự dẫn dắt của Đức Thánh Linh mà Chúa Giê-su đã hứa ban cho chúng ta trước khi Ngài về trời.
+Xuất Ê-díp-tô Ký 13:21 cho thấy Đức Giê-hô-va đi trước dân sự — ban ngày bằng trụ mây, ban đêm bằng trụ lửa — để dẫn đường không ngừng nghỉ. Ê-sai 30:21 hứa rằng khi ta rẽ qua bên hữu hay bên tả, tai ta sẽ nghe có tiếng phán: "Này là đường đây, hãy noi theo!" Đó chính là sự dẫn dắt của Đức Thánh Linh mà Đức Chúa Giê-su đã hứa ban cho chúng ta trước khi Ngài về trời.
 
 Đức Chúa Trời không muốn bất kỳ ai trong chúng ta đi lạc. Ngài đã chu cấp mọi thứ cần thiết để dẫn dắt chúng ta. Vấn đề còn lại là: chúng ta có mở lòng đón nhận sự dẫn dắt ấy hay không? Hãy bám lấy Chúa, bám lấy lời Ngài — và Đấng đang đứng đón chờ nơi cuối con đường sẽ không để chúng ta phải lạc mất.

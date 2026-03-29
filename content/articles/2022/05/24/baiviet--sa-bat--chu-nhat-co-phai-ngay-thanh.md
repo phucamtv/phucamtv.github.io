@@ -67,7 +67,7 @@ Giáo hội Công Giáo trả lời:
 
 > “Con người làm chủ ngày Sa-bát.” (Mác 2:28)
 
-*(Con người: ‘the Son of Man’ – Chữ “Con Người” viết in hoa là Chúa Giê-su)*
+*(Con người: ‘the Son of Man’ – Chữ “Con Người” viết in hoa là Đức Chúa Giê-su)*
 
 > “Nếu ai thêm vào sách tiên tri này điều gì, thì Đức Chúa Trời sẽ thêm cho người ấy tai nạn… và kẻ nào bớt điều gì,… thì Đức Chúa Trời sẽ cất lấy phần họ về cây sự sống và thành thánh…” (Khải huyền 22:18, 19)
 
@@ -229,7 +229,7 @@ Hơn nữa, nếu nói trong giao ước mới không cần giữ luật pháp c
 
 **Giữ ngày thứ bảy là cậy việc làm để được cứu, giống như người Pha-ri-si!**
 
-Chúng ta cần lưu ý sự dạy dỗ của Chúa Giê-su về người Pha-ri-si. Ngài đề cao sự tuân giữ luật pháp của họ, Ngài bảo chúng ta phải giữ luật pháp như họ, nhưng phải giữ bằng tấm lòng chứ không phải giữ bề ngoài.
+Chúng ta cần lưu ý sự dạy dỗ của Đức Chúa Giê-su về người Pha-ri-si. Ngài đề cao sự tuân giữ luật pháp của họ, Ngài bảo chúng ta phải giữ luật pháp như họ, nhưng phải giữ bằng tấm lòng chứ không phải giữ bề ngoài.
 
 > “Nếu ngươi muốn vào sự sống, thì phải giữ các điều răn.” (Ma-thi-ơ 19:17)
 
@@ -263,17 +263,17 @@ Nếu có thể thay đổi hay hủy bỏ luật pháp Mười Điều Răn, th
 
 > “Các ngươi đừng tưởng ta đến đặng phá luật pháp hay là lời tiên tri; ta đến, không phải để phá, song để làm cho trọn.” (Ma-thi-ơ 5:17)
 
-Ma quỉ chế nhạo rằng Đức Chúa Trời đã thiết lập một bảng luật pháp mà những kẻ theo Ngài không thể giữ nổi. Nó cũng chế nhạo rằng những kẻ theo Ngài mà không thể làm theo mệnh lệnh của Ngài. Nên Đức Chúa Trời muốn chứng minh cho cả vũ trụ hiểu rằng: Chúa Giê-su trong hình hài và sức mạnh bình thường của một con người, vẫn có thể tuân giữ điều răn của Đức Chúa Trời.
+Ma quỉ chế nhạo rằng Đức Chúa Trời đã thiết lập một bảng luật pháp mà những kẻ theo Ngài không thể giữ nổi. Nó cũng chế nhạo rằng những kẻ theo Ngài mà không thể làm theo mệnh lệnh của Ngài. Nên Đức Chúa Trời muốn chứng minh cho cả vũ trụ hiểu rằng: Đức Chúa Giê-su trong hình hài và sức mạnh bình thường của một con người, vẫn có thể tuân giữ điều răn của Đức Chúa Trời.
 
-Như vậy, nếu sau khi Chúa Giê-su chịu chết mà luật pháp bị hủy bỏ thì còn gì vô lý hơn? Chính bởi sự chết của Chúa, chúng ta được thêm sức mạnh của ân điển, để bước đi trên luật pháp, tuân giữ luật pháp bằng sức mạnh của thập tự giá. Chẳng lẽ khi Chúa chết cho bạn rồi thì bạn không cần phải hiếu kính cha mẹ? Được trộm cắp? Được nói dối sao?
+Như vậy, nếu sau khi Đức Chúa Giê-su chịu chết mà luật pháp bị hủy bỏ thì còn gì vô lý hơn? Chính bởi sự chết của Chúa, chúng ta được thêm sức mạnh của ân điển, để bước đi trên luật pháp, tuân giữ luật pháp bằng sức mạnh của thập tự giá. Chẳng lẽ khi Chúa chết cho bạn rồi thì bạn không cần phải hiếu kính cha mẹ? Được trộm cắp? Được nói dối sao?
 
 **Các điều răn khác được tái xác nhận ở Thánh Kinh Tân ước, trong khi điều răn thứ tư về ngày Sa-bát thì không!**
 
-Vào thời Chúa Giê-su và các sứ đồ chưa xuất hiện sự tranh cãi về ngày thờ phượng Chúa, cũng chưa có việc thờ phượng Chúa ngày chủ nhật. Vì thế, Thánh Kinh Tân ước nhấn mạnh sự tuân giữ cả Mười Điều Răn, không nhấn mạnh riêng lẻ một điều răn nào. Khi nói về luật pháp thì trong đó hẳn nhiên bao gồm cả điều răn thứ tư.
+Vào thời Đức Chúa Giê-su và các sứ đồ chưa xuất hiện sự tranh cãi về ngày thờ phượng Chúa, cũng chưa có việc thờ phượng Chúa ngày chủ nhật. Vì thế, Thánh Kinh Tân ước nhấn mạnh sự tuân giữ cả Mười Điều Răn, không nhấn mạnh riêng lẻ một điều răn nào. Khi nói về luật pháp thì trong đó hẳn nhiên bao gồm cả điều răn thứ tư.
 
 Dầu vậy Tân ước đã tái xác nhận tính cách thiêng liêng của Điều Răn Thứ Tư qua các điều sau đây:
 
-- Chính Chúa Giê-su giữ ngày Sa-bát.
+- Chính Đức Chúa Giê-su giữ ngày Sa-bát.
 - Các môn đồ giữ ngày Sa-bát.
 - Sứ đồ Phao-lô giữ ngày Sa-bát.
 Đặc biệt trong Tân ước, Hê-bơ-rơ chương 4 tái xác nhận việc giữ ngày thứ bảy khi liên kết sự nghỉ ngơi thuộc thể và sự yên nghỉ thiêng liêng:
@@ -354,7 +354,7 @@ Vì đó là dấu hiệu bày tỏ chúng ta thừa nhận chủ quyền của 
 
 > “Ta là Giê-hô-va Đức Chúa Trời các ngươi, hãy noi theo luật lệ ta, vâng giữ mạng lịnh ta và làm theo. Hãy biệt những ngày sa-bát ta ra thánh, nó sẽ làm dấu giữa ta và các ngươi, hầu cho các ngươi biết rằng ta là Giê-hô-va Đức Chúa Trời các ngươi.” (Ê-xê-chi-ên 20:19, 20)
 
-Vì Chúa Giê-su đã giữ ngày Sa-bát thứ bảy, và Ngài không bao giờ thay đổi thói quen đó:
+Vì Đức Chúa Giê-su đã giữ ngày Sa-bát thứ bảy, và Ngài không bao giờ thay đổi thói quen đó:
 
 > “Theo thói quen, nhằm ngày Sa-bát, Ngài vào nhà hội…” (Luca 4:16)
 
@@ -475,17 +475,17 @@ Chúa chữa người teo tay ngày Sa-bát:
 
 > “Có kẻ hỏi Ngài rằng: trong ngày Sa-bát, có phép chữa kẻ bệnh hay không? Ấy là họ có ý kiếm dịp kiện Ngài. Ngài bèn phán cùng họ rằng: Ai trong vòng các ngươi có một con chiên, nếu đương ngày Sa-bát, bị té xuống hầm, thì há không kéo nó lên sao? Huống chi người ta trọng hơn con chiên là dường nào! Vậy, trong ngày Sa-bát có phép làm việc lành.”
 
-Người ta thường dùng 2 câu chuyện trên đây để cho rằng chính Chúa Giê-su đã công kích ngày Sa-bát thứ bảy. Vậy, xin hãy cùng suy nghĩ các vấn đề sau đây:
+Người ta thường dùng 2 câu chuyện trên đây để cho rằng chính Đức Chúa Giê-su đã công kích ngày Sa-bát thứ bảy. Vậy, xin hãy cùng suy nghĩ các vấn đề sau đây:
 
 - Chúa đả phá ngày Sa-bát hay đả phá cách giữ ngày Sa-bát của người Pha-ri-si?
 - Ngày Sa-bát được lập vì hạnh phúc của con người hay cướp đi hạnh phúc của họ?
 - Nếu ngày nào vua Đa-vít cũng đòi ăn bánh thánh trong đền thờ, liệu có được đáp ứng không?
 - Cứu người có phải là “các công việc của mình trong sáu ngày” không?
 - Nếu tuần nào cũng vậy, cứ đúng vào thứ bảy thì con chiên té xuống hầm, thử nghĩ Chúa sẽ để nó sống chăng?
-- Những quy định về cách giữ ngày Sa-bát đương thời của Chúa Giê-su là do Đức Chúa Trời phán truyền hay do người ta đặt thêm?
+- Những quy định về cách giữ ngày Sa-bát đương thời của Đức Chúa Giê-su là do Đức Chúa Trời phán truyền hay do người ta đặt thêm?
 Qua 2 câu chuyện nầy, chúng ta có thể kết luận rằng: Chúa đả phá cách giữ ngày Sa-bát chứ không phải đả phá ngày Sa-bát.
 
-Chúa Giê-su kết luận trong Ma-thi-ơ 12:8:
+Đức Chúa Giê-su kết luận trong Ma-thi-ơ 12:8:
 
 > “Vì Con người là Chúa ngày Sa-bát.”
 

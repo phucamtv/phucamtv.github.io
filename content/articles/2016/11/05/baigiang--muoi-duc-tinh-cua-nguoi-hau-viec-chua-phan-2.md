@@ -60,6 +60,6 @@ Chữ "tự mãn" theo tiếng Hoa nghĩa là tự mình cảm thấy đầy đ�
 
 ## Đức Tính Thứ Mười: Gương Mẫu
 
-Gương mẫu được định nghĩa là làm trước và làm đúng. Không phải chỉ nói miệng mà phải sống ra điều mình giảng dạy. Phao-lô khẳng định trong I Cô-rinh-tô 11:1 rằng hãy bắt chước tôi như tôi bắt chước Chúa. Và chính Chúa Giê-su đã phán trong Giăng 13:15 rằng ta đã làm gương cho các con, để các con cũng làm như ta đã làm.
+Gương mẫu được định nghĩa là làm trước và làm đúng. Không phải chỉ nói miệng mà phải sống ra điều mình giảng dạy. Phao-lô khẳng định trong I Cô-rinh-tô 11:1 rằng hãy bắt chước tôi như tôi bắt chước Chúa. Và chính Đức Chúa Giê-su đã phán trong Giăng 13:15 rằng ta đã làm gương cho các con, để các con cũng làm như ta đã làm.
 
 Cuộc sống Cơ Đốc nhân phải có sức hút đối với người chung quanh. Khi người ngoài thắc mắc tại sao giữa khốn khổ mà vẫn bình an, giữa thất vọng mà vẫn lạc quan — đó là cơ hội để làm chứng rằng mình có Chúa Cứu Thế. Mỗi người hãy trở thành người gương mẫu ngay trong gia đình nhỏ bé của mình, và tin rằng mười đức tính này sẽ giúp chúng ta có một cuộc đời khác hơn, đẹp lòng Chúa hơn.

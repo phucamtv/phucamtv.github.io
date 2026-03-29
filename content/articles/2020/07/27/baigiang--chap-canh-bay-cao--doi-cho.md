@@ -1,7 +1,7 @@
 ---
 title: "Chắp Cánh Bay Cao - Đổi Chỗ"
 date: 2020-07-27
-description: "Câu chuyện về một chàng thanh niên hào phóng đổi vé tàu cho thiếu phụ mệt mỏi trên chuyến tàu lửa tốc hành về Luân Đôn — minh họa cho sự hoán đổi vĩ đại của Chúa Giê-xu: Đấng vốn giàu có đã tự làm nên nghèo để chúng ta được nên giàu."
+description: "Câu chuyện về một chàng thanh niên hào phóng đổi vé tàu cho thiếu phụ mệt mỏi trên chuyến tàu lửa tốc hành về Luân Đôn — minh họa cho sự hoán đổi vĩ đại của Đức Chúa Giê-su: Đấng vốn giàu có đã tự làm nên nghèo để chúng ta được nên giàu."
 tags: ["Chắp Cánh Bay Cao"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -36,11 +36,11 @@ Câu chuyện nhỏ trên chuyến tàu Luân Đôn chỉ minh họa phần nào
 
 Kinh Thánh viết:
 
-> "Vì anh em biết ơn của Chúa Giê-xu Christ chúng ta, Ngài vốn giàu, vì anh em mà tự làm nên nghèo, hầu cho bởi sự nghèo của Ngài, anh em được nên giàu." — II Cô-rinh-tô 8:9
+> "Vì anh em biết ơn của Đức Chúa Giê-su Christ chúng ta, Ngài vốn giàu, vì anh em mà tự làm nên nghèo, hầu cho bởi sự nghèo của Ngài, anh em được nên giàu." — II Cô-rinh-tô 8:9
 
 ## Bài Học Cho Đời Sống Đức Tin
 
-Sự khác biệt giữa câu chuyện trên tàu và sự hy sinh của Chúa Giê-xu là vô cùng lớn. Thái tử Charles chỉ đổi một chiếc vé tàu, một chỗ ngồi thoải mái trong vài giờ đồng hồ. Nhưng Chúa Giê-xu đã đổi cả sự vinh hiển trên thiên đàng, đổi ngôi vị Đấng Toàn Năng, để bước vào thân phận con người hèn mọn, chịu khổ nạn và chịu chết trên thập tự giá.
+Sự khác biệt giữa câu chuyện trên tàu và sự hy sinh của Đức Chúa Giê-su là vô cùng lớn. Thái tử Charles chỉ đổi một chiếc vé tàu, một chỗ ngồi thoải mái trong vài giờ đồng hồ. Nhưng Đức Chúa Giê-su đã đổi cả sự vinh hiển trên thiên đàng, đổi ngôi vị Đấng Toàn Năng, để bước vào thân phận con người hèn mọn, chịu khổ nạn và chịu chết trên thập tự giá.
 
 Ngài không chỉ đổi chỗ trong một chuyến đi ngắn ngủi, mà Ngài đổi cả vận mệnh đời đời của nhân loại. Nhờ sự nghèo khó của Ngài, chúng ta — những kẻ vốn chỉ có "vé hạng ba" trong cuộc đời — được bước vào chỗ vinh hiển mà chính Ngài đã dành sẵn.
 

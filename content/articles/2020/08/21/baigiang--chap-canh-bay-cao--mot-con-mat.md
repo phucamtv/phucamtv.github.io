@@ -30,7 +30,7 @@ Chính vì thế, Đức Chúa Trời đã chọn con đường mà không một
 
 ## Món Quà Vĩ Đại Nhất
 
-Chúa Cứu Thế Giê-xu đã trở thành sự hi sinh lớn lao nhất, một món quà vĩ đại nhất mà Đức Chúa Trời đã ban cho loài người hư mất. Không phải vì loài người xứng đáng, cũng không phải vì Ngài bị buộc phải làm vậy. Ngài làm điều đó vì tình yêu — thứ tình yêu không thể tách rời khỏi sự công bình.
+Chúa Cứu Thế Giê-su đã trở thành sự hi sinh lớn lao nhất, một món quà vĩ đại nhất mà Đức Chúa Trời đã ban cho loài người hư mất. Không phải vì loài người xứng đáng, cũng không phải vì Ngài bị buộc phải làm vậy. Ngài làm điều đó vì tình yêu — thứ tình yêu không thể tách rời khỏi sự công bình.
 
 Trong bản tính thiên thượng của Đức Chúa Trời, chúng ta luôn nhận thấy hai điều nổi bật: sự công bình và lòng yêu thương. Hai đức tính này không mâu thuẫn, trái lại chúng gắn liền với nhau như không thể tách rời. Tại thập tự giá, cả hai đã được biểu hiện cùng một lúc — sự công bình đòi hỏi giá của tội lỗi phải được trả, và tình yêu thương đã khiến Con Đức Chúa Trời tự nguyện trả giá đó thay cho chúng ta.
 

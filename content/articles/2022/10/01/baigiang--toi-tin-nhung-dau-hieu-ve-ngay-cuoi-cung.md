@@ -2,7 +2,7 @@
 title: "Tôi Tin Những Dấu Hiệu Về Ngày Cuối Cùng"
 date: 2022-10-01
 url: /baigiang/toi-tin-nhung-dau-hieu-ve-ngay-cuoi-cung/
-description: "Bài truyền giảng kết nối những biến cố đang xảy ra trên thế giới — thiên tai, dịch bệnh, chiến tranh, đạo đức suy đồi — với những lời tiên tri trong Kinh Thánh về ngày cuối cùng khi Chúa Giê-su trở lại."
+description: "Bài truyền giảng kết nối những biến cố đang xảy ra trên thế giới — thiên tai, dịch bệnh, chiến tranh, đạo đức suy đồi — với những lời tiên tri trong Kinh Thánh về ngày cuối cùng khi Đức Chúa Giê-su trở lại."
 tags: ["Ngày Tận Thế", "Chúa Tái Lâm", "Ma-thi-ơ 24", "Lu-ca 21", "Dấu Hiệu Thời Kỳ Cuối Cùng", "Truyền Giảng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -28,7 +28,7 @@ Ma-thi-ơ 24:29 chép rằng thế lực các tầng trời sẽ rúng động, 
 
 ### Dịch Bệnh Lan Tràn
 
-Lu-ca 21:11 ghi lời Chúa Giê-su: nhiều xứ sẽ bị bệnh dịch. Đại dịch COVID-19 đã chứng minh lời tiên tri này một cách rõ ràng nhất. Không phải ở một quốc gia xa xôi nào, mà chính chúng ta đã nếm trải sự kinh khủng của cơn đại dịch — có người thân đã ra đi, bản thân nhiều người đã nhiễm bệnh và kề cận cái chết. Điều đáng sợ hơn không chỉ là một căn bệnh, mà là sự biến thể liên tục của virus, kháng lại những loại vắc-xin mà con người chế tạo ra.
+Lu-ca 21:11 ghi lời Đức Chúa Giê-su: nhiều xứ sẽ bị bệnh dịch. Đại dịch COVID-19 đã chứng minh lời tiên tri này một cách rõ ràng nhất. Không phải ở một quốc gia xa xôi nào, mà chính chúng ta đã nếm trải sự kinh khủng của cơn đại dịch — có người thân đã ra đi, bản thân nhiều người đã nhiễm bệnh và kề cận cái chết. Điều đáng sợ hơn không chỉ là một căn bệnh, mà là sự biến thể liên tục của virus, kháng lại những loại vắc-xin mà con người chế tạo ra.
 
 ### Môi Trường Bị Phá Hủy
 
@@ -50,4 +50,4 @@ II Ti-mô-thê 3:1-5 mô tả thời kỳ cuối cùng: con người tự kỷ, 
 
 Kinh Thánh giải đáp ba câu hỏi quan trọng nhất của đời người: chúng ta từ đâu đến, chúng ta sống để làm gì, và sau cái chết là gì. Đa số người ta nghĩ rằng sống 70 năm, có nhà, có sự nghiệp, có gia đình là đủ, rồi chết là hết. Nhưng Kinh Thánh khẳng định rằng không phải chết là tắt thở là mọi thứ xếp lại.
 
-Tận thế chính là ngày Chúa Giê-su từ trời trở lại thế giới này. Ngày đó là bí mật, không ai biết được, nhưng Ngài đã tiết lộ cho các môn đệ những dấu hiệu sẽ xảy ra. Và tất cả những gì đang diễn ra trên thế giới hôm nay chính là những dấu hiệu ấy. Lời mời gọi dành cho mỗi người là hãy quan tâm đến Kinh Thánh, quan tâm đến cuộc đời mình, và quan tâm đến những điều thiêng liêng hơn là chỉ cơm áo gạo tiền hàng ngày.
+Tận thế chính là ngày Đức Chúa Giê-su từ trời trở lại thế giới này. Ngày đó là bí mật, không ai biết được, nhưng Ngài đã tiết lộ cho các môn đệ những dấu hiệu sẽ xảy ra. Và tất cả những gì đang diễn ra trên thế giới hôm nay chính là những dấu hiệu ấy. Lời mời gọi dành cho mỗi người là hãy quan tâm đến Kinh Thánh, quan tâm đến cuộc đời mình, và quan tâm đến những điều thiêng liêng hơn là chỉ cơm áo gạo tiền hàng ngày.

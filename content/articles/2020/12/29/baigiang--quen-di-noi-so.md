@@ -30,7 +30,7 @@ Sợ hãi là một cảm xúc mạnh mẽ — nó làm tê liệt suy nghĩ và
 
 ## Lời Chúa Phán Trong Giờ Hoang Mang
 
-Chúa Giê-su thấy trước viễn cảnh các môn đệ hoang mang thế nào sau khi Ngài từ giã họ. Vì thế Ngài đã phán: *"Lòng các ngươi chớ hao bối rối, hãy tin Đức Chúa Trời, cũng hãy tin Ta nữa"* (Giăng 14:1).
+Đức Chúa Giê-su thấy trước viễn cảnh các môn đệ hoang mang thế nào sau khi Ngài từ giã họ. Vì thế Ngài đã phán: *"Lòng các ngươi chớ hao bối rối, hãy tin Đức Chúa Trời, cũng hãy tin Ta nữa"* (Giăng 14:1).
 
 Đó cũng là lời Chúa phán với mỗi chúng ta trong những ngày khó khăn hiện tại. Sự can đảm và đức tin là đôi bạn đồng hành. Chúa không hứa rằng đường đi sẽ bằng phẳng hay hoàn cảnh sẽ thuận lợi — Ngài hứa sẽ ở cùng và dẫn bước mỗi khi ta tin cậy.
 

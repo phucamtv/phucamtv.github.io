@@ -46,9 +46,9 @@ Gia-cơ 3:14-16 cảnh báo: nơi nào có ghen tương cay đắng và tranh c�
 
 ---
 
-## Chúa Giê-su: Không Bao Giờ Cay Đắng
+## Đức Chúa Giê-su: Không Bao Giờ Cay Đắng
 
-Giữa mọi sự vu khống, nhục mạ, đánh đập và khạc nhổ, Chúa Giê-su không bao giờ để tâm hồn Ngài trở nên cay đắng. Ngài vẫn giữ sự ngọt ngào như bản chất Thiên Thượng. Ngay cả khi bị cám dỗ trong đồng vắng, Ngài vẫn đáp lại bằng những lời lịch sự, đầy quyền năng.
+Giữa mọi sự vu khống, nhục mạ, đánh đập và khạc nhổ, Đức Chúa Giê-su không bao giờ để tâm hồn Ngài trở nên cay đắng. Ngài vẫn giữ sự ngọt ngào như bản chất Thiên Thượng. Ngay cả khi bị cám dỗ trong đồng vắng, Ngài vẫn đáp lại bằng những lời lịch sự, đầy quyền năng.
 
 Phao-lô kêu gọi trong Ê-phê-sô 4:31: *"Phải bỏ khỏi anh em những sự cay đắng, buồn giận, tức mình, kêu rêu, mắng nhiếc, cùng mọi điều hung ác."*
 
@@ -56,7 +56,7 @@ Phao-lô kêu gọi trong Ê-phê-sô 4:31: *"Phải bỏ khỏi anh em những 
 
 ## Giải Pháp Của Môi-se: Cầu Nguyện Thay Vì Đáp Trả
 
-Trước cơn thịnh nộ của hơn 600.000 người, Môi-se không chống lại, không đáp trả cay đắng bằng cay đắng. Ông chạy đến cầu nguyện với Đức Chúa Trời — và cầu xin Chúa ban nước cho dân sự, chứ không cầu xin trừng phạt họ. Ông đã sống trước lời dạy của Chúa Giê-su: hãy yêu kẻ thù nghịch và cầu nguyện cho kẻ bắt bớ.
+Trước cơn thịnh nộ của hơn 600.000 người, Môi-se không chống lại, không đáp trả cay đắng bằng cay đắng. Ông chạy đến cầu nguyện với Đức Chúa Trời — và cầu xin Chúa ban nước cho dân sự, chứ không cầu xin trừng phạt họ. Ông đã sống trước lời dạy của Đức Chúa Giê-su: hãy yêu kẻ thù nghịch và cầu nguyện cho kẻ bắt bớ.
 
 ---
 

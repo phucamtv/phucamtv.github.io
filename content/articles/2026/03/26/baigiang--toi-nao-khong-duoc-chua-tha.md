@@ -18,19 +18,19 @@ Bài giảng tối nay đi vào một chủ đề vô cùng nghiêm trọng mà 
 
 ---
 
-## Bối Cảnh: Người Pha-ri-si Chụp Mũ Chúa Giê-su
+## Bối Cảnh: Người Pha-ri-si Chụp Mũ Đức Chúa Giê-su
 
-Câu chuyện bắt đầu khi Chúa Giê-su chữa lành một người bị quỷ ám, vừa câm vừa đui. Dân chúng lấy làm lạ và hỏi nhau: phải chăng đây là con cháu vua Đa-vít? Nhưng những người Pha-ri-si thì đưa ra kết luận hoàn toàn ngược lại — họ nói rằng Chúa Giê-su nhờ chúa quỷ Bê-ên-xê-bun mà trừ quỷ.
+Câu chuyện bắt đầu khi Đức Chúa Giê-su chữa lành một người bị quỷ ám, vừa câm vừa đui. Dân chúng lấy làm lạ và hỏi nhau: phải chăng đây là con cháu vua Đa-vít? Nhưng những người Pha-ri-si thì đưa ra kết luận hoàn toàn ngược lại — họ nói rằng Đức Chúa Giê-su nhờ chúa quỷ Bê-ên-xê-bun mà trừ quỷ.
 
-Chúa Giê-su đã phản bác bằng lý luận rõ ràng: một nước mà chia xé nhau thì sao đứng vững được? Sa-tan trừ Sa-tan thì nước nó làm sao còn? Nếu muốn vào nhà người mạnh sức để cướp của, phải trói người mạnh sức trước rồi mới lấy được. Chúa cậy Đức Thánh Linh để đuổi quỷ, nhưng người Pha-ri-si lại gán cho Ngài thuộc về ma quỷ.
+Đức Chúa Giê-su đã phản bác bằng lý luận rõ ràng: một nước mà chia xé nhau thì sao đứng vững được? Sa-tan trừ Sa-tan thì nước nó làm sao còn? Nếu muốn vào nhà người mạnh sức để cướp của, phải trói người mạnh sức trước rồi mới lấy được. Chúa cậy Đức Thánh Linh để đuổi quỷ, nhưng người Pha-ri-si lại gán cho Ngài thuộc về ma quỷ.
 
-Đây chính là lời phạm thượng đến Đức Thánh Linh. Họ biết Chúa Giê-su đến từ đâu, có lời chứng của Giăng Báp-tít, có những phép lạ rõ ràng — nhưng vì Chúa không đi chung đường với họ, không thuận theo ý họ, nên họ đổi trắng thay đen, chụp mũ Ngài thuộc về ma quỷ.
+Đây chính là lời phạm thượng đến Đức Thánh Linh. Họ biết Đức Chúa Giê-su đến từ đâu, có lời chứng của Giăng Báp-tít, có những phép lạ rõ ràng — nhưng vì Chúa không đi chung đường với họ, không thuận theo ý họ, nên họ đổi trắng thay đen, chụp mũ Ngài thuộc về ma quỷ.
 
 ---
 
 ## Tội Phạm Thượng Đến Đức Thánh Linh Là Gì?
 
-Chúa Giê-su phán rất rõ trong câu 31-32: mọi tội lỗi và lời phạm thượng của người ta đều sẽ được tha, nhưng lời phạm thượng đến Đức Thánh Linh thì chẳng được tha, dù đời này hay đời sau. Sứ đồ Giăng cũng xác nhận trong Giăng I 5:16-17 rằng có tội đến nỗi chết, tội đó không cần phải cầu xin nữa.
+Đức Chúa Giê-su phán rất rõ trong câu 31-32: mọi tội lỗi và lời phạm thượng của người ta đều sẽ được tha, nhưng lời phạm thượng đến Đức Thánh Linh thì chẳng được tha, dù đời này hay đời sau. Sứ đồ Giăng cũng xác nhận trong Giăng I 5:16-17 rằng có tội đến nỗi chết, tội đó không cần phải cầu xin nữa.
 
 Điều đáng chú ý là Chúa không chỉ nói với người ngoại đạo. Ngài đang nói với những người đã biết Chúa, đã tin Chúa. Họ biết Đức Chúa Giê-su là ai, biết quyền năng của Đức Thánh Linh, nhưng vẫn cố ý gán công việc của Thánh Linh cho ma quỷ. Đây là sự phạm thượng nghiêm trọng nhất — chối bỏ và xúc phạm chính Đấng đang hành động.
 
@@ -50,13 +50,13 @@ Xúc phạm người thuộc về Chúa chính là xúc phạm Chúa. Khi Sau-l�
 
 Gia-cơ đoạn 3 cho thấy cái lưỡi tuy là quan thể nhỏ nhưng có sức tàn phá ghê gớm. Như chiếc tàu lớn được điều khiển bởi bánh lái nhỏ, như cánh rừng bạt ngàn bị thiêu rụi bởi một mồi lửa — cái lưỡi có thể đốt cháy cả đời sống của một người.
 
-Kinh Thánh khẳng định: không thể nào đồng một lỗ miệng mà ra cả sự ngợi khen và rủa sả. Không thể nào cùng cái miệng ngợi khen Chúa mà lại rủa sả loài người là loài được tạo dựng theo hình ảnh Đức Chúa Trời. Chúa Giê-su cũng phán trong Ma-thi-ơ 5:22 rằng ai mắng anh em mình là đồ điên thì đáng bị lửa địa ngục hình phạt.
+Kinh Thánh khẳng định: không thể nào đồng một lỗ miệng mà ra cả sự ngợi khen và rủa sả. Không thể nào cùng cái miệng ngợi khen Chúa mà lại rủa sả loài người là loài được tạo dựng theo hình ảnh Đức Chúa Trời. Đức Chúa Giê-su cũng phán trong Ma-thi-ơ 5:22 rằng ai mắng anh em mình là đồ điên thì đáng bị lửa địa ngục hình phạt.
 
 ---
 
 ## Lời Nói Phản Ánh Tấm Lòng
 
-Chúa Giê-su kết luận bằng hình ảnh cây và trái: cây tốt sinh trái tốt, cây xấu sinh trái xấu. Do sự đầy dẫy trong lòng mà miệng mới nói ra. Người lành từ nơi chứa điều thiện phát ra điều thiện, kẻ dữ từ nơi chứa điều ác phát ra điều ác.
+Đức Chúa Giê-su kết luận bằng hình ảnh cây và trái: cây tốt sinh trái tốt, cây xấu sinh trái xấu. Do sự đầy dẫy trong lòng mà miệng mới nói ra. Người lành từ nơi chứa điều thiện phát ra điều thiện, kẻ dữ từ nơi chứa điều ác phát ra điều ác.
 
 Lời nói không phải chuyện nhỏ — nó phản ánh trực tiếp con người bên trong. Đến ngày phán xét, người ta sẽ khai ra mọi lời hư không mà mình đã nói. Bởi lời nói mà được xưng công bình, cũng bởi lời nói mà bị phạt. Những ai coi thường lời nói, muốn nói gì thì nói, không cẩn trọng trong lời nói — đó là con đường dẫn đến sự phạm thượng.
 

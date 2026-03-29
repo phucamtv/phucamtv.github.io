@@ -2,7 +2,7 @@
 title: "Chúa Sống Lại — Những Lời Quan Trọng Của Chúa | Ma-thi-ơ 28:1-20"
 date: 2025-05-14
 url: /baigiang/chua-song-lai-nhung-loi-quan-trong-cua-chua/
-description: "Ma-thi-ơ 28:1-20 ghi lại sự kiện Chúa Giê-su phục sinh, sự gian dối của giới lãnh đạo tôn giáo nhằm dập tắt sự thật, và Đại Mạng Lệnh — lời tuyên bố quyền phép tối thượng của Đấng Christ cùng lời hứa đồng hành với con dân Ngài cho đến tận thế."
+description: "Ma-thi-ơ 28:1-20 ghi lại sự kiện Đức Chúa Giê-su phục sinh, sự gian dối của giới lãnh đạo tôn giáo nhằm dập tắt sự thật, và Đại Mạng Lệnh — lời tuyên bố quyền phép tối thượng của Đấng Christ cùng lời hứa đồng hành với con dân Ngài cho đến tận thế."
 tags: ["Ma-thi-ơ", "Phục Sinh", "Đại Mạng Lệnh", "Đức Tin", "Quyền Năng", "Sự Giả Dối", "Truyền Giáo", "Ngày Sa-bát"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -30,7 +30,7 @@ Phần thưởng cho sự trung tín kiên trì ấy thật đặc biệt: họ 
 
 1. **Hãy tin những gì Chúa đã phán** — Thiên sứ nhắc lại lời Chúa đã nói trước về sự chết và sự sống lại. Thông điệp cho chúng ta ngày nay cũng vậy: hãy bám chắc vào lời hứa của Đức Chúa Trời trong Kinh Thánh, đừng để đức tin bị lay động.
 
-2. **Hãy chia sẻ niềm vui** — Cả thiên sứ lẫn Chúa Giê-su đều truyền lệnh: "Hãy đi báo cho các môn đồ." Khi niềm vui cứu rỗi thật sự tràn ngập trong lòng, việc chia sẻ sẽ trở nên tự nhiên.
+2. **Hãy chia sẻ niềm vui** — Cả thiên sứ lẫn Đức Chúa Giê-su đều truyền lệnh: "Hãy đi báo cho các môn đồ." Khi niềm vui cứu rỗi thật sự tràn ngập trong lòng, việc chia sẻ sẽ trở nên tự nhiên.
 
 3. **Hãy vui mừng tột độ** — Chữ "mừng" Chúa dùng không phải lời chào xã giao, mà mang nghĩa khuấy động niềm vui lên, vui đến mức hai người phụ nữ chạy đến ôm lấy chân Ngài và thờ phượng.
 
@@ -40,7 +40,7 @@ Phần thưởng cho sự trung tín kiên trì ấy thật đặc biệt: họ 
 
 ### Bảy Mắt Xích Giả Dối
 
-Nỗ lực cuối cùng của các thầy tế lễ và trưởng lão nhằm dập tắt niềm tin nơi Chúa Giê-su phục sinh là cho lính canh rất nhiều tiền để phao tin rằng các môn đồ đã đến trộm xác. Đây chỉ là mắt xích cuối trong chuỗi bảy sự gian dối xuyên suốt cuộc khổ nạn:
+Nỗ lực cuối cùng của các thầy tế lễ và trưởng lão nhằm dập tắt niềm tin nơi Đức Chúa Giê-su phục sinh là cho lính canh rất nhiều tiền để phao tin rằng các môn đồ đã đến trộm xác. Đây chỉ là mắt xích cuối trong chuỗi bảy sự gian dối xuyên suốt cuộc khổ nạn:
 
 1. Nụ hôn phản bội của Giu-đa
 2. Phiên tòa lừa dối giữa đêm khuya
@@ -58,7 +58,7 @@ Sức mạnh của đồng tiền và sự gian dối luôn là công cụ đư�
 
 ### Quyền Phép Tối Thượng
 
-Sau khi sống lại, Chúa Giê-su tuyên bố: *"Hết cả quyền phép ở trên trời và dưới đất đã giao cho ta."* Trước khi làm người, Ngài có quyền trên trời nhưng địa cầu đã bị con người dâng cho ma quỷ. Chỉ sau khi chiến thắng trên thập tự giá và sống lại, Ngài mới tuyên bố quyền phép trọn vẹn cả trên trời lẫn dưới đất.
+Sau khi sống lại, Đức Chúa Giê-su tuyên bố: *"Hết cả quyền phép ở trên trời và dưới đất đã giao cho ta."* Trước khi làm người, Ngài có quyền trên trời nhưng địa cầu đã bị con người dâng cho ma quỷ. Chỉ sau khi chiến thắng trên thập tự giá và sống lại, Ngài mới tuyên bố quyền phép trọn vẹn cả trên trời lẫn dưới đất.
 
 ### Sứ Mạng Và Lời Hứa
 

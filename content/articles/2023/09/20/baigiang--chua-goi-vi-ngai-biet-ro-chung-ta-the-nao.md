@@ -37,7 +37,7 @@ Chúng ta có ở trong tâm thế sẵn sàng đó hay không? Chúng ta có �
 
 Ma-thi-ơ theo Chúa, trước hết ông mất công việc, mất lợi tức, mất tiện nghi, mất sự tự do. Lâu nay ông tự mình làm chủ, nhưng bây giờ đi theo một ông thầy là phải ở dưới sự điều khiển, không còn thoải mái.
 
-Nhưng ông được gì? Ông có lại danh dự của một con người — từ lâu bị khinh bỉ, xem thường, nhổ nước bọt. Ông có được sự bình an, hạnh phúc, niềm vui trong sự phục vụ thay vì niềm vui trong sự vơ vét. Và quan trọng hơn hết, ông là một trong 12 con người đặc biệt được Chúa Giê-su chọn. Ông còn mang theo "cây viết" của mình và trở thành người viết nên sách Phúc Âm đầu tiên của Tân Ước.
+Nhưng ông được gì? Ông có lại danh dự của một con người — từ lâu bị khinh bỉ, xem thường, nhổ nước bọt. Ông có được sự bình an, hạnh phúc, niềm vui trong sự phục vụ thay vì niềm vui trong sự vơ vét. Và quan trọng hơn hết, ông là một trong 12 con người đặc biệt được Đức Chúa Giê-su chọn. Ông còn mang theo "cây viết" của mình và trở thành người viết nên sách Phúc Âm đầu tiên của Tân Ước.
 
 ## Nơi nào cần Chúa thì Chúa đến
 
@@ -47,6 +47,6 @@ Câu trả lời này đánh thẳng vào những người tưởng rằng mình
 
 ## Bài học cho Hội Thánh ngày nay
 
-Qua câu chuyện này, Chúa Giê-su muốn nhắc nhở chúng ta bốn điều. Thứ nhất, đừng giữ mình thánh khiết bằng cách xa lánh tội nhân — Hội Thánh là nơi tất cả tội nhân đến để được Chúa chữa lành. Thứ hai, hãy khuyến khích hơn là chỉ trích — đừng lên án mà hãy nâng đỡ những người yếu đuối. Thứ ba, hãy thực hành sự cảm thông và tha thứ — vì Chúa tha thứ cho chúng ta bởi Ngài cảm thông sự yếu đuối của chúng ta. Thứ tư, đừng biến đức tin thành một tôn giáo bề ngoài — nhìn bên ngoài thì chính thống, tốt đẹp nhưng cuối cùng không giúp được ai.
+Qua câu chuyện này, Đức Chúa Giê-su muốn nhắc nhở chúng ta bốn điều. Thứ nhất, đừng giữ mình thánh khiết bằng cách xa lánh tội nhân — Hội Thánh là nơi tất cả tội nhân đến để được Chúa chữa lành. Thứ hai, hãy khuyến khích hơn là chỉ trích — đừng lên án mà hãy nâng đỡ những người yếu đuối. Thứ ba, hãy thực hành sự cảm thông và tha thứ — vì Chúa tha thứ cho chúng ta bởi Ngài cảm thông sự yếu đuối của chúng ta. Thứ tư, đừng biến đức tin thành một tôn giáo bề ngoài — nhìn bên ngoài thì chính thống, tốt đẹp nhưng cuối cùng không giúp được ai.
 
 Tóm lại, đừng bao giờ đánh giá người ta theo bề ngoài. Quá khứ của một người có thể tồi tệ, nhưng Đức Chúa Trời biết họ sẽ trở nên như thế nào. Chúa gọi chúng ta vì Ngài biết rõ chúng ta — và Ngài tin rằng chúng ta có thể được biến đổi.

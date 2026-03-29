@@ -22,7 +22,7 @@ Nhưng chỉ vài tháng, họ cảm thấy tâm linh mình khô hạn — nhữ
 
 ## Lời Nhắc Nhở Bất Ngờ
 
-Vào một buổi nhóm nọ, mục sư bước lên tòa giảng, ông choáng váng khi nhìn thấy một mẩu giấy để ở đó, với mấy chữ: *"Chúng tôi muốn thấy Chúa Giê-su."*
+Vào một buổi nhóm nọ, mục sư bước lên tòa giảng, ông choáng váng khi nhìn thấy một mẩu giấy để ở đó, với mấy chữ: *"Chúng tôi muốn thấy Đức Chúa Giê-su."*
 
 Như một gáo nước lạnh dội vào lưng, mục sư bừng tỉnh. Từ ấy, người hạ mình xuống trước mặt Chúa, tìm kiếm những kinh nghiệm trong mối thông công với Ngài, để những gì người giảng đều chứa đựng sự sống của Chúa.
 

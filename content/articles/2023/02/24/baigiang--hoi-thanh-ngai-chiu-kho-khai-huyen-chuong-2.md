@@ -49,7 +49,7 @@ Lời nói là vũ khí nguy hiểm. Ma quỷ đã dùng lời nói để lừa 
 
 Mục Sư trích Gia-cơ 1:19: *"Người nào cũng phải mau nghe mà chậm nói, chậm giận."* Chúa kêu gọi chúng ta mau nghe lời Ngài — nghe những điều lành mạnh, tập trung vào Lời Chúa, không để những lời tiêu cực làm suy giảm đức tin.
 
-Ngay cả Chúa Giê-su cũng bị dèm pha: Ngài chữa lành, đuổi quỷ, làm việc lành — nhưng họ bảo Ngài bị quỷ nhập. Điều đó nhắc chúng ta rằng lời dèm pha là chuyện bình thường trong hành trình theo Chúa.
+Ngay cả Đức Chúa Giê-su cũng bị dèm pha: Ngài chữa lành, đuổi quỷ, làm việc lành — nhưng họ bảo Ngài bị quỷ nhập. Điều đó nhắc chúng ta rằng lời dèm pha là chuyện bình thường trong hành trình theo Chúa.
 
 ### 3. Khổ Vì Bị Thử Thách Và Hoạn Nạn
 
@@ -57,7 +57,7 @@ Câu 10 chép: *"Ma quỷ sẽ quăng nhiều kẻ trong các ngươi vào ngụ
 
 Chúa cho phép hoạn nạn đến với con cái Ngài không phải để hại họ, mà để thử thách đức tin. Gia-cơ 1:2–4 dạy: *"Hãy coi sự thử thách trăm bề thọt đến cho anh em như là điều vui mừng trọn vẹn, vì biết rằng sự thử thách đức tin anh em sanh ra sự nhịn nhục."*
 
-Không ai có thể biết đức tin của mình đến mức nào nếu chưa qua thử thách. Chính Chúa Giê-su đã khổ; các tiên tri, sứ đồ đều chịu khổ. Chúa không bao giờ để cám dỗ quá sức chịu đựng của chúng ta — Ngài luôn có lý do và mục đích trong mọi hoàn cảnh Ngài cho phép xảy ra.
+Không ai có thể biết đức tin của mình đến mức nào nếu chưa qua thử thách. Chính Đức Chúa Giê-su đã khổ; các tiên tri, sứ đồ đều chịu khổ. Chúa không bao giờ để cám dỗ quá sức chịu đựng của chúng ta — Ngài luôn có lý do và mục đích trong mọi hoàn cảnh Ngài cho phép xảy ra.
 
 ---
 

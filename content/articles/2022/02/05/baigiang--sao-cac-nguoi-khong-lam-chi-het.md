@@ -12,7 +12,7 @@ draft: false
 
 {{< youtube "VP8wmPmxV5U" >}}
 
-Trong Ma-thi-ơ đoạn 20 từ câu 1 đến 16, Chúa Giê-xu kể ẩn dụ về người làm công trong vườn nho. Ước chừng giờ thứ mười một -- tức khoảng năm giờ chiều theo cách tính giờ của người Do Thái -- người chủ ra chợ thấy những kẻ đứng không, bèn hỏi: "Sao các ngươi đứng đây cả ngày không làm gì hết?" Họ trả lời vì không ai mướn. Nhưng nếu tách riêng câu hỏi này áp dụng cho đời sống thuộc linh, đó là lời Chúa đang chất vấn mỗi cơ đốc nhân chúng ta.
+Trong Ma-thi-ơ đoạn 20 từ câu 1 đến 16, Đức Chúa Giê-su kể ẩn dụ về người làm công trong vườn nho. Ước chừng giờ thứ mười một -- tức khoảng năm giờ chiều theo cách tính giờ của người Do Thái -- người chủ ra chợ thấy những kẻ đứng không, bèn hỏi: "Sao các ngươi đứng đây cả ngày không làm gì hết?" Họ trả lời vì không ai mướn. Nhưng nếu tách riêng câu hỏi này áp dụng cho đời sống thuộc linh, đó là lời Chúa đang chất vấn mỗi cơ đốc nhân chúng ta.
 
 ## Trách nhiệm của Hội Thánh
 

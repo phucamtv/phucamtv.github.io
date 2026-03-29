@@ -52,13 +52,13 @@ Bài giảng cũng điểm qua những nhân vật bình dị nhưng có tác đ
 
 ---
 
-## Chúa Giê-su: Nhà Truyền Giáo Vĩ Đại Nhất
+## Đức Chúa Giê-su: Nhà Truyền Giáo Vĩ Đại Nhất
 
-Trong Tân Ước, kế hoạch truyền giáo đạt đến đỉnh điểm khi chính Đức Chúa Trời trở thành người. Giăng 1:1, 14 mô tả Ngài là *Ngôi Lời* — vì lời nói là phương tiện để diễn đạt tư tưởng. Thượng Đế vốn không thể tiếp cận bởi sự vinh quang rực rỡ và sự thánh khiết tuyệt đối; con người tội lỗi không thể chịu đựng sự hiện diện trực tiếp của Ngài. Vì thế cần một Đấng Trung Gian, và Chúa Giê-su chính là Ngôi Lời — cầu nối giữa Đức Chúa Trời và nhân loại.
+Trong Tân Ước, kế hoạch truyền giáo đạt đến đỉnh điểm khi chính Đức Chúa Trời trở thành người. Giăng 1:1, 14 mô tả Ngài là *Ngôi Lời* — vì lời nói là phương tiện để diễn đạt tư tưởng. Thượng Đế vốn không thể tiếp cận bởi sự vinh quang rực rỡ và sự thánh khiết tuyệt đối; con người tội lỗi không thể chịu đựng sự hiện diện trực tiếp của Ngài. Vì thế cần một Đấng Trung Gian, và Đức Chúa Giê-su chính là Ngôi Lời — cầu nối giữa Đức Chúa Trời và nhân loại.
 
-Chúa Giê-su đã đào tạo các môn đệ sát cánh bên Ngài: để họ nhìn thấy Ngài làm, học theo những gì Ngài nói, sống giống như Ngài sống, rồi cùng an ủi và phục vụ những người đến với Ngài. Ngài sai từng đôi một, rồi bảy mươi người đi, trao cho họ quyền năng và hướng dẫn cụ thể.
+Đức Chúa Giê-su đã đào tạo các môn đệ sát cánh bên Ngài: để họ nhìn thấy Ngài làm, học theo những gì Ngài nói, sống giống như Ngài sống, rồi cùng an ủi và phục vụ những người đến với Ngài. Ngài sai từng đôi một, rồi bảy mươi người đi, trao cho họ quyền năng và hướng dẫn cụ thể.
 
-Sau khi phục sinh, ngay lúc các phụ nữ đến thăm mộ, sứ mệnh không dừng lại. Hai môn đệ trên đường Ê-mau sau khi nhận ra Chúa Giê-su đã lập tức quay trở lại truyền tin cho mọi người: *Chúa đã chết và sống lại*. Công việc truyền giáo không bị gián đoạn dù Ngài đã thăng thiên.
+Sau khi phục sinh, ngay lúc các phụ nữ đến thăm mộ, sứ mệnh không dừng lại. Hai môn đệ trên đường Ê-mau sau khi nhận ra Đức Chúa Giê-su đã lập tức quay trở lại truyền tin cho mọi người: *Chúa đã chết và sống lại*. Công việc truyền giáo không bị gián đoạn dù Ngài đã thăng thiên.
 
 ---
 

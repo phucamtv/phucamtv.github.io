@@ -14,19 +14,19 @@ draft: false
 
 ## Chủ Đề Của Tuần Lễ Cầu Nguyện Cuối Năm 2025
 
-Đây là bài giảng bồi linh mở đầu cho tuần lễ cầu nguyện cuối năm 2025, với chủ đề xuyên suốt: *"Tôi sẽ đi và rao truyền sự tái lâm của Đấng Cơ Đốc."* Mục sư Dương Quang Thoại mở ra sứ điệp với lời cầu nguyện xin Chúa giúp hội thánh quay lại với Kinh Thánh — để lòng được đốt nóng trở lại, và tấm lòng được chuẩn bị cho ngày Chúa Giê-su trở lại.
+Đây là bài giảng bồi linh mở đầu cho tuần lễ cầu nguyện cuối năm 2025, với chủ đề xuyên suốt: *"Tôi sẽ đi và rao truyền sự tái lâm của Đấng Cơ Đốc."* Mục sư Dương Quang Thoại mở ra sứ điệp với lời cầu nguyện xin Chúa giúp hội thánh quay lại với Kinh Thánh — để lòng được đốt nóng trở lại, và tấm lòng được chuẩn bị cho ngày Đức Chúa Giê-su trở lại.
 
 ---
 
 ## 1. Chúa Chắc Chắn Sẽ Trở Lại
 
-Mục sư nhắc lại rằng đây không phải một điều có thể nghi ngờ: Chúa Giê-su đã hứa với các môn đồ rất rõ ràng trong Giăng 14:2-3:
+Mục sư nhắc lại rằng đây không phải một điều có thể nghi ngờ: Đức Chúa Giê-su đã hứa với các môn đồ rất rõ ràng trong Giăng 14:2-3:
 
 > *"Ta đi sắm sẵn cho các ngươi một chỗ… ta sẽ trở lại đem các ngươi đi với ta, hầu cho ta ở đâu thì các ngươi cũng ở đó."*
 
-Lời hứa này bao gồm hai mục đích: ra đi để chuẩn bị chỗ, và trở lại để đem chúng ta cùng về. Câu nói ẩn chứa tình yêu sâu xa — những người yêu thương nhau không muốn xa cách. Chúa Giê-su đã đích thân trải qua cuộc đời con người, chứng kiến bệnh tật, đau khổ, chia lìa, và sự chết. Từ kinh nghiệm đó, Ngài càng khao khát được ở gần những người Ngài yêu thương.
+Lời hứa này bao gồm hai mục đích: ra đi để chuẩn bị chỗ, và trở lại để đem chúng ta cùng về. Câu nói ẩn chứa tình yêu sâu xa — những người yêu thương nhau không muốn xa cách. Đức Chúa Giê-su đã đích thân trải qua cuộc đời con người, chứng kiến bệnh tật, đau khổ, chia lìa, và sự chết. Từ kinh nghiệm đó, Ngài càng khao khát được ở gần những người Ngài yêu thương.
 
-Sách Khải-huyền chương 22, ba lần trong cùng một đoạn, Chúa Giê-su nhấn mạnh: *"Này, ta đến mau chóng."* Không phải Ngài muốn kéo dài, mà ngược lại — Ngài nôn nao trở lại. Nếu Chúa còn nôn nao như vậy, thì tại sao chúng ta lại thờ ơ?
+Sách Khải-huyền chương 22, ba lần trong cùng một đoạn, Đức Chúa Giê-su nhấn mạnh: *"Này, ta đến mau chóng."* Không phải Ngài muốn kéo dài, mà ngược lại — Ngài nôn nao trở lại. Nếu Chúa còn nôn nao như vậy, thì tại sao chúng ta lại thờ ơ?
 
 ---
 
@@ -54,6 +54,6 @@ A-mốt 4:12 kết thúc với một lời nhắn thẳng thắn: *"Hãy sửa s
 
 ## Kết Luận
 
-Sứ điệp mở đầu tuần lễ bồi linh này không phải để dọa nạt, mà để thức tỉnh. Chúa Giê-su đã hứa sẽ trở lại — đó là sự thật chắc chắn. Vấn đề không phải Ngài có trở lại không, mà là khi Ngài trở lại, chúng ta đang ở đâu và đang làm gì. Niềm hy vọng về sự tái lâm không phải là điều viển vông của thế kỷ trước — đó là niềm hy vọng sống động nhất, thiết thực nhất mà người tin Chúa có thể có trong thời đại này.
+Sứ điệp mở đầu tuần lễ bồi linh này không phải để dọa nạt, mà để thức tỉnh. Đức Chúa Giê-su đã hứa sẽ trở lại — đó là sự thật chắc chắn. Vấn đề không phải Ngài có trở lại không, mà là khi Ngài trở lại, chúng ta đang ở đâu và đang làm gì. Niềm hy vọng về sự tái lâm không phải là điều viển vông của thế kỷ trước — đó là niềm hy vọng sống động nhất, thiết thực nhất mà người tin Chúa có thể có trong thời đại này.
 
 Hãy để lời Chúa đốt nóng lại tấm lòng. Hãy để sự trông đợi đó trở thành động lực sống thánh khiết, làm chứng dạn dĩ, và trung tín trong từng công việc nhỏ nhất mỗi ngày.

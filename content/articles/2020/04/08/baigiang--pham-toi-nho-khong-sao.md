@@ -38,7 +38,7 @@ Giống như cây nhỏ trong rừng: hôm nay nhỏ, ngày mai sẽ lớn. Tộ
 
 ### Luật Pháp Đức Chúa Trời Không Phân Biệt Tội Nhỏ Hay Lớn
 
-Sự phân tích của Chúa Giê-su về luật pháp trong Ma-thi-ơ 5:21-30 cho thấy luật pháp Đức Chúa Trời chi phối cả những hành vi và ý tưởng nhỏ nhặt trong đời sống thường nhật. Không chỉ là hành động bên ngoài, mà ngay cả trong tư tưởng, trong lời nói, trong những quyết định nhỏ hàng ngày — luật pháp Ngài vẫn có hiệu lực.
+Sự phân tích của Đức Chúa Giê-su về luật pháp trong Ma-thi-ơ 5:21-30 cho thấy luật pháp Đức Chúa Trời chi phối cả những hành vi và ý tưởng nhỏ nhặt trong đời sống thường nhật. Không chỉ là hành động bên ngoài, mà ngay cả trong tư tưởng, trong lời nói, trong những quyết định nhỏ hàng ngày — luật pháp Ngài vẫn có hiệu lực.
 
 Sứ đồ Phao-lô nhắc nhở rõ ràng: *"Bất cứ việc gì tựa như điều ác, thì phải tránh đi."* (I Tê-sa-lô-ni-ca 5:22)
 

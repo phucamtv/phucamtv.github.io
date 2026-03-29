@@ -2,8 +2,8 @@
 title: "Nếu Mọi Người Đều Sống Tử Tế"
 date: 2016-02-15
 url: /baigiang/neu-moi-nguoi-deu-song-tu-te/
-description: "Bài giảng truyền giảng về sự tử tế trong đời sống — từ gia đình đến xã hội. Dựa trên Ma-thi-ơ 7:12 và Lu-ca 6:32-35, Mục sư Dương Quang Thoại kêu gọi mọi người sống tử tế theo gương Chúa Giê-su, ngay cả với kẻ thù."
-tags: ["Tử Tế", "Tình Yêu Thương", "Gia Đình", "Truyền Giảng", "Chúa Giê-su", "Luật Vàng"]
+description: "Bài giảng truyền giảng về sự tử tế trong đời sống — từ gia đình đến xã hội. Dựa trên Ma-thi-ơ 7:12 và Lu-ca 6:32-35, Mục sư Dương Quang Thoại kêu gọi mọi người sống tử tế theo gương Đức Chúa Giê-su, ngay cả với kẻ thù."
+tags: ["Tử Tế", "Tình Yêu Thương", "Gia Đình", "Truyền Giảng", "Đức Chúa Giê-su", "Luật Vàng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["Gw01D_mutq0"]
@@ -30,7 +30,7 @@ Người Nhật, người Hàn Quốc, người Thái Lan vẫn giữ được v
 
 Ma-thi-ơ đoạn 7, câu 12 chép rằng: *"Hễ điều chi mà các con muốn người ta làm cho mình, thì cũng hãy làm điều đó cho họ, vì ấy là luật pháp và lời tiên tri."*
 
-Nhiều nhà nghiên cứu Kinh Thánh gọi đây là "Luật Vàng." Tục ngữ Do Thái có câu tương tự nhưng mang tính thụ động: "Điều gì không muốn người ta làm cho mình thì đừng làm cho họ." Chúa Giê-su đã chuyển nó thành trạng thái tích cực — hãy chủ động làm điều tốt trước. Nếu chúng ta thuộc nằm lòng và áp dụng câu Kinh Thánh này hằng ngày, cuộc sống sẽ vô cùng tốt đẹp.
+Nhiều nhà nghiên cứu Kinh Thánh gọi đây là "Luật Vàng." Tục ngữ Do Thái có câu tương tự nhưng mang tính thụ động: "Điều gì không muốn người ta làm cho mình thì đừng làm cho họ." Đức Chúa Giê-su đã chuyển nó thành trạng thái tích cực — hãy chủ động làm điều tốt trước. Nếu chúng ta thuộc nằm lòng và áp dụng câu Kinh Thánh này hằng ngày, cuộc sống sẽ vô cùng tốt đẹp.
 
 ## Khủng Hoảng Về Lòng Tử Tế Trong Xã Hội
 
@@ -52,12 +52,12 @@ Câu chuyện quan tri huyện Tống Tửu ở biên giới nước Lương và
 
 Hành động tử tế bao giờ cũng mang lại kết quả tốt đẹp. Chúng ta có thể có sự hòa bình với chồng vợ, con cái, anh em, bè bạn, hàng xóm — nếu biết sống tử tế và giảm bớt thù hận, cay đắng.
 
-## Gương Tử Tế Tuyệt Vời Của Chúa Giê-su
+## Gương Tử Tế Tuyệt Vời Của Đức Chúa Giê-su
 
-Lu-ca đoạn 6, câu 32-35 dạy rằng yêu kẻ yêu mình thì có gì đặc biệt đâu — người có tội cũng làm như vậy. Chúa Giê-su kêu gọi chúng ta tạo nên sự khác biệt: hãy yêu kẻ thù, hãy làm ơn, hãy cho mượn và đừng ngã lòng.
+Lu-ca đoạn 6, câu 32-35 dạy rằng yêu kẻ yêu mình thì có gì đặc biệt đâu — người có tội cũng làm như vậy. Đức Chúa Giê-su kêu gọi chúng ta tạo nên sự khác biệt: hãy yêu kẻ thù, hãy làm ơn, hãy cho mượn và đừng ngã lòng.
 
-Tại vườn Ghết-sê-ma-nê, khi Giu-đa phản bội bằng nụ hôn, Chúa Giê-su không nổi giận mà chỉ nói: "Bạn ơi, vậy thì vì việc này mà ngươi đến đây sao?" Và trên thập tự giá, Ngài cầu nguyện: *"Lạy Cha, xin tha cho họ, vì họ không biết mình làm điều gì."* Đó là sự tử tế tuyệt đỉnh — biện hộ và tha thứ cho chính kẻ thù của mình.
+Tại vườn Ghết-sê-ma-nê, khi Giu-đa phản bội bằng nụ hôn, Đức Chúa Giê-su không nổi giận mà chỉ nói: "Bạn ơi, vậy thì vì việc này mà ngươi đến đây sao?" Và trên thập tự giá, Ngài cầu nguyện: *"Lạy Cha, xin tha cho họ, vì họ không biết mình làm điều gì."* Đó là sự tử tế tuyệt đỉnh — biện hộ và tha thứ cho chính kẻ thù của mình.
 
 ## Kết Luận: Hãy Tạo Nên Những Mắt Xích Tình Yêu
 
-Mẹ Teresa đã nói: việc tốt là những mắt xích tạo nên sợi xích tình yêu. Hãy thực hành sự tử tế trong đời sống hằng ngày — bắt đầu ngay trong gia đình, rồi mở rộng ra xã hội. Hãy noi theo gương Chúa Giê-su, giữ gìn tấm lòng, yêu thương hòa mình, cảm thông và tha thứ. Dù hoàn cảnh nào, chúng ta vẫn có thể trở thành người tử tế giữa một thế giới thiếu vắng sự tử tế.
+Mẹ Teresa đã nói: việc tốt là những mắt xích tạo nên sợi xích tình yêu. Hãy thực hành sự tử tế trong đời sống hằng ngày — bắt đầu ngay trong gia đình, rồi mở rộng ra xã hội. Hãy noi theo gương Đức Chúa Giê-su, giữ gìn tấm lòng, yêu thương hòa mình, cảm thông và tha thứ. Dù hoàn cảnh nào, chúng ta vẫn có thể trở thành người tử tế giữa một thế giới thiếu vắng sự tử tế.

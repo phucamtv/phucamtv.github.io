@@ -14,9 +14,9 @@ draft: false
 
 ## Kết Nối — Nhu Cầu Cốt Lõi Của Con Người
 
-Lu-ca 6:46-49 ghi lại lời Chúa Giê-su: "Sao các ngươi gọi ta: Chúa, Chúa, mà không làm theo lời ta phán?" Trong câu 47, Ngài phán: "Ta sẽ chỉ cho các ngươi biết kẻ nào đến cùng ta, nghe lời ta, và làm theo, thì giống ai." Phần 3 của loạt bài giảng tập trung vào ba chữ "đến cùng ta" — bước đầu tiên và không thể thiếu trong đời sống đức tin.
+Lu-ca 6:46-49 ghi lại lời Đức Chúa Giê-su: "Sao các ngươi gọi ta: Chúa, Chúa, mà không làm theo lời ta phán?" Trong câu 47, Ngài phán: "Ta sẽ chỉ cho các ngươi biết kẻ nào đến cùng ta, nghe lời ta, và làm theo, thì giống ai." Phần 3 của loạt bài giảng tập trung vào ba chữ "đến cùng ta" — bước đầu tiên và không thể thiếu trong đời sống đức tin.
 
-Thế giới ngày nay là thế giới của sự kết nối. Mạng xã hội khuyến khích con người kết nối với nhau, và sự kết nối trở nên dễ dàng hơn bao giờ hết. Nhưng đại dịch COVID-19 đã phá vỡ nhiều liên kết giữa người với người. Giữa bối cảnh đó, Chúa Giê-su nhắc chúng ta rằng sự kết nối quan trọng nhất chính là kết nối với Ngài. Khi xa cách Chúa, con người đi vào con đường bế tắc và thất bại.
+Thế giới ngày nay là thế giới của sự kết nối. Mạng xã hội khuyến khích con người kết nối với nhau, và sự kết nối trở nên dễ dàng hơn bao giờ hết. Nhưng đại dịch COVID-19 đã phá vỡ nhiều liên kết giữa người với người. Giữa bối cảnh đó, Đức Chúa Giê-su nhắc chúng ta rằng sự kết nối quan trọng nhất chính là kết nối với Ngài. Khi xa cách Chúa, con người đi vào con đường bế tắc và thất bại.
 
 ---
 
@@ -32,7 +32,7 @@ Dù có thể chùn bước vì xấu hổ, dù ra đi với lời hứa thành 
 
 Giê-rê-mi 5:25 cảnh báo: "Sự gian ác các ngươi đã làm cho những sự ấy xa cách, tội lỗi các ngươi ngăn trở các ngươi được phước." Tội lỗi chính là rào cản lớn nhất ngăn chúng ta nhận ơn phước từ Chúa.
 
-Chúa Giê-su dùng ẩn dụ người gieo giống với bốn loại đất trong Mác 4. Loại đất thứ ba — đất có bụi gai — đáng sợ nhất cho những Cơ-đốc nhân lâu năm. Đó là khi sự lo lắng về đời này, sự mê đắm giàu sang và các ham muốn khác che mờ mắt, cản trở mối tương giao với Đức Chúa Trời. Quá nhiều thứ chúng ta yêu thích và ưu tiên đã ngăn trở bước chân đến với Ngài.
+Đức Chúa Giê-su dùng ẩn dụ người gieo giống với bốn loại đất trong Mác 4. Loại đất thứ ba — đất có bụi gai — đáng sợ nhất cho những Cơ-đốc nhân lâu năm. Đó là khi sự lo lắng về đời này, sự mê đắm giàu sang và các ham muốn khác che mờ mắt, cản trở mối tương giao với Đức Chúa Trời. Quá nhiều thứ chúng ta yêu thích và ưu tiên đã ngăn trở bước chân đến với Ngài.
 
 ---
 

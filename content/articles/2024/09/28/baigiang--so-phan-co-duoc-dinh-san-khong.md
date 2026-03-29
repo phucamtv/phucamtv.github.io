@@ -48,7 +48,7 @@ Kinh Thánh cho chúng ta ba tấm gương điển hình:
 
 **Sa-lô-môn** — được ban cho sự khôn ngoan vô song mà thế gian chưa từng có. Nhưng ông lấy 700 bà vợ, 300 cung phi, và về già thờ cúng các thần của những bà vợ ngoại đạo. Sự khôn ngoan không bảo đảm số phận tốt lành nếu chính người đó không chọn đi theo Chúa.
 
-**Giu-đa Ích-ca-ri-ốt** — được Chúa Giê-su chính tay chọn làm một trong 12 sứ đồ. Nhưng rồi ông phản Chúa. Giăng 6:70 ghi: *"Ta há chẳng đã chọn các ngươi làm mười hai sứ đồ sao? Mà một người trong các ngươi là quỷ."*
+**Giu-đa Ích-ca-ri-ốt** — được Đức Chúa Giê-su chính tay chọn làm một trong 12 sứ đồ. Nhưng rồi ông phản Chúa. Giăng 6:70 ghi: *"Ta há chẳng đã chọn các ngươi làm mười hai sứ đồ sao? Mà một người trong các ngươi là quỷ."*
 
 Cả ba người đều được Chúa chọn — nhưng Chúa không ấn định số phận của họ. Họ tự quyết định.
 

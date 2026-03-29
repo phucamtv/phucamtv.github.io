@@ -30,7 +30,7 @@ Suốt 120 năm, Nô-ê đứng bên công trình đóng tàu để kêu gọi m
 
 Câu chuyện Lót tại Sô-đôm càng đau xót hơn. Dù thiên sứ đã đến tận nhà cảnh báo, Lót vẫn "lần lửa" — lừng khừng, nửa muốn đi nửa muốn ở. Cái giá phải trả: hai con rể tưởng ông nói chơi nên kẹt lại trong thành bị hủy diệt; vợ ông quay đầu nhìn lại và hóa thành tượng muối; hai con gái ông sau đó phạm tội loạn luân.
 
-Đây là thái độ mà Chúa Giê-su cảnh cáo hội thánh Lao-đi-xê: không nóng cũng không lạnh. Không bỏ Chúa nhưng cũng không yêu Chúa đủ để giao trọn cuộc đời mình cho Ngài. Vẫn có mặt trong buổi thờ phượng nhưng trong mọi sinh hoạt vẫn tự mình làm chủ thay vì để Chúa làm chủ.
+Đây là thái độ mà Đức Chúa Giê-su cảnh cáo hội thánh Lao-đi-xê: không nóng cũng không lạnh. Không bỏ Chúa nhưng cũng không yêu Chúa đủ để giao trọn cuộc đời mình cho Ngài. Vẫn có mặt trong buổi thờ phượng nhưng trong mọi sinh hoạt vẫn tự mình làm chủ thay vì để Chúa làm chủ.
 
 ## Bài Học Từ Giô-na: Sự Ăn Năn Thay Đổi Số Phận
 
@@ -46,4 +46,4 @@ Nhưng ấn tượng nhất là câu chuyện tên trộm bên hữu Chúa trên
 
 ## Kết Luận: Thì Giờ Đã Gần
 
-Kinh Thánh liên tục thúc giục: *"Thì giờ đã gần rồi"* (Khải Huyền 1:3). Sô-phô-ni 1:14 cảnh báo ngày lớn của Đức Giê-hô-va đã gần và đến rất nhanh. Chính Chúa Giê-su xác nhận: *"Ta đến mau chóng"* (Khải Huyền 22:12,20). Giống như đứa trẻ xin ngủ thêm nhưng đồng hồ vẫn quay và cửa trường sẽ đóng lại, chúng ta không thể chần chờ thêm nữa. Hãy trân trọng từng giây phút, hãy ăn năn ngay hôm nay, và hãy sẵn sàng cho ngày Chúa trở lại — vì đó có thể là quyết định ở những giây cuối cùng của đời mình.
+Kinh Thánh liên tục thúc giục: *"Thì giờ đã gần rồi"* (Khải Huyền 1:3). Sô-phô-ni 1:14 cảnh báo ngày lớn của Đức Giê-hô-va đã gần và đến rất nhanh. Chính Đức Chúa Giê-su xác nhận: *"Ta đến mau chóng"* (Khải Huyền 22:12,20). Giống như đứa trẻ xin ngủ thêm nhưng đồng hồ vẫn quay và cửa trường sẽ đóng lại, chúng ta không thể chần chờ thêm nữa. Hãy trân trọng từng giây phút, hãy ăn năn ngay hôm nay, và hãy sẵn sàng cho ngày Chúa trở lại — vì đó có thể là quyết định ở những giây cuối cùng của đời mình.

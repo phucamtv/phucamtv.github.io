@@ -70,7 +70,7 @@ Không có gánh nặng nào nặng bằng gánh nặng tội lỗi. Nhưng Cơ 
 
 > *"Lời hứa mà chính Ngài đã hứa cùng chúng ta, ấy là sự sống đời đời."* — 1 Giăng 2:25
 
-Qua tuổi 60, con người nhìn cuộc đời khác hẳn — nhận ra sự sống này quá ngắn ngủi và tạm bợ. Chúng ta hy vọng vào một cuộc sống không có đau khổ, không có nước mắt, và đặc biệt là không có sự chết. Thân xác cũ phải chết đi để chúng ta được biến hóa mang lấy thân xác mới, giống như Chúa Giê-su khi Ngài sống lại.
+Qua tuổi 60, con người nhìn cuộc đời khác hẳn — nhận ra sự sống này quá ngắn ngủi và tạm bợ. Chúng ta hy vọng vào một cuộc sống không có đau khổ, không có nước mắt, và đặc biệt là không có sự chết. Thân xác cũ phải chết đi để chúng ta được biến hóa mang lấy thân xác mới, giống như Đức Chúa Giê-su khi Ngài sống lại.
 
 ### Lời hứa về sự tái lâm và Nước Thiên Đàng
 

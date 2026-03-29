@@ -47,7 +47,7 @@ Tóm lại, phước cho người nhu mì có thể hiểu rộng ra: phước c
 
 Ma-thi-ơ 5:6 tiếp tục: phước cho những kẻ đói khát sự công bình, vì sẽ được no đủ. Để hiểu sức nặng của chữ "đói khát," cần hình dung hoàn cảnh người Israel đương thời: một người làm công chỉ vừa đủ trang trải, mỗi tuần mới có một bữa thịt, và ở vùng bán sa mạc Palestine, nước khan hiếm đến nỗi phụ nữ phải đi xa múc từng gàu nước về chỉ đủ để uống và nấu ăn.
 
-Điều đáng chú ý là trong tiếng Hy Lạp, có chữ "đói" nghĩa là muốn ăn một phần bánh, nhưng chữ được dùng ở đây là muốn ăn cả ổ bánh. Có chữ "khát" là muốn uống một ngụm nước, nhưng chữ ở đây là muốn uống tất cả nước. Chúa Giê-su đòi hỏi sự khao khát toàn phần, không chọn lọc.
+Điều đáng chú ý là trong tiếng Hy Lạp, có chữ "đói" nghĩa là muốn ăn một phần bánh, nhưng chữ được dùng ở đây là muốn ăn cả ổ bánh. Có chữ "khát" là muốn uống một ngụm nước, nhưng chữ ở đây là muốn uống tất cả nước. Đức Chúa Giê-su đòi hỏi sự khao khát toàn phần, không chọn lọc.
 
 ---
 

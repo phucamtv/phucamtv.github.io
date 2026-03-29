@@ -26,7 +26,7 @@ Tuần trước đó, Phao-lô và Ba-na-ba vào nhà hội giảng dạy. Mọi
 
 ### Lòng ghen ghét và sự mắng nhiếc
 
-Người Do Thái không chấp nhận Giê-su ở Na-xa-rét là Đấng Mê-si. Họ tin Cựu Ước nhưng không đồng ý cách giải nghĩa các lời tiên tri ứng nghiệm nơi Chúa Giê-su. Hơn nữa, họ mang trong mình quan niệm truyền đời rằng chỉ người Do Thái mới xứng đáng nhận ơn phước của Đức Chúa Trời — còn dân ngoại là không đáng kể.
+Người Do Thái không chấp nhận Giê-su ở Na-xa-rét là Đấng Mê-si. Họ tin Cựu Ước nhưng không đồng ý cách giải nghĩa các lời tiên tri ứng nghiệm nơi Đức Chúa Giê-su. Hơn nữa, họ mang trong mình quan niệm truyền đời rằng chỉ người Do Thái mới xứng đáng nhận ơn phước của Đức Chúa Trời — còn dân ngoại là không đáng kể.
 
 Khi thấy dân ngoại đông đảo đến nghe đạo và tin Chúa, lòng ghen ghét bùng lên. Họ mắng nhiếc Phao-lô bằng những lời rất nặng nề. Nhưng Phao-lô và Ba-na-ba đã dạn dĩ đáp lại: chính người Do Thái được ưu tiên nghe đạo trước, nhưng vì họ từ chối và tự xét mình không xứng đáng nhận sự sống đời đời, nên phúc âm được đem đến cho dân ngoại.
 
@@ -38,7 +38,7 @@ Khi rời An-ti-ốt, hai ông phủi bụi dưới chân — một tập quán 
 
 ### Bài học: Chịu nhục vì danh Chúa
 
-Ngày nay, khi chia sẻ lời Chúa cho người khác, nhiều anh chị em cũng gặp cảnh bị xua đuổi, chửi bới, nói nặng. Nhưng điều đó không mới. Chính Chúa Giê-su đã bị đối xử như vậy. Các sứ đồ khi bị mắng nhiếc chắc hẳn đã nghĩ đến Đức Thầy của mình — nếu Thầy còn bị chửi thì trò là gì mà không chịu nổi? Đây là bài học về sự nhẫn nhịn và chịu đựng trong đức tin.
+Ngày nay, khi chia sẻ lời Chúa cho người khác, nhiều anh chị em cũng gặp cảnh bị xua đuổi, chửi bới, nói nặng. Nhưng điều đó không mới. Chính Đức Chúa Giê-su đã bị đối xử như vậy. Các sứ đồ khi bị mắng nhiếc chắc hẳn đã nghĩ đến Đức Thầy của mình — nếu Thầy còn bị chửi thì trò là gì mà không chịu nổi? Đây là bài học về sự nhẫn nhịn và chịu đựng trong đức tin.
 
 ---
 

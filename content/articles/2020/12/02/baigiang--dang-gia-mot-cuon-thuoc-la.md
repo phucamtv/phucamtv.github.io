@@ -41,6 +41,6 @@ Cậu bé nô lệ từng bị coi rẻ hơn cả một cuộn thuốc lá, như
 
 ## Lời Kêu Gọi Cho Mỗi Chúng Ta
 
-Chúa Giê-xu phán cùng hai môn đồ: "Các ngươi hãy theo Ta, Ta sẽ cho các ngươi nên tay đánh lưới người" (Ma-thi-ơ 4:19). Lời kêu gọi ấy không dành riêng cho những người tài giỏi, giàu có hay có địa vị xã hội. Đó là lời mời gọi dành cho tất cả những ai sẵn lòng bước theo Ngài.
+Đức Chúa Giê-su phán cùng hai môn đồ: "Các ngươi hãy theo Ta, Ta sẽ cho các ngươi nên tay đánh lưới người" (Ma-thi-ơ 4:19). Lời kêu gọi ấy không dành riêng cho những người tài giỏi, giàu có hay có địa vị xã hội. Đó là lời mời gọi dành cho tất cả những ai sẵn lòng bước theo Ngài.
 
 Tất cả chúng ta đều được kêu gọi để trở thành tôi tớ của Đức Chúa Trời, dù thân phận chúng ta thế nào. Nhiệm vụ thiêng liêng và tối ưu nhất không có gì khác hơn là giới thiệu Chúa cho người khác. Và công việc ấy thành công hay thất bại hoàn toàn không tùy thuộc vào sự giàu hay nghèo, thông minh hay tối dạ, mà tùy thuộc vào sự vâng phục và tấm lòng dâng hiến của mỗi chúng ta trước mặt Đức Chúa Trời.

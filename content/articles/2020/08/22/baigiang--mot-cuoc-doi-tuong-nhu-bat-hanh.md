@@ -51,8 +51,8 @@ Sáng Thế Ký 50:20 ghi lại lời Giô-sép nói với các anh sau khi cha 
 
 Rô-ma 8:28 khẳng định: "Mọi sự hiệp lại làm ích cho kẻ yêu mến Đức Chúa Trời." Là Cơ Đốc nhân, chúng ta chắc chắn sẽ gặp những điều bất như ý, thậm chí bị hãm hại. Nhìn gương các tôi tớ Chúa trong Kinh Thánh, rõ ràng không ai theo Chúa mà không trải qua thử thách.
 
-Chính Đức Chúa Giê-xu cũng đã chịu đựng sự bất công lớn nhất. Trước tòa thầy cả thượng phẩm, Ngài bị vu khống, bị đánh đập, bị nhổ vào mặt, nhưng Ngài cứ làm thinh. Không phải vì Ngài không có khả năng chống lại - Ngài có thể gọi mười hai đạo binh thiên sứ xuống giải cứu - mà vì Ngài tin vào kế hoạch cứu chuộc của Đức Chúa Cha.
+Chính Đức Chúa Giê-su cũng đã chịu đựng sự bất công lớn nhất. Trước tòa thầy cả thượng phẩm, Ngài bị vu khống, bị đánh đập, bị nhổ vào mặt, nhưng Ngài cứ làm thinh. Không phải vì Ngài không có khả năng chống lại - Ngài có thể gọi mười hai đạo binh thiên sứ xuống giải cứu - mà vì Ngài tin vào kế hoạch cứu chuộc của Đức Chúa Cha.
 
-Giô-sép, Đa-vít và Đức Chúa Giê-xu đều là những tấm gương về tinh thần phó thác trọn vẹn. Họ không nhu nhược hay yếu đuối, nhưng họ chọn tin rằng Đức Chúa Trời đang nắm quyền tể trị và kế hoạch của Ngài luôn là tốt nhất. Giô-sép xứng đáng là hình ảnh tiêu biểu cho Chúa Cứu Thế bởi tâm hồn rộng lượng, yêu thương và phó thác hoàn toàn cho Đức Chúa Trời.
+Giô-sép, Đa-vít và Đức Chúa Giê-su đều là những tấm gương về tinh thần phó thác trọn vẹn. Họ không nhu nhược hay yếu đuối, nhưng họ chọn tin rằng Đức Chúa Trời đang nắm quyền tể trị và kế hoạch của Ngài luôn là tốt nhất. Giô-sép xứng đáng là hình ảnh tiêu biểu cho Chúa Cứu Thế bởi tâm hồn rộng lượng, yêu thương và phó thác hoàn toàn cho Đức Chúa Trời.
 
 Bốn bài học từ cuộc đời Giô-sép nhắc nhở chúng ta: dù đang ở trong hoàn cảnh nào, hãy yêu thương kẻ hại mình, khám phá sứ mạng cuộc đời, tin rằng mọi sự đều được Chúa cho phép, và phó thác tất cả vào tay Ngài vì kế hoạch của Ngài luôn là tốt nhất.

@@ -33,7 +33,7 @@ Câu chuyện này khiến chúng ta phải suy nghĩ lại về cách mình nh�
 
 Chúng ta thường có thói quen nhìn hành vi bên ngoài để đoán xét một ai đó, vì tưởng rằng mình có thể đọc được lòng người. Nhưng sự thật là khả năng hiểu biết của chúng ta rất hạn chế. Chúng ta không thể nhìn thấy được động lực thật sự và chủ đích sâu xa trong lòng người khác. Bao nhiêu lần chúng ta đã đánh giá sai về người khác nhưng vẫn không rút ra được bài học kinh nghiệm. Khi gặp chuyện, chúng ta vẫn cứ vội vã đưa ra phán xét.
 
-Chính vì lẽ đó mà Chúa cảnh báo chúng ta đừng đoán xét. Kinh Thánh chép trong Ma-thi-ơ đoạn 7 câu 1 rằng: "Các ngươi đừng đoán xét ai, để mình khỏi bị đoán xét." Đây không phải là một lời khuyên nhẹ nhàng, mà là một mệnh lệnh nghiêm túc từ chính Chúa Giê-xu. Bởi lẽ chỉ có Đức Chúa Trời mới thấu hiểu được tấm lòng và ý định thầm kín của mỗi người.
+Chính vì lẽ đó mà Chúa cảnh báo chúng ta đừng đoán xét. Kinh Thánh chép trong Ma-thi-ơ đoạn 7 câu 1 rằng: "Các ngươi đừng đoán xét ai, để mình khỏi bị đoán xét." Đây không phải là một lời khuyên nhẹ nhàng, mà là một mệnh lệnh nghiêm túc từ chính Đức Chúa Giê-su. Bởi lẽ chỉ có Đức Chúa Trời mới thấu hiểu được tấm lòng và ý định thầm kín của mỗi người.
 
 ## Áp Dụng Cho Đời Sống
 

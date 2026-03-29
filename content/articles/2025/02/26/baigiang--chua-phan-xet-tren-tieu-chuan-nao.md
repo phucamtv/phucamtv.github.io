@@ -14,7 +14,7 @@ draft: false
 
 ## Câu Chuyện Tiên Tri Về Ngày Phán Xét
 
-Ma-thi-ơ 25:31-46 không hoàn toàn là một ẩn dụ theo nghĩa thông thường — đây là một hình ảnh Chúa Giê-su dùng để tiết lộ về tương lai, về buổi phán xét cuối cùng. Điều đặc biệt của đoạn Kinh Thánh này là nó nêu lên rõ ràng tiêu chuẩn mà Đức Chúa Trời dùng để phán xét: điều gì sẽ quyết định chúng ta được cứu hay bị hư mất, được khen thưởng hay bị trách phạt.
+Ma-thi-ơ 25:31-46 không hoàn toàn là một ẩn dụ theo nghĩa thông thường — đây là một hình ảnh Đức Chúa Giê-su dùng để tiết lộ về tương lai, về buổi phán xét cuối cùng. Điều đặc biệt của đoạn Kinh Thánh này là nó nêu lên rõ ràng tiêu chuẩn mà Đức Chúa Trời dùng để phán xét: điều gì sẽ quyết định chúng ta được cứu hay bị hư mất, được khen thưởng hay bị trách phạt.
 
 Câu chuyện mô tả cảnh Con Người ngự trên ngôi vinh hiển, muôn dân nhóm lại, rồi Ngài chia họ như người chăn chiên chia chiên với dê: chiên ở bên hữu, dê ở bên tả.
 
@@ -74,7 +74,7 @@ Vì vậy, tất cả mọi người trên thế gian — dù tin Chúa hay khô
 
 **Francis của Assisi**: Một người đàn ông giàu có nhưng không bao giờ cảm nhận được niềm vui. Trong một giấc mơ, ông đi đường gặp một người bị phong cùi lở loét. Xúc động, ông bước lại ôm lấy người đó — và khi nhìn lên, ông thấy đó là gương mặt của Chúa. Giật mình thức dậy, kể từ đó ông thay đổi cả lối sống, dùng của cải giúp người bệnh hoạn đau yếu. Và đó là lúc ông tìm thấy niềm vui mà bao nhiêu năm giàu có ông không cảm nhận được.
 
-**Martin của Tours**: Một cựu chiến binh, một ngày ra đường thấy người nghèo run rẩy trong giá lạnh mùa đông. Không có tiền, không có gì để cho — nhưng ông có cái áo đang mặc. Ông cắt đôi cái áo, tặng một nửa cho người nghèo, giữ nửa còn lại mà về nhà. Đêm đó ông nằm mơ thấy cảnh thiên đàng — Chúa Giê-su đang mặc *nửa cái áo của ông*, và các thiên sứ hỏi sao hôm nay Chúa mặc đồ lạ. Chúa Giê-su trả lời: "Đây là nửa cái áo của con tôi tớ ta đã cho ta."
+**Martin của Tours**: Một cựu chiến binh, một ngày ra đường thấy người nghèo run rẩy trong giá lạnh mùa đông. Không có tiền, không có gì để cho — nhưng ông có cái áo đang mặc. Ông cắt đôi cái áo, tặng một nửa cho người nghèo, giữ nửa còn lại mà về nhà. Đêm đó ông nằm mơ thấy cảnh thiên đàng — Đức Chúa Giê-su đang mặc *nửa cái áo của ông*, và các thiên sứ hỏi sao hôm nay Chúa mặc đồ lạ. Đức Chúa Giê-su trả lời: "Đây là nửa cái áo của con tôi tớ ta đã cho ta."
 
 ---
 

@@ -46,7 +46,7 @@ Câu chuyện về diễn viên hài Anh Vũ chiến thắng ung thư đại tr�
 
 Ga-la-ti 5:22 liệt kê *"sự vui mừng"* như một trong những trái của Thánh Linh — điều này cho thấy niềm vui không chỉ là cảm xúc tự nhiên mà là điều cần được vun trồng và tập luyện trong đời sống Cơ Đốc.
 
-Giăng 15:11 ghi lại lời Chúa Giê-su: *"Ta nói cùng các ngươi những điều đó, hầu cho sự vui mừng của Ta ở trong các ngươi, và sự vui mừng các ngươi được trọn vẹn."* Mục đích của Chúa là sự vui mừng trọn vẹn — không phải niềm vui phân nửa, không phải niềm vui giả tạo, mà là niềm vui xuất phát từ sự hiện diện của Ngài ở bên trong.
+Giăng 15:11 ghi lại lời Đức Chúa Giê-su: *"Ta nói cùng các ngươi những điều đó, hầu cho sự vui mừng của Ta ở trong các ngươi, và sự vui mừng các ngươi được trọn vẹn."* Mục đích của Chúa là sự vui mừng trọn vẹn — không phải niềm vui phân nửa, không phải niềm vui giả tạo, mà là niềm vui xuất phát từ sự hiện diện của Ngài ở bên trong.
 
 Tên Y-sác trong tiếng Hê-bơ-rơ có nghĩa là *"cười"* — được Đức Chúa Trời đặt cho người con trai được hứa ban cho Áp-ra-ham và Sa-ra trong lúc tuổi già. Sa-ra nói: *"Đức Chúa Trời làm cho tôi một việc vui cười; hết thảy ai hay được cũng sẽ vui cười về sự của tôi."* Ngay trong việc đặt tên, Ngài đã gửi vào đó một thông điệp: niềm vui là phần di sản mà Đức Chúa Trời muốn truyền từ đời này sang đời khác.
 

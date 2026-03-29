@@ -2,7 +2,7 @@
 title: "Lời Cảnh Cáo Của Đức Thầy | Ma-thi-ơ 26:31-35, 57-58, 69-75"
 date: 2025-03-26
 url: /baigiang/loi-canh-cao-cua-duc-thay/
-description: "Qua câu chuyện Phi-e-rơ chối Chúa trong Ma-thi-ơ 26, Mục sư Dương Quang Thoại phân tích sâu về tính cách của Chúa Giê-su, sự tự tin mong manh của Phi-e-rơ, và bài học về sự khiêm nhường, tin cậy Chúa để vượt qua cám dỗ."
+description: "Qua câu chuyện Phi-e-rơ chối Chúa trong Ma-thi-ơ 26, Mục sư Dương Quang Thoại phân tích sâu về tính cách của Đức Chúa Giê-su, sự tự tin mong manh của Phi-e-rơ, và bài học về sự khiêm nhường, tin cậy Chúa để vượt qua cám dỗ."
 tags: ["Phi-e-rơ", "Ma-thi-ơ", "Sự Cám Dỗ", "Khiêm Nhường", "Tha Thứ", "Đức Tin", "Lời Tiên Tri"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,25 +14,25 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 26:31-35, 57-58, 69-75
 
-Bài giảng hôm nay xoay quanh một trong những câu chuyện xúc động và đau lòng nhất trong Tân Ước — sự kiện Phi-e-rơ chối Chúa ba lần trong đêm Chúa Giê-su bị bắt. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi qua ba phân đoạn chính trong Ma-thi-ơ 26: lời cảnh báo trước của Chúa Giê-su (câu 31-35), cảnh Phi-e-rơ theo Chúa từ xa (câu 57-58), và ba lần chối Chúa trong sân nhà thầy cả thượng phẩm (câu 69-75).
+Bài giảng hôm nay xoay quanh một trong những câu chuyện xúc động và đau lòng nhất trong Tân Ước — sự kiện Phi-e-rơ chối Chúa ba lần trong đêm Đức Chúa Giê-su bị bắt. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi qua ba phân đoạn chính trong Ma-thi-ơ 26: lời cảnh báo trước của Đức Chúa Giê-su (câu 31-35), cảnh Phi-e-rơ theo Chúa từ xa (câu 57-58), và ba lần chối Chúa trong sân nhà thầy cả thượng phẩm (câu 69-75).
 
 ---
 
-## Tính Cách Của Chúa Giê-su Qua Lời Cảnh Báo
+## Tính Cách Của Đức Chúa Giê-su Qua Lời Cảnh Báo
 
 ### Nhìn Thực Tế Và Tin Tưởng Vào Tương Lai
 
-Trong đêm cuối cùng trước khi bị bắt, Chúa Giê-su nói thẳng với các môn đồ: *"Đêm nay các ngươi sẽ đều vấp phạm vì cớ ta."* Lời này phản ánh một tính cách rất đặc biệt của Ngài — Ngài nhìn thực tế mà không né tránh, nhưng đồng thời vẫn hướng về phía trước với niềm tin.
+Trong đêm cuối cùng trước khi bị bắt, Đức Chúa Giê-su nói thẳng với các môn đồ: *"Đêm nay các ngươi sẽ đều vấp phạm vì cớ ta."* Lời này phản ánh một tính cách rất đặc biệt của Ngài — Ngài nhìn thực tế mà không né tránh, nhưng đồng thời vẫn hướng về phía trước với niềm tin.
 
 Ngài biết đêm nay mình sẽ bị bắt. Ngài biết ngày mai sẽ bị đóng đinh. Ngài biết mình sẽ chết. Thế nhưng sau lời cảnh báo đau lòng đó, Ngài nói tiếp: *"Sau khi ta sống lại rồi, ta sẽ đi đến xứ Ga-li-lê trước các ngươi."*
 
-Đây là cái nhìn vượt qua bóng tối. Chúa Giê-su không dừng lại ở những khó khăn, thử thách ngay trước mắt mà nhìn xuyên qua bóng tối để thấy ánh sáng phía sau. Bài học cho mỗi chúng ta: nếu tin rằng Chúa có kế hoạch cho cuộc đời mình và nhìn lại quá khứ thấy sự dẫn dắt của Ngài, thì không có lý do gì để lo sợ cho tương lai.
+Đây là cái nhìn vượt qua bóng tối. Đức Chúa Giê-su không dừng lại ở những khó khăn, thử thách ngay trước mắt mà nhìn xuyên qua bóng tối để thấy ánh sáng phía sau. Bài học cho mỗi chúng ta: nếu tin rằng Chúa có kế hoạch cho cuộc đời mình và nhìn lại quá khứ thấy sự dẫn dắt của Ngài, thì không có lý do gì để lo sợ cho tương lai.
 
 ### Lòng Thương Cảm Sâu Xa
 
 Điều đáng chú ý hơn nữa là cách Ngài nói về sự thất bại sắp xảy ra của các môn đồ. Ngài không trách móc, không lên án, không đay nghiến. Thay vào đó, Ngài dùng hình ảnh từ Kinh Thánh: *"Ta sẽ đánh kẻ chăn chiên, thì chiên trong bầy sẽ bị tan lạc."*
 
-Đây là lời cảm thông sâu xa. Ngài hiểu rằng khi người chăn bị bắt, đàn chiên không tự biết phải làm gì — chúng sẽ tan lạc vì bản năng, không phải vì xấu xa. Dù biết rõ các môn đồ sẽ phản bội và chối bỏ mình, Chúa Giê-su vẫn thương cảm, vẫn yêu thương, vẫn nhìn họ bằng đôi mắt của Đấng Mục Tử.
+Đây là lời cảm thông sâu xa. Ngài hiểu rằng khi người chăn bị bắt, đàn chiên không tự biết phải làm gì — chúng sẽ tan lạc vì bản năng, không phải vì xấu xa. Dù biết rõ các môn đồ sẽ phản bội và chối bỏ mình, Đức Chúa Giê-su vẫn thương cảm, vẫn yêu thương, vẫn nhìn họ bằng đôi mắt của Đấng Mục Tử.
 
 ---
 
@@ -86,7 +86,7 @@ Sự cay đắng đó có nhiều lớp. Ông đau vì đã thất hứa với C
 
 Có một điều ít được chú ý: phúc âm Ma-thi-ơ được viết dựa trên lời kể của Phi-e-rơ. Chính Phi-e-rơ đã kể lại chi tiết sự thất bại tồi tệ nhất của mình cho Mác, và Mác ghi lại theo. Ông có thể thay đổi câu chuyện. Ông có thể làm nhẹ đi sự hèn nhát của mình. Nhưng ông không làm thế.
 
-Mục đích của Phi-e-rơ khi kể thật không phải là tự hành hạ bản thân — mà là để làm nổi bật sự tha thứ và lòng nhân từ của Chúa Giê-su. Khi đối chiếu sự thất bại của ông với cách Chúa sau đó phục hồi ông (Giăng 21), tính cách thương xót của Đức Thầy càng trở nên rõ ràng hơn bao giờ hết.
+Mục đích của Phi-e-rơ khi kể thật không phải là tự hành hạ bản thân — mà là để làm nổi bật sự tha thứ và lòng nhân từ của Đức Chúa Giê-su. Khi đối chiếu sự thất bại của ông với cách Chúa sau đó phục hồi ông (Giăng 21), tính cách thương xót của Đức Thầy càng trở nên rõ ràng hơn bao giờ hết.
 
 ### Sự Khác Biệt Giữa Phi-e-rơ Và Giu-đa
 
@@ -95,17 +95,17 @@ Nhiều người đặt câu hỏi: sự chối Chúa của Phi-e-rơ và sự p
 - Giu-đa tuyệt vọng và kết thúc cuộc đời trong hối hận không dẫn đến sự ăn năn.
 - Phi-e-rơ, dù khóc lóc đắng cay, đã quay trở lại — và trở thành trụ cột của Hội Thánh đầu tiên.
 
-Sự ăn năn thật dẫn đến sự phục hồi. Đó là ân điển của Chúa Giê-su — Ngài biết trước sự thất bại của Phi-e-rơ, nhưng Ngài đã chuẩn bị sẵn con đường phục hồi cho ông.
+Sự ăn năn thật dẫn đến sự phục hồi. Đó là ân điển của Đức Chúa Giê-su — Ngài biết trước sự thất bại của Phi-e-rơ, nhưng Ngài đã chuẩn bị sẵn con đường phục hồi cho ông.
 
 ---
 
 ## Kết Luận: Những Bài Học Từ Lời Cảnh Báo Của Đức Thầy
 
-Câu chuyện Phi-e-rơ chối Chúa không phải là câu chuyện về sự thất bại — đó là câu chuyện về tính cách Chúa Giê-su và về bản chất con người.
+Câu chuyện Phi-e-rơ chối Chúa không phải là câu chuyện về sự thất bại — đó là câu chuyện về tính cách Đức Chúa Giê-su và về bản chất con người.
 
 | Bài học | Ý nghĩa |
 |---|---|
-| Chúa Giê-su nhìn thực tế nhưng hướng về phía trước | Đức tin không dừng lại trước bóng tối |
+| Đức Chúa Giê-su nhìn thực tế nhưng hướng về phía trước | Đức tin không dừng lại trước bóng tối |
 | Tình yêu con người có giới hạn | Sự khiêm nhường là vũ khí thật sự |
 | Can đảm không đảm bảo chiến thắng | Chúng ta cần nhờ cậy Chúa hơn là tin vào sức mình |
 | Ân điển Chúa lớn hơn sự thất bại của chúng ta | Sự ăn năn thật dẫn đến phục hồi |

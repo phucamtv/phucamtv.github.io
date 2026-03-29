@@ -74,7 +74,7 @@ Lễ Ngũ Tuần là biến cố “Núi Si-nai” thứ hai
 
 - Những ngày lễ: Lê-vi Ký 23; Dân số ký 28, 29; Phục Truyền 16
 - Lễ Ngũ Tuần cách Lễ Vượt Qua 50 ngày.
-- Đức Chúa Jesus là hình thật của hình bóng Con Chiên trong Lễ Vượt Qua
+- Đức Chúa Giê-su là hình thật của hình bóng Con Chiên trong Lễ Vượt Qua
 > Xuất Ê-díp-tô Ký 12:18-20
 > 
 > 18/ <u>Ngày mười bốn tháng giêng</u>, chiều lại, các ngươi sẽ ăn bánh không men cho đến chiều ngày hai mươi mốt tháng đó.
@@ -106,7 +106,7 @@ Lễ Ngũ Tuần là biến cố “Núi Si-nai” thứ hai
 
 | Giao Ước Cũ | Giao Ước Mới |
 | --- | --- |
-| Tin Môi-se | Tin Đức Chúa Jesus |
+| Tin Môi-se | Tin Đức Chúa Giê-su |
 | Phải chờ đợi, dọn mình thánh sạch | Phải chờ đợi |
 
 > 🆕 Xuất 19:9

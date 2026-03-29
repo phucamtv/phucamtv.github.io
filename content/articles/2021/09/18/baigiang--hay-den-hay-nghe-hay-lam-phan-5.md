@@ -14,9 +14,9 @@ draft: false
 
 ## Mấu Chốt Của Vấn Đề: Đến – Nghe – Nhưng Không Làm
 
-Lu-ca 6:46-49 ghi lại lời Chúa Giê-su phán về ba bước trong đời sống đức tin: đến cùng Ngài, nghe lời Ngài, và làm theo. Trong loạt bài chia sẻ gồm bảy phần, phần thứ năm này tập trung vào bước cuối cùng và quan trọng nhất — làm theo lời Chúa. Nếu thiếu bước này, mọi nỗ lực đến và nghe đều trở nên vô ích.
+Lu-ca 6:46-49 ghi lại lời Đức Chúa Giê-su phán về ba bước trong đời sống đức tin: đến cùng Ngài, nghe lời Ngài, và làm theo. Trong loạt bài chia sẻ gồm bảy phần, phần thứ năm này tập trung vào bước cuối cùng và quan trọng nhất — làm theo lời Chúa. Nếu thiếu bước này, mọi nỗ lực đến và nghe đều trở nên vô ích.
 
-Chúa Giê-su minh họa qua ẩn dụ hai người con trai trong Ma-thi-ơ 21:28-31. Đứa thứ nhất hứa đi làm vườn nho nhưng không đi; đứa thứ hai từ chối nhưng sau ăn năn rồi đi. Chúa khẳng định rằng những kẻ thâu thuế và tội nhân biết ăn năn và làm theo sẽ vào nước Đức Chúa Trời trước những người chỉ nói mà không thực hành.
+Đức Chúa Giê-su minh họa qua ẩn dụ hai người con trai trong Ma-thi-ơ 21:28-31. Đứa thứ nhất hứa đi làm vườn nho nhưng không đi; đứa thứ hai từ chối nhưng sau ăn năn rồi đi. Chúa khẳng định rằng những kẻ thâu thuế và tội nhân biết ăn năn và làm theo sẽ vào nước Đức Chúa Trời trước những người chỉ nói mà không thực hành.
 
 ---
 
@@ -32,7 +32,7 @@ Con người có xu hướng chọn lọc: những điều răn nào hợp với
 
 ### Tiệc Cưới Ca-na
 
-Trong Giăng đoạn 2, khi rượu hết giữa tiệc cưới, bà Ma-ri dặn những người hầu bàn rằng Chúa bảo gì hãy vâng theo. Chúa Giê-su truyền đổ nước lạnh vào chum đá — một mệnh lệnh tưởng chừng vô lý giữa tiệc cưới. Nhưng vì họ vâng lời, nước trở thành rượu ngon hơn cả rượu ban đầu.
+Trong Giăng đoạn 2, khi rượu hết giữa tiệc cưới, bà Ma-ri dặn những người hầu bàn rằng Chúa bảo gì hãy vâng theo. Đức Chúa Giê-su truyền đổ nước lạnh vào chum đá — một mệnh lệnh tưởng chừng vô lý giữa tiệc cưới. Nhưng vì họ vâng lời, nước trở thành rượu ngon hơn cả rượu ban đầu.
 
 ### Nô-ê Đóng Tàu
 

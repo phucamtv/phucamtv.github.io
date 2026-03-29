@@ -40,6 +40,6 @@ Khi Johnny xưng nhận lỗi lầm, ông nội không trừng phạt mà tha th
 
 Sách Khải Huyền chép: "Bây giờ sự cứu rỗi đã đến, vì kẻ kiện cáo anh em chúng ta, kẻ ngày đêm kiện cáo chúng ta trước mặt Đức Chúa Trời, nay đã bị quăng xuống rồi" (Khải Huyền 12:10).
 
-Sa-tan là kẻ ngày đêm kiện cáo con cái Chúa, nhưng qua thập tự giá, quyền lực kiện cáo của nó đã bị bẻ gãy. Dòng Huyết Chúa Giê-su là bằng chứng rằng mọi tội lỗi đã được trả giá. Khi chúng ta xưng nhận tội mình, Ngài thành tín và công bình tha tội cho chúng ta.
+Sa-tan là kẻ ngày đêm kiện cáo con cái Chúa, nhưng qua thập tự giá, quyền lực kiện cáo của nó đã bị bẻ gãy. Dòng Huyết Đức Chúa Giê-su là bằng chứng rằng mọi tội lỗi đã được trả giá. Khi chúng ta xưng nhận tội mình, Ngài thành tín và công bình tha tội cho chúng ta.
 
 Đừng để tội lỗi trở thành vũ khí trong tay kẻ thù để hăm dọa bạn. Hãy đến với Chúa, xưng nhận mọi điều, và bước đi trong sự tự do mà Dòng Huyết Ngài đã mua chuộc.

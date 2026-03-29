@@ -29,7 +29,7 @@ Giấc chiêm bao vua thấy là một pho tượng to lớn rực rỡ lạ th�
 - **Đầu bằng vàng** — Đế quốc Ba-by-lôn (605–539 TCN). Chính Đa-ni-ên khẳng định với vua: "Vua là cái đầu bằng vàng."
 - **Ngực và cánh tay bằng bạc** — Đế quốc Mê-đô Ba-tư (539–331 TCN). Sau khi Ba-by-lôn sụp đổ, quyền cai trị chuyển sang liên minh Mê-đi và Ba-tư dưới thời vua Si-ru.
 - **Bụng và vế bằng đồng** — Đế quốc Hy Lạp (331–168 TCN). A-léc-xan-đơ Đại Đế đưa Hy Lạp lên đỉnh cao quyền lực thế giới.
-- **Ống chân bằng sắt** — Đế quốc La Mã (168 TCN–476 SCN). La Mã cai trị vào chính thời điểm Chúa Giê-su giáng sinh, khi quốc gia Do Thái nằm dưới quyền đế quốc này.
+- **Ống chân bằng sắt** — Đế quốc La Mã (168 TCN–476 SCN). La Mã cai trị vào chính thời điểm Đức Chúa Giê-su giáng sinh, khi quốc gia Do Thái nằm dưới quyền đế quốc này.
 - **Bàn chân bằng sắt lẫn đất sét** — Các nước Tây Âu chia ra từ đế quốc La Mã (từ năm 476 đến nay). Mười ngón chân tượng trưng cho mười nước, trong đó bảy nước còn tồn tại đến ngày nay (Anh, Pháp, Đức, Thụy Sĩ, Ý, Tây Ban Nha, Bồ Đào Nha) và ba nước đã bị mất trong lịch sử (Ostrogoth, Vandal, Heruli).
 
 Đặc điểm quan trọng: sắt lẫn với đất sét nghĩa là nửa mạnh nửa yếu, chúng không thể dính lại với nhau — lời tiên tri cho thấy các nước Tây Âu sẽ không bao giờ thống nhất thành một đế quốc duy nhất, dù nhiều người đã cố gắng xuyên suốt lịch sử.
@@ -38,9 +38,9 @@ Giấc chiêm bao vua thấy là một pho tượng to lớn rực rỡ lạ th�
 
 ## Hòn Đá Từ Trời: Nước Đức Chúa Trời
 
-Phần cuối của giấc chiêm bao là một hòn đá chẳng phải bởi tay đục ra, đập vào bàn chân pho tượng khiến toàn bộ tan nát, rồi hòn đá hóa thành một hòn núi lớn đầy khắp đất. Hòn đá này tượng trưng cho Chúa Giê-su Christ và nước Ngài. Kinh Thánh xác nhận qua nhiều chỗ: I Cô-rinh-tô 10:4 gọi Ngài là hòn đá thiêng liêng, và Lu-ca 20:17–18 ghi lại lời Chúa Giê-su về hòn đá mà thợ xây nhà bỏ ra đã trở nên đá góc nhà.
+Phần cuối của giấc chiêm bao là một hòn đá chẳng phải bởi tay đục ra, đập vào bàn chân pho tượng khiến toàn bộ tan nát, rồi hòn đá hóa thành một hòn núi lớn đầy khắp đất. Hòn đá này tượng trưng cho Đức Chúa Giê-su Christ và nước Ngài. Kinh Thánh xác nhận qua nhiều chỗ: I Cô-rinh-tô 10:4 gọi Ngài là hòn đá thiêng liêng, và Lu-ca 20:17–18 ghi lại lời Đức Chúa Giê-su về hòn đá mà thợ xây nhà bỏ ra đã trở nên đá góc nhà.
 
-Khi Chúa Giê-su tái lâm, Ngài sẽ hủy diệt mọi quyền lực thế gian và thiết lập trời mới đất mới — một nước không bao giờ bị hủy diệt, đứng đời đời. Đây không phải là Chúa đến cai trị trên thế gian đổ nát này, mà là Ngài đem dân sự về thiên đàng một ngàn năm, sau đó tái thiết trái đất thành trời mới đất mới.
+Khi Đức Chúa Giê-su tái lâm, Ngài sẽ hủy diệt mọi quyền lực thế gian và thiết lập trời mới đất mới — một nước không bao giờ bị hủy diệt, đứng đời đời. Đây không phải là Chúa đến cai trị trên thế gian đổ nát này, mà là Ngài đem dân sự về thiên đàng một ngàn năm, sau đó tái thiết trái đất thành trời mới đất mới.
 
 ---
 
@@ -60,4 +60,4 @@ Ngoài lời tiên tri, bài giảng nhấn mạnh phẩm cách đáng học h�
 
 Pho tượng trong Đa-ni-ên chương 2 cho thấy mọi quyền lực vật chất — dù rực rỡ như vàng hay mạnh mẽ như sắt — cuối cùng đều tan nát trước hòn đá từ trời. Giá trị vật chất và quyền lực thế gian chỉ là tạm thời; chỉ có nước Đức Chúa Trời là đứng đời đời.
 
-Lời tiên tri đã ứng nghiệm chính xác qua hơn hai ngàn năm lịch sử, từ Ba-by-lôn cho đến các nước Tây Âu ngày nay. Điều này củng cố lòng tin rằng Chúa nắm giữ tất cả, và phần còn lại của lời tiên tri — sự tái lâm của Chúa Giê-su — cũng chắc chắn sẽ ứng nghiệm. Trong khi chờ đợi ngày đó, chúng ta được kêu gọi sống khiêm tốn, trung tín và ưu tiên rao giảng Tin Lành cho muôn dân.
+Lời tiên tri đã ứng nghiệm chính xác qua hơn hai ngàn năm lịch sử, từ Ba-by-lôn cho đến các nước Tây Âu ngày nay. Điều này củng cố lòng tin rằng Chúa nắm giữ tất cả, và phần còn lại của lời tiên tri — sự tái lâm của Đức Chúa Giê-su — cũng chắc chắn sẽ ứng nghiệm. Trong khi chờ đợi ngày đó, chúng ta được kêu gọi sống khiêm tốn, trung tín và ưu tiên rao giảng Tin Lành cho muôn dân.

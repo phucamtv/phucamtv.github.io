@@ -26,16 +26,16 @@ Chúng ta không có bằng cớ rõ ràng từ lịch sử để biết chính 
 
 Người Giu-đa giữ lễ tạ ơn Chúa về hoa quả đầu mùa (Lê Vi Ký 23:15,16), ngày lễ nầy sau ngày Sa-bát (Lê Vi Ký 23:11), và 50 ngày sau thì có lễ Ngũ-tuần, đánh dấu mùa gặt được hoàn tất (Phục Truyền Luật Lệ Ký 16:9-10).
 
-Chúng ta nhớ rằng hai lễ nầy được giữ hàng năm, chứ không phải hàng tuần. Ðối với Cơ đốc nhân thì Ðức Chúa Giê-su là trái đầu mùa của sự sống lại (I Côrinhtô 15:20), sự sống lại của Chúa xảy ra vào ngày thứ nhất sau ngày Sa-bát, và 50 ngày sau trong lễ Ngũ tuần thì Ðức Thánh Linh ngự trên các môn đồ (Công Vụ Các Sứ Ðồ 2:1-3).
+Chúng ta nhớ rằng hai lễ nầy được giữ hàng năm, chứ không phải hàng tuần. Ðối với Cơ đốc nhân thì Ðức Đức Chúa Giê-su là trái đầu mùa của sự sống lại (I Côrinhtô 15:20), sự sống lại của Chúa xảy ra vào ngày thứ nhất sau ngày Sa-bát, và 50 ngày sau trong lễ Ngũ tuần thì Ðức Thánh Linh ngự trên các môn đồ (Công Vụ Các Sứ Ðồ 2:1-3).
 
 Vì sự liên hệ và song song giữa 2 lễ nầy. Cho nên, lúc đầu Cơ đốc nhân chỉ giữ lễ kỷ niệm ngày Chúa sống lại hằng năm, và sau đó là lễ Ngũ tuần, cũng chỉ có tánh cách hàng năm mà thôi.
 
 ## Ngày Thứ Nhất Của Tuần Lễ Tại Alexandria Và La Mã
 
-Vào năm 130 Tây lịch, tác giả Barnabas tại Alexandria, đã viết rằng ngày Sa-bát tượng trưng cho 1000 năm thứ bảy (1000 năm bình an) trong lịch sử của thế giới. Ông nói tiếp rằng, “ngày Sa-bát hiện tại không được Chúa chấp nhận, và Chúa đã làm cho ngày thứ tám (Sunday – chủ nhật), trở thành sự khởi đầu của một thế giới khác. Cho nên chúng ta giữ ngày thứ tám, là ngày Chúa Giê-su sống lại.” (1)
+Vào năm 130 Tây lịch, tác giả Barnabas tại Alexandria, đã viết rằng ngày Sa-bát tượng trưng cho 1000 năm thứ bảy (1000 năm bình an) trong lịch sử của thế giới. Ông nói tiếp rằng, “ngày Sa-bát hiện tại không được Chúa chấp nhận, và Chúa đã làm cho ngày thứ tám (Sunday – chủ nhật), trở thành sự khởi đầu của một thế giới khác. Cho nên chúng ta giữ ngày thứ tám, là ngày Đức Chúa Giê-su sống lại.” (1)
 
 Vào năm 150 Tây lịch, Justin Martyr tại La Mã đã viết về ngày thứ nhất của tuần lễ như sau, “Và trong ngày gọi là thứ nhất của tuần lễ (Sunday), tất cả những người sống trong thành phố và trong miền quê hãy nhóm nhau lại trong một nơi, và những văn thư của các sứ đồ hay là sách viết của các tiên tri được đọc, nhiều hay ít tùy theo thời gian cho phép; sau đó, khi người đọc ngưng, người hội trưởng nói những lời khuyên dạy, và khuyến khích sống theo những điều tốt nầy.” Sau đó là lời cầu nguyện, lễ Tiệc Thánh, và hiến dâng cho người nghèo.(2)
-Justin cho biết ba lý do tại sao Cơ đốc nhân nhóm họp trong ngày thứ nhất của tuần lễ: 1) vì đó là ngày Ðức Chúa Giê-su sống lại; 2) vì đó là ngày Ðức Chúa Trời dựng nên ánh sáng; 3) vì ngày thứ nhất là ngày thứ tám, sau ngày thứ bảy, và cũng là ngày thứ nhất của tuần lễ.(3)
+Justin cho biết ba lý do tại sao Cơ đốc nhân nhóm họp trong ngày thứ nhất của tuần lễ: 1) vì đó là ngày Ðức Đức Chúa Giê-su sống lại; 2) vì đó là ngày Ðức Chúa Trời dựng nên ánh sáng; 3) vì ngày thứ nhất là ngày thứ tám, sau ngày thứ bảy, và cũng là ngày thứ nhất của tuần lễ.(3)
 
 Cơ đốc nhân thấy có sự liên hệ giữa lễ Cắt bì cho những bé trai trong Cựu Ước vào ngày thứ tám, với sự thờ phượng trong ngày thứ tám (ngày theo sau ngày thứ bảy).
 
@@ -50,13 +50,13 @@ Nhất là tại hai thành phố Alexandria và La Mã, là nơi có nhiều ng
 
 Ngoài ra tại Hội thánh La Mã còn có một thông lệ đặt ra biến ngày Sa-bát thành ngày kiêng ăn, là ngày buồn rầu, và ngày thứ nhất là ngày vui mừng hân hoan trong sự sống lại của Chúa. Giáo hoàng Sylvester (314-335 Tây-lịch) tuyên bố:
 
-> “Nếu mỗi ngày Chủ nhật (thứ nhất của tuần lễ), Cơ đốc nhân hân hoan vì sự phục sinh (của Chúa Giê-su), thì mỗi ngày Sa-bát phải có thái độ ghê tởm với người Giu-đa vì Chúa bị chôn. Ðúng vậy, tất cả các môn đồ của Chúa phải than khóc trong ngày Sa-bát, kêu gào vì Chúa bị chôn, và người Giu-đa thì vui mừng. Nhưng đau buồn tràn đầy trong lòng những môn đồ đang kiêng ăn. Cũng một thể ấy, chúng ta đau buồn trong ngày Chúa bị chôn, và vui mừng trong ngày Chúa phục sinh. Giữ theo nghi lễ và cách ăn uống của người Giu-đa thì không đúng (trong ngày Sa-bát).” (6)
+> “Nếu mỗi ngày Chủ nhật (thứ nhất của tuần lễ), Cơ đốc nhân hân hoan vì sự phục sinh (của Đức Chúa Giê-su), thì mỗi ngày Sa-bát phải có thái độ ghê tởm với người Giu-đa vì Chúa bị chôn. Ðúng vậy, tất cả các môn đồ của Chúa phải than khóc trong ngày Sa-bát, kêu gào vì Chúa bị chôn, và người Giu-đa thì vui mừng. Nhưng đau buồn tràn đầy trong lòng những môn đồ đang kiêng ăn. Cũng một thể ấy, chúng ta đau buồn trong ngày Chúa bị chôn, và vui mừng trong ngày Chúa phục sinh. Giữ theo nghi lễ và cách ăn uống của người Giu-đa thì không đúng (trong ngày Sa-bát).” (6)
 
 Cho nên Cơ đốc nhân không hân hoan lắm trong việc chào đón ngày Sa-bát. Vì thế, mà ngày thứ nhất được chấp nhận cách dễ dàng.
 
 ## Ảnh Hưởng Bởi Ngoại Giáo
 
-Tới đây chúng ta thấy rằng, việc giữ ngày thứ nhất thay thế cho ngày thứ bảy Sa-bát không xảy ra ngay sau khi Ðức Chúa Giê-su sống lại, mà mãi đến hơn 100 năm sau đó. Hơn thế nữa, chỉ có hai thành phố làm điều nầy là tại Alexandria và La Mã.
+Tới đây chúng ta thấy rằng, việc giữ ngày thứ nhất thay thế cho ngày thứ bảy Sa-bát không xảy ra ngay sau khi Ðức Đức Chúa Giê-su sống lại, mà mãi đến hơn 100 năm sau đó. Hơn thế nữa, chỉ có hai thành phố làm điều nầy là tại Alexandria và La Mã.
 Ðại sử gia Neander đã chép như sau, “Ngày lễ Chủ nhật, cũng như tất cả những ngày lễ khác, chỉ là những điều lệ do loài người đặt ra, và nó đi ra ngoài ý định của các sứ đồ và của hội thánh đầu tiên về việc dời các luật lệ của ngày Sa-bát qua ngày Chủ nhật.” (7)
 Sau khi 12 sứ đồ lìa đời, vào cuối thế kỷ thứ 1, hội thánh của Chúa bắt đầu suy thoái. Hội thánh phải đối đầu với hai sự khó khăn: 1) sự bắt bớ từ chính quyền ngoại giáo La Mã; 2) ảnh hưởng của những tập tục hư nát, giáo điều sai lầm của ngoại giáo. Hội thánh mất đi lòng tin trong sạch và trọn vẹn thuở ban đầu.
 Cho đến năm 312, Hoàng đế La Mã là Constantine quy phục đạo vì lý do chính trị, đã hợp thức hóa Cơ đốc giáo, miễn thuế cho các nhà truyền giáo, bãi bỏ các cuộc hành quyết vì đạo, cho xây cất những ngôi nhà thờ thật nguy nga.
@@ -70,11 +70,11 @@ Nhưng vị Giám mục tại La Mã vì nằm ngay thủ đô của đế quố
 Trở lại vấn đề ngày Sa-bát, vào cuối thế kỷ thứ nhất Tây lịch, Thái Dương Thần giáo đã lan rộng trong khắp lãnh thổ của La Mã. Tác giả Gaston H. Halsberghe đã viết rằng, “Vào đầu thế kỷ thứ hai Tây lịch, đạo Sol Invictus đã thống trị tại thủ đô La Mã và các phần khác trong lãnh thổ đế quốc La Mã.” (8))
 Dân La Mã đã thờ hoàng đế của họ như là Thần Mặt Trời, thêm vào đó với ảnh hưởng bởi quan niệm của người đông phương coi vua là Thiên tử (Con Trời), cùng những lý do chính trị khác đã khiến Thái Dương Thần giáo lan rộng trong giai đoạn nầy.
 
-Những Cơ đốc nhân từ gốc Thái Dương Thần giáo rất dễ bị lôi cuốn hướng về ngày của mặt trời (Sunday) và đề cao mặt trời. Trong những văn phẩm hay hình ảnh của những Cơ đốc nhân nầy, họ thường dùng mặt trời để tượng trưng cho Ðức Chúa Giê-su. Ví dụ như hình điêu khắc bên dưới bàn thờ trong thánh đường St. Peter tại La Mã đã tả Ðức Chúa Giê-su như là mặt trời. (9)
+Những Cơ đốc nhân từ gốc Thái Dương Thần giáo rất dễ bị lôi cuốn hướng về ngày của mặt trời (Sunday) và đề cao mặt trời. Trong những văn phẩm hay hình ảnh của những Cơ đốc nhân nầy, họ thường dùng mặt trời để tượng trưng cho Ðức Đức Chúa Giê-su. Ví dụ như hình điêu khắc bên dưới bàn thờ trong thánh đường St. Peter tại La Mã đã tả Ðức Đức Chúa Giê-su như là mặt trời. (9)
 
-Một điều khác chứng minh ảnh hưởng của Thái Dương Thần giáo trên Cơ đốc nhân đầu tiên là khi cầu nguyện, thay vì họ hướng về thành Giê-ru-sa-lem, thì họ lại thay đổi hướng về phương Ðông, phương mặt trời mọc, và cũng là hướng mà Ðức Chúa Giê-su trở lại.
+Một điều khác chứng minh ảnh hưởng của Thái Dương Thần giáo trên Cơ đốc nhân đầu tiên là khi cầu nguyện, thay vì họ hướng về thành Giê-ru-sa-lem, thì họ lại thay đổi hướng về phương Ðông, phương mặt trời mọc, và cũng là hướng mà Ðức Đức Chúa Giê-su trở lại.
 
-Một ví dụ rõ ràng nhất về sự ảnh hưởng của Thái Dương Thần giáo là ngày sanh nhật của Thần Mặt Trời vào ngày 25 tháng 12. Ðó là ngày mà người tín hữu Thái Dương Thần giáo tin rằng Thần Mặt Trời đã đáp lời cầu nguyện của họ, và không lặn sớm nữa. (Ở các xứ thuộc miền Bắc bán cầu, vào mùa đông thì ngày càng ngắn, và đêm càng dài ra). Ngày nầy đã được Giáo hội Công Giáo La Mã tiếp nhận và áp dụng trên toàn thể địa phận của giáo hội làm ngày kỷ niệm sự giáng sinh của Ðức Chúa Giê-su để có thể chiêu mộ được nhiều tín đồ Thái Dương trở về. (10)
+Một ví dụ rõ ràng nhất về sự ảnh hưởng của Thái Dương Thần giáo là ngày sanh nhật của Thần Mặt Trời vào ngày 25 tháng 12. Ðó là ngày mà người tín hữu Thái Dương Thần giáo tin rằng Thần Mặt Trời đã đáp lời cầu nguyện của họ, và không lặn sớm nữa. (Ở các xứ thuộc miền Bắc bán cầu, vào mùa đông thì ngày càng ngắn, và đêm càng dài ra). Ngày nầy đã được Giáo hội Công Giáo La Mã tiếp nhận và áp dụng trên toàn thể địa phận của giáo hội làm ngày kỷ niệm sự giáng sinh của Ðức Đức Chúa Giê-su để có thể chiêu mộ được nhiều tín đồ Thái Dương trở về. (10)
 
 Như vậy chúng ta thấy rằng ảnh hưởng của Thái Dương Thần giáo về sự quan trọng của ngày thứ nhất, ngày của Thần Mặt Trời, cũng không có gì là lạ.
 
@@ -114,12 +114,12 @@ Trong lần tái bản quyển Giáo-lý Công-Giáo Cho Những Người Quy Ð
 
 > “Chúng tôi giữ ngày Chủ nhật thay vì ngày thứ Bảy, vì Giáo hội Công giáo đã dời sự thánh khiết từ ngày thứ Bảy qua ngày Chủ nhật.” (18)
 > “Ngày Chủ nhật được thiết lập, không phải dựa trên Thánh Kinh, nhưng dựa trên truyền thống, và là một thể chế đặc biệt của Công giáo.” (19)
-> Giáo hội La Mã tự cho rằng “Giáo hội Công giáo, bởi uy quyền của Ðức Chúa Giê-su, đã đổi ngày yên nghỉ qua ngày Chủ nhật để kỷ niệm ngày Chúa sống lại.” (20)
-> Trong khi đó chính Ðức Chúa Giê-su lại phán rằng, “đương khi trời đất chưa qua đi, thì một chấm một nét trong luật pháp cũng không qua đi được cho đến khi mọi sự được trọn.” (Ma-thi-ơ 5:18).
+> Giáo hội La Mã tự cho rằng “Giáo hội Công giáo, bởi uy quyền của Ðức Đức Chúa Giê-su, đã đổi ngày yên nghỉ qua ngày Chủ nhật để kỷ niệm ngày Chúa sống lại.” (20)
+> Trong khi đó chính Ðức Đức Chúa Giê-su lại phán rằng, “đương khi trời đất chưa qua đi, thì một chấm một nét trong luật pháp cũng không qua đi được cho đến khi mọi sự được trọn.” (Ma-thi-ơ 5:18).
 
 Ngày hôm nay, Giáo hội La Mã không công khai tuyên bố rằng mình đã dời sự thánh khiết của ngày Sa-bát qua ngày thứ nhất của tuần lễ. Nhưng Giáo hội vẫn cho rằng ngày thứ nhất của tuần lễ quan trọng hơn ngày thứ bảy Sa-bát, ngày thứ nhất đã thay thế cho ngày thứ bảy, và tín hữu phải nghỉ ngơi các công việc trong ngày thứ nhất, và đi thờ phượng trong ngày thứ nhất.
 Trong quyển Giáo-Lý Của Giáo-Hội Công-Giáo (Catechism of the Catholic Church) được xuất bản năm 1994, viết như sau:
-“Ðức Chúa Giê-su sống lại từ kẻ chết vào ngày thứ nhất của tuần lễ. Vì đây là ‘ngày thứ nhất,’ ngày Chúa phục-sinh nhắc lại sự tạo thế lần thứ nhất. Vì đây là ‘ngày thứ tám’ theo sau ngày Sa-bát, ngày nầy (thứ nhất) tượng trưng cho sự tạo dựng mới mà sự phục sinh của Ðấng Christ đã đem lại. Ðối với những người theo Chúa, ngày nầy trở thành quan trọng nhất trong tất cả mọi ngày, là ngày đầu trong tất cả những ngày lễ, là Chúa Nhật (Ngày của Chúa), tức là thứ nhất (Sunday).”
+“Ðức Đức Chúa Giê-su sống lại từ kẻ chết vào ngày thứ nhất của tuần lễ. Vì đây là ‘ngày thứ nhất,’ ngày Chúa phục-sinh nhắc lại sự tạo thế lần thứ nhất. Vì đây là ‘ngày thứ tám’ theo sau ngày Sa-bát, ngày nầy (thứ nhất) tượng trưng cho sự tạo dựng mới mà sự phục sinh của Ðấng Christ đã đem lại. Ðối với những người theo Chúa, ngày nầy trở thành quan trọng nhất trong tất cả mọi ngày, là ngày đầu trong tất cả những ngày lễ, là Chúa Nhật (Ngày của Chúa), tức là thứ nhất (Sunday).”
 “Ngày thứ nhất của tuần lễ (Sunday) phải được phân biệt rõ ràng với ngày Sa-bát, là ngày mà nó tiếp nối theo cách thứ tự trong mỗi tuần; đối với Cơ đốc nhân những nghi lễ trong ngày chủ nhật đã thay thế ngày thứ bảy.”
 
 > “Trong ngày thứ nhất của tuần lễ (Sunday)… tín hữu phải nghỉ ngơi những công việc hay sinh hoạt có thể ngăn cản sự thờ phượng dành cho Chúa…” (21)
@@ -145,22 +145,22 @@ Theo lời tiên tri trong sách Khải Huyền đoạn 12 thì cuộc chiến g
 Nhưng Sa-tan lại thất bại trong giai đoạn thứ 2. Ðấng Cứu Thế đã hoàn tất chương trình cứu rỗi bằng cách dâng chính mình Ngài trên thập tự giá làm của lễ chuộc tội cho nhân loại, và Ngài đã sống lại từ trong mồ mã, chiến thắng sự chết để ban sự sống cho những kẻ tin Ngài trong ngày Chúa tái lâm.
 3. Sau khi thất bại với Ðấng Cứu Thế và Ngài thăng thiên về trời, Sa-tan tấn công dân sự của Chúa trong thời gian 1 kỳ, những kỳ, và nữa kỳ, hay 1260 ngày tiên tri hay 1260 năm.
 Trong giai đoạn nầy Sa-tan đổi chiến lược, xâm nhập vào hội thánh, làm lũng đoạn niềm tin. Những ai trung thành thì bị giết. Giai đoạn nầy Sa-tan xử dụng “sừng nhỏ” hay “Công Giáo La Mã” như là một công cụ để thi hành ý đồ của nó. Nhưng Sa-tan cũng thất bại vì Ðức Chúa Trời luôn luôn có chương trình để giải thoát hội thánh trung thành của Ngài, chính tân thế giới hay Châu Mỹ là vùng đất Chúa chuẩn bị cho những người bị bắt bớ vì tôn giáo từ Âu Châu trốn sang để giữ vững đức tin (Khải Huyền 12:6,13-16).
-4. Sa-tan sẽ cố gắng một lần cuối cùng trong giai đoạn thứ tư của cuộc chiến. Nó sẽ đi tranh chiến cùng con cái còn sót lại của Ðức Chúa Trời, tức là hội thánh giữ các điều răn của Ðức Chúa Trời và lời chứng của Ðức Chúa Giê-su, cùng lòng tin Ðức Chúa Giê-su (Khải Huyền 12:17; 14:12).
+4. Sa-tan sẽ cố gắng một lần cuối cùng trong giai đoạn thứ tư của cuộc chiến. Nó sẽ đi tranh chiến cùng con cái còn sót lại của Ðức Chúa Trời, tức là hội thánh giữ các điều răn của Ðức Chúa Trời và lời chứng của Ðức Đức Chúa Giê-su, cùng lòng tin Ðức Đức Chúa Giê-su (Khải Huyền 12:17; 14:12).
 Sa-tan sẽ dùng 2 quyền lực của “hai con thú” trong Khải Huyền 13 để thực hiện ý đồ của nó trong giai đoạn cuối cùng của trận chiến. Con thú thứ nhất trong Khải Huyền 13:1-10 là kết tụ của những đặc điểm của những con thú trong Ðaniên đoạn 7: sư tử, gấu, beo, con rồng. Con thú nầy bị một vết thương cho đến chết, năm 1798 bị quân đội Cách Mạng Pháp chấm dứt quyền hành. Nhưng Khải Huyền cho biết rằng vết thương đó sẽ được lành và cả thế giới đều đi theo trong ngày cuối cùng (Khải Huyền 13:3,4). Quyền lực Công Giáo La Mã qua trung tâm điều hành là Vatican sẽ được phục hồi trong ngày cuối cùng, và sự bắt bớ sẽ xảy ra cho dân sự trung tín của Chúa (Khải Huyền 13:7,8; Mathiơ 24:9).
 
 Còn người đàn bà tinh khiết hay hội thánh mà Chúa đem vào trốn trong đồng vắng để tránh sự tấn công của Sa-tan trong giai đoạn thứ ba – thời trung cổ (Khải Huyền 12:13-16) sẽ biến thành người đàn bà tà dâm hay hội thánh tà dâm, từ bỏ đường lối Chúa, từ bỏ điều răn của Chúa, và quay trở lại cộng tác với quyền lực của “sừng nhỏ” hay “con thú thứ nhất” trong Khải Huyền 13 để bắt bớ hội thánh còn sót lại (Khải Huyền 17:1-6; II Têsalônica 2:3).
 
-Hay nói cách khác, trong ngày cuối cùng, các hệ phái cải cách giáo tại Hoa kỳ sẽ bội đạo và sẽ bắt tay với Công Giáo La Mã để bắt bớ dân sự còn sót lại của Chúa và thống trị thế giới. Nhưng lần nầy chính Ðức Chúa Giê-su sẽ ra tay để giải thoát dân sự của Ngài (Ðaniên 12:1; Khải Huyền 17:14; 19:11-21).
+Hay nói cách khác, trong ngày cuối cùng, các hệ phái cải cách giáo tại Hoa kỳ sẽ bội đạo và sẽ bắt tay với Công Giáo La Mã để bắt bớ dân sự còn sót lại của Chúa và thống trị thế giới. Nhưng lần nầy chính Ðức Đức Chúa Giê-su sẽ ra tay để giải thoát dân sự của Ngài (Ðaniên 12:1; Khải Huyền 17:14; 19:11-21).
 
 Khải Huyền 13 và 14 cho chúng ta thấy rằng giai đoạn thứ tư của cuộc chiến đó sẽ lan tràn và bao gồm cả thế giới trong những ngày cuối cùng của nhân loại. Ðề tài chính của Khải Huyền 13 và 14 là sự thờ phượng. Khải Huyền 13 câu 1 cho biết, Sa-tan khiến thế giới thờ phượng một thế lực tôn giáo (con thú thứ nhất lên từ biển) do Sa-tan thiết lập. Sa-tan sẽ xử dụng một thế lực thứ hai, tức con thú lên từ đất (Khải Huyền 13:11), để bắt buộc dân cư thế giới thờ lạy thế lực tôn giáo thứ nhất.
 
-Nhưng Khải Huyền 12:17 và đoạn 14 cho biết rằng, sẽ có một thiểu số sẽ không thờ phượng thế lực tôn giáo do Sa-tan thiết lập, mà họ sẽ chọn để thờ phượng Ðức Chúa Trời Chân Thật là Ðấng “dựng nên trời, đất, biển, và các suối nước.” Họ sẽ nhịn nhục để “giữ (các) điều răn của Ðức Chúa Trời và giữ lòng tin Ðức Chúa Giê-su.” (Khải Huyền 14:12). (Trong bản tiếng Việt không có chữ ”các” điều răn). Chẳng những họ thờ phượng Ngài, mà họ còn đi ra rao giảng khắp đất, kêu gọi thế giới quay trở về thờ phượng Ðức Chúa Trời chân thật (Khải Huyền 14:6,7). Khải Huyền 7:9 cho biết rằng “vô số người, không ai đếm được, bởi mọi nước, mọi chi phái, mọi dân tộc, mọi tiếng” sẽ tiếp nhận sứ điệp nầy.
+Nhưng Khải Huyền 12:17 và đoạn 14 cho biết rằng, sẽ có một thiểu số sẽ không thờ phượng thế lực tôn giáo do Sa-tan thiết lập, mà họ sẽ chọn để thờ phượng Ðức Chúa Trời Chân Thật là Ðấng “dựng nên trời, đất, biển, và các suối nước.” Họ sẽ nhịn nhục để “giữ (các) điều răn của Ðức Chúa Trời và giữ lòng tin Ðức Đức Chúa Giê-su.” (Khải Huyền 14:12). (Trong bản tiếng Việt không có chữ ”các” điều răn). Chẳng những họ thờ phượng Ngài, mà họ còn đi ra rao giảng khắp đất, kêu gọi thế giới quay trở về thờ phượng Ðức Chúa Trời chân thật (Khải Huyền 14:6,7). Khải Huyền 7:9 cho biết rằng “vô số người, không ai đếm được, bởi mọi nước, mọi chi phái, mọi dân tộc, mọi tiếng” sẽ tiếp nhận sứ điệp nầy.
 
-## Lòng Tin Nơi Ðức Chúa Giê-su & Ðiều Răn Ðức Chúa Trời
+## Lòng Tin Nơi Ðức Đức Chúa Giê-su & Ðiều Răn Ðức Chúa Trời
 
-Lòng tin nơi Ðức Chúa Giê-su và điều răn của Ðức Chúa Trời đóng một vai trò quan trọng trong cuộc chiến tranh tôn giáo giữa thiện với ác, thật và giả trong ngày cuối cùng (II Têsalônica 2:10-13; Khải Huyền 12:17; 14:12).
+Lòng tin nơi Ðức Đức Chúa Giê-su và điều răn của Ðức Chúa Trời đóng một vai trò quan trọng trong cuộc chiến tranh tôn giáo giữa thiện với ác, thật và giả trong ngày cuối cùng (II Têsalônica 2:10-13; Khải Huyền 12:17; 14:12).
 
-Không có đức tin trong Ðức Chúa Giê-su chúng ta sẽ không có sức mạnh hay quyền năng để chiến thắng. Không có điều răn của Ðức Chúa Trời chúng ta sẽ không có phương hướng, không có chiến tuyến, không có dấu hiệu để nhận ra vị trí của chúng ta.
+Không có đức tin trong Ðức Đức Chúa Giê-su chúng ta sẽ không có sức mạnh hay quyền năng để chiến thắng. Không có điều răn của Ðức Chúa Trời chúng ta sẽ không có phương hướng, không có chiến tuyến, không có dấu hiệu để nhận ra vị trí của chúng ta.
 
 Ðức Chúa Trời ban cho dân sự Ngài 10 Ðiều răn trong Xuất Êdíptô Ký 20:1-17. Mười Ðiều răn dạy chúng ta như sau:
 
@@ -178,7 +178,7 @@ Bốn điều đầu dạy chúng ta phải liên hệ với Ðấng Tạo Hóa 
 
 1. Ðiều răn thứ nhất kêu gọi thờ phượng Ðức Chúa Trời, nhưng Sa-tan sẽ có kế hoạch để ép buộc thế giới sẽ thờ phượng con thú và con rồng (Khải Huyền 13:4,12; 14:9).
 2. Ðiều răn thứ hai Chúa dạy đừng thờ hình tượng, nhưng thế lực giả dối kia sẽ bắt buộc dân cư thế gian thờ hình tượng (Khải Huyền 13:14-15).
-3. Ðiều răn thứ ba Chúa dạy hãy tôn trọng Danh Chúa. Nhưng thế lực giả dối của Sa-tan sẽ xúc phạm đến Danh Chúa và phạm đến đền thờ trên trời là nơi Ðức Chúa Giê-su đang là Thầy Tế Lễ Cả cầu thay cho tội lỗi chúng ta (Khải Huyền 13:6; Hêbơrơ 4:14-16; 8:1-2). Muốn biết như thế nào là phạm thượng xin đọc trong Thánh Kinh sách Giăng 10:33 và Luca 5:21.
+3. Ðiều răn thứ ba Chúa dạy hãy tôn trọng Danh Chúa. Nhưng thế lực giả dối của Sa-tan sẽ xúc phạm đến Danh Chúa và phạm đến đền thờ trên trời là nơi Ðức Đức Chúa Giê-su đang là Thầy Tế Lễ Cả cầu thay cho tội lỗi chúng ta (Khải Huyền 13:6; Hêbơrơ 4:14-16; 8:1-2). Muốn biết như thế nào là phạm thượng xin đọc trong Thánh Kinh sách Giăng 10:33 và Luca 5:21.
 4. Ðiều răn thứ tư Chúa dạy hãy giữ ngày thứ bảy là ngày Sa-bát thánh, là ngày của Ðấng Tạo Hóa, làm ngày thờ phượng Chúa và là dấu hiệu của Chúa với dân sự Ngài (Xuất Êdíptô Ký 20:8-11; Êxêchiên 20:12,20).
 Nhưng quyền lực của Sa-tan chống lại điều răn của Chúa, ép buộc dân cư thế gian nhận một dấu riêng của nó, thay vì nhận ấn của Ðức Chúa Trời (Khải Huyền 13:16,17; 14:9-11; II Têsalônica 2:8-10).
 
@@ -196,22 +196,22 @@ Giữ ngày Sa-bát có thể bị thiệt thòi theo lối nhìn của con ngư
 
 Nếu trung thành mà được quyền lợi vật chất, thì đâu cần phải trung thành. Cho nên điều răn thứ tư rất quan trọng. Ðó là dấu hiệu cho biết rằng ai là dân sự của Ðức Chúa Trời. Ðức Chúa Trời phán rằng, “Ta cũng cho chúng nó những ngày Sa-bát ta làm một dấu giữa ta và chúng nó, đặng chúng nó biết rằng ta là Ðức Giê-hô-va biệt chúng nó ra thánh… Hãy biệt những ngày Sa-bát ta ra thánh, nó sẽ làm dấu giữa ta và các ngươi, hầu cho các ngươi biết rằng ta là Giê-hô-va Ðức Chúa Trời các ngươi.” (Êxêchiên 20:12,20).
 
-Vì thế trong ngày cuối cùng, dấu hiệu của dân còn sót lại của Chúa sẽ là “giữ các điều răn của Ðức Chúa Trời và lời chứng của Ðức Chúa Giê-su.” (Khải Huyền 12:17). “Ðây tỏ ra sự nhịn nhục của các thánh đồ: chúng giữ điều răn của Ðức Chúa Trời và giữ lòng tin Ðức Chúa Giê-su.” (Khải Huyền 14:12).
+Vì thế trong ngày cuối cùng, dấu hiệu của dân còn sót lại của Chúa sẽ là “giữ các điều răn của Ðức Chúa Trời và lời chứng của Ðức Đức Chúa Giê-su.” (Khải Huyền 12:17). “Ðây tỏ ra sự nhịn nhục của các thánh đồ: chúng giữ điều răn của Ðức Chúa Trời và giữ lòng tin Ðức Đức Chúa Giê-su.” (Khải Huyền 14:12).
 
 ## Kết Luận
 
-Chúng ta lựa chọn vâng theo điều răn thật do chính miệng Thiên Chúa phán hay điều răn đã bị quyền lực của loài người thay đổi? Ðức Chúa Giê-su phán, “Trời đất qua đi còn dễ hơn một nét chữ trong luật pháp phải bỏ đi.” (Luca 16:18)
+Chúng ta lựa chọn vâng theo điều răn thật do chính miệng Thiên Chúa phán hay điều răn đã bị quyền lực của loài người thay đổi? Ðức Đức Chúa Giê-su phán, “Trời đất qua đi còn dễ hơn một nét chữ trong luật pháp phải bỏ đi.” (Luca 16:18)
 
 Chúng ta lựa chọn giữ ngày thánh là ngày chính Thiên Chúa ban phước, đặt làm ngày thánh, và bảo hãy yên nghỉ, hay chúng ta chọn để giữ một ngày theo mệnh lệnh và truyền thống của con người.
 
-Khi Ðức Chúa Giê-su còn truyền giáo dưới thế gian nầy, Chúa va chạm với người Pha-ri-si về nhiều vấn đề. Một trong những vấn đề đó là truyền thống của loài người nghịch lại với điều răn của Ðức Chúa Trời. Thánh Kinh ghi lại rằng:
+Khi Ðức Đức Chúa Giê-su còn truyền giáo dưới thế gian nầy, Chúa va chạm với người Pha-ri-si về nhiều vấn đề. Một trong những vấn đề đó là truyền thống của loài người nghịch lại với điều răn của Ðức Chúa Trời. Thánh Kinh ghi lại rằng:
 
-“Bấy giờ, có mấy người Pha-ri-si và mấy thầy thông giáo từ thành Giê-ru-sa-lem đến gần Ðức Chúa Giê-su, mà thưa rằng: Sao môn đồ thầy phạm lời truyền khẩu (truyền thống, phong tục) của người xưa? Vì họ không rửa tay trước khi ăn. Ngài đáp rằng: Còn các ngươi sao cũng vì cớ lời truyền khẩu (truyền thống, phong tục) mình mà phạm điều răn của Ðức Chúa Trời? Vì Ðức Chúa Trời đã truyền điều răn nầy: Phải hiếu kính cha mẹ ngươi; lại, điều nầy: Ai mắng nhiếc cha mẹ thì phải chết. Nhưng các ngươi lại nói rằng: Ai nói cùng cha mẹ rằng: Những điều mà tôi có thể giúp cha mẹ, đã dâng cho Ðức Chúa Trời rồi, thì người ấy không cần phải hiếu kính cha mẹ. Như vậy, các ngươi đã vì lời truyền khẩu mình mà bỏ lời Ðức Chúa Trời. Hỡi kẻ giả hình! Ê-sai đã nói tiên tri về các ngươi phải lắm, mà rằng:
+“Bấy giờ, có mấy người Pha-ri-si và mấy thầy thông giáo từ thành Giê-ru-sa-lem đến gần Ðức Đức Chúa Giê-su, mà thưa rằng: Sao môn đồ thầy phạm lời truyền khẩu (truyền thống, phong tục) của người xưa? Vì họ không rửa tay trước khi ăn. Ngài đáp rằng: Còn các ngươi sao cũng vì cớ lời truyền khẩu (truyền thống, phong tục) mình mà phạm điều răn của Ðức Chúa Trời? Vì Ðức Chúa Trời đã truyền điều răn nầy: Phải hiếu kính cha mẹ ngươi; lại, điều nầy: Ai mắng nhiếc cha mẹ thì phải chết. Nhưng các ngươi lại nói rằng: Ai nói cùng cha mẹ rằng: Những điều mà tôi có thể giúp cha mẹ, đã dâng cho Ðức Chúa Trời rồi, thì người ấy không cần phải hiếu kính cha mẹ. Như vậy, các ngươi đã vì lời truyền khẩu mình mà bỏ lời Ðức Chúa Trời. Hỡi kẻ giả hình! Ê-sai đã nói tiên tri về các ngươi phải lắm, mà rằng:
 
 > “Dân nầy lấy môi miếng thờ kính ta; Nhưng lòng chúng nó xa ta lắm. Sự chúng nó thờ lạy ta là vô ích; Vì chúng nó dạy theo những điều răn mà chỉ bởi nguời ta đặt ra.” (Mathiơ 15:1-9)
 
-Tin đồn về sự dạy dỗ của Ðức Chúa Giê-su và những phép lạ của Ngài đã được đồn ra khắp nơi. Những người lãnh đạo tại Giê-ru-sa-lem gởi một phái đoàn đến để chất vấn Ðức Chúa Giê-su về truyền thống của người Giu-đa. Họ tấn công môn đồ của Ðức Chúa Giê-su. Họ kết tội rằng môn đồ của Chúa đã phạm truyền thống rửa tay trước khi ăn do các trưởng lão truyền lại. (Ðây không phải là luật của Môi-se).
-Ðức Chúa Giê-su lập tức hỏi họ tại sao họ lại vi phạm luật pháp của Ðức Chúa Trời. Chúa dùng điều răn thứ 5 làm ví dụ. Người Pha-ri-si ham tiền tài (Luca 16:14). Họ muốn người ta đem tiền dâng vào đền thờ, cho nên họ đặt ra truyền thống rằng: hễ điều gì hứa dâng cho Chúa thì không được để lại dùng cho cha mẹ. Và như thế họ bỏ đi điều răn thứ 5 của Chúa dạy.
+Tin đồn về sự dạy dỗ của Ðức Đức Chúa Giê-su và những phép lạ của Ngài đã được đồn ra khắp nơi. Những người lãnh đạo tại Giê-ru-sa-lem gởi một phái đoàn đến để chất vấn Ðức Đức Chúa Giê-su về truyền thống của người Giu-đa. Họ tấn công môn đồ của Ðức Đức Chúa Giê-su. Họ kết tội rằng môn đồ của Chúa đã phạm truyền thống rửa tay trước khi ăn do các trưởng lão truyền lại. (Ðây không phải là luật của Môi-se).
+Ðức Đức Chúa Giê-su lập tức hỏi họ tại sao họ lại vi phạm luật pháp của Ðức Chúa Trời. Chúa dùng điều răn thứ 5 làm ví dụ. Người Pha-ri-si ham tiền tài (Luca 16:14). Họ muốn người ta đem tiền dâng vào đền thờ, cho nên họ đặt ra truyền thống rằng: hễ điều gì hứa dâng cho Chúa thì không được để lại dùng cho cha mẹ. Và như thế họ bỏ đi điều răn thứ 5 của Chúa dạy.
 Chúng ta chú ý những điều sau trong câu chuyện nầy:
 
 1. Ðối với Chúa điều răn của Ðức Chúa Trời, tức là Lời của Ðức Chúa Trời, có giá trị tuyệt đối và cao hơn bất cứ truyền thống tập tục nào của loài người, ngay cả truyền thống của những người lãnh đạo tôn giáo (Mathiơ 15:3,6).

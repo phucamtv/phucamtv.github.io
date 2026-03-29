@@ -20,7 +20,7 @@ Sách Giô-na rất đặc biệt trong các sách tiên tri: thay vì chứa nh
 
 Đức Chúa Trời kêu gọi Giô-na đến thành Ni-ni-ve để cảnh tỉnh dân sự vì tội ác họ đã làm. Nhưng Giô-na sợ dân Ni-ni-ve gian ác sẽ giết mình, nên thay vì đi Ni-ni-ve, ông xuống bến tàu đi Ta-rê-si — hướng ngược lại. Giữa biển, bão tố nổi lên, thủy thủ bắt thăm, thăm trúng Giô-na. Ông xin họ quăng mình xuống biển để cứu tàu. Khi Giô-na bị quăng xuống, biển yên lặng ngay lập tức.
 
-Kinh Thánh ghi lại: Chúa sắm sẵn một con cá lớn nuốt Giô-na, ông ở trong bụng cá ba ngày ba đêm. Con cá này không phải là một con cá bình thường — nó được Đức Chúa Trời chuẩn bị đặc biệt. Chính Chúa Giê-su cũng đã nhắc lại câu chuyện này, xác nhận tính lịch sử của nó. Với niềm tin, chúng ta không cần lấy những nguyên lý tự nhiên để giải thích quyền năng siêu nhiên của Đức Chúa Trời.
+Kinh Thánh ghi lại: Chúa sắm sẵn một con cá lớn nuốt Giô-na, ông ở trong bụng cá ba ngày ba đêm. Con cá này không phải là một con cá bình thường — nó được Đức Chúa Trời chuẩn bị đặc biệt. Chính Đức Chúa Giê-su cũng đã nhắc lại câu chuyện này, xác nhận tính lịch sử của nó. Với niềm tin, chúng ta không cần lấy những nguyên lý tự nhiên để giải thích quyền năng siêu nhiên của Đức Chúa Trời.
 
 ---
 
@@ -36,7 +36,7 @@ Giô-na 2:7 — *"Ngài đã đem mạng sống tôi lên khỏi hầm hố."*
 
 Đây là sự khác biệt giữa lời cầu nguyện bởi đức tin và lời cầu nguyện còn hoài nghi. Khi chúng ta thật sự phó thác cuộc đời mình cho Chúa, tin tưởng hoàn toàn rằng mọi sự nằm trong sự thương xót của Ngài — thì lời cầu nguyện của chúng ta mang tính chất khẳng định.
 
-Chúa Giê-su dạy trong Mác 11:24: *"Mọi điều các người xin trong lúc cầu nguyện, hãy tin đã được, tất điều đó sẽ ban cho các người."* Và Ma-thi-ơ 6:8: *"Cha các ngươi biết các ngươi cần sự gì trước khi chưa xin Ngài."*
+Đức Chúa Giê-su dạy trong Mác 11:24: *"Mọi điều các người xin trong lúc cầu nguyện, hãy tin đã được, tất điều đó sẽ ban cho các người."* Và Ma-thi-ơ 6:8: *"Cha các ngươi biết các ngươi cần sự gì trước khi chưa xin Ngài."*
 
 Trước khi Giô-na mở lời, Chúa đã biết — vì chính Ngài đã sắm sẵn con cá. Vấn đề không phải Chúa có biết hay không, mà Ngài muốn nhìn thấy đức tin và sự phó thác trong lời cầu nguyện của chúng ta.
 

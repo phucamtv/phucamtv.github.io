@@ -14,7 +14,7 @@ draft: false
 
 Olympic 2020 tại Nhật Bản vừa khép lại với bao hình ảnh đáng nhớ. Nhưng điều ấn tượng nhất không chỉ nằm ở những tấm huy chương, mà là khoảnh khắc ngay sau mỗi trận đấu kết thúc: một bên là niềm vui vỡ òa của người chiến thắng — ôm nhau, nước mắt hạnh phúc; bên kia là gương mặt tiếc nuối, đau buồn của người thất bại — cũng nước mắt, nhưng trên một cung bậc hoàn toàn khác. Cùng một khoảnh khắc, cùng một sự kiện, nhưng đẩy con người về hai phía đối lập.
 
-Hình ảnh ấy gợi lên một thực tại thuộc linh lớn hơn nhiều: ngày Chúa Giê-su tái lâm.
+Hình ảnh ấy gợi lên một thực tại thuộc linh lớn hơn nhiều: ngày Đức Chúa Giê-su tái lâm.
 
 ## Chiến Thắng Và Thất Bại Trên Đường Đua Đời Đời
 
@@ -36,11 +36,11 @@ Sứ đồ Phao-lô trong I Cô-rinh-tô 9:24-27 đưa ra ba nguyên tắc từ 
 
 **Thứ ba: Phải nghiêm khắc với chính mình.** Phao-lô thừa nhận con người có xu hướng nghiêm khắc với người khác nhưng dễ dãi với bản thân. Bí quyết chiến thắng nằm ở sự tự chế — đãi thân thể cách nghiêm khắc, bắt nó phải phục. Các vận động viên kiêng kỵ mọi thứ để đoạt huy chương hay hư nát; chúng ta lại không chịu kỷ luật bản thân cho mão triều thiên không bao giờ hư nát sao?
 
-Lu-ca 13:24 — Chúa Giê-su phán: "Hãy gắng sức vào cửa hẹp, vì nhiều người sẽ tìm cách vào mà không vào được." Cửa hẹp đòi hỏi nỗ lực, đòi hỏi chèn ép bản thân, đòi hỏi chấp nhận khó khăn. Nhưng cửa càng hẹp, vinh quang bên trong càng lớn.
+Lu-ca 13:24 — Đức Chúa Giê-su phán: "Hãy gắng sức vào cửa hẹp, vì nhiều người sẽ tìm cách vào mà không vào được." Cửa hẹp đòi hỏi nỗ lực, đòi hỏi chèn ép bản thân, đòi hỏi chấp nhận khó khăn. Nhưng cửa càng hẹp, vinh quang bên trong càng lớn.
 
 ## Ngày Vinh Quang Đang Đến
 
-Khi chính Chúa Giê-su nói về sự tái lâm của Ngài trước mặt thầy cả thượng phẩm, Ngài đã bị nhổ trên mặt, bị đấm, bị vả (Ma-thi-ơ 26:63-67). Nếu Chúa nói về ngày trở lại của Ngài mà còn bị đối xử như vậy, thì chúng ta bị nhạo báng, bị chửi bới khi rao giảng về sự tái lâm cũng là điều tất yếu.
+Khi chính Đức Chúa Giê-su nói về sự tái lâm của Ngài trước mặt thầy cả thượng phẩm, Ngài đã bị nhổ trên mặt, bị đấm, bị vả (Ma-thi-ơ 26:63-67). Nếu Chúa nói về ngày trở lại của Ngài mà còn bị đối xử như vậy, thì chúng ta bị nhạo báng, bị chửi bới khi rao giảng về sự tái lâm cũng là điều tất yếu.
 
 Nhưng II Phi-e-rơ 3:10 khẳng định: ngày của Chúa sẽ đến như kẻ trộm — bất ngờ, không báo trước. Mọi công trình trên đất đều sẽ bị đốt cháy. Và Ô-sê 6:3 an ủi rằng sự hiện ra của Ngài là chắc chắn như mặt trời mọc mỗi sớm mai.
 

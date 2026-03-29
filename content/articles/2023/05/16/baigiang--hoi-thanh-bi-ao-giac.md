@@ -45,9 +45,9 @@ Hội Thánh Lao-đi-xê đánh mất đức tin vì họ bắt đầu nhờ c�
 
 ### 2. Áo Trắng — Sự Công Bình
 
-Chiếc áo trắng tượng trưng cho sự công bình mà Chúa Giê-su ban cho khi con người tin nhận Ngài. Ngay từ vườn Ê-đen, sau khi A-đam phạm tội và nhận biết mình lõa lồ, Đức Chúa Trời đã giết một con sinh để lấy da mặc cho ông — hình ảnh tiên tri về Chiên Con bị giết từ buổi sáng thế (Khải Huyền 13:8).
+Chiếc áo trắng tượng trưng cho sự công bình mà Đức Chúa Giê-su ban cho khi con người tin nhận Ngài. Ngay từ vườn Ê-đen, sau khi A-đam phạm tội và nhận biết mình lõa lồ, Đức Chúa Trời đã giết một con sinh để lấy da mặc cho ông — hình ảnh tiên tri về Chiên Con bị giết từ buổi sáng thế (Khải Huyền 13:8).
 
-Khi tin nhận Chúa Giê-su, chúng ta được mặc chiếc áo công bình, được Chúa tuyên bố vô tội. Nhưng chiếc áo ấy cần được giữ gìn — ai mất chiếc áo lễ sẽ bị đuổi ra khỏi tiệc cưới. Khải Huyền 7:9–14 mô tả đoàn người vô số mặc áo dài trắng — đó là những người đã giặt và phiếu trắng áo mình trong huyết Chiên Con, vượt qua cơn đại nạn mà vẫn giữ được phẩm hạnh công bình.
+Khi tin nhận Đức Chúa Giê-su, chúng ta được mặc chiếc áo công bình, được Chúa tuyên bố vô tội. Nhưng chiếc áo ấy cần được giữ gìn — ai mất chiếc áo lễ sẽ bị đuổi ra khỏi tiệc cưới. Khải Huyền 7:9–14 mô tả đoàn người vô số mặc áo dài trắng — đó là những người đã giặt và phiếu trắng áo mình trong huyết Chiên Con, vượt qua cơn đại nạn mà vẫn giữ được phẩm hạnh công bình.
 
 Sống theo Lời Chúa và vâng phục Đức Thánh Linh — đó là cách chúng ta giữ chiếc áo trắng cho đến ngày gặp Chúa.
 

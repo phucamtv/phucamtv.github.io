@@ -1,7 +1,7 @@
 ---
 title: "Hiện tượng Thích Minh Tuệ: Chân tu hay giả tu?"
 date: 2025-07-10
-description: "Phân tích hiện tượng Thích Minh Tuệ từ góc nhìn Cơ Đốc giáo. Tu hành khổ hạnh có giúp con người thoát khỏi bản chất tội lỗi? Giải pháp duy nhất từ Đức Chúa Jesus."
+description: "Phân tích hiện tượng Thích Minh Tuệ từ góc nhìn Cơ Đốc giáo. Tu hành khổ hạnh có giúp con người thoát khỏi bản chất tội lỗi? Giải pháp duy nhất từ Đức Chúa Giê-su."
 tags: ["Bài Viết", "Xã Hội", "Đức Tin", "Thánh Kinh"]
 authors: ["truong-the-hong"]
 url: /baiviet/hien-tuong-thich-minh-tue/index.html
@@ -29,14 +29,14 @@ Xét cho cùng, Thích Minh Tuệ nổi lên không phải vì ông ta tu giỏi
 
 Lối sống của ông đánh trúng tâm lý một bộ phận dân chúng — những người chán ngán cái hệ thống Phật giáo chính thống đầy tiền bạc và hình thức. Nhưng cũng chính vì thế mà ông làm phật lòng không ít người, những kẻ luyến tiếc truyền thống lâu đời bị ông vô tình "đánh đổ".
 
-## Giải pháp từ Đức Chúa Jesus
+## Giải pháp từ Đức Chúa Giê-su
 
 Thích Minh Tuệ, dù thật lòng tu hành hay chỉ là kẻ hành xác lập dị, rốt cuộc cũng chỉ là một con người. Ông có thể khiến thiên hạ xôn xao, kẻ tung hô, người dè bỉu, nhưng cái chính vẫn là: ông không thoát khỏi cái bản chất băng hoại của loài người. Chúng ta cũng vậy thôi. Dù có khắc khổ tu tập, dù có cố sức diệt dục, thì cái tham-sân-si vẫn như bóng ma, đeo bám mãi không rời. Ai trong chúng ta dám vỗ ngực nói mình tự cứu được mình? Chẳng ai cả, bởi cái phẩm chất đã hư hỏng từ thuở ban đầu không phải thứ sức người có thể sửa chữa.
 
-Đức Chúa Jesus biết rõ điều đó. Ngài hiểu rằng con người, dù có Thích Minh Tuệ hay những bậc tu hành truyền thống, đều bất lực trước sự băng hoại của chính mình. Ngài không đến để dạy ta cách tự mình trèo lên khỏi vũng lầy tội lỗi — Ngài đến để chết thay cho tội lỗi của chúng ta. Trên cây thánh giá, Ngài gánh lấy cái giá mà ta đáng phải trả, để phục hồi lại sự trong sạch ban đầu mà Ngài đã tạo dựng nên ta.
+Đức Chúa Giê-su biết rõ điều đó. Ngài hiểu rằng con người, dù có Thích Minh Tuệ hay những bậc tu hành truyền thống, đều bất lực trước sự băng hoại của chính mình. Ngài không đến để dạy ta cách tự mình trèo lên khỏi vũng lầy tội lỗi — Ngài đến để chết thay cho tội lỗi của chúng ta. Trên cây thánh giá, Ngài gánh lấy cái giá mà ta đáng phải trả, để phục hồi lại sự trong sạch ban đầu mà Ngài đã tạo dựng nên ta.
 
 > "Ta là đường đi, chân lý và sự sống; không ai đến được với Cha mà không qua Ta." — Giăng 14:6
 
-Vậy thì sao phải loay hoay tu tập bằng sức riêng, như Thích Minh Tuệ hay các hệ thống Phật giáo truyền thống, để rồi vẫn rơi vào vòng luẩn quẩn? Hãy đến với Đức Chúa Jesus. Tin nhận Ngài, tiếp nhận sức sống từ Ngài — đó là lối thoát duy nhất. Đời người ngắn ngủi, đừng phí sức vào những nỗ lực vô vọng. Ngài đã mở đường, chỉ cần ta bước đi.
+Vậy thì sao phải loay hoay tu tập bằng sức riêng, như Thích Minh Tuệ hay các hệ thống Phật giáo truyền thống, để rồi vẫn rơi vào vòng luẩn quẩn? Hãy đến với Đức Chúa Giê-su. Tin nhận Ngài, tiếp nhận sức sống từ Ngài — đó là lối thoát duy nhất. Đời người ngắn ngủi, đừng phí sức vào những nỗ lực vô vọng. Ngài đã mở đường, chỉ cần ta bước đi.
 
 > "Chẳng có sự cứu rỗi trong đấng nào khác; vì ở dưới trời, chẳng có danh nào khác ban cho loài người, để chúng ta phải nhờ đó mà được cứu." — Công Vụ 4:12

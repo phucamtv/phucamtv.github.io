@@ -16,9 +16,9 @@ draft: false
 
 > "Người sanh con trai đầu lòng, lấy khăn bọc con mình, đặt nằm trong máng cỏ, vì nhà quán không có đủ chỗ ở." — Lu-ca 2:7
 
-Mỗi mùa Giáng Sinh, chúng ta thường thấy các giáo đường trang trí những hang đá xinh đẹp, với máng cỏ sạch sẽ, rơm vàng óng ả và các tượng súc vật xinh xắn bao quanh. Nhưng thực tế, chuồng gia súc nơi Chúa Giê-su ra đời hoàn toàn khác xa với những gì chúng ta tưởng tượng. Đó là nơi ẩm thấp, có mùi của rơm mục, của phân súc vật — một nơi tận cùng của sự tầm thường. Vậy tại sao Thượng Đế lại chọn nơi tồi tàn nhất để Con Ngài giáng sinh?
+Mỗi mùa Giáng Sinh, chúng ta thường thấy các giáo đường trang trí những hang đá xinh đẹp, với máng cỏ sạch sẽ, rơm vàng óng ả và các tượng súc vật xinh xắn bao quanh. Nhưng thực tế, chuồng gia súc nơi Đức Chúa Giê-su ra đời hoàn toàn khác xa với những gì chúng ta tưởng tượng. Đó là nơi ẩm thấp, có mùi của rơm mục, của phân súc vật — một nơi tận cùng của sự tầm thường. Vậy tại sao Thượng Đế lại chọn nơi tồi tàn nhất để Con Ngài giáng sinh?
 
-### Bối Cảnh Sự Ra Đời Của Chúa Giê-su
+### Bối Cảnh Sự Ra Đời Của Đức Chúa Giê-su
 
 Theo Lu-ca đoạn 2, Giô-sép và Ma-ri phải trở về Bết-lê-hem để khai tên vào sổ bộ theo chiếu chỉ của Sê-sa. Bết-lê-hem vốn chỉ là một tiểu thôn nhỏ bé, không đủ quán trọ cho lượng người đông đúc trở về. Trong hoàn cảnh Ma-ri đang mang thai sắp sinh, họ buộc lòng phải xin ở trong một chuồng gia súc. Và chính trong đêm đó, Đức Chúa Giê-su ra đời.
 
@@ -30,7 +30,7 @@ Trong Lu-ca đoạn 2 câu 4 đến 20, chữ "máng cỏ" xuất hiện ba lầ
 
 #### 1. Máng Cỏ Bày Tỏ Tình Yêu Tận Cùng Của Đức Chúa Trời
 
-Lần đầu tiên máng cỏ được nhắc đến là khi Ma-ri sinh Chúa Giê-su (câu 7). Máng cỏ thật sự chỉ là cái máng bằng gỗ dùng để đựng thức ăn cho gia súc. Giô-sép, một người thợ mộc, đã nhìn quanh chuồng gia súc và nghĩ ra cách lấy rơm lót lên máng để đặt con trẻ.
+Lần đầu tiên máng cỏ được nhắc đến là khi Ma-ri sinh Đức Chúa Giê-su (câu 7). Máng cỏ thật sự chỉ là cái máng bằng gỗ dùng để đựng thức ăn cho gia súc. Giô-sép, một người thợ mộc, đã nhìn quanh chuồng gia súc và nghĩ ra cách lấy rơm lót lên máng để đặt con trẻ.
 
 Đức Chúa Trời đã chọn nơi tận cùng nhất để Con Ngài ra đời. Chưa ai trong chúng ta, dù nghèo khổ đến đâu, lại phải sinh ra trong chuồng gia súc. Điều này bày tỏ rằng Thượng Đế đã đi đến chỗ tận cùng để có thể cảm thông với mọi nỗi khổ đau của con người. Khi chúng ta cô đơn, buồn tủi, thất vọng, bị ruồng bỏ hay đau đớn vì tuổi già, hãy nhớ rằng Chúa Cứu Thế đã trải qua sự khốn khổ tận cùng để thông cảm và nâng đỡ chúng ta.
 

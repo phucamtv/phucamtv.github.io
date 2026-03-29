@@ -42,7 +42,7 @@ Khi Chúa Giáng Sinh, cả một đoàn thiên sứ hiện ra hát cho những 
 
 Câu chuyện bão giữa biển hồ Ga-li-lê là bài học sống động về đức tin và bình an. Các môn đồ đều là ngư phủ lão luyện, quen với sóng gió, nhưng khi cơn bão dữ dội ập đến, họ hoảng loạn quên mất quyền năng của Đức Thầy đang ở trên thuyền.
 
-Chúa Giê-su hỏi: *"Sao các ngươi sợ? Chưa có đức tin sao?"* Nếu thật sự tin vào Đấng quyền năng, điều khôn ngoan nhất lúc đó là chạy đến bên Ngài thay vì hoảng sợ. Ngày nay cũng vậy — chúng ta nói mình tin Chúa, nhưng khi gặp chuyện thì lập tức hoảng loạn, sự bình an biến mất.
+Đức Chúa Giê-su hỏi: *"Sao các ngươi sợ? Chưa có đức tin sao?"* Nếu thật sự tin vào Đấng quyền năng, điều khôn ngoan nhất lúc đó là chạy đến bên Ngài thay vì hoảng sợ. Ngày nay cũng vậy — chúng ta nói mình tin Chúa, nhưng khi gặp chuyện thì lập tức hoảng loạn, sự bình an biến mất.
 
 ---
 

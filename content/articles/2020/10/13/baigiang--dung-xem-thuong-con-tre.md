@@ -18,7 +18,7 @@ Trong thế kỷ thứ 11, công tước Robert ở Burgundy là một trong nh�
 
 Lúc ấy, có một vị lãnh chúa đứng nhìn rồi mỉm cười khó hiểu. Công tước Robert hỏi tại sao ông cười, lãnh chúa ấy trả lời: "Tôi thấy đứa trẻ còn nhỏ quá!" Công tước Robert đáp: "Phải, bây giờ nó còn nhỏ, nhưng rồi nó sẽ lớn!" Thật vậy, đứa bé ấy đã lớn lên, và trở thành vua nước Anh: William The Conqueror.
 
-Trẻ con góp một phần quan trọng trong công việc của Đức Chúa Trời. Không cần chờ cho đến lúc chúng trưởng thành, mà ngay ở cái tuổi trẻ thơ ấy, chúng cũng có thể làm chứng về Chúa bằng tất cả sự hồn nhiên vốn có. Hãy xem Chúa Giê-su yêu quý trẻ thơ thế nào, đến nỗi Ngài cho các trẻ dự phần trong sứ điệp của Ngài, dùng chúng làm hình ảnh tiêu biểu cho một tâm hồn tái sanh, xem chúng là chủ nhân đích thực của Nước Trời.
+Trẻ con góp một phần quan trọng trong công việc của Đức Chúa Trời. Không cần chờ cho đến lúc chúng trưởng thành, mà ngay ở cái tuổi trẻ thơ ấy, chúng cũng có thể làm chứng về Chúa bằng tất cả sự hồn nhiên vốn có. Hãy xem Đức Chúa Giê-su yêu quý trẻ thơ thế nào, đến nỗi Ngài cho các trẻ dự phần trong sứ điệp của Ngài, dùng chúng làm hình ảnh tiêu biểu cho một tâm hồn tái sanh, xem chúng là chủ nhân đích thực của Nước Trời.
 
 Hội thánh cần quan tâm một cách đầy đủ hơn nữa đối với những hoạt động thanh thiếu niên. Hãy giúp đỡ những người lớn tuổi, có tư tưởng bảo thủ, nhìn về giới trẻ một cách trân trọng hơn. Hãy hòa hợp các thế hệ trong Hội thánh để tạo nên sức mạnh. Đó là sự hòa hợp giữa kinh nghiệm của quý vị lão thành và lòng hăng hái của những người trẻ tuổi. Ai sẽ thay chúng ta gánh vác việc lớn, nếu không phải là những người trẻ, thế sao ta vẫn nhìn họ bằng con mắt xem thường và thiếu tin tưởng?
 

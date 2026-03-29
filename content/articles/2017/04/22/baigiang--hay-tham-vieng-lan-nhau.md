@@ -23,7 +23,7 @@ Câu chuyện này cho chúng ta thấy rằng bất kỳ một sự thăm viế
 
 ## Thăm viếng liên quan đến sự cứu rỗi
 
-Trong ẩn dụ về chiên và dê ở Ma-thi-ơ đoạn 25, Chúa Giê-su phân biệt rõ ràng giữa hai nhóm người. Những người bên chiên được Ngài ban thưởng sự sống đời đời vì khi Ngài đói, họ cho ăn; khi Ngài khát, họ cho uống; khi Ngài ở tù và bệnh tật, họ thăm viếng. Ngược lại, những người bên dê bị quở trách vì đã không làm những điều đó cho người chung quanh. Chúa dạy rằng khi chúng ta chăm sóc, thăm viếng những người xung quanh, tức là đã làm cho chính Ngài.
+Trong ẩn dụ về chiên và dê ở Ma-thi-ơ đoạn 25, Đức Chúa Giê-su phân biệt rõ ràng giữa hai nhóm người. Những người bên chiên được Ngài ban thưởng sự sống đời đời vì khi Ngài đói, họ cho ăn; khi Ngài khát, họ cho uống; khi Ngài ở tù và bệnh tật, họ thăm viếng. Ngược lại, những người bên dê bị quở trách vì đã không làm những điều đó cho người chung quanh. Chúa dạy rằng khi chúng ta chăm sóc, thăm viếng những người xung quanh, tức là đã làm cho chính Ngài.
 
 Gia-cơ đoạn 1 câu 27 khẳng định rằng sự tin đạo thanh sạch trước mặt Đức Chúa Trời gồm hai điều: thăm viếng kẻ mồ côi, người góa bụa trong cơn khốn khó, và giữ mình cho khỏi sự ô uế của thế gian. Đây chính là sự biến tấu của mười điều răn — kính Chúa và yêu người. Nếu đời sống chúng ta chỉ quan tâm đến chính mình mà không dành thời gian cho người khác, chúng ta đang đánh mất đi sự cứu rỗi.
 
@@ -41,8 +41,8 @@ Việc thăm viếng không phải là điều gì khó khăn đến nỗi cần
 
 **Thứ ba, trang phục và phong cách giao tiếp.** Chúng ta đến với tư cách đại diện Hội Thánh, nên cần ăn mặc tươm tất, cư xử lịch sự, lễ độ, đặc biệt khi gặp những người thân chưa tin Chúa trong gia đình người được thăm.
 
-**Thứ tư, biết lắng nghe.** Lắng nghe là một nghệ thuật. Không phải ai cũng dễ dàng thổ lộ tâm tình. Chúng ta cần tạo sự tin tưởng, gợi mở để người ta có thể chia sẻ. Khi một người có nỗi niềm mà được chia sẻ ra, họ cảm thấy nhẹ nhàng hơn rất nhiều. Chúa Giê-su dạy rằng không có gì quý hơn là vì bạn hữu mà phó sự sống mình.
+**Thứ tư, biết lắng nghe.** Lắng nghe là một nghệ thuật. Không phải ai cũng dễ dàng thổ lộ tâm tình. Chúng ta cần tạo sự tin tưởng, gợi mở để người ta có thể chia sẻ. Khi một người có nỗi niềm mà được chia sẻ ra, họ cảm thấy nhẹ nhàng hơn rất nhiều. Đức Chúa Giê-su dạy rằng không có gì quý hơn là vì bạn hữu mà phó sự sống mình.
 
 ## Kết luận
 
-Sự thăm viếng lẫn nhau không chỉ là bổn phận mà còn liên quan trực tiếp đến sự cứu rỗi. Chúng ta cần thoát ra khỏi vỏ bọc ích kỷ, đừng dành quá nhiều thời gian và tài nguyên cho riêng mình mà hãy nhín một chút để chia sẻ với người chung quanh. Theo khảo sát, tín đồ mới nếu kết thân được với bốn, năm tín đồ cũ và tham gia hoạt động Hội Thánh, có đến 90-95% sẽ không bao giờ bỏ Chúa. Ngược lại, nếu thui thủi một mình, chỉ sau ba đến bốn tháng họ sẽ rời bỏ. Hãy thay đổi suy nghĩ và cộng tác với Hội Thánh, với Đức Chúa Trời để thăm viếng, chăm sóc lẫn nhau, khích lệ đức tin và chờ đợi ngày Chúa Giê-su trở lại.
+Sự thăm viếng lẫn nhau không chỉ là bổn phận mà còn liên quan trực tiếp đến sự cứu rỗi. Chúng ta cần thoát ra khỏi vỏ bọc ích kỷ, đừng dành quá nhiều thời gian và tài nguyên cho riêng mình mà hãy nhín một chút để chia sẻ với người chung quanh. Theo khảo sát, tín đồ mới nếu kết thân được với bốn, năm tín đồ cũ và tham gia hoạt động Hội Thánh, có đến 90-95% sẽ không bao giờ bỏ Chúa. Ngược lại, nếu thui thủi một mình, chỉ sau ba đến bốn tháng họ sẽ rời bỏ. Hãy thay đổi suy nghĩ và cộng tác với Hội Thánh, với Đức Chúa Trời để thăm viếng, chăm sóc lẫn nhau, khích lệ đức tin và chờ đợi ngày Đức Chúa Giê-su trở lại.

@@ -24,7 +24,7 @@ Có nhiều lý do để tin Kinh Thánh là Lời Đức Chúa Trời: sự hì
 
 Lời tiên tri chiếm gần **1/3 Kinh Thánh**: trong 31.102 câu Kinh Thánh, có đến 8.457 câu liên quan đến tiên tri, trong đó 5.457 câu là tiên tri khẳng định trực tiếp và 2.895 câu mang ý nghĩa tiên tri bóng gió.
 
-Ê-sai 46:10 khẳng định: chỉ có Đức Chúa Trời mới có thể *"ra sự cuối cùng từ buổi đầu tiên."* A-mốt 3:7 nói Ngài bày tỏ sự kín nhiệm cho các tiên tri. Và chính Chúa Giê-su phán: *"Ta đã nói những điều đó trước khi xảy đến"* (Giăng 14:29).
+Ê-sai 46:10 khẳng định: chỉ có Đức Chúa Trời mới có thể *"ra sự cuối cùng từ buổi đầu tiên."* A-mốt 3:7 nói Ngài bày tỏ sự kín nhiệm cho các tiên tri. Và chính Đức Chúa Giê-su phán: *"Ta đã nói những điều đó trước khi xảy đến"* (Giăng 14:29).
 
 Kinh Thánh đã tự đặt mình vào một sự thử nghiệm khắc nghiệt của lịch sử: chỉ cần một lời tiên tri không xảy ra hoặc xảy ra khác đi, toàn bộ Kinh Thánh có thể bị phản bác. Nhưng với hơn 5.000 lời tiên tri trực tiếp, tất cả đều ứng nghiệm — điều này chứng minh tác giả thật của Kinh Thánh chính là Đức Chúa Trời.
 

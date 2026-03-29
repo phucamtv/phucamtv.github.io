@@ -40,11 +40,11 @@ Bảo vệ những gì chỉ liên quan đến sự sống đời này là vô n
 
 ## Bài Học Từ Lòng Can Đảm Của Cậu Bé
 
-Câu chuyện về cậu bé ở bệnh viện Stanford không chỉ là một câu chuyện cảm động về tình chị em. Đó là hình ảnh thu nhỏ của tình yêu hy sinh mà Chúa Giê-su đã thể hiện trọn vẹn trên thập tự giá.
+Câu chuyện về cậu bé ở bệnh viện Stanford không chỉ là một câu chuyện cảm động về tình chị em. Đó là hình ảnh thu nhỏ của tình yêu hy sinh mà Đức Chúa Giê-su đã thể hiện trọn vẹn trên thập tự giá.
 
 Cậu bé 5 tuổi, dù sợ hãi đến mức mặt mày tái xanh, nhưng vẫn sẵn sàng "chết" để chị được sống. Đó chính là lòng can đảm đích thực — không phải là sự liều lĩnh thiếu suy nghĩ, mà là sự chọn lựa có ý thức, dù biết cái giá phải trả.
 
-Chúa Giê-su phán trong Ma-thi-ơ 16:25: *"Vì ai muốn cứu sự sống mình thì sẽ mất; còn ai vì cớ Ta mà mất sự sống mình thì sẽ tìm lại được."*
+Đức Chúa Giê-su phán trong Ma-thi-ơ 16:25: *"Vì ai muốn cứu sự sống mình thì sẽ mất; còn ai vì cớ Ta mà mất sự sống mình thì sẽ tìm lại được."*
 
 Lòng can đảm Cơ Đốc không phải là không biết sợ hãi. Lòng can đảm là dù biết sợ, dù hiểu rõ cái giá phải trả, vẫn chọn sống và chết vì người khác — vì tình yêu thương mà Chúa đã truyền dạy.
 

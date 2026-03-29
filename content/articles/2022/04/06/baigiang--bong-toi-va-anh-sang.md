@@ -22,13 +22,13 @@ Khi chưa biết Chúa, chúng ta tự mình dẫn dắt cuộc đời mình. M�
 
 Phao-lô dạy rằng trái của sự sáng láng ở tại mọi điều nhân từ, công bình và thành thật. Ba điều này vô cùng quan trọng. Ánh sáng giúp chúng ta trở nên người hữu dụng cho xã hội. Thật đáng buồn nếu đời sống cơ đốc nhân lại là một đời sống vô ích, nếu những người chung quanh không hề nếm được trái ngọt nào từ nơi chúng ta.
 
-Hình ảnh cây vả mà Chúa Giê-su đi ngang qua minh họa rõ ràng: cây có nhiều lá, biểu hiện bên ngoài sum suê xanh tươi, nhưng lại không có trái. Cũng vậy, nếu đời sống cơ đốc nhân biểu hiện ra bên ngoài rất lịch sự, ngọt ngào nhưng không đem lại ích lợi nào cho người khác thì thật đáng buồn.
+Hình ảnh cây vả mà Đức Chúa Giê-su đi ngang qua minh họa rõ ràng: cây có nhiều lá, biểu hiện bên ngoài sum suê xanh tươi, nhưng lại không có trái. Cũng vậy, nếu đời sống cơ đốc nhân biểu hiện ra bên ngoài rất lịch sự, ngọt ngào nhưng không đem lại ích lợi nào cho người khác thì thật đáng buồn.
 
 ## Phải quở trách sự tối tăm
 
 Phao-lô khuyên dạy rằng chớ dự vào công việc vô ích của sự tối tăm, thà quở trách chúng nó thì hơn. Khi thấy điều xấu mà im lặng, đứng giữa một cách vô cảm, bàng quan — đó là thái độ vô trách nhiệm. Kinh Thánh dạy rằng nếu thấy việc xấu mà làm thinh thì không được, phải lên tiếng.
 
-Chúa Giê-su cũng dạy cách xử lý khi biết anh em mình sai phạm: trước hết một mình đến khuyên nhủ, nếu không nghe thì rủ thêm vài người, rồi mới đến hội thánh. Qua ba lần mà không được thì mới dùng kỷ luật. Đó là cách ánh sáng phơi bày và thanh tẩy những điều xấu xa. Khi điều ác được đưa ra ánh sáng, bản thân nó trở thành một tấm gương, một bài học cho người khác.
+Đức Chúa Giê-su cũng dạy cách xử lý khi biết anh em mình sai phạm: trước hết một mình đến khuyên nhủ, nếu không nghe thì rủ thêm vài người, rồi mới đến hội thánh. Qua ba lần mà không được thì mới dùng kỷ luật. Đó là cách ánh sáng phơi bày và thanh tẩy những điều xấu xa. Khi điều ác được đưa ra ánh sáng, bản thân nó trở thành một tấm gương, một bài học cho người khác.
 
 ## Đừng sợ quá khứ
 

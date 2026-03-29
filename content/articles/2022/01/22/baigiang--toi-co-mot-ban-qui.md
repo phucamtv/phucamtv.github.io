@@ -32,12 +32,12 @@ Châm Ngôn 27:6 dạy rằng bạn hữu làm cho thương tích ấy là bởi
 
 Cách duy nhất để có được bạn thân là chính mình phải trở nên một người bạn đúng nghĩa. Mình không trung thành thì sao đòi hỏi người khác trung thành; mình không chân thực thì làm sao kiếm được người chân thật.
 
-## 3. Chúa Giê-su -- Người bạn quý nhất
+## 3. Đức Chúa Giê-su -- Người bạn quý nhất
 
-Giăng 15:13-15 ghi lại lời Chúa Giê-su: chẳng có sự yêu thương nào lớn hơn là vì bạn hữu mà phó sự sống mình. Ngài không gọi chúng ta là đầy tớ nữa, mà gọi là bạn hữu, vì Ngài đã tỏ cho chúng ta biết mọi điều Ngài nghe nơi Cha.
+Giăng 15:13-15 ghi lại lời Đức Chúa Giê-su: chẳng có sự yêu thương nào lớn hơn là vì bạn hữu mà phó sự sống mình. Ngài không gọi chúng ta là đầy tớ nữa, mà gọi là bạn hữu, vì Ngài đã tỏ cho chúng ta biết mọi điều Ngài nghe nơi Cha.
 
 Không có tôn giáo nào mà thượng đế hạ mình xuống làm bạn với loài người như Cơ Đốc giáo. Ngài chủ động đến làm bạn với chúng ta, nhưng câu hỏi là: chúng ta có xem Ngài là bạn không? Có khi suốt một ngày chúng ta không hề nghĩ đến Chúa, bận rộn với bao nhiêu thứ khác, mà quên đi Đấng từ trời cao đã hạ mình xuống làm bạn của chúng ta.
 
-Giăng 13:1 cho biết trong giây phút Chúa Giê-su biết giờ mình phải lìa thế gian, Ngài vẫn yêu kẻ thuộc về mình cho đến cuối cùng. Ngay cả trong lúc khủng hoảng nhất, Ngài vẫn nhớ đến chúng ta. Đó là một tình bạn tuyệt vời mà không ngôn từ nào diễn tả hết được.
+Giăng 13:1 cho biết trong giây phút Đức Chúa Giê-su biết giờ mình phải lìa thế gian, Ngài vẫn yêu kẻ thuộc về mình cho đến cuối cùng. Ngay cả trong lúc khủng hoảng nhất, Ngài vẫn nhớ đến chúng ta. Đó là một tình bạn tuyệt vời mà không ngôn từ nào diễn tả hết được.
 
 Hãy đánh thức tâm linh để nhận biết rằng mình có một người bạn tuyệt vời là Chúa Cứu Thế Giê-su, và hãy trân quý tình bạn đó từng ngày, từng giờ trong cuộc sống.

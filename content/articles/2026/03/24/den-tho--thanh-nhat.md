@@ -34,35 +34,35 @@ Thi Thiên 77:13 nhắc nhở chúng ta rằng đường lối của Đức Chú
 
 Trong hệ thống sinh tế của Cựu Ước, khi một người phạm tội, người ấy phải đem một con chiên không tì vít đến dâng làm sinh tế. Con chiên chết thay cho người phạm tội. Đây không phải chỉ là nghi lễ tôn giáo — đây là lẽ thật thiêng liêng được trình bày dưới hình thức hữu hình.
 
-Tân Ước áp dụng hình bóng này cho chính Đức Chúa Giê-xu. Ngài được Giăng Báp-tít gọi là *"Chiên Con của Đức Chúa Trời, là Đấng cất tội lỗi thế gian đi"* (Giăng 1:29). Chiên con trong đền tạm là dấu chỉ; Đấng Christ trên thập tự giá là thực tại.
+Tân Ước áp dụng hình bóng này cho chính Đức Chúa Giê-su. Ngài được Giăng Báp-tít gọi là *"Chiên Con của Đức Chúa Trời, là Đấng cất tội lỗi thế gian đi"* (Giăng 1:29). Chiên con trong đền tạm là dấu chỉ; Đấng Christ trên thập tự giá là thực tại.
 
 ### 2. Chức vụ thầy tế lễ — Chức vụ cầu thay của Đấng Christ
 
 Trong đền tạm, các thầy tế lễ ngày ngày dâng sinh tế và cầu thay cho dân. Mỗi năm một lần, thầy tế lễ thượng phẩm bước vào nơi chí thánh trong Ngày Chuộc Tội. Đó là hình ảnh duy nhất, uy nghiêm nhất trong cả năm phụng vụ của Israel.
 
-Sách Hê-bơ-rơ giải thích rõ ràng: Đức Chúa Giê-xu là Thầy Tế Lễ Thượng Phẩm đời đời, không phải phục vụ trong đền thánh dưới đất làm bằng tay người, nhưng trong đền thánh trên trời — thực tại mà đền thánh dưới đất chỉ là hình bóng. Ngài hiện đang *"cầu thay cho chúng ta trước mặt Đức Chúa Trời"* (Hê-bơ-rơ 7:25).
+Sách Hê-bơ-rơ giải thích rõ ràng: Đức Chúa Giê-su là Thầy Tế Lễ Thượng Phẩm đời đời, không phải phục vụ trong đền thánh dưới đất làm bằng tay người, nhưng trong đền thánh trên trời — thực tại mà đền thánh dưới đất chỉ là hình bóng. Ngài hiện đang *"cầu thay cho chúng ta trước mặt Đức Chúa Trời"* (Hê-bơ-rơ 7:25).
 
 ### 3. Bánh trần thiết — Lời và sự sống thuộc linh
 
 Trong nơi thánh có bàn bánh trần thiết, với mười hai ổ bánh không men đặt trước mặt Đức Chúa Trời, được thay mới mỗi Sa-bát. Men trong Kinh Thánh thường tượng trưng cho tội lỗi và sự hư hoại; bánh không men vì thế tượng trưng cho sự tinh sạch và không tì vít.
 
-Đức Chúa Giê-xu tự xưng là *"Bánh của sự sống"* (Giăng 6:35). Ngài là sự nuôi dưỡng thuộc linh thật sự cho nhân loại, đúng như bánh trần thiết nuôi dưỡng biểu tượng cho mười hai chi phái Israel.
+Đức Chúa Giê-su tự xưng là *"Bánh của sự sống"* (Giăng 6:35). Ngài là sự nuôi dưỡng thuộc linh thật sự cho nhân loại, đúng như bánh trần thiết nuôi dưỡng biểu tượng cho mười hai chi phái Israel.
 
 ### 4. Chân đèn bảy ngọn — Hội Thánh và Đức Thánh Linh
 
 Chân đèn bảy ngọn (Menorah) là nguồn sáng duy nhất trong nơi thánh. Dầu ô-liu phải được thắp liên tục, và thầy tế lễ phải chăm sóc đèn mỗi ngày. Ánh sáng không tự sinh ra — nó đến từ dầu được đổ vào.
 
-Trong Khải Huyền 1:20, Đức Chúa Giê-xu giải thích rõ ràng cho sứ đồ Giăng: *"Bảy chân đèn bằng vàng là bảy Hội Thánh."* Ngài đi giữa bảy chân đèn — có nghĩa là Ngài hiện diện giữa Hội Thánh, quan sát và chăm sóc. Dầu tượng trưng cho Đức Thánh Linh; ánh sáng tượng trưng cho lẽ thật và Phúc Âm. Hội Thánh được kêu gọi không tự phát sáng, mà phản chiếu ánh sáng của Đấng Christ ra cho thế gian (Ma-thi-ơ 5:14).
+Trong Khải Huyền 1:20, Đức Chúa Giê-su giải thích rõ ràng cho sứ đồ Giăng: *"Bảy chân đèn bằng vàng là bảy Hội Thánh."* Ngài đi giữa bảy chân đèn — có nghĩa là Ngài hiện diện giữa Hội Thánh, quan sát và chăm sóc. Dầu tượng trưng cho Đức Thánh Linh; ánh sáng tượng trưng cho lẽ thật và Phúc Âm. Hội Thánh được kêu gọi không tự phát sáng, mà phản chiếu ánh sáng của Đấng Christ ra cho thế gian (Ma-thi-ơ 5:14).
 
 ## II. Bảy kỳ lễ — Niên lịch tiên tri của Đức Chúa Trời
 
 Lê-vi Ký 23 ghi lại bảy kỳ lễ thánh mà Đức Chúa Trời thiết lập cho dân Israel. Tất cả đều gắn liền với đền thánh, với sinh tế, và với thầy tế lễ. Nhưng nhìn từ góc độ thần học, đây thực chất là lịch tiên tri — một niên biểu về chương trình cứu rỗi của Đức Chúa Trời.
 
-Bốn kỳ lễ đầu đã được ứng nghiệm trong lần đến thứ nhất của Đức Chúa Giê-xu. Ba kỳ lễ sau liên quan đến các sự kiện trước khi Ngài tái lâm. Khi đặt hai nhóm này cạnh nhau, chúng ta thấy một cấu trúc tiên tri đáng kinh ngạc trong Cựu Ước.
+Bốn kỳ lễ đầu đã được ứng nghiệm trong lần đến thứ nhất của Đức Chúa Giê-su. Ba kỳ lễ sau liên quan đến các sự kiện trước khi Ngài tái lâm. Khi đặt hai nhóm này cạnh nhau, chúng ta thấy một cấu trúc tiên tri đáng kinh ngạc trong Cựu Ước.
 
 ### 1. Lễ Vượt Qua (Lê-vi Ký 23:5) — Thập tự giá
 
-Chiên Vượt Qua chết để dân Israel thoát khỏi án phán xét của Đức Chúa Trời tại Ai Cập. Đức Chúa Giê-xu chết đúng vào dịp Lễ Vượt Qua — không phải ngẫu nhiên, mà là sự ứng nghiệm. Ngài là Chiên Vượt Qua thật sự, chết thay để nhân loại thoát khỏi án phán xét tội lỗi.
+Chiên Vượt Qua chết để dân Israel thoát khỏi án phán xét của Đức Chúa Trời tại Ai Cập. Đức Chúa Giê-su chết đúng vào dịp Lễ Vượt Qua — không phải ngẫu nhiên, mà là sự ứng nghiệm. Ngài là Chiên Vượt Qua thật sự, chết thay để nhân loại thoát khỏi án phán xét tội lỗi.
 
 ### 2. Lễ Bánh Không Men (Lê-vi Ký 23:6–8) — Đời sống thánh sạch
 
@@ -70,7 +70,7 @@ Bảy ngày ăn bánh không men nhắc dân sự phải xa lánh tội lỗi v�
 
 ### 3. Lễ Trái Đầu Mùa (Lê-vi Ký 23:9–14) — Sự phục sinh
 
-Bó lúa đầu mùa được dâng lên Đức Chúa Trời như dấu hiệu của mùa gặt sắp đến. Đức Chúa Giê-xu sống lại từ kẻ chết đúng vào dịp lễ này, và sứ đồ Phao-lô gọi Ngài là *"trái đầu mùa của những kẻ ngủ"* (1 Cô-rinh-tô 15:20) — nghĩa là sự phục sinh của Ngài là bảo chứng cho sự phục sinh của tất cả những ai tin Ngài.
+Bó lúa đầu mùa được dâng lên Đức Chúa Trời như dấu hiệu của mùa gặt sắp đến. Đức Chúa Giê-su sống lại từ kẻ chết đúng vào dịp lễ này, và sứ đồ Phao-lô gọi Ngài là *"trái đầu mùa của những kẻ ngủ"* (1 Cô-rinh-tô 15:20) — nghĩa là sự phục sinh của Ngài là bảo chứng cho sự phục sinh của tất cả những ai tin Ngài.
 
 ### 4. Lễ Ngũ Tuần (Lê-vi Ký 23:15–22) — Khai sinh Hội Thánh
 
@@ -136,7 +136,7 @@ Và trong Tân Ước, bàn thờ ấy có một tên gọi: **Thập tự giá.
 > **Hê-bơ-rơ 10:10**
 > *"Chúng ta được nên thánh nhờ sự dâng thân thể của Đức Chúa Jêsus Christ một lần đủ cả."*
 
-Đây là lẽ thật cốt lõi của Phúc Âm. Chúng ta được nên thánh không phải bởi nỗ lực của bản thân, không phải bởi việc giữ các nghi lễ tôn giáo, không phải bởi khổ hạnh hay kỷ luật cá nhân — mà bởi sự dâng thân thể của Đức Chúa Giê-xu trên thập tự giá, một lần đủ cả.
+Đây là lẽ thật cốt lõi của Phúc Âm. Chúng ta được nên thánh không phải bởi nỗ lực của bản thân, không phải bởi việc giữ các nghi lễ tôn giáo, không phải bởi khổ hạnh hay kỷ luật cá nhân — mà bởi sự dâng thân thể của Đức Chúa Giê-su trên thập tự giá, một lần đủ cả.
 
 Dầu Luật Pháp là thánh, nhưng Luật Pháp không có khả năng làm cho con người nên thánh. Công dụng của Luật Pháp là soi sáng, là chỉ rõ: chúng ta là tội nhân, tất cả đều thiếu mất sự vinh hiển của Đức Chúa Trời (Rô-ma 3:23). Luật Pháp chẩn đoán bệnh; chỉ có huyết Đấng Christ mới chữa lành.
 
@@ -154,7 +154,7 @@ Có một xu hướng trong nhiều Hội Thánh hiện đại: xem Cựu Ước
 
 Cựu Ước là nền tảng; Tân Ước là toà nhà xây trên nền đó. Tân Ước giải thích Cựu Ước, soi sáng Cựu Ước, ứng nghiệm Cựu Ước — nhưng không thay thế Cựu Ước. Khi chúng ta mất đi nền tảng Cựu Ước, Tân Ước trở nên mơ hồ và dễ bị hiểu sai.
 
-Đền thánh là minh chứng rõ ràng nhất cho điều này. Từng đồ vật, từng nghi thức, từng kỳ lễ — tất cả đều nói về Đức Chúa Giê-xu Christ, về công cuộc cứu chuộc của Ngài, về chức vụ cầu thay của Ngài, về sự phán xét cuối cùng và về niềm vui đời đời. Đây là "bài học trực quan" vĩ đại nhất mà Đức Chúa Trời ban cho nhân loại.
+Đền thánh là minh chứng rõ ràng nhất cho điều này. Từng đồ vật, từng nghi thức, từng kỳ lễ — tất cả đều nói về Đức Chúa Giê-su Christ, về công cuộc cứu chuộc của Ngài, về chức vụ cầu thay của Ngài, về sự phán xét cuối cùng và về niềm vui đời đời. Đây là "bài học trực quan" vĩ đại nhất mà Đức Chúa Trời ban cho nhân loại.
 
 Và câu trả lời cho câu hỏi tưởng chừng đơn giản kia — cái gì là thánh nhất trong đền thờ — không chỉ là kiến thức thú vị. Đó là bài học về trái tim của Phúc Âm: sự thánh hoá đến không phải từ nỗ lực của chúng ta, mà từ bàn thờ — từ thập tự giá — nơi Chiên Con của Đức Chúa Trời đã hiến dâng mạng sống thay cho chúng ta.
 

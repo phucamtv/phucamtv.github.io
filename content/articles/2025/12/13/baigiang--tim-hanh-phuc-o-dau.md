@@ -32,7 +32,7 @@ Cánh cửa không phải là tiền bạc hay tình yêu — mà là sự tái 
 
 ## Câu Hỏi Thứ Hai: Có Hạnh Phúc Nếu Không Trưởng Thành?
 
-Lu-ca 2:40, 52 mô tả sự tăng trưởng của Chúa Giê-su: khôn ngoan càng thêm, thân hình càng lớn, càng được đẹp lòng Đức Chúa Trời và người ta. Bốn lãnh vực: tâm trí, thể lực, tâm linh và quan hệ xã hội.
+Lu-ca 2:40, 52 mô tả sự tăng trưởng của Đức Chúa Giê-su: khôn ngoan càng thêm, thân hình càng lớn, càng được đẹp lòng Đức Chúa Trời và người ta. Bốn lãnh vực: tâm trí, thể lực, tâm linh và quan hệ xã hội.
 
 Quy luật trưởng thành là quy luật đem lại hạnh phúc. Một đứa trẻ lớn lên khỏe mạnh, một cây ăn trái ra nhiều quả ngọt — đó đều là hình ảnh của sự trưởng thành đem đến niềm vui. Tương tự, người tin Chúa cần phát triển cả bốn lãnh vực đó để có hạnh phúc thật.
 
@@ -68,11 +68,11 @@ Giăng 15:4 nhắc: *"Hãy cứ ở trong ta thì ta sẽ ở trong các ngươi
 
 ## Câu Hỏi Thứ Năm: Điều Duy Nhất Thỏa Mãn Khao Khát Con Người Là Gì?
 
-Giăng 4:13-14 kể về cuộc gặp của Chúa Giê-su với người đàn bà thành Sa-ma-ri bên giếng Gia-cốp. Chúa phán: *"Phàm ai uống nước này vẫn còn khát mãi. Nhưng uống nước ta sẽ cho thì chẳng hề khát nữa. Nước ta cho sẽ thành một mạch nước trong người đó vang ra cho đến sự sống đời đời."*
+Giăng 4:13-14 kể về cuộc gặp của Đức Chúa Giê-su với người đàn bà thành Sa-ma-ri bên giếng Gia-cốp. Chúa phán: *"Phàm ai uống nước này vẫn còn khát mãi. Nhưng uống nước ta sẽ cho thì chẳng hề khát nữa. Nước ta cho sẽ thành một mạch nước trong người đó vang ra cho đến sự sống đời đời."*
 
 Khát là cảm giác ai cũng hiểu. Người ta có thể nhịn ăn vài ngày, nhưng không thể nhịn uống ngay cả một ngày. Khi cơ thể cạn nước, sự sống bị đe dọa. Tương tự, tâm hồn con người có cơn khát thuộc linh mà không thứ gì trong thế gian — tiền bạc, danh vọng, tình yêu, hôn nhân — có thể thỏa mãn trọn vẹn.
 
-Chỉ có Chúa Giê-su mới có thể ban nước sống thỏa mãn cơn khát đó mãi mãi — không phải chỉ cho đời này, mà cho đến sự sống đời đời.
+Chỉ có Đức Chúa Giê-su mới có thể ban nước sống thỏa mãn cơn khát đó mãi mãi — không phải chỉ cho đời này, mà cho đến sự sống đời đời.
 
 ---
 
@@ -81,10 +81,10 @@ Chỉ có Chúa Giê-su mới có thể ban nước sống thỏa mãn cơn khá
 Hạnh phúc thật không phải là điều tìm kiếm bên ngoài. Nó không đến từ tiền bạc, sức khỏe hoàn hảo, hay tình yêu lãng mạn. Những điều đó đều quý, nhưng đều tạm bợ và có thể mất đi bất kỳ lúc nào.
 
 Hạnh phúc thật đến từ:
-- **Cánh cửa tái sinh** — được nên thánh bởi Đức Thánh Linh và có niềm hy vọng qua sự sống lại của Chúa Giê-su.
-- **Sự trưởng thành** — phát triển cả tâm trí, thể lực, tâm linh và quan hệ xã hội theo gương Chúa Giê-su.
+- **Cánh cửa tái sinh** — được nên thánh bởi Đức Thánh Linh và có niềm hy vọng qua sự sống lại của Đức Chúa Giê-su.
+- **Sự trưởng thành** — phát triển cả tâm trí, thể lực, tâm linh và quan hệ xã hội theo gương Đức Chúa Giê-su.
 - **Buông bỏ lo lắng** — tin vào lời hứa của Đức Chúa Trời rằng mọi sự hiệp lại làm ích cho kẻ yêu mến Ngài.
 - **Mối tương giao sống động** — qua cầu nguyện và học lời Chúa mỗi ngày, ở trong Ngài như cành dính vào gốc nho.
-- **Uống nước sống** — để Chúa Giê-su thỏa mãn cơn khát sâu nhất của tâm hồn, không phải chỉ cho đời này mà cho đến sự sống đời đời.
+- **Uống nước sống** — để Đức Chúa Giê-su thỏa mãn cơn khát sâu nhất của tâm hồn, không phải chỉ cho đời này mà cho đến sự sống đời đời.
 
 Đây là con đường hạnh phúc mà Kinh Thánh chỉ ra — không phải là lý thuyết, mà là thực tế sống động khi chúng ta bước vào mối quan hệ với Đấng Tạo Hóa mỗi ngày.

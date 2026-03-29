@@ -14,11 +14,11 @@ draft: false
 
 ## Câu Hỏi Làm Chấn Động Lòng Người
 
-Ma-thi-ơ đoạn 19, câu 27 chép lại một câu hỏi mà Phi-e-rơ đã thẳng thắn thưa với Chúa Giê-su: *"Chúng tôi đã bỏ mọi sự mà theo Thầy. Vậy thì chúng tôi sẽ được gì?"*
+Ma-thi-ơ đoạn 19, câu 27 chép lại một câu hỏi mà Phi-e-rơ đã thẳng thắn thưa với Đức Chúa Giê-su: *"Chúng tôi đã bỏ mọi sự mà theo Thầy. Vậy thì chúng tôi sẽ được gì?"*
 
 Mục sư Dương Quang Thoại nhận xét đây là một câu hỏi "rất sốc" — một người môn đệ đã theo Thầy suốt ba năm rưỡi, bỏ thuyền, bỏ lưới, bỏ gia đình, không có chỗ ngủ đàng hoàng, không có bữa ăn tử tế, không thấy Thầy tích lũy một thứ gì thuộc về vật chất — rồi nhìn thẳng vào mắt Thầy mà hỏi: *Theo Thầy, chúng tôi được gì?*
 
-Nhưng Chúa Giê-su đã không trách Phi-e-rơ. Ngài thông cảm, vì Ngài hiểu tâm trạng của những người đã hy sinh thật sự.
+Nhưng Đức Chúa Giê-su đã không trách Phi-e-rơ. Ngài thông cảm, vì Ngài hiểu tâm trạng của những người đã hy sinh thật sự.
 
 Và câu hỏi đó không chỉ là của Phi-e-rơ ngày xưa. Đó là câu hỏi mà mỗi tín nhân đều có lúc đặt ra cho chính mình: *Lạy Chúa, theo Chúa, con được gì?*
 
@@ -60,7 +60,7 @@ Sự cứu rỗi cũng vậy. Nó là điều cao quý nhất mà con người c
 
 ## Cái Chúng Ta Nhận Được Vượt Xa Cái Chúng Ta Từ Bỏ
 
-Chúa Giê-su đã trả lời Phi-e-rơ rõ ràng: *"Ngươi sẽ ngồi đồng trị với Ta, cùng phán xét cả vũ trụ này."* Đó không phải lời hứa nhỏ. Đó là vinh quang vô cùng lớn lao.
+Đức Chúa Giê-su đã trả lời Phi-e-rơ rõ ràng: *"Ngươi sẽ ngồi đồng trị với Ta, cùng phán xét cả vũ trụ này."* Đó không phải lời hứa nhỏ. Đó là vinh quang vô cùng lớn lao.
 
 Phao-lô sau đó xác nhận trong Phi-líp đoạn 3, câu 14: *"Tôi cứ làm một điều, quên lửng sự ở đằng sau, mà bươn theo sự ở đằng trước, tôi nhắm mục đích mà chạy, để giật giải về sự kêu gọi trên trời của Đức Chúa Trời trong Đức Chúa Giê-su Cơ Đốc."*
 

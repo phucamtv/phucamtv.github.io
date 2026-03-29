@@ -16,7 +16,7 @@ Trong thư Ê-phê-sô đoạn 3 câu 8 đến 13, sứ đồ Phao-lô tiếp t�
 
 ## 1. Sự khiêm nhường của Phao-lô trước ân điển
 
-Phao-lô nhận thức mình có hai đặc ân: thứ nhất là được khám phá ra sự mầu nhiệm của Đức Chúa Trời -- rằng mọi người được hội hiệp trong sự cứu rỗi qua Chúa Cứu Thế Giê-xu; thứ hai là được đặc ân công bố lẽ mầu nhiệm ấy cho Hội Thánh, trở thành công cụ mang ân sủng đến cho mọi người.
+Phao-lô nhận thức mình có hai đặc ân: thứ nhất là được khám phá ra sự mầu nhiệm của Đức Chúa Trời -- rằng mọi người được hội hiệp trong sự cứu rỗi qua Chúa Cứu Thế Giê-su; thứ hai là được đặc ân công bố lẽ mầu nhiệm ấy cho Hội Thánh, trở thành công cụ mang ân sủng đến cho mọi người.
 
 Thông thường, khi ý thức về đặc ân của mình, con người dễ sinh lòng tự hào và kiêu hãnh. Nhưng Phao-lô lại tỏ ra hết sức khiêm nhường. Ông tự xưng mình là kẻ hèn mọn hơn hết mọi thánh đồ. Ông khiêm nhường được như vậy vì hiểu rằng tất cả đều là sự ban cho của Đức Chúa Trời -- hoàn toàn ông không xứng đáng, không góp phần gì để có được ân điển đó.
 
@@ -40,12 +40,12 @@ Phao-lô dùng chữ "sự giàu có không dò được" (hay "sự phong phú 
 
 ## 5. Tự do và giản dị đến gần Đức Chúa Trời
 
-Trong hầu hết các tôn giáo, thần thánh rất khó cho con người đến gần. Nhưng Cơ Đốc giáo cho thấy Đức Chúa Trời đã đến gần chúng ta, và qua Đức Chúa Giê-xu, chúng ta có thể đến gần Ngài một cách tự do và giản dị. Hai chữ "tự do" và "giản dị" vô cùng quan trọng -- tự do nghĩa là muốn đến lúc nào thì đến, giản dị là không còn rụt rè e ngại.
+Trong hầu hết các tôn giáo, thần thánh rất khó cho con người đến gần. Nhưng Cơ Đốc giáo cho thấy Đức Chúa Trời đã đến gần chúng ta, và qua Đức Chúa Giê-su, chúng ta có thể đến gần Ngài một cách tự do và giản dị. Hai chữ "tự do" và "giản dị" vô cùng quan trọng -- tự do nghĩa là muốn đến lúc nào thì đến, giản dị là không còn rụt rè e ngại.
 
-Kể từ khi A-đam và Ê-va phạm tội trong vườn Ê-đen, con người bị ngăn cách với Đức Chúa Trời. Nhưng nay qua Chúa Cứu Thế Giê-xu, không còn gì ngăn cách nữa. Nếu mối tương giao với Đức Chúa Trời mà thiếu sự tự do và giản dị ấy, đó là mối tương giao chết. Hãy sử dụng đặc quyền này để đến với Ngài qua việc học Lời Chúa, cầu nguyện, lắng nghe Thánh Linh.
+Kể từ khi A-đam và Ê-va phạm tội trong vườn Ê-đen, con người bị ngăn cách với Đức Chúa Trời. Nhưng nay qua Chúa Cứu Thế Giê-su, không còn gì ngăn cách nữa. Nếu mối tương giao với Đức Chúa Trời mà thiếu sự tự do và giản dị ấy, đó là mối tương giao chết. Hãy sử dụng đặc quyền này để đến với Ngài qua việc học Lời Chúa, cầu nguyện, lắng nghe Thánh Linh.
 
 ## 6. Đừng ngã lòng vì hoạn nạn
 
 Khi Phao-lô bị cầm tù, nhiều người nghĩ rằng sứ mạng rao giảng sẽ bị bế tắc. Nhưng đạo của Chúa không dựa trên nền tảng tài năng của một con người hay bất kỳ tổ chức nào -- đạo của Chúa mang sức mạnh của Đức Chúa Trời để tồn tại và lan rộng. Suốt hàng ngàn năm qua, dù trải qua bao cuộc bắt bớ tàn khốc, Kinh Thánh vẫn là quyển sách được phổ biến rộng rãi nhất trên toàn thế giới.
 
-Phao-lô viết thư từ trong ngục để khuyên các tín hữu đang tự do: đừng vì sự hoạn nạn ông chịu mà ngã lòng. Đối với thế gian, ông là kẻ tội phạm; nhưng đối với Đức Chúa Trời, ông là sứ đồ, là tôi tớ, là con cái Ngài. Chúng ta cần phân định rõ ràng giữa luật pháp con người và luật pháp Đức Chúa Trời, như chính Chúa Giê-xu đã dạy: hãy trả cho Sê-sa những gì thuộc về Sê-sa, và trả cho Đức Chúa Trời những gì thuộc về Đức Chúa Trời.
+Phao-lô viết thư từ trong ngục để khuyên các tín hữu đang tự do: đừng vì sự hoạn nạn ông chịu mà ngã lòng. Đối với thế gian, ông là kẻ tội phạm; nhưng đối với Đức Chúa Trời, ông là sứ đồ, là tôi tớ, là con cái Ngài. Chúng ta cần phân định rõ ràng giữa luật pháp con người và luật pháp Đức Chúa Trời, như chính Đức Chúa Giê-su đã dạy: hãy trả cho Sê-sa những gì thuộc về Sê-sa, và trả cho Đức Chúa Trời những gì thuộc về Đức Chúa Trời.

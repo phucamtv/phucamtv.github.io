@@ -32,7 +32,7 @@ Giấc mơ ấy đã làm thay đổi cuộc đời Francis hoàn toàn. Ông t�
 
 Không ai dám đồng hóa hình ảnh thánh khiết của Chúa Cứu Thế với những khuôn mặt lở loét vì bệnh, thân thể tiều tụy vì đói khát, nhân phẩm bị chà đạp. Thế mà chính Chúa đã tự đồng hóa hình ảnh của Ngài với những con người ấy, để chúng ta biết quan tâm đến những kẻ cùng khổ quanh mình.
 
-Trong Ma-thi-ơ 25:35-36, Chúa Giê-su phán rằng khi chúng ta cho kẻ đói ăn, cho kẻ khát uống, tiếp khách lạ, mặc cho kẻ rách rưới, thăm người bệnh và kẻ ở tù — đó chính là làm cho Ngài. Đây là lời dạy sâu sắc nhất về mối liên hệ giữa tình yêu Chúa và tình yêu người.
+Trong Ma-thi-ơ 25:35-36, Đức Chúa Giê-su phán rằng khi chúng ta cho kẻ đói ăn, cho kẻ khát uống, tiếp khách lạ, mặc cho kẻ rách rưới, thăm người bệnh và kẻ ở tù — đó chính là làm cho Ngài. Đây là lời dạy sâu sắc nhất về mối liên hệ giữa tình yêu Chúa và tình yêu người.
 
 ---
 

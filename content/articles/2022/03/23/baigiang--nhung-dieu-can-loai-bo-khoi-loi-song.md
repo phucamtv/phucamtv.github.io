@@ -24,7 +24,7 @@ Sự nói dối giống như một con thú dữ khi còn nhỏ trông rất đ�
 
 ## Đương Cơn Giận — Chớ Phạm Tội
 
-Phao-lô không nói rằng nóng giận là tội lỗi. Chính Đức Chúa Trời cũng nổi giận trước tội lỗi của con người, và Đức Chúa Giê-xu đã lật bàn đuổi kẻ buôn bán trong đền thờ. Cơn giận là cảm xúc tự nhiên, có những cơn giận chính đáng. Nhưng vấn đề nằm ở chỗ: khi nóng giận, con người dễ có hành động vượt ngoài tầm kiểm soát, dễ sai lầm trong phán đoán dẫn đến sai lầm trong hành vi — giống như Ca-in đã giết em mình là A-bên vì không kiểm soát được cơn ghen tức.
+Phao-lô không nói rằng nóng giận là tội lỗi. Chính Đức Chúa Trời cũng nổi giận trước tội lỗi của con người, và Đức Chúa Giê-su đã lật bàn đuổi kẻ buôn bán trong đền thờ. Cơn giận là cảm xúc tự nhiên, có những cơn giận chính đáng. Nhưng vấn đề nằm ở chỗ: khi nóng giận, con người dễ có hành động vượt ngoài tầm kiểm soát, dễ sai lầm trong phán đoán dẫn đến sai lầm trong hành vi — giống như Ca-in đã giết em mình là A-bên vì không kiểm soát được cơn ghen tức.
 
 Phao-lô dặn đừng để cơn giận kéo dài qua đêm. Khi nuôi cơn giận, nó sẽ lớn lên, trở nên nguy hiểm. Mục sư kể một vụ án thật: hai gia đình cãi nhau vì chuyện trẻ con, tối đó ai về nhà nấy, một bên quên ngủ ngon, bên kia nằm nghĩ suốt đêm không ngủ được — rồi sáng hôm sau cầm dao sang đâm người. Cơn giận qua đêm đã biến thành án mạng. Cơ Đốc nhân cần tin rằng sự trả thù thuộc về Chúa, Ngài sẽ đối xử công bằng với mọi người, có thể sớm hoặc muộn.
 

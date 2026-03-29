@@ -56,6 +56,6 @@ Hội Thánh tập hợp vì ba lý do: được Đức Chúa Trời kêu gọi,
 
 ## Hãy Giữ Sự Chọn Lựa Đó
 
-Chúa Giê-su phán: "Có nhiều kẻ được gọi, mà ít người được chọn" (Ma-thi-ơ 22:14). Trong thời kỳ cuối cùng, nhiều Christ giả và tiên tri giả sẽ dấy lên, nếu có thể được thì cũng dỗ dành chính những người được chọn (Ma-thi-ơ 24:24).
+Đức Chúa Giê-su phán: "Có nhiều kẻ được gọi, mà ít người được chọn" (Ma-thi-ơ 22:14). Trong thời kỳ cuối cùng, nhiều Christ giả và tiên tri giả sẽ dấy lên, nếu có thể được thì cũng dỗ dành chính những người được chọn (Ma-thi-ơ 24:24).
 
 Chúng ta được chọn — hãy giữ vững sự chọn lựa đó bằng đời sống đức tin, bằng sự vâng lời, và bằng ý thức rằng mình thuộc về dòng giống đặc biệt của Đức Chúa Trời.

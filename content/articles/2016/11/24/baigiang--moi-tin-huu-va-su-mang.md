@@ -36,7 +36,7 @@ I Phi-e-rơ 2:9 nhấn mạnh rằng chúng ta là *dòng giống được lựa
 
 Mục sư minh họa bằng câu chuyện tham dự lễ tốt nghiệp tại Thái Lan, nơi công chúa đến trao bằng. Chỉ riêng nghi thức đón tiếp công chúa đã vô cùng trang trọng — sinh viên không được phép nhìn mặt công chúa theo đúng nghi lễ. Huống chi chúng ta được chọn phục vụ cho Vua của muôn vua — đó là một vinh dự vượt bậc mà nhiều người đã đánh mất vì không nhận thức đúng giá trị.
 
-Ma quỷ làm mờ mắt chúng ta, khiến nhiều người xem việc phục vụ Chúa là đáng sỉ hổ, là bị người đời nhạo cười. Nhưng thực tế, Chúa Giê-su nói Satan đang sàng sảy chúng ta như sàng gạo — những ai không giữ vững sẽ rơi xuống. Những người còn giữ đức tin hôm nay là những người còn sót lại trên cái sàng đó.
+Ma quỷ làm mờ mắt chúng ta, khiến nhiều người xem việc phục vụ Chúa là đáng sỉ hổ, là bị người đời nhạo cười. Nhưng thực tế, Đức Chúa Giê-su nói Satan đang sàng sảy chúng ta như sàng gạo — những ai không giữ vững sẽ rơi xuống. Những người còn giữ đức tin hôm nay là những người còn sót lại trên cái sàng đó.
 
 ---
 

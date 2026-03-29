@@ -70,7 +70,7 @@ Bí quyết của họ nằm ở chỗ đề cao trách nhiệm Cơ Đốc nhân
 
 Ngày nào cũng vậy, cứ chăm chỉ đến đền thờ. Đức Chúa Trời không muốn chúng ta thờ phượng Ngài một mình — Ngài muốn thành lập Hội Thánh với mục đích để con cái Ngài nương tựa lẫn nhau. Thờ phượng cá nhân cũng tốt, nhưng hãy tạo mọi điều kiện để thờ phượng Chúa với cộng đồng, vì cộng đồng đem đến sức mạnh, nhất là trong những lúc chúng ta yếu đuối.
 
-Đời sống Cơ Đốc nhân không thể sống ẩn dật — như Chúa Giê-su phán, cái đèn thắp lên không phải để úp lại mà phải để trên chân đèn soi sáng cho mọi người. Ánh sáng cần được soi trong bóng đêm, và sức mạnh của Hội Thánh chính là ở sự nhóm lại cùng nhau.
+Đời sống Cơ Đốc nhân không thể sống ẩn dật — như Đức Chúa Giê-su phán, cái đèn thắp lên không phải để úp lại mà phải để trên chân đèn soi sáng cho mọi người. Ánh sáng cần được soi trong bóng đêm, và sức mạnh của Hội Thánh chính là ở sự nhóm lại cùng nhau.
 
 ---
 

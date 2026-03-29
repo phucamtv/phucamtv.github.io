@@ -24,7 +24,7 @@ Trong cuộc sống, không điều gì có được mà không phải trả gi�
 
 > *"Như vậy, nếu ai trong các ngươi không bỏ mọi sự mình có, thì không được làm môn đồ ta."* — Lu-ca 14:33
 
-Chúa Giê-su không nói bỏ riêng một thứ nào — không phải chỉ bỏ nhà cửa, tiền bạc hay sự nghiệp — mà là bỏ **mọi sự**, kể cả mạng sống. Một lời ngắn gọn nhưng cho thấy ngay thử thách lớn lao.
+Đức Chúa Giê-su không nói bỏ riêng một thứ nào — không phải chỉ bỏ nhà cửa, tiền bạc hay sự nghiệp — mà là bỏ **mọi sự**, kể cả mạng sống. Một lời ngắn gọn nhưng cho thấy ngay thử thách lớn lao.
 
 Tiếp theo, Lu-ca 14:26 còn nói mạnh hơn: phải đặt Chúa trên cả cha mẹ, vợ con, anh em. Đây không phải nghĩa đen là ghét bỏ gia đình, mà Chúa muốn dùng ngôn ngữ mạnh mẽ để nhấn mạnh: khi đứng trước sự lựa chọn giữa Chúa Cứu Thế và mọi thứ khác, môn đồ phải chọn Ngài. Bởi vì cha mẹ, vợ con — mỗi người sẽ phải chịu trách nhiệm trên đời sống thuộc linh của chính mình trước mặt Đức Chúa Trời.
 
@@ -32,7 +32,7 @@ Ma-thi-ơ 16:24 còn đòi hỏi hơn nữa: vác thập tự giá mình mà the
 
 ### Người Trai Trẻ Giàu Có Không Dám Trả Giá
 
-Câu chuyện trong Ma-thi-ơ 19:16-22 về chàng trai trẻ giàu có minh họa rõ nét thử thách này. Anh ta đã giữ mười điều răn theo văn tự, nhưng Chúa Giê-su chỉ ra rằng anh giữ luật cách khô khan, thiếu tình yêu. Khi được yêu cầu bán hết gia tài cho người nghèo rồi đến theo Ngài, chàng trai cúi đầu buồn bã bỏ đi — vì trong đầu anh có một cán cân, và phía tài sản đã nặng hơn phía Chúa Cứu Thế.
+Câu chuyện trong Ma-thi-ơ 19:16-22 về chàng trai trẻ giàu có minh họa rõ nét thử thách này. Anh ta đã giữ mười điều răn theo văn tự, nhưng Đức Chúa Giê-su chỉ ra rằng anh giữ luật cách khô khan, thiếu tình yêu. Khi được yêu cầu bán hết gia tài cho người nghèo rồi đến theo Ngài, chàng trai cúi đầu buồn bã bỏ đi — vì trong đầu anh có một cán cân, và phía tài sản đã nặng hơn phía Chúa Cứu Thế.
 
 Câu hỏi dành cho mỗi chúng ta: trong tâm trí chúng ta có cán cân ấy không? Và nó đang nghiêng về phía nào?
 
@@ -44,7 +44,7 @@ Câu hỏi dành cho mỗi chúng ta: trong tâm trí chúng ta có cán cân �
 
 Ẩn dụ về kho báu trong đám ruộng cho thấy: người đàn ông này biết đánh giá giá trị. Anh hiểu rằng trăm cái nhà cũng không bằng kho báu kia, nên sẵn sàng bán hết mọi thứ. Tương tự, ẩn dụ về viên ngọc quý (Ma-thi-ơ 13:45-46) cũng nêu cùng một nguyên tắc: nước thiên đàng quý giá hơn tất cả những gì chúng ta đang có.
 
-Chúa Giê-su không thật sự đòi hỏi mọi người phải bán nhà bán cửa rồi đến nhà thờ giăng mùng ngủ. Nhưng điều Ngài muốn hỏi là: trong tâm thức, chúng ta có thật sự đánh giá nước thiên đàng lớn lao hơn mọi thứ trên đời này không?
+Đức Chúa Giê-su không thật sự đòi hỏi mọi người phải bán nhà bán cửa rồi đến nhà thờ giăng mùng ngủ. Nhưng điều Ngài muốn hỏi là: trong tâm thức, chúng ta có thật sự đánh giá nước thiên đàng lớn lao hơn mọi thứ trên đời này không?
 
 Sứ đồ Phao-lô khẳng định trong Phi-líp 3:8 rằng ông xem mọi sự như rơm rác để được Đấng Christ. Khi đã có Chúa Cứu Thế, tất cả nhà cửa, ruộng vườn, tiền bạc, sự nghiệp đều trở nên vô nghĩa — giống như rơm rác ngoài đường mà chẳng ai thèm lượm.
 
@@ -64,7 +64,7 @@ Trung tín cho đến chết — từ lúc chúng ta biết Ngài cho đến hơ
 
 ## 4. Niềm Vui Của Một Môn Đồ: Câu Chuyện Sa-chê
 
-Câu chuyện Sa-chê trong Lu-ca 19:1-10 là minh chứng đẹp đẽ nhất cho niềm vui làm môn đồ. Sa-chê — người thấp bé, làm đầu bọn thâu thuế, bị xã hội khinh ghét — chỉ mong được nhìn thấy Chúa một lần nên leo lên cây sung. Nhưng Chúa Giê-su dừng lại và phán: hôm nay ta phải ở nhà ngươi.
+Câu chuyện Sa-chê trong Lu-ca 19:1-10 là minh chứng đẹp đẽ nhất cho niềm vui làm môn đồ. Sa-chê — người thấp bé, làm đầu bọn thâu thuế, bị xã hội khinh ghét — chỉ mong được nhìn thấy Chúa một lần nên leo lên cây sung. Nhưng Đức Chúa Giê-su dừng lại và phán: hôm nay ta phải ở nhà ngươi.
 
 Niềm vui được đón Chúa lớn đến nỗi Sa-chê bất chấp mọi lời đàm tiếu. Và điều đặc biệt: Chúa không hề yêu cầu Sa-chê phải làm gì, nhưng tự nguyện ông dâng nửa gia tài cho người nghèo và đền bù gấp bốn cho ai bị thiệt hại. Đó là sự tự nguyện xuất phát từ niềm vui được trở thành môn đồ.
 
@@ -76,4 +76,4 @@ Hãy tự hỏi: mỗi ngày điều gì làm chúng ta vui nhất? Internet, b�
 
 > *"Hãy gắng sức vào cửa hẹp, vì ta nói cùng các ngươi, nhiều người sẽ tìm cách vào mà không vào được."* — Lu-ca 13:24
 
-Chúa Giê-su kêu gọi chúng ta nhận biết điều quý báu nhất, chấp nhận trả giá, và khi trả giá, chúng ta sẽ nhận được niềm vui lớn lao — niềm vui mà cuộc đời này không thể đem cho. Và phần thưởng cuối cùng cho người trung tín cho đến chết chính là mão triều thiên của sự sống đời đời.
+Đức Chúa Giê-su kêu gọi chúng ta nhận biết điều quý báu nhất, chấp nhận trả giá, và khi trả giá, chúng ta sẽ nhận được niềm vui lớn lao — niềm vui mà cuộc đời này không thể đem cho. Và phần thưởng cuối cùng cho người trung tín cho đến chết chính là mão triều thiên của sự sống đời đời.

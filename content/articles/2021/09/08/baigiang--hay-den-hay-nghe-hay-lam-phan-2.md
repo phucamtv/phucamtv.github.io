@@ -2,7 +2,7 @@
 title: "Hãy Đến – Hãy Nghe – Hãy Làm! Phần 2: Chúa Phán Ta Sẽ Chỉ Cho Các Ngươi Biết"
 date: 2021-09-08
 url: /baigiang/hay-den-hay-nghe-hay-lam-phan-2/
-description: "Phần 2 trong loạt bài giảng từ Lu-ca 6:46-49: Chúa muốn dẫn dắt cuộc đời chúng ta, nhưng con người thường tự chọn đường đi theo ý mình. Qua câu chuyện Ba-la-am, dân Y-sơ-ra-ên và sự cám dỗ của Chúa Giê-su, bài giảng kêu gọi chúng ta vâng phục trọn vẹn sự hướng dẫn của Đức Chúa Trời."
+description: "Phần 2 trong loạt bài giảng từ Lu-ca 6:46-49: Chúa muốn dẫn dắt cuộc đời chúng ta, nhưng con người thường tự chọn đường đi theo ý mình. Qua câu chuyện Ba-la-am, dân Y-sơ-ra-ên và sự cám dỗ của Đức Chúa Giê-su, bài giảng kêu gọi chúng ta vâng phục trọn vẹn sự hướng dẫn của Đức Chúa Trời."
 tags: ["Lu-ca", "Vâng Phục", "Sự Dẫn Dắt", "Ba-la-am", "Đức Tin", "Châm Ngôn"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,9 +14,9 @@ draft: false
 
 ## Chúa Muốn Trở Thành Người Dẫn Dắt Cuộc Đời Chúng Ta
 
-Lu-ca 6:46-49 ghi lại lời Chúa Giê-su: "Sao các ngươi gọi ta: Chúa, Chúa, mà không làm theo lời ta phán? Ta sẽ chỉ cho các ngươi biết kẻ nào đến cùng ta, nghe lời ta, và làm theo, thì giống ai." Phần 2 của loạt bài giảng tập trung vào câu 47 với chủ đề: "Chúa phán: Ta sẽ chỉ cho các ngươi biết!"
+Lu-ca 6:46-49 ghi lại lời Đức Chúa Giê-su: "Sao các ngươi gọi ta: Chúa, Chúa, mà không làm theo lời ta phán? Ta sẽ chỉ cho các ngươi biết kẻ nào đến cùng ta, nghe lời ta, và làm theo, thì giống ai." Phần 2 của loạt bài giảng tập trung vào câu 47 với chủ đề: "Chúa phán: Ta sẽ chỉ cho các ngươi biết!"
 
-Sau lời quở trách trong câu 46, Chúa Giê-su tiếp tục với lời hứa đầy ân điển: "Ta sẽ chỉ cho các ngươi biết." Ngài muốn trở thành Đấng Linh Hướng, Đấng dẫn dắt đời sống chúng ta. Giống như Đa-vít trong Thi Thiên 23 tuyên bố "Đức Giê-hô-va là Đấng chăn giữ tôi," Chúa muốn dẫn chúng ta đến đồng cỏ xanh tươi và mé nước bình tĩnh. Con chiên không thể tự tìm đường đến nguồn thức ăn hay dòng suối mát — nó hoàn toàn lệ thuộc vào người chăn.
+Sau lời quở trách trong câu 46, Đức Chúa Giê-su tiếp tục với lời hứa đầy ân điển: "Ta sẽ chỉ cho các ngươi biết." Ngài muốn trở thành Đấng Linh Hướng, Đấng dẫn dắt đời sống chúng ta. Giống như Đa-vít trong Thi Thiên 23 tuyên bố "Đức Giê-hô-va là Đấng chăn giữ tôi," Chúa muốn dẫn chúng ta đến đồng cỏ xanh tươi và mé nước bình tĩnh. Con chiên không thể tự tìm đường đến nguồn thức ăn hay dòng suối mát — nó hoàn toàn lệ thuộc vào người chăn.
 
 ---
 
@@ -24,7 +24,7 @@ Sau lời quở trách trong câu 46, Chúa Giê-su tiếp tục với lời h�
 
 Thực tế trong đời sống, dù là người mới tin hay tin Chúa lâu năm, chúng ta vẫn thường tự dẫn dắt cuộc đời mình. Châm Ngôn 14:12 cảnh báo: "Có một con đường coi dường chính đáng cho loài người, nhưng đến cuối cùng nó thành ra nẻo sự chết."
 
-Nhìn lại, chúng ta đã có rất nhiều quyết định sai lầm. Có những lựa chọn sai mà chúng ta có thể sửa đổi, nhưng cũng có những lựa chọn không bao giờ thay đổi được, ảnh hưởng đến cả số phận và cuộc đời. Tại sao lại như vậy? Bởi vì chúng ta đã tự chỉ cho mình con đường phải đi, trong khi Chúa Giê-su bảo rằng: "Ta sẽ chỉ cho các ngươi biết."
+Nhìn lại, chúng ta đã có rất nhiều quyết định sai lầm. Có những lựa chọn sai mà chúng ta có thể sửa đổi, nhưng cũng có những lựa chọn không bao giờ thay đổi được, ảnh hưởng đến cả số phận và cuộc đời. Tại sao lại như vậy? Bởi vì chúng ta đã tự chỉ cho mình con đường phải đi, trong khi Đức Chúa Giê-su bảo rằng: "Ta sẽ chỉ cho các ngươi biết."
 
 Điều nguy hiểm là chúng ta không nhìn thấy điểm cuối cùng của con đường. Mọi quyết định đều dựa trên cảm nhận ban đầu, nhưng Đức Chúa Trời thấy tất cả những gì ở phía trước. Chỉ tiếc rằng chúng ta thường muốn tự dẫn dắt cuộc đời mình.
 
@@ -50,7 +50,7 @@ Sự vâng phục Đức Chúa Trời không phải là chỉ làm những gì p
 
 ## Cửa Hẹp Và Đường Chật Dẫn Đến Sự Sống
 
-Chúa Giê-su phán trong Ma-thi-ơ 7:13-14: "Hãy vào cửa hẹp, vì cửa rộng và đường khoảng khoát dẫn đến sự hư mất, kẻ vào đó cũng nhiều; song cửa hẹp và đường chật dẫn đến sự sống, kẻ kiếm được thì ít."
+Đức Chúa Giê-su phán trong Ma-thi-ơ 7:13-14: "Hãy vào cửa hẹp, vì cửa rộng và đường khoảng khoát dẫn đến sự hư mất, kẻ vào đó cũng nhiều; song cửa hẹp và đường chật dẫn đến sự sống, kẻ kiếm được thì ít."
 
 Tâm lý con người luôn muốn đi con đường dễ dàng, thoải mái. Nhiều người lý luận rằng tôn giáo nọ có cả tỉ người theo, chẳng lẽ họ sai? Nhưng Kinh Thánh xác nhận: con đường rộng rãi nhiều người vào, nhưng dẫn đến sự hư mất. Con đường chật hẹp ít người đi mới là con đường của sự sống. Bám sát Kinh Thánh, đối chiếu mọi sự dạy dỗ với Lời của Đức Chúa Trời — đó là phương cách duy nhất để tìm ra chân lý.
 
@@ -58,6 +58,6 @@ Tâm lý con người luôn muốn đi con đường dễ dàng, thoải mái. N
 
 ## Sự Dẫn Dắt An Toàn Nhất Đến Từ Đức Chúa Trời
 
-Chúa Giê-su trong vườn Ghết-sê-ma-nê đã cầu nguyện: "Lạy Cha, nếu có thể được, xin cho chén này lìa khỏi con; song không theo ý muốn con, mà theo ý muốn Cha." Đó chính là sự vâng phục trọn vẹn. Ngài cũng tuyên bố trong Giăng 12:49: "Bởi ta chẳng nói theo ý riêng ta, nhưng Cha sai ta đến đã truyền lệnh cho ta phải nói điều chi và phải nói thế nào."
+Đức Chúa Giê-su trong vườn Ghết-sê-ma-nê đã cầu nguyện: "Lạy Cha, nếu có thể được, xin cho chén này lìa khỏi con; song không theo ý muốn con, mà theo ý muốn Cha." Đó chính là sự vâng phục trọn vẹn. Ngài cũng tuyên bố trong Giăng 12:49: "Bởi ta chẳng nói theo ý riêng ta, nhưng Cha sai ta đến đã truyền lệnh cho ta phải nói điều chi và phải nói thế nào."
 
 Sự hướng dẫn đúng đắn nhất không đến từ một giáo hội, một vị mục sư, hay bất kỳ cá nhân nào, mà đến từ Đức Chúa Trời thông qua Lời của Ngài và sự hành động của Thánh Linh trong lòng chúng ta qua sự cầu nguyện tha thiết. Chúng ta có Lời Chúa, có Thánh Linh, có sự cầu nguyện, có lòng yêu mến Chúa — hãy xác nhận với Ngài rằng chúng ta sẵn sàng để Ngài dẫn dắt, không theo ý muốn riêng mình, mà theo ý muốn của Đấng thấy rõ tất cả từ đầu đến cuối.

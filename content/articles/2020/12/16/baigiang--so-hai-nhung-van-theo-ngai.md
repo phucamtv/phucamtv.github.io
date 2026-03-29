@@ -1,7 +1,7 @@
 ---
 title: "Sợ Hãi Nhưng Vẫn Theo Ngài"
 date: 2020-12-16
-description: "Bài giảng từ Mác 10:32-45 về sự cô đơn và can đảm của Chúa Giê-su trên đường lên Giê-ru-sa-lem, tham vọng của Gia-cơ và Giăng, và lời kêu gọi phục vụ thay vì tìm kiếm quyền lực."
+description: "Bài giảng từ Mác 10:32-45 về sự cô đơn và can đảm của Đức Chúa Giê-su trên đường lên Giê-ru-sa-lem, tham vọng của Gia-cơ và Giăng, và lời kêu gọi phục vụ thay vì tìm kiếm quyền lực."
 tags: ["Phúc Âm Mác", "Theo Chúa", "Phục Vụ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]

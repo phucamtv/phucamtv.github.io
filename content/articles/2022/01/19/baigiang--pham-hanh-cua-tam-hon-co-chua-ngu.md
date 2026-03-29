@@ -32,7 +32,7 @@ Một ý nghĩa sâu sắc hơn: từ này ám chỉ một con vật đã đư�
 
 ## 4. Sự nhịn nhục -- kiên trì và tha thứ
 
-Đức tính thứ ba là sự nhịn nhục, tiếng Hy Lạp là *makrothumia*, mang hai ý nghĩa quan trọng. Một mặt, đó là tinh thần không bao giờ bỏ cuộc -- có thể thua vài trận nhưng không bao giờ xem đó là bại trận; có thể gặp bất hạnh, đau khổ nhưng vẫn kiên trì đến khi chiến thắng. Mặt khác, đó là lòng nhịn nhục đối với người khác -- tinh thần không báo thù dù có đủ khả năng. Chúa Giê-xu khi bị bắt, bị hành hạ và kết án, dù là Vua muôn vua, Ngài vẫn chịu đựng tất cả -- đó chính là hình mẫu tuyệt vời nhất của *makrothumia*.
+Đức tính thứ ba là sự nhịn nhục, tiếng Hy Lạp là *makrothumia*, mang hai ý nghĩa quan trọng. Một mặt, đó là tinh thần không bao giờ bỏ cuộc -- có thể thua vài trận nhưng không bao giờ xem đó là bại trận; có thể gặp bất hạnh, đau khổ nhưng vẫn kiên trì đến khi chiến thắng. Mặt khác, đó là lòng nhịn nhục đối với người khác -- tinh thần không báo thù dù có đủ khả năng. Đức Chúa Giê-su khi bị bắt, bị hành hạ và kết án, dù là Vua muôn vua, Ngài vẫn chịu đựng tất cả -- đó chính là hình mẫu tuyệt vời nhất của *makrothumia*.
 
 ## 5. Giữ gìn sự hiệp một của Thánh Linh
 

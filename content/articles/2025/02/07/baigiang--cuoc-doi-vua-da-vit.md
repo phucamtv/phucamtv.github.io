@@ -18,7 +18,7 @@ Bài giảng mở đầu loạt bài về cuộc đời Vua Đa-vít, dựa trê
 
 ### Vua Đa-vít là ai?
 
-Đa-vít là vị vua thứ hai của dân Y-sơ-ra-ên, người được ơn của Chúa và trở thành hình mẫu cho các vị vua sau này. Đa-vít nằm trong dòng dõi để ra đời Đấng Cứu Thế - Chúa Giê-su sanh ra từ dòng dõi nhà Đa-vít (Lu-ca 2:4). Ngoài ra, Đa-vít còn là đấng tiên tri, là thi sĩ sáng tác nhiều bài Thi Thiên bày tỏ về Chúa, và là người được ban cho chìa khóa đặc biệt (Khải Huyền 3:7).
+Đa-vít là vị vua thứ hai của dân Y-sơ-ra-ên, người được ơn của Chúa và trở thành hình mẫu cho các vị vua sau này. Đa-vít nằm trong dòng dõi để ra đời Đấng Cứu Thế - Đức Chúa Giê-su sanh ra từ dòng dõi nhà Đa-vít (Lu-ca 2:4). Ngoài ra, Đa-vít còn là đấng tiên tri, là thi sĩ sáng tác nhiều bài Thi Thiên bày tỏ về Chúa, và là người được ban cho chìa khóa đặc biệt (Khải Huyền 3:7).
 
 ### Những bài học từ phân đoạn Kinh Thánh
 

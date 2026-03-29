@@ -20,7 +20,7 @@ Câu chuyện mở đầu kể về Bill, một người lớn lên trong gia đ
 
 ## Thờ Phượng Thật: Tâm Thần Và Lẽ Thật
 
-Dựa trên Giăng 4:23, Chúa Giê-su phán rằng những kẻ thờ phượng thật phải lấy tâm thần và lẽ thật mà thờ phượng Cha. Hai yếu tố ấy không thể tách rời: tâm thần là trái tim yêu mến, còn lẽ thật là chân lý từ Kinh Thánh. Người Cơ Đốc Phục Lâm có thể tự hào về lẽ thật mình nắm giữ, nhưng nếu thiếu tâm thần — thiếu tình yêu sâu sắc đối với sự thờ phượng — thì sự thờ phượng ấy vẫn chưa trọn vẹn.
+Dựa trên Giăng 4:23, Đức Chúa Giê-su phán rằng những kẻ thờ phượng thật phải lấy tâm thần và lẽ thật mà thờ phượng Cha. Hai yếu tố ấy không thể tách rời: tâm thần là trái tim yêu mến, còn lẽ thật là chân lý từ Kinh Thánh. Người Cơ Đốc Phục Lâm có thể tự hào về lẽ thật mình nắm giữ, nhưng nếu thiếu tâm thần — thiếu tình yêu sâu sắc đối với sự thờ phượng — thì sự thờ phượng ấy vẫn chưa trọn vẹn.
 
 Khi có tình yêu thật sự đối với Chúa, mọi trở ngại đều có thể vượt qua. Ngược lại, khi không còn tình yêu, mọi lý do đều trở thành cớ để xa rời nhà Chúa.
 

@@ -28,7 +28,7 @@ Câu trả lời này mở ra ba lớp ý nghĩa mà bài giảng sẽ cùng kh�
 
 ### Lời hứa của Đức Chúa Giê-su
 
-Trước khi về trời, Chúa Giê-su đã dành những lời nói quan trọng nhất để an ủi các môn đồ trong Giăng 14:1-4:
+Trước khi về trời, Đức Chúa Giê-su đã dành những lời nói quan trọng nhất để an ủi các môn đồ trong Giăng 14:1-4:
 
 > *"Khi ta đã đi và đã sắm sẵn cho các ngươi một chỗ rồi, ta sẽ trở lại đem các ngươi đi với ta, hầu cho ta ở đâu thì các ngươi cũng ở đó. Các ngươi biết ta đi đâu và biết đường đi nữa."*
 
@@ -45,7 +45,7 @@ Trong Ma-thi-ơ đoạn 13, Đức Chúa Giê-su liên tục dùng những ví d
 - Nước thiên đàng giống như viên ngọc quý
 - Nước thiên đàng giống như người đi lưới cá
 
-Hầu hết các thông điệp của Chúa Giê-su đều xoay quanh nước thiên đàng — đây không phải là chủ đề phụ, mà là trọng tâm của toàn bộ sứ điệp Phúc Âm.
+Hầu hết các thông điệp của Đức Chúa Giê-su đều xoay quanh nước thiên đàng — đây không phải là chủ đề phụ, mà là trọng tâm của toàn bộ sứ điệp Phúc Âm.
 
 ### Các Tổ Phụ Hướng Về Quê Hương Thiên Đàng
 
@@ -61,7 +61,7 @@ Chúng ta sanh ra tại Việt Nam, nhưng đây không phải là quê hương 
 
 ### Phải Trở Nên Như Con Trẻ
 
-Lu-ca 18:16 ghi lại lời Chúa Giê-su:
+Lu-ca 18:16 ghi lại lời Đức Chúa Giê-su:
 
 > *"Hãy để con trẻ đến cùng ta, đừng ngăn cấm, vì nước thiên đàng thuộc về những người giống như con trẻ ấy."*
 
@@ -84,7 +84,7 @@ Như gió — chúng ta không nhìn thấy gió nhưng cảm nhận được s�
 
 ### Bát Phúc và Nước Thiên Đàng
 
-Trong Ma-thi-ơ 5:3-12, trong tám điều phước của Chúa Giê-su, có đến bốn điều trực tiếp liên kết với nước thiên đàng:
+Trong Ma-thi-ơ 5:3-12, trong tám điều phước của Đức Chúa Giê-su, có đến bốn điều trực tiếp liên kết với nước thiên đàng:
 
 - *Phước cho những kẻ có lòng khó khăn* (khiêm nhường) — vì nước thiên đàng là của những kẻ ấy (câu 3)
 - *Phước cho những kẻ nhu mì* — vì sẽ hưởng được đất [hứa trên thiên đàng] (câu 5)

@@ -23,7 +23,7 @@ Câu hỏi mà người giảng đặt ra cho Hội thánh rất đáng suy ng�
 
 ## Nghe và làm theo — nền tảng của đời sống Cơ Đốc
 
-Phần Kinh Thánh chính của bài giảng được lấy từ **Ma-thi-ơ 7:24–29**, trong đó Chúa Giê-su đưa ra ẩn dụ về hai người xây nhà: một người xây trên đá, một người xây trên cát. Điểm khác biệt không phải ở hình thức bên ngoài của căn nhà — cả hai trông giống nhau — mà ở nền móng bên dưới, chỉ bộc lộ khi bão tố ập đến.
+Phần Kinh Thánh chính của bài giảng được lấy từ **Ma-thi-ơ 7:24–29**, trong đó Đức Chúa Giê-su đưa ra ẩn dụ về hai người xây nhà: một người xây trên đá, một người xây trên cát. Điểm khác biệt không phải ở hình thức bên ngoài của căn nhà — cả hai trông giống nhau — mà ở nền móng bên dưới, chỉ bộc lộ khi bão tố ập đến.
 
 Người giảng định nghĩa sự vâng lời một cách rõ ràng: *Vâng lời là khi được bảo làm một điều gì thì thực hiện chính xác điều đó với một tinh thần vui vẻ.* Điều đáng chú ý là không chỉ làm, mà còn phải làm với tinh thần vui lòng. Ông dẫn ra ví dụ thực tế: một người bạn bị bác sĩ cho nhiều loại thuốc uống sáng và chiều, nhưng sau vài ngày cảm thấy phiền phức, liền tự ý bỏ phần buổi chiều. Chúng ta có thể làm một phần, rồi bỏ phần còn lại khi thấy bất tiện — đó không phải là vâng lời thực sự.
 
@@ -31,7 +31,7 @@ Người giảng định nghĩa sự vâng lời một cách rõ ràng: *Vâng l
 
 Người giảng chỉ ra hai nền tảng sâu xa của sự vâng lời thật sự, dựa trên Giăng 15:10.
 
-**Thứ nhất, vâng lời vì tình yêu thương.** Con cái vâng lời cha mẹ không chỉ vì sợ phạt, mà vì yêu thương và biết rằng cha mẹ muốn điều tốt cho mình. Chúa Giê-su đã vâng giữ các điều răn của Đức Chúa Cha và ở trong sự yêu thương Ngài — đó là mẫu mực để con cái Chúa noi theo.
+**Thứ nhất, vâng lời vì tình yêu thương.** Con cái vâng lời cha mẹ không chỉ vì sợ phạt, mà vì yêu thương và biết rằng cha mẹ muốn điều tốt cho mình. Đức Chúa Giê-su đã vâng giữ các điều răn của Đức Chúa Cha và ở trong sự yêu thương Ngài — đó là mẫu mực để con cái Chúa noi theo.
 
 **Thứ hai, vâng lời vì sự tin cậy trọn vẹn.** Khi chúng ta đặt niềm tin vào Đức Chúa Trời toàn năng, Đấng khôn ngoan tạo dựng vũ trụ, thì sự vâng lời Ngài là điều hợp lý nhất. Bài học từ câu chuyện chăm sóc cây mai sau Tết cho thấy: người bạn đã làm theo hướng dẫn sai của bạn, dẫn đến cả mấy gốc mai chết khô. Dù mắt thấy tai nghe, chúng ta vẫn có thể đặt niềm tin sai chỗ. Còn với Chúa thì khác hoàn toàn — Ngài là đấng không bao giờ sai.
 
@@ -55,6 +55,6 @@ Trở lại ẩn dụ hai căn nhà trong Ma-thi-ơ 7, người giảng nhấn m
 
 ## Lời kêu gọi
 
-Bài giảng kết thúc bằng lời Chúa Giê-su trong Giăng 14:23: *"Nếu ai yêu mến ta thì vâng giữ lời ta; Cha ta sẽ thương yêu người, chúng ta đều đến cùng người và ở trong người."* Vâng lời không tách rời khỏi tình yêu — ai yêu Chúa thật sự thì sẽ giữ lời Ngài, và chính Chúa sẽ hiện diện và ban năng lực cho người đó đứng vững trong mọi hoàn cảnh.
+Bài giảng kết thúc bằng lời Đức Chúa Giê-su trong Giăng 14:23: *"Nếu ai yêu mến ta thì vâng giữ lời ta; Cha ta sẽ thương yêu người, chúng ta đều đến cùng người và ở trong người."* Vâng lời không tách rời khỏi tình yêu — ai yêu Chúa thật sự thì sẽ giữ lời Ngài, và chính Chúa sẽ hiện diện và ban năng lực cho người đó đứng vững trong mọi hoàn cảnh.
 
 Chấp sự Nguyễn Tuấn kêu gọi mỗi người tự hỏi: mình đang giữ lời Chúa như thế nào? Có đang bẻ quẹo lời Chúa cho phù hợp với ý muốn mình không? Hay đang vâng lời với tấm lòng yêu thương và tin cậy trọn vẹn vào Đấng toàn năng?

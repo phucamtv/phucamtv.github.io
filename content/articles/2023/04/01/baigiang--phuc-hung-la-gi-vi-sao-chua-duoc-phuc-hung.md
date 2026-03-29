@@ -36,7 +36,7 @@ Ma-thi-ơ 24:12 cũng cảnh báo: vì cớ tội ác gia tăng, lòng yêu mế
 
 Qua câu chuyện tiên tri Ê-li trong I Các Vua 18, ba năm rưỡi hạn hán trên đất Israel là hình ảnh của đời sống thuộc linh khô cằn. Dân sự đã lìa bỏ Đức Chúa Trời, và hậu quả là trời không mưa. Khi Ê-li chiến thắng trong cuộc đối đầu với các tiên tri Ba-anh, mưa bắt đầu đổ xuống — nhưng phải qua bảy lần kiên nhẫn chờ đợi.
 
-Thi Thiên 143:6 bày tỏ khao khát ấy: lòng khao khát Chúa như đất khô khan chờ mưa. Giăng 7:38 ghi lại lời Chúa Giê-su phán rằng ai tin Ngài thì sông nước hằng sống sẽ chảy từ trong lòng mình. Nước tượng trưng cho sự sống, cho Thánh Linh, cho sự tươi mới. Hội Thánh và cá nhân mỗi người cần tự hỏi: đời sống thuộc linh của mình hiện tại đang khô hạn hay đang được tưới nhuần?
+Thi Thiên 143:6 bày tỏ khao khát ấy: lòng khao khát Chúa như đất khô khan chờ mưa. Giăng 7:38 ghi lại lời Đức Chúa Giê-su phán rằng ai tin Ngài thì sông nước hằng sống sẽ chảy từ trong lòng mình. Nước tượng trưng cho sự sống, cho Thánh Linh, cho sự tươi mới. Hội Thánh và cá nhân mỗi người cần tự hỏi: đời sống thuộc linh của mình hiện tại đang khô hạn hay đang được tưới nhuần?
 
 Thi Thiên 1:1-3 mô tả người được phước như cây trồng gần dòng nước — sanh bông trái theo thì tiết, lá không tàn héo, mọi sự đều thịnh vượng. Đó là hình ảnh của một đời sống được phục hưng.
 
@@ -48,7 +48,7 @@ Thi Thiên 1:1-3 mô tả người được phước như cây trồng gần dò
 
 Đó cũng có thể là tình trạng của nhiều người tin Chúa ngày nay: vẫn thờ phượng Đức Chúa Trời nhưng lòng còn yêu mến những điều khác ngang bằng hoặc hơn cả Ngài. Có thể đo lường điều này qua cách sử dụng thì giờ, tiền bạc, sức lực — những thứ đó đang được dành cho điều gì nhiều nhất thì đó chính là điều được yêu nhất.
 
-Chúa Giê-su dạy rằng không ai có thể phục vụ hai chủ. I Sa-mu-ên 7:3 ghi lại lời Sa-mu-ên kêu gọi dân sự: nếu thật hết lòng trở lại cùng Đức Giê-hô-va, hãy cất bỏ những thần lạ khỏi giữa mình, hết lòng theo Đức Giê-hô-va và phục sự một mình Ngài mà thôi.
+Đức Chúa Giê-su dạy rằng không ai có thể phục vụ hai chủ. I Sa-mu-ên 7:3 ghi lại lời Sa-mu-ên kêu gọi dân sự: nếu thật hết lòng trở lại cùng Đức Giê-hô-va, hãy cất bỏ những thần lạ khỏi giữa mình, hết lòng theo Đức Giê-hô-va và phục sự một mình Ngài mà thôi.
 
 ---
 

@@ -42,9 +42,9 @@ Nhưng không chỉ riêng những người phản loạn — tất cả chúng 
 
 ### Sự Sống Lại Phải Tác Động Đến Chúng Ta
 
-Chúa Giê-su phán: *"Vì ta sống thì các ngươi cũng sẽ sống"* (Giăng 14:19). Sự sống lại của Chúa không chỉ là một tín lý để nhắc đến trên môi miệng hay khi hát thánh ca — nó phải đem đến một tác động biến đổi thực sự trong đời sống mỗi tín hữu. Giống như bột nổi được nhồi vào bột mì sẽ biến đổi cả ổ bánh, quyền năng phục sinh phải thấm vào và thay đổi tâm tính chúng ta.
+Đức Chúa Giê-su phán: *"Vì ta sống thì các ngươi cũng sẽ sống"* (Giăng 14:19). Sự sống lại của Chúa không chỉ là một tín lý để nhắc đến trên môi miệng hay khi hát thánh ca — nó phải đem đến một tác động biến đổi thực sự trong đời sống mỗi tín hữu. Giống như bột nổi được nhồi vào bột mì sẽ biến đổi cả ổ bánh, quyền năng phục sinh phải thấm vào và thay đổi tâm tính chúng ta.
 
-Chúa Giê-su dùng hình ảnh cây nho và nhánh: *"Ta là gốc nho, các ngươi là nhánh"* (Giăng 15:5). Khi nhánh được tháp vào gốc, nhựa sống từ gốc nuôi dưỡng nhánh. Cái sức sống nào đã làm cho Chúa sống lại, thì cũng sức sống ấy nuôi dưỡng chúng ta.
+Đức Chúa Giê-su dùng hình ảnh cây nho và nhánh: *"Ta là gốc nho, các ngươi là nhánh"* (Giăng 15:5). Khi nhánh được tháp vào gốc, nhựa sống từ gốc nuôi dưỡng nhánh. Cái sức sống nào đã làm cho Chúa sống lại, thì cũng sức sống ấy nuôi dưỡng chúng ta.
 
 ---
 
@@ -64,4 +64,4 @@ Phi-líp 3:21 hứa rằng Ngài sẽ biến hóa thân thể hèn mạt của c
 
 ## Kết Luận
 
-Sự sống lại của Chúa Cứu Thế không chỉ là một sự kiện lịch sử hay một tín điều để tuyên xưng. Nó phải là động lực thúc đẩy mỗi tín hữu sống xứng đáng, biến đổi tâm tính ngay từ hôm nay, và đặt niềm hy vọng vào ngày được mặc lấy thân thể vinh hiển. Đang sống mà chết — đó là thực trạng của nhân loại. Đang chết mà sống — đó là ân điển kỳ diệu của Đức Chúa Trời qua Chúa Giê-su Christ.
+Sự sống lại của Chúa Cứu Thế không chỉ là một sự kiện lịch sử hay một tín điều để tuyên xưng. Nó phải là động lực thúc đẩy mỗi tín hữu sống xứng đáng, biến đổi tâm tính ngay từ hôm nay, và đặt niềm hy vọng vào ngày được mặc lấy thân thể vinh hiển. Đang sống mà chết — đó là thực trạng của nhân loại. Đang chết mà sống — đó là ân điển kỳ diệu của Đức Chúa Trời qua Đức Chúa Giê-su Christ.

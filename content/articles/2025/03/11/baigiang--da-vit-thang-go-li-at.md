@@ -36,11 +36,11 @@ Toàn thể dân Y-sơ-ra-ên — từ vua Sau-lơ đến người lính cuối 
 
 Nhưng Đa-vít không hề run rẩy. Ông bình tĩnh đặt câu hỏi, không có một dấu hiệu sợ sệt nào.
 
-Chúa Giê-xu đã phán: **"Hãy cứ vững lòng vì ta đã thắng thế gian rồi"** (Giăng 16:33). Ngài cũng nói trong Ma-thi-ơ 10:28–31 rằng chúng ta không cần sợ kẻ giết thân thể, vì:
+Đức Chúa Giê-su đã phán: **"Hãy cứ vững lòng vì ta đã thắng thế gian rồi"** (Giăng 16:33). Ngài cũng nói trong Ma-thi-ơ 10:28–31 rằng chúng ta không cần sợ kẻ giết thân thể, vì:
 
 > *"Tóc trên đầu các ngươi đã đếm hết rồi. Vậy đừng sợ chi hết, vì các ngươi quý trọng hơn nhiều con chim sẻ."*
 
-Và Chúa Giê-xu còn hứa trong Giăng 14:27: *"Ta để sự bình an lại cho các ngươi... Lòng các ngươi chớ bối rối và đừng sợ hãi."*
+Và Đức Chúa Giê-su còn hứa trong Giăng 14:27: *"Ta để sự bình an lại cho các ngươi... Lòng các ngươi chớ bối rối và đừng sợ hãi."*
 
 Trái Thánh Linh bao gồm bình an (Ga-la-ti 5:22). Tình yêu thương trọn vẹn thì **"cất bỏ sự sợ hãi"** (1 Giăng 4:18). Khi chúng ta để Chúa ngự trị, sự sợ hãi không còn chỗ đứng.
 
@@ -76,7 +76,7 @@ Kết quả: Đa-vít chạy về phía Gô-li-át, dùng một hòn đá từ c
 
 ## Áp Dụng: Gô-li-át Trong Cuộc Đời Chúng Ta
 
-Gô-li-át ngày nay vẫn còn đó. Đó là những **nan đề, thử thách, khó khăn** mà ma quỷ đặt ra trên đường theo Chúa. Chúa Giê-xu đã cảnh báo trước: *"Các ngươi sẽ có hoạn nạn ở trong thế gian này"* (Giăng 16:33). Chúng ta không thể chạy trốn, không thể né tránh — nhưng chúng ta có thể **chiến thắng** bằng ba điều Đa-vít đã làm:
+Gô-li-át ngày nay vẫn còn đó. Đó là những **nan đề, thử thách, khó khăn** mà ma quỷ đặt ra trên đường theo Chúa. Đức Chúa Giê-su đã cảnh báo trước: *"Các ngươi sẽ có hoạn nạn ở trong thế gian này"* (Giăng 16:33). Chúng ta không thể chạy trốn, không thể né tránh — nhưng chúng ta có thể **chiến thắng** bằng ba điều Đa-vít đã làm:
 
 1. **Không sợ hãi** — bình an trong Chúa là nền tảng để đối phó bất kỳ nan đề nào.
 2. **Nhìn bằng đức tin** — đừng nhìn nan đề lớn hơn Chúa; hãy nhìn Chúa lớn hơn mọi nan đề.

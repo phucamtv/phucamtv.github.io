@@ -2,7 +2,7 @@
 title: "Sẽ Không Còn Khát Nữa | Giăng 4:6-15"
 date: 2021-10-09
 url: /baigiang/se-khong-con-khat-nua/
-description: "Qua cuộc gặp gỡ giữa Chúa Giê-su và người đàn bà Sa-ma-ri bên giếng Gia-cốp, bài giảng phân tích bốn phần trong Giăng 4:13-14 để cho thấy rằng mọi nguồn nước của thế gian — tiền bạc, danh vọng, quyền lực, giải trí — không bao giờ thỏa mãn được cơn khát thuộc linh, và chỉ có nước sự sống từ Đức Chúa Trời mới biến đổi con người thành nguồn phước cho người khác."
+description: "Qua cuộc gặp gỡ giữa Đức Chúa Giê-su và người đàn bà Sa-ma-ri bên giếng Gia-cốp, bài giảng phân tích bốn phần trong Giăng 4:13-14 để cho thấy rằng mọi nguồn nước của thế gian — tiền bạc, danh vọng, quyền lực, giải trí — không bao giờ thỏa mãn được cơn khát thuộc linh, và chỉ có nước sự sống từ Đức Chúa Trời mới biến đổi con người thành nguồn phước cho người khác."
 tags: ["Nước Sự Sống", "Giăng", "Sa-ma-ri", "Khao Khát", "Thuộc Linh", "Đức Chúa Trời"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,9 +14,9 @@ draft: false
 
 ## Uống Nước Này Vẫn Còn Khát Mãi
 
-Câu chuyện Chúa Giê-su gặp người đàn bà Sa-ma-ri tại giếng Gia-cốp trong Giăng 4:6-15 thường được ứng dụng cho việc truyền giáo, nhưng cốt lõi của phân đoạn này nằm ở lời tuyên bố của Chúa trong câu 13-14, có thể chia làm bốn phần rõ ràng: (1) phàm ai uống nước này vẫn còn khát mãi, (2) nhưng uống nước ta sẽ cho thì chẳng hề khát nữa, (3) nước ta cho sẽ thành một mạch nước trong người đó, và (4) văng ra cho đến sự sống đời đời.
+Câu chuyện Đức Chúa Giê-su gặp người đàn bà Sa-ma-ri tại giếng Gia-cốp trong Giăng 4:6-15 thường được ứng dụng cho việc truyền giáo, nhưng cốt lõi của phân đoạn này nằm ở lời tuyên bố của Chúa trong câu 13-14, có thể chia làm bốn phần rõ ràng: (1) phàm ai uống nước này vẫn còn khát mãi, (2) nhưng uống nước ta sẽ cho thì chẳng hề khát nữa, (3) nước ta cho sẽ thành một mạch nước trong người đó, và (4) văng ra cho đến sự sống đời đời.
 
-Nước là nhu cầu thiết yếu cho sự sống — chiếm gần 71% bề mặt địa cầu và khoảng 60% khối lượng cơ thể con người. Chúa Giê-su dùng hình ảnh quen thuộc ấy để nói về những cơn khát sâu xa hơn của con người: khát tiền bạc, tình cảm, danh vọng, quyền lực, giải trí. Ai khát điều gì thì tự nhiên sẽ tìm cách thỏa mãn. Nhưng lòng tham không có đáy, dục vọng không có điểm dừng — uống bao nhiêu vẫn còn khát mãi.
+Nước là nhu cầu thiết yếu cho sự sống — chiếm gần 71% bề mặt địa cầu và khoảng 60% khối lượng cơ thể con người. Đức Chúa Giê-su dùng hình ảnh quen thuộc ấy để nói về những cơn khát sâu xa hơn của con người: khát tiền bạc, tình cảm, danh vọng, quyền lực, giải trí. Ai khát điều gì thì tự nhiên sẽ tìm cách thỏa mãn. Nhưng lòng tham không có đáy, dục vọng không có điểm dừng — uống bao nhiêu vẫn còn khát mãi.
 
 Ma-thi-ơ 5:6 chép: "Phước cho những kẻ đói khát sự công bình, vì sẽ được no đủ." Phước không dành cho người đói khát tiền bạc hay quyền lực, mà cho người đói khát sự công bình — vì Đức Chúa Trời đã dự bị mọi thứ để thỏa mãn cơn khát thuộc linh ấy. Không điều gì trong thế gian có thể lấp đầy tâm linh trống rỗng của con người.
 
@@ -32,7 +32,7 @@ Dân Israel trong sa mạc Si-nai được Đức Chúa Trời ban bánh ma-na m
 
 ## Uống Nước Chúa Cho Sẽ Chẳng Hề Khát Nữa
 
-Chúa Giê-su tuyên bố nước của Ngài là nước sự sống — nguồn năng lực có thể thỏa mãn mọi cơn khát thuộc linh. Thi Thiên 36:9 khẳng định: "Vì nguồn sự sống ở nơi Chúa; trong ánh sáng Chúa, chúng tôi thấy sự sáng." Chúa đã chuẩn bị mọi thứ: thiên nhiên để bày tỏ dấu chân Ngài, Kinh Thánh qua các tiên tri, Con Một chịu chết trên thập tự giá, và Đức Thánh Linh ngự trong lòng người tin — để chúng ta nhận được sự cứu rỗi trọn vẹn.
+Đức Chúa Giê-su tuyên bố nước của Ngài là nước sự sống — nguồn năng lực có thể thỏa mãn mọi cơn khát thuộc linh. Thi Thiên 36:9 khẳng định: "Vì nguồn sự sống ở nơi Chúa; trong ánh sáng Chúa, chúng tôi thấy sự sáng." Chúa đã chuẩn bị mọi thứ: thiên nhiên để bày tỏ dấu chân Ngài, Kinh Thánh qua các tiên tri, Con Một chịu chết trên thập tự giá, và Đức Thánh Linh ngự trong lòng người tin — để chúng ta nhận được sự cứu rỗi trọn vẹn.
 
 Có câu chuyện về một chiếc tàu ngoại quốc trên Địa Trung Hải gần Ai Cập, hết nước ngọt, phải giương cờ trắng cầu cứu. Các tàu Ai Cập đến gần thì cười — vì lượng nước sông Nin đổ ra biển lớn đến nỗi đẩy lùi nước mặn, khiến cả vùng biển ấy là nước ngọt mà chiếc tàu kia không hay biết. Biết bao con dân Chúa cũng đang chết khát ngay trên vùng nước ngọt của Đức Chúa Trời, vì không khám phá ra những gì Ngài đã sắm sẵn.
 

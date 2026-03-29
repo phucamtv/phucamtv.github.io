@@ -30,7 +30,7 @@ Sứ đồ Gia-cơ đã đặt vấn đề thật sắc bén: "Ví thử có anh
 
 ## Yêu Bằng Việc Làm Và Lẽ Thật
 
-Chúa Giê-su khởi đầu chức vụ với hai bàn tay trắng, nhưng những gì Ngài cống hiến hết cho lợi ích của con người. Ngài không chỉ nói về tình yêu — Ngài sống tình yêu ấy. Ngài chữa lành kẻ đau, cho kẻ đói ăn, và cuối cùng phó chính mạng sống mình trên thập tự giá.
+Đức Chúa Giê-su khởi đầu chức vụ với hai bàn tay trắng, nhưng những gì Ngài cống hiến hết cho lợi ích của con người. Ngài không chỉ nói về tình yêu — Ngài sống tình yêu ấy. Ngài chữa lành kẻ đau, cho kẻ đói ăn, và cuối cùng phó chính mạng sống mình trên thập tự giá.
 
 Là những môn đệ thật của Chúa, chúng ta không thể sống trái ngược với những gì Ngài đã truyền dạy. Sứ đồ Giăng nhắc nhở: "Hỡi các con cái bé mọn, chớ yêu mến bằng lời nói và lưỡi, nhưng bằng việc làm và lẽ thật" (1 Giăng 3:18). Đó chính là cách chúng ta sống làm vui lòng Chúa nhất.
 

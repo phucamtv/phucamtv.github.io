@@ -19,7 +19,7 @@ draft: false
 
 Công-vụ 13:13 ghi lại rằng khi Phao-lô cùng đồng bạn xuống thuyền tại Ba-phô sang thành Bẹt-giê, thì Giăng Mác đã lìa hai người trở về Giê-ru-sa-lem. Đây là một hành động đào ngũ -- rời bỏ trách nhiệm mà chính mình đã tự nguyện gắn bó. Kinh Thánh không ghi rõ lý do, có thể vì bất mãn, vì không chịu nổi gian khổ trên vùng cao nguyên hiểm trở, hoặc vì nhớ nhà. Nhưng dù lý do gì, việc rời bỏ nhiệm vụ giữa chừng là một điều đáng đau lòng.
 
-Nếu nhìn tổng thể cuộc đời Giăng Mác, ta thấy một con người từng truồng chạy khi Chúa Giê-su bị bắt, rồi đào ngũ khi đi truyền giáo. Theo lẽ thường, không ai muốn sử dụng lại một người đã mất uy tín như vậy. Thế nhưng điều kỳ diệu là Chúa đã đón nhận ông trở lại. Giăng Mác về sau đã giúp đỡ Phao-lô trong thời gian ông bị giam cầm, và trở thành tác giả Phúc Âm Mác -- một trong bốn sách Phúc Âm của Tân Ước.
+Nếu nhìn tổng thể cuộc đời Giăng Mác, ta thấy một con người từng truồng chạy khi Đức Chúa Giê-su bị bắt, rồi đào ngũ khi đi truyền giáo. Theo lẽ thường, không ai muốn sử dụng lại một người đã mất uy tín như vậy. Thế nhưng điều kỳ diệu là Chúa đã đón nhận ông trở lại. Giăng Mác về sau đã giúp đỡ Phao-lô trong thời gian ông bị giam cầm, và trở thành tác giả Phúc Âm Mác -- một trong bốn sách Phúc Âm của Tân Ước.
 
 ## Chúa luôn cho chúng ta cơ hội
 
@@ -37,13 +37,13 @@ Theo Ga-la-ti 4:13, Phao-lô có thể đã bị bệnh ở vùng duyên hải n
 
 Tại An-ti-ốt thuộc xứ Bi-si-đi, Phao-lô được chủ nhà hội mời lên chia sẻ. Ông đã trình bày một bài giảng đầy đủ (câu 16-41) với những điểm chính sau:
 
-Thứ nhất, Phao-lô tóm tắt lịch sử dân Israel từ các tổ phụ, qua thời kỳ ở Ai-cập, đồng vắng, các quan xét, đến vua Sau-lơ và vua Đa-vít -- để cho thấy sự giáng sinh của Chúa Giê-su không phải ngẫu nhiên mà nằm trong kế hoạch của Đức Chúa Trời từ thuở ban đầu.
+Thứ nhất, Phao-lô tóm tắt lịch sử dân Israel từ các tổ phụ, qua thời kỳ ở Ai-cập, đồng vắng, các quan xét, đến vua Sau-lơ và vua Đa-vít -- để cho thấy sự giáng sinh của Đức Chúa Giê-su không phải ngẫu nhiên mà nằm trong kế hoạch của Đức Chúa Trời từ thuở ban đầu.
 
-Thứ hai, con người đã khước từ kế hoạch cứu rỗi. Dân và các quan ở Giê-ru-sa-lem đã giết Chúa Giê-su, chính họ làm ứng nghiệm lời tiên tri mà họ vẫn đọc mỗi ngày Sa-bát nhưng không nhận ra.
+Thứ hai, con người đã khước từ kế hoạch cứu rỗi. Dân và các quan ở Giê-ru-sa-lem đã giết Đức Chúa Giê-su, chính họ làm ứng nghiệm lời tiên tri mà họ vẫn đọc mỗi ngày Sa-bát nhưng không nhận ra.
 
-Thứ ba, Chúa Giê-su đã sống lại. Phao-lô dùng Thi Thiên để chứng minh rằng khi Đa-vít viết về một đấng sẽ không thấy sự hư nát, ông không nói về chính mình vì Đa-vít đã chết và chôn, mà nói về Chúa Giê-su -- đấng đã sống lại từ kẻ chết.
+Thứ ba, Đức Chúa Giê-su đã sống lại. Phao-lô dùng Thi Thiên để chứng minh rằng khi Đa-vít viết về một đấng sẽ không thấy sự hư nát, ông không nói về chính mình vì Đa-vít đã chết và chôn, mà nói về Đức Chúa Giê-su -- đấng đã sống lại từ kẻ chết.
 
-Thứ tư, nhờ Chúa Giê-su mà ai tin thì được xưng công bình -- điều mà luật pháp Môi-se không thể làm được. Chúng ta được cứu bởi ân điển, không phải bởi việc làm; nhưng khi đã được cứu, chúng ta vâng giữ điều răn của Chúa vì lòng yêu mến Ngài.
+Thứ tư, nhờ Đức Chúa Giê-su mà ai tin thì được xưng công bình -- điều mà luật pháp Môi-se không thể làm được. Chúng ta được cứu bởi ân điển, không phải bởi việc làm; nhưng khi đã được cứu, chúng ta vâng giữ điều răn của Chúa vì lòng yêu mến Ngài.
 
 ## Lời cảnh báo nghiêm trọng
 

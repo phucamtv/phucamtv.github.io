@@ -24,7 +24,7 @@ I Ti-mô-thê 2:4 khẳng định Đức Chúa Trời muốn mọi người đư
 
 Kinh Thánh đưa ra nhiều minh chứng sống động. Trong Sáng-thế ký 19:14, khi Lót cảnh báo các con rể về sự hủy diệt sắp đến trên thành Sô-đôm, các chàng rể lại tưởng ông nói chơi. Đây chính là hình ảnh của những người không hiểu đúng Lời Chúa, xem những lời cảnh báo nghiêm trọng như chuyện đùa.
 
-Ma-thi-ơ 22:29 ghi lại lời Chúa Giê-su quở trách người Sa-đu-sê: "Các ngươi lầm, vì không hiểu Kinh Thánh, và cũng không hiểu quyền phép Đức Chúa Trời." Ngay cả những người tưởng mình thông thạo luật pháp mà thật ra đang sai lầm. Giăng 3:10 cũng cho thấy Ni-cô-đem là giáo sư của dân Israel mà không hiểu biết những lẽ thật căn bản về sự tái sanh.
+Ma-thi-ơ 22:29 ghi lại lời Đức Chúa Giê-su quở trách người Sa-đu-sê: "Các ngươi lầm, vì không hiểu Kinh Thánh, và cũng không hiểu quyền phép Đức Chúa Trời." Ngay cả những người tưởng mình thông thạo luật pháp mà thật ra đang sai lầm. Giăng 3:10 cũng cho thấy Ni-cô-đem là giáo sư của dân Israel mà không hiểu biết những lẽ thật căn bản về sự tái sanh.
 
 Trong Công-vụ 8:30-31, hoạn quan người Ê-thi-ô-bi thành thật thú nhận: "Nếu chẳng ai dạy cho tôi, thế nào tôi hiểu được?" Đây là thái độ khiêm nhường đáng học hỏi. Nhiều người trong chúng ta đọc Kinh Thánh nhưng không hiểu, và khi không hiểu thì trở nên mệt mỏi, buồn ngủ, lười biếng trong việc tìm kiếm Lời Chúa.
 
@@ -42,7 +42,7 @@ Ma-thi-ơ 13:19 và 23 cho thấy hai loại người nghe đạo: người khô
 
 ## Hãy Tấn Tới Trong Sự Hiểu Biết
 
-Giải pháp mà Kinh Thánh đưa ra không phải là tự mãn hay tuyệt vọng, mà là khiêm nhường tìm kiếm. Lu-ca 24:45 ghi nhận Chúa Giê-su "mở trí cho môn đồ được hiểu Kinh Thánh" — cho thấy sự hiểu biết thuộc linh đến từ sự soi sáng của Đức Chúa Trời, không phải chỉ từ nỗ lực con người.
+Giải pháp mà Kinh Thánh đưa ra không phải là tự mãn hay tuyệt vọng, mà là khiêm nhường tìm kiếm. Lu-ca 24:45 ghi nhận Đức Chúa Giê-su "mở trí cho môn đồ được hiểu Kinh Thánh" — cho thấy sự hiểu biết thuộc linh đến từ sự soi sáng của Đức Chúa Trời, không phải chỉ từ nỗ lực con người.
 
 Cô-lô-se 1:9 cầu xin Đức Chúa Trời ban cho tín hữu "đầy dẫy sự hiểu biết về ý muốn của Ngài, với mọi thứ khôn ngoan và hiểu biết thiêng liêng." II Phi-e-rơ 3:18 kêu gọi: "Hãy tấn tới trong ân điển và trong sự thông biết Chúa." Ê-phê-sô 5:17 nhắc nhở: "Chớ nên như kẻ dại dột, nhưng phải hiểu rõ ý muốn của Chúa là thế nào."
 

@@ -12,13 +12,13 @@ draft: false
 
 {{< youtube "Gx1Gf17lLoE" >}}
 
-Kinh Thánh chứa đầy những lời cảnh báo dành cho nhân loại. Từ thời Hê-nóc, qua thời Nô-ê, đến các tiên tri, và chính Chúa Giê-su — thông điệp luôn nhất quán: hãy tỉnh thức và sẵn sàng. Thế nhưng phản ứng của con người qua mọi thời đại cũng nhất quán không kém: phớt lờ, nhạo cười, và xem thường. Bài giảng hôm nay chia làm hai phần: phản ứng của "người ta" và phản ứng đúng đắn mà "chúng ta" cần có.
+Kinh Thánh chứa đầy những lời cảnh báo dành cho nhân loại. Từ thời Hê-nóc, qua thời Nô-ê, đến các tiên tri, và chính Đức Chúa Giê-su — thông điệp luôn nhất quán: hãy tỉnh thức và sẵn sàng. Thế nhưng phản ứng của con người qua mọi thời đại cũng nhất quán không kém: phớt lờ, nhạo cười, và xem thường. Bài giảng hôm nay chia làm hai phần: phản ứng của "người ta" và phản ứng đúng đắn mà "chúng ta" cần có.
 
 ## Người Ta: Nghe Mà Không Hiểu, Phớt Lờ Và Nhạo Cười
 
 II Phi-e-rơ 3:3-7 đã tiên tri rằng trong những ngày sau rốt, sẽ có những kẻ dùng lời giễu cợt, sống theo tình dục riêng, và hỏi rằng: "Lời hứa về sự Chúa đến ở đâu?" Họ cố tình quên rằng Đức Chúa Trời đã từng dùng nước lụt hủy diệt thế gian, và trời đất hiện tại đang được dành cho ngày phán xét bằng lửa.
 
-Mác 4:12 ghi lại lời Chúa Giê-su: họ xem thì xem mà không thấy, nghe thì nghe mà không hiểu. Đây là thực trạng đáng buồn của nhiều người trong thế giới ngày nay. Dù phương tiện truyền thông đã đưa Kinh Thánh đến tận ngõ ngách, dù lời Chúa được rao giảng bằng mọi ngôn ngữ trên internet, người ta vẫn chọn bịt tai lại.
+Mác 4:12 ghi lại lời Đức Chúa Giê-su: họ xem thì xem mà không thấy, nghe thì nghe mà không hiểu. Đây là thực trạng đáng buồn của nhiều người trong thế giới ngày nay. Dù phương tiện truyền thông đã đưa Kinh Thánh đến tận ngõ ngách, dù lời Chúa được rao giảng bằng mọi ngôn ngữ trên internet, người ta vẫn chọn bịt tai lại.
 
 ### Câu Chuyện Bernard Vasquez — Khi Lời Cảnh Báo Bị Cự Tuyệt
 
@@ -34,7 +34,7 @@ Tất cả những lời cảnh báo của trưởng làng đều trở nên vô
 
 ### Thời Nô-ê Và Thành Sô-đôm — Bài Học Muôn Đời
 
-Ma-thi-ơ 24:37-39 ghi lại lời Chúa Giê-su: trong đời Nô-ê thể nào, khi Con Người đến cũng thể ấy. Nô-ê đã đóng tàu nhiều năm, đồng thời cảnh báo nhân loại mỗi ngày. Nhưng người ta vẫn ăn uống, cưới gả bình thường cho đến khi cửa tàu đóng lại và nước lụt đến.
+Ma-thi-ơ 24:37-39 ghi lại lời Đức Chúa Giê-su: trong đời Nô-ê thể nào, khi Con Người đến cũng thể ấy. Nô-ê đã đóng tàu nhiều năm, đồng thời cảnh báo nhân loại mỗi ngày. Nhưng người ta vẫn ăn uống, cưới gả bình thường cho đến khi cửa tàu đóng lại và nước lụt đến.
 
 Tương tự, khi Lót cảnh báo các con rể rằng thành Sô-đôm sắp bị hủy diệt, họ tưởng ông nói chơi. Sáng Thế Ký 19:14 ghi lại khoảnh khắc đau đớn ấy — những người thân yêu nhất lại là những người không tin lời cảnh báo.
 
@@ -42,7 +42,7 @@ Ngọn núi lửa Vesuvius gầm gừ suốt 17 năm trước khi phun trào nă
 
 ## Chúng Ta: Nghe, Hiểu, Chấp Nhận Và Sẵn Sàng
 
-Chúa Giê-su phán trong Mác 4: "Ai có tai mà nghe, hãy nghe." Ai cũng có tai, nhưng không phải ai cũng chọn lắng nghe lời Chúa. Nhiều người để cho những tiếng ồn của thế gian — mạng xã hội, giải trí, công việc — lấp đi tiếng phán của Đức Chúa Trời.
+Đức Chúa Giê-su phán trong Mác 4: "Ai có tai mà nghe, hãy nghe." Ai cũng có tai, nhưng không phải ai cũng chọn lắng nghe lời Chúa. Nhiều người để cho những tiếng ồn của thế gian — mạng xã hội, giải trí, công việc — lấp đi tiếng phán của Đức Chúa Trời.
 
 Giống như nhà côn trùng học giữa phố xá ồn ào vẫn nghe được tiếng côn trùng trong bụi cây vì lỗ tai ông đã quen với âm thanh ấy, chúng ta cũng cần tập cho lỗ tai mình quen với lời Chúa. Khi lỗ tai đã nghe quen tiếng Ngài, thì dù giữa cuộc đời đầy biến động, chúng ta vẫn nghe được lời an ủi và sự hướng dẫn của Ngài.
 

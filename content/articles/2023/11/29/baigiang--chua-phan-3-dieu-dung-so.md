@@ -2,7 +2,7 @@
 title: "Chúa Phán 3 Điều \"Đừng Sợ\""
 date: 2023-11-29
 url: /baigiang/chua-phan-3-dieu-dung-so/
-description: "Mục sư Dương Quang Thoại giảng về Ma-thi-ơ 10:24-33: Chúa Giê-su trấn an các môn đồ với ba lời kêu gọi đừng sợ — đừng sợ vu khống vì chân lý sẽ phát lộ, đừng sợ kẻ giết thân thể vì địa ngục còn đáng sợ hơn, và đừng sợ vì Đức Chúa Cha chăm lo từng chi tiết trong cuộc đời chúng ta."
+description: "Mục sư Dương Quang Thoại giảng về Ma-thi-ơ 10:24-33: Đức Chúa Giê-su trấn an các môn đồ với ba lời kêu gọi đừng sợ — đừng sợ vu khống vì chân lý sẽ phát lộ, đừng sợ kẻ giết thân thể vì địa ngục còn đáng sợ hơn, và đừng sợ vì Đức Chúa Cha chăm lo từng chi tiết trong cuộc đời chúng ta."
 tags: ["Đừng Sợ", "Đức Tin", "Can Đảm", "Ma-thi-ơ", "Sứ Giả", "Trung Thành"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,15 +14,15 @@ draft: false
 
 ## Giới Thiệu: Sứ Giả Và Những Đau Khổ Của Vua
 
-Trong Ma-thi-ơ 10:24-33, Mục sư Dương Quang Thoại dẫn hội thánh đi qua ba phần của bài giảng: sứ giả và những đau khổ của Vua (câu 24-25), ba điều "đừng sợ" mà Chúa Giê-su phán với các môn đồ (câu 26-31), và sự trung tín cùng phần thưởng (câu 32-33).
+Trong Ma-thi-ơ 10:24-33, Mục sư Dương Quang Thoại dẫn hội thánh đi qua ba phần của bài giảng: sứ giả và những đau khổ của Vua (câu 24-25), ba điều "đừng sợ" mà Đức Chúa Giê-su phán với các môn đồ (câu 26-31), và sự trung tín cùng phần thưởng (câu 32-33).
 
-Chúa Giê-su khẳng định một nguyên tắc nền tảng: *"Môn đồ không hơn thầy, tôi tớ không hơn chủ."* Điều này có nghĩa là những gì đã xảy đến cho Chúa cũng sẽ xảy đến cho những kẻ theo Ngài — không nhất thiết giống hệt về hình thức, nhưng tương đồng về áp lực và sự chịu đựng. Những ai muốn chia sẻ vinh quang chiến thắng với Chúa thì phải chấp nhận cùng chịu khổ với Ngài trong hành trình theo Ngài.
+Đức Chúa Giê-su khẳng định một nguyên tắc nền tảng: *"Môn đồ không hơn thầy, tôi tớ không hơn chủ."* Điều này có nghĩa là những gì đã xảy đến cho Chúa cũng sẽ xảy đến cho những kẻ theo Ngài — không nhất thiết giống hệt về hình thức, nhưng tương đồng về áp lực và sự chịu đựng. Những ai muốn chia sẻ vinh quang chiến thắng với Chúa thì phải chấp nhận cùng chịu khổ với Ngài trong hành trình theo Ngài.
 
 ---
 
 ## Điều Đừng Sợ Thứ Nhất: Đừng Sợ Vì Chân Lý Sẽ Phát Lộ
 
-Câu 26 khẳng định: *"Chẳng có việc gì dấu mà chẳng phải bày ra, chẳng có việc gì kín nhiệm mà sau sẽ chẳng biết."* Khi các tôi tớ Chúa bị vu khống, bị oan ức, bị người ta hiểu lầm hay kết án sai — Chúa Giê-su nói: đừng sợ. Rốt cuộc mọi thứ đều sẽ bị phơi bày dưới ánh sáng. Những kẻ hãm hại tôi tớ Ngài sẽ phải đối diện với sự trừng phạt; những người bị áp bức sẽ được chính Chúa làm cho rạng rỡ.
+Câu 26 khẳng định: *"Chẳng có việc gì dấu mà chẳng phải bày ra, chẳng có việc gì kín nhiệm mà sau sẽ chẳng biết."* Khi các tôi tớ Chúa bị vu khống, bị oan ức, bị người ta hiểu lầm hay kết án sai — Đức Chúa Giê-su nói: đừng sợ. Rốt cuộc mọi thứ đều sẽ bị phơi bày dưới ánh sáng. Những kẻ hãm hại tôi tớ Ngài sẽ phải đối diện với sự trừng phạt; những người bị áp bức sẽ được chính Chúa làm cho rạng rỡ.
 
 Câu 27 tiếp nối với lời kêu gọi can đảm: *"Lời Ta phán cùng các ngươi trong nơi tối tăm, hãy nói ra nơi sáng láng; lời các ngươi nghe kề lỗ tai, hãy giảng ra trên mái nhà."* Một sứ giả thật của Đức Chúa Trời phải rao truyền những điều đã nghe từ Chúa — không thêm thắt, không chỉnh sửa theo ý riêng, không nói những gì người ta thích nghe. Muốn giảng thì phải nghe; muốn dạy thì phải học, và học trực tiếp từ lời Chúa.
 
@@ -34,7 +34,7 @@ Erasmus, học giả thần học nổi tiếng, từng từ chối lời mời 
 
 Câu 28 đặt ra một sự lựa chọn rõ ràng: *"Đừng sợ kẻ giết thân thể mà không giết được linh hồn; nhưng thà sợ Đấng làm cho mất được linh hồn và thân thể trong địa ngục."* Sự đau đớn thể xác và những hình phạt của con người không thể so sánh với sự hình phạt đời đời trong địa ngục.
 
-Chúa Giê-su đang trấn an các môn đồ: thà chết trong sự trung thành để được sự sống đời đời, còn hơn vì sợ mà giữ mạng sống tạm thời rồi trở nên kẻ bất trung với Đức Chúa Trời. Đây là lời kêu gọi dứt khoát dành cho những sứ giả Tin Lành: sự sợ hãi là kẻ thù của đức tin, là kẻ thù của lòng can đảm.
+Đức Chúa Giê-su đang trấn an các môn đồ: thà chết trong sự trung thành để được sự sống đời đời, còn hơn vì sợ mà giữ mạng sống tạm thời rồi trở nên kẻ bất trung với Đức Chúa Trời. Đây là lời kêu gọi dứt khoát dành cho những sứ giả Tin Lành: sự sợ hãi là kẻ thù của đức tin, là kẻ thù của lòng can đảm.
 
 ---
 
@@ -50,7 +50,7 @@ Nếu Ngài quan tâm đến từng con chim rẻ tiền đến như vậy, thì
 
 ## Sự Trung Tín Và Phần Thưởng
 
-Câu 32-33 kết thúc bài giảng với lời phán quyết dứt khoát của Chúa Giê-su: *"Ai xưng Ta ra trước mặt thiên hạ thì Ta cũng sẽ xưng họ trước mặt Cha Ta ở trên trời; còn ai chối Ta trước mặt thiên hạ thì Ta cũng sẽ chối họ trước mặt Cha Ta ở trên trời."*
+Câu 32-33 kết thúc bài giảng với lời phán quyết dứt khoát của Đức Chúa Giê-su: *"Ai xưng Ta ra trước mặt thiên hạ thì Ta cũng sẽ xưng họ trước mặt Cha Ta ở trên trời; còn ai chối Ta trước mặt thiên hạ thì Ta cũng sẽ chối họ trước mặt Cha Ta ở trên trời."*
 
 Mục sư Thoại chỉ ra ba hình thức có thể chối Chúa mà người ta đôi khi không nhận ra:
 
@@ -64,4 +64,4 @@ Trung thành không chỉ là lời nói. Trung thành là một nếp sống �
 
 ## Kết Luận
 
-Ba điều "đừng sợ" trong Ma-thi-ơ 10:26-31 tạo thành một nền tảng vững chắc cho những ai được sai đi trong sứ mạng của Chúa: chân lý sẽ phát lộ, linh hồn quý hơn thân xác, và Đức Chúa Cha quan phòng từng chi tiết trong cuộc sống. Lời kêu gọi của Chúa Giê-su không phải là loại bỏ mọi nỗi sợ hãi bằng ý chí, mà là thay thế sự sợ hãi bằng sự tin cậy vào Đức Chúa Trời — Đấng biết cả tóc trên đầu chúng ta và không để một con chim sẻ nào đậu xuống đất mà không hay biết.
+Ba điều "đừng sợ" trong Ma-thi-ơ 10:26-31 tạo thành một nền tảng vững chắc cho những ai được sai đi trong sứ mạng của Chúa: chân lý sẽ phát lộ, linh hồn quý hơn thân xác, và Đức Chúa Cha quan phòng từng chi tiết trong cuộc sống. Lời kêu gọi của Đức Chúa Giê-su không phải là loại bỏ mọi nỗi sợ hãi bằng ý chí, mà là thay thế sự sợ hãi bằng sự tin cậy vào Đức Chúa Trời — Đấng biết cả tóc trên đầu chúng ta và không để một con chim sẻ nào đậu xuống đất mà không hay biết.

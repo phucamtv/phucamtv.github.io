@@ -16,7 +16,7 @@ draft: false
 
 Câu chuyện Giáng Sinh quen thuộc với người tin Chúa, nhưng với người chưa tin luôn có câu hỏi: Tại sao Thượng Đế lại trở thành con người? Một minh họa về vị vua lao xuống sông cứu con giúp trả lời: cũng như người cha không thể đứng nhìn con gặp nguy, Đức Chúa Trời không thể ngồi yên khi nhân loại chìm trong tội lỗi và đau khổ. Chính Ngài phải đích thân đến thế gian.
 
-Chúa Giê-su không ra đời trong cung điện lộng lẫy mà trong chuồng gia súc — nơi tăm tối, hôi hám — để bày tỏ sự cảm thông trọn vẹn với nỗi khổ của con người. Không ai có thể nói mình nghèo hơn hay khổ hơn Chúa Cứu Thế.
+Đức Chúa Giê-su không ra đời trong cung điện lộng lẫy mà trong chuồng gia súc — nơi tăm tối, hôi hám — để bày tỏ sự cảm thông trọn vẹn với nỗi khổ của con người. Không ai có thể nói mình nghèo hơn hay khổ hơn Chúa Cứu Thế.
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Đức Chúa Trời Và Quyền Lực Thế Gian"
 date: 2024-10-30
 url: /baigiang/duc-chua-troi-va-quyen-luc-the-gian/
-description: "Bài giảng phân tích Ma-thi-ơ 22:15-33 về mối quan hệ giữa đức tin và chính quyền, cùng câu trả lời của Chúa Giê-su về sự sống lại."
+description: "Bài giảng phân tích Ma-thi-ơ 22:15-33 về mối quan hệ giữa đức tin và chính quyền, cùng câu trả lời của Đức Chúa Giê-su về sự sống lại."
 tags: ["Ma-thi-ơ", "Nộp Thuế", "Chính Quyền", "Sự Sống Lại", "Người Pha-ri-si", "Người Sa-đu-sê"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,15 +14,15 @@ draft: false
 
 ## Bối cảnh: Câu hỏi về việc nộp thuế (Ma-thi-ơ 22:15-22)
 
-Trong bối cảnh đế quốc La Mã đang đô hộ dân Israel, người Pha-ri-si đã bắt tay với đảng Hê-rốt để gài bẫy Chúa Giê-su bằng một câu hỏi tưởng đơn giản nhưng vô cùng hóc búa: "Có nên nộp thuế cho Sê-sa hay không?"
+Trong bối cảnh đế quốc La Mã đang đô hộ dân Israel, người Pha-ri-si đã bắt tay với đảng Hê-rốt để gài bẫy Đức Chúa Giê-su bằng một câu hỏi tưởng đơn giản nhưng vô cùng hóc búa: "Có nên nộp thuế cho Sê-sa hay không?"
 
-Hai nhóm này vốn mâu thuẫn sâu sắc với nhau. Người Pha-ri-si là những người cực đoan, chống đối việc nộp thuế cho La Mã vì họ cho rằng Đức Chúa Trời là vua duy nhất. Còn đảng Hê-rốt lại thân cận với chính quyền La Mã. Nhưng khi có chung một kẻ thù là Chúa Giê-su, họ đã gác lại mọi tranh chấp để cấu kết hại Ngài.
+Hai nhóm này vốn mâu thuẫn sâu sắc với nhau. Người Pha-ri-si là những người cực đoan, chống đối việc nộp thuế cho La Mã vì họ cho rằng Đức Chúa Trời là vua duy nhất. Còn đảng Hê-rốt lại thân cận với chính quyền La Mã. Nhưng khi có chung một kẻ thù là Đức Chúa Giê-su, họ đã gác lại mọi tranh chấp để cấu kết hại Ngài.
 
-Nếu Chúa Giê-su trả lời "nên nộp thuế," những người chống đối La Mã sẽ tố cáo Ngài. Nếu Ngài nói "không nên nộp," chính quyền La Mã sẽ bắt Ngài về tội kích động.
+Nếu Đức Chúa Giê-su trả lời "nên nộp thuế," những người chống đối La Mã sẽ tố cáo Ngài. Nếu Ngài nói "không nên nộp," chính quyền La Mã sẽ bắt Ngài về tội kích động.
 
-## Câu trả lời khôn ngoan của Chúa Giê-su
+## Câu trả lời khôn ngoan của Đức Chúa Giê-su
 
-Chúa Giê-su yêu cầu họ đưa đồng tiền nộp thuế — một đồng đơ-ni-ê có chạm hình và hiệu của Sê-sa. Ngài hỏi: "Hình và hiệu này của ai?" Khi họ trả lời "Của Sê-sa," Ngài phán: "Hãy trả cho Sê-sa vật gì của Sê-sa; và trả cho Đức Chúa Trời vật gì của Đức Chúa Trời" (Ma-thi-ơ 22:21).
+Đức Chúa Giê-su yêu cầu họ đưa đồng tiền nộp thuế — một đồng đơ-ni-ê có chạm hình và hiệu của Sê-sa. Ngài hỏi: "Hình và hiệu này của ai?" Khi họ trả lời "Của Sê-sa," Ngài phán: "Hãy trả cho Sê-sa vật gì của Sê-sa; và trả cho Đức Chúa Trời vật gì của Đức Chúa Trời" (Ma-thi-ơ 22:21).
 
 Câu trả lời này không chỉ thoát khỏi cái bẫy mà còn thiết lập một chân lý muôn đời: có một ranh giới rõ ràng giữa bổn phận với nhà nước và bổn phận với Đức Chúa Trời.
 
@@ -49,7 +49,7 @@ Khi có sự xung đột giữa đức tin và chính quyền — như trường
 
 ## Thắc mắc về sự sống lại (Ma-thi-ơ 22:23-33)
 
-Sau khi người Pha-ri-si thất bại, người Sa-đu-sê tiếp tục thử thách Chúa Giê-su. Họ là những người giàu có, thuộc tầng lớp cai trị, chỉ chấp nhận Ngũ Kinh (năm sách của Môi-se) và không tin vào sự sống lại.
+Sau khi người Pha-ri-si thất bại, người Sa-đu-sê tiếp tục thử thách Đức Chúa Giê-su. Họ là những người giàu có, thuộc tầng lớp cai trị, chỉ chấp nhận Ngũ Kinh (năm sách của Môi-se) và không tin vào sự sống lại.
 
 Họ đặt ra một tình huống dựa trên luật nối dòng trong Phục Truyền 25:5-10: một người đàn bà lần lượt là vợ của bảy anh em, rồi hỏi Chúa khi sống lại thì bà sẽ là vợ ai.
 
@@ -57,14 +57,14 @@ Họ đặt ra một tình huống dựa trên luật nối dòng trong Phục T
 
 Để hiểu câu chuyện này, cần phân biệt ba loại luật pháp:
 1. **Luật pháp Đức Chúa Trời** (Mười Điều Răn) — bất di bất dịch, vượt mọi thời đại
-2. **Luật tế lễ** — mang ý nghĩa hình bóng, đã ứng nghiệm khi Chúa Giê-su chết trên thập tự giá
+2. **Luật tế lễ** — mang ý nghĩa hình bóng, đã ứng nghiệm khi Đức Chúa Giê-su chết trên thập tự giá
 3. **Luật dân sự** — dành cho quốc gia Israel, một số nguyên tắc vẫn có thể áp dụng ngày nay
 
 Luật nối dòng thuộc loại luật dân sự, chỉ dành riêng cho người Israel.
 
-## Chúa Giê-su khẳng định sự sống lại
+## Đức Chúa Giê-su khẳng định sự sống lại
 
-Chúa Giê-su trả lời thẳng thắn: "Các ngươi lầm, vì không hiểu Kinh Thánh và cũng không hiểu quyền phép Đức Chúa Trời" (Ma-thi-ơ 22:29).
+Đức Chúa Giê-su trả lời thẳng thắn: "Các ngươi lầm, vì không hiểu Kinh Thánh và cũng không hiểu quyền phép Đức Chúa Trời" (Ma-thi-ơ 22:29).
 
 Ngài giải thích rằng thiên đàng không phải là sự tiếp nối cuộc sống trần gian. Khi sống lại, người ta không cưới vợ cũng không lấy chồng, mà như thiên sứ trên trời. Quyền phép Đức Chúa Trời có thể biến đổi con người thành một thân thể hoàn toàn mới.
 
@@ -72,4 +72,4 @@ Ngài cũng trích dẫn chính Ngũ Kinh mà người Sa-đu-sê chấp nhận:
 
 ## Kết luận
 
-Qua hai phần Kinh Thánh, Chúa Giê-su đã dùng những chân lý muôn đời để trả lời những cái bẫy của kẻ thù. Những nguyên tắc Ngài đưa ra có thể áp dụng cho mọi thời đại, mọi thể chế: hãy làm trọn bổn phận công dân, nhưng luôn đặt Đức Chúa Trời lên trên hết; và sự sống lại là niềm hy vọng chắc chắn cho những ai tin Ngài.
+Qua hai phần Kinh Thánh, Đức Chúa Giê-su đã dùng những chân lý muôn đời để trả lời những cái bẫy của kẻ thù. Những nguyên tắc Ngài đưa ra có thể áp dụng cho mọi thời đại, mọi thể chế: hãy làm trọn bổn phận công dân, nhưng luôn đặt Đức Chúa Trời lên trên hết; và sự sống lại là niềm hy vọng chắc chắn cho những ai tin Ngài.

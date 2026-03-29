@@ -2,7 +2,7 @@
 title: "Liên Quan Mà Không Biết | 1 Ti-mô-thê 1:15"
 date: 2020-10-04
 url: /baigiang/lien-quan-ma-khong-biet/
-description: "Qua câu chuyện người vợ vô tình đi qua hiện trường tai nạn của chồng mà không hề hay biết, Mục sư Dương Quang Thoại nhắc nhở rằng nhiều người cũng đang sống vô tình bên cạnh thập tự giá mà không nhận ra sự chết của Chúa Giê-xu liên quan mật thiết đến cuộc đời họ."
+description: "Qua câu chuyện người vợ vô tình đi qua hiện trường tai nạn của chồng mà không hề hay biết, Mục sư Dương Quang Thoại nhắc nhở rằng nhiều người cũng đang sống vô tình bên cạnh thập tự giá mà không nhận ra sự chết của Đức Chúa Giê-su liên quan mật thiết đến cuộc đời họ."
 tags: ["Thập Tự Giá", "Cứu Rỗi", "Đức Tin", "Ăn Năn", "Chắp Cánh Bay Cao"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -32,23 +32,23 @@ Chị rã rời, suy sụp như cái xác không hồn, đến bệnh viện nh�
 
 Mục sư Dương Quang Thoại dùng câu chuyện này để chỉ ra một thực trạng đáng suy nghĩ hơn trong đời sống tâm linh: nhiều người đi ngang qua thập tự giá, nghe biết về sự chết của Chúa Cơ Đốc, nhưng đã không hề nhận ra mối liên hệ giữa cái chết ấy và cuộc đời mình.
 
-Biểu tượng thập tự giá đã trở nên quá quen thuộc. Người ta vẫn tưởng rằng đó là câu chuyện về một người Do Thái xa xưa, không liên quan gì đến cuộc sống của họ. Ngay cả một số người ngồi trong thánh đường cũng chưa thật sự nhận biết được mối liên hệ đặc biệt giữa sự chết của Chúa Giê-xu và cuộc đời mình.
+Biểu tượng thập tự giá đã trở nên quá quen thuộc. Người ta vẫn tưởng rằng đó là câu chuyện về một người Do Thái xa xưa, không liên quan gì đến cuộc sống của họ. Ngay cả một số người ngồi trong thánh đường cũng chưa thật sự nhận biết được mối liên hệ đặc biệt giữa sự chết của Đức Chúa Giê-su và cuộc đời mình.
 
 ---
 
 ## Thập Tự Giá Và Cuộc Đời Mỗi Người
 
-Sự chết của Chúa Giê-xu trên thập tự giá không phải là câu chuyện lịch sử xa xôi, cũng không phải là sự kiện chỉ liên quan đến người Do Thái thế kỷ thứ nhất. Đó là sự kiện có liên quan trực tiếp, mật thiết đến mỗi một con người đang sống trên đất này — kể cả bạn, kể cả tôi.
+Sự chết của Đức Chúa Giê-su trên thập tự giá không phải là câu chuyện lịch sử xa xôi, cũng không phải là sự kiện chỉ liên quan đến người Do Thái thế kỷ thứ nhất. Đó là sự kiện có liên quan trực tiếp, mật thiết đến mỗi một con người đang sống trên đất này — kể cả bạn, kể cả tôi.
 
 Mỗi người trong chúng ta đều là kẻ có tội. Không phải vì chúng ta phạm những tội ác lớn lao, mà vì chúng ta đã sống xa cách Đức Chúa Trời, tự mình làm chủ cuộc đời thay vì để Ngài dẫn dắt. Đó là bản chất tội lỗi mà mỗi người sinh ra đã mang theo.
 
-Và chính vì tội lỗi đó, Chúa Giê-xu đã đến. Ngài không đến cho những người tự cho mình là công bình, mà đến để cứu vớt những kẻ có tội — những người nhận ra mình cần được cứu.
+Và chính vì tội lỗi đó, Đức Chúa Giê-su đã đến. Ngài không đến cho những người tự cho mình là công bình, mà đến để cứu vớt những kẻ có tội — những người nhận ra mình cần được cứu.
 
 ---
 
 ## Hãy Tìm Kiếm Để Nhận Biết
 
-Mục sư khuyên giục mỗi người hãy tìm kiếm để hiểu rõ rằng cái chết của Chúa Giê-xu liên quan rất mật thiết đến cuộc đời mình. Đừng để giống như chị Hằng — đi qua, nghe qua, thấy qua — mà không nhận ra đó là điều thuộc về chính mình.
+Mục sư khuyên giục mỗi người hãy tìm kiếm để hiểu rõ rằng cái chết của Đức Chúa Giê-su liên quan rất mật thiết đến cuộc đời mình. Đừng để giống như chị Hằng — đi qua, nghe qua, thấy qua — mà không nhận ra đó là điều thuộc về chính mình.
 
 Nhận biết không phải chỉ là hiểu bằng trí tuệ. Nhận biết là thừa nhận bằng lòng: "Cái chết của Ngài là dành cho tôi. Tội lỗi của tôi đã khiến Ngài phải chịu như vậy. Và sự cứu rỗi mà Ngài mang lại — đó cũng là cho tôi."
 
@@ -58,6 +58,6 @@ Khi nhận biết như vậy, thập tự giá không còn là biểu tượng x
 
 ## Lời Kinh Thánh Kết Thúc
 
-1 Ti-mô-thê 1:15 chép rằng: *"Đức Chúa Giê-xu Christ đã đến trong thế gian để cứu vớt kẻ có tội — ấy là lời chắc chắn, đáng đem lòng tin trọn vẹn mà nhận lấy. Trong những kẻ có tội đó, ta là đầu."*
+1 Ti-mô-thê 1:15 chép rằng: *"Đức Chúa Giê-su Christ đã đến trong thế gian để cứu vớt kẻ có tội — ấy là lời chắc chắn, đáng đem lòng tin trọn vẹn mà nhận lấy. Trong những kẻ có tội đó, ta là đầu."*
 
 Sứ đồ Phao-lô đã nhận ra điều này một cách sâu sắc — ông không chỉ biết về Đấng Christ, mà nhận ra rằng sự cứu rỗi đó liên quan trực tiếp đến chính bản thân ông, dù ông từng là kẻ bắt bớ Hội thánh. Đây là lời mời gọi cho mỗi chúng ta hôm nay: hãy nhìn lên thập tự giá và nhận ra rằng Ngài đã làm điều đó — vì bạn.

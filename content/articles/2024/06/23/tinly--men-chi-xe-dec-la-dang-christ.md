@@ -21,23 +21,23 @@ Trong loạt bài tìm hiểu về Thiên Chúa Ba Thân Vị, câu hỏi "Mên-
 
 ## Ba chức vụ của Đấng Christ
 
-Trước khi đi vào câu hỏi chính, chúng ta cần hiểu rằng Đức Chúa Jesus đảm nhận ba chức vụ quan trọng:
+Trước khi đi vào câu hỏi chính, chúng ta cần hiểu rằng Đức Chúa Giê-su đảm nhận ba chức vụ quan trọng:
 
 ### 1. Chức vụ tiên tri
 
-Đức Chúa Jesus là Đấng tiên tri giống như Môi-se. Nền tảng Thánh Kinh cho điều này nằm ở Phục Truyền Luật Lệ Ký 18:15:
+Đức Chúa Giê-su là Đấng tiên tri giống như Môi-se. Nền tảng Thánh Kinh cho điều này nằm ở Phục Truyền Luật Lệ Ký 18:15:
 
 > "Từ giữa anh em ngươi, Giê-hô-va Đức Chúa Trời ngươi sẽ lập nên một Đấng tiên tri như ta; các ngươi khá nghe theo Đấng ấy." (Phục Truyền 18:15)
 
-Môi-se là hình bóng của Đấng Christ về chức vụ tiên tri. Khi Đức Chúa Jesus đến thế gian, Ngài thực hiện chức vụ tiên tri -- truyền đạt những điều từ nơi Cha, uốn nắn lại những sai lệch của dân Israel, và dẫn dắt họ trở về với điều răn và sự dạy dỗ của Thánh Kinh.
+Môi-se là hình bóng của Đấng Christ về chức vụ tiên tri. Khi Đức Chúa Giê-su đến thế gian, Ngài thực hiện chức vụ tiên tri -- truyền đạt những điều từ nơi Cha, uốn nắn lại những sai lệch của dân Israel, và dẫn dắt họ trở về với điều răn và sự dạy dỗ của Thánh Kinh.
 
 ### 2. Chức vụ thầy tế lễ
 
-Khi Đức Chúa Jesus trở về trời, Ngài nắm giữ chức vụ thầy tế lễ thượng phẩm -- thầy tế lễ cao nhất trong việc thờ phượng. Chức vụ này đã được đề cập rất nhiều trong thư Hê-bơ-rơ. Đây là chức vụ Ngài đã nắm giữ từ thời công vụ sứ đồ cho đến ngày nay và vẫn còn tiếp diễn.
+Khi Đức Chúa Giê-su trở về trời, Ngài nắm giữ chức vụ thầy tế lễ thượng phẩm -- thầy tế lễ cao nhất trong việc thờ phượng. Chức vụ này đã được đề cập rất nhiều trong thư Hê-bơ-rơ. Đây là chức vụ Ngài đã nắm giữ từ thời công vụ sứ đồ cho đến ngày nay và vẫn còn tiếp diễn.
 
 ### 3. Chức vụ vua
 
-Đức Chúa Jesus là Vua, nhưng Ngài chưa thực hiện chức vụ này trên đất. Ngay cả khi đoàn dân muốn ép Ngài lên làm vua, Ngài không chấp nhận. Ngài nói rõ rằng nước của Ngài không thuộc về trần gian băng hoại này.
+Đức Chúa Giê-su là Vua, nhưng Ngài chưa thực hiện chức vụ này trên đất. Ngay cả khi đoàn dân muốn ép Ngài lên làm vua, Ngài không chấp nhận. Ngài nói rõ rằng nước của Ngài không thuộc về trần gian băng hoại này.
 
 ## Mên-chi-xê-đéc: hình bóng chứ không phải hình thật
 
@@ -49,7 +49,7 @@ Khi nhìn vào ba chức vụ, chúng ta thấy ba hình bóng khác nhau:
 - **Vua**: Đa-vít là hình bóng của Đấng Christ, nhưng Đa-vít không phải là Đấng Christ.
 - **Thầy tế lễ**: Mên-chi-xê-đéc là hình bóng của Đấng Christ, nhưng Mên-chi-xê-đéc cũng không phải là Đấng Christ.
 
-Hình bóng giúp chúng ta phần nào hình dung được hình thật, nhưng hình bóng không bao giờ là hình thật. Đức Chúa Jesus làm vua trên ngôi của Đa-vít, nhưng Thánh Kinh không nói Đức Chúa Jesus là Đa-vít. Cũng vậy, Đức Chúa Jesus làm thầy tế lễ theo ban Mên-chi-xê-đéc, nhưng điều đó không có nghĩa Đấng Christ chính là Mên-chi-xê-đéc.
+Hình bóng giúp chúng ta phần nào hình dung được hình thật, nhưng hình bóng không bao giờ là hình thật. Đức Chúa Giê-su làm vua trên ngôi của Đa-vít, nhưng Thánh Kinh không nói Đức Chúa Giê-su là Đa-vít. Cũng vậy, Đức Chúa Giê-su làm thầy tế lễ theo ban Mên-chi-xê-đéc, nhưng điều đó không có nghĩa Đấng Christ chính là Mên-chi-xê-đéc.
 
 ### Thánh Kinh không xác nhận Mên-chi-xê-đéc là Đấng Christ
 
@@ -57,7 +57,7 @@ Toàn bộ Thánh Kinh không có chỗ nào trực tiếp nói Mên-chi-xê-đ�
 
 ### Văn phong khác biệt
 
-Khi đọc Sáng Thế Ký, cách mà Mên-chi-xê-đéc nói chuyện với Áp-ra-ham (Sáng Thế Ký 14) hoàn toàn khác với cách Đức Chúa Jesus hiện ra và nói chuyện với Áp-ra-ham, Y-sác, Gia-cốp, và Môi-se ở những chỗ khác trong Thánh Kinh.
+Khi đọc Sáng Thế Ký, cách mà Mên-chi-xê-đéc nói chuyện với Áp-ra-ham (Sáng Thế Ký 14) hoàn toàn khác với cách Đức Chúa Giê-su hiện ra và nói chuyện với Áp-ra-ham, Y-sác, Gia-cốp, và Môi-se ở những chỗ khác trong Thánh Kinh.
 
 ### Lời chúc phước của Mên-chi-xê-đéc
 
@@ -73,7 +73,7 @@ Dựa trên các lập luận từ Thánh Kinh:
 
 1. Hình bóng không phải là hình thật -- Mên-chi-xê-đéc là hình bóng cho chức vụ thầy tế lễ của Đấng Christ.
 2. Thánh Kinh không trực tiếp xác nhận Mên-chi-xê-đéc là Đấng Christ.
-3. Văn phong và cách nói chuyện của Mên-chi-xê-đéc khác biệt với các lần Đức Chúa Jesus hiện ra trong Cựu Ước.
+3. Văn phong và cách nói chuyện của Mên-chi-xê-đéc khác biệt với các lần Đức Chúa Giê-su hiện ra trong Cựu Ước.
 4. Mên-chi-xê-đéc nhân danh Đức Chúa Trời Chí Cao để chúc phước, cho thấy ông không tự mình hành động như Đấng tối cao.
 
 Dù quan điểm khác nhau về vấn đề này, điều quan trọng là chúng ta không để nó gây chia rẽ hội thánh. Hãy cùng nhau tìm hiểu Thánh Kinh và để Đức Thánh Linh dẫn dắt mỗi người đến với lẽ thật.

@@ -22,7 +22,7 @@ Giữa tình yêu, tiền bạc và sức khỏe, điều nào quan trọng nh�
 
 ## 1. Mệt Mỏi Thể Xác Và Những Tác Động Đến Tinh Thần
 
-**Ma-thi-ơ 26:41** — Chúa Giê-su phán trong vườn Ghết-sê-ma-nê: *"Hãy thức canh và cầu nguyện, kẻo các ngươi sa vào chước cám dỗ; tâm thần thì muốn lắm, mà xác thịt thì yếu đuối."*
+**Ma-thi-ơ 26:41** — Đức Chúa Giê-su phán trong vườn Ghết-sê-ma-nê: *"Hãy thức canh và cầu nguyện, kẻo các ngươi sa vào chước cám dỗ; tâm thần thì muốn lắm, mà xác thịt thì yếu đuối."*
 
 Các môn đồ thân tín nhất đã chuẩn bị tinh thần cho đêm đặc biệt đó, nhưng sự mệt mỏi thể xác đã đánh gục họ — họ ngủ gục trong khi Chúa cần họ thức canh.
 
@@ -54,7 +54,7 @@ Các môn đồ thân tín nhất đã chuẩn bị tinh thần cho đêm đặc
 
 ## 4. Hãy Luôn Giữ Một Thân Thể Khỏe Mạnh Và Tâm Thần Sáng Suốt
 
-**Lu-ca 2:52** — Đức Chúa Giê-su khôn ngoan càng thêm, thân hình càng lớn, càng được đẹp lòng Đức Chúa Trời và người ta. Chính Chúa Giê-su cũng phát triển toàn diện cả trí tuệ lẫn thể chất.
+**Lu-ca 2:52** — Đức Chúa Giê-su khôn ngoan càng thêm, thân hình càng lớn, càng được đẹp lòng Đức Chúa Trời và người ta. Chính Đức Chúa Giê-su cũng phát triển toàn diện cả trí tuệ lẫn thể chất.
 
 **Ê-sai 40:30-31** — Những kẻ trai trẻ cũng phải mòn mỏi mệt nhọc, nhưng ai trông đợi Đức Giê-hô-va thì chắc được sức mới, cất cánh bay cao như chim ưng; chạy mà không mệt nhọc, đi mà không mòn mỏi.
 

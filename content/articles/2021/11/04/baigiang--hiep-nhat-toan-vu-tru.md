@@ -2,7 +2,7 @@
 title: "Sách Ê-phê-sô 1:1-2 — Hiệp Nhất Toàn Vũ Trụ"
 date: 2021-11-04
 url: /baigiang/hiep-nhat-toan-vu-tru/
-description: "Dẫn nhập sách Ê-phê-sô và giải nghĩa đoạn 1 câu 1-2. Tư tưởng chủ đạo của sách Ê-phê-sô là sự hiệp nhất toàn vũ trụ trong Chúa Cứu Thế Giê-xu — lời kêu gọi phá vỡ mọi bức tường ngăn cách giữa con người với nhau và với Đức Chúa Trời."
+description: "Dẫn nhập sách Ê-phê-sô và giải nghĩa đoạn 1 câu 1-2. Tư tưởng chủ đạo của sách Ê-phê-sô là sự hiệp nhất toàn vũ trụ trong Chúa Cứu Thế Giê-su — lời kêu gọi phá vỡ mọi bức tường ngăn cách giữa con người với nhau và với Đức Chúa Trời."
 tags: ["Ê-phê-sô", "Hiệp Nhất", "Sứ Đồ Phao-lô", "Ân Điển", "Bình An", "Trung Tín"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -20,7 +20,7 @@ Sách Ê-phê-sô được đánh giá cao trong lãnh vực bồi linh và th�
 
 Sách do Phao-lô viết khi ông đang bị cầm tù (Ê-phê-sô 3:1; 4:1; 6:20). Một điều đặc biệt giữa sách Ê-phê-sô và sách Cô-lô-se là có 55 câu giữa hai sách hoàn toàn giống nhau từng chữ, bởi nhu cầu của các Hội Thánh gần như giống nhau và Phao-lô viết trong cùng một khoảng thời gian.
 
-Tư tưởng trong sách Ê-phê-sô vượt trên mọi thư tín khác của Phao-lô: đó là **sự đầy trọn của Chúa Cứu Thế Giê-xu**. Sách Ê-phê-sô kêu gọi một sự hiệp nhất — không phải chỉ trong một Hội Thánh, một dân tộc, mà là sự hiệp nhất toàn vũ trụ.
+Tư tưởng trong sách Ê-phê-sô vượt trên mọi thư tín khác của Phao-lô: đó là **sự đầy trọn của Chúa Cứu Thế Giê-su**. Sách Ê-phê-sô kêu gọi một sự hiệp nhất — không phải chỉ trong một Hội Thánh, một dân tộc, mà là sự hiệp nhất toàn vũ trụ.
 
 ## Vũ Trụ Không Có Chúa Cứu Thế
 
@@ -40,17 +40,17 @@ Tư tưởng chính trong Ê-phê-sô: nhận thức mối chia rẽ trong vũ t
 
 Ba đoạn đầu trình bày về sự hiệp nhất trong Chúa Cứu Thế. Ba đoạn sau nói về vị trí của Hội Thánh trong chương trình của Thượng Đế để đưa đến sự hiệp nhất. Chúa Cứu Thế là công cụ hòa giải của Thượng Đế, và Hội Thánh phải là công cụ của Chúa Cứu Thế trong sự hòa giải.
 
-Hình ảnh thập tự giá: Chúa Giê-xu đến thế gian để kết hiệp Đức Chúa Trời và con người — một tay nắm lấy Đức Chúa Trời, một tay nắm lấy con người. Chúng ta là môn đệ của Chúa Cứu Thế thì phải là công cụ hòa giải, chứ không phải tiếp tục tạo nên những xung đột.
+Hình ảnh thập tự giá: Đức Chúa Giê-su đến thế gian để kết hiệp Đức Chúa Trời và con người — một tay nắm lấy Đức Chúa Trời, một tay nắm lấy con người. Chúng ta là môn đệ của Chúa Cứu Thế thì phải là công cụ hòa giải, chứ không phải tiếp tục tạo nên những xung đột.
 
 ---
 
 ## Ê-phê-sô Đoạn 1, Câu 1-2
 
-> *"Phao-lô, theo ý muốn Đức Chúa Trời, làm sứ đồ của Đức Chúa Giê-xu Christ, gửi cho các thánh đồ ở thành Ê-phê-sô, cho những kẻ trung tín trong Đức Chúa Giê-xu Christ. Nguyện xin ân điển và sự bình an được ban cho anh em từ Đức Chúa Trời, Cha chúng ta, và từ nơi Đức Chúa Giê-xu Christ."*
+> *"Phao-lô, theo ý muốn Đức Chúa Trời, làm sứ đồ của Đức Chúa Giê-su Christ, gửi cho các thánh đồ ở thành Ê-phê-sô, cho những kẻ trung tín trong Đức Chúa Giê-su Christ. Nguyện xin ân điển và sự bình an được ban cho anh em từ Đức Chúa Trời, Cha chúng ta, và từ nơi Đức Chúa Giê-su Christ."*
 
 ### Phao-lô Xưng Mình Là Sứ Đồ
 
-Khi Phao-lô xưng mình là sứ đồ của Đức Chúa Giê-xu Christ, có ba ý nghĩa:
+Khi Phao-lô xưng mình là sứ đồ của Đức Chúa Giê-su Christ, có ba ý nghĩa:
 
 1. **Ông thuộc về Chúa** — như đầy tớ thuộc quyền điều khiển của chủ.
 2. **Ông là đại diện được Chúa sai đi** — chữ "sứ đồ" nghĩa là người được cử đi.
@@ -58,9 +58,9 @@ Khi Phao-lô xưng mình là sứ đồ của Đức Chúa Giê-xu Christ, có b
 
 Phao-lô không hề tự hào về chức vụ sứ đồ. Ngược lại, ông luôn chiêm nghiệm và tự nhắc mình rằng mình không xứng đáng — một con người đã từng tấn công đạo Chúa, tàn sát và hủy hoại nhiều gia đình người tin Chúa. Việc Chúa chọn ông là điều đáng kinh ngạc.
 
-### Trung Tín Trong Đức Chúa Giê-xu
+### Trung Tín Trong Đức Chúa Giê-su
 
-Phao-lô gửi cho những người "trung tín" trong Đức Chúa Giê-xu Christ. Sự trung tín đòi hỏi một sự liên tục, bền bỉ — giống như dòng điện phải liên tục thì thiết bị mới hoạt động. Nếu điện cứ chập chờn thì hư hết thiết bị. Đức tính trung tín giữ cho tấm lòng chúng ta ở trong sự bình định, dù bất cứ hoàn cảnh nào xảy ra.
+Phao-lô gửi cho những người "trung tín" trong Đức Chúa Giê-su Christ. Sự trung tín đòi hỏi một sự liên tục, bền bỉ — giống như dòng điện phải liên tục thì thiết bị mới hoạt động. Nếu điện cứ chập chờn thì hư hết thiết bị. Đức tính trung tín giữ cho tấm lòng chúng ta ở trong sự bình định, dù bất cứ hoàn cảnh nào xảy ra.
 
 ### Ân Điển Và Sự Bình An
 

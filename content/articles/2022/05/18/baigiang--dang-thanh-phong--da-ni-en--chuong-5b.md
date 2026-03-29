@@ -24,7 +24,7 @@ Nhà tiên tri Đa-ni-ên được gọi đến để giải nghĩa: Đức Chú
 
 ## Điều Xúc Phạm Thứ Nhất: Tục Hóa Những Điều Thánh Của Chúa
 
-Vua Bên-xát-sa đã truyền đem những khí mạnh bằng vàng và bạc mà vua Nê-bu-cát-nết-sa lấy từ trong đền thờ tại Giê-ru-sa-lem, để vua cùng các đại thần, hoàng hậu và cung phi dùng mà uống rượu. Đây là những vật dụng được biệt riêng ra thánh để phục vụ trong đền thờ của Đức Chúa Trời — những chén, ly, đồ dùng mang ý nghĩa chỉ về chương trình cứu rỗi qua Chúa Giê-su.
+Vua Bên-xát-sa đã truyền đem những khí mạnh bằng vàng và bạc mà vua Nê-bu-cát-nết-sa lấy từ trong đền thờ tại Giê-ru-sa-lem, để vua cùng các đại thần, hoàng hậu và cung phi dùng mà uống rượu. Đây là những vật dụng được biệt riêng ra thánh để phục vụ trong đền thờ của Đức Chúa Trời — những chén, ly, đồ dùng mang ý nghĩa chỉ về chương trình cứu rỗi qua Đức Chúa Giê-su.
 
 Điều đáng chú ý là chính vua Nê-bu-cát-nết-sa, dù đã đem những vật dụng này về Ba-by-lôn, nhưng không hề dám đụng chạm tới chúng. Ông cất chúng vào trong kho. Nhưng Bên-xát-sa thì khác — ông đem ra sử dụng như đồ thường, biến những vật thánh trở thành tục hóa, không còn biệt riêng cho Chúa nữa.
 
@@ -32,7 +32,7 @@ Vua Bên-xát-sa đã truyền đem những khí mạnh bằng vàng và bạc m
 
 Phục-truyền Luật-lệ Ký 12:4 cảnh báo dân sự của Chúa không được thờ phượng Ngài theo tập tục của các dân tộc ngoại bang. Chúa muốn dân sự thờ phượng theo đường lối của Ngài, chứ không phải theo văn hóa, phong tục hay suy nghĩ riêng của con người.
 
-Xuyên suốt lịch sử, ma quỷ luôn tìm cách tục hóa dân sự Chúa. Với dân Y-sơ-ra-ên, chiến lược là trà trộn, đưa người ngoại bang vào để quyến dụ, khiến dân sự lấy vợ lấy chồng ngoại bang, lẫn lộn đức tin. Sách Nê-hê-mi chương 13 ghi lại tình trạng nghiêm trọng khi con cái dân Y-sơ-ra-ên nói nửa tiếng ngoại bang, không còn biết nói tiếng của dân tộc mình. Đến thời Chúa Giê-su, tình trạng tục hóa đã lan đến tận đền thờ — biến nhà Chúa trở thành nơi buôn bán, hang trộm cướp.
+Xuyên suốt lịch sử, ma quỷ luôn tìm cách tục hóa dân sự Chúa. Với dân Y-sơ-ra-ên, chiến lược là trà trộn, đưa người ngoại bang vào để quyến dụ, khiến dân sự lấy vợ lấy chồng ngoại bang, lẫn lộn đức tin. Sách Nê-hê-mi chương 13 ghi lại tình trạng nghiêm trọng khi con cái dân Y-sơ-ra-ên nói nửa tiếng ngoại bang, không còn biết nói tiếng của dân tộc mình. Đến thời Đức Chúa Giê-su, tình trạng tục hóa đã lan đến tận đền thờ — biến nhà Chúa trở thành nơi buôn bán, hang trộm cướp.
 
 ### Nguy Cơ Tục Hóa Trong Thời Kỳ Cuối Cùng
 
@@ -40,7 +40,7 @@ Khải Huyền chương 13 cho biết trong ngày cuối cùng, ma quỷ tạo r
 
 Sứ đồ Phao-lô trong 1 Cô-rinh-tô 9:19-27 không phải dạy rằng người tin Chúa nên sống theo kiểu của người vô đạo. Ông kết luận bằng việc phạt đãi thân thể một cách nghiêm khắc, bắt nó phải phục — cho thấy đời sống theo Chúa đòi hỏi kỷ luật và sự thánh khiết, chứ không phải tùy tiện hòa nhập.
 
-Chúa Giê-su, dù mang bản thể xác thịt như chúng ta, cũng chịu cám dỗ trong mọi việc, nhưng không hề phạm tội. Hê-bơ-rơ 4:14-16 và 5:7-10 cho thấy Ngài đã chiến thắng nhờ cậy Đức Thánh Linh. Đây là tấm gương mà Chúa để lại: đừng lấy cớ yếu đuối của con người để dung túng cho tội lỗi hay tục hóa.
+Đức Chúa Giê-su, dù mang bản thể xác thịt như chúng ta, cũng chịu cám dỗ trong mọi việc, nhưng không hề phạm tội. Hê-bơ-rơ 4:14-16 và 5:7-10 cho thấy Ngài đã chiến thắng nhờ cậy Đức Thánh Linh. Đây là tấm gương mà Chúa để lại: đừng lấy cớ yếu đuối của con người để dung túng cho tội lỗi hay tục hóa.
 
 ---
 
@@ -54,7 +54,7 @@ Rô-ma 1:18-25 mô tả chính xác tình trạng này: con người dù biết 
 
 Ngay cả trong hội thánh, điều xúc phạm này vẫn xảy ra dưới nhiều hình thức: phong thánh các tôi tớ Chúa rồi thờ lạy họ, trong khi chính những người đó đã từ chối sự tôn thờ. Sứ đồ Phi-e-rơ khi thấy người ta quỳ trước mặt ông đã nói rằng mình cũng chỉ là người. Thiên sứ trong Khải Huyền cũng cản ngăn Giăng đừng thờ lạy, vì thiên sứ cũng chỉ là vật thọ tạo.
 
-Một số người thần thánh hóa lễ báp-têm, cho rằng chỉ có mục sư nào đó làm lễ thì mới được cứu — trong khi chính Chúa Giê-su là Đấng cứu con người, không phải con người cứu con người. Mục sư làm lễ báp-têm chỉ là làm thay mặt cho hội thánh, giống như mục sư làm lễ cưới không quyết định hạnh phúc của đôi vợ chồng.
+Một số người thần thánh hóa lễ báp-têm, cho rằng chỉ có mục sư nào đó làm lễ thì mới được cứu — trong khi chính Đức Chúa Giê-su là Đấng cứu con người, không phải con người cứu con người. Mục sư làm lễ báp-têm chỉ là làm thay mặt cho hội thánh, giống như mục sư làm lễ cưới không quyết định hạnh phúc của đôi vợ chồng.
 
 ---
 

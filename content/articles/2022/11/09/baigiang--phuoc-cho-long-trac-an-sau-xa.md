@@ -15,7 +15,7 @@ part_of_series: false
 
 ## Nguyên Tắc Xuyên Suốt Kinh Thánh
 
-Ma-thi-ơ 5:7 chép rằng phước cho những kẻ hay thương xót, vì sẽ được thương xót. Đây là phước lành thứ năm trong chuỗi các phước lành mà Chúa Giê-su truyền dạy. Nguyên tắc này được nhấn mạnh xuyên suốt Kinh Thánh: muốn được tha thứ thì phải tha thứ, muốn được quan tâm thì phải quan tâm trước. Gia-cơ 2:13 viết rằng sự đoán xét không thương xót kẻ chẳng làm sự thương xót. Trong Ma-thi-ơ 18:35, sau ẩn dụ về hai người mắc nợ, Chúa Giê-su kết luận rằng nếu mỗi người không hết lòng tha lỗi cho anh em mình, thì Cha trên trời cũng sẽ xử như vậy. Và trong bài cầu nguyện chung, chúng ta đọc rằng xin tha tội lỗi cho chúng con như chúng con cũng tha kẻ phạm tội nghịch cùng chúng con.
+Ma-thi-ơ 5:7 chép rằng phước cho những kẻ hay thương xót, vì sẽ được thương xót. Đây là phước lành thứ năm trong chuỗi các phước lành mà Đức Chúa Giê-su truyền dạy. Nguyên tắc này được nhấn mạnh xuyên suốt Kinh Thánh: muốn được tha thứ thì phải tha thứ, muốn được quan tâm thì phải quan tâm trước. Gia-cơ 2:13 viết rằng sự đoán xét không thương xót kẻ chẳng làm sự thương xót. Trong Ma-thi-ơ 18:35, sau ẩn dụ về hai người mắc nợ, Đức Chúa Giê-su kết luận rằng nếu mỗi người không hết lòng tha lỗi cho anh em mình, thì Cha trên trời cũng sẽ xử như vậy. Và trong bài cầu nguyện chung, chúng ta đọc rằng xin tha tội lỗi cho chúng con như chúng con cũng tha kẻ phạm tội nghịch cùng chúng con.
 
 ---
 
@@ -33,7 +33,7 @@ Không phải ai cũng có được khả năng này. Có thể vì chúng ta qu
 
 ### Tránh Được Những Hành Động Không Phù Hợp
 
-Khi thật sự cảm thông sâu xa, chúng ta sẽ tránh được những hành động tuy tử tế nhưng đặt không đúng chỗ. Câu chuyện Ma-thê và Ma-ri trong Lu-ca 10:38-42 cho thấy điều này rõ ràng. Khi Chúa Giê-su đến thăm, Ma-ri ngồi bên chân Chúa trong im lặng, còn Ma-thê bận rộn nấu nướng. Ma-thê hành động từ lòng yêu thương, nhưng bà không cảm nhận được rằng Chúa đang cần sự yên tĩnh và chia sẻ khi chuẩn bị bước lên thập tự giá. Ma-ri đã chọn điều tốt hơn vì cô hiểu được tâm trạng của Ngài.
+Khi thật sự cảm thông sâu xa, chúng ta sẽ tránh được những hành động tuy tử tế nhưng đặt không đúng chỗ. Câu chuyện Ma-thê và Ma-ri trong Lu-ca 10:38-42 cho thấy điều này rõ ràng. Khi Đức Chúa Giê-su đến thăm, Ma-ri ngồi bên chân Chúa trong im lặng, còn Ma-thê bận rộn nấu nướng. Ma-thê hành động từ lòng yêu thương, nhưng bà không cảm nhận được rằng Chúa đang cần sự yên tĩnh và chia sẻ khi chuẩn bị bước lên thập tự giá. Ma-ri đã chọn điều tốt hơn vì cô hiểu được tâm trạng của Ngài.
 
 Trong đời thường cũng vậy -- đôi khi chúng ta áp đặt sự tử tế của mình lên người khác mà không hiểu cảm xúc thật sự của họ. Một người cha giàu có cứ mua đồ đắt tiền bắt con phải dùng, trong khi đứa con chỉ muốn thứ đơn giản hơn. Sự tử tế không xuất phát từ sự thấu hiểu có thể vô tình gây tổn thương.
 

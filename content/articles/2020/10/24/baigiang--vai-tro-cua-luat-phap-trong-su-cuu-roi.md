@@ -14,7 +14,7 @@ draft: false
 
 ## Ẩn Dụ Về Tiệc Cưới - Ma-thi-ơ 22:1-14
 
-Chúa Giê-su kể ẩn dụ về một vị vua làm tiệc cưới cho hoàng tử. Vua sai đầy tớ đi mời khách, nhưng không ai chịu đến. Vua lại sai đầy tớ khác đi nhắc, nhưng họ vẫn hờ hững -- kẻ đi ra ruộng, người đi buôn bán, thậm chí có kẻ bắt đầy tớ vua mắng chửi và giết đi.
+Đức Chúa Giê-su kể ẩn dụ về một vị vua làm tiệc cưới cho hoàng tử. Vua sai đầy tớ đi mời khách, nhưng không ai chịu đến. Vua lại sai đầy tớ khác đi nhắc, nhưng họ vẫn hờ hững -- kẻ đi ra ruộng, người đi buôn bán, thậm chí có kẻ bắt đầy tớ vua mắng chửi và giết đi.
 
 Ẩn dụ này khác với ẩn dụ "Tiệc Yến Lớn" trong Lu-ca 14:16-24. Đây là tiệc cưới của vua dành cho hoàng tử, mang tính chất trang trọng và quan trọng hơn nhiều. Hình ảnh bữa tiệc tiêu biểu cho sự cứu rỗi mà Đức Chúa Trời đã chuẩn bị sẵn qua Đức Chúa Giê-su và mời chúng ta đến hưởng nhận.
 
@@ -59,7 +59,7 @@ Gia-cơ 2:10 cũng xác nhận: ai giữ trọn luật pháp mà phạm một đ
 
 ## Khải Huyền 3:18 - Lời Kêu Gọi Mặc Áo Trắng
 
-Chúa khuyên: *"Hãy mua vàng thử lửa... và áo trắng để mặc vào, hầu cho sự xấu hổ về sự trần truồng ngươi khỏi lộ ra."* Sự cứu rỗi che phủ mọi yếu đuối, huyết Chúa Giê-su tẩy sạch mọi lỗi lầm, nhưng chúng ta phải chấp nhận khoác lên mình những luật lệ, quy định của Ngài.
+Chúa khuyên: *"Hãy mua vàng thử lửa... và áo trắng để mặc vào, hầu cho sự xấu hổ về sự trần truồng ngươi khỏi lộ ra."* Sự cứu rỗi che phủ mọi yếu đuối, huyết Đức Chúa Giê-su tẩy sạch mọi lỗi lầm, nhưng chúng ta phải chấp nhận khoác lên mình những luật lệ, quy định của Ngài.
 
 ## Kết Luận
 

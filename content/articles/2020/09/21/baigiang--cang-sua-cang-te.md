@@ -54,6 +54,6 @@ Câu hỏi tu từ này hàm ý: không thể được! Người Ê-thi-ô-pi kh
 
 Câu chuyện về thầy Thấy đổi tên là bức tranh của hàng triệu người đang cố gắng "sửa mình" theo cách riêng — thay đổi hành vi bên ngoài, điều chỉnh lời nói, cải thiện thái độ — nhưng bản chất bên trong vẫn không thay đổi. Kết quả là càng sửa càng tệ.
 
-Tin mừng Phúc Âm là: **Chúa Giê-su có thể làm điều mà chúng ta không thể tự làm được.** Ngài không chỉ thay đổi hành vi bên ngoài mà còn tái tạo bản chất bên trong — ban cho chúng ta một tấm lòng mới, một bản chất mới, một cuộc đời mới trong Ngài.
+Tin mừng Phúc Âm là: **Đức Chúa Giê-su có thể làm điều mà chúng ta không thể tự làm được.** Ngài không chỉ thay đổi hành vi bên ngoài mà còn tái tạo bản chất bên trong — ban cho chúng ta một tấm lòng mới, một bản chất mới, một cuộc đời mới trong Ngài.
 
 Hãy đến với Chúa Cứu Thế — không phải với nỗ lực tự sửa đổi của mình, mà với lòng tin cậy vào quyền năng biến đổi của Ngài.

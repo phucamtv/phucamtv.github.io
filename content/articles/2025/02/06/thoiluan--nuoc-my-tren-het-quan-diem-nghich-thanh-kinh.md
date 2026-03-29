@@ -60,7 +60,7 @@ Lời Chúa còn dạy rõ ràng hơn:
 
 Thế nhưng qua các bài diễn thuyết, Donald Trump rõ ràng đặt người Mỹ ở vị trí "đàn anh", vị trí cao cả hơn các nước khác trên bàn đàm phán. Điều này đi nghịch lại lời Chúa dạy.
 
-Chúa Giê-xu cũng dạy:
+Đức Chúa Giê-su cũng dạy:
 
 > **Mác 12:31** --- "Ngươi hãy yêu kẻ lân cận mình như mình."
 
@@ -68,11 +68,11 @@ Nếu đặt lòng trung thành với một quốc gia lên trên việc yêu th
 
 ## Luật pháp Chúa không lỗi thời
 
-Có người cho rằng thời nay là thời ân điển, không cần nói đến điều răn và luật pháp nữa. Nhưng chính Đức Chúa Giê-xu đã phán:
+Có người cho rằng thời nay là thời ân điển, không cần nói đến điều răn và luật pháp nữa. Nhưng chính Đức Chúa Giê-su đã phán:
 
 > **Ma-thi-ơ 5:17** --- "Các ngươi đừng tưởng ta đến đặng hủy phá luật pháp hay là lời tiên tri; ta đến không phải để bãi bỏ, nhưng để làm cho trọn."
 
-Đức Chúa Giê-xu không chỉ dạy về luật pháp mà còn sống một đời sống mẫu mực. Ngài đặt Đức Chúa Trời trên mọi điều khác và dạy chúng ta làm như vậy. Ngài là tấm gương nhắc nhở chúng ta rằng điều quan trọng nhất không phải là "America First", không phải là theo đuổi quyền lực, kinh tế, lợi ích cho cá nhân hay đất nước mình, mà là sự quan tâm đến Đức Chúa Trời và những người xung quanh.
+Đức Chúa Giê-su không chỉ dạy về luật pháp mà còn sống một đời sống mẫu mực. Ngài đặt Đức Chúa Trời trên mọi điều khác và dạy chúng ta làm như vậy. Ngài là tấm gương nhắc nhở chúng ta rằng điều quan trọng nhất không phải là "America First", không phải là theo đuổi quyền lực, kinh tế, lợi ích cho cá nhân hay đất nước mình, mà là sự quan tâm đến Đức Chúa Trời và những người xung quanh.
 
 ## Kết luận: Lấy Thánh Kinh làm thước đo
 

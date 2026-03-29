@@ -25,7 +25,7 @@ Người viết thư bày tỏ rằng họ muốn thấy một bài giảng số
 
 Bức thư nhấn mạnh một nguyên tắc quan trọng: con mắt là một học trò giỏi và minh mẫn hơn lỗ tai. Lời khuyên dù thâm thúy đến đâu vẫn có thể khó hiểu, nhưng gương mẫu trong cách ăn ở và sinh hoạt thì bao giờ cũng rõ ràng và dễ nắm bắt.
 
-Điều này hoàn toàn phù hợp với cách Chúa Giê-su dạy dỗ các môn đồ. Ngài không chỉ giảng dạy bằng lời nói mà còn thể hiện qua từng hành động, từng quyết định trong đời sống hàng ngày. Các môn đồ học được nhiều nhất khi họ quan sát Thầy mình sống ra những điều Ngài rao giảng.
+Điều này hoàn toàn phù hợp với cách Đức Chúa Giê-su dạy dỗ các môn đồ. Ngài không chỉ giảng dạy bằng lời nói mà còn thể hiện qua từng hành động, từng quyết định trong đời sống hàng ngày. Các môn đồ học được nhiều nhất khi họ quan sát Thầy mình sống ra những điều Ngài rao giảng.
 
 Tốt hơn hết là người truyền đạo thực hành điều mình tin, vì mọi người đều cần được thấy việc lành được thực hiện trong thực tế. Khi tín hữu thấy người lãnh đạo làm, họ có thể tập làm theo rất nhanh chóng. Đó là sức mạnh của sự gương mẫu.
 
@@ -33,7 +33,7 @@ Tốt hơn hết là người truyền đạo thực hành điều mình tin, v�
 
 Những gì tín hữu đòi hỏi nơi người lãnh đạo trước hết chính là sự gương mẫu. Hàng ngàn bài giảng hay vẫn chỉ là vô ích nếu không được cụ thể hóa trong đời sống thực tế của người giảng. Lời Chúa khác với những bài diễn thuyết ngoài đời ở chỗ phải có quyền năng và sự sống, được nuôi dưỡng bởi kinh nghiệm cá nhân của người truyền đạo với Chúa. Đức tin không chỉ là lý thuyết suông.
 
-Người ta e ngại những người nói nhiều, nói hay mà không làm được bao nhiêu. Trong chức vụ của Ngài, Chúa Giê-su đã phải đối diện với hàng ngũ lãnh đạo tôn giáo chỉ toàn nói suông, thiếu đi sự sống động trong đức tin.
+Người ta e ngại những người nói nhiều, nói hay mà không làm được bao nhiêu. Trong chức vụ của Ngài, Đức Chúa Giê-su đã phải đối diện với hàng ngũ lãnh đạo tôn giáo chỉ toàn nói suông, thiếu đi sự sống động trong đức tin.
 
 ## Hội Thánh Sống Động Hay Thiếu Sinh Khí?
 
@@ -43,6 +43,6 @@ Nếu bạn đang trên hành trình tìm hiểu và theo Chúa, thì bức thư
 
 ## Lời Chúa Nhắc Nhở
 
-Kinh Thánh dạy rằng hãy làm và giữ theo những điều dạy dỗ, nhưng đừng bắt chước việc làm của những người chỉ nói mà không làm. Đây là lời cảnh tỉnh mạnh mẽ từ chính Chúa Giê-su khi Ngài nói về các thầy thông giáo và người Pha-ri-si trong Ma-thi-ơ đoạn 23.
+Kinh Thánh dạy rằng hãy làm và giữ theo những điều dạy dỗ, nhưng đừng bắt chước việc làm của những người chỉ nói mà không làm. Đây là lời cảnh tỉnh mạnh mẽ từ chính Đức Chúa Giê-su khi Ngài nói về các thầy thông giáo và người Pha-ri-si trong Ma-thi-ơ đoạn 23.
 
 Nguyện rằng mỗi chúng ta, dù là người lãnh đạo hay tín hữu, đều biết sống thực hành đức tin mỗi ngày. Đừng chỉ là người nghe Lời Chúa mà hãy là người làm theo. Vì chính đời sống gương mẫu của chúng ta là bài giảng có sức thuyết phục nhất mà thế giới cần được nghe và thấy.

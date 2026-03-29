@@ -24,7 +24,7 @@ Phao-lô dùng hình ảnh thân thể con người để minh họa cho hội t
 
 Đức Chúa Trời không đòi hỏi mọi người phải giống nhau về đức tin hay sự hiểu biết. Mỗi bộ phận có chức năng khác nhau, hình dáng khác nhau, mức độ mạnh yếu khác nhau. Sự đa dạng ấy vừa là thách thức, vừa là cách thức để hội thánh được gây dựng. Điều quan trọng nhất là mỗi chi thể phải giữ mối liên lạc với Đấng Christ — giống như mỗi bộ phận trên cơ thể phải được kết nối với não bộ qua hệ thống dây thần kinh thì mới hoạt động bình thường được.
 
-Mục sư cũng cảnh báo về nguy cơ từ những kẻ giả mạo trong hội thánh, dùng hình ảnh lúa mì và cỏ lùng mà Chúa Giê-xu đã dạy: chúng ta không thể tự phán xét ai là cỏ lùng, ai là lúa mì, mà phải dùng lời Chúa và tình yêu thương để ổn định hội thánh, tin rằng Chúa có thể biến đổi mọi tấm lòng.
+Mục sư cũng cảnh báo về nguy cơ từ những kẻ giả mạo trong hội thánh, dùng hình ảnh lúa mì và cỏ lùng mà Đức Chúa Giê-su đã dạy: chúng ta không thể tự phán xét ai là cỏ lùng, ai là lúa mì, mà phải dùng lời Chúa và tình yêu thương để ổn định hội thánh, tin rằng Chúa có thể biến đổi mọi tấm lòng.
 
 ## Chiều Gió Của Đạo Lạc
 

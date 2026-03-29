@@ -16,7 +16,7 @@ draft: false
 
 Trong Ma-thi-ơ 13:44, Đức Chúa Giê-su kể một ẩn dụ ngắn gọn nhưng đầy quyền năng: *"Vương quốc Thiên Đàng ví như kho báu chôn giấu trong một đồng ruộng; một người kia tìm được thì giấu đi, vui mừng đem bán mọi thứ mình có để mua đồng ruộng ấy."* Chỉ một câu Kinh Thánh duy nhất, nhưng ẩn chứa bên trong là toàn bộ ý nghĩa thật sự của cuộc đời mỗi Cơ Đốc nhân.
 
-Trong thời Chúa Giê-su, việc chôn giấu tài sản dưới đất ruộng là chuyện thường xảy ra. Thời loạn lạc, không có ngân hàng, người ta giấu của cải trong đồng ruộng, khe núi hay rừng sâu, rồi đánh dấu để quay lại sau chiến tranh. Nhiều người đã chết trước khi lấy lại được tài sản, để rồi kho báu ấy nằm đó chờ một người tình cờ phát hiện.
+Trong thời Đức Chúa Giê-su, việc chôn giấu tài sản dưới đất ruộng là chuyện thường xảy ra. Thời loạn lạc, không có ngân hàng, người ta giấu của cải trong đồng ruộng, khe núi hay rừng sâu, rồi đánh dấu để quay lại sau chiến tranh. Nhiều người đã chết trước khi lấy lại được tài sản, để rồi kho báu ấy nằm đó chờ một người tình cờ phát hiện.
 
 Câu hỏi đặt ra cho mỗi chúng ta: Chúng ta có thật sự xem nước Thiên Đàng là kho báu hay không? Hay chỉ xem đó là niềm an ủi mơ hồ, một hy vọng viễn vông mà mình không chắc có thật?
 
@@ -28,7 +28,7 @@ Một kho báu thật sự thì không bao giờ nằm ngoài mặt đất cho a
 
 Kho báu được chôn trong đồng ruộng — một nơi rất bình thường. Đâu đâu cũng có ruộng, ruộng nào trông cũng giống ruộng. Bên ngoài nhìn vào, mọi đám ruộng đều như nhau. Nhưng sự khác biệt nằm ở bên dưới, ở chỗ không ai nhìn thấy. Đời sống Cơ Đốc nhân cũng thế — giá trị thật không nằm ở vẻ bề ngoài mà ở bên trong, trước mặt Đức Chúa Trời.
 
-Chúa Giê-su từng dạy các môn đệ hãy sống âm thầm: cầu nguyện trong phòng kín, dâng hiến cách kín đáo, kiêng ăn mà mặt vẫn tươi vui. Cuộc sống Cơ Đốc nhân là cuộc sống âm thầm với Chúa, và cái quý báu nhất là phần ẩn giấu bên trong, giống như kho báu giữa đám ruộng bình thường.
+Đức Chúa Giê-su từng dạy các môn đệ hãy sống âm thầm: cầu nguyện trong phòng kín, dâng hiến cách kín đáo, kiêng ăn mà mặt vẫn tươi vui. Cuộc sống Cơ Đốc nhân là cuộc sống âm thầm với Chúa, và cái quý báu nhất là phần ẩn giấu bên trong, giống như kho báu giữa đám ruộng bình thường.
 
 ---
 
@@ -52,7 +52,7 @@ Sứ đồ Phao-lô trong Phi-líp 3:8 đã viết: *"Tôi cũng coi hết thả
 
 ## Sự Cứu Rỗi — Miễn Phí Nhưng Không Rẻ Mạt
 
-Nước Thiên Đàng được ban cho vô điều kiện, nhưng cũng đòi hỏi sự đánh đổi. Chúa Giê-su sẵn sàng ban cho ai muốn nhận, nhưng những ai coi thường, đánh giá rẻ nước Thiên Đàng thì không thể nhận được. Sự cứu rỗi là miễn phí, nhưng không phải là rẻ mạt — phải có sự hy sinh, sự dâng mình để thật sự thuộc về Chúa.
+Nước Thiên Đàng được ban cho vô điều kiện, nhưng cũng đòi hỏi sự đánh đổi. Đức Chúa Giê-su sẵn sàng ban cho ai muốn nhận, nhưng những ai coi thường, đánh giá rẻ nước Thiên Đàng thì không thể nhận được. Sự cứu rỗi là miễn phí, nhưng không phải là rẻ mạt — phải có sự hy sinh, sự dâng mình để thật sự thuộc về Chúa.
 
 Như lời Kinh Thánh trong 1 Phi-e-rơ 1:7 nhắc nhở, đức tin đã qua thử lửa thì quý hơn vàng hay hư nát. Và trong Lu-ca 12:31, Chúa phán: *"Thà các con hãy tìm kiếm nước Đức Chúa Trời, rồi mọi sự đó sẽ được cho thêm."*
 

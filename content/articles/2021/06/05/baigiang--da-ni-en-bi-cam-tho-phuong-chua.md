@@ -24,7 +24,7 @@ draft: false
 
 ## Kẻ Hãm Hại Tìm Kẽ Hở Trong Niềm Tin
 
-Khi không tìm được lỗi lầm nào về luân lý, luật pháp hay hành vi, các quan thượng thư và trấn thủ quay sang khai thác niềm tin làm kẽ hở. Câu 5 ghi: họ thừa nhận chỉ có thể tìm cớ kiện Đa-ni-ên trong luật pháp Đức Chúa Trời của ông. Kinh Thánh tồn tại hơn 3.500 năm, phù hợp với mọi thể chế chính trị — nhưng chính trong đó vẫn có những điều mà kẻ ác ý có thể xuyên tạc để hãm hại dân sự Chúa. Chúa Giê-su đã cảnh báo trong Ma-thi-ơ 5:11-12: khi bị mắng nhiếc, bắt bớ, vu khống vì danh Ngài thì hãy vui mừng, vì phần thưởng ở trên trời rất lớn.
+Khi không tìm được lỗi lầm nào về luân lý, luật pháp hay hành vi, các quan thượng thư và trấn thủ quay sang khai thác niềm tin làm kẽ hở. Câu 5 ghi: họ thừa nhận chỉ có thể tìm cớ kiện Đa-ni-ên trong luật pháp Đức Chúa Trời của ông. Kinh Thánh tồn tại hơn 3.500 năm, phù hợp với mọi thể chế chính trị — nhưng chính trong đó vẫn có những điều mà kẻ ác ý có thể xuyên tạc để hãm hại dân sự Chúa. Đức Chúa Giê-su đã cảnh báo trong Ma-thi-ơ 5:11-12: khi bị mắng nhiếc, bắt bớ, vu khống vì danh Ngài thì hãy vui mừng, vì phần thưởng ở trên trời rất lớn.
 
 ## Sự Xung Đột Trong Thờ Phượng
 

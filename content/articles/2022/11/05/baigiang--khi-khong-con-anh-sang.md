@@ -14,7 +14,7 @@ draft: false
 
 ## Ẩn Dụ 10 Người Nữ Đồng Trinh — Khi Ánh Sáng Quyết Định Tất Cả
 
-Ẩn dụ về 10 người nữ đồng trinh trong Ma-thi-ơ 25:1-13 là một trong những câu chuyện quen thuộc nhất mà Chúa Giê-su đã phán dạy. Mười cô phù dâu được chọn để đi đón chàng rể, tất cả đều mang theo đèn. Nhưng vì chàng rể đến trễ, dầu trong đèn cạn dần. Năm cô khôn ngoan đã chuẩn bị dầu dự trữ, còn năm cô dại thì không. Khi chàng rể đến vào lúc nửa đêm, năm cô có dầu thắp đèn sáng rực, được vào dự tiệc cưới. Năm cô còn lại chạy đi tìm mua dầu nhưng không thể mua được vào giờ đó, và khi trở lại, cánh cửa đã đóng. Chủ tiệc nói một câu đau đớn: "Ta không biết các ngươi đâu."
+Ẩn dụ về 10 người nữ đồng trinh trong Ma-thi-ơ 25:1-13 là một trong những câu chuyện quen thuộc nhất mà Đức Chúa Giê-su đã phán dạy. Mười cô phù dâu được chọn để đi đón chàng rể, tất cả đều mang theo đèn. Nhưng vì chàng rể đến trễ, dầu trong đèn cạn dần. Năm cô khôn ngoan đã chuẩn bị dầu dự trữ, còn năm cô dại thì không. Khi chàng rể đến vào lúc nửa đêm, năm cô có dầu thắp đèn sáng rực, được vào dự tiệc cưới. Năm cô còn lại chạy đi tìm mua dầu nhưng không thể mua được vào giờ đó, và khi trở lại, cánh cửa đã đóng. Chủ tiệc nói một câu đau đớn: "Ta không biết các ngươi đâu."
 
 Điều đáng suy ngẫm là năm cô dại này không thiếu gì cả — họ là trinh nữ, xinh đẹp, trang điểm lộng lẫy, trang phục đầy đủ. Nhưng tất cả những vẻ đẹp đó chìm trong bóng tối vì thiếu ánh sáng. Không có ánh sáng, chủ tiệc không nhận ra họ, không thấy được vẻ đẹp của họ. Ánh sáng chính là yếu tố quyết định, là điều làm nổi bật và xác nhận mọi thứ khác.
 

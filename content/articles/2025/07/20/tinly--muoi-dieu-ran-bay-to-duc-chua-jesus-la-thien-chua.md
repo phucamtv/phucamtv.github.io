@@ -1,5 +1,5 @@
 ---
-title: "Mười Điều Răn bày tỏ Đức Chúa Jesus là Thiên Chúa"
+title: "Mười Điều Răn bày tỏ Đức Chúa Giê-su là Thiên Chúa"
 date: 2025-07-20
 description: "Phân tích Mười Điều Răn để chứng minh Đức Chúa Giêsu là Thiên Chúa: từ sự thờ phượng, hình tượng, danh Giê-hô-va đến ngày Sa-bát và các điều răn khác."
 tags: ["Tín Lý", "Thiên Chúa 3 Thân Vị", "Thánh Kinh", "Mười Điều Răn"]

@@ -2,7 +2,7 @@
 title: "Đấng Xoa Dịu Nỗi Đau Của Chúng Ta"
 date: 2023-10-07
 url: /baigiang/dang-xoa-diu-noi-dau-cua-chung-ta/
-description: "Lu-ca 7:11-17 — Qua câu chuyện Chúa Giê-su cứu sống con trai duy nhất của bà góa thành Na-in, Mục sư Dương Quang Thoại cho thấy Chúa biết hoàn cảnh chúng ta, hành động ngay cả khi ta chưa cầu xin, và muốn chúng ta sống có trách nhiệm sau khi được Ngài cứu."
+description: "Lu-ca 7:11-17 — Qua câu chuyện Đức Chúa Giê-su cứu sống con trai duy nhất của bà góa thành Na-in, Mục sư Dương Quang Thoại cho thấy Chúa biết hoàn cảnh chúng ta, hành động ngay cả khi ta chưa cầu xin, và muốn chúng ta sống có trách nhiệm sau khi được Ngài cứu."
 tags: ["Lu-ca", "Phép Lạ", "Lòng Thương Xót", "Sự An Ủi", "Đức Tin", "Sự Sống"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,7 +14,7 @@ draft: false
 
 ## Bảy Chữ Lột Tả Một Thân Phận
 
-Bài giảng sáng ngày 07.10.2023 của Mục sư Dương Quang Thoại dựa trên Lu-ca 7:11-17 — câu chuyện Chúa Giê-su cứu sống con trai duy nhất của bà góa tại thành Na-in. Đây là phép lạ chỉ được ghi lại duy nhất trong Phúc Âm Lu-ca, không xuất hiện trong ba sách Phúc Âm còn lại.
+Bài giảng sáng ngày 07.10.2023 của Mục sư Dương Quang Thoại dựa trên Lu-ca 7:11-17 — câu chuyện Đức Chúa Giê-su cứu sống con trai duy nhất của bà góa tại thành Na-in. Đây là phép lạ chỉ được ghi lại duy nhất trong Phúc Âm Lu-ca, không xuất hiện trong ba sách Phúc Âm còn lại.
 
 Mục sư mở đầu bằng việc phân tích bảy chữ trong câu 12: "con trai một của mẹ góa kia." Chỉ bảy từ ngắn gọn ấy đã lột tả toàn bộ bi kịch của gia đình này — một người đàn bà đã mất chồng, không tái giá, dồn hết sự nương tựa vào đứa con trai duy nhất. Nay đứa con ấy cũng qua đời, bà phải đối mặt với một tương lai bất định: cô đơn, không ai bảo vệ, không ai chăm sóc, có thể thiếu thốn, bệnh tật, thậm chí trở thành con mồi cho kẻ ác.
 
@@ -22,7 +22,7 @@ Mục sư mở đầu bằng việc phân tích bảy chữ trong câu 12: "con 
 
 ## Chúa Biết Hoàn Cảnh Của Chúng Ta
 
-Điểm đầu tiên Mục sư nhấn mạnh: Chúa biết rõ hoàn cảnh của mỗi người. Khi Chúa Giê-su đến trước cổng thành Na-in và thấy đám tang, Ngài thấu hiểu ngay tình cảnh của người mẹ — quá khứ bà đã mất chồng, hiện tại bà đang đau đớn, và tương lai bà sẽ vô cùng khó khăn.
+Điểm đầu tiên Mục sư nhấn mạnh: Chúa biết rõ hoàn cảnh của mỗi người. Khi Đức Chúa Giê-su đến trước cổng thành Na-in và thấy đám tang, Ngài thấu hiểu ngay tình cảnh của người mẹ — quá khứ bà đã mất chồng, hiện tại bà đang đau đớn, và tương lai bà sẽ vô cùng khó khăn.
 
 Thi-thiên 139:2 xác nhận: "Chúa biết khi tôi ngồi, lúc tôi đứng dậy; từ xa Chúa hiểu biết ý tưởng tôi." Mục sư giải thích rằng mỗi chi tiết nhỏ nhất trong cuộc sống — việc ta ngồi đâu, đứng dậy đi đâu, mọi sinh hoạt thường nhật — Chúa đều biết hết. Thậm chí trong Lu-ca 12:7, Chúa phán rằng tóc trên đầu chúng ta Ngài cũng đã đếm cả rồi. Điều này cho thấy mỗi người đều quý trọng trước mặt Đức Chúa Trời.
 
@@ -32,9 +32,9 @@ Sa-lô-môn cũng từng thưa trong ngày khánh thành đền thờ: "Chúa th
 
 ## Chúa Hành Động Ngay Cả Khi Ta Chưa Cầu Xin
 
-Điểm thứ hai rất đặc biệt: khác với hầu hết các phép lạ khác trong Kinh Thánh, nơi người cần được cứu chủ động đến cầu xin Chúa, ở đây người đàn bà góa không hề mở miệng xin điều gì. Bà quá đau khổ, nước mắt dàn dụa, thậm chí không nhận ra Chúa Giê-su và đoàn dân đang đến trước cổng thành.
+Điểm thứ hai rất đặc biệt: khác với hầu hết các phép lạ khác trong Kinh Thánh, nơi người cần được cứu chủ động đến cầu xin Chúa, ở đây người đàn bà góa không hề mở miệng xin điều gì. Bà quá đau khổ, nước mắt dàn dụa, thậm chí không nhận ra Đức Chúa Giê-su và đoàn dân đang đến trước cổng thành.
 
-Nhưng Chúa Giê-su đã tự đến, tự động lòng thương xót, và phán với bà: "Đừng khóc!" Hai chữ ngắn gọn ấy bao gồm tất cả sự cảm thông, tình yêu thương, và sự hiểu biết trọn vẹn về tấm lòng bà. Ngài biết quá khứ, hiện tại, và tương lai của bà. Ma-thi-ơ 6:8 chép: "Cha các ngươi biết các ngươi cần sự gì trước khi chưa xin Ngài."
+Nhưng Đức Chúa Giê-su đã tự đến, tự động lòng thương xót, và phán với bà: "Đừng khóc!" Hai chữ ngắn gọn ấy bao gồm tất cả sự cảm thông, tình yêu thương, và sự hiểu biết trọn vẹn về tấm lòng bà. Ngài biết quá khứ, hiện tại, và tương lai của bà. Ma-thi-ơ 6:8 chép: "Cha các ngươi biết các ngươi cần sự gì trước khi chưa xin Ngài."
 
 Rô-ma 8:26 thêm rằng khi chúng ta không biết cách cầu nguyện cho xứng đáng, chính Đức Thánh Linh lấy sự thở than không thể nói ra được mà cầu khẩn thay cho chúng ta. Đây là niềm an ủi lớn lao: ngay cả khi ta chưa thốt nên lời, Chúa đã biết và đã hành động.
 

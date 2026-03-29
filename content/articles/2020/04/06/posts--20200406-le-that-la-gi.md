@@ -1,7 +1,7 @@
 ---
 title: "Lẽ thật là gì?"
 date: 2020-04-06
-tags: ["Jesus Christ"]
+tags: ["Đức Chúa Giê-su Christ"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
 youtubeIDs: ["Jxn-ivX8x3o"]

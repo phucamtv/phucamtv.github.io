@@ -35,7 +35,7 @@ Rô-ma 3:23 cho biết mọi người đều đã phạm tội, thiếu mất s�
 
 Nhưng Chúa Cứu Thế đã có một kế hoạch. Rô-ma 5:6-8 bày tỏ rằng khi chúng ta còn yếu đuối, Đấng Christ đã chịu chết vì kẻ có tội. Điều phi thường là Ngài không chết cho những người xứng đáng, mà chết cho chúng ta ngay khi chúng ta còn rất xấu xa và tội lỗi. Đây chính là tình yêu vô đối mà Đức Chúa Trời dành cho nhân loại.
 
-Chúa Cứu Thế Giê-xu hoàn toàn khác biệt với mọi giáo chủ hay thần thánh khác -- Ngài đã chết nhưng ba ngày sau đã sống lại. Đây không phải chuyện hoang đường: hơn năm trăm người đã chứng kiến Chúa thăng thiên, và họ đã truyền lại niềm tin đó qua nhiều thế hệ suốt hai ngàn năm.
+Chúa Cứu Thế Giê-su hoàn toàn khác biệt với mọi giáo chủ hay thần thánh khác -- Ngài đã chết nhưng ba ngày sau đã sống lại. Đây không phải chuyện hoang đường: hơn năm trăm người đã chứng kiến Chúa thăng thiên, và họ đã truyền lại niềm tin đó qua nhiều thế hệ suốt hai ngàn năm.
 
 ## 3. Thiên Chúa là tình yêu vì Ngài chuẩn bị những điều tốt đẹp nhất cho chúng ta
 

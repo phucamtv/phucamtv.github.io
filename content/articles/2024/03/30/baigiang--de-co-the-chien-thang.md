@@ -1,7 +1,7 @@
 ---
 title: "Để Có Thể Chiến Thắng"
 date: 2024-03-30
-description: "Dựa trên Hê-bơ-rơ 12:1–2, Trưởng lão Nguyễn Tuấn chia sẻ về cuộc chạy đua đức tin: sống dưới ánh mắt của nhiều người chứng kiến, buông bỏ gánh nặng và tội lỗi vấn vương, bền đỗ với lòng nhịn nhục, và không ngừng nhìn về Đức Chúa Giê-xu — Cội Rễ và cuối cùng của đức tin."
+description: "Dựa trên Hê-bơ-rơ 12:1–2, Trưởng lão Nguyễn Tuấn chia sẻ về cuộc chạy đua đức tin: sống dưới ánh mắt của nhiều người chứng kiến, buông bỏ gánh nặng và tội lỗi vấn vương, bền đỗ với lòng nhịn nhục, và không ngừng nhìn về Đức Chúa Giê-su — Cội Rễ và cuối cùng của đức tin."
 tags: ["Hê-bơ-rơ", "Đức Tin", "Kiên Trì", "Chiến Thắng", "Đời Sống Cơ Đốc Nhân"]
 authors: ["nguyen-tuan"]
 plugins: [youtube]
@@ -46,18 +46,18 @@ Mỗi người trong chúng ta cần dừng lại và hỏi trước mặt Chúa
 
 Điều này có ý nghĩa thiết thực: khi gặp khó khăn trong công việc, trong gia đình, hay trong cộng đồng đức tin, người tin Chúa không nên bỏ cuộc. Những thử thách đó không phải là dấu hiệu Chúa bỏ rơi chúng ta — mà chính là cách Ngài rèn giũa chúng ta trở nên mạnh mẽ hơn.
 
-## Điều thứ tư: Nhìn xem Đức Chúa Giê-xu — Cội Rễ và cuối cùng của đức tin
+## Điều thứ tư: Nhìn xem Đức Chúa Giê-su — Cội Rễ và cuối cùng của đức tin
 
-> *"…nhìn xem Đức Chúa Giê-xu, là cội rễ và cuối cùng của đức tin…"* (Hê-bơ-rơ 12:2)
+> *"…nhìn xem Đức Chúa Giê-su, là cội rễ và cuối cùng của đức tin…"* (Hê-bơ-rơ 12:2)
 
 Vào ngày 4 tháng 7 năm 1952, vận động viên bơi lội Florence Chadwick cố gắng vượt eo biển Catalina đến bờ biển California trong màn sương dày đặc. Sau hơn 15 giờ bơi, cô bỏ cuộc — và chỉ sau đó mới biết rằng bờ chỉ còn chưa đến một cây số. Cô nói: *"Không phải vì lạnh, không phải vì kiệt sức — mà vì sương mù đã che mất cái đích đến."*
 
-Đây chính là hình ảnh của nhiều tín hữu: không phải thiếu sức, nhưng thiếu tầm nhìn về đích đến. Khi chúng ta không nhìn rõ Đức Chúa Giê-xu là điểm đến và nền tảng, chúng ta dễ bị xao lãng bởi con người, hoàn cảnh, hay những thất vọng trong cộng đồng.
+Đây chính là hình ảnh của nhiều tín hữu: không phải thiếu sức, nhưng thiếu tầm nhìn về đích đến. Khi chúng ta không nhìn rõ Đức Chúa Giê-su là điểm đến và nền tảng, chúng ta dễ bị xao lãng bởi con người, hoàn cảnh, hay những thất vọng trong cộng đồng.
 
 Sứ đồ Phao-lô viết cho hội thánh Phi-líp: *"Tôi cứ làm một điều: quên lửng sự ở đằng sau mà bương theo sự ở đằng trước, tôi nhắm mục đích mà chạy…"* (Phi-líp 3:13–14). Không phải nhìn theo người khác — dù là mục sư, lãnh đạo, hay bạn đồng hành — mà chỉ nhìn về một mình Chúa Cứu Thế.
 
 ## Lời kết: Cuộc đua xứng đáng để chạy
 
-Mỗi tín hữu đang tham gia một cuộc đua đặc biệt — một cuộc đua có nhiều người chứng kiến, đòi hỏi buông bỏ gánh nặng, đòi hỏi kiên nhẫn bền lòng, và đòi hỏi giữ ánh mắt cố định vào Đức Chúa Giê-xu. Đây không phải là cuộc đua dễ dàng, nhưng là cuộc đua xứng đáng.
+Mỗi tín hữu đang tham gia một cuộc đua đặc biệt — một cuộc đua có nhiều người chứng kiến, đòi hỏi buông bỏ gánh nặng, đòi hỏi kiên nhẫn bền lòng, và đòi hỏi giữ ánh mắt cố định vào Đức Chúa Giê-su. Đây không phải là cuộc đua dễ dàng, nhưng là cuộc đua xứng đáng.
 
 Phần thưởng Chúa dành cho những ai hoàn thành đường chạy của mình trong đức tin là điều mà ngôn ngữ loài người không thể diễn đạt được — và đó chính là lý do để tiếp tục bước tới, dù có bao nhiêu sương mù che khuất phía trước.

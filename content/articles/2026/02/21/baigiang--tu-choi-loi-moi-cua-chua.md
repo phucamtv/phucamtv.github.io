@@ -14,9 +14,9 @@ draft: false
 
 ## Bối Cảnh: Bữa Đại Tiệc Và Những Khách Từ Chối
 
-Trong buổi nhóm đầu tiên của năm âm lịch, chúng ta cùng suy gẫm ẩn dụ Chúa Giê-su kể trong Lu-ca 14:15-24 — ẩn dụ về một bữa đại tiệc mà tất cả những khách mời đều từ chối.
+Trong buổi nhóm đầu tiên của năm âm lịch, chúng ta cùng suy gẫm ẩn dụ Đức Chúa Giê-su kể trong Lu-ca 14:15-24 — ẩn dụ về một bữa đại tiệc mà tất cả những khách mời đều từ chối.
 
-Câu chuyện bắt đầu khi một người ngồi cùng bàn với Chúa thốt lên: *"Phước cho người nào được ăn bánh trong vương quốc Đức Chúa Trời."* Nhưng câu 16 bắt đầu bằng chữ **"nhưng"** — dấu hiệu cho thấy Chúa Giê-su không đồng tình với hàm ý của lời đó. Người nói là một người Do Thái, và trong tư duy của họ, chỉ có người Do Thái mới được vào nước thiên đàng. Chúa dùng ẩn dụ này để phá vỡ cái quan niệm sai lầm đó — sự cứu rỗi của Đức Chúa Trời mở rộng cho tất cả mọi người, không hạn chế bất kỳ ai.
+Câu chuyện bắt đầu khi một người ngồi cùng bàn với Chúa thốt lên: *"Phước cho người nào được ăn bánh trong vương quốc Đức Chúa Trời."* Nhưng câu 16 bắt đầu bằng chữ **"nhưng"** — dấu hiệu cho thấy Đức Chúa Giê-su không đồng tình với hàm ý của lời đó. Người nói là một người Do Thái, và trong tư duy của họ, chỉ có người Do Thái mới được vào nước thiên đàng. Chúa dùng ẩn dụ này để phá vỡ cái quan niệm sai lầm đó — sự cứu rỗi của Đức Chúa Trời mở rộng cho tất cả mọi người, không hạn chế bất kỳ ai.
 
 Ẩn dụ trong Lu-ca 14 có nét tương tự với Ma-thi-ơ 22:1-10, nhưng với những chi tiết riêng biệt đáng để suy gẫm.
 
@@ -58,7 +58,7 @@ Lý do này nghe có vẻ hợp lý nhất. Phục Truyền Luật Lệ Ký 24:5
 
 ## Bữa Tiệc Là Hình Ảnh Của Niềm Vui
 
-Khi Chúa Giê-su dùng hình ảnh một bữa đại tiệc để nói về nước thiên đàng, Ngài muốn chúng ta hiểu: **sự cứu rỗi phải là niềm vui, phải là hạnh phúc.** Không thể hằng ngày rầu rỉ, đau khổ mà lại mong muốn được ở trong nước thiên đàng.
+Khi Đức Chúa Giê-su dùng hình ảnh một bữa đại tiệc để nói về nước thiên đàng, Ngài muốn chúng ta hiểu: **sự cứu rỗi phải là niềm vui, phải là hạnh phúc.** Không thể hằng ngày rầu rỉ, đau khổ mà lại mong muốn được ở trong nước thiên đàng.
 
 Hương vị của thiên đàng phải được thể hiện ngay trong cuộc sống này — trong lời nói, trong việc làm, trong cách đối xử với người khác. Ma-thi-ơ 5:12 nói: *"Hãy vui vẻ và nức lòng mừng rỡ, vì phần thưởng các ngươi ở trên trời sẽ lớn lắm."*
 
@@ -68,7 +68,7 @@ Hương vị của thiên đàng phải được thể hiện ngay trong cuộc 
 
 Câu chuyện cũng nhắc chúng ta về điều ngược lại: **đừng đoán xét hay kết tội người khác.** Rô-ma 14:4 hỏi: *"Ngươi là ai mà dám đoán xét tôi tớ của kẻ khác?"*
 
-Ngay cả tên trộm trên thập tự giá — dù có bao nhiêu tội lỗi trong quá khứ — chỉ cần thốt lên *"Lạy Chúa Giê-su, xin thương xót tôi"* và được cứu. Điều kỳ diệu ở đây không phải là sự cứu rỗi dễ dàng, mà là sức mạnh đức tin của anh — anh tin vào Đấng đang bị đóng đinh như mình, trông không có vẻ gì là Thượng Đế cả. Đó là đức tin vượt qua mọi điều mắt thấy. Chính vì vậy, không ai trong chúng ta có thể ấn định số phận của bất cứ ai.
+Ngay cả tên trộm trên thập tự giá — dù có bao nhiêu tội lỗi trong quá khứ — chỉ cần thốt lên *"Lạy Đức Chúa Giê-su, xin thương xót tôi"* và được cứu. Điều kỳ diệu ở đây không phải là sự cứu rỗi dễ dàng, mà là sức mạnh đức tin của anh — anh tin vào Đấng đang bị đóng đinh như mình, trông không có vẻ gì là Thượng Đế cả. Đó là đức tin vượt qua mọi điều mắt thấy. Chính vì vậy, không ai trong chúng ta có thể ấn định số phận của bất cứ ai.
 
 ---
 

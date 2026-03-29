@@ -2,7 +2,7 @@
 title: "Nhận Diện Tiên Tri Giả"
 date: 2023-07-26
 url: /baigiang/nhan-dien-tien-tri-gia/
-description: "Bài giảng của Mục sư Dương Quang Thoại về Ma-thi-ơ 7:15-20 — Chúa Giê-su cảnh báo hội thánh về tiên tri giả: những kẻ đội lốt chiên nhưng bề trong là muông sói. Làm thế nào nhận diện tiên tri thật và tiên tri giả? Câu trả lời nằm ở trái — kết quả của sự dạy dỗ theo thời gian."
+description: "Bài giảng của Mục sư Dương Quang Thoại về Ma-thi-ơ 7:15-20 — Đức Chúa Giê-su cảnh báo hội thánh về tiên tri giả: những kẻ đội lốt chiên nhưng bề trong là muông sói. Làm thế nào nhận diện tiên tri thật và tiên tri giả? Câu trả lời nằm ở trái — kết quả của sự dạy dỗ theo thời gian."
 tags: ["Tiên Tri Giả", "Ma-thi-ơ 7", "Lời Cảnh Báo", "Hội Thánh", "Dạy Dỗ", "Phân Biệt"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -12,7 +12,7 @@ draft: false
 
 {{< youtube "6n2L-Kupa1g" >}}
 
-## Lời Cảnh Báo Của Chúa Giê-su Về Tiên Tri Giả
+## Lời Cảnh Báo Của Đức Chúa Giê-su Về Tiên Tri Giả
 
 Ma-thi-ơ 7:15–20 là đoạn Kinh Thánh mà Đức Chúa Giê-su trực tiếp cảnh báo hội thánh: *"Hãy coi chừng tiên tri giả, là những kẻ mang lốt chiên đến cùng các ngươi, song bề trong thật là muông sói hay cắn xé."* Đây không chỉ là lời cảnh báo trong thời Chúa tại thế, mà còn là lời cảnh báo cho toàn bộ thời gian về sau — càng về ngày cuối cùng, càng có rất nhiều tiên tri giả xuất hiện.
 
@@ -24,7 +24,7 @@ Sang đến Tân Ước, Phao-lô cũng cảnh báo hội thánh Ê-phê-sô (C�
 
 ## Nhận Diện Đặc Điểm Của Tiên Tri Giả
 
-Chúa Giê-su dùng hình ảnh **muông sói đội lốt chiên** — tạo nên bề ngoài hiền lành nhưng bên trong hung dữ. Câu tục ngữ Việt Nam "chiếc áo không làm nên thầy tu" hoàn toàn phù hợp: cái chất bên trong mới là điều thật, còn cái vẻ bề ngoài có thể là giả. Điều tồi tệ nhất là bên trong là giả nhưng khoác lên một vẻ y như thật.
+Đức Chúa Giê-su dùng hình ảnh **muông sói đội lốt chiên** — tạo nên bề ngoài hiền lành nhưng bên trong hung dữ. Câu tục ngữ Việt Nam "chiếc áo không làm nên thầy tu" hoàn toàn phù hợp: cái chất bên trong mới là điều thật, còn cái vẻ bề ngoài có thể là giả. Điều tồi tệ nhất là bên trong là giả nhưng khoác lên một vẻ y như thật.
 
 Theo nhà nghiên cứu William Barclay, tiên tri giả thường dạy đạo và giảng đạo vì ba mục đích:
 
@@ -54,7 +54,7 @@ Khi tiên tri giả dạy dỗ sai lạc, hậu quả sẽ biểu hiện qua nă
 
 **Thứ ba**, tạo ra hội thánh lạm dụng ân điển, sống dễ dãi — quan điểm sai lầm rằng đã được cứu một lần thì dù phạm tội thể nào cũng đều được tha. Chính Kinh Thánh phản bác điều này, và sự lạm dụng ân điển là một sự sỉ nhục đối với thập tự giá.
 
-**Thứ tư**, dẫn đến hội thánh tách rời khỏi đời sống xã hội. Kinh Thánh không bao giờ dạy chúng ta phải tách rời thế gian. Chúa Giê-su đã nhập thể và nhập thế — Ngài vào trong thế gian, và Ngài sai chúng ta vào trong thế gian để kết nối với con người, bày tỏ tình yêu của Ngài.
+**Thứ tư**, dẫn đến hội thánh tách rời khỏi đời sống xã hội. Kinh Thánh không bao giờ dạy chúng ta phải tách rời thế gian. Đức Chúa Giê-su đã nhập thể và nhập thế — Ngài vào trong thế gian, và Ngài sai chúng ta vào trong thế gian để kết nối với con người, bày tỏ tình yêu của Ngài.
 
 **Thứ năm**, tạo nên hội thánh ngạo mạn và biệt lập — cho rằng chỉ có mình là đúng, còn tất cả bên ngoài đều là sai. Đây là tư tưởng ngạo mạn, vì ân điển của Đức Chúa Trời ban ra cho mọi người vô điều kiện, không ai được độc quyền sở hữu sự cứu rỗi.
 

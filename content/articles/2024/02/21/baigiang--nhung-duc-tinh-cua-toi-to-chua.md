@@ -12,11 +12,11 @@ draft: false
 
 {{< youtube "DdkUOeqLJZo" >}}
 
-## Bối Cảnh: Chúa Giê-su Lẫn Tránh Kẻ Thù
+## Bối Cảnh: Đức Chúa Giê-su Lẫn Tránh Kẻ Thù
 
-Ma-thi-ơ 12:15-16 mở đầu với việc Chúa Giê-su biết người Pha-ri-si đang lập mưu hại Ngài, nên Ngài bỏ đi khỏi chỗ đó. Nhiều người theo Ngài, và Ngài chữa lành họ, nhưng cấm ngặt đừng cho ai biết về Ngài.
+Ma-thi-ơ 12:15-16 mở đầu với việc Đức Chúa Giê-su biết người Pha-ri-si đang lập mưu hại Ngài, nên Ngài bỏ đi khỏi chỗ đó. Nhiều người theo Ngài, và Ngài chữa lành họ, nhưng cấm ngặt đừng cho ai biết về Ngài.
 
-Điều này cho thấy Chúa Giê-su phân biệt rất rõ ràng giữa liều lĩnh và can đảm. Có những lúc cần đối đầu và có những lúc cần lẫn tránh. Dân Israel lúc bấy giờ đang mong chờ một vị cứu tinh chính trị để lật đổ sự đô hộ của La Mã, nhưng Chúa Giê-su đến không phải vì mục đích chính trị. Ngài đến vì nước Trời, vì thế Ngài không để bị cuốn vào những xung đột không thuộc về sứ mạng của mình.
+Điều này cho thấy Đức Chúa Giê-su phân biệt rất rõ ràng giữa liều lĩnh và can đảm. Có những lúc cần đối đầu và có những lúc cần lẫn tránh. Dân Israel lúc bấy giờ đang mong chờ một vị cứu tinh chính trị để lật đổ sự đô hộ của La Mã, nhưng Đức Chúa Giê-su đến không phải vì mục đích chính trị. Ngài đến vì nước Trời, vì thế Ngài không để bị cuốn vào những xung đột không thuộc về sứ mạng của mình.
 
 Đây là bài học cho đời sống Cơ Đốc nhân: chúng ta cần sự khôn ngoan từ mối tương giao với Chúa và từ lời Kinh Thánh để biết lúc nào nên đối đầu, lúc nào nên lẫn tránh. Nếu không có lời Chúa dẫn dắt, chúng ta rất dễ hành động sai lạc.
 
@@ -38,7 +38,7 @@ Câu 18 mở đầu: *"Nầy, tôi tớ ta đã chọn, là người mà ta rấ
 
 ## Đức Tính Thứ Hai: Được Thánh Linh Ngự Trên
 
-Câu 18 tiếp tục: *"Ta sẽ cho Thánh Linh ta ngự trên người."* Vị trí của Đức Thánh Linh trong đời sống người hầu việc Chúa là vô cùng quan trọng. Ngày nay có những quan điểm giảm nhẹ vai trò của Thánh Linh, nhưng chính Chúa Giê-su đã dạy rằng phạm tội đến Thánh Linh thì không được tha. Điều này không có nghĩa Thánh Linh quan trọng hơn Đức Cha hay Đức Con, mà vì Thánh Linh chính là tiếng nói dẫn đến sự ăn năn. Khi một người từ chối tiếng Thánh Linh, người đó mất đi khả năng ăn năn.
+Câu 18 tiếp tục: *"Ta sẽ cho Thánh Linh ta ngự trên người."* Vị trí của Đức Thánh Linh trong đời sống người hầu việc Chúa là vô cùng quan trọng. Ngày nay có những quan điểm giảm nhẹ vai trò của Thánh Linh, nhưng chính Đức Chúa Giê-su đã dạy rằng phạm tội đến Thánh Linh thì không được tha. Điều này không có nghĩa Thánh Linh quan trọng hơn Đức Cha hay Đức Con, mà vì Thánh Linh chính là tiếng nói dẫn đến sự ăn năn. Khi một người từ chối tiếng Thánh Linh, người đó mất đi khả năng ăn năn.
 
 Năng lực để hầu việc Chúa phải đến từ Thánh Linh. Nếu cậy sức riêng mình, chúng ta sẽ rất dễ thất bại. Đời sống phục vụ mà không có quyền năng Thánh Linh thì chỉ là hoạt động con người, thiếu đi sức mạnh thiêng liêng thật sự.
 

@@ -25,7 +25,7 @@ Sa-tan không thể hiện nguyên hình để lừa dối con người, nên n�
 Bài giảng phân tích cách Sa-tan giả mạo cả ba ngôi vị của Đức Chúa Trời:
 
 - **Con rồng** đóng vai trò giả mạo Đức Chúa Cha — không ai thấy con rồng, cũng như không ai thấy Đức Chúa Cha. Con rồng trao quyền phép cho con thú, giống như Đức Chúa Cha trao quyền phép cho Đức Chúa Con (Ma-thi-ơ 28:18).
-- **Con thú từ biển** giả mạo Đức Chúa Con — nó bị thương đến chết nhưng vết thương được lành, mô phỏng sự chết và phục sinh của Chúa Giê-su.
+- **Con thú từ biển** giả mạo Đức Chúa Con — nó bị thương đến chết nhưng vết thương được lành, mô phỏng sự chết và phục sinh của Đức Chúa Giê-su.
 - **Con thú từ đất** giả mạo Đức Thánh Linh — nó làm phép lạ, khiến lửa từ trời rơi xuống, và bắt người ta thờ lạy con thú thứ nhất.
 
 ## Dấu Hiệu 666 Và Lời Cảnh Báo

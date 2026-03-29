@@ -92,4 +92,4 @@ Giê-rê-mi 21:8 khẳng định: *"Đức Giê-hô-va phán như vầy: Này, t
 
 Hai con đường vẫn đang ở trước mặt mỗi người chúng ta. Để không phạm những lựa chọn sai lầm, chúng ta cần ánh sáng của Lời Chúa soi đường. Lời Chúa không phải là sách cổ lỗ sĩ — đó là ngọn đèn duy nhất có thể soi sáng con đường dẫn đến sự sống.
 
-Thế giới rơi vào sa ngã vì một lần không vâng lời. Nhưng Đức Chúa Trời đã không bỏ mặc con người trong sự sa ngã đó — Ngài đã chuẩn bị con đường cứu rỗi qua Chúa Giê-su Christ, để ai tin nhận Ngài có thể bước ra khỏi vũng lầy của tội lỗi và trở về với Đấng đã tạo dựng nên mình.
+Thế giới rơi vào sa ngã vì một lần không vâng lời. Nhưng Đức Chúa Trời đã không bỏ mặc con người trong sự sa ngã đó — Ngài đã chuẩn bị con đường cứu rỗi qua Đức Chúa Giê-su Christ, để ai tin nhận Ngài có thể bước ra khỏi vũng lầy của tội lỗi và trở về với Đấng đã tạo dựng nên mình.

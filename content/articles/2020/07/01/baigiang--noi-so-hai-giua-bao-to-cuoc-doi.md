@@ -1,7 +1,7 @@
 ---
 title: "Nỗi Sợ Hãi Giữa Bão Tố Cuộc Đời"
 date: 2020-07-01
-description: "Bài giảng từ Mác 4:30-41 về ví dụ hạt cải, sự giảng dạy bằng ẩn dụ của Chúa Giê-su, và câu chuyện bão tố trên biển hồ Ga-li-lê — nơi đức tin của các môn đồ bị thử thách giữa cơn khủng hoảng."
+description: "Bài giảng từ Mác 4:30-41 về ví dụ hạt cải, sự giảng dạy bằng ẩn dụ của Đức Chúa Giê-su, và câu chuyện bão tố trên biển hồ Ga-li-lê — nơi đức tin của các môn đồ bị thử thách giữa cơn khủng hoảng."
 tags: ["Phúc Âm Mác", "Đức Tin", "Bão Tố", "Ẩn Dụ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -22,7 +22,7 @@ draft: false
 
 ### Nhiều Nhánh, Một Gốc
 
-Khi cây cải lớn lên, nó ra nhiều nhánh — mỗi nhánh khác nhau nhưng cùng chung một gốc. Đây là hình ảnh về sự hiệp nhất trong Hội Thánh của Đức Chúa Trời. Không thể có sự đồng nhất tuyệt đối — giống y như nhau — nhưng có thể có sự hiệp nhất: những nhánh khác nhau cùng chung một thân cây. Các chim trời đậu trên những nhánh khác nhau, nhưng tất cả đều từ một gốc — đó là Chúa Giê-su Christ, cùng niềm tin trong sự cứu rỗi bởi dòng huyết của Ngài.
+Khi cây cải lớn lên, nó ra nhiều nhánh — mỗi nhánh khác nhau nhưng cùng chung một gốc. Đây là hình ảnh về sự hiệp nhất trong Hội Thánh của Đức Chúa Trời. Không thể có sự đồng nhất tuyệt đối — giống y như nhau — nhưng có thể có sự hiệp nhất: những nhánh khác nhau cùng chung một thân cây. Các chim trời đậu trên những nhánh khác nhau, nhưng tất cả đều từ một gốc — đó là Đức Chúa Giê-su Christ, cùng niềm tin trong sự cứu rỗi bởi dòng huyết của Ngài.
 
 ### Hội Thánh — Bóng Mát Giữa Sa Mạc
 
@@ -30,7 +30,7 @@ Cây cải lớn lên không phải chỉ để cho chim chóc đậu, nhưng kh
 
 ## Mác 4:33-34 — Giảng Dạy Bằng Ví Dụ
 
-Chúa Giê-su dùng nhiều ví dụ để giảng đạo, tùy theo sức người nghe mà truyền đạt. Khi ở riêng, Ngài cắt nghĩa hết cho các môn đồ. Từ đây rút ra những bài học cho người giảng dạy: tránh sự phô trương bản thân, vì nhiệm vụ của người thầy là làm cho người ta chú ý đến điều mình trình bày chứ không phải đến bản thân mình. Người giảng đạo cần nghiên cứu, học hỏi, nắm vững những gì mình nói, có sự kiên trì trong việc gieo lời Chúa, và có tấm lòng nhân từ đối với bầy chiên — giống như Môi-se đã học qua bốn mươi năm chăn chiên trước khi được gọi dẫn dắt dân Y-sơ-ra-ên.
+Đức Chúa Giê-su dùng nhiều ví dụ để giảng đạo, tùy theo sức người nghe mà truyền đạt. Khi ở riêng, Ngài cắt nghĩa hết cho các môn đồ. Từ đây rút ra những bài học cho người giảng dạy: tránh sự phô trương bản thân, vì nhiệm vụ của người thầy là làm cho người ta chú ý đến điều mình trình bày chứ không phải đến bản thân mình. Người giảng đạo cần nghiên cứu, học hỏi, nắm vững những gì mình nói, có sự kiên trì trong việc gieo lời Chúa, và có tấm lòng nhân từ đối với bầy chiên — giống như Môi-se đã học qua bốn mươi năm chăn chiên trước khi được gọi dẫn dắt dân Y-sơ-ra-ên.
 
 ## Mác 4:35-41 — Nỗi Sợ Hãi Giữa Bão Tố
 

@@ -28,7 +28,7 @@ Con người không ai hoàn hảo, ai cũng có lỗi lầm, vì vậy chúng t
 
 Ê-sai 48:9 chép rằng Chúa vì danh mình mà tạm nhịn giận, vì sự vinh hiển mình mà nhịn nhục, để không hủy diệt dân sự. Danh của Ngài gắn liền với sự nhân từ, lòng thương xót và tình yêu, nên vì những điều đó mà Ngài đã không hủy diệt con người.
 
-Chúa Giê-xu cũng đã chịu đựng cái hôn phản bội của Giu-đa. Dù biết rõ Giu-đa đến để bán mình, Ngài vẫn đứng yên cho Giu-đa ôm hôn, và còn gọi người phản bội bằng tiếng thân mật. Đó là sự chịu đựng đến tận cùng.
+Đức Chúa Giê-su cũng đã chịu đựng cái hôn phản bội của Giu-đa. Dù biết rõ Giu-đa đến để bán mình, Ngài vẫn đứng yên cho Giu-đa ôm hôn, và còn gọi người phản bội bằng tiếng thân mật. Đó là sự chịu đựng đến tận cùng.
 
 ## Tại sao Chúa nhịn nhục
 

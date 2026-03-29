@@ -14,7 +14,7 @@ draft: false
 
 ## Lời Cầu Xin Phải Được Xác Định — Ma-thi-ơ 9:27-31
 
-Bài giảng tối ngày 11.10.2023 của Mục sư Dương Quang Thoại tiếp tục loạt học Kinh Thánh Ma-thi-ơ, khảo sát đoạn 9 từ câu 27 đến 35 qua ba phần rõ rệt. Phần đầu ghi lại câu chuyện Chúa Giê-su chữa lành hai người mù.
+Bài giảng tối ngày 11.10.2023 của Mục sư Dương Quang Thoại tiếp tục loạt học Kinh Thánh Ma-thi-ơ, khảo sát đoạn 9 từ câu 27 đến 35 qua ba phần rõ rệt. Phần đầu ghi lại câu chuyện Đức Chúa Giê-su chữa lành hai người mù.
 
 Hai người mù đi theo Chúa và kêu lên: "Hỡi con cháu vua Đa-vít, xin thương chúng tôi cùng!" Họ gọi Ngài là con vua Đa-vít — tức hiểu Ngài theo quan điểm phổ biến đương thời, nghĩ rằng Đấng Mê-si sẽ giải phóng dân tộc khỏi ách La Mã. Dù họ hiểu sai về cương vị của Chúa, Ngài vẫn cởi mở và nhân từ, không khắt khe với sự thiếu hiểu biết của họ.
 
@@ -32,7 +32,7 @@ Phần thứ hai ghi lại việc Chúa đuổi quỷ cho một người câm. S
 
 Cùng một sự việc nhưng thái độ đón nhận hoàn toàn khác nhau — điều này cho thấy vấn đề không nằm ở sự việc mà nằm ở tấm lòng người tiếp nhận. Khi lòng người có sự công minh và cởi mở, họ sẽ nhận ra điều tốt đẹp. Khi lòng người đầy thù ghét và thành kiến, mọi điều tốt lành đều bị bóp méo.
 
-Mục sư phân tích ba nguyên nhân khiến người Pha-ri-si phản ứng tiêu cực. Thứ nhất, họ bị giam hãm trong đường lối cũ — bảo thủ cố hữu đến mức không còn chỗ để tiếp nhận bất kỳ ánh sáng mới nào từ lẽ thật. Thứ hai, họ tự mãn và kiêu ngạo — nếu thừa nhận Chúa Giê-su đúng tức là gián tiếp thừa nhận mình sai, điều mà lòng tự ái không cho phép. Thứ ba, họ mang thành kiến quá sâu nặng — lớp màn thành kiến che mắt khiến họ không thể nhìn nhận công bằng, dẫn đến những lời nói và hành động độc ác nhằm loại trừ Chúa.
+Mục sư phân tích ba nguyên nhân khiến người Pha-ri-si phản ứng tiêu cực. Thứ nhất, họ bị giam hãm trong đường lối cũ — bảo thủ cố hữu đến mức không còn chỗ để tiếp nhận bất kỳ ánh sáng mới nào từ lẽ thật. Thứ hai, họ tự mãn và kiêu ngạo — nếu thừa nhận Đức Chúa Giê-su đúng tức là gián tiếp thừa nhận mình sai, điều mà lòng tự ái không cho phép. Thứ ba, họ mang thành kiến quá sâu nặng — lớp màn thành kiến che mắt khiến họ không thể nhìn nhận công bằng, dẫn đến những lời nói và hành động độc ác nhằm loại trừ Chúa.
 
 Thành kiến không chỉ tồn tại trong thời Kinh Thánh mà còn hiện diện trong đời sống Cơ Đốc nhân ngày nay. Khi bị thành kiến chi phối, người ta gọi nhau là tà giáo, hãm hại nhau, và tự triệt hạ chính đạo Chúa — đó là nỗi đau đớn lớn nhất trong cộng đồng đức tin.
 
@@ -40,9 +40,9 @@ Thành kiến không chỉ tồn tại trong thời Kinh Thánh mà còn hiện 
 
 ## Ba Nhiệm Vụ Của Hội Thánh — Ma-thi-ơ 9:35
 
-Phần cuối tóm lược chức vụ của Chúa Giê-su trong câu 35: Ngài đi khắp các thành các làng để dạy dỗ, rao giảng Tin Lành, và chữa lành tật bệnh. Ba công tác này cũng chính là sứ mạng mà Hội Thánh và mỗi tín hữu cần thực hiện.
+Phần cuối tóm lược chức vụ của Đức Chúa Giê-su trong câu 35: Ngài đi khắp các thành các làng để dạy dỗ, rao giảng Tin Lành, và chữa lành tật bệnh. Ba công tác này cũng chính là sứ mạng mà Hội Thánh và mỗi tín hữu cần thực hiện.
 
-Về dạy dỗ, Chúa Giê-su luôn khẳng định Ngài chỉ nói những gì Cha truyền cho. Tín hữu ngày nay cũng phải tin chắc vào những gì mình chia sẻ — khi không tin chắc Chúa chết, sống lại, về trời và sẽ trở lại, thì sứ mạng rao truyền sẽ bị suy yếu.
+Về dạy dỗ, Đức Chúa Giê-su luôn khẳng định Ngài chỉ nói những gì Cha truyền cho. Tín hữu ngày nay cũng phải tin chắc vào những gì mình chia sẻ — khi không tin chắc Chúa chết, sống lại, về trời và sẽ trở lại, thì sứ mạng rao truyền sẽ bị suy yếu.
 
 Về rao giảng, lời giảng phải đi đôi với lối sống. Mục sư kể lại câu chuyện một văn sĩ Ấn Độ chứng kiến những người lính Anh không chỉ đến nhà thờ hát thánh ca và đọc Kinh Thánh, mà khi động đất xảy ra, họ biến nhà thờ thành nơi cứu nạn. Chính hành động sống đạo ấy đã khiến ông xúc động và tin Chúa.
 

@@ -32,15 +32,15 @@ Có một câu chuyện minh họa thấm thía: một chấp sự hội thánh 
 
 ## 3. Chúa Nhân Từ Nhưng Không Kể Kẻ Có Tội Là Vô Tội
 
-Trong Giăng 8:10-11, ngay cả người phụ nữ phạm tội tà dâm bị bắt quả tang mà Chúa Giê-su còn không kết án. Ngài phán: "Ta cũng không kết án chị đâu; hãy đi, đừng phạm tội nữa." Giăng 3:17 khẳng định Đức Chúa Trời sai Con Ngài xuống thế gian không phải để đoán xét mà để thế gian nhờ Con ấy được cứu.
+Trong Giăng 8:10-11, ngay cả người phụ nữ phạm tội tà dâm bị bắt quả tang mà Đức Chúa Giê-su còn không kết án. Ngài phán: "Ta cũng không kết án chị đâu; hãy đi, đừng phạm tội nữa." Giăng 3:17 khẳng định Đức Chúa Trời sai Con Ngài xuống thế gian không phải để đoán xét mà để thế gian nhờ Con ấy được cứu.
 
 Tuy nhiên, Xuất Ê-díp-tô Ký 34:7 và Dân Số Ký 14:18 nhắc rằng Đức Chúa Trời chậm giận, giàu ơn, hay tha thứ — nhưng chẳng kể kẻ có tội là vô tội. Đừng lợi dụng sự nhân từ của Chúa mà muốn làm gì thì làm, muốn giải thích Kinh Thánh theo ý mình thì giải thích. Nếu biết rõ lẽ thật mà cố tình lái lời Chúa đi hướng khác, tội ấy rất nặng.
 
 ## 4. Tư Tưởng Trung Dung Của Kinh Thánh
 
-Mác 9:38-40 kể rằng các môn đồ thấy người ngoài nhóm mình nhân danh Chúa trừ quỷ thì muốn ngăn cấm. Nhưng Chúa Giê-su phán: "Đừng cấm làm chi; hễ ai không nghịch cùng ta là thuộc về ta." Nếu Cơ Đốc giáo có quan điểm rộng lớn như vậy, sẽ có sự hiệp nhất trong huyết Chúa và cùng một Thánh Linh.
+Mác 9:38-40 kể rằng các môn đồ thấy người ngoài nhóm mình nhân danh Chúa trừ quỷ thì muốn ngăn cấm. Nhưng Đức Chúa Giê-su phán: "Đừng cấm làm chi; hễ ai không nghịch cùng ta là thuộc về ta." Nếu Cơ Đốc giáo có quan điểm rộng lớn như vậy, sẽ có sự hiệp nhất trong huyết Chúa và cùng một Thánh Linh.
 
-Mác 2:23-27 kể chuyện các môn đồ bứt bông lúa mì ngày Sa-bát bị kết tội, nhưng Chúa Giê-su dùng câu chuyện Đa-vít ăn bánh thánh để chỉ ra rằng: luật là luật, nhưng có những trường hợp cần đặt lòng thương xót lên trên. Ngài không hề phá bỏ luật pháp, mà dạy chúng ta sự chừng mực — tư tưởng trung dung nằm giữa hai thái cực cứng nhắc và nhu nhược.
+Mác 2:23-27 kể chuyện các môn đồ bứt bông lúa mì ngày Sa-bát bị kết tội, nhưng Đức Chúa Giê-su dùng câu chuyện Đa-vít ăn bánh thánh để chỉ ra rằng: luật là luật, nhưng có những trường hợp cần đặt lòng thương xót lên trên. Ngài không hề phá bỏ luật pháp, mà dạy chúng ta sự chừng mực — tư tưởng trung dung nằm giữa hai thái cực cứng nhắc và nhu nhược.
 
 I Cô-rinh-tô 4:5 dặn: "Chớ xét đoán sớm quá, hãy đợi Chúa đến." Tất cả những gì giấu kín sẽ được phơi bày — ai nấy sẽ bởi Đức Chúa Trời mà lãnh phần mình.
 

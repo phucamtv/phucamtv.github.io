@@ -2,7 +2,7 @@
 title: "Lòng Sùng Kính Và Sự Tôn Trọng | Ma-thi-ơ 5:17-20"
 date: 2023-02-15
 url: /baigiang/long-sung-kinh-va-su-ton-trong/
-description: "Ma-thi-ơ 5:17-20 ghi lại lời xác nhận đặc biệt của Chúa Giê-su về giá trị vĩnh cửu của luật pháp. Bài giảng khám phá nền tảng thật sự của mười điều răn — không phải là vô số quy định truyền khẩu, mà là lòng sùng kính Đức Chúa Trời và sự tôn trọng đồng loại — và lý giải vì sao sự công bình của chúng ta phải trổi hơn người Pha-ri-si."
+description: "Ma-thi-ơ 5:17-20 ghi lại lời xác nhận đặc biệt của Đức Chúa Giê-su về giá trị vĩnh cửu của luật pháp. Bài giảng khám phá nền tảng thật sự của mười điều răn — không phải là vô số quy định truyền khẩu, mà là lòng sùng kính Đức Chúa Trời và sự tôn trọng đồng loại — và lý giải vì sao sự công bình của chúng ta phải trổi hơn người Pha-ri-si."
 tags: ["Ma-thi-ơ", "Bài Giảng Trên Núi", "Luật Pháp", "Mười Điều Răn", "Sùng Kính", "Tôn Trọng", "Công Bình"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,9 +14,9 @@ draft: false
 
 ## Lời Xác Nhận Đặc Biệt Về Luật Pháp
 
-Trong Ma-thi-ơ 5:17-20, Chúa Giê-su đưa ra một trong những tuyên bố quan trọng nhất của loạt Bài Giảng Trên Núi. Nhiều người thời bấy giờ — từ các thầy thông giáo đến người Pha-ri-si và dân chúng — đều nghĩ rằng Ngài đến để phá bỏ luật pháp. Lý do không phải không có cơ sở: Ngài bênh vực các môn đệ khi họ bứt bông lúa mì trong ngày Sa-bát (Mác 2:23-28), và chữa lành người teo tay cũng trong ngày đó (Mác 3:1-6). Mỗi lần như vậy, Ngài đối đầu trực tiếp với những quy định truyền khẩu mà người Do Thái xem là luật pháp.
+Trong Ma-thi-ơ 5:17-20, Đức Chúa Giê-su đưa ra một trong những tuyên bố quan trọng nhất của loạt Bài Giảng Trên Núi. Nhiều người thời bấy giờ — từ các thầy thông giáo đến người Pha-ri-si và dân chúng — đều nghĩ rằng Ngài đến để phá bỏ luật pháp. Lý do không phải không có cơ sở: Ngài bênh vực các môn đệ khi họ bứt bông lúa mì trong ngày Sa-bát (Mác 2:23-28), và chữa lành người teo tay cũng trong ngày đó (Mác 3:1-6). Mỗi lần như vậy, Ngài đối đầu trực tiếp với những quy định truyền khẩu mà người Do Thái xem là luật pháp.
 
-Nhưng Chúa Giê-su khẳng định rõ ràng: *"Ta đến không phải để phá, song để làm cho trọn."*
+Nhưng Đức Chúa Giê-su khẳng định rõ ràng: *"Ta đến không phải để phá, song để làm cho trọn."*
 
 ---
 
@@ -29,7 +29,7 @@ Nhưng Chúa Giê-su khẳng định rõ ràng: *"Ta đến không phải để 
 3. **"Luật pháp và lời tiên tri"** — toàn bộ 39 sách Cựu Ước.
 4. **Luật truyền khẩu** — hàng trăm, thậm chí hàng nghìn quy định do người ta đặt thêm để "giải thích" mười điều răn.
 
-Chúa Giê-su dùng từ "luật pháp" theo nghĩa thứ nhất — mười điều răn thiêng liêng, thánh khiết và vĩnh cửu. Ngài không phủ nhận những điều này; Ngài phủ nhận những quy định truyền khẩu do con người tạo ra đã che lấp nội dung cốt lõi của chúng.
+Đức Chúa Giê-su dùng từ "luật pháp" theo nghĩa thứ nhất — mười điều răn thiêng liêng, thánh khiết và vĩnh cửu. Ngài không phủ nhận những điều này; Ngài phủ nhận những quy định truyền khẩu do con người tạo ra đã che lấp nội dung cốt lõi của chúng.
 
 ---
 
@@ -69,7 +69,7 @@ Câu 19 đặt ra hai tình huống đối lập: ai hủy điều răn và dạ
 
 Câu 20 là lời cảnh cáo mạnh mẽ nhất: *"Nếu sự công bình của các ngươi chẳng trổi hơn sự công bình của các thầy thông giáo và người dòng Pha-ri-si, thì các ngươi chắc không vào nước thiên đàng."*
 
-Đây có vẻ như là một yêu cầu không thể đạt được — người Pha-ri-si vốn nổi tiếng là giữ luật pháp tỉ mỉ đến mức tuyệt đối. Nhưng Chúa Giê-su không nói đến số lượng hay sự tỉ mỉ. Ngài nói đến **chất lượng của sự công bình**.
+Đây có vẻ như là một yêu cầu không thể đạt được — người Pha-ri-si vốn nổi tiếng là giữ luật pháp tỉ mỉ đến mức tuyệt đối. Nhưng Đức Chúa Giê-su không nói đến số lượng hay sự tỉ mỉ. Ngài nói đến **chất lượng của sự công bình**.
 
 Người Pha-ri-si giữ luật pháp để được người khác và chính mình chứng nhận sự công bình — họ sống theo luật vì danh dự, vì lòng kiêu ngạo, vì thỏa mãn cái tôi. Câu chuyện người trẻ giàu có đến hỏi Chúa về sự cứu rỗi là ví dụ điển hình: anh tự hào tuyên bố đã giữ hết mọi điều luật pháp yêu cầu, nhưng khi Chúa bảo bán hết gia tài cho kẻ nghèo, anh không thể làm được — vì tất cả những gì anh làm trước đây đều vì bản thân, không có tình yêu, không có sự nhân từ, không có sự tôn trọng thực sự.
 
@@ -79,6 +79,6 @@ Chúng ta phải *trổi hơn* người Pha-ri-si không phải bằng cách là
 
 ## Sùng Kính Và Tôn Trọng — Chất Liệu Vĩnh Cửu
 
-Chúa Giê-su đến không phải để tiêu diệt luật pháp, mà để chỉ cho người ta thấy thế nào mới là nguyên tắc và căn bản thật sự của luật pháp. Ô-sê 6:6 đã nói từ trước: *"Ta ưa sự nhân từ mà không ưa của lễ, ưa sự nhìn biết Đức Chúa Trời hơn là ưa của lễ thiêu."*
+Đức Chúa Giê-su đến không phải để tiêu diệt luật pháp, mà để chỉ cho người ta thấy thế nào mới là nguyên tắc và căn bản thật sự của luật pháp. Ô-sê 6:6 đã nói từ trước: *"Ta ưa sự nhân từ mà không ưa của lễ, ưa sự nhìn biết Đức Chúa Trời hơn là ưa của lễ thiêu."*
 
 Sự sùng kính và tôn trọng là chất liệu vĩnh cửu trong mối quan hệ với Chúa và với người. Đây không phải là một danh sách việc cần kiểm tra — đây là một thái độ tâm linh, một trạng thái của tâm hồn. Khi lòng sùng kính Đức Chúa Trời thật sự hiện diện, và khi sự tôn trọng đồng loại thật sự được nuôi dưỡng, thì mười điều răn không còn là gánh nặng mà trở thành sự biểu đạt tự nhiên của đời sống tin kính.

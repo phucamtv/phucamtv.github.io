@@ -24,7 +24,7 @@ Công Vụ đoạn 7 câu 54 đến đoạn 8 câu 1 ghi lại cái chết của
 
 Trước khi trút hơi thở, Ê-tiên thốt lên hai lời cầu nguyện giống hệt những gì Đức Chúa Giê-su đã nói trên thập tự giá. Ông quỳ xuống xin Chúa tiếp lấy linh hồn mình, rồi kêu lớn tiếng: "Lạy Chúa, xin đừng đổ tội này cho họ." Ngay sau đó, ông ngủ — Kinh Thánh dùng từ "ngủ" thay cho "chết," vì trong niềm tin Cơ Đốc, cái chết không phải là kết thúc mà là giấc ngủ chờ ngày phục sinh.
 
-Để có thể tha thứ cho kẻ đang hành hình mình — không phải bằng sự giả tạo mà bằng tấm lòng chân thành — đòi hỏi một phẩm chất đạo hạnh phi thường. Điều này cho thấy đời sống thuộc linh của Ê-tiên đã được rèn luyện sâu sắc, đến nỗi trong giây phút đau đớn nhất, ông vẫn phản ứng giống như Đức Thầy của mình là Chúa Giê-su.
+Để có thể tha thứ cho kẻ đang hành hình mình — không phải bằng sự giả tạo mà bằng tấm lòng chân thành — đòi hỏi một phẩm chất đạo hạnh phi thường. Điều này cho thấy đời sống thuộc linh của Ê-tiên đã được rèn luyện sâu sắc, đến nỗi trong giây phút đau đớn nhất, ông vẫn phản ứng giống như Đức Thầy của mình là Đức Chúa Giê-su.
 
 ---
 
@@ -46,7 +46,7 @@ Chữ "tàn hại" trong nguyên ngữ thường được dùng để mô tả m
 
 ## Kế Hoạch Của Đức Chúa Trời Qua Sự Bắt Bớ
 
-Điều kỳ diệu là sự bắt bớ lại trở thành phương tiện để Tin Lành lan rộng. Khi tín đồ tản lạc, họ đi đến đâu thì giảng về Chúa Giê-su đến đó. Nếu còn quy tụ tại Giê-ru-sa-lem, đạo Chúa sẽ chỉ giới hạn trong một nhóm nhỏ. Nhưng nhờ cơn bắt bớ, Tin Lành vươn ra khắp nơi.
+Điều kỳ diệu là sự bắt bớ lại trở thành phương tiện để Tin Lành lan rộng. Khi tín đồ tản lạc, họ đi đến đâu thì giảng về Đức Chúa Giê-su đến đó. Nếu còn quy tụ tại Giê-ru-sa-lem, đạo Chúa sẽ chỉ giới hạn trong một nhóm nhỏ. Nhưng nhờ cơn bắt bớ, Tin Lành vươn ra khắp nơi.
 
 Đoạn 8 trình bày ba sự kiện nối tiếp theo một trật tự có chủ đích: tín đồ tản lạc đi giảng, Phi-líp rao giảng cho người Sa-ma-ri (giống dân lai giữa Do Thái và các dân tộc khác), rồi hoạn quan Ê-thi-ô-bi tin Chúa. Người Sa-ma-ri đóng vai trò như nhịp cầu — họ nói được hai thứ tiếng, sống trong hai nền văn hóa — nối liền thế giới Do Thái thuần túy với thế giới ngoại bang. Đức Chúa Trời đã sắp đặt mọi sự để đạo Ngài từ từ đến được với muôn dân.
 

@@ -32,7 +32,7 @@ Câu trả lời của Chúa không chỉ giải quyết câu hỏi đó, mà c�
 
 Người Sa-đu-sê rơi vào một cái bẫy phổ biến: **họ quá tập trung vào tín lý của giáo phái mình** đến mức không còn khả năng đọc Kinh Thánh với tâm thái khách quan. Họ đã chọn lọc từ Kinh Thánh những gì phù hợp với quan điểm sẵn có, rồi xây dựng lập luận để bảo vệ quan điểm đó.
 
-Đây là tình trạng không chỉ xảy ra vào thời Chúa Giê-su. Ngay cả trong bối cảnh Cơ Đốc ngày nay, mỗi hệ phái, mỗi tổ chức đôi khi bị cám dỗ để ưu tiên tín điều riêng của mình hơn là trở về với lời Đức Chúa Trời. Hệ phái là điều kiện để phục vụ Chúa, không phải là tiêu chuẩn để được phán xét. Tiêu chuẩn phán xét duy nhất là Lời Chúa.
+Đây là tình trạng không chỉ xảy ra vào thời Đức Chúa Giê-su. Ngay cả trong bối cảnh Cơ Đốc ngày nay, mỗi hệ phái, mỗi tổ chức đôi khi bị cám dỗ để ưu tiên tín điều riêng của mình hơn là trở về với lời Đức Chúa Trời. Hệ phái là điều kiện để phục vụ Chúa, không phải là tiêu chuẩn để được phán xét. Tiêu chuẩn phán xét duy nhất là Lời Chúa.
 
 ### Khi Không Giải Thích Được Thì Phủ Nhận
 
@@ -40,7 +40,7 @@ Một lập luận thường gặp của chủ nghĩa vô thần và của ngư�
 
 Nhưng thực tế cho thấy gì? Ngay trong vũ trụ này, ngay trên trái đất này, còn biết bao điều mà khoa học chưa giải thích được — từ những bí ẩn trong lòng đại dương, đến những điều kỳ diệu trong cấu trúc não bộ, đến những hiện tượng trong không gian xa xôi. Vậy mà con người vẫn dùng lý luận "tôi không hiểu được thì không tồn tại" để phủ nhận thực tại của Đức Chúa Trời và của đời sau.
 
-Đó là sự kiêu ngạo — và Chúa Giê-su gọi thẳng đó là *lầm lạc*.
+Đó là sự kiêu ngạo — và Đức Chúa Giê-su gọi thẳng đó là *lầm lạc*.
 
 ---
 
@@ -72,11 +72,11 @@ Nước thiên đàng vượt ngoài mọi sức tưởng tượng. Không có n
 
 ### Lập Luận Từ Xuất Ê-díp-tô Ký
 
-Chúa Giê-su không dừng lại ở việc bác bỏ quan điểm của người Sa-đu-sê, mà còn đưa ra bằng chứng trực tiếp từ chính phần Kinh Thánh mà họ tôn trọng — sách Môi-se. Ngài trích dẫn Xuất Ê-díp-tô Ký 3:6, khi Đức Chúa Trời phán với Môi-se tại bụi gai đang cháy: *"Ta là Đức Chúa Trời của Áp-ra-ham, Đức Chúa Trời của Y-sác, Đức Chúa Trời của Gia-cốp."*
+Đức Chúa Giê-su không dừng lại ở việc bác bỏ quan điểm của người Sa-đu-sê, mà còn đưa ra bằng chứng trực tiếp từ chính phần Kinh Thánh mà họ tôn trọng — sách Môi-se. Ngài trích dẫn Xuất Ê-díp-tô Ký 3:6, khi Đức Chúa Trời phán với Môi-se tại bụi gai đang cháy: *"Ta là Đức Chúa Trời của Áp-ra-ham, Đức Chúa Trời của Y-sác, Đức Chúa Trời của Gia-cốp."*
 
 Lập luận của Chúa rất sắc bén: Khi Đức Chúa Trời phán với Môi-se, Áp-ra-ham, Y-sác và Gia-cốp đã qua đời hàng trăm năm trước. Nhưng Ngài không nói "Ta *đã là* Đức Chúa Trời của họ" — Ngài dùng thì hiện tại. Điều đó có nghĩa là các tổ phụ đó vẫn đang sống — không phải trong thân xác, nhưng trong thực tại.
 
-Kết luận của Chúa Giê-su: *"Ngài không phải là Đức Chúa Trời của kẻ chết, mà là của kẻ sống."* (Mác 12:27)
+Kết luận của Đức Chúa Giê-su: *"Ngài không phải là Đức Chúa Trời của kẻ chết, mà là của kẻ sống."* (Mác 12:27)
 
 Đây là nền tảng không thể bác bỏ: **sự sống lại và đời sau không phải là giáo lý bịa đặt — đó là thực tại được chứng thực bởi chính Đức Chúa Trời.**
 
@@ -93,7 +93,7 @@ Mác 12:28-34 ghi lại một cuộc đối thoại khác: một thầy thông g
 1. **"Hãy hết lòng, hết linh hồn, hết trí khôn, hết sức mà kính mến Chúa là Đức Chúa Trời ngươi."** — Tình yêu hướng lên, dành cho Đức Chúa Trời.
 2. **"Hãy yêu người lân cận như mình."** — Tình yêu hướng ra, dành cho người xung quanh.
 
-Thầy thông giáo đáp lại rằng hai điều này quý hơn mọi tế lễ và của lễ thiêu. Và Chúa Giê-su nhìn nhận: *"Ngươi không xa nước Đức Chúa Trời đâu."*
+Thầy thông giáo đáp lại rằng hai điều này quý hơn mọi tế lễ và của lễ thiêu. Và Đức Chúa Giê-su nhìn nhận: *"Ngươi không xa nước Đức Chúa Trời đâu."*
 
 ### Tình Yêu Là Chìa Khóa
 

@@ -2,7 +2,7 @@
 title: "Người Giàu Ỷ Mình Giàu!"
 date: 2020-05-09
 url: /baigiang/nguoi-giau-y-minh-giau/
-description: "Bài giảng phân tích thái độ của người giàu ỷ mình giàu qua lăng kính Kinh Thánh, từ sự hống hách của người có quyền lực đến sự bất lực của người yếm thế, và trách nhiệm sống khiêm nhường theo gương Chúa Giê-su."
+description: "Bài giảng phân tích thái độ của người giàu ỷ mình giàu qua lăng kính Kinh Thánh, từ sự hống hách của người có quyền lực đến sự bất lực của người yếm thế, và trách nhiệm sống khiêm nhường theo gương Đức Chúa Giê-su."
 tags: ["Người Giàu", "Khiêm Nhường", "Công Bằng", "Đạo Đức"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -16,7 +16,7 @@ draft: false
 
 Ai trong chúng ta cũng mong muốn mình có tiền, có cuộc sống đầy đủ. Khi nhìn những biệt thự nguy nga tráng lệ ở các khu phố giàu, chúng ta không khỏi ao ước. Nhưng khi quay lại nhìn những người đi lượm phế liệu trong các đống rác, ta mới thấy khoảng cách giữa người giàu và người nghèo thật xa vời.
 
-Kinh Thánh không lên án người giàu, nhưng lên án những người cậy vào sự giàu có của mình mà bỏ quên niềm tin nơi Chúa. Giê-rê-mi 9:23 chép rằng Đức Giê-hô-va phán: người khôn chớ khoe sự khôn mình, người mạnh chớ khoe sự mạnh mình, người giàu chớ khoe sự giàu mình. Chúa Giê-su cũng cảnh báo trong Mác 10:24 rằng những kẻ cậy sự giàu có vào nước Đức Chúa Trời khó là dường nào.
+Kinh Thánh không lên án người giàu, nhưng lên án những người cậy vào sự giàu có của mình mà bỏ quên niềm tin nơi Chúa. Giê-rê-mi 9:23 chép rằng Đức Giê-hô-va phán: người khôn chớ khoe sự khôn mình, người mạnh chớ khoe sự mạnh mình, người giàu chớ khoe sự giàu mình. Đức Chúa Giê-su cũng cảnh báo trong Mác 10:24 rằng những kẻ cậy sự giàu có vào nước Đức Chúa Trời khó là dường nào.
 
 Châm-ngôn 28:11 viết rằng người giàu tự nghĩ mình là khôn ngoan, nhưng kẻ nghèo có sự thông sáng dò xét người. Khi đồng tiền có thể thay đổi mọi thứ, con người rất dễ trở nên kiêu ngạo, tự cho mình đúng trong mọi việc. Châm-ngôn 28:20 cũng nhắc nhở: người thành thực sẽ được phước lành nhiều, còn kẻ nào vội làm cho giàu ắt sẽ chẳng khỏi bị phạt.
 
@@ -36,11 +36,11 @@ Nhưng Đức Chúa Trời không bỏ mặc những người cô thế. Thi-thi
 
 Đức Chúa Trời luôn đứng về phía kẻ bị áp bức. Châm-ngôn 15:25 hứa rằng Đức Giê-hô-va sẽ đánh đổ nhà kẻ kiêu ngạo, nhưng Ngài làm vững chắc các mộc giới của kẻ góa bụa.
 
-## Sự Khiêm Nhường Của Chúa Giê-su Và Sứ Điệp Cho Người Nghèo
+## Sự Khiêm Nhường Của Đức Chúa Giê-su Và Sứ Điệp Cho Người Nghèo
 
-Chúa Giê-su là tấm gương tuyệt vời về sự khiêm nhường. Ma-thi-ơ 21:5 mô tả Ngài: vua ngươi đến cùng ngươi, nhu mì, cỡi lừa — không phải cỡi ngựa chiến hay ngồi xe sang trọng. Lu-ca 4:18 ghi lại sứ mạng của Ngài: Thần của Chúa ngự trên ta, vì Ngài đã xức dầu cho ta đặng truyền tin lành cho kẻ nghèo.
+Đức Chúa Giê-su là tấm gương tuyệt vời về sự khiêm nhường. Ma-thi-ơ 21:5 mô tả Ngài: vua ngươi đến cùng ngươi, nhu mì, cỡi lừa — không phải cỡi ngựa chiến hay ngồi xe sang trọng. Lu-ca 4:18 ghi lại sứ mạng của Ngài: Thần của Chúa ngự trên ta, vì Ngài đã xức dầu cho ta đặng truyền tin lành cho kẻ nghèo.
 
-Xuyên suốt lịch sử, khi hàng giáo phẩm trở nên giàu có và xa rời tinh thần phục vụ người nghèo, Hội Thánh đã đi sai lệch khỏi con đường mà Chúa Giê-su đã đi. Sứ điệp của Tin Lành luôn hướng về những người nghèo khổ, bị bỏ rơi, bị áp bức.
+Xuyên suốt lịch sử, khi hàng giáo phẩm trở nên giàu có và xa rời tinh thần phục vụ người nghèo, Hội Thánh đã đi sai lệch khỏi con đường mà Đức Chúa Giê-su đã đi. Sứ điệp của Tin Lành luôn hướng về những người nghèo khổ, bị bỏ rơi, bị áp bức.
 
 ## Trách Nhiệm Của Chúng Ta
 

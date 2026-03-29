@@ -27,7 +27,7 @@ Sau vài giây suy nghĩ trước sự chờ đợi lo lắng của mọi ngư�
 
 ## Sự Hiệp Nhất Mầu Nhiệm
 
-Trong lời cầu nguyện của Chúa Giê-su được ghi lại ở Giăng đoạn 17, chúng ta nhận thấy một sự hiệp nhất sâu sắc giữa Đức Cha, Đức Con và những người tin Ngài. Chúa Giê-su cầu nguyện rằng: "Con đã ban cho họ sự vinh hiển mà Cha đã ban cho Con, để hiệp làm một cũng như chúng ta vẫn là một: Con ở trong họ và Cha ở trong Con, để cho họ toàn vẹn hiệp làm một" (Giăng 17:22-23).
+Trong lời cầu nguyện của Đức Chúa Giê-su được ghi lại ở Giăng đoạn 17, chúng ta nhận thấy một sự hiệp nhất sâu sắc giữa Đức Cha, Đức Con và những người tin Ngài. Đức Chúa Giê-su cầu nguyện rằng: "Con đã ban cho họ sự vinh hiển mà Cha đã ban cho Con, để hiệp làm một cũng như chúng ta vẫn là một: Con ở trong họ và Cha ở trong Con, để cho họ toàn vẹn hiệp làm một" (Giăng 17:22-23).
 
 Thật là một điều mầu nhiệm lớn lao khi loài người tội lỗi được hòa nhập với sự thánh khiết của Đức Chúa Trời. Chính trong sự liên kết thiêng liêng ấy, con người có thể vận dụng được mọi nguồn năng lực từ trời cao để sống và hành động theo ý muốn tốt lành của Ngài. Đây không phải là quyền năng tự có của con người, mà là quyền năng được ban cho qua mối tương giao mật thiết với Đấng Tạo Hóa.
 

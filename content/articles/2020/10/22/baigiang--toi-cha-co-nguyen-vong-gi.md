@@ -2,7 +2,7 @@
 title: "Tôi Chả Có Nguyện Vọng Gì"
 date: 2020-10-22
 url: /baigiang/toi-cha-co-nguyen-vong-gi/
-description: "Bài tĩnh nguyện Chắp Cánh Bay Cao ngày 23.10 - Suy ngẫm về tư tưởng thù ghét và lời dạy của Chúa Giê-su về sự tha thứ qua Ma-thi-ơ 5:21-22."
+description: "Bài tĩnh nguyện Chắp Cánh Bay Cao ngày 23.10 - Suy ngẫm về tư tưởng thù ghét và lời dạy của Đức Chúa Giê-su về sự tha thứ qua Ma-thi-ơ 5:21-22."
 tags: ["Chắp Cánh Bay Cao", "Tha Thứ", "Tình Yêu Thương", "Ma-thi-ơ"]
 authors:
   - duong-quang-thoai
@@ -27,11 +27,11 @@ Câu chuyện tưởng chừng hài hước nhưng ẩn chứa một sự thật
 
 Có lẽ chúng ta sẽ không bao giờ dám ra tay giết người để trả thù. Nhưng khi nghe tin một người mà mình đang căm ghét gặp tai nạn, trong lòng lại dấy lên niềm vui thầm kín. Chúng ta không trực tiếp làm hại kẻ thù, nhưng trong sâu thẳm lại mong cho họ gặp điều xấu. Chúng ta không muốn thấy họ xuất hiện, chỉ muốn họ khuất khỏi tầm mắt mình.
 
-Đây chính là tư tưởng thù ghét mà Lời Chúa đã cảnh báo nghiêm khắc. Theo lời dạy của Chúa Giê-su, tư tưởng thù ghét ngang bằng với tội giết người. Nó chính là cánh cửa mở rộng cho điều dữ xâm nhập vào tâm hồn. Khi chúng ta nuôi dưỡng sự oán giận trong lòng, dù không hành động bằng tay chân, thì tội lỗi đã bắt đầu ngự trị bên trong rồi.
+Đây chính là tư tưởng thù ghét mà Lời Chúa đã cảnh báo nghiêm khắc. Theo lời dạy của Đức Chúa Giê-su, tư tưởng thù ghét ngang bằng với tội giết người. Nó chính là cánh cửa mở rộng cho điều dữ xâm nhập vào tâm hồn. Khi chúng ta nuôi dưỡng sự oán giận trong lòng, dù không hành động bằng tay chân, thì tội lỗi đã bắt đầu ngự trị bên trong rồi.
 
-## Lời Chúa Giê-su Trong Ma-thi-ơ 5:21-22
+## Lời Đức Chúa Giê-su Trong Ma-thi-ơ 5:21-22
 
-Chúa Giê-su đã dạy rằng luật pháp xưa nói rằng chớ giết ai, ai giết người thì đáng bị tòa án xử đoán. Nhưng Ngài nâng tiêu chuẩn lên cao hơn rất nhiều: hễ ai giận anh em mình thì đáng bị tòa án xử đoán, ai mắng anh em mình là đồ ngu thì đáng bị tòa công luận xử đoán, và ai mắng anh em mình là đồ điên thì đáng bị lửa địa ngục hình phạt.
+Đức Chúa Giê-su đã dạy rằng luật pháp xưa nói rằng chớ giết ai, ai giết người thì đáng bị tòa án xử đoán. Nhưng Ngài nâng tiêu chuẩn lên cao hơn rất nhiều: hễ ai giận anh em mình thì đáng bị tòa án xử đoán, ai mắng anh em mình là đồ ngu thì đáng bị tòa công luận xử đoán, và ai mắng anh em mình là đồ điên thì đáng bị lửa địa ngục hình phạt.
 
 Điều này cho thấy Chúa không chỉ xét đoán hành động bên ngoài, mà Ngài nhìn thấu tận tấm lòng bên trong. Một lời mắng nhiếc, một cơn giận dữ, hay thậm chí chỉ là một tư tưởng thù ghét — tất cả đều bị xem là tội trọng trước mặt Đức Chúa Trời. Tiêu chuẩn của Nước Trời không dừng lại ở việc kiềm chế hành vi, mà đòi hỏi sự biến đổi từ bên trong tấm lòng.
 
@@ -41,7 +41,7 @@ Lời Chúa kêu gọi chúng ta loại bỏ mọi ác tưởng ra khỏi tâm t
 
 Tha thứ không có nghĩa là bỏ qua lỗi lầm hay chấp nhận điều sai trái. Tha thứ là giải phóng chính mình khỏi gánh nặng của sự căm ghét. Khi chúng ta ôm giữ lòng thù hận, chính chúng ta mới là người chịu khổ nhiều nhất. Sự oán giận giống như chất độc mà ta uống vào nhưng lại mong người khác chết.
 
-Chúa Giê-su không chỉ dạy về sự tha thứ bằng lời nói, mà chính Ngài đã làm gương khi trên thập tự giá vẫn cầu nguyện cho những kẻ đóng đinh mình. Đó là tiêu chuẩn cao nhất của tình yêu thương mà mỗi người theo Chúa được kêu gọi hướng tới.
+Đức Chúa Giê-su không chỉ dạy về sự tha thứ bằng lời nói, mà chính Ngài đã làm gương khi trên thập tự giá vẫn cầu nguyện cho những kẻ đóng đinh mình. Đó là tiêu chuẩn cao nhất của tình yêu thương mà mỗi người theo Chúa được kêu gọi hướng tới.
 
 ## Lời Kết
 

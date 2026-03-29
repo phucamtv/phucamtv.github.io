@@ -34,17 +34,17 @@ Hê-bơ-rơ 11:1-3 khẳng định rằng toàn bộ vũ trụ được tạo ra
 
 Không chỉ tạo dựng mọi vật, Chúa còn có quyền năng phục hồi, tái tạo những gì đã hư hoại hoặc đã chết.
 
-Trong Giăng 11:43, khi La-xa-rơ đã chết và được chôn ba ngày, mùi hôi thối đã lan ra — nhưng Chúa Giê-su kêu lên: *"Hỡi La-xa-rơ, hãy ra!"* Và người chết bước ra, được phục hồi hoàn toàn.
+Trong Giăng 11:43, khi La-xa-rơ đã chết và được chôn ba ngày, mùi hôi thối đã lan ra — nhưng Đức Chúa Giê-su kêu lên: *"Hỡi La-xa-rơ, hãy ra!"* Và người chết bước ra, được phục hồi hoàn toàn.
 
-Trong Giăng 5:8, người đàn ông bại liệt hơn 30 năm bên hồ Bê-thê-sê-đa không có sức lực để đứng lên. Chúa Giê-su phán: *"Hãy đứng dậy, vác giường ngươi mà đi."* Ngay lập tức xương và cơ bắp ông được phục hồi — ông đứng dậy và đi.
+Trong Giăng 5:8, người đàn ông bại liệt hơn 30 năm bên hồ Bê-thê-sê-đa không có sức lực để đứng lên. Đức Chúa Giê-su phán: *"Hãy đứng dậy, vác giường ngươi mà đi."* Ngay lập tức xương và cơ bắp ông được phục hồi — ông đứng dậy và đi.
 
 Đây không phải là sức mạnh tự nhiên của con người. Chỉ Đấng đã tạo dựng mới có quyền tái tạo.
 
 ### 3. Lời Chúa Có Quyền Trên Thiên Nhiên
 
-Mác 4:39 ghi lại khi Chúa Giê-su thức dậy và quở gió, phán với biển: *"Hãy êm đi, lặng đi!"* Gió lặng yên và biển yên tĩnh như tờ. Các sứ đồ kinh ngạc hỏi nhau: *"Ngài là ai mà cả gió lẫn biển đều vâng lời?"*
+Mác 4:39 ghi lại khi Đức Chúa Giê-su thức dậy và quở gió, phán với biển: *"Hãy êm đi, lặng đi!"* Gió lặng yên và biển yên tĩnh như tờ. Các sứ đồ kinh ngạc hỏi nhau: *"Ngài là ai mà cả gió lẫn biển đều vâng lời?"*
 
-Trong Ma-thi-ơ 11:14,21, Chúa Giê-su phán với cây vả và điều đó đã xảy ra y như lời Ngài phán. Phi-e-rơ nhớ lại và ngạc nhiên trước quyền năng đó.
+Trong Ma-thi-ơ 11:14,21, Đức Chúa Giê-su phán với cây vả và điều đó đã xảy ra y như lời Ngài phán. Phi-e-rơ nhớ lại và ngạc nhiên trước quyền năng đó.
 
 Tất cả những người lãnh đạo trên thế giới có thể có quyền trên nhiều điều, nhưng không ai có quyền trên thiên nhiên. Chỉ Đức Chúa Trời mới có toàn quyền trên tạo vật của Ngài.
 
@@ -60,7 +60,7 @@ Muốn có đức tin lớn mạnh hơn? Muốn sống mạnh mẽ hơn về thu
 
 > *"Ta để sự bình an lại cho các ngươi; ta ban cho các ngươi sự bình an của ta. Ta cho các ngươi sự bình an chẳng phải như thế gian cho. Lòng các ngươi chớ hề bối rối và đừng sợ hãi."* (Giăng 14:27)
 
-Biết bao hội nghị, thỏa thuận, và nỗ lực ngoại giao đã được thực hiện để tìm kiếm hòa bình trên thế giới — nhưng thế giới vẫn không có sự bình an thật sự. Tại sao? Vì chỉ có Chúa Giê-su mới có thể ban sự bình an thật vào trong lòng mỗi người.
+Biết bao hội nghị, thỏa thuận, và nỗ lực ngoại giao đã được thực hiện để tìm kiếm hòa bình trên thế giới — nhưng thế giới vẫn không có sự bình an thật sự. Tại sao? Vì chỉ có Đức Chúa Giê-su mới có thể ban sự bình an thật vào trong lòng mỗi người.
 
 Sự bình an đó — loại bình an mà thế gian không thể cho — là điều những người tin Chúa và chịu báp-têm được trải nghiệm. Đó là điều khó giải thích bằng lời nhưng có thể cảm nhận được sâu trong tâm hồn.
 

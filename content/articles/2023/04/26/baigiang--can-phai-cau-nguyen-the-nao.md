@@ -2,7 +2,7 @@
 title: "Cần Phải Cầu Nguyện Thế Nào?"
 date: 2023-04-26
 url: /baigiang/can-phai-cau-nguyen-the-nao/
-description: "Bài giảng từ Ma-thi-ơ 6:9-13 về bài cầu nguyện chung mà Chúa Giê-su dạy các môn đồ - nền tảng của sự cầu nguyện, ý nghĩa của việc gọi Đức Chúa Trời là Cha, và cách đặt Ngài ở vị trí xứng đáng trong đời sống."
+description: "Bài giảng từ Ma-thi-ơ 6:9-13 về bài cầu nguyện chung mà Đức Chúa Giê-su dạy các môn đồ - nền tảng của sự cầu nguyện, ý nghĩa của việc gọi Đức Chúa Trời là Cha, và cách đặt Ngài ở vị trí xứng đáng trong đời sống."
 tags: ["Bài Cầu Nguyện Chung", "Ma-thi-ơ", "Cầu Nguyện", "Đức Chúa Trời", "Đời Sống Tín Hữu"]
 authors:
   - duong-quang-thoai
@@ -33,7 +33,7 @@ Chữ "Cha" trong lời cầu nguyện mang một giá trị vô cùng lớn lao
 
 **Thứ nhất, giải quyết mối liên hệ với thế giới và các niềm tin khác.** Thế giới có vô số thần thánh do con người tưởng tượng và miêu tả: thần sấm, thần biển, thần núi, thần sông. Mỗi nền văn hóa dựng nên những câu chuyện thần thoại riêng. Nhưng Đức Chúa Trời của chúng ta không phải là một vị thần do con người tạo nên. Ngài là Đấng Tự Hữu Hằng Hữu. Và gần như không có tôn giáo nào gọi thần thánh của mình là "Cha" — đây là một sự khác biệt rất lớn.
 
-**Thứ hai, giải quyết mối liên hệ với đồng loại.** Chúa Giê-su không dùng "Cha của con" mà dùng "Cha chúng con." Khi tất cả cùng gọi Đức Chúa Trời là Cha, thì mọi người đều là anh em, bất kể thân phận, hoàn cảnh, giàu nghèo hay trình độ học vấn. Lời cầu nguyện này kéo nhân loại đến gần nhau hơn, không có bóng dáng của sự ích kỷ.
+**Thứ hai, giải quyết mối liên hệ với đồng loại.** Đức Chúa Giê-su không dùng "Cha của con" mà dùng "Cha chúng con." Khi tất cả cùng gọi Đức Chúa Trời là Cha, thì mọi người đều là anh em, bất kể thân phận, hoàn cảnh, giàu nghèo hay trình độ học vấn. Lời cầu nguyện này kéo nhân loại đến gần nhau hơn, không có bóng dáng của sự ích kỷ.
 
 **Thứ ba, giải quyết mối liên hệ với chính mình.** Dù ở trong thân phận hay hoàn cảnh nào — nghèo khổ, mồ côi, bị ruồng bỏ — khi biết mình có một Cha trên trời, người ấy sẽ vượt lên trên mọi mặc cảm và nghịch cảnh. Nhiều người sống trong trầm cảm và tuyệt vọng vì không tìm được chỗ dựa. Nhưng nhận thức rằng mình có một Cha yêu thương và quyền năng sẽ thay đổi hoàn toàn cách chúng ta đối diện với cuộc sống.
 

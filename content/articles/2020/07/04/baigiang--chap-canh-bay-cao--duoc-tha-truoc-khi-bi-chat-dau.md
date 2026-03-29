@@ -26,7 +26,7 @@ Hồi tháng 10 năm 1999, tại thành phố khác, một tử tội 70 tuổi 
 
 Đây là một trong những niềm sung sướng lớn nhất của con người — đó là được tha thứ. Khi áp lực của sự mặc cảm tội lỗi còn đè nặng, khi nỗi day dứt về những việc làm sai trái còn giằng xé, thì tâm hồn chúng ta không thể nào hưởng được sự bình an.
 
-Điều trước hết mà chúng ta nhận được qua sự chết của Chúa Cứu Thế, đó là một tâm hồn thanh thản khi biết chắc tội lỗi mình đã được tẩy xóa. Giống như tử tội tại pháp trường Riyadh, chúng ta cũng đang ở trong tình trạng bị kết án. Bản án tử hình đã được tuyên. Đao phủ đã sẵn sàng. Nhưng có một tiếng hét vang lên — tiếng của Đức Chúa Trời — tuyên bố rằng chúng ta được tha bổng, không phải vì chúng ta xứng đáng, mà vì Chúa Giê-xu đã chịu chết thay.
+Điều trước hết mà chúng ta nhận được qua sự chết của Chúa Cứu Thế, đó là một tâm hồn thanh thản khi biết chắc tội lỗi mình đã được tẩy xóa. Giống như tử tội tại pháp trường Riyadh, chúng ta cũng đang ở trong tình trạng bị kết án. Bản án tử hình đã được tuyên. Đao phủ đã sẵn sàng. Nhưng có một tiếng hét vang lên — tiếng của Đức Chúa Trời — tuyên bố rằng chúng ta được tha bổng, không phải vì chúng ta xứng đáng, mà vì Đức Chúa Giê-su đã chịu chết thay.
 
 Hơn cả luật Hồi giáo cho phép gia đình nạn nhân tha thứ, Đức Chúa Trời — Đấng mà tội lỗi chúng ta đã xúc phạm — chính Ngài đã chủ động tha thứ cho chúng ta, hoàn toàn vô điều kiện. Chúng ta không phải trả một số tiền chuộc mạng nào, vì giá chuộc đã được trả trọn vẹn trên thập tự giá.
 

@@ -1,7 +1,7 @@
 ---
 title: "Nếu lỗi lầm không được tha thứ?"
 date: 2016-07-02
-tags: ["Sự Tha Thứ", "Tội Lỗi", "Sự Cứu Rỗi", "Chúa Giê-su", "Tình Yêu Thương"]
+tags: ["Sự Tha Thứ", "Tội Lỗi", "Sự Cứu Rỗi", "Đức Chúa Giê-su", "Tình Yêu Thương"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["auzbbcXrrcY"]
