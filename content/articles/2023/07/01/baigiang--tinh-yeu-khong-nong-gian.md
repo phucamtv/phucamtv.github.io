@@ -2,7 +2,7 @@
 title: "Tình Yêu Không Nóng Giận"
 date: 2023-07-01
 url: /baigiang/tinh-yeu-khong-nong-gian/
-description: "Bài truyền giảng tháng 7/2023 tại Hội Thánh Cơ Đốc Phục Lâm Cần Thơ — suy gẫm về tình yêu thương và sự nóng giận qua I Cô-rinh-tô 13: nóng giận không phải là tội lỗi, nhưng không kiềm chế được cơn giận sẽ dẫn đến những hậu quả nghiêm trọng. Chỉ có tình yêu thương mới có thể hóa giải được cơn giận."
+description: "Bài truyền giảng tháng 7/2023 tại Hội Thánh Cơ-đốc Phục Lâm Cần Thơ — suy gẫm về tình yêu thương và sự nóng giận qua I Cô-rinh-tô 13: nóng giận không phải là tội lỗi, nhưng không kiềm chế được cơn giận sẽ dẫn đến những hậu quả nghiêm trọng. Chỉ có tình yêu thương mới có thể hóa giải được cơn giận."
 tags: ["Tình Yêu Thương", "Nóng Giận", "Kiềm Chế", "I Cô-rinh-tô 13", "Gia Đình", "Đời Sống"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]

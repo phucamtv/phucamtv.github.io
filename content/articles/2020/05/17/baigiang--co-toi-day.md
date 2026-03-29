@@ -14,7 +14,7 @@ draft: false
 
 ## Câu Chuyện Của Cậu Bé Jimmy Rogers
 
-Gia đình Rogers có một thói quen tốt đẹp: mỗi tối, cả nhà cùng nhau nhóm cầu nguyện. Người cha trong gia đình thường đặt ra những câu hỏi để trắc nghiệm xem con cái hiểu thế nào về Lời Chúa. Đây là một nếp sống đáng quý mà nhiều gia đình Cơ Đốc nên noi theo — dạy con cái từ nhỏ biết về Kinh Thánh và sống theo lẽ thật.
+Gia đình Rogers có một thói quen tốt đẹp: mỗi tối, cả nhà cùng nhau nhóm cầu nguyện. Người cha trong gia đình thường đặt ra những câu hỏi để trắc nghiệm xem con cái hiểu thế nào về Lời Chúa. Đây là một nếp sống đáng quý mà nhiều gia đình Cơ-đốc nên noi theo — dạy con cái từ nhỏ biết về Kinh Thánh và sống theo lẽ thật.
 
 Một hôm, cậu bé Jimmy, mới bảy tuổi, được hỏi về ngày Chúa tái lâm. Với sự hồn nhiên của trẻ thơ, Jimmy diễn tả rằng trong ngày ấy, một thiên sứ sẽ mở sổ và đọc tên từng người. Khi gọi đến ông bố Rogers, cha sẽ đáp "Có tôi đây!" Rồi đến bà Rogers, mẹ cũng đáp "Có tôi đây!" Lần lượt các anh chị em trong nhà cũng trả lời tương tự.
 
@@ -30,7 +30,7 @@ Chỉ là một câu nói ngắn ngủi, nhưng đó lại là lời an ủi l�
 
 ## Sự Khác Biệt Của Niềm Tin Phục Sinh
 
-Chúng ta không tránh khỏi những cuộc chia tay đầy nước mắt. Sự mất mát người thân là nỗi đau chung của nhân loại, không phân biệt giàu nghèo, sang hèn. Nhưng điểm khác biệt rất lớn giữa Cơ Đốc giáo và các niềm tin khác chính là sự sống lại.
+Chúng ta không tránh khỏi những cuộc chia tay đầy nước mắt. Sự mất mát người thân là nỗi đau chung của nhân loại, không phân biệt giàu nghèo, sang hèn. Nhưng điểm khác biệt rất lớn giữa Cơ-đốc giáo và các niềm tin khác chính là sự sống lại.
 
 Đức tin vào sự phục sinh không phải là một lý thuyết xa vời. Nó có ảnh hưởng vô cùng lớn lao đối với cuộc sống thực tế của mỗi người tin Chúa. Khi biết rằng sự chết không phải là kết thúc, mà là cánh cửa dẫn đến sự sống đời đời, chúng ta có thể đối diện với mọi hoàn cảnh bằng một thái độ khác hẳn.
 

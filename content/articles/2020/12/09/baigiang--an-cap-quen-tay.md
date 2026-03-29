@@ -27,7 +27,7 @@ Câu chuyện ngắn nhưng hàm chứa một sự thật đáng suy ngẫm: khi
 
 Trộm cắp không chỉ là vấn đề pháp lý hay đạo đức xã hội. Đây là một trong những lỗi lầm nghiêm trọng đã được đưa vào bản luật pháp của Đức Chúa Trời — điều răn thứ tám rõ ràng ghi: "Ngươi chớ trộm cắp." Không một xã hội nào chấp nhận sự trộm cắp, thậm chí nhiều quốc gia xử tội này rất nặng. Huống chi, trước mắt Đức Chúa Trời — Đấng thấu suốt mọi điều kín giấu — tội trộm cắp càng không thể biện hộ.
 
-Là một Cơ Đốc nhân, ý tưởng trộm cắp phải bị loại bỏ vĩnh viễn khỏi tâm trí. Kẻ trộm cắp thường bắt nguồn từ hai nguyên nhân chính: lòng tham lam và sự lười biếng. Cả hai đều là những tội lỗi mà Kinh Thánh kêu gọi người tin Chúa phải từ bỏ.
+Là một Cơ-đốc nhân, ý tưởng trộm cắp phải bị loại bỏ vĩnh viễn khỏi tâm trí. Kẻ trộm cắp thường bắt nguồn từ hai nguyên nhân chính: lòng tham lam và sự lười biếng. Cả hai đều là những tội lỗi mà Kinh Thánh kêu gọi người tin Chúa phải từ bỏ.
 
 ## Trộm Cắp Mang Nhiều Hình Thức
 

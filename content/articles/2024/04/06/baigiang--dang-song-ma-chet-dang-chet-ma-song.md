@@ -38,7 +38,7 @@ Nhưng không chỉ riêng những người phản loạn — tất cả chúng 
 
 Ê-phê-sô 2:5 khẳng định: đang khi chúng ta chết vì tội mình thì Ngài làm cho chúng ta sống với Đấng Christ. Đây là sự thật mới mà Chúa Cứu Thế đem đến — dù đang chết, chúng ta có niềm hy vọng được sống.
 
-Điểm khác biệt lớn nhất của Cơ Đốc giáo so với mọi tôn giáo khác nằm ở chỗ: Đấng chúng ta tôn thờ đã chết và đã sống lại. Các tôn giáo khác cho rằng thân xác không có giá trị vì có thuyết luân hồi, nhưng Kinh Thánh dạy rằng sự sống lại trong thân xác là điều kỳ diệu và là nền tảng của đức tin. Sứ đồ Phao-lô lập luận rõ ràng trong I Cô-rinh-tô 15: nếu Đấng Christ không sống lại thì sự giảng dạy ra luống công, đức tin trở nên vô ích, và chúng ta là những kẻ khốn nạn hơn hết mọi người.
+Điểm khác biệt lớn nhất của Cơ-đốc giáo so với mọi tôn giáo khác nằm ở chỗ: Đấng chúng ta tôn thờ đã chết và đã sống lại. Các tôn giáo khác cho rằng thân xác không có giá trị vì có thuyết luân hồi, nhưng Kinh Thánh dạy rằng sự sống lại trong thân xác là điều kỳ diệu và là nền tảng của đức tin. Sứ đồ Phao-lô lập luận rõ ràng trong I Cô-rinh-tô 15: nếu Đấng Christ không sống lại thì sự giảng dạy ra luống công, đức tin trở nên vô ích, và chúng ta là những kẻ khốn nạn hơn hết mọi người.
 
 ### Sự Sống Lại Phải Tác Động Đến Chúng Ta
 

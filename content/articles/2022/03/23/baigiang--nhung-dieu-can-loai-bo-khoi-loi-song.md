@@ -2,8 +2,8 @@
 title: "Những Điều Cần Loại Bỏ Khỏi Lối Sống"
 date: 2022-03-23
 url: /baigiang/nhung-dieu-can-loai-bo-khoi-loi-song/
-description: "Mục sư Dương Quang Thoại giảng giải Ê-phê-sô 4:25-32 về sáu điều cần loại bỏ khỏi lối sống Cơ Đốc nhân — từ sự nói dối, cơn giận không kiểm soát, thói trộm cắp, lời nói độc địa, đến việc làm buồn Đức Thánh Linh — và thay thế bằng sự nhân từ, thương xót, tha thứ nhau trong Đấng Christ."
-tags: ["Nếp Sống Cơ Đốc", "Ê-phê-sô", "Thánh Linh"]
+description: "Mục sư Dương Quang Thoại giảng giải Ê-phê-sô 4:25-32 về sáu điều cần loại bỏ khỏi lối sống Cơ-đốc nhân — từ sự nói dối, cơn giận không kiểm soát, thói trộm cắp, lời nói độc địa, đến việc làm buồn Đức Thánh Linh — và thay thế bằng sự nhân từ, thương xót, tha thứ nhau trong Đấng Christ."
+tags: ["Nếp Sống Cơ-đốc", "Ê-phê-sô", "Thánh Linh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["O4K4eu6pKWQ"]
@@ -26,7 +26,7 @@ Sự nói dối giống như một con thú dữ khi còn nhỏ trông rất đ�
 
 Phao-lô không nói rằng nóng giận là tội lỗi. Chính Đức Chúa Trời cũng nổi giận trước tội lỗi của con người, và Đức Chúa Giê-su đã lật bàn đuổi kẻ buôn bán trong đền thờ. Cơn giận là cảm xúc tự nhiên, có những cơn giận chính đáng. Nhưng vấn đề nằm ở chỗ: khi nóng giận, con người dễ có hành động vượt ngoài tầm kiểm soát, dễ sai lầm trong phán đoán dẫn đến sai lầm trong hành vi — giống như Ca-in đã giết em mình là A-bên vì không kiểm soát được cơn ghen tức.
 
-Phao-lô dặn đừng để cơn giận kéo dài qua đêm. Khi nuôi cơn giận, nó sẽ lớn lên, trở nên nguy hiểm. Mục sư kể một vụ án thật: hai gia đình cãi nhau vì chuyện trẻ con, tối đó ai về nhà nấy, một bên quên ngủ ngon, bên kia nằm nghĩ suốt đêm không ngủ được — rồi sáng hôm sau cầm dao sang đâm người. Cơn giận qua đêm đã biến thành án mạng. Cơ Đốc nhân cần tin rằng sự trả thù thuộc về Chúa, Ngài sẽ đối xử công bằng với mọi người, có thể sớm hoặc muộn.
+Phao-lô dặn đừng để cơn giận kéo dài qua đêm. Khi nuôi cơn giận, nó sẽ lớn lên, trở nên nguy hiểm. Mục sư kể một vụ án thật: hai gia đình cãi nhau vì chuyện trẻ con, tối đó ai về nhà nấy, một bên quên ngủ ngon, bên kia nằm nghĩ suốt đêm không ngủ được — rồi sáng hôm sau cầm dao sang đâm người. Cơn giận qua đêm đã biến thành án mạng. Cơ-đốc nhân cần tin rằng sự trả thù thuộc về Chúa, Ngài sẽ đối xử công bằng với mọi người, có thể sớm hoặc muộn.
 
 ## Đừng Trộm Cắp — Hãy Lao Động Lương Thiện
 
@@ -48,4 +48,4 @@ Giữa những điều thực tế về hành vi và lời nói, Phao-lô chợt
 
 Điều cuối cùng, Phao-lô gom lại tất cả những cảm xúc tiêu cực: cay đắng, buồn giận, tức mình, kêu rêu, mắng nhiếc, cùng mọi điều hung ác. Cảm xúc chính là động lực mạnh nhất thúc đẩy con người đến hành động — cả yêu thương lẫn tội ác. Và khi loại bỏ những cảm xúc xấu xa, phải lấp đầy bằng điều tốt lành, nếu không thì giống như ngôi nhà bị quỷ ra đi nhưng để trống — bảy con quỷ khác sẽ kéo vào và tình trạng còn tệ hơn trước.
 
-Phao-lô kết thúc bằng phương châm sống cho Cơ Đốc nhân: hãy ở với nhau cách nhân từ, đầy dẫy lòng thương xót, tha thứ nhau như Đức Chúa Trời đã tha thứ chúng ta trong Đấng Christ. Đó không chỉ là điều thay thế cho sự cay đắng, mà là nền tảng cho toàn bộ lối sống mới mà Phao-lô kêu gọi — cởi bỏ người cũ, mặc lấy người mới.
+Phao-lô kết thúc bằng phương châm sống cho Cơ-đốc nhân: hãy ở với nhau cách nhân từ, đầy dẫy lòng thương xót, tha thứ nhau như Đức Chúa Trời đã tha thứ chúng ta trong Đấng Christ. Đó không chỉ là điều thay thế cho sự cay đắng, mà là nền tảng cho toàn bộ lối sống mới mà Phao-lô kêu gọi — cởi bỏ người cũ, mặc lấy người mới.

@@ -14,7 +14,7 @@ draft: false
 
 ## Nước Thiên Đàng — Kho Báu Được Chôn Giấu
 
-Trong Ma-thi-ơ 13:44, Đức Chúa Giê-su kể một ẩn dụ ngắn gọn nhưng đầy quyền năng: *"Vương quốc Thiên Đàng ví như kho báu chôn giấu trong một đồng ruộng; một người kia tìm được thì giấu đi, vui mừng đem bán mọi thứ mình có để mua đồng ruộng ấy."* Chỉ một câu Kinh Thánh duy nhất, nhưng ẩn chứa bên trong là toàn bộ ý nghĩa thật sự của cuộc đời mỗi Cơ Đốc nhân.
+Trong Ma-thi-ơ 13:44, Đức Chúa Giê-su kể một ẩn dụ ngắn gọn nhưng đầy quyền năng: *"Vương quốc Thiên Đàng ví như kho báu chôn giấu trong một đồng ruộng; một người kia tìm được thì giấu đi, vui mừng đem bán mọi thứ mình có để mua đồng ruộng ấy."* Chỉ một câu Kinh Thánh duy nhất, nhưng ẩn chứa bên trong là toàn bộ ý nghĩa thật sự của cuộc đời mỗi Cơ-đốc nhân.
 
 Trong thời Đức Chúa Giê-su, việc chôn giấu tài sản dưới đất ruộng là chuyện thường xảy ra. Thời loạn lạc, không có ngân hàng, người ta giấu của cải trong đồng ruộng, khe núi hay rừng sâu, rồi đánh dấu để quay lại sau chiến tranh. Nhiều người đã chết trước khi lấy lại được tài sản, để rồi kho báu ấy nằm đó chờ một người tình cờ phát hiện.
 
@@ -26,9 +26,9 @@ Câu hỏi đặt ra cho mỗi chúng ta: Chúng ta có thật sự xem nước 
 
 Một kho báu thật sự thì không bao giờ nằm ngoài mặt đất cho ai cũng nhìn thấy. Nó phải được ẩn giấu, và người muốn có nó phải nỗ lực tìm kiếm. Nước Thiên Đàng cũng vậy — tuy được mời gọi cho mọi người, nhưng không phải ai cũng sẵn lòng đào sâu để tìm.
 
-Kho báu được chôn trong đồng ruộng — một nơi rất bình thường. Đâu đâu cũng có ruộng, ruộng nào trông cũng giống ruộng. Bên ngoài nhìn vào, mọi đám ruộng đều như nhau. Nhưng sự khác biệt nằm ở bên dưới, ở chỗ không ai nhìn thấy. Đời sống Cơ Đốc nhân cũng thế — giá trị thật không nằm ở vẻ bề ngoài mà ở bên trong, trước mặt Đức Chúa Trời.
+Kho báu được chôn trong đồng ruộng — một nơi rất bình thường. Đâu đâu cũng có ruộng, ruộng nào trông cũng giống ruộng. Bên ngoài nhìn vào, mọi đám ruộng đều như nhau. Nhưng sự khác biệt nằm ở bên dưới, ở chỗ không ai nhìn thấy. Đời sống Cơ-đốc nhân cũng thế — giá trị thật không nằm ở vẻ bề ngoài mà ở bên trong, trước mặt Đức Chúa Trời.
 
-Đức Chúa Giê-su từng dạy các môn đệ hãy sống âm thầm: cầu nguyện trong phòng kín, dâng hiến cách kín đáo, kiêng ăn mà mặt vẫn tươi vui. Cuộc sống Cơ Đốc nhân là cuộc sống âm thầm với Chúa, và cái quý báu nhất là phần ẩn giấu bên trong, giống như kho báu giữa đám ruộng bình thường.
+Đức Chúa Giê-su từng dạy các môn đệ hãy sống âm thầm: cầu nguyện trong phòng kín, dâng hiến cách kín đáo, kiêng ăn mà mặt vẫn tươi vui. Cuộc sống Cơ-đốc nhân là cuộc sống âm thầm với Chúa, và cái quý báu nhất là phần ẩn giấu bên trong, giống như kho báu giữa đám ruộng bình thường.
 
 ---
 

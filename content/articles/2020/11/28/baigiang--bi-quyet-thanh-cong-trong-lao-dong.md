@@ -2,8 +2,8 @@
 title: "Bí Quyết Thành Công Trong Lao Động"
 date: 2020-11-28
 url: /baigiang/bi-quyet-thanh-cong-trong-lao-dong/
-description: "Bài giảng trình bày 7 nguyên tắc từ Kinh Thánh giúp Cơ Đốc nhân đạt được thành công trong lao động và mọi lĩnh vực đời sống."
-tags: ["Lao Động", "Thành Công", "Cầu Nguyện", "Tiết Độ", "Cơ Đốc nhân", "Đời Sống"]
+description: "Bài giảng trình bày 7 nguyên tắc từ Kinh Thánh giúp Cơ-đốc nhân đạt được thành công trong lao động và mọi lĩnh vực đời sống."
+tags: ["Lao Động", "Thành Công", "Cầu Nguyện", "Tiết Độ", "Cơ-đốc nhân", "Đời Sống"]
 authors:
   - "duong-quang-thoai"
 plugins:
@@ -17,7 +17,7 @@ draft: false
 
 Kinh Thánh cho chúng ta thấy rằng Đức Chúa Trời muốn con cái Ngài được giàu có, sung túc -- nhưng sự giàu có ấy phải đến từ sự lương thiện và lòng hướng về nước Chúa. Ngay từ khi chưa phạm tội, Chúa đã muốn con người lao động. Sáng Thế Ký 2:15 chép rằng Giê-hô-va Đức Chúa Trời đem người vào vườn Ê-đen để trồng và giữ vườn. Khi ấy, lao động là sự hưởng thụ. Nhưng sau khi phạm tội, lao động trở nên cực nhọc (Sáng Thế Ký 3:19).
 
-Kinh Thánh lên án sự lười biếng và kêu gọi mỗi Cơ Đốc nhân phải lao động để nuôi bản thân, nuôi gia đình, và có dư để giúp đỡ người nghèo khó. Từ Kinh Thánh, có bảy nguyên tắc giúp chúng ta thành công trong lao động.
+Kinh Thánh lên án sự lười biếng và kêu gọi mỗi Cơ-đốc nhân phải lao động để nuôi bản thân, nuôi gia đình, và có dư để giúp đỡ người nghèo khó. Từ Kinh Thánh, có bảy nguyên tắc giúp chúng ta thành công trong lao động.
 
 ## 1. Phải cầu nguyện
 

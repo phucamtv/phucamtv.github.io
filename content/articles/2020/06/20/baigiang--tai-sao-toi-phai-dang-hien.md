@@ -2,8 +2,8 @@
 title: "Tại Sao Tôi Phải Dâng Hiến?"
 date: 2020-06-20
 url: /baigiang/tai-sao-toi-phai-dang-hien/
-description: "Bài giảng giải đáp câu hỏi tại sao Cơ Đốc nhân phải dâng hiến, phân biệt giữa của dâng lạc ý và thuế một phần mười theo lời Kinh Thánh dạy."
-tags: ["Dâng Hiến", "Một Phần Mười", "Phần Mười", "Tài Chính", "Thánh Kinh", "Cơ Đốc nhân"]
+description: "Bài giảng giải đáp câu hỏi tại sao Cơ-đốc nhân phải dâng hiến, phân biệt giữa của dâng lạc ý và thuế một phần mười theo lời Kinh Thánh dạy."
+tags: ["Dâng Hiến", "Một Phần Mười", "Phần Mười", "Tài Chính", "Thánh Kinh", "Cơ-đốc nhân"]
 authors:
   - duong-quang-thoai
 plugins:
@@ -17,7 +17,7 @@ draft: false
 
 ## Đặt Vấn Đề Về Sự Dâng Hiến
 
-Trong đời sống đức tin, sự dâng hiến là một đề tài mà nhiều người tin Chúa cảm thấy e ngại khi nhắc đến. Nhiều mục sư cũng rất ngại kêu gọi dâng hiến vì sợ tín đồ nghĩ rằng mình chỉ chú trọng vấn đề tiền bạc. Tuy nhiên, sự dâng hiến là một phần quan trọng trong lời dạy của Kinh Thánh mà mỗi Cơ Đốc nhân cần tìm hiểu và thực hành.
+Trong đời sống đức tin, sự dâng hiến là một đề tài mà nhiều người tin Chúa cảm thấy e ngại khi nhắc đến. Nhiều mục sư cũng rất ngại kêu gọi dâng hiến vì sợ tín đồ nghĩ rằng mình chỉ chú trọng vấn đề tiền bạc. Tuy nhiên, sự dâng hiến là một phần quan trọng trong lời dạy của Kinh Thánh mà mỗi Cơ-đốc nhân cần tìm hiểu và thực hành.
 
 Mục sư Dương Quang Thoại chia sẻ rằng ông nhận được nhiều yêu cầu từ các tín hữu mong muốn tìm hiểu Kinh Thánh dạy gì về sự dâng hiến. Điều đáng quý là tinh thần của những người này không phải vì bị ép buộc, mà vì lòng khao khát muốn biết ý muốn của Đức Chúa Trời để làm theo. Bài giảng được chia thành ba phần chính: lý do phải dâng cho Chúa, của dâng lạc ý (tự nguyện), và thuế một phần mười.
 
@@ -51,6 +51,6 @@ Ma-la-chi 3:8-10 ghi lại lời Chúa hỏi dân sự rằng người ta có n�
 
 ## Tinh Thần Đúng Đắn Trong Sự Dâng Hiến
 
-Điều cốt lõi mà bài giảng muốn nhấn mạnh không phải là vấn đề tài chính của riêng ai, mà là ý muốn của Đức Chúa Trời trên đời sống Cơ Đốc nhân. Sự dâng hiến không phải là gánh nặng hay nghĩa vụ mang tính cưỡng chế, mà là đặc quyền và cơ hội để bày tỏ lòng biết ơn, sự tin cậy và tình yêu đối với Đức Chúa Trời.
+Điều cốt lõi mà bài giảng muốn nhấn mạnh không phải là vấn đề tài chính của riêng ai, mà là ý muốn của Đức Chúa Trời trên đời sống Cơ-đốc nhân. Sự dâng hiến không phải là gánh nặng hay nghĩa vụ mang tính cưỡng chế, mà là đặc quyền và cơ hội để bày tỏ lòng biết ơn, sự tin cậy và tình yêu đối với Đức Chúa Trời.
 
 Khi một người thật lòng muốn làm theo ý muốn của Chúa, người ấy sẽ tìm kiếm sự dạy dỗ của Kinh Thánh liên quan đến mọi lĩnh vực trong đời sống, bao gồm cả vấn đề tài chính và dâng hiến. Và khi hiểu được rằng mọi sự đều thuộc về Chúa, rằng chúng ta đã được cứu bằng giá cao, và rằng mọi sức lực đều bởi Ngài ban cho, thì sự dâng hiến sẽ trở nên tự nhiên và đầy vui mừng.

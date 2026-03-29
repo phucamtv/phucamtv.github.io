@@ -21,7 +21,7 @@ draft: false
 
 Đây không phải "điều răn thứ mười một" như nhiều người nói vui, mà thực chất là điều răn thứ nhì trong hai điều răn lớn nhất – kính Chúa và yêu người. Nhưng ở đây Ngài đẩy xa hơn: không phải yêu nhau theo cách riêng mình, mà phải yêu nhau *như Chúa đã yêu chúng ta*. Đó là một chuẩn mực cụ thể, có gương mẫu để noi theo.
 
-Điều đặc biệt là Chúa dùng chữ *điều răn* – tức luật lệ, nguyên tắc, kỷ cương. Tình yêu thường gắn với cảm xúc, nhưng Ngài lại đặt cảm xúc ấy vào trong một khuôn khổ bắt buộc. Người Việt có câu "Ép dầu ép mỡ, ai nỡ ép duyên," nhưng ở đây Chúa chính là Đấng ép buộc chúng ta phải yêu. Đây là thách thức lớn nhất trong đời sống cộng đồng Cơ Đốc nhân.
+Điều đặc biệt là Chúa dùng chữ *điều răn* – tức luật lệ, nguyên tắc, kỷ cương. Tình yêu thường gắn với cảm xúc, nhưng Ngài lại đặt cảm xúc ấy vào trong một khuôn khổ bắt buộc. Người Việt có câu "Ép dầu ép mỡ, ai nỡ ép duyên," nhưng ở đây Chúa chính là Đấng ép buộc chúng ta phải yêu. Đây là thách thức lớn nhất trong đời sống cộng đồng Cơ-đốc nhân.
 
 Và điều răn này còn mang một ý nghĩa chứng đạo không thể thay thế: không phải đeo thập tự giá, không phải mặc áo thụng, không phải lúc nào cũng ôm Kinh Thánh – mà chính *sự yêu thương lẫn nhau* là dấu hiệu để người ngoài nhận ra môn đồ của Chúa.
 

@@ -50,7 +50,7 @@ Khi chúng ta thật sự tôn trọng anh em mình, chúng ta sẽ quan tâm đ
 
 Đấng Christ vốn có hình Đức Chúa Trời, nhưng Ngài không nắm giữ sự bình đẳng với Đức Chúa Trời. Ngài tự bỏ mình, lấy hình tôi tớ, trở nên giống như loài người, tự hạ mình vâng phục cho đến chết — thậm chí chết trên cây thập tự. Nếu Chúa của chúng ta là Đấng vinh hiển đã hạ mình xuống như vậy, thì làm sao chúng ta có thể kiêu ngạo? Nếu Ngài đã trở nên tôi tớ, thì làm sao chúng ta có thể đòi vị trí cao hơn và không tôn trọng anh em mình?
 
-Tinh thần của Đấng Christ nơi thập tự giá là sự hạ mình, sự hy sinh, sự trở nên tôi tớ để gánh tội thay cho chúng ta. Đó là khuôn mẫu cho đời sống Cơ Đốc nhân trong hội thánh.
+Tinh thần của Đấng Christ nơi thập tự giá là sự hạ mình, sự hy sinh, sự trở nên tôi tớ để gánh tội thay cho chúng ta. Đó là khuôn mẫu cho đời sống Cơ-đốc nhân trong hội thánh.
 
 ---
 

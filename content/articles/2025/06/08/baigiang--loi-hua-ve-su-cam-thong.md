@@ -20,7 +20,7 @@ draft: false
 
 II Cô-rinh-tô 1:4 mở ra nền tảng của bài giảng: *"Ngài yên ủi chúng tôi trong mọi sự khốn nạn, hầu cho nhân sự yên ủi mà Ngài đã yên ủi chúng tôi, thì chúng tôi cũng có thể yên ủi kẻ khác trong sự khốn nạn nào họ gặp."*
 
-Câu Kinh Thánh này nói lên một mối liên hệ sâu xa: những gì Đức Chúa Trời ban cho chúng ta — sự an ủi, sự cảm thông, sự tha thứ — không phải để chúng ta giữ lại cho riêng mình, mà để chúng ta truyền đạt sang cho những người chung quanh. Đây là nguyên tắc của tình yêu Cơ Đốc: nhận lãnh rồi trao đi.
+Câu Kinh Thánh này nói lên một mối liên hệ sâu xa: những gì Đức Chúa Trời ban cho chúng ta — sự an ủi, sự cảm thông, sự tha thứ — không phải để chúng ta giữ lại cho riêng mình, mà để chúng ta truyền đạt sang cho những người chung quanh. Đây là nguyên tắc của tình yêu Cơ-đốc: nhận lãnh rồi trao đi.
 
 Elizabeth Kübler-Ross, nhà tâm lý học người Mỹ gốc Thụy Sĩ, nhận xét sâu sắc rằng: những con người đẹp nhất là những người từng bị đánh bại, từng đau khổ, từng tranh đấu, từng mất mát — nhưng đã tìm được đường ra khỏi vực sâu. Những người này thấu hiểu cuộc đời và tràn đầy sự cảm thông. Nói cách khác, chính sự từng trải đau khổ tạo nên nét đẹp thật sự của một con người — không phải vẻ đẹp bề ngoài, mà là khả năng đồng cảm với người khác.
 

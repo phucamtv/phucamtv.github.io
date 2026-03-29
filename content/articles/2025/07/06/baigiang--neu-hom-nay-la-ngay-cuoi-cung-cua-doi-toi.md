@@ -14,11 +14,11 @@ draft: false
 
 ## Câu Hỏi Quan Trọng Nhất Trong Đời
 
-Steve Jobs, nhà sáng lập Apple, trước khi qua đời ở tuổi 56, đã từng chia sẻ thói quen mỗi sáng thức dậy nhìn vào gương và tự hỏi: nếu hôm nay là ngày cuối cùng, mình có muốn làm những gì định làm không? Đó là câu hỏi của một người thành công trên thế gian. Nhưng đối với Cơ Đốc nhân, câu hỏi ấy còn mang ý nghĩa sâu xa hơn nhiều.
+Steve Jobs, nhà sáng lập Apple, trước khi qua đời ở tuổi 56, đã từng chia sẻ thói quen mỗi sáng thức dậy nhìn vào gương và tự hỏi: nếu hôm nay là ngày cuối cùng, mình có muốn làm những gì định làm không? Đó là câu hỏi của một người thành công trên thế gian. Nhưng đối với Cơ-đốc nhân, câu hỏi ấy còn mang ý nghĩa sâu xa hơn nhiều.
 
 Phục Truyền 32:29 viết: "Chớ chi họ khôn ngoan và hiểu được; ước gì nghĩ đến sự cuối cùng vẫn đợi họ!" Và Truyền Đạo 7:2 dạy rằng đi đến nhà tang chế hơn là đến nhà yến tiệc, vì tại đó thấy sự cuối cùng của mọi người và người sống để vào lòng. Chúng ta thường thích đi đám cưới hơn vì đó là nơi vui vẻ, nhưng Kinh Thánh nhắc nhở rằng đám tang mới là nơi giúp người sống nhận ra thực tế quan trọng nhất: cuộc đời này hữu hạn.
 
-Là Cơ Đốc nhân, chúng ta không sợ chết, vì Kinh Thánh dùng chữ "ngủ" thay cho chữ chết. Ngủ thì sẽ thức dậy. Sự khác biệt lớn nhất giữa người tin Chúa và không tin Chúa chính là niềm tin vào sự sống lại. Nhưng dù có niềm tin ấy, chúng ta vẫn cần tự hỏi: nếu hôm nay là ngày cuối cùng, tôi đã chuẩn bị gì?
+Là Cơ-đốc nhân, chúng ta không sợ chết, vì Kinh Thánh dùng chữ "ngủ" thay cho chữ chết. Ngủ thì sẽ thức dậy. Sự khác biệt lớn nhất giữa người tin Chúa và không tin Chúa chính là niềm tin vào sự sống lại. Nhưng dù có niềm tin ấy, chúng ta vẫn cần tự hỏi: nếu hôm nay là ngày cuối cùng, tôi đã chuẩn bị gì?
 
 ## Đã Được Tha Thứ Chưa? Đã Tha Thứ Cho Người Khác Chưa?
 

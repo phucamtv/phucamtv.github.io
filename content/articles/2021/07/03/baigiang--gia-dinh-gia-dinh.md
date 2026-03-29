@@ -2,8 +2,8 @@
 title: "Gia Đình! Gia Đình!"
 date: 2021-07-03
 url: /baigiang/gia-dinh-gia-dinh/
-description: "Gia đình là nền tảng của Hội Thánh và xã hội. Mục sư Dương Quang Thoại chia sẻ ba điều cốt lõi mà một gia đình Cơ Đốc cần có: Chúa ngự trị, tình yêu của Chúa, và Lời Chúa — và những bài học từ các bi kịch gia đình trong Kinh Thánh."
-tags: ["Gia Đình", "Tình Yêu Thương", "Lời Chúa", "Cơ Đốc", "Hôn Nhân", "Con Cái"]
+description: "Gia đình là nền tảng của Hội Thánh và xã hội. Mục sư Dương Quang Thoại chia sẻ ba điều cốt lõi mà một gia đình Cơ-đốc cần có: Chúa ngự trị, tình yêu của Chúa, và Lời Chúa — và những bài học từ các bi kịch gia đình trong Kinh Thánh."
+tags: ["Gia Đình", "Tình Yêu Thương", "Lời Chúa", "Cơ-đốc", "Hôn Nhân", "Con Cái"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["6dCBJSxWazI"]
@@ -37,11 +37,11 @@ Những câu chuyện này không phải ngẫu nhiên được ghi lại — ch
 
 ---
 
-## Ba Điều Một Gia Đình Cơ Đốc Cần Có
+## Ba Điều Một Gia Đình Cơ-đốc Cần Có
 
-### 1. Gia Đình Cơ Đốc Phải Là Nơi Có Chúa Ngự Trị
+### 1. Gia Đình Cơ-đốc Phải Là Nơi Có Chúa Ngự Trị
 
-Không thể gọi là gia đình Cơ Đốc nếu không có Đấng Cơ Đốc. Khi lời ăn tiếng nói, cách đối xử trong gia đình không khác gì gia đình ở ngoài thế gian, không có bóng dáng của Chúa — thì gia đình đó, dù mang danh Cơ Đốc, thực ra chỉ là một gia đình tốt theo tiêu chuẩn văn hóa mà thôi.
+Không thể gọi là gia đình Cơ-đốc nếu không có Đấng Cơ-đốc. Khi lời ăn tiếng nói, cách đối xử trong gia đình không khác gì gia đình ở ngoài thế gian, không có bóng dáng của Chúa — thì gia đình đó, dù mang danh Cơ-đốc, thực ra chỉ là một gia đình tốt theo tiêu chuẩn văn hóa mà thôi.
 
 Lời Chúa dạy rõ ràng:
 
@@ -51,7 +51,7 @@ Lời Chúa dạy rõ ràng:
 
 Chúa Cứu Thế là Đầu của Hội Thánh — và cũng phải là Đầu của gia đình. Một gia đình không có Đầu là gia đình không có sự sống.
 
-### 2. Gia Đình Cơ Đốc Phải Là Nơi Có Tình Yêu Chúa Ngự Trị
+### 2. Gia Đình Cơ-đốc Phải Là Nơi Có Tình Yêu Chúa Ngự Trị
 
 Tình yêu tự nhiên của con người không đủ để giữ gia đình vững bền. Người buôn bán ma túy vẫn có thể yêu vợ con mình — nhưng tình yêu đó không ngăn ông ta phá nát gia đình người khác. Tình yêu con người có điều kiện, có giới hạn, có thể phai nhạt theo thời gian và những va chạm cuộc sống.
 
@@ -65,11 +65,11 @@ Một điều cần cảnh tỉnh: không thể nói yêu Chúa, yêu người k
 
 Tình yêu trong gia đình cần được nuôi dưỡng mỗi ngày — bởi những lời nói ngọt ngào, những sự quan tâm, những cử chỉ yêu thương nhỏ bé. Tình yêu không được tưới mỗi ngày sẽ chết, giống như cây không được tưới nước.
 
-### 3. Gia Đình Cơ Đốc Phải Là Nơi Lời Chúa Ngự Trị
+### 3. Gia Đình Cơ-đốc Phải Là Nơi Lời Chúa Ngự Trị
 
 Kinh Thánh là phương cách Đức Chúa Trời làm cho mọi sự trở nên tinh sạch. Thi Thiên 119:9 hỏi: *"Người trẻ tuổi phải làm sao cho đường lối mình được trong sạch? Phải cẩn thận theo lời Chúa."*
 
-Gia đình Cơ Đốc cần:
+Gia đình Cơ-đốc cần:
 
 - **Cùng nhau thờ phượng và hầu việc Chúa** — như Giô-suê tuyên bố: *"Ta và nhà ta sẽ phục sự Đức Giê-hô-va."* (Giô-suê 24:15)
 - **Dạy dỗ con cái về sự vâng phục Đức Chúa Trời** — Phục truyền 32:46-47 dặn dò: hãy để lòng chăm chỉ về lời Chúa mà truyền cho con cháu, vì đó là sự sống của chúng ta.
@@ -81,6 +81,6 @@ Gia đình Cơ Đốc cần:
 
 Mỗi người trong gia đình đều có trách nhiệm: làm cha phải ra cha, làm mẹ phải ra mẹ, làm anh phải ra anh, làm con cái phải đúng là con cái. Khi ai đó không làm tròn vai trò của mình, chính họ đang tạo cơ hội cho ma quỷ phá nát gia đình.
 
-Gia đình Cơ Đốc không thể được xây dựng chỉ bằng nỗ lực của con người. Chúng ta không đủ sức chống lại sự tấn công của kẻ thù. Hãy dựa vào sức của Chúa — để Ngài biến đổi từng cá nhân trong gia đình, từ chồng đến vợ, từ cha mẹ đến con cái.
+Gia đình Cơ-đốc không thể được xây dựng chỉ bằng nỗ lực của con người. Chúng ta không đủ sức chống lại sự tấn công của kẻ thù. Hãy dựa vào sức của Chúa — để Ngài biến đổi từng cá nhân trong gia đình, từ chồng đến vợ, từ cha mẹ đến con cái.
 
 Hãy thiết lập sự thờ phượng trong gia đình. Hãy cùng nhau thờ phượng Chúa với cộng đoàn. Khi Chúa ngự trị, khi tình yêu Ngài chảy qua từng người, khi Lời Ngài dẫn dắt mọi quyết định — gia đình đó sẽ được biến đổi và trở thành một minh chứng sống động cho vinh quang của Ngài.

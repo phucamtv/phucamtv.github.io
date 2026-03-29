@@ -16,7 +16,7 @@ draft: false
 
 Giữa tình yêu, tiền bạc và sức khỏe, điều nào quan trọng nhất? Hầu hết mọi người đều trả lời: sức khỏe. Nhưng khi còn trẻ, chúng ta thường không nhận ra điều này — phí sức tìm kiếm tiền bạc và tình yêu, đến khi không còn sức khỏe thì không thể tận hưởng được gì nữa.
 
-Đối với Cơ Đốc nhân, sức khỏe không chỉ để duy trì cuộc sống mà còn có mối tương quan mật thiết với đời sống thuộc linh. Khi thiếu sức khỏe, tâm linh dễ bị yếu đuối và chúng ta dễ rơi vào sự cám dỗ.
+Đối với Cơ-đốc nhân, sức khỏe không chỉ để duy trì cuộc sống mà còn có mối tương quan mật thiết với đời sống thuộc linh. Khi thiếu sức khỏe, tâm linh dễ bị yếu đuối và chúng ta dễ rơi vào sự cám dỗ.
 
 ---
 

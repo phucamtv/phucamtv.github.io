@@ -44,4 +44,4 @@ Ma quỷ đưa Chúa lên núi cao, chỉ cho Ngài vinh quang các nước th�
 
 Một điểm quan trọng trong bài giảng là Đức Chúa Giê-su đã chống trả sự cám dỗ bằng chính sức lực của một con người bình thường, chứ không bằng năng lực Thiên Thượng. Ngài dùng cùng vũ khí mà chúng ta có thể dùng — đó là Lời Đức Chúa Trời. Nếu Ngài chiến thắng bằng quyền năng thần thánh rồi bảo chúng ta hãy chiến thắng bằng sức người thường, thì điều đó không công bằng. Chính vì Ngài đã chiến đấu như một con người, chiến thắng của Ngài mới trở thành gương mẫu và mở đường cho chúng ta bước theo.
 
-Ba sự cám dỗ đại diện cho ba lĩnh vực: thỏa mãn thể xác, tham vọng cá nhân, và mong muốn đạt được mục tiêu mà không trả giá. Đây cũng là những cám dỗ mà mỗi Cơ Đốc nhân đối diện hằng ngày. Xin Chúa giúp chúng ta nhận ra mưu chước của ma quỷ và biết dùng Lời Chúa làm vũ khí để chiến thắng.
+Ba sự cám dỗ đại diện cho ba lĩnh vực: thỏa mãn thể xác, tham vọng cá nhân, và mong muốn đạt được mục tiêu mà không trả giá. Đây cũng là những cám dỗ mà mỗi Cơ-đốc nhân đối diện hằng ngày. Xin Chúa giúp chúng ta nhận ra mưu chước của ma quỷ và biết dùng Lời Chúa làm vũ khí để chiến thắng.

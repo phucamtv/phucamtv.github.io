@@ -2,7 +2,7 @@
 title: "Chia Sẻ Ơn Phước"
 date: 2024-04-12
 url: /baigiang/chia-se-on-phuoc/
-description: "Chương trình chia sẻ ơn phước trong đời sống Cơ Đốc nhân — nơi các anh chị em trong Hội Thánh cùng làm chứng về sự chăm sóc, bảo vệ và chu cấp kỳ diệu của Chúa qua những hoàn cảnh tưởng chừng không lối thoát: từ kỳ thi bị hoãn đúng lúc bệnh nặng, đến sự bảo vệ giữa cơn bão, cơ hội việc làm đến trong ngày mất mát, cho đến sự chu cấp tài chính bất ngờ."
+description: "Chương trình chia sẻ ơn phước trong đời sống Cơ-đốc nhân — nơi các anh chị em trong Hội Thánh cùng làm chứng về sự chăm sóc, bảo vệ và chu cấp kỳ diệu của Chúa qua những hoàn cảnh tưởng chừng không lối thoát: từ kỳ thi bị hoãn đúng lúc bệnh nặng, đến sự bảo vệ giữa cơn bão, cơ hội việc làm đến trong ngày mất mát, cho đến sự chu cấp tài chính bất ngờ."
 tags: ["Làm Chứng", "Ơn Phước", "Đức Tin", "Sự Chu Cấp", "Cầu Nguyện", "Chia Sẻ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,7 +14,7 @@ draft: false
 
 ## Khi Con Cái Chúa Kể Lại Ơn Phước
 
-Trong đời sống theo Chúa, mỗi Cơ Đốc nhân đều kinh nghiệm những ơn phước lớn lao mà Đức Chúa Trời ban cho. Nhưng đôi khi chúng ta ngại ngùng, không dám chia sẻ ra. Chương trình "Chia Sẻ Ơn Phước" tại Hội Thánh là dịp để anh chị em mạnh dạn làm chứng về những điều kỳ diệu Chúa đã làm trong cuộc đời mình — qua đó không chỉ tôn vinh Chúa, mà còn gây dựng đức tin cho nhau.
+Trong đời sống theo Chúa, mỗi Cơ-đốc nhân đều kinh nghiệm những ơn phước lớn lao mà Đức Chúa Trời ban cho. Nhưng đôi khi chúng ta ngại ngùng, không dám chia sẻ ra. Chương trình "Chia Sẻ Ơn Phước" tại Hội Thánh là dịp để anh chị em mạnh dạn làm chứng về những điều kỳ diệu Chúa đã làm trong cuộc đời mình — qua đó không chỉ tôn vinh Chúa, mà còn gây dựng đức tin cho nhau.
 
 ---
 

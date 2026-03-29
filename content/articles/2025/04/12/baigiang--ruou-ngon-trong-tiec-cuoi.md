@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu Phép Lạ Đầu Tiên
 
-Câu chuyện tiệc cưới tại Ca-na trong Giăng 2:1-12 ghi lại phép lạ đầu tiên mà Đức Chúa Giêsu thực hiện trong chức vụ của Ngài. Đây là một sự kiện đặc biệt chỉ được ghi lại duy nhất trong Phúc Âm Giăng, không xuất hiện trong ba sách Phúc Âm còn lại. Thay vì đi theo hướng suy gẫm thông thường về hôn nhân, bài giảng này khai thác năm chi tiết quan trọng trong câu chuyện để áp dụng vào đời sống đức tin hằng ngày của người Cơ Đốc.
+Câu chuyện tiệc cưới tại Ca-na trong Giăng 2:1-12 ghi lại phép lạ đầu tiên mà Đức Chúa Giêsu thực hiện trong chức vụ của Ngài. Đây là một sự kiện đặc biệt chỉ được ghi lại duy nhất trong Phúc Âm Giăng, không xuất hiện trong ba sách Phúc Âm còn lại. Thay vì đi theo hướng suy gẫm thông thường về hôn nhân, bài giảng này khai thác năm chi tiết quan trọng trong câu chuyện để áp dụng vào đời sống đức tin hằng ngày của người Cơ-đốc.
 
 Bối cảnh câu chuyện diễn ra tại một tiệc cưới ở thành Ca-na, miền Ga-li-lê. Bà Ma-ri, mẹ của Đức Chúa Giêsu về phần xác, có mặt tại đó và theo các nghiên cứu lịch sử, bà có thể là bà con ruột thịt của chú rể. Đức Chúa Giêsu và các môn đồ cũng được mời dự tiệc. Giữa lúc tiệc đang diễn ra, rượu bất ngờ cạn hết, đặt gia chủ vào tình thế vô cùng khó xử.
 
@@ -22,7 +22,7 @@ Bối cảnh câu chuyện diễn ra tại một tiệc cưới ở thành Ca-na
 
 Điều đáng suy gẫm đầu tiên là phép lạ được thực hiện ngay tại một bữa tiệc vui. Đức Chúa Giêsu dự tiệc cưới với phong thái vui vẻ, gần gũi, thân thiện chứ không phải với vẻ nghiêm trang, đạo mạo hay xa cách. Ngài là một chàng thanh niên 30 tuổi hòa nhập vào bầu không khí rộn ràng của tiệc cưới.
 
-Bài học rút ra là người Cơ Đốc cần tạo ấn tượng thân thiện khi tiếp xúc với người khác. Gương mặt chúng ta khi gặp người lạ nên toát lên niềm vui chứ không phải sự khó chịu hay xa cách. Sứ đồ Phao-lô trong I Cô-rinh-tô 9:22 đã nói rằng ông trở nên mọi cách cho mọi người để có thể đưa họ đến với Chúa. Ông sẵn sàng bỏ đi tính cố hữu của mình để sống gần gũi với người cần được nghe Phúc Âm. Đức Chúa Giêsu cũng vậy, theo Lu-ca 2:52, Ngài khôn ngoan càng thêm và càng được đẹp lòng cả Đức Chúa Trời lẫn người ta, một điều rất khó nhưng Ngài đã làm được nhờ lối sống thân thiện và bày tỏ Đức Chúa Trời trong mọi hoàn cảnh.
+Bài học rút ra là người Cơ-đốc cần tạo ấn tượng thân thiện khi tiếp xúc với người khác. Gương mặt chúng ta khi gặp người lạ nên toát lên niềm vui chứ không phải sự khó chịu hay xa cách. Sứ đồ Phao-lô trong I Cô-rinh-tô 9:22 đã nói rằng ông trở nên mọi cách cho mọi người để có thể đưa họ đến với Chúa. Ông sẵn sàng bỏ đi tính cố hữu của mình để sống gần gũi với người cần được nghe Phúc Âm. Đức Chúa Giêsu cũng vậy, theo Lu-ca 2:52, Ngài khôn ngoan càng thêm và càng được đẹp lòng cả Đức Chúa Trời lẫn người ta, một điều rất khó nhưng Ngài đã làm được nhờ lối sống thân thiện và bày tỏ Đức Chúa Trời trong mọi hoàn cảnh.
 
 ## Địa Điểm Phép Lạ Được Thực Hiện
 

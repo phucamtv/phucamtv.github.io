@@ -13,7 +13,7 @@ part_of_series: true
 
 {{< youtube "pMiPbGdLT8M" >}}
 
-Đức Chúa Giêsu là ai? Đây là câu hỏi cốt lõi của đức tin Cơ Đốc. Bài này tiếp cận vấn đề từ một góc độ độc đáo: trong bốn cấp bậc mà Thánh Kinh trình bày -- Đức Chúa Trời, thiên sứ, con người, và súc vật -- Đức Chúa Giêsu thuộc cấp bậc nào?
+Đức Chúa Giêsu là ai? Đây là câu hỏi cốt lõi của đức tin Cơ-đốc. Bài này tiếp cận vấn đề từ một góc độ độc đáo: trong bốn cấp bậc mà Thánh Kinh trình bày -- Đức Chúa Trời, thiên sứ, con người, và súc vật -- Đức Chúa Giêsu thuộc cấp bậc nào?
 
 ## Bốn cấp bậc trong Thánh Kinh
 

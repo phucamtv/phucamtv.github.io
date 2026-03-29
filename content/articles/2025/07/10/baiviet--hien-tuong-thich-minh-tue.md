@@ -1,7 +1,7 @@
 ---
 title: "Hiện tượng Thích Minh Tuệ: Chân tu hay giả tu?"
 date: 2025-07-10
-description: "Phân tích hiện tượng Thích Minh Tuệ từ góc nhìn Cơ Đốc giáo. Tu hành khổ hạnh có giúp con người thoát khỏi bản chất tội lỗi? Giải pháp duy nhất từ Đức Chúa Giê-su."
+description: "Phân tích hiện tượng Thích Minh Tuệ từ góc nhìn Cơ-đốc giáo. Tu hành khổ hạnh có giúp con người thoát khỏi bản chất tội lỗi? Giải pháp duy nhất từ Đức Chúa Giê-su."
 tags: ["Bài Viết", "Xã Hội", "Đức Tin", "Thánh Kinh"]
 authors: ["truong-the-hong"]
 url: /baiviet/hien-tuong-thich-minh-tue/index.html

@@ -2,7 +2,7 @@
 title: "Bóng tối và ánh sáng"
 date: 2022-04-06
 description: "Bài giảng Ê-phê-sô 5:8-21 về sự tương phản giữa bóng tối và ánh sáng trong đời sống cơ đốc nhân — từ dại dột đến khôn ngoan, từ say rượu đến đầy dẫy Đức Thánh Linh."
-tags: ["Ánh Sáng", "Bóng Tối", "Đời Sống Cơ Đốc", "Thánh Linh"]
+tags: ["Ánh Sáng", "Bóng Tối", "Đời Sống Cơ-đốc", "Thánh Linh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["SC3FNJbcn6Q"]

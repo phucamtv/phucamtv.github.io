@@ -21,7 +21,7 @@ Trong Mác đoạn 10, chúng ta thấy một bức tranh đầy cảm động: 
 
 Các môn đồ tưởng rằng mình đang bảo vệ Chúa — Ngài quá bận rộn, quá mệt mỏi với việc giảng dạy và chữa bệnh. Họ nghĩ rằng xua đuổi các bậc phụ huynh là làm điều tốt cho Thầy. Nhưng họ đã sai. Đức Chúa Giê-su nổi giận — không phải vì tội lỗi, mà vì hành động của các môn đồ đang làm cho người ta xa cách Ngài.
 
-Điều đáng suy ngẫm là dù trước mặt Chúa là con đường thập tự giá — sứ mạng cao cả nhất trong kế hoạch cứu rỗi — Ngài vẫn dành chỗ trong lòng cho những đứa trẻ. Ngài vẫn muốn vui đùa, trò chuyện, gần gũi và ban phước cho chúng. John MacDonald từng nói rằng ông không tin vào đức tin Cơ Đốc của một người nếu con trẻ không tìm được chỗ vui chơi trước nhà người ấy.
+Điều đáng suy ngẫm là dù trước mặt Chúa là con đường thập tự giá — sứ mạng cao cả nhất trong kế hoạch cứu rỗi — Ngài vẫn dành chỗ trong lòng cho những đứa trẻ. Ngài vẫn muốn vui đùa, trò chuyện, gần gũi và ban phước cho chúng. John MacDonald từng nói rằng ông không tin vào đức tin Cơ-đốc của một người nếu con trẻ không tìm được chỗ vui chơi trước nhà người ấy.
 
 ## Bốn Phẩm Chất Của Con Trẻ
 

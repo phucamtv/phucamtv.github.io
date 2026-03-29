@@ -3,7 +3,7 @@ title: "Ngài Là Gương Mẫu Cho Chúng Ta"
 date: 2020-11-20
 url: /baigiang/ngai-la-guong-mau-cho-chung-ta/
 description: "Bài giảng Bồi Linh về đề tài Đức Chúa Giê-su là gương mẫu cho chúng ta - hãy sống như Chúa đã sống. Ngài đến thế gian bày tỏ bản tánh Đức Chúa Trời, thể hiện tình yêu, sự tha thứ, sự cảm thông và hy sinh để chúng ta noi theo."
-tags: ["Gương Mẫu", "Đức Chúa Giê-su", "Bồi Linh", "Đời Sống Cơ Đốc", "Noi Gương Chúa"]
+tags: ["Gương Mẫu", "Đức Chúa Giê-su", "Bồi Linh", "Đời Sống Cơ-đốc", "Noi Gương Chúa"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["1FapFNJneXM"]
@@ -34,14 +34,14 @@ Giăng 14:6 ghi lại lời Đức Chúa Giê-su phán: "Ta là đường đi, l
 
 ## Hãy bắt chước Đấng Christ
 
-Giăng 13:1 nhắc nhở rằng Ngài đã yêu kẻ thuộc về mình trong thế gian thì cứ yêu cho đến cuối cùng. Tại An-ti-ốt, người ta bắt đầu gọi các môn đồ là "Cơ Đốc nhân" (Công vụ 11:26) vì họ sống giống như Đức Chúa Giê-su.
+Giăng 13:1 nhắc nhở rằng Ngài đã yêu kẻ thuộc về mình trong thế gian thì cứ yêu cho đến cuối cùng. Tại An-ti-ốt, người ta bắt đầu gọi các môn đồ là "Cơ-đốc nhân" (Công vụ 11:26) vì họ sống giống như Đức Chúa Giê-su.
 
 Sứ đồ Phao-lô kêu gọi trong 1 Cô-rinh-tô 11:1: "Hãy bắt chước tôi, cũng như chính tôi bắt chước Đấng Christ." Ông dùng chính đời sống mình làm bằng chứng rằng con người có thể noi gương Chúa.
 
-1 Giăng 2:6 thách thức mỗi chúng ta: "Ai nói mình ở trong Ngài, thì cũng phải làm theo như chính Ngài đã làm." Nếu miệng chúng ta nói mình là Cơ Đốc nhân mà cuộc sống không giống như Chúa, thì Kinh Thánh gọi đó là nói dối.
+1 Giăng 2:6 thách thức mỗi chúng ta: "Ai nói mình ở trong Ngài, thì cũng phải làm theo như chính Ngài đã làm." Nếu miệng chúng ta nói mình là Cơ-đốc nhân mà cuộc sống không giống như Chúa, thì Kinh Thánh gọi đó là nói dối.
 
 ## Trở nên ánh sáng cho thế gian
 
 1 Giăng 1:7 dạy rằng nếu chúng ta đi trong sự sáng cũng như chính Ngài ở trong sự sáng, thì chúng ta giao thông cùng nhau, và huyết của Đức Chúa Giê-su Con Ngài làm sạch mọi tội chúng ta. Dù chỉ là một ánh sáng nhỏ, chúng ta vẫn có thể cho người ta thấy sự khác biệt của Đấng mà chúng ta tôn thờ.
 
-Đừng để danh xưng Cơ Đốc nhân trở nên chỉ là một danh hiệu rỗng tuếch. Hãy tỏa sáng để mọi người biết đến Chúa Cứu Thế -- Ngài là đường đi, lẽ thật và sự sống.
+Đừng để danh xưng Cơ-đốc nhân trở nên chỉ là một danh hiệu rỗng tuếch. Hãy tỏa sáng để mọi người biết đến Chúa Cứu Thế -- Ngài là đường đi, lẽ thật và sự sống.

@@ -26,7 +26,7 @@ Sách Truyền Đạo 9:5 chép rằng "kẻ sống biết mình sẽ chết" --
 
 - **Vua** biết mình sẽ chết để cai trị sao cho dân giàu nước mạnh, lúc chết được trăm họ tôn kính, danh thơm lưu cho hậu thế.
 - **Người bình thường** biết mình sẽ chết để sống sao cho hòa với đạo Trời, hợp với đạo người.
-- **Cơ Đốc nhân** biết mình sẽ chết để sống từng ngày với Chúa bằng một tâm hồn biết ơn và sự tận hiến.
+- **Cơ-đốc nhân** biết mình sẽ chết để sống từng ngày với Chúa bằng một tâm hồn biết ơn và sự tận hiến.
 
 ## Bí Quyết Của Sự Khôn Ngoan
 

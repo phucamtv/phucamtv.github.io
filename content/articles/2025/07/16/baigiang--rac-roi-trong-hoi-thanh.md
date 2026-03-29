@@ -56,4 +56,4 @@ Từ phân đoạn này, chúng ta rút ra ba bài học:
 
 ## Kết Luận
 
-Câu chuyện Công Vụ đoạn 5 dạy chúng ta nhiều điều: sự gian dối dù nhỏ vẫn nghiêm trọng trước mặt Chúa; hội thánh dù đầy ơn vẫn có thể gặp rắc rối; nhưng khi sống can đảm, giữ nguyên tắc và hiểu rõ mục đích đời mình, chúng ta sẽ vượt qua mọi khó khăn bắt bớ. Mỗi Cơ Đốc nhân đều được kêu gọi trở thành nhân chứng cho Đức Chúa Giê-su — đó chính là mục đích cao quý nhất của cuộc đời.
+Câu chuyện Công Vụ đoạn 5 dạy chúng ta nhiều điều: sự gian dối dù nhỏ vẫn nghiêm trọng trước mặt Chúa; hội thánh dù đầy ơn vẫn có thể gặp rắc rối; nhưng khi sống can đảm, giữ nguyên tắc và hiểu rõ mục đích đời mình, chúng ta sẽ vượt qua mọi khó khăn bắt bớ. Mỗi Cơ-đốc nhân đều được kêu gọi trở thành nhân chứng cho Đức Chúa Giê-su — đó chính là mục đích cao quý nhất của cuộc đời.

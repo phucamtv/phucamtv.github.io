@@ -2,7 +2,7 @@
 title: "Để Có Thể Chiến Thắng"
 date: 2024-03-30
 description: "Dựa trên Hê-bơ-rơ 12:1–2, Trưởng lão Nguyễn Tuấn chia sẻ về cuộc chạy đua đức tin: sống dưới ánh mắt của nhiều người chứng kiến, buông bỏ gánh nặng và tội lỗi vấn vương, bền đỗ với lòng nhịn nhục, và không ngừng nhìn về Đức Chúa Giê-su — Cội Rễ và cuối cùng của đức tin."
-tags: ["Hê-bơ-rơ", "Đức Tin", "Kiên Trì", "Chiến Thắng", "Đời Sống Cơ Đốc Nhân"]
+tags: ["Hê-bơ-rơ", "Đức Tin", "Kiên Trì", "Chiến Thắng", "Đời Sống Cơ-đốc Nhân"]
 authors: ["nguyen-tuan"]
 plugins: [youtube]
 youtubeIDs: ["IONb22nDcio"]

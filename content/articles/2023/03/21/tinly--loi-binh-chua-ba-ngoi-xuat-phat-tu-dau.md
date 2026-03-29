@@ -13,7 +13,7 @@ part_of_series: true
 
 {{< youtube "P2uAo2W37Eg" >}}
 
-Bài này là lời bình cho một video clip có tựa đề "Chúa ba ngôi xuất phát từ đâu?", được thực hiện bởi một nhóm Cơ Đốc nhân chống phá niềm tin Thiên Chúa ba thân vị. Mặc dù câu hỏi đặt ra trong tựa đề là thẳng thắn và hợp lệ, nội dung video lại chứa đầy những sai lầm nghiêm trọng cả về phương pháp lẫn cách trích dẫn Thánh Kinh.
+Bài này là lời bình cho một video clip có tựa đề "Chúa ba ngôi xuất phát từ đâu?", được thực hiện bởi một nhóm Cơ-đốc nhân chống phá niềm tin Thiên Chúa ba thân vị. Mặc dù câu hỏi đặt ra trong tựa đề là thẳng thắn và hợp lệ, nội dung video lại chứa đầy những sai lầm nghiêm trọng cả về phương pháp lẫn cách trích dẫn Thánh Kinh.
 
 ## Sai lầm thứ nhất: Phương pháp chứng minh sai
 
@@ -49,4 +49,4 @@ Nhóm Hải Đăng còn chèn Thi Thiên 2:1-3 vào video, nhưng theo văn mạ
 
 Chúng ta cần mở lòng tiếp đón lẽ thật của Thiên Chúa, nhưng đồng thời phải biết chắc chắn rằng lẽ thật không thể nào được bao bọc bằng những ngụy biện. Khi đặt cái tôi lên cao hơn lời Chúa, khi khả năng suy luận logic nghèo nàn, và khi trích dẫn Thánh Kinh không đúng ngữ cảnh, thì dù có nhiệt tình đến đâu, kết quả cũng chỉ dẫn đến sự sai lạc.
 
-Nhiệm vụ của mỗi Cơ Đốc nhân là tra xét Thánh Kinh cách cẩn thận, toàn diện, để phân biệt điều đúng điều sai -- chứ không phải để bảo vệ quan điểm cá nhân bằng mọi giá.
+Nhiệm vụ của mỗi Cơ-đốc nhân là tra xét Thánh Kinh cách cẩn thận, toàn diện, để phân biệt điều đúng điều sai -- chứ không phải để bảo vệ quan điểm cá nhân bằng mọi giá.

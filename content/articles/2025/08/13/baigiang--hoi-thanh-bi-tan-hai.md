@@ -22,7 +22,7 @@ Công Vụ đoạn 7 câu 54 đến đoạn 8 câu 1 ghi lại cái chết của
 
 ## Tấm Lòng Tha Thứ Giống Như Thầy Mình
 
-Trước khi trút hơi thở, Ê-tiên thốt lên hai lời cầu nguyện giống hệt những gì Đức Chúa Giê-su đã nói trên thập tự giá. Ông quỳ xuống xin Chúa tiếp lấy linh hồn mình, rồi kêu lớn tiếng: "Lạy Chúa, xin đừng đổ tội này cho họ." Ngay sau đó, ông ngủ — Kinh Thánh dùng từ "ngủ" thay cho "chết," vì trong niềm tin Cơ Đốc, cái chết không phải là kết thúc mà là giấc ngủ chờ ngày phục sinh.
+Trước khi trút hơi thở, Ê-tiên thốt lên hai lời cầu nguyện giống hệt những gì Đức Chúa Giê-su đã nói trên thập tự giá. Ông quỳ xuống xin Chúa tiếp lấy linh hồn mình, rồi kêu lớn tiếng: "Lạy Chúa, xin đừng đổ tội này cho họ." Ngay sau đó, ông ngủ — Kinh Thánh dùng từ "ngủ" thay cho "chết," vì trong niềm tin Cơ-đốc, cái chết không phải là kết thúc mà là giấc ngủ chờ ngày phục sinh.
 
 Để có thể tha thứ cho kẻ đang hành hình mình — không phải bằng sự giả tạo mà bằng tấm lòng chân thành — đòi hỏi một phẩm chất đạo hạnh phi thường. Điều này cho thấy đời sống thuộc linh của Ê-tiên đã được rèn luyện sâu sắc, đến nỗi trong giây phút đau đớn nhất, ông vẫn phản ứng giống như Đức Thầy của mình là Đức Chúa Giê-su.
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Chủ Đề Của Tuần Lễ Cầu Nguyện Cuối Năm 2025
 
-Đây là bài giảng bồi linh mở đầu cho tuần lễ cầu nguyện cuối năm 2025, với chủ đề xuyên suốt: *"Tôi sẽ đi và rao truyền sự tái lâm của Đấng Cơ Đốc."* Mục sư Dương Quang Thoại mở ra sứ điệp với lời cầu nguyện xin Chúa giúp hội thánh quay lại với Kinh Thánh — để lòng được đốt nóng trở lại, và tấm lòng được chuẩn bị cho ngày Đức Chúa Giê-su trở lại.
+Đây là bài giảng bồi linh mở đầu cho tuần lễ cầu nguyện cuối năm 2025, với chủ đề xuyên suốt: *"Tôi sẽ đi và rao truyền sự tái lâm của Đấng Cơ-đốc."* Mục sư Dương Quang Thoại mở ra sứ điệp với lời cầu nguyện xin Chúa giúp hội thánh quay lại với Kinh Thánh — để lòng được đốt nóng trở lại, và tấm lòng được chuẩn bị cho ngày Đức Chúa Giê-su trở lại.
 
 ---
 
@@ -34,7 +34,7 @@ Sách Khải-huyền chương 22, ba lần trong cùng một đoạn, Đức Ch�
 
 Mục sư chỉ ra một thực tế đau lòng: giữa những áp lực của cuộc sống hàng ngày, sự tái lâm của Chúa dần bị đẩy ra khỏi tâm trí. Mỗi giai đoạn đời người đều có ưu tiên riêng — học sinh lo tốt nghiệp, thanh niên lo việc làm, người trưởng thành lo xây dựng gia đình, bậc cha mẹ lo cho con cái. Trong chuỗi ưu tiên đó, việc trông đợi ngày Chúa trở lại gần như không có chỗ.
 
-Ngoài ra, II Phi-e-rơ 3:3-5 cho biết trong những ngày sau rốt sẽ có những kẻ giễu cợt, nói rằng lời hứa Chúa đến chẳng thấy đâu. Áp lực từ xã hội xung quanh — bạn bè không tin, môi trường chế nhạo — khiến không ít Cơ Đốc nhân ngại ngùng nhắc đến sự tái lâm, thậm chí ngay trong cuộc sống thường ngày.
+Ngoài ra, II Phi-e-rơ 3:3-5 cho biết trong những ngày sau rốt sẽ có những kẻ giễu cợt, nói rằng lời hứa Chúa đến chẳng thấy đâu. Áp lực từ xã hội xung quanh — bạn bè không tin, môi trường chế nhạo — khiến không ít Cơ-đốc nhân ngại ngùng nhắc đến sự tái lâm, thậm chí ngay trong cuộc sống thường ngày.
 
 Ẩn dụ về người đầy tớ trung tín và đầy tớ xấu trong Ma-thi-ơ 24:43-51 minh họa rõ điều này. Người đầy tớ xấu nghĩ chủ còn lâu mới về, nên bắt đầu buông thả — đánh đập kẻ cùng làm, ăn uống say xưa. Kết quả: khi chủ đến bất ngờ, hậu quả vô cùng nghiêm trọng. Ngược lại, người đầy tớ trung tín âm thầm làm việc bất kể bao lâu, và được khen thưởng xứng đáng.
 

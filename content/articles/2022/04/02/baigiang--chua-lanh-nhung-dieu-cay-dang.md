@@ -2,8 +2,8 @@
 title: "Chữa Lành Những Điều Cay Đắng | Xuất Ê-díp-tô Ký 15:22-25"
 date: 2022-04-02
 url: /baigiang/chua-lanh-nhung-dieu-cay-dang/
-description: "Bài giảng từ Xuất Ê-díp-tô Ký 15:22-25 — câu chuyện vùng nước đắng Ma-ra và cây gỗ làm nước hóa ngọt, hình ảnh Thập Tự Giá chữa lành mọi sự cay đắng trong đời sống Cơ Đốc nhân."
-tags: ["Xuất Ê-díp-tô Ký", "Thập Tự Giá", "Sự Chữa Lành", "Đời Sống Cơ Đốc", "Môi-se"]
+description: "Bài giảng từ Xuất Ê-díp-tô Ký 15:22-25 — câu chuyện vùng nước đắng Ma-ra và cây gỗ làm nước hóa ngọt, hình ảnh Thập Tự Giá chữa lành mọi sự cay đắng trong đời sống Cơ-đốc nhân."
+tags: ["Xuất Ê-díp-tô Ký", "Thập Tự Giá", "Sự Chữa Lành", "Đời Sống Cơ-đốc", "Môi-se"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["18aP3AK8gPE"]
@@ -32,7 +32,7 @@ Nhưng chúng ta có quyền lựa chọn: có cho phép những vị đắng c�
 
 Câu chuyện bà Na-ô-mi trong sách Ru-tơ minh họa rõ nét điều này. Na-ô-mi — nghĩa là "ngọt ngào" — sau khi mất chồng và hai con trai nơi xứ lạ, trở về quê hương với đôi bàn tay trắng. Khi mọi người vui mừng gọi tên bà, bà đáp: *"Đừng gọi tôi là Na-ô-mi, hãy gọi tôi là Ma-ra, bởi vì cuộc đời đem cho tôi quá nhiều cay đắng"* (Ru-tơ 1:20).
 
-Nếu một Cơ Đốc nhân sống trong cay đắng, làm sao có thể đem sự ngọt ngào đến cho người khác? Khi người chưa tin Chúa tiếp xúc với những Cơ Đốc nhân đầy trái đắng, họ không thể tìm thấy sự ngọt ngào của đạo Chúa.
+Nếu một Cơ-đốc nhân sống trong cay đắng, làm sao có thể đem sự ngọt ngào đến cho người khác? Khi người chưa tin Chúa tiếp xúc với những Cơ-đốc nhân đầy trái đắng, họ không thể tìm thấy sự ngọt ngào của đạo Chúa.
 
 ---
 

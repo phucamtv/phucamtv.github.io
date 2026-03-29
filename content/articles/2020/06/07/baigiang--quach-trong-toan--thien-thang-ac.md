@@ -1,7 +1,7 @@
 ---
 title: "Dùng điều thiện mà thắng điều ác"
 date: 2020-06-07
-tags: ["Tình Yêu Thương", "Đời Sống Cơ Đốc", "Tội Lỗi"]
+tags: ["Tình Yêu Thương", "Đời Sống Cơ-đốc", "Tội Lỗi"]
 authors: ["quach-trong-toan"]
 plugins: [youtube]
 youtubeIDs: ["S0M0iPf7Q88"]

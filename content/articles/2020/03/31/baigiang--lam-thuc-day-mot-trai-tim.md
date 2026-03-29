@@ -2,7 +2,7 @@
 title: "Làm Thức Dậy Một Trái Tim"
 date: 2020-03-31
 url: /baigiang/lam-thuc-day-mot-trai-tim/
-description: "Câu chuyện về John Englehart — người đàn ông bị giam trong viện tâm thần 70 năm, được tình yêu của một cô gái trẻ đánh thức, mở ra bài học về quyền năng biến đổi của tình yêu trong đời sống Cơ Đốc nhân."
+description: "Câu chuyện về John Englehart — người đàn ông bị giam trong viện tâm thần 70 năm, được tình yêu của một cô gái trẻ đánh thức, mở ra bài học về quyền năng biến đổi của tình yêu trong đời sống Cơ-đốc nhân."
 tags: ["Tình Yêu", "Kiên Nhẫn", "Cảm Thông", "Truyền Giáo", "Chắp Cánh Bay Cao", "Tĩnh Nguyện"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -28,7 +28,7 @@ Tình yêu đã chắp cánh cho ông bay lên. Tình yêu đã mở ra những 
 
 ## Những Tâm Hồn Đang Chờ Đợi
 
-Câu chuyện của John Englehart khiến chúng ta phải suy nghĩ: có biết bao nhiêu tâm hồn đang khép kín ngay chung quanh chúng ta? Họ đang chờ đợi — chờ đợi sự nhẫn nại và dịu dàng mà một Cơ Đốc nhân phải có — để có thể thổ lộ những uẩn khúc sâu kín trong lòng. Thế nhưng, họ thà lặng câm vĩnh viễn còn hơn trải rộng tâm tình với những ai mà họ biết rõ là không thật sự yêu thương.
+Câu chuyện của John Englehart khiến chúng ta phải suy nghĩ: có biết bao nhiêu tâm hồn đang khép kín ngay chung quanh chúng ta? Họ đang chờ đợi — chờ đợi sự nhẫn nại và dịu dàng mà một Cơ-đốc nhân phải có — để có thể thổ lộ những uẩn khúc sâu kín trong lòng. Thế nhưng, họ thà lặng câm vĩnh viễn còn hơn trải rộng tâm tình với những ai mà họ biết rõ là không thật sự yêu thương.
 
 Đây là một thực tế đau lòng trong nhiều hội thánh và cộng đồng đức tin. Chúng ta nói về tình yêu thương, nhưng đôi khi thiếu đi sự kiên nhẫn thật sự để lắng nghe, thiếu sự dịu dàng để đến gần, và thiếu sự chân thành để người khác dám mở lòng. Anne Watts không phải là một nhà tâm lý học lỗi lạc, cũng không có phương pháp chữa trị đặc biệt nào — cô chỉ đơn giản yêu thương và kiên nhẫn.
 

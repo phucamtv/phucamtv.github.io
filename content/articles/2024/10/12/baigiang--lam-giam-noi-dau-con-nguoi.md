@@ -2,7 +2,7 @@
 title: "Làm Giảm Nỗi Đau Con Người"
 date: 2024-10-12
 url: /baigiang/lam-giam-noi-dau-con-nguoi/
-description: "Bài giảng về lòng trắc ẩn — đức tính nổi bật nhất của Đức Chúa Giê-su trong suốt ba năm rưỡi thi hành chức vụ. Cơ Đốc nhân được kêu gọi nỗ lực làm giảm nỗi đau của người khác, bắt đầu từ chính gia đình mình."
+description: "Bài giảng về lòng trắc ẩn — đức tính nổi bật nhất của Đức Chúa Giê-su trong suốt ba năm rưỡi thi hành chức vụ. Cơ-đốc nhân được kêu gọi nỗ lực làm giảm nỗi đau của người khác, bắt đầu từ chính gia đình mình."
 tags: ["Lòng Thương Xót", "Trắc Ẩn", "Xuất Ê-díp-tô Ký", "Lê-vi Ký", "Ma-thi-ơ", "Gia Đình"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -16,7 +16,7 @@ draft: false
 
 Trong ba năm rưỡi thi hành chức vụ, điều mà người ta cảm nhận rõ ràng nhất từ Đức Chúa Giê-su chính là lòng trắc ẩn. Ngài có một sức hút lạ lùng — chưa nói đến phép lạ hay những bài giảng, chỉ riêng thần thái, gương mặt, ánh mắt và từng lời nói của Ngài đã bày tỏ sự quan tâm sâu sắc đến con người. Đoàn dân hàng ngàn người kéo theo Ngài vì họ nhận ra ở Ngài có tình yêu thật sự.
 
-Thế nhưng trong thế giới ngày nay, lòng trắc ẩn đang trở nên khan hiếm. Mạng internet, dù mang lại nhiều lợi ích, lại đẩy con người vào lối sống ích kỷ. Khi một người say mê điện thoại, họ khó chịu với bất kỳ ai phá vỡ cái thế giới riêng ấy. Từ điển định nghĩa lòng trắc ẩn là "đau lòng vì sự bất hạnh của người khác" — và đó chính là điều mà Cơ Đốc nhân cần nỗ lực gìn giữ.
+Thế nhưng trong thế giới ngày nay, lòng trắc ẩn đang trở nên khan hiếm. Mạng internet, dù mang lại nhiều lợi ích, lại đẩy con người vào lối sống ích kỷ. Khi một người say mê điện thoại, họ khó chịu với bất kỳ ai phá vỡ cái thế giới riêng ấy. Từ điển định nghĩa lòng trắc ẩn là "đau lòng vì sự bất hạnh của người khác" — và đó chính là điều mà Cơ-đốc nhân cần nỗ lực gìn giữ.
 
 ---
 

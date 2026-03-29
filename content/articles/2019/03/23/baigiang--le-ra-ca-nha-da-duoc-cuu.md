@@ -3,7 +3,7 @@ title: "Lẽ Ra Cả Nhà Đã Được Cứu | Sáng-thế Ký 19"
 date: 2019-03-23
 url: /baigiang/le-ra-ca-nha-da-duoc-cuu/
 description: "Mục sư Dương Quang Thoại chia sẻ từ câu chuyện của Lót trong Sáng-thế Ký 19 — một bài học đau đớn về gia đình, về uy tín lời nói, và về những nguyên nhân khiến kế hoạch cứu rỗi của Đức Chúa Trời cho cả gia đình bị tan vỡ."
-tags: ["Gia Đình", "Cứu Rỗi", "Đức Tin", "Sáng-thế Ký", "Lót", "Sô-đôm", "Gô-mô-rơ", "Lối Sống Cơ Đốc"]
+tags: ["Gia Đình", "Cứu Rỗi", "Đức Tin", "Sáng-thế Ký", "Lót", "Sô-đôm", "Gô-mô-rơ", "Lối Sống Cơ-đốc"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["AIRIE8De3qA"]

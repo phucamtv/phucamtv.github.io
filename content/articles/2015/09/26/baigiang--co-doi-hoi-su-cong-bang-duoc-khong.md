@@ -2,7 +2,7 @@
 title: "Có Đòi Hỏi Sự Công Bằng Được Không?"
 date: 2015-09-26
 url: /baigiang/co-doi-hoi-su-cong-bang-duoc-khong/
-description: "Bài giảng phân tích chủ đề sự bất công trong thế giới qua các câu chuyện Kinh Thánh từ A-bên, Gia-cốp, Giô-sép đến Đức Chúa Giê-su, và cách Cơ Đốc nhân đối diện với bất công để nương cậy Chúa, cảm thông Ngài và trở nên giống Ngài hơn."
+description: "Bài giảng phân tích chủ đề sự bất công trong thế giới qua các câu chuyện Kinh Thánh từ A-bên, Gia-cốp, Giô-sép đến Đức Chúa Giê-su, và cách Cơ-đốc nhân đối diện với bất công để nương cậy Chúa, cảm thông Ngài và trở nên giống Ngài hơn."
 tags: ["Bất Công", "Đức Tin", "Ma-thi-ơ 26", "Ma-thi-ơ 27", "Chịu Khổ", "Nương Cậy Chúa"]
 authors:
   - "duong-quang-thoai"
@@ -27,7 +27,7 @@ Kinh Thánh ghi lại nhiều trường hợp người tốt bị đối xử b�
 
 Những con người quá tốt, rất tốt, mà cuối cùng luôn luôn gặp sự bất công.
 
-## Ba điều Cơ Đốc nhân cần nhận biết
+## Ba điều Cơ-đốc nhân cần nhận biết
 
 **Thứ nhất**, thế giới này hiện nay không thuộc về Đức Chúa Trời -- toàn bộ quyền hành đang nằm trong tay ma quỷ, và đó là nơi chúng ta phải chấp nhận sự bất công tồn tại.
 

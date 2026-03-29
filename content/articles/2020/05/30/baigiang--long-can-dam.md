@@ -46,6 +46,6 @@ Cậu bé 5 tuổi, dù sợ hãi đến mức mặt mày tái xanh, nhưng vẫ
 
 Đức Chúa Giê-su phán trong Ma-thi-ơ 16:25: *"Vì ai muốn cứu sự sống mình thì sẽ mất; còn ai vì cớ Ta mà mất sự sống mình thì sẽ tìm lại được."*
 
-Lòng can đảm Cơ Đốc không phải là không biết sợ hãi. Lòng can đảm là dù biết sợ, dù hiểu rõ cái giá phải trả, vẫn chọn sống và chết vì người khác — vì tình yêu thương mà Chúa đã truyền dạy.
+Lòng can đảm Cơ-đốc không phải là không biết sợ hãi. Lòng can đảm là dù biết sợ, dù hiểu rõ cái giá phải trả, vẫn chọn sống và chết vì người khác — vì tình yêu thương mà Chúa đã truyền dạy.
 
 Hôm nay, bạn có ai cần bạn "truyền máu" cho họ không? Có thể đó là thì giờ, tài vật, sức lực, hay đơn giản chỉ là sự hiện diện và quan tâm của bạn. Hãy can đảm để yêu thương — như Chúa đã yêu chúng ta.

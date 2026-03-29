@@ -52,10 +52,10 @@ Hoàng hậu Ê-xơ-tê cũng vậy — một cô gái dân phu tù trở thành
 
 Câu nói quan trọng nhất trong câu chuyện nằm ở II Các Vua 7:9 — bốn người phung sau khi ăn uống no nê, gom góp tài sản từ trại quân Sy-ri, bỗng dừng lại và nói với nhau rằng: chúng ta đang làm chẳng phải, ngày nay là ngày có tin lành mà chúng ta nín lặng sao? Nếu đợi đến sáng mai thì sự hình phạt chắc sẽ lâm vào chúng ta.
 
-Phi-líp 2:4 nhắc nhở mỗi người trong chúng ta chớ chăm về lợi riêng mình nhưng phải chăm về lợi kẻ khác nữa. Nghĩ đến người khác là điều gần như bắt buộc đối với đời sống Cơ Đốc nhân. Nếu một người tự xưng là Cơ Đốc nhân mà sống ích kỷ, chỉ hưởng thụ cho bản thân, thì đó không phải là hình ảnh của một Cơ Đốc nhân chân chính. Cuộc đời Chúa Cứu Thế là tấm gương về sự hy sinh cho người khác.
+Phi-líp 2:4 nhắc nhở mỗi người trong chúng ta chớ chăm về lợi riêng mình nhưng phải chăm về lợi kẻ khác nữa. Nghĩ đến người khác là điều gần như bắt buộc đối với đời sống Cơ-đốc nhân. Nếu một người tự xưng là Cơ-đốc nhân mà sống ích kỷ, chỉ hưởng thụ cho bản thân, thì đó không phải là hình ảnh của một Cơ-đốc nhân chân chính. Cuộc đời Chúa Cứu Thế là tấm gương về sự hy sinh cho người khác.
 
 ### Sống Một Cuộc Đời Có Kết Quả
 
-Tít 3:14 dạy rằng anh em tín hữu phải học tập chú tâm vào việc lành để cung ứng cho những trường hợp có nhu cầu cấp bách, chứ đừng sống một cuộc đời không kết quả. Kết quả của đời sống Cơ Đốc nhân giống như một cái cây sinh trái — và trái ấy không phải để cây tự ăn mà là để cho người khác. Phước hạnh thật không nằm ở chỗ nhận vào mà ở chỗ cho đi.
+Tít 3:14 dạy rằng anh em tín hữu phải học tập chú tâm vào việc lành để cung ứng cho những trường hợp có nhu cầu cấp bách, chứ đừng sống một cuộc đời không kết quả. Kết quả của đời sống Cơ-đốc nhân giống như một cái cây sinh trái — và trái ấy không phải để cây tự ăn mà là để cho người khác. Phước hạnh thật không nằm ở chỗ nhận vào mà ở chỗ cho đi.
 
 Bốn người phung đã không giữ im lặng. Họ chạy đến cổng thành báo tin, cánh cửa thành mở ra, và cả dân Sa-ma-ri được cứu khỏi nạn đói. Câu hỏi đặt ra cho mỗi chúng ta hôm nay: chúng ta đã nhận được tin lành, đã kinh nghiệm ơn cứu rỗi — vậy chúng ta có nín lặng sao?

@@ -2,8 +2,8 @@
 title: "Tánh Khoe Khoang! | Ma-thi-ơ 6:1-6"
 date: 2021-10-23
 url: /baigiang/tanh-khoe-khoang/
-description: "Ma-thi-ơ 6:1-6 cho thấy Đức Chúa Giê-su cảnh báo về sự khoe khoang trong đời sống thuộc linh — từ việc bố thí đến cầu nguyện. Bài giảng phân tích ba lý do Cơ Đốc nhân không được khoe khoang: Chúa không thích sự phô trương, tình yêu thương không cho phép, và khoe khoang chính là tội lỗi dẫn đến sự tự mãn giết chết đời sống tâm linh."
-tags: ["Khoe Khoang", "Khiêm Nhường", "Ma-thi-ơ", "Cơ Đốc Nhân", "Tự Mãn", "Tình Yêu Thương"]
+description: "Ma-thi-ơ 6:1-6 cho thấy Đức Chúa Giê-su cảnh báo về sự khoe khoang trong đời sống thuộc linh — từ việc bố thí đến cầu nguyện. Bài giảng phân tích ba lý do Cơ-đốc nhân không được khoe khoang: Chúa không thích sự phô trương, tình yêu thương không cho phép, và khoe khoang chính là tội lỗi dẫn đến sự tự mãn giết chết đời sống tâm linh."
+tags: ["Khoe Khoang", "Khiêm Nhường", "Ma-thi-ơ", "Cơ-đốc Nhân", "Tự Mãn", "Tình Yêu Thương"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["VC7kTEZd8IQ"]

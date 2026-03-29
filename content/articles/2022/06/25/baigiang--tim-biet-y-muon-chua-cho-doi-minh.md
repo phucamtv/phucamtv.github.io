@@ -3,7 +3,7 @@ title: "Tìm Biết Ý Muốn Chúa Cho Đời Mình"
 date: 2022-06-25
 url: /baigiang/tim-biet-y-muon-chua-cho-doi-minh/
 description: "Qua Ê-phê-sô 5:17, bài giảng nhấn mạnh tầm quan trọng của việc tìm hiểu ý muốn Đức Chúa Trời. Không hiểu ý Chúa là dại dột; người tin Chúa cần nỗ lực qua Kinh Thánh và cầu nguyện để sống đúng mục đích Ngài đặt ra cho đời mình."
-tags: ["Ý Muốn Chúa", "Ê-phê-sô", "Đời Sống Cơ Đốc", "Kinh Thánh", "Cầu Nguyện"]
+tags: ["Ý Muốn Chúa", "Ê-phê-sô", "Đời Sống Cơ-đốc", "Kinh Thánh", "Cầu Nguyện"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["_BpmYkH3eRA"]

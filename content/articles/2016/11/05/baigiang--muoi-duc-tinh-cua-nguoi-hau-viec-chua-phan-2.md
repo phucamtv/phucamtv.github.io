@@ -2,7 +2,7 @@
 title: "Mười Đức Tính Của Người Hầu Việc Chúa (Phần 2)"
 date: 2016-11-05
 url: /baigiang/muoi-duc-tinh-cua-nguoi-hau-viec-chua-phan-2/
-description: "Mục sư Dương Quang Thoại tiếp tục phần 2 về mười đức tính cần thiết của người hầu việc Chúa: hy sinh, biết lắng nghe, minh bạch tài chánh, tinh thần cầu tiến, và gương mẫu — những phẩm chất không chỉ dành cho người lãnh đạo mà cho mọi Cơ Đốc nhân."
+description: "Mục sư Dương Quang Thoại tiếp tục phần 2 về mười đức tính cần thiết của người hầu việc Chúa: hy sinh, biết lắng nghe, minh bạch tài chánh, tinh thần cầu tiến, và gương mẫu — những phẩm chất không chỉ dành cho người lãnh đạo mà cho mọi Cơ-đốc nhân."
 tags: ["Đức Tính", "Hầu Việc Chúa", "Hy Sinh", "Lắng Nghe", "Tài Chánh", "Cầu Tiến", "Gương Mẫu", "Phi-líp", "Gia-cơ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -16,7 +16,7 @@ draft: false
 
 Trong phần 1, Mục sư Dương Quang Thoại đã chia sẻ về năm đức tính đầu tiên của người hầu việc Chúa: siêng năng, nhiệt thành, chính trực, yêu mến linh hồn, và cư xử lịch sự. Phần 2 tiếp tục với năm đức tính còn lại, bắt đầu từ điều thứ sáu.
 
-Điều đáng chú ý là những đức tính này không chỉ dành riêng cho mục sư hay truyền đạo, mà rất cần thiết cho đời sống của mỗi Cơ Đốc nhân trong gia đình, xã hội và Hội Thánh.
+Điều đáng chú ý là những đức tính này không chỉ dành riêng cho mục sư hay truyền đạo, mà rất cần thiết cho đời sống của mỗi Cơ-đốc nhân trong gia đình, xã hội và Hội Thánh.
 
 ---
 
@@ -62,4 +62,4 @@ Chữ "tự mãn" theo tiếng Hoa nghĩa là tự mình cảm thấy đầy đ�
 
 Gương mẫu được định nghĩa là làm trước và làm đúng. Không phải chỉ nói miệng mà phải sống ra điều mình giảng dạy. Phao-lô khẳng định trong I Cô-rinh-tô 11:1 rằng hãy bắt chước tôi như tôi bắt chước Chúa. Và chính Đức Chúa Giê-su đã phán trong Giăng 13:15 rằng ta đã làm gương cho các con, để các con cũng làm như ta đã làm.
 
-Cuộc sống Cơ Đốc nhân phải có sức hút đối với người chung quanh. Khi người ngoài thắc mắc tại sao giữa khốn khổ mà vẫn bình an, giữa thất vọng mà vẫn lạc quan — đó là cơ hội để làm chứng rằng mình có Chúa Cứu Thế. Mỗi người hãy trở thành người gương mẫu ngay trong gia đình nhỏ bé của mình, và tin rằng mười đức tính này sẽ giúp chúng ta có một cuộc đời khác hơn, đẹp lòng Chúa hơn.
+Cuộc sống Cơ-đốc nhân phải có sức hút đối với người chung quanh. Khi người ngoài thắc mắc tại sao giữa khốn khổ mà vẫn bình an, giữa thất vọng mà vẫn lạc quan — đó là cơ hội để làm chứng rằng mình có Chúa Cứu Thế. Mỗi người hãy trở thành người gương mẫu ngay trong gia đình nhỏ bé của mình, và tin rằng mười đức tính này sẽ giúp chúng ta có một cuộc đời khác hơn, đẹp lòng Chúa hơn.

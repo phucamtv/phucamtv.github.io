@@ -3,7 +3,7 @@ title: "Tình Yêu Và Sự Tha Thứ | I Cô-rinh-tô 13:1-8"
 date: 2023-09-02
 url: /baigiang/tinh-yeu-va-su-tha-thu/
 description: "Bài giảng truyền giảng từ I Cô-rinh-tô 13:1-8 — khám phá mối liên hệ giữa tình yêu thương và sự tha thứ: tại sao không tha thứ là tự giam mình trong ngục tù, và làm thế nào để sống với tấm lòng cao thượng, nhường nhịn và giải phóng chính mình qua sự tha thứ."
-tags: ["Tình Yêu Thương", "Tha Thứ", "I Cô-rinh-tô", "Gia Đình", "Đời Sống Cơ Đốc"]
+tags: ["Tình Yêu Thương", "Tha Thứ", "I Cô-rinh-tô", "Gia Đình", "Đời Sống Cơ-đốc"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["1XyLRueUr0A"]

@@ -3,7 +3,7 @@ title: "Cách Chúa Chọn Người"
 date: 2022-05-14
 url: /baigiang/duong-quang-thoai/cach-chua-chon-nguoi/index.html
 description: "Qua câu chuyện Ghê-đê-ôn trong Các Quan Xét 6-7, bài giảng phân tích ba tiêu chí Đức Chúa Trời dùng để chọn người: sự can đảm, biết tự kiềm chế, và có tầm nhìn cùng sự phó thác."
-tags: ["Nhân Vật", "Đức Tin", "Đời Sống Cơ Đốc", "Phục Vụ"]
+tags: ["Nhân Vật", "Đức Tin", "Đời Sống Cơ-đốc", "Phục Vụ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["4j3_n2nGXBM"]
@@ -12,7 +12,7 @@ draft: false
 
 {{< youtube "4j3_n2nGXBM" >}}
 
-Chúng ta thường quan tâm đến việc người khác nghĩ về mình thế nào, đánh giá mình ra sao. Thế nhưng, là một Cơ Đốc nhân, điều quan trọng hơn là Đức Chúa Trời nghĩ về chúng ta như thế nào, và Ngài chọn lựa chúng ta dựa trên những tiêu chí nào.
+Chúng ta thường quan tâm đến việc người khác nghĩ về mình thế nào, đánh giá mình ra sao. Thế nhưng, là một Cơ-đốc nhân, điều quan trọng hơn là Đức Chúa Trời nghĩ về chúng ta như thế nào, và Ngài chọn lựa chúng ta dựa trên những tiêu chí nào.
 
 ## Chúa đánh giá con người theo bề trong
 

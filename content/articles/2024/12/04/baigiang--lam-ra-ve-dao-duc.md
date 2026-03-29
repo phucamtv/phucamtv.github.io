@@ -52,4 +52,4 @@ Phân đoạn cuối cùng là hình ảnh mạnh mẽ nhất. Theo luật Do Th
 
 Cả ba phân đoạn đều hướng đến một lời cảnh cáo chung: đừng sống đạo đức giả. Đừng tỉ mỉ trong những điều nhỏ nhặt để phô trương, rồi bỏ quên sự công bình, thương xót và trung tín. Đừng chỉ lo rửa bề ngoài mà để bên trong đầy tham lam. Đừng tô trắng bề ngoài trong khi tấm lòng đầy tội lỗi.
 
-Lời Đức Chúa Giê-su không chỉ dành cho người Pha-ri-si ngày xưa, mà còn là tấm gương soi cho mỗi Cơ Đốc nhân hôm nay. Đi nhà thờ nhưng buôn bán không lương thiện, học Kinh Thánh nhưng đối xử keo kiệt, nhiệt thành phục vụ Hội Thánh nhưng bỏ bê gia đình — tất cả đều là biểu hiện của lối sống tôn giáo bề ngoài. Đức Chúa Trời nhìn thấy tấm lòng, và Ngài kêu gọi chúng ta sống thật từ bên trong.
+Lời Đức Chúa Giê-su không chỉ dành cho người Pha-ri-si ngày xưa, mà còn là tấm gương soi cho mỗi Cơ-đốc nhân hôm nay. Đi nhà thờ nhưng buôn bán không lương thiện, học Kinh Thánh nhưng đối xử keo kiệt, nhiệt thành phục vụ Hội Thánh nhưng bỏ bê gia đình — tất cả đều là biểu hiện của lối sống tôn giáo bề ngoài. Đức Chúa Trời nhìn thấy tấm lòng, và Ngài kêu gọi chúng ta sống thật từ bên trong.

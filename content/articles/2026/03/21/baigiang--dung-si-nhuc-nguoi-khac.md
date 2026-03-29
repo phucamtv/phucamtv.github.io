@@ -79,7 +79,7 @@ Vụ việc xảy ra ở sân bay New York — tức là trước mắt thế gi
 
 Tương tự, vụ anh Phạm Văn Thoại bị lừa đảo ở Sim Lim Square (Singapore): dù theo luật, người bán không sai, nhưng chính phủ Singapore vẫn điều tra và kết án bốn người vì tội lừa đảo — để bảo vệ uy tín quốc gia.
 
-Huống chi là chúng ta — những người mang danh Cơ Đốc nhân. Cách chúng ta đối xử với người khác ảnh hưởng đến danh của Đức Chúa Trời giữa vòng dân ngoại. Châm-ngôn 16:18 nhắc nhở: *"Sự kiêu ngạo đi trước, sự bại hoại theo sau."*
+Huống chi là chúng ta — những người mang danh Cơ-đốc nhân. Cách chúng ta đối xử với người khác ảnh hưởng đến danh của Đức Chúa Trời giữa vòng dân ngoại. Châm-ngôn 16:18 nhắc nhở: *"Sự kiêu ngạo đi trước, sự bại hoại theo sau."*
 
 ### 7. Sự công bằng của Đức Chúa Trời
 

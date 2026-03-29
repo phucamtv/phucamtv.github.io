@@ -16,7 +16,7 @@ draft: false
 
 Giáng Sinh ngày nay đã trở thành lễ hội toàn cầu. Dù là Phật tử, người Hồi giáo, người vô thần hay những người không theo đạo nào, hầu hết đều hòa chung trong không khí mừng Giáng Sinh. Nhưng rất nhiều người không nhận thức rằng đây là ngày Chúa Cứu Thế Giê-su — Con Đức Chúa Trời — đã ra đời.
 
-Bài giảng truyền giảng tháng 5 năm 2016 tại Hội Thánh Cơ Đốc Phục Lâm Cần Thơ đặt ra câu hỏi: *Nếu Chúa không giáng trần, thì chuyện gì xảy ra?* Đây không phải câu hỏi giả định thuần túy — mà là lời mời con người nhìn thẳng vào thực tại của thân phận mình và nhận ra giá trị vô song của sự cứu rỗi.
+Bài giảng truyền giảng tháng 5 năm 2016 tại Hội Thánh Cơ-đốc Phục Lâm Cần Thơ đặt ra câu hỏi: *Nếu Chúa không giáng trần, thì chuyện gì xảy ra?* Đây không phải câu hỏi giả định thuần túy — mà là lời mời con người nhìn thẳng vào thực tại của thân phận mình và nhận ra giá trị vô song của sự cứu rỗi.
 
 ---
 
@@ -38,7 +38,7 @@ Mục sư Dương Quang Thoại kể về con chó tên Mona của người con 
 
 ### "Lá Mùa Thu" Và Sự Tuyệt Vọng
 
-Nhạc sĩ Trịnh Công Sơn — người không theo đạo Cơ Đốc nhưng có cái nhìn sâu sắc về thân phận — đã bày tỏ nỗi tuyệt vọng tinh tế trong ca từ của mình. Bài *Tôi Ơi Đừng Tuyệt Vọng* vừa là lời tự trấn an mình, vừa là lời kêu gọi người khác. Hình ảnh *"lá mùa thu rơi rụng giữa mùa đông"* diễn đạt một triết lý sâu xa: chiếc lá đã chết từ mùa thu, nhưng nó cố níu kéo cành cây, và dù có níu kéo đến nửa mùa đông thì rồi cũng phải rơi rụng.
+Nhạc sĩ Trịnh Công Sơn — người không theo đạo Cơ-đốc nhưng có cái nhìn sâu sắc về thân phận — đã bày tỏ nỗi tuyệt vọng tinh tế trong ca từ của mình. Bài *Tôi Ơi Đừng Tuyệt Vọng* vừa là lời tự trấn an mình, vừa là lời kêu gọi người khác. Hình ảnh *"lá mùa thu rơi rụng giữa mùa đông"* diễn đạt một triết lý sâu xa: chiếc lá đã chết từ mùa thu, nhưng nó cố níu kéo cành cây, và dù có níu kéo đến nửa mùa đông thì rồi cũng phải rơi rụng.
 
 Đó là thân phận của con người: biết mình sẽ chết, dù yêu cuộc đời đến đâu, dù cố sống thêm bao lâu, thì cũng đến lúc phải giã từ.
 
@@ -92,7 +92,7 @@ Giăng 8:12: *"Ta là sự sáng của thế gian, người nào theo ta chẳng
 
 ### Từ Tuyệt Vọng Đến Hy Vọng
 
-Ê-phê-sô 2:5 tóm gọn điều kỳ diệu này: *"Đang khi chúng ta chết vì tội mình thì Ngài làm cho chúng ta sống với Đấng Cơ Đốc."* Khi chúng ta không còn gì — không có niềm hy vọng, không có lối thoát, đang chết dần trong tội lỗi — Chúa đến và làm cho chúng ta sống lại.
+Ê-phê-sô 2:5 tóm gọn điều kỳ diệu này: *"Đang khi chúng ta chết vì tội mình thì Ngài làm cho chúng ta sống với Đấng Cơ-đốc."* Khi chúng ta không còn gì — không có niềm hy vọng, không có lối thoát, đang chết dần trong tội lỗi — Chúa đến và làm cho chúng ta sống lại.
 
 ---
 

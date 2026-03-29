@@ -3,7 +3,7 @@ title: "Tưởng Được Mà Mất | Ma-thi-ơ 16:26, Lu-ca 14:25-35"
 date: 2023-09-09
 url: /baigiang/tuong-duoc-ma-mat/
 description: "Bài giảng từ Ma-thi-ơ 16:26 và Lu-ca 14:25-35 — Mục sư Dương Quang Thoại phân tích những chọn lựa sai lầm trong đời sống khi con người tưởng rằng mình được nhưng thực ra là mất, đặc biệt trong lĩnh vực linh hồn và sự sống đời đời."
-tags: ["Linh Hồn", "Sự Sống Đời Đời", "Môn Đồ", "Chọn Lựa", "Ma-thi-ơ", "Lu-ca", "Đời Sống Cơ Đốc"]
+tags: ["Linh Hồn", "Sự Sống Đời Đời", "Môn Đồ", "Chọn Lựa", "Ma-thi-ơ", "Lu-ca", "Đời Sống Cơ-đốc"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["78Djx_m1Z6g"]

@@ -46,7 +46,7 @@ Câu 15 ghi: "Người chết vùng ngồi dậy và khởi sự nói." Mục s�
 
 Áp dụng cho đời sống tín hữu, Mục sư đặt câu hỏi: Chúng ta có thật sự đang sống trong đời sống theo Chúa hay không? Hay bên ngoài có vẻ sống — đi nhà thờ, tham gia các hoạt động — nhưng bên trong đã chết? Sách Khải Huyền cảnh báo: "Ngươi có tiếng là sống nhưng kỳ thực là chết."
 
-Dấu hiệu của một Cơ Đốc nhân thật sự sống là nói về Chúa. I Cô-rinh-tô 11:26 dạy: "Mỗi lần anh em ăn bánh này, uống chén này, thì rao sự chết của Chúa cho tới lúc Ngài đến." Mục sư ví điều này như những người bán rong trong các con hẻm ngày xưa — phải rao lên thì người ta mới biết mà mua. Hội Thánh cũng phải rao sự cứu rỗi của Chúa cho cả thế giới.
+Dấu hiệu của một Cơ-đốc nhân thật sự sống là nói về Chúa. I Cô-rinh-tô 11:26 dạy: "Mỗi lần anh em ăn bánh này, uống chén này, thì rao sự chết của Chúa cho tới lúc Ngài đến." Mục sư ví điều này như những người bán rong trong các con hẻm ngày xưa — phải rao lên thì người ta mới biết mà mua. Hội Thánh cũng phải rao sự cứu rỗi của Chúa cho cả thế giới.
 
 ---
 

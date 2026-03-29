@@ -39,7 +39,7 @@ Mỗi khi cơn giận dâng lên, hãy nhớ lời Chúa đã hỏi Ca-in, để
 
 ## Lời Khuyên Từ Sứ Đồ Gia-cơ
 
-Kinh Thánh trong sách Gia-cơ đoạn 1 câu 19-20 viết rằng mọi người phải mau nghe, chậm nói, và chậm giận, vì cơn giận của loài người không thực hiện được sự công bình của Đức Chúa Trời. Đây là nguyên tắc vàng cho đời sống Cơ Đốc nhân: mau nghe để thấu hiểu, chậm nói để suy xét, và chậm giận để không phạm tội.
+Kinh Thánh trong sách Gia-cơ đoạn 1 câu 19-20 viết rằng mọi người phải mau nghe, chậm nói, và chậm giận, vì cơn giận của loài người không thực hiện được sự công bình của Đức Chúa Trời. Đây là nguyên tắc vàng cho đời sống Cơ-đốc nhân: mau nghe để thấu hiểu, chậm nói để suy xét, và chậm giận để không phạm tội.
 
 Sự giận dữ thiếu kiểm soát không bao giờ đem lại kết quả tốt đẹp. Nó không thực hiện được sự công bình mà Đức Chúa Trời mong muốn. Thay vào đó, nó phá hủy mối quan hệ, tổn thương người xung quanh, và xa cách chính Chúa.
 

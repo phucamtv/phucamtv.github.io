@@ -34,7 +34,7 @@ Cùng một sự việc nhưng thái độ đón nhận hoàn toàn khác nhau �
 
 Mục sư phân tích ba nguyên nhân khiến người Pha-ri-si phản ứng tiêu cực. Thứ nhất, họ bị giam hãm trong đường lối cũ — bảo thủ cố hữu đến mức không còn chỗ để tiếp nhận bất kỳ ánh sáng mới nào từ lẽ thật. Thứ hai, họ tự mãn và kiêu ngạo — nếu thừa nhận Đức Chúa Giê-su đúng tức là gián tiếp thừa nhận mình sai, điều mà lòng tự ái không cho phép. Thứ ba, họ mang thành kiến quá sâu nặng — lớp màn thành kiến che mắt khiến họ không thể nhìn nhận công bằng, dẫn đến những lời nói và hành động độc ác nhằm loại trừ Chúa.
 
-Thành kiến không chỉ tồn tại trong thời Kinh Thánh mà còn hiện diện trong đời sống Cơ Đốc nhân ngày nay. Khi bị thành kiến chi phối, người ta gọi nhau là tà giáo, hãm hại nhau, và tự triệt hạ chính đạo Chúa — đó là nỗi đau đớn lớn nhất trong cộng đồng đức tin.
+Thành kiến không chỉ tồn tại trong thời Kinh Thánh mà còn hiện diện trong đời sống Cơ-đốc nhân ngày nay. Khi bị thành kiến chi phối, người ta gọi nhau là tà giáo, hãm hại nhau, và tự triệt hạ chính đạo Chúa — đó là nỗi đau đớn lớn nhất trong cộng đồng đức tin.
 
 ---
 

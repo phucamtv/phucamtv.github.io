@@ -34,7 +34,7 @@ Câu hỏi cốt lõi được đặt ra: Bạn đã thật sự có niềm tin 
 
 ## Hệ Quả Của Sự Hoài Nghi
 
-Chúng ta cần xem lại niềm tin của mình vào những phép lạ của Chúa khi niềm tin ấy chưa được vững vàng. Cơ Đốc giáo không thể tấn công vào một thế giới hoài nghi và vô tín nếu ngay cả chính chúng ta còn mơ hồ về những điều kỳ diệu Chúa đã làm.
+Chúng ta cần xem lại niềm tin của mình vào những phép lạ của Chúa khi niềm tin ấy chưa được vững vàng. Cơ-đốc giáo không thể tấn công vào một thế giới hoài nghi và vô tín nếu ngay cả chính chúng ta còn mơ hồ về những điều kỳ diệu Chúa đã làm.
 
 Khi người tin Chúa thiếu xác tín, chẳng khác nào chúng ta đang vô tình đẩy mọi người xa rời đức tin. Thay vì làm cho người khác tin, sự do dự của chúng ta lại trở thành rào cản cho Phúc Âm.
 

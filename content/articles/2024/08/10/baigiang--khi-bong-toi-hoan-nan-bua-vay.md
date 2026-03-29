@@ -18,7 +18,7 @@ Thi-thiên 31:10 chép: *"Đời sống tôi tiêu hao vì cớ sự sầu muộ
 
 Đây là lời của Đa-vít — một người được mô tả là "người hợp với lòng Đức Chúa Trời." Vậy mà ông cũng có những ngày tháng đầy sầu thảm, đầy than thở, đến mức xương cốt mỏn yếu. Khi chúng ta đọc những lời này, không khó để nhận ra: ai đó trong chúng ta cũng đã từng rơi vào tâm trạng ấy.
 
-Thực tế cuộc sống Cơ Đốc nhân không đơn giản như đôi khi được rao giảng: *"Tin Chúa đi, không bao giờ gặp hoạn nạn."* Đó là những lời không trung thực với Kinh Thánh. Kinh Thánh nói rõ: anh em sẽ gặp thử thách trăm bề — không phải một hai bề, mà trăm bề dồn dập.
+Thực tế cuộc sống Cơ-đốc nhân không đơn giản như đôi khi được rao giảng: *"Tin Chúa đi, không bao giờ gặp hoạn nạn."* Đó là những lời không trung thực với Kinh Thánh. Kinh Thánh nói rõ: anh em sẽ gặp thử thách trăm bề — không phải một hai bề, mà trăm bề dồn dập.
 
 ---
 

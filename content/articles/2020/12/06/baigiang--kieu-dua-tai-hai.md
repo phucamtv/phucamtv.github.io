@@ -2,8 +2,8 @@
 title: "Kiểu Đùa Tai Hại"
 date: 2020-12-06
 url: /baigiang/kieu-dua-tai-hai/
-description: "Bài học về sự cẩn trọng trong lời nói và cách đùa giỡn từ góc nhìn Cơ Đốc nhân, nhắc nhở chúng ta sống sao cho xứng đáng trước mặt Chúa."
-tags: ["Chắp Cánh Bay Cao", "Lời Nói", "Đời Sống Cơ Đốc", "Sự Khôn Ngoan"]
+description: "Bài học về sự cẩn trọng trong lời nói và cách đùa giỡn từ góc nhìn Cơ-đốc nhân, nhắc nhở chúng ta sống sao cho xứng đáng trước mặt Chúa."
+tags: ["Chắp Cánh Bay Cao", "Lời Nói", "Đời Sống Cơ-đốc", "Sự Khôn Ngoan"]
 authors:
   - duong-quang-thoai
 plugins:
@@ -39,7 +39,7 @@ Tuy nhiên, ranh giới giữa hài hước lành mạnh và sự đùa cợt ta
 
 Để sự hài hước thực sự mang lại niềm vui và gắn kết, chúng ta cần tuân theo những nguyên tắc cơ bản: đùa đúng người, đúng lúc, đúng chỗ và đúng tính chất. Điều này đòi hỏi sự nhạy cảm và tinh tế trong việc đọc hiểu hoàn cảnh cũng như cảm xúc của những người xung quanh.
 
-Một Cơ Đốc nhân càng cần phải cẩn trọng hơn trong cách giao tiếp và đùa giỡn. Nhân cách của người tin Chúa không chỉ phản ánh bản thân họ mà còn phản ánh đức tin mà họ đang theo đuổi. Khi chúng ta đùa cợt thiếu suy nghĩ, chúng ta không chỉ làm tổn thương người khác mà còn làm lu mờ hình ảnh của Đấng Christ trong đời sống mình.
+Một Cơ-đốc nhân càng cần phải cẩn trọng hơn trong cách giao tiếp và đùa giỡn. Nhân cách của người tin Chúa không chỉ phản ánh bản thân họ mà còn phản ánh đức tin mà họ đang theo đuổi. Khi chúng ta đùa cợt thiếu suy nghĩ, chúng ta không chỉ làm tổn thương người khác mà còn làm lu mờ hình ảnh của Đấng Christ trong đời sống mình.
 
 ## Chúa Đang Lắng Nghe
 

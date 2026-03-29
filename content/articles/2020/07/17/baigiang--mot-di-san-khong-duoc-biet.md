@@ -27,9 +27,9 @@ Câu chuyện bức tranh khiến chúng ta liên tưởng đến Ê-sau trong K
 
 Nhưng Ê-sau đã không nhận biết giá trị của đặc quyền ấy. Trong một phút yếu đuối trước cơn đói, ông đã bán rẻ quyền trưởng nam chỉ bằng giá của một tô canh phạn đậu. Ông đã đánh đổi một di sản thiêng liêng để thỏa mãn cơn thèm khát tạm thời của thân xác. Và hậu quả là ông phải ân hận suốt cả đời, không còn cách nào lấy lại được điều đã mất.
 
-## Bài Học Cho Cơ Đốc Nhân Ngày Nay
+## Bài Học Cho Cơ-đốc Nhân Ngày Nay
 
-Giống như bức tranh quý bị bỏ quên trong nhà ăn tu viện, và giống như Ê-sau không biết giá trị quyền trưởng nam, nhiều Cơ Đốc nhân ngày nay cũng đang sở hữu một di sản vô giá mà không hề hay biết. Họ đang thừa hưởng sự cứu rỗi quý báu mà Đức Chúa Giê-su phải dùng chính sự chết của Ngài trên thập tự giá để đạt được. Thế nhưng, thay vì trân trọng ân sủng ấy, nhiều người lại tỏ ra xem thường, thậm chí bán rẻ sự sống đời đời để đổi lấy những hưởng thụ tạm bợ của trần thế.
+Giống như bức tranh quý bị bỏ quên trong nhà ăn tu viện, và giống như Ê-sau không biết giá trị quyền trưởng nam, nhiều Cơ-đốc nhân ngày nay cũng đang sở hữu một di sản vô giá mà không hề hay biết. Họ đang thừa hưởng sự cứu rỗi quý báu mà Đức Chúa Giê-su phải dùng chính sự chết của Ngài trên thập tự giá để đạt được. Thế nhưng, thay vì trân trọng ân sủng ấy, nhiều người lại tỏ ra xem thường, thậm chí bán rẻ sự sống đời đời để đổi lấy những hưởng thụ tạm bợ của trần thế.
 
 Có những tín hữu đang nắm giữ một tài sản vĩ đại — đó là năng lực và sự sống trong Chúa Cứu Thế — mà lại không biết sử dụng. Họ sống như thể mình không có gì đặc biệt, trong khi thực tế họ là những viên đá sống được Chúa xây dựng nên đền thờ thiêng liêng. Sự cứu chuộc không phải là điều rẻ mạt, mà là kho tàng quý giá nhất mà Đức Chúa Trời đã ban cho nhân loại.
 

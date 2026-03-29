@@ -24,7 +24,7 @@ Sứ điệp đầu tiên Ngài tuyên bố là: *"Các ngươi hãy ăn năn, v
 
 Đang đi dọc mé biển Ga-li-lê, Đức Chúa Giê-su thấy Si-môn Phi-e-rơ và Anh-rê đang thả lưới. Ngài phán: *"Các ngươi hãy theo ta, ta sẽ cho các ngươi nên tay đánh lưới người."* Hai anh em lập tức bỏ lưới theo Ngài. Đi thêm một đoạn, Ngài gặp Gia-cơ và Giăng đang vá lưới cùng cha trong thuyền — hai người cũng tức thì bỏ thuyền, bỏ cha mà đi theo.
 
-Bốn người đầu tiên được Chúa gọi — và sau này trở thành trụ cột của Cơ Đốc giáo — đều là ngư phủ: dốt nát, thất học, thô lỗ theo mắt thế gian, nhưng lại chân thật và trung thành. Đây không phải sự chọn lựa ngẫu nhiên. Những người đánh cá vốn đã được tôi luyện bởi công việc khắc nghiệt — và chính những đức tính ấy là nền tảng cho chức vụ "đánh lưới người."
+Bốn người đầu tiên được Chúa gọi — và sau này trở thành trụ cột của Cơ-đốc giáo — đều là ngư phủ: dốt nát, thất học, thô lỗ theo mắt thế gian, nhưng lại chân thật và trung thành. Đây không phải sự chọn lựa ngẫu nhiên. Những người đánh cá vốn đã được tôi luyện bởi công việc khắc nghiệt — và chính những đức tính ấy là nền tảng cho chức vụ "đánh lưới người."
 
 ## Sáu Bản Tính Của Một Tay Đánh Lưới Người
 

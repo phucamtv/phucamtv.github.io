@@ -36,7 +36,7 @@ Giảng về Chúa mà dùng kiến thức đi kèm với sự tự phụ thì c
 
 Tòa Công Luận xưa phải rúng động trước những lời lẽ đơn sơ nhưng đầy uy lực của hai người chài lưới thất học — vì họ chỉ nói về Giê-su và nói bằng kinh nghiệm sống với Giê-su. Bí quyết nằm ở đó!
 
-Hãy sống với Chúa và sống khiêm nhường như Chúa, bài giảng của bạn sẽ truyền được sức sống cho những tâm linh cằn cỗi. Bất cứ một tiêu đích nào khác, ngoài thập tự giá và Đấng Cơ Đốc, đều làm cho bài giảng thất bại.
+Hãy sống với Chúa và sống khiêm nhường như Chúa, bài giảng của bạn sẽ truyền được sức sống cho những tâm linh cằn cỗi. Bất cứ một tiêu đích nào khác, ngoài thập tự giá và Đấng Cơ-đốc, đều làm cho bài giảng thất bại.
 
 ---
 

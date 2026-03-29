@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 7:1-5
 
-Trong bài giảng trên núi, Đức Chúa Giê-su đưa ra một mệnh lệnh rõ ràng và nghiêm túc: *"Các ngươi đừng đoán xét ai, để mình khỏi bị đoán xét."* Mục sư Dương Quang Thoại dẫn dắt hội thánh đi sâu vào năm câu Kinh Thánh ngắn nhưng chứa đựng nguyên tắc sống vô cùng quan trọng cho đời sống Cơ Đốc nhân.
+Trong bài giảng trên núi, Đức Chúa Giê-su đưa ra một mệnh lệnh rõ ràng và nghiêm túc: *"Các ngươi đừng đoán xét ai, để mình khỏi bị đoán xét."* Mục sư Dương Quang Thoại dẫn dắt hội thánh đi sâu vào năm câu Kinh Thánh ngắn nhưng chứa đựng nguyên tắc sống vô cùng quan trọng cho đời sống Cơ-đốc nhân.
 
 ---
 

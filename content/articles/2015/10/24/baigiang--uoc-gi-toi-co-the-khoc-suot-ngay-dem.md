@@ -3,7 +3,7 @@ title: "Ước Gì Tôi Có Thể Khóc Suốt Ngày Đêm"
 date: 2015-10-24
 url: /baigiang/uoc-gi-toi-co-the-khoc-suot-ngay-dem/
 description: "Bài giảng từ Giê-rê-mi 9 về nỗi đau của tiên tri Giê-rê-mi khi sống giữa xã hội đầy dối trá và bạo ác, cùng lời kêu gọi nhận biết Chúa và bước đi trong luật pháp Ngài."
-tags: ["Giê-rê-mi", "Nước Mắt", "Dối Trá", "Xã Hội", "Luật Pháp Chúa", "Cắt Bì Lòng", "Đau Khổ", "Đời Sống Cơ Đốc"]
+tags: ["Giê-rê-mi", "Nước Mắt", "Dối Trá", "Xã Hội", "Luật Pháp Chúa", "Cắt Bì Lòng", "Đau Khổ", "Đời Sống Cơ-đốc"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["7gPLhG4jfao"]

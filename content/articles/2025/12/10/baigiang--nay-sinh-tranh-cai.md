@@ -16,9 +16,9 @@ draft: false
 
 Công Vụ đoạn 15 mở ra với một cuộc xung đột nghiêm trọng trong hội thánh ban đầu. Một số người từ xứ Giu-đê đến An-ti-ốt và dạy rằng người ngoại phải chịu phép cắt bì theo luật Môi-se thì mới được cứu rỗi. Điều này gây ra sự tranh cãi dữ dội giữa Phao-lô, Ba-na-ba và những người theo quan điểm Do Thái giáo.
 
-Cuộc tranh luận căng thẳng đến mức hội thánh An-ti-ốt quyết định cử Phao-lô và Ba-na-ba cùng một phái đoàn lên Giê-ru-sa-lem để hỏi ý kiến các sứ đồ và trưởng lão. Đây không phải là vấn đề nhỏ — nó quyết định bản chất của Cơ Đốc giáo: liệu đạo Chúa có phải chỉ là một nhánh của Do Thái giáo, hay là đức tin dành cho toàn nhân loại?
+Cuộc tranh luận căng thẳng đến mức hội thánh An-ti-ốt quyết định cử Phao-lô và Ba-na-ba cùng một phái đoàn lên Giê-ru-sa-lem để hỏi ý kiến các sứ đồ và trưởng lão. Đây không phải là vấn đề nhỏ — nó quyết định bản chất của Cơ-đốc giáo: liệu đạo Chúa có phải chỉ là một nhánh của Do Thái giáo, hay là đức tin dành cho toàn nhân loại?
 
-Những người Do Thái tin Chúa, đặc biệt là nhóm thuộc dòng Pha-ri-si, mang theo niềm tự hào dân tộc sâu sắc. Họ cho rằng cánh cửa cứu rỗi phải thông qua việc trở thành người Do Thái trước. Nếu quan điểm này thắng thế, Cơ Đốc giáo sẽ chỉ là một phần phụ thuộc của Do Thái giáo, hoàn toàn trái với mục đích của Đức Chúa Giê-su — Đấng đã chết cho cả nhân loại, không bị giới hạn trong bất cứ dân tộc nào.
+Những người Do Thái tin Chúa, đặc biệt là nhóm thuộc dòng Pha-ri-si, mang theo niềm tự hào dân tộc sâu sắc. Họ cho rằng cánh cửa cứu rỗi phải thông qua việc trở thành người Do Thái trước. Nếu quan điểm này thắng thế, Cơ-đốc giáo sẽ chỉ là một phần phụ thuộc của Do Thái giáo, hoàn toàn trái với mục đích của Đức Chúa Giê-su — Đấng đã chết cho cả nhân loại, không bị giới hạn trong bất cứ dân tộc nào.
 
 ---
 
@@ -34,9 +34,9 @@ Tại Giê-ru-sa-lem, một cuộc họp quan trọng nhất kể từ khi hội
 
 ---
 
-## Sự Khác Biệt Cốt Lõi Của Cơ Đốc Giáo
+## Sự Khác Biệt Cốt Lõi Của Cơ-đốc Giáo
 
-Đây là điểm đặc biệt nhất của đức tin Cơ Đốc so với mọi tôn giáo khác trên thế giới. Hầu hết các tôn giáo đều đòi hỏi con người phải làm điều gì đó để được Thượng Đế thương xót — phải ráng giữ luật, phải tu tập, phải tích đức. Nhưng Cơ Đốc giáo dạy điều ngược lại: con người phải thừa nhận mình bất lực, thất bại, không thể tự cứu mình. Chỉ khi nhận biết sự bất lực đó, ân điển của Đức Chúa Trời mới hành động.
+Đây là điểm đặc biệt nhất của đức tin Cơ-đốc so với mọi tôn giáo khác trên thế giới. Hầu hết các tôn giáo đều đòi hỏi con người phải làm điều gì đó để được Thượng Đế thương xót — phải ráng giữ luật, phải tu tập, phải tích đức. Nhưng Cơ-đốc giáo dạy điều ngược lại: con người phải thừa nhận mình bất lực, thất bại, không thể tự cứu mình. Chỉ khi nhận biết sự bất lực đó, ân điển của Đức Chúa Trời mới hành động.
 
 Một bên là việc làm đi trước, mong thương xót đến sau. Bên kia là ân điển đến trước, rồi năng lực và việc làm theo sau. Đó là sự khác biệt căn bản. Điều này không có nghĩa là người tin Chúa không cần làm gì — như Gia-cơ đã viết: đức tin không có việc làm là đức tin chết. Nhưng thứ tự phải đúng: ân điển trước, rồi việc làm theo sau như bông trái tự nhiên của đức tin.
 

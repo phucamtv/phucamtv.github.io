@@ -29,11 +29,11 @@ Người không tin chỉ chấp nhận những gì họ có thể chứng minh 
 
 ## Sự phục sinh của Chúa Cứu Thế
 
-Đức Chúa Giê-su Christ đã sống lại từ cõi chết. Đây là một sự kiện lịch sử có thật, được nhiều nhân chứng xác nhận, chứ không phải là một truyền thuyết hay huyền thoại. Sự phục sinh của Ngài đã mang đến cho thế giới đầy bệnh tật và chết chóc này một niềm hy vọng lớn lao: niềm hy vọng vào đời sau với một hình hài toàn vẹn hơn và một tâm tính thánh thiện hơn. Sự sống lại của Đấng Christ là nền tảng cho đức tin Cơ Đốc, là lời hứa chắc chắn rằng sự chết không phải là dấu chấm hết.
+Đức Chúa Giê-su Christ đã sống lại từ cõi chết. Đây là một sự kiện lịch sử có thật, được nhiều nhân chứng xác nhận, chứ không phải là một truyền thuyết hay huyền thoại. Sự phục sinh của Ngài đã mang đến cho thế giới đầy bệnh tật và chết chóc này một niềm hy vọng lớn lao: niềm hy vọng vào đời sau với một hình hài toàn vẹn hơn và một tâm tính thánh thiện hơn. Sự sống lại của Đấng Christ là nền tảng cho đức tin Cơ-đốc, là lời hứa chắc chắn rằng sự chết không phải là dấu chấm hết.
 
 ## Niềm tin không bao giờ vô ích
 
-Sứ đồ Phao-lô đã viết trong thư I Cô-rinh-tô 15:19 rằng: nếu chúng ta chỉ có sự trông cậy trong Đấng Christ về đời này mà thôi, thì trong cả mọi người, chúng ta là kẻ khốn nạn hơn hết. Câu Kinh Thánh này nhắc nhở chúng ta rằng đức tin Cơ Đốc không chỉ dừng lại ở đời này. Niềm tin vào sự sống lại là cốt lõi của Phúc Âm, là động lực để chúng ta sống kiên trì và trung tín giữa những thử thách.
+Sứ đồ Phao-lô đã viết trong thư I Cô-rinh-tô 15:19 rằng: nếu chúng ta chỉ có sự trông cậy trong Đấng Christ về đời này mà thôi, thì trong cả mọi người, chúng ta là kẻ khốn nạn hơn hết. Câu Kinh Thánh này nhắc nhở chúng ta rằng đức tin Cơ-đốc không chỉ dừng lại ở đời này. Niềm tin vào sự sống lại là cốt lõi của Phúc Âm, là động lực để chúng ta sống kiên trì và trung tín giữa những thử thách.
 
 Niềm tin của chúng ta sẽ không bao giờ là vô ích. Hãy khích lệ nhau về điều đó. Dù phải trả giá, dù phải chịu đựng nhiều gian nan trong cuộc sống hiện tại, phần thưởng cho tất cả những hy sinh ấy chính là sự sống lại vinh hiển trong ngày Chúa trở lại. Giống như hạt giống nhỏ bé kia đã phá tung ngôi mộ kiên cố nhất, quyền năng phục sinh của Đức Chúa Trời cũng sẽ vượt qua mọi rào cản mà con người dựng lên, kể cả sự nghi ngờ và vô tín trong lòng chúng ta.
 

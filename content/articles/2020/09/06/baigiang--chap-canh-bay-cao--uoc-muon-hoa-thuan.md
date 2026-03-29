@@ -22,7 +22,7 @@ Chuyện thần thoại kể rằng có chàng thanh niên kia ngồi khóc sư�
 
 Câu chuyện nghe tưởng chừng cảm động nhưng kết thúc lại khiến người ta phải giật mình. Dường như con người khi làm một việc gì cũng đều có bóng dáng của sự tư lợi — hoặc vật chất, hoặc tinh thần. Ngay cả trong những hành vi thánh thiện nhất, trong những tình cảm thiêng liêng nhất, lòng người vẫn hay tính toán. Tính toán ngay cả lúc yêu thương.
 
-Đây là một thực trạng đáng buồn mà mỗi Cơ Đốc nhân cần nhìn thẳng vào. Chúng ta nói yêu thương anh chị em, nhưng đằng sau đó là gì? Là mong được khen ngợi? Là mong được đáp trả? Hay là tình yêu chân thật, xuất phát từ sự rung động của tâm hồn bởi những cảm xúc chân thành trước tình yêu của Đức Chúa Trời?
+Đây là một thực trạng đáng buồn mà mỗi Cơ-đốc nhân cần nhìn thẳng vào. Chúng ta nói yêu thương anh chị em, nhưng đằng sau đó là gì? Là mong được khen ngợi? Là mong được đáp trả? Hay là tình yêu chân thật, xuất phát từ sự rung động của tâm hồn bởi những cảm xúc chân thành trước tình yêu của Đức Chúa Trời?
 
 ## Yêu Suông Trên Cửa Miệng
 

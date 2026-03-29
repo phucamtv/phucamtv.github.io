@@ -4,3 +4,4 @@
 - "ban phước" vs "chúc phước": Chúa/God "ban phước" (has authority to bless). Người/human "chúc phước" (can only wish blessings). Never use "chúc phước" when the subject is God.
 - Use "Sa-bát" instead of "Sabát"
 - Use "Do Thái Giáo" instead of "Giu-đa-izt"
+- Use "Cơ-đốc" instead of "Cơ Đốc"

@@ -2,7 +2,7 @@
 title: "Sống Thế Nào Để Người Ta Thấy | Ma-thi-ơ 11:1-11"
 date: 2024-01-10
 url: /baigiang/song-the-nao-de-nguoi-ta-thay/
-description: "Qua Ma-thi-ơ 11:1-11, Mục sư Dương Quang Thoại giúp chúng ta hiểu rằng đời sống Cơ Đốc nhân không chỉ là nói mà còn phải sống cho người ta thấy, đồng thời suy gẫm về phước hạnh của những người hiểu biết giá trị thập tự giá."
+description: "Qua Ma-thi-ơ 11:1-11, Mục sư Dương Quang Thoại giúp chúng ta hiểu rằng đời sống Cơ-đốc nhân không chỉ là nói mà còn phải sống cho người ta thấy, đồng thời suy gẫm về phước hạnh của những người hiểu biết giá trị thập tự giá."
 tags: ["Ma-thi-ơ", "Đời Sống Đạo", "Giăng Báp-tít", "Thập Tự Giá", "Chức Vụ", "Phước Hạnh", "Đức Tin"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -24,7 +24,7 @@ Có một câu chuyện về phòng giam trong lâu đài Sis: người ta phát
 
 Điều đáng chú ý là Đức Chúa Giê-su không trả lời bằng lời khẳng định. Ngài không nói: "Ta là Đấng Mê-si." Thay vào đó, Ngài phán: *"Hãy về thuật lại cùng Giăng những điều các ngươi nghe và thấy: kẻ mù được thấy, kẻ què được đi, kẻ phung được sạch, kẻ điếc được nghe, kẻ chết được sống lại, kẻ khó khăn được nghe giảng Tin Lành."*
 
-Đức Chúa Giê-su trả lời bằng những gì Ngài đã làm, không phải bằng những gì Ngài tuyên bố. Đây chính là bài học lớn cho mỗi Cơ Đốc nhân: nói thì dễ, nhưng làm mới khó. Thử nghiệm thật sự không nằm ở lời rao giảng mà nằm ở đời sống.
+Đức Chúa Giê-su trả lời bằng những gì Ngài đã làm, không phải bằng những gì Ngài tuyên bố. Đây chính là bài học lớn cho mỗi Cơ-đốc nhân: nói thì dễ, nhưng làm mới khó. Thử nghiệm thật sự không nằm ở lời rao giảng mà nằm ở đời sống.
 
 Những phép lạ Chúa làm ngày xưa trên phương diện thể chất vẫn đang tiếp diễn ngày nay trên phương diện thuộc linh. Biết bao người mù lòa về tâm linh đã được mở mắt. Biết bao người bịt tai trước lẽ thật đã được nghe. Biết bao người nhút nhát, sợ hãi đã trở thành những chứng nhân mạnh dạn cho Chúa. Và biết bao người tưởng như đã chết trong tội lỗi — nghiện ngập, chán chường, gục ngã — đã được Ngài cứu vớt như kẻ chết sống lại.
 

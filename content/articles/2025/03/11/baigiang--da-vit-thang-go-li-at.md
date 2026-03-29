@@ -82,4 +82,4 @@ Gô-li-át ngày nay vẫn còn đó. Đó là những **nan đề, thử thách
 2. **Nhìn bằng đức tin** — đừng nhìn nan đề lớn hơn Chúa; hãy nhìn Chúa lớn hơn mọi nan đề.
 3. **Nhân danh Chúa mà tiến** — không dựa vào sức mình, binh khí mình, nhưng dựa vào quyền năng của Đấng Tạo Hóa.
 
-Câu chuyện Đa-vít và Gô-li-át không chỉ là bài học lịch sử — đó là mẫu mực Chúa để lại cho mỗi Cơ Đốc Nhân trong cuộc chiến thuộc linh hằng ngày.
+Câu chuyện Đa-vít và Gô-li-át không chỉ là bài học lịch sử — đó là mẫu mực Chúa để lại cho mỗi Cơ-đốc Nhân trong cuộc chiến thuộc linh hằng ngày.

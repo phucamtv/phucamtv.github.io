@@ -32,7 +32,7 @@ Giống như bà Helen bất tỉnh, không biết gì về cuộc giải cứu 
 
 ## Hãy Làm Nhiều Hơn Trách Nhiệm Của Mình
 
-Bài học đầu tiên từ câu chuyện: tinh thần Cơ Đốc nhân cần giống như Eric — làm nhiều hơn trách nhiệm đòi hỏi. Ma-thi-ơ đoạn 5, câu 41 chép: *"Ai muốn bắt ngươi đi một dặm đường, thì hãy đi với họ hai dặm."* Thông thường, chúng ta chỉ làm vừa đủ bổn phận. Nhưng Chúa dạy rằng hãy đi thêm một dặm nữa — và chính cái "nhiều hơn một chút" ấy sẽ đem đến những kết quả không ngờ, những niềm vui và hạnh phúc chưa từng có.
+Bài học đầu tiên từ câu chuyện: tinh thần Cơ-đốc nhân cần giống như Eric — làm nhiều hơn trách nhiệm đòi hỏi. Ma-thi-ơ đoạn 5, câu 41 chép: *"Ai muốn bắt ngươi đi một dặm đường, thì hãy đi với họ hai dặm."* Thông thường, chúng ta chỉ làm vừa đủ bổn phận. Nhưng Chúa dạy rằng hãy đi thêm một dặm nữa — và chính cái "nhiều hơn một chút" ấy sẽ đem đến những kết quả không ngờ, những niềm vui và hạnh phúc chưa từng có.
 
 Nếu muốn khước từ trách nhiệm, chúng ta có hàng trăm lý do. Nhưng nếu muốn tìm kiếm, chỉ cần một lý do duy nhất: vì linh hồn con người quý giá trước mặt Chúa.
 

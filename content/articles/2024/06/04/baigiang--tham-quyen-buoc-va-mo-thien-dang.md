@@ -14,7 +14,7 @@ draft: false
 
 ## Khúc Kinh Thánh gây nhiều tranh luận
 
-Ma-thi-ơ 16:17-19 là một trong những phân đoạn Kinh Thánh gây ra nhiều tranh luận nhất trong lịch sử Cơ Đốc giáo. Chỉ với ba câu ngắn gọn, nhưng nội dung chứa đựng bên trong đã trở thành cội nguồn cho nhiều thế kỷ tranh cãi liên quan đến tổ chức Hội Thánh, quyền lực giáo hoàng, và số phận đời đời của con người.
+Ma-thi-ơ 16:17-19 là một trong những phân đoạn Kinh Thánh gây ra nhiều tranh luận nhất trong lịch sử Cơ-đốc giáo. Chỉ với ba câu ngắn gọn, nhưng nội dung chứa đựng bên trong đã trở thành cội nguồn cho nhiều thế kỷ tranh cãi liên quan đến tổ chức Hội Thánh, quyền lực giáo hoàng, và số phận đời đời của con người.
 
 Giáo hội Công giáo La-mã đã dựa trên phân đoạn này để khẳng định rằng Phi-e-rơ là vị giáo hoàng đầu tiên, và Đức Chúa Giê-su đã trao cho ông thẩm quyền đặc biệt: Hội Thánh được đặt trên nền tảng Phi-e-rơ, và ông có chìa khóa nước thiên đàng để buộc hoặc mở số phận đời đời của con người. Từ đó, hệ thống giáo hoàng quyền được thiết lập, với niềm tin rằng đức giáo hoàng là đại diện cho Con Đức Chúa Trời trên đất, là đấng vô ngộ, có thẩm quyền trên trời, trên đất và dưới âm phủ.
 

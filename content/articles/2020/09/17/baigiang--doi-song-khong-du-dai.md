@@ -29,13 +29,13 @@ Câu chuyện của Agassiz đặt ra cho mỗi chúng ta một câu hỏi lớn
 
 ## Không Thể Theo Đuổi Hai Lý Tưởng Đối Nghịch
 
-Lời Đức Chúa Giê-su đã dạy rõ ràng rằng không ai có thể làm tôi hai chủ cùng một lúc. Khi hai lý tưởng hoàn toàn khác biệt nhau, thậm chí đối nghịch nhau, thì việc cố gắng ôm giữ cả hai chỉ khiến chúng ta rơi vào tình trạng nửa vời. Bước trên con đường về thiên quốc mà tâm hồn vẫn trĩu nặng những lo toan của trần gian, ấy là một nghịch lý đau lòng mà nhiều Cơ Đốc nhân đang sống trong đó mỗi ngày.
+Lời Đức Chúa Giê-su đã dạy rõ ràng rằng không ai có thể làm tôi hai chủ cùng một lúc. Khi hai lý tưởng hoàn toàn khác biệt nhau, thậm chí đối nghịch nhau, thì việc cố gắng ôm giữ cả hai chỉ khiến chúng ta rơi vào tình trạng nửa vời. Bước trên con đường về thiên quốc mà tâm hồn vẫn trĩu nặng những lo toan của trần gian, ấy là một nghịch lý đau lòng mà nhiều Cơ-đốc nhân đang sống trong đó mỗi ngày.
 
 Sự thật phũ phàng nhưng cần thiết là: thiên đàng không có chỗ cho những người không biết từ bỏ ham muốn của chính mình. Đây không phải là lời đe dọa mà là lời nhắc nhở đầy yêu thương, giúp chúng ta tỉnh thức để nhận ra đâu là điều thật sự có giá trị vĩnh cửu.
 
 ## Sống Với Sự Ưu Tiên Đúng Đắn
 
-Agassiz đã can đảm chọn lựa và chấp nhận từ bỏ một trong hai con đường. Ông không phải là người thiếu khả năng để kiếm tiền, nhưng ông biết rõ thời gian của mình có giới hạn. Tương tự, mỗi Cơ Đốc nhân cũng cần có sự can đảm để đặt ưu tiên cho đời sống thuộc linh của mình.
+Agassiz đã can đảm chọn lựa và chấp nhận từ bỏ một trong hai con đường. Ông không phải là người thiếu khả năng để kiếm tiền, nhưng ông biết rõ thời gian của mình có giới hạn. Tương tự, mỗi Cơ-đốc nhân cũng cần có sự can đảm để đặt ưu tiên cho đời sống thuộc linh của mình.
 
 Sứ đồ Phi-e-rơ đã nhắc nhở rằng mọi vật chất trên đất này rồi sẽ tiêu tán. Khi biết rằng tất cả những gì chúng ta đang nắm giữ đều chỉ là tạm thời, thì lẽ nào chúng ta lại dành cả đời để chạy theo những thứ sẽ mất đi? Thay vào đó, hãy sống thánh khiết và tin kính trong mọi sự ăn ở, trong khi chờ đợi và trông mong ngày Chúa trở lại.
 

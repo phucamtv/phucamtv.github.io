@@ -45,7 +45,7 @@ Bên cạnh đó, Áp-ra-ham còn là người hiếu khách. Khi thấy ba vị
 
 Áp-ra-ham không phải là người nhu nhược. Khi nghe cháu mình bị bắt, ông chiêu tập 318 gia nhân đã tập luyện để truy đuổi và đánh bại năm vua (Sáng-thế ký 14:14). Một người theo Chúa phải hiền từ và khiêm nhường, nhưng với điều ác và bất công thì cần có thái độ cương quyết. Chúng ta có quyền nổi giận với điều sai trái, nhưng đừng nổi giận vì lòng tự ái.
 
-Áp-ra-ham cũng bày tỏ lòng nhân từ khi cầu thay cho Sô-đôm và Gô-mô-rơ (Sáng-thế ký 18:23-32). Dù đó không phải láng giềng của mình, ông vẫn đau xót cầu nguyện xin Chúa tha thứ. Tuyệt đỉnh của Cơ Đốc giáo nằm ở lời dạy: hãy yêu kẻ thù nghịch và cầu nguyện cho kẻ bắt bớ mình.
+Áp-ra-ham cũng bày tỏ lòng nhân từ khi cầu thay cho Sô-đôm và Gô-mô-rơ (Sáng-thế ký 18:23-32). Dù đó không phải láng giềng của mình, ông vẫn đau xót cầu nguyện xin Chúa tha thứ. Tuyệt đỉnh của Cơ-đốc giáo nằm ở lời dạy: hãy yêu kẻ thù nghịch và cầu nguyện cho kẻ bắt bớ mình.
 
 ## Những Yếu Đuối Của Áp-ra-ham
 

@@ -36,7 +36,7 @@ Tương tự, đối với sự chung cuộc của thế giới, Chúa cũng đ�
 
 ## Sửa Soạn Cho Ngày Chúa Trở Lại
 
-Là Cơ Đốc nhân, chúng ta được kêu gọi lắng nghe tiếng phán của Thánh Linh để luôn sửa soạn đời sống mình, sẵn sàng cho ngày Chúa tái lâm. Mục sư cảnh báo rằng nếu tâm linh chúng ta đang mê ngủ, khi cánh cửa ân điển đóng lại, số phận sẽ được định đoạt và không còn cơ hội thay đổi.
+Là Cơ-đốc nhân, chúng ta được kêu gọi lắng nghe tiếng phán của Thánh Linh để luôn sửa soạn đời sống mình, sẵn sàng cho ngày Chúa tái lâm. Mục sư cảnh báo rằng nếu tâm linh chúng ta đang mê ngủ, khi cánh cửa ân điển đóng lại, số phận sẽ được định đoạt và không còn cơ hội thay đổi.
 
 Sứ đồ Phao-lô ví đời sống đức tin như một cuộc chạy đua. Thật luống công nếu chúng ta theo đuổi cuộc chạy mà cuối cùng không giật được giải — là phần thưởng trên trời. Điều quan trọng không chỉ là bắt đầu cuộc đua, mà là hoàn thành nó trong sự trung tín.
 

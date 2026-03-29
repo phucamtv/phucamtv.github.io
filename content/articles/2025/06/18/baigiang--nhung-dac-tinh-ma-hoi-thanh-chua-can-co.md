@@ -3,7 +3,7 @@ title: "Những Đặc Tính Mà Hội Thánh Chúa Cần Có | Công-vụ 2:42-
 date: 2025-06-18
 url: /baigiang/nhung-dac-tinh-ma-hoi-thanh-chua-can-co/
 description: "Từ Công-vụ 2:42-47, bài giảng phân tích chín đặc tính nền tảng của Hội Thánh đầu tiên: học hỏi lời Chúa, thông công yêu thương, cầu nguyện liên tục, kính sợ Đức Chúa Trời, kinh nghiệm phép lạ qua đức tin, chia sẻ tài sản cho nhau, thờ phượng cộng đồng, sống vui vẻ thật thà, và tạo sức thu hút khiến người ngoài khao khát tin Chúa."
-tags: ["Công-vụ", "Hội Thánh", "Thông Công", "Cầu Nguyện", "Đức Tin", "Phép Lạ", "Chia Sẻ", "Thờ Phượng", "Đời Sống Cơ Đốc"]
+tags: ["Công-vụ", "Hội Thánh", "Thông Công", "Cầu Nguyện", "Đức Tin", "Phép Lạ", "Chia Sẻ", "Thờ Phượng", "Đời Sống Cơ-đốc"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["0ba70m4OTbg"]
@@ -62,7 +62,7 @@ Nhiều dấu kỳ phép lạ được làm ra bởi các sứ đồ. Phép lạ
 
 Những tín hữu ban đầu hiệp lại với nhau, lấy mọi vật làm của chung, bán hết gia tài điền sản phân phát cho nhau tùy sự cần dùng. Đạt đến điều này không đơn giản, vì ai trong chúng ta cũng vừa ích kỷ, vừa tham lam, vừa ganh tỵ.
 
-Bí quyết của họ nằm ở chỗ đề cao trách nhiệm Cơ Đốc nhân đến mức xem nhu cầu của người khác như nhu cầu của chính mình — giống như cha mẹ sẵn sàng hy sinh tất cả cho con. Họ không thể chịu đựng nổi khi mình no đủ mà anh em đói rách, khi mình sung sướng mà người khác đau khổ. Dù chúng ta chưa thể đạt đến mức gom hết tài sản lại, nhưng ít nhất hãy nhìn nhau với tinh thần trách nhiệm cao độ và sẵn sàng chia sẻ.
+Bí quyết của họ nằm ở chỗ đề cao trách nhiệm Cơ-đốc nhân đến mức xem nhu cầu của người khác như nhu cầu của chính mình — giống như cha mẹ sẵn sàng hy sinh tất cả cho con. Họ không thể chịu đựng nổi khi mình no đủ mà anh em đói rách, khi mình sung sướng mà người khác đau khổ. Dù chúng ta chưa thể đạt đến mức gom hết tài sản lại, nhưng ít nhất hãy nhìn nhau với tinh thần trách nhiệm cao độ và sẵn sàng chia sẻ.
 
 ---
 
@@ -70,7 +70,7 @@ Bí quyết của họ nằm ở chỗ đề cao trách nhiệm Cơ Đốc nhân
 
 Ngày nào cũng vậy, cứ chăm chỉ đến đền thờ. Đức Chúa Trời không muốn chúng ta thờ phượng Ngài một mình — Ngài muốn thành lập Hội Thánh với mục đích để con cái Ngài nương tựa lẫn nhau. Thờ phượng cá nhân cũng tốt, nhưng hãy tạo mọi điều kiện để thờ phượng Chúa với cộng đồng, vì cộng đồng đem đến sức mạnh, nhất là trong những lúc chúng ta yếu đuối.
 
-Đời sống Cơ Đốc nhân không thể sống ẩn dật — như Đức Chúa Giê-su phán, cái đèn thắp lên không phải để úp lại mà phải để trên chân đèn soi sáng cho mọi người. Ánh sáng cần được soi trong bóng đêm, và sức mạnh của Hội Thánh chính là ở sự nhóm lại cùng nhau.
+Đời sống Cơ-đốc nhân không thể sống ẩn dật — như Đức Chúa Giê-su phán, cái đèn thắp lên không phải để úp lại mà phải để trên chân đèn soi sáng cho mọi người. Ánh sáng cần được soi trong bóng đêm, và sức mạnh của Hội Thánh chính là ở sự nhóm lại cùng nhau.
 
 ---
 
@@ -78,7 +78,7 @@ Ngày nào cũng vậy, cứ chăm chỉ đến đền thờ. Đức Chúa Trờ
 
 Dùng bữa chung với nhau cách vui vẻ thật thà — đây là bức tranh của một Hội Thánh hạnh phúc thật sự. Không phải tiếng cười giả tạo, không phải sự lịch sự bề ngoài, mà là sự chân thật với nhau. Mọi nền tảng từ trên xuống — học hỏi, thông công, cầu nguyện, kính sợ Chúa, phép lạ, chia sẻ, thờ phượng — tạo nên một không khí hạnh phúc chân thật.
 
-Một Cơ Đốc nhân sầu muộn, chán chường, tuyệt vọng là điều nghịch lại với bản chất đời sống đức tin. Trong trái của Thánh Linh, sau tình yêu thương thì ngay lập tức là sự vui mừng. Chúa sẽ đau buồn khi thấy con cái Ngài sống một đời thiếu trông cậy và chán nản.
+Một Cơ-đốc nhân sầu muộn, chán chường, tuyệt vọng là điều nghịch lại với bản chất đời sống đức tin. Trong trái của Thánh Linh, sau tình yêu thương thì ngay lập tức là sự vui mừng. Chúa sẽ đau buồn khi thấy con cái Ngài sống một đời thiếu trông cậy và chán nản.
 
 ---
 
@@ -86,4 +86,4 @@ Một Cơ Đốc nhân sầu muộn, chán chường, tuyệt vọng là điều
 
 Đặc tính cuối cùng: được đẹp lòng cả dân chúng, và mỗi ngày Chúa lấy những kẻ được cứu thêm vào Hội Thánh. Ngay trong lúc bị chính quyền La Mã và người Do Thái bắt bớ, dân chúng vẫn yêu mến họ — vì ở họ có điều gì đó lạ lùng, khác biệt, vừa gây thắc mắc vừa tạo khao khát.
 
-Trong tiếng Hy Lạp, "agathos" có nghĩa là tốt đẹp, nhưng "kalos" không chỉ tốt đẹp mà còn hấp dẫn, thu hút. Cơ Đốc nhân cần phải sống như "kalos" — không chỉ tốt mà còn khiến người khác khao khát muốn được giống như mình. Đó là thách thức cho mỗi chúng ta: sống sao cho người ta nhìn vào thấy sự khác biệt, từ đó tìm hiểu và đến với Chúa.
+Trong tiếng Hy Lạp, "agathos" có nghĩa là tốt đẹp, nhưng "kalos" không chỉ tốt đẹp mà còn hấp dẫn, thu hút. Cơ-đốc nhân cần phải sống như "kalos" — không chỉ tốt mà còn khiến người khác khao khát muốn được giống như mình. Đó là thách thức cho mỗi chúng ta: sống sao cho người ta nhìn vào thấy sự khác biệt, từ đó tìm hiểu và đến với Chúa.

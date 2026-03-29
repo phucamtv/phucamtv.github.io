@@ -18,7 +18,7 @@ Nê-hê-mi 8:10 chép: *"Chớ buồn thảm, vì sự vui vẻ của Đức Gi�
 
 Châm ngôn 17:22 khẳng định thêm: *"Lòng vui mừng vốn một phương thuốc hay; còn trí nao sờn làm xương cốt khô héo."* Dân gian Việt Nam có câu *"một nụ cười bằng mười thang thuốc bổ"* — và ngày nay khoa học đã chứng minh điều đó là thật. Tiếng cười kích thích não sản sinh hormone beta-endorphin, giúp giảm đau và chống trầm cảm. Chỉ mười phút cười có thể hạ huyết áp; cười mỗi ngày mười lăm phút cải thiện tuần hoàn máu và giúp tim làm việc tốt hơn. Không những thế, tiếng cười còn tăng sức sáng tạo lên 57% và năng suất làm việc lên 54%.
 
-Mục sư Dương Quang Thoại chia sẻ thẳng thắn: nhiều Cơ Đốc nhân chưa có thói quen nở nụ cười thân thiện với người xung quanh vì nghĩ rằng "bẩm sinh mặt mình vậy rồi, không thay đổi được." Nhưng những gì có thể cải thiện được thì tại sao không cải thiện? Cười không chỉ là lịch sự giao tiếp — cười là thể hiện của đời sống tâm linh đang khỏe mạnh bên trong.
+Mục sư Dương Quang Thoại chia sẻ thẳng thắn: nhiều Cơ-đốc nhân chưa có thói quen nở nụ cười thân thiện với người xung quanh vì nghĩ rằng "bẩm sinh mặt mình vậy rồi, không thay đổi được." Nhưng những gì có thể cải thiện được thì tại sao không cải thiện? Cười không chỉ là lịch sự giao tiếp — cười là thể hiện của đời sống tâm linh đang khỏe mạnh bên trong.
 
 ---
 
@@ -44,7 +44,7 @@ Câu chuyện về diễn viên hài Anh Vũ chiến thắng ung thư đại tr�
 
 ## Hãy Tập Vui Vẻ Và Tươi Cười
 
-Ga-la-ti 5:22 liệt kê *"sự vui mừng"* như một trong những trái của Thánh Linh — điều này cho thấy niềm vui không chỉ là cảm xúc tự nhiên mà là điều cần được vun trồng và tập luyện trong đời sống Cơ Đốc.
+Ga-la-ti 5:22 liệt kê *"sự vui mừng"* như một trong những trái của Thánh Linh — điều này cho thấy niềm vui không chỉ là cảm xúc tự nhiên mà là điều cần được vun trồng và tập luyện trong đời sống Cơ-đốc.
 
 Giăng 15:11 ghi lại lời Đức Chúa Giê-su: *"Ta nói cùng các ngươi những điều đó, hầu cho sự vui mừng của Ta ở trong các ngươi, và sự vui mừng các ngươi được trọn vẹn."* Mục đích của Chúa là sự vui mừng trọn vẹn — không phải niềm vui phân nửa, không phải niềm vui giả tạo, mà là niềm vui xuất phát từ sự hiện diện của Ngài ở bên trong.
 
@@ -54,6 +54,6 @@ Tên Y-sác trong tiếng Hê-bơ-rơ có nghĩa là *"cười"* — được Đ
 
 ## Thực Hành Niềm Vui Mỗi Ngày
 
-Mục sư Dương Quang Thoại kêu gọi mỗi Cơ Đốc nhân thực hành cụ thể: hãy tập nở nụ cười với mọi người, đặc biệt với người trong gia đình — vì đó thường là nơi chúng ta hay quên nhất. Hãy tập mỉm cười với bạn bè, với người mới quen, với cả những người lạ chúng ta gặp trên đường.
+Mục sư Dương Quang Thoại kêu gọi mỗi Cơ-đốc nhân thực hành cụ thể: hãy tập nở nụ cười với mọi người, đặc biệt với người trong gia đình — vì đó thường là nơi chúng ta hay quên nhất. Hãy tập mỉm cười với bạn bè, với người mới quen, với cả những người lạ chúng ta gặp trên đường.
 
 Niềm vui không phải lúc nào cũng tự nhiên đến — nhưng khi chúng ta tập luyện, khi chúng ta ở lại trong lời Chúa, khi chúng ta giữ mối thông công với Ngài, niềm vui ấy dần trở thành chân thật và tự nhiên. Đó không còn là xã giao bề ngoài nữa — đó là bằng chứng sống động của một người đang kinh nghiệm sự vui vẻ của Đức Giê-hô-va là sức lực của mình.

@@ -13,7 +13,7 @@ part_of_series: true
 
 {{< youtube "czteN03_a5U" >}}
 
-Đây là buổi đối thoại trực tiếp giữa hai anh em Cơ Đốc nhân thuộc Giáo hội Cơ Đốc Phục Lâm (SDA): một người tin vào Thiên Chúa ba thân vị (quan điểm chính thống), và một người theo quan điểm tiên phong -- chỉ tin Đức Chúa Cha là Đức Chúa Trời duy nhất. Buổi đối thoại sử dụng Mười Điều Răn làm nền tảng để chứng minh thần tính của Đức Chúa Giêsu.
+Đây là buổi đối thoại trực tiếp giữa hai anh em Cơ-đốc nhân thuộc Giáo hội Cơ-đốc Phục Lâm (SDA): một người tin vào Thiên Chúa ba thân vị (quan điểm chính thống), và một người theo quan điểm tiên phong -- chỉ tin Đức Chúa Cha là Đức Chúa Trời duy nhất. Buổi đối thoại sử dụng Mười Điều Răn làm nền tảng để chứng minh thần tính của Đức Chúa Giêsu.
 
 ## Bối cảnh cuộc đối thoại
 
@@ -82,7 +82,7 @@ Danh đem đến sự cứu rỗi -- danh Giê-hô-va trong Cựu Ước, danh G
 
 ## Nguyên tắc đối thoại xây dựng
 
-Buổi đối thoại này cũng là một bài học quý giá về cách Cơ Đốc nhân nên trao đổi với nhau về các vấn đề tín lý:
+Buổi đối thoại này cũng là một bài học quý giá về cách Cơ-đốc nhân nên trao đổi với nhau về các vấn đề tín lý:
 
 - **Tôn trọng lẫn nhau**: Không ngắt lời khi đối phương đang trình bày
 - **Sẵn sàng nhận sai**: Nếu bị chứng minh sai bằng Thánh Kinh thì sẵn lòng thừa nhận

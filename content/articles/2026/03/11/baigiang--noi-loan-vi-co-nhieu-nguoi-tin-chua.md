@@ -28,7 +28,7 @@ Khi chúng ta thật sự xem nhau là các chi thể trong một thân mà Đ�
 
 > *"Khi nghe nói về sự thiếu thốn của anh em, cần phải có cảm xúc, lòng trắc ẩn. Rồi sự thương cảm phải thể hiện bằng hành động cụ thể chớ không chỉ dừng lại ở một thoáng tội nghiệp."*
 
-Cơ Đốc giáo là tình yêu — không phải tình yêu đầu môi chót lưỡi mà là tình yêu hành động. Phao-lô không chỉ nghe tin Hội Thánh Giê-ru-sa-lem nghèo rồi nói "tội nghiệp quá" — ông dấy lên cả một chiến dịch quyên góp từ nhiều Hội Thánh và đích thân mang đến tận nơi.
+Cơ-đốc giáo là tình yêu — không phải tình yêu đầu môi chót lưỡi mà là tình yêu hành động. Phao-lô không chỉ nghe tin Hội Thánh Giê-ru-sa-lem nghèo rồi nói "tội nghiệp quá" — ông dấy lên cả một chiến dịch quyên góp từ nhiều Hội Thánh và đích thân mang đến tận nơi.
 
 ---
 
@@ -91,7 +91,7 @@ So sánh hai người:
 | Động lực | Sợ bị khiển trách | Yêu Chúa, yêu dân sự |
 | Kết quả | Đám đông giải tán | Tin Lành tiếp tục lan ra |
 
-Một Cơ Đốc nhân không thể hèn nhát khi đạo Chúa bị bêu xấu hay xúc phạm. Phao-lô ví người tin Chúa với người lính — *phải can đảm, phải xông ra trận*. Không phải lúc nào cũng xông ra ngay lập tức (đôi khi nghe lời khuyên khôn ngoan là đúng đắn), nhưng tinh thần sẵn sàng đứng về phía lẽ thật phải luôn hiện diện trong lòng.
+Một Cơ-đốc nhân không thể hèn nhát khi đạo Chúa bị bêu xấu hay xúc phạm. Phao-lô ví người tin Chúa với người lính — *phải can đảm, phải xông ra trận*. Không phải lúc nào cũng xông ra ngay lập tức (đôi khi nghe lời khuyên khôn ngoan là đúng đắn), nhưng tinh thần sẵn sàng đứng về phía lẽ thật phải luôn hiện diện trong lòng.
 
 ---
 

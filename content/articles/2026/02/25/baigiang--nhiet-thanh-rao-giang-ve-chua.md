@@ -22,7 +22,7 @@ Rồi ông đuổi tất cả ra khỏi tòa án.
 
 Đây là bài học về **tính cách và sự kiên định**. Những kẻ xấu luôn tìm kiếm người dễ bị kích động, dễ bị hùa theo để tạo bè phái. Ga-li-ôn — dù là người La-mã, dù mới nhậm chức — đã không bị kéo theo bởi áp lực đám đông. Ông giữ vững lập trường, phân biệt rõ việc tôn giáo nội bộ và việc thuộc thẩm quyền chính quyền.
 
-Là Cơ Đốc nhân, chúng ta cần cầu xin Chúa ban sự khôn ngoan để biết phân định — như Salômon khi mới làm vua đã không xin giàu có, sống lâu hay chiến thắng kẻ thù, nhưng xin sự khôn ngoan để lãnh đạo dân Chúa. Đức Chúa Trời cảm động và ban cho ông cả sự khôn ngoan lẫn những điều ông không xin. Dù có học hàm học vị hay quyền lực đến đâu, sự khôn ngoan từ Đức Chúa Trời vẫn vượt trội hơn tất cả.
+Là Cơ-đốc nhân, chúng ta cần cầu xin Chúa ban sự khôn ngoan để biết phân định — như Salômon khi mới làm vua đã không xin giàu có, sống lâu hay chiến thắng kẻ thù, nhưng xin sự khôn ngoan để lãnh đạo dân Chúa. Đức Chúa Trời cảm động và ban cho ông cả sự khôn ngoan lẫn những điều ông không xin. Dù có học hàm học vị hay quyền lực đến đâu, sự khôn ngoan từ Đức Chúa Trời vẫn vượt trội hơn tất cả.
 
 Kết thúc phân đoạn này, chủ nhà hội bị đánh đòn ngay trước tòa án vì đã cho phép Phao-lô giảng dạy. Điều đó nhắc nhở chúng ta: người theo Chúa đôi khi bị sỉ nhục dù không làm điều gì sai. Điều an ủi lớn nhất là hãy nhớ chính Chúa và Thầy của chúng ta còn bị sỉ nhục hơn — vậy chúng ta không là gì cả.
 

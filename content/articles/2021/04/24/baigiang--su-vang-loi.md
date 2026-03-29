@@ -21,7 +21,7 @@ Chấp sự Nguyễn Tuấn mở đầu bài giảng bằng một câu chuyện 
 
 Câu hỏi mà người giảng đặt ra cho Hội thánh rất đáng suy ngẫm: tại sao những cái bẫy như thế này lại thu hút được quá nhiều người đến vậy? Câu trả lời nằm ở chỗ người ta nghe vì thấy *lợi trước mắt*. Khi ai đó đến với ta bằng những lời ngọt ngào, hứa hẹn lợi nhuận, chúng ta dễ dàng đặt niềm tin mà không cần kiểm chứng.
 
-## Nghe và làm theo — nền tảng của đời sống Cơ Đốc
+## Nghe và làm theo — nền tảng của đời sống Cơ-đốc
 
 Phần Kinh Thánh chính của bài giảng được lấy từ **Ma-thi-ơ 7:24–29**, trong đó Đức Chúa Giê-su đưa ra ẩn dụ về hai người xây nhà: một người xây trên đá, một người xây trên cát. Điểm khác biệt không phải ở hình thức bên ngoài của căn nhà — cả hai trông giống nhau — mà ở nền móng bên dưới, chỉ bộc lộ khi bão tố ập đến.
 

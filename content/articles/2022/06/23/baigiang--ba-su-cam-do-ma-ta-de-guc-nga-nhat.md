@@ -2,7 +2,7 @@
 title: "Ba Sự Cám Dỗ Mà Ta Dễ Gục Ngã Nhất"
 date: 2022-06-23
 url: /baigiang/ba-su-cam-do-ma-ta-de-guc-nga-nhat/
-description: "Phân tích ba sự cám dỗ mà Đức Chúa Giê-su phải đối diện trong đồng vắng theo Ma-thi-ơ 4:1-11 — cám dỗ về thèm khát thể xác, cám dỗ về danh tiếng và cảm xúc, cám dỗ về sự thỏa hiệp với điều ác — và bài học cho đời sống Cơ Đốc nhân ngày nay."
+description: "Phân tích ba sự cám dỗ mà Đức Chúa Giê-su phải đối diện trong đồng vắng theo Ma-thi-ơ 4:1-11 — cám dỗ về thèm khát thể xác, cám dỗ về danh tiếng và cảm xúc, cám dỗ về sự thỏa hiệp với điều ác — và bài học cho đời sống Cơ-đốc nhân ngày nay."
 tags: ["Cám Dỗ", "Ma-thi-ơ", "Đức Chúa Giê-su", "Đồng Vắng", "Sa-tan", "Đức Tin", "Chiến Thắng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -46,4 +46,4 @@ Chính từ kinh nghiệm chiến thắng sự cám dỗ này, sau đó Đức C
 
 ## Kết Luận: Vũ Khí Chiến Thắng
 
-Trong cả ba lần bị cám dỗ, Đức Chúa Giê-su đều dùng Lời Kinh Thánh để đáp trả. Ngài không tranh luận, không dùng quyền năng siêu nhiên, mà chiến đấu bằng chính Lời Đức Chúa Trời — một vũ khí mà mỗi Cơ Đốc nhân đều có thể sử dụng. Điều đó nhắc nhở chúng ta rằng việc học, đọc và sống theo Lời Chúa không chỉ là kiến thức, mà là sự trang bị thiết yếu để đứng vững trước mọi sự cám dỗ trong cuộc sống.
+Trong cả ba lần bị cám dỗ, Đức Chúa Giê-su đều dùng Lời Kinh Thánh để đáp trả. Ngài không tranh luận, không dùng quyền năng siêu nhiên, mà chiến đấu bằng chính Lời Đức Chúa Trời — một vũ khí mà mỗi Cơ-đốc nhân đều có thể sử dụng. Điều đó nhắc nhở chúng ta rằng việc học, đọc và sống theo Lời Chúa không chỉ là kiến thức, mà là sự trang bị thiết yếu để đứng vững trước mọi sự cám dỗ trong cuộc sống.

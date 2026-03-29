@@ -2,7 +2,7 @@
 title: "Số Phận Của Những Thứ Vô Dụng"
 date: 2021-01-06
 url: /baigiang/so-phan-cua-nhung-thu-vo-dung/
-description: "Mục sư Dương Quang Thoại giảng về Mác 11:1-21 — qua hình ảnh Đức Chúa Giê-su vào thành Giê-ru-sa-lem và câu chuyện cây vả bị rủa, bài học được đúc kết: đời sống Cơ Đốc nhân phải hữu dụng thật sự, không chỉ phô bày vẻ bề ngoài đẹp đẽ mà bên trong trống rỗng — vì số phận của những thứ vô dụng là bị loại bỏ."
+description: "Mục sư Dương Quang Thoại giảng về Mác 11:1-21 — qua hình ảnh Đức Chúa Giê-su vào thành Giê-ru-sa-lem và câu chuyện cây vả bị rủa, bài học được đúc kết: đời sống Cơ-đốc nhân phải hữu dụng thật sự, không chỉ phô bày vẻ bề ngoài đẹp đẽ mà bên trong trống rỗng — vì số phận của những thứ vô dụng là bị loại bỏ."
 tags: ["Mác", "Cây Vả", "Đức Tin", "Hữu Dụng", "Sự Chuẩn Bị", "Đời Sống Thuộc Linh", "Giê-ru-sa-lem"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -52,11 +52,11 @@ Tại sao Đức Chúa Giê-su lại rủa một cây vả dù biết rằng kh�
 
 ---
 
-## Bài Học Cho Đời Sống Cơ Đốc Nhân
+## Bài Học Cho Đời Sống Cơ-đốc Nhân
 
-Đức Chúa Giê-su dùng câu chuyện cây vả để chỉ ra một tình trạng đáng lo ngại: **những người mang danh Cơ Đốc nhân nhưng không thật sự hữu dụng**.
+Đức Chúa Giê-su dùng câu chuyện cây vả để chỉ ra một tình trạng đáng lo ngại: **những người mang danh Cơ-đốc nhân nhưng không thật sự hữu dụng**.
 
-Ngài đã dùng nhiều hình ảnh để mô tả đời sống Cơ Đốc nhân phải hữu dụng: **muối** phải có vị mặn, **ánh sáng** phải chiếu soi — tất cả đều mang tính hữu dụng. Một Cơ Đốc nhân không hữu dụng là điều mâu thuẫn ngay trong bản chất, vì chính Đức Chúa Giê-su đã phán: *"Ta đến không phải để người ta hầu việc Ta, nhưng để Ta hầu việc người ta."*
+Ngài đã dùng nhiều hình ảnh để mô tả đời sống Cơ-đốc nhân phải hữu dụng: **muối** phải có vị mặn, **ánh sáng** phải chiếu soi — tất cả đều mang tính hữu dụng. Một Cơ-đốc nhân không hữu dụng là điều mâu thuẫn ngay trong bản chất, vì chính Đức Chúa Giê-su đã phán: *"Ta đến không phải để người ta hầu việc Ta, nhưng để Ta hầu việc người ta."*
 
 Cái tội nặng nhất không phải là yếu đuối hay thất bại, mà là **tạo ra sự hứa hẹn giả dối**. Một hội thánh quảng bá rằng mình đầy tình yêu thương, đầy tinh thần phục vụ, nhưng khi người ta bước vào thì thất vọng vì thực tế không như những gì được hứa hẹn — điều đó còn nguy hại hơn là không có lời mời nào cả. Sự thất vọng sau khi đặt kỳ vọng lớn sẽ sâu sắc hơn nhiều.
 
@@ -64,7 +64,7 @@ Cái tội nặng nhất không phải là yếu đuối hay thất bại, mà l
 
 ## Lời Nói Phải Đi Đôi Với Việc Làm
 
-Kết luận bài học rất thực tế: **đời sống của mỗi Cơ Đốc nhân, cũng như các hoạt động của hội thánh, phải đem lại sự hữu dụng thật sự — lời nói phải đi đôi với việc làm.**
+Kết luận bài học rất thực tế: **đời sống của mỗi Cơ-đốc nhân, cũng như các hoạt động của hội thánh, phải đem lại sự hữu dụng thật sự — lời nói phải đi đôi với việc làm.**
 
 Chúng ta dễ rơi vào tình trạng cây vả nhiều lá mà không có trái — nói hay nhưng không làm, hứa hẹn nhiều mà không thực hiện, giữ vẻ bề ngoài đạo đức thánh thiện mà bên trong thì trống rỗng và vô ích cho người chung quanh.
 

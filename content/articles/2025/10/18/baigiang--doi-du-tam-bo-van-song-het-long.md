@@ -2,8 +2,8 @@
 title: "Đời Dù Tạm Bợ Vẫn Sống Hết Lòng"
 date: 2025-10-18
 url: /baigiang/doi-du-tam-bo-van-song-het-long/
-description: "Bài giảng về quan điểm Cơ Đốc nhân đối với cuộc đời tạm bợ, so sánh với triết lý Phật giáo, nhấn mạnh rằng dù thế gian hư không nhưng mỗi hành vi của chúng ta đều có ý nghĩa trước mặt Đức Chúa Trời, và đức tin phải sản sinh ra hành động."
-tags: ["Đời Sống Cơ Đốc", "Đức Tin", "Truyền-đạo", "Phi-líp", "Gia-cơ", "Cô-lô-se", "Hư Không", "Phần Thưởng Trên Trời"]
+description: "Bài giảng về quan điểm Cơ-đốc nhân đối với cuộc đời tạm bợ, so sánh với triết lý Phật giáo, nhấn mạnh rằng dù thế gian hư không nhưng mỗi hành vi của chúng ta đều có ý nghĩa trước mặt Đức Chúa Trời, và đức tin phải sản sinh ra hành động."
+tags: ["Đời Sống Cơ-đốc", "Đức Tin", "Truyền-đạo", "Phi-líp", "Gia-cơ", "Cô-lô-se", "Hư Không", "Phần Thưởng Trên Trời"]
 authors:
   - "duong-quang-thoai"
 plugins:
@@ -29,7 +29,7 @@ Truyền-đạo 1:14 nói rằng mọi việc dưới mặt trời đều hư kh
 
 Tuy nhiên, Chúa dạy rằng dù cuộc đời vô nghĩa, mỗi hành vi của chúng ta dù rất nhỏ cũng vô cùng quan trọng. Ma-thi-ơ 10:42 ghi lại lời Chúa Giêsu: ai cho một người nhỏ uống chỉ một chén nước lạnh vì người ấy là môn đồ, kẻ đó sẽ chẳng mất phần thưởng. Chỉ một chén nước lạnh thôi -- không phải nước ngọt, không phải nước trái cây -- mà Chúa đã ghi nhận. Mọi hành vi mang phúc lợi cho người khác đều được Đức Chúa Trời đánh giá.
 
-Ma-thi-ơ 5:14-15 kêu gọi chúng ta là sự sáng của thế gian. Điểm khác biệt quan trọng giữa Cơ Đốc giáo và Phật giáo nằm ở đây: Phật giáo làm việc lành để tích đức, để kiếp sau được tốt hơn, tức là tự cứu mình. Còn Cơ Đốc nhân phải được cứu trước, tiếp nhận nguồn sáng từ Chúa, rồi từ đó sản sinh ra việc lành. Chúng ta là ánh sáng, không chỉ là sự phản chiếu.
+Ma-thi-ơ 5:14-15 kêu gọi chúng ta là sự sáng của thế gian. Điểm khác biệt quan trọng giữa Cơ-đốc giáo và Phật giáo nằm ở đây: Phật giáo làm việc lành để tích đức, để kiếp sau được tốt hơn, tức là tự cứu mình. Còn Cơ-đốc nhân phải được cứu trước, tiếp nhận nguồn sáng từ Chúa, rồi từ đó sản sinh ra việc lành. Chúng ta là ánh sáng, không chỉ là sự phản chiếu.
 
 Truyền-đạo 12:14 nhắc nhở rằng Đức Chúa Trời sẽ đem đoán xét mọi công việc, kể cả việc kín nhiệm. Những gì chúng ta làm có thể che giấu người khác nhưng không thể che giấu Đức Chúa Trời, Đấng thấy trong chỗ kín nhiệm và sẽ thưởng cho chúng ta (Ma-thi-ơ 6:18).
 
@@ -47,7 +47,7 @@ I Giăng 2:17 tuyên bố rằng thế gian với sự tham dục đều qua đi
 
 ## Hãy sống tích cực với lý tưởng phụng sự
 
-Cô-lô-se 3:23 khuyên rằng hễ làm việc gì, hãy hết lòng mà làm như làm cho Chúa, không phải cho người ta. Dù là công nhân trong hãng xưởng, dù ông chủ có khắc nghiệt -- Cơ Đốc nhân sống hết lòng vì Đức Chúa Trời và vì lương tâm mình.
+Cô-lô-se 3:23 khuyên rằng hễ làm việc gì, hãy hết lòng mà làm như làm cho Chúa, không phải cho người ta. Dù là công nhân trong hãng xưởng, dù ông chủ có khắc nghiệt -- Cơ-đốc nhân sống hết lòng vì Đức Chúa Trời và vì lương tâm mình.
 
 Mẹ Teresa, nữ tu Công giáo được giải Nobel Hòa bình, đã nói rằng bà chỉ là cây viết chì nhỏ trong tay Chúa để viết lên bức thư yêu thương gửi đến mọi người.
 

@@ -3,7 +3,7 @@ title: "Một Kẻ Hà Tiện"
 date: 2020-10-08
 url: /baigiang/mot-ke-ha-tien/
 description: "Bài học về sự hy sinh âm thầm và lời cảnh báo đừng đoán xét người khác, qua câu chuyện ông chủ ngân hàng hà tiện tại nước Ý, suy ngẫm từ Ma-thi-ơ 7:1."
-tags: ["Chắp Cánh Bay Cao", "Đoán Xét", "Hy Sinh", "Đời Sống Cơ Đốc", "Ma-thi-ơ"]
+tags: ["Chắp Cánh Bay Cao", "Đoán Xét", "Hy Sinh", "Đời Sống Cơ-đốc", "Ma-thi-ơ"]
 authors:
   - duong-quang-thoai
 plugins:

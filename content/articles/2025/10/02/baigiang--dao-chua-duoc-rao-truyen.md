@@ -3,7 +3,7 @@ title: "Đạo Chúa Được Rao Truyền | Công Vụ 11:1-26"
 date: 2025-10-02
 url: /baigiang/dao-chua-duoc-rao-truyen/
 description: "Công Vụ 11:1-26 ghi lại bốn bức tranh về sự lan rộng của Tin Lành: Phi-e-rơ biện hộ tại Giê-ru-sa-lem, hội thánh chấp nhận người ngoại, những tín đồ vô danh gieo hạt giống tại An-ti-ốt, và sự khôn ngoan của Ba-na-ba khi ông được sai đến để củng cố hội thánh mới — tất cả cùng minh chứng rằng Đức Chúa Trời dùng nhiều cách để Đạo Ngài được rao truyền khắp nơi."
-tags: ["Công Vụ", "Phi-e-rơ", "Ba-na-ba", "An-ti-ốt", "Hội Thánh", "Rao Giảng", "Đức Thánh Linh", "Cơ Đốc Nhân"]
+tags: ["Công Vụ", "Phi-e-rơ", "Ba-na-ba", "An-ti-ốt", "Hội Thánh", "Rao Giảng", "Đức Thánh Linh", "Cơ-đốc Nhân"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["64e7_gKq-0o"]
@@ -62,10 +62,10 @@ Bài học cho người lãnh đạo là phải biết giao đúng người cho 
 
 ---
 
-## Danh Xưng "Cơ Đốc Nhân" — Từ Nhạo Cười Đến Tôn Trọng
+## Danh Xưng "Cơ-đốc Nhân" — Từ Nhạo Cười Đến Tôn Trọng
 
-Phân đoạn kết thúc bằng một chi tiết đáng chú ý: tại An-ti-ốt, người ta bắt đầu gọi những người theo Đức Chúa Giê-su là "Cơ Đốc nhân" — Christian, lấy từ chữ Christ (Đấng Chịu Xức Dầu). Theo sử sách, đây ban đầu là một tên mang ý nghĩa nhạo cười, khinh bỉ — họ là những người bị xem như phản bội Do Thái giáo, phản bội Môi-se, phản bội luật lệ tổ tiên.
+Phân đoạn kết thúc bằng một chi tiết đáng chú ý: tại An-ti-ốt, người ta bắt đầu gọi những người theo Đức Chúa Giê-su là "Cơ-đốc nhân" — Christian, lấy từ chữ Christ (Đấng Chịu Xức Dầu). Theo sử sách, đây ban đầu là một tên mang ý nghĩa nhạo cười, khinh bỉ — họ là những người bị xem như phản bội Do Thái giáo, phản bội Môi-se, phản bội luật lệ tổ tiên.
 
-Nhưng những Cơ Đốc nhân đầu tiên tại An-ti-ốt đã chấp nhận cái tên đó. "Anh nhạo tôi, anh cười tôi, không sao — nhưng tên của tôi gắn liền với tên của Chúa tôi." Và từ thế kỷ này qua thế kỷ khác, với lối sống đạo hạnh, yêu thương và tràn đầy đức tin, những Cơ Đốc nhân đã biến cái tên từng bị khinh bỉ trở thành danh xưng đáng được tôn trọng.
+Nhưng những Cơ-đốc nhân đầu tiên tại An-ti-ốt đã chấp nhận cái tên đó. "Anh nhạo tôi, anh cười tôi, không sao — nhưng tên của tôi gắn liền với tên của Chúa tôi." Và từ thế kỷ này qua thế kỷ khác, với lối sống đạo hạnh, yêu thương và tràn đầy đức tin, những Cơ-đốc nhân đã biến cái tên từng bị khinh bỉ trở thành danh xưng đáng được tôn trọng.
 
-Vấn đề không phải là chấp nhận hay từ chối một cái tên — vấn đề là mình có biến cái tên đó trở thành đáng tôn trọng hay không. Và điều đó tùy thuộc vào đời sống của chúng ta có thật giống Đức Chúa Giê-su hay không. Khi chúng ta xưng mình là Cơ Đốc nhân, có bản tánh nào của Đấng Cơ Đốc thật sự ở trong con người chúng ta không?
+Vấn đề không phải là chấp nhận hay từ chối một cái tên — vấn đề là mình có biến cái tên đó trở thành đáng tôn trọng hay không. Và điều đó tùy thuộc vào đời sống của chúng ta có thật giống Đức Chúa Giê-su hay không. Khi chúng ta xưng mình là Cơ-đốc nhân, có bản tánh nào của Đấng Cơ-đốc thật sự ở trong con người chúng ta không?

@@ -14,7 +14,7 @@ draft: false
 
 ## Địa Cầu Hoàn Mỹ Trong Buổi Ban Đầu
 
-Năm 2019, Hội Thánh Cơ Đốc Phục Lâm Cần Thơ chọn đề tài chung là *"Những Điều Kinh Thánh Báo Trước"*. Trong buổi truyền giảng tháng Tư, Mục sư Dương Quang Thoại trình bày về một trong những lời báo trước đang hiển hiện rõ ràng nhất trước mắt mọi người: tình trạng môi trường sống của địa cầu.
+Năm 2019, Hội Thánh Cơ-đốc Phục Lâm Cần Thơ chọn đề tài chung là *"Những Điều Kinh Thánh Báo Trước"*. Trong buổi truyền giảng tháng Tư, Mục sư Dương Quang Thoại trình bày về một trong những lời báo trước đang hiển hiện rõ ràng nhất trước mắt mọi người: tình trạng môi trường sống của địa cầu.
 
 Điểm khởi đầu là Sáng Thế Ký 1:31 — sau sáu ngày tạo dựng, Đức Chúa Trời nhìn nhận mọi vật đã làm là *"tốt lành vô cùng"*. Chủ đích ban đầu của Ngài rõ ràng trong Ê-sai 45:18: Đức Chúa Trời *"tạo thành đất và làm ra nó, đã lập nó cho bền vững... đã làm nên để dân ở"*. Thế giới được dựng nên với tình yêu, để con người tận hưởng và thờ phượng Đấng Tạo Hóa.
 

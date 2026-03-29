@@ -56,6 +56,6 @@ Giô-ên kêu gọi một sự ăn năn rộng lớn cho toàn thể cộng đ�
 
 ## Bi Kịch Lớn Nhất — Dân Chúa Không Ra Dân Chúa
 
-Câu 17 của đoạn 2 chứa đựng một lời than thở đau lòng: "Làm sao để người ta nói giữa các dân tộc rằng: Nào Đức Chúa Trời chúng nó ở đâu?" Bi kịch lớn nhất là khi một hội thánh không ra hội thánh, một mục sư không ra mục sư, một Cơ Đốc nhân không ra Cơ Đốc nhân. Đừng để bi kịch đó xảy ra cho chính chúng ta, gia đình chúng ta, hay hội thánh của chúng ta.
+Câu 17 của đoạn 2 chứa đựng một lời than thở đau lòng: "Làm sao để người ta nói giữa các dân tộc rằng: Nào Đức Chúa Trời chúng nó ở đâu?" Bi kịch lớn nhất là khi một hội thánh không ra hội thánh, một mục sư không ra mục sư, một Cơ-đốc nhân không ra Cơ-đốc nhân. Đừng để bi kịch đó xảy ra cho chính chúng ta, gia đình chúng ta, hay hội thánh của chúng ta.
 
 Sự ăn năn không dừng lại ở lời nói mà phải tiếp tục bằng những chuyển đổi trong đời sống — trong mối quan hệ với Chúa, với mọi người, và với chính bản thân mình. Hãy đáp lại lời kêu gọi của tiên tri Giô-ên: trở về cùng Đức Chúa Trời bằng tất cả tấm lòng, ngay hôm nay.

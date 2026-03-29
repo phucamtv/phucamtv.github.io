@@ -34,7 +34,7 @@ Phao-lô muốn Ti-mô-thê đồng hành với mình. Nhưng có một vấn đ
 
 Đây không phải mâu thuẫn về thần học, mà là sự khôn ngoan thực tiễn. Ti-mô-thê cần giảng cho người Do Thái trong các nhà hội. Nếu không cắt bì, họ sẽ không nghe ông. Cắt bì trong trường hợp này không phải vì giáo lý — mà là để phục vụ được nhiều người hơn. Đây là nguyên tắc Phao-lô tự mô tả trong 1 Cô-rinh-tô 9:22: *"Ta đã trở nên mọi vẻ cho mọi người, để cứu chuộc được một vài người bằng mọi cách."*
 
-Bài học: có những quyết định trong đời sống Cơ Đốc không chỉ dựa trên nguyên tắc thuần túy, mà còn cần sự khôn ngoan biết đặt mục tiêu phục vụ lên trên sự cứng nhắc về hình thức.
+Bài học: có những quyết định trong đời sống Cơ-đốc không chỉ dựa trên nguyên tắc thuần túy, mà còn cần sự khôn ngoan biết đặt mục tiêu phục vụ lên trên sự cứng nhắc về hình thức.
 
 ---
 

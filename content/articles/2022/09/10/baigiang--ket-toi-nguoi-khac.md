@@ -2,7 +2,7 @@
 title: "Kết Tội Người Khác"
 date: 2022-09-10
 url: /baigiang/ket-toi-nguoi-khac/
-description: "Qua Rô-ma 14, Giăng 8, Gia-cơ 4 và nhiều phân đoạn khác, bài giảng phân tích năm lý do tại sao Cơ Đốc nhân không có quyền kết tội người khác — chỉ Đức Chúa Trời, Đấng thấy được lòng người, mới có thẩm quyền phán xét."
+description: "Qua Rô-ma 14, Giăng 8, Gia-cơ 4 và nhiều phân đoạn khác, bài giảng phân tích năm lý do tại sao Cơ-đốc nhân không có quyền kết tội người khác — chỉ Đức Chúa Trời, Đấng thấy được lòng người, mới có thẩm quyền phán xét."
 tags: ["Phán Xét", "Rô-ma", "Gia-cơ", "Ân Điển", "Hiệp Nhất"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,7 +14,7 @@ draft: false
 
 ## Đặt Vấn Đề: Kết Tội — Một Thói Quen Nguy Hiểm
 
-Trong đời sống Cơ Đốc, có một hiện tượng thường xảy ra giữa gia đình, hội thánh, và giữa các hệ phái với nhau: đó là sự kết tội. Đôi khi chúng ta dùng chính giáo lý Kinh Thánh để lên án những niềm tin khác, những hệ phái khác, thậm chí tuyên bố ai được cứu, ai không. Nhưng sự cứu rỗi là sự cứu rỗi cá nhân — đức tin của cha không cứu được con, đức tin của chồng không cứu được vợ. Giữa mỗi người và Đức Chúa Trời không có bóng dáng của hệ phái hay giáo phái nào.
+Trong đời sống Cơ-đốc, có một hiện tượng thường xảy ra giữa gia đình, hội thánh, và giữa các hệ phái với nhau: đó là sự kết tội. Đôi khi chúng ta dùng chính giáo lý Kinh Thánh để lên án những niềm tin khác, những hệ phái khác, thậm chí tuyên bố ai được cứu, ai không. Nhưng sự cứu rỗi là sự cứu rỗi cá nhân — đức tin của cha không cứu được con, đức tin của chồng không cứu được vợ. Giữa mỗi người và Đức Chúa Trời không có bóng dáng của hệ phái hay giáo phái nào.
 
 Bài giảng chia sẻ năm điểm quan trọng từ Kinh Thánh về vấn đề kết tội người khác.
 
@@ -38,7 +38,7 @@ Tuy nhiên, Xuất Ê-díp-tô Ký 34:7 và Dân Số Ký 14:18 nhắc rằng Đ
 
 ## 4. Tư Tưởng Trung Dung Của Kinh Thánh
 
-Mác 9:38-40 kể rằng các môn đồ thấy người ngoài nhóm mình nhân danh Chúa trừ quỷ thì muốn ngăn cấm. Nhưng Đức Chúa Giê-su phán: "Đừng cấm làm chi; hễ ai không nghịch cùng ta là thuộc về ta." Nếu Cơ Đốc giáo có quan điểm rộng lớn như vậy, sẽ có sự hiệp nhất trong huyết Chúa và cùng một Thánh Linh.
+Mác 9:38-40 kể rằng các môn đồ thấy người ngoài nhóm mình nhân danh Chúa trừ quỷ thì muốn ngăn cấm. Nhưng Đức Chúa Giê-su phán: "Đừng cấm làm chi; hễ ai không nghịch cùng ta là thuộc về ta." Nếu Cơ-đốc giáo có quan điểm rộng lớn như vậy, sẽ có sự hiệp nhất trong huyết Chúa và cùng một Thánh Linh.
 
 Mác 2:23-27 kể chuyện các môn đồ bứt bông lúa mì ngày Sa-bát bị kết tội, nhưng Đức Chúa Giê-su dùng câu chuyện Đa-vít ăn bánh thánh để chỉ ra rằng: luật là luật, nhưng có những trường hợp cần đặt lòng thương xót lên trên. Ngài không hề phá bỏ luật pháp, mà dạy chúng ta sự chừng mực — tư tưởng trung dung nằm giữa hai thái cực cứng nhắc và nhu nhược.
 

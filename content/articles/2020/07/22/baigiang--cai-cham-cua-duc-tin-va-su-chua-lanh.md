@@ -36,7 +36,7 @@ Trang phục truyền thống của người Do Thái là một tấm vải li�
 
 Điều quan trọng là bà không dừng lại ở suy nghĩ hay niềm tin. Bà đã lẩn vào đám đông, khom mình xuống, và chạm lấy trôn áo Đức Chúa Giê-su. *"Cùng một lúc ấy, huyết lậu liền cầm lại; người nghe trong mình đã được lành bịnh."* Sự chữa lành là tức thì và bà cảm nhận được rõ ràng trong thân thể mình.
 
-Nhiều Cơ Đốc nhân ngày nay có suy nghĩ đúng, có niềm tin đúng, nhưng không dám bước ra thực hiện. Khoảng cách giữa suy nghĩ cộng với niềm tin và việc làm là một khoảng cách rất xa — người đàn bà này đã kéo ngắn khoảng cách đó lại.
+Nhiều Cơ-đốc nhân ngày nay có suy nghĩ đúng, có niềm tin đúng, nhưng không dám bước ra thực hiện. Khoảng cách giữa suy nghĩ cộng với niềm tin và việc làm là một khoảng cách rất xa — người đàn bà này đã kéo ngắn khoảng cách đó lại.
 
 ---
 

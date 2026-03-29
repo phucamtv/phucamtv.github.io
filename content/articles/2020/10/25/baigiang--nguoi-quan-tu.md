@@ -2,8 +2,8 @@
 title: "Người Quân Tử"
 date: 2020-10-25
 url: /baigiang/nguoi-quan-tu/
-description: "Bậc quân tử hành xử vì việc công, không vì tư lợi. Cơ Đốc nhân cần sống ngay thẳng trong lòng, trong nhận định và trong hành xử."
-tags: ["Chắp Cánh Bay Cao", "Sống Ngay Thẳng", "Đời Sống Cơ Đốc"]
+description: "Bậc quân tử hành xử vì việc công, không vì tư lợi. Cơ-đốc nhân cần sống ngay thẳng trong lòng, trong nhận định và trong hành xử."
+tags: ["Chắp Cánh Bay Cao", "Sống Ngay Thẳng", "Đời Sống Cơ-đốc"]
 authors:
   - duong-quang-thoai
 plugins:
@@ -33,9 +33,9 @@ Trong cuộc sống, có hai hạng người thường gặp. Hạng thứ nhấ
 
 Cả hai thái cực này đều sai lầm vì đều không xuất phát từ lòng vì việc công. Một bên thì thiên vị vì tư lợi, một bên thì hèn nhát vì sợ miệng đời. Người quân tử không rơi vào hai thái cực đó, mà luôn lấy lẽ công bằng và sự ngay thẳng làm thước đo cho mọi quyết định.
 
-## Cơ Đốc Nhân Với Phẩm Chất Quân Tử
+## Cơ-đốc Nhân Với Phẩm Chất Quân Tử
 
-Cơ Đốc nhân được kêu gọi sống như bậc quân tử theo ý nghĩa sâu xa nhất: ngay thẳng trong lòng, ngay thẳng khi nhận định, ngay thẳng khi hành xử. Đây không chỉ là đạo đức xã hội mà còn là tiêu chuẩn của đức tin.
+Cơ-đốc nhân được kêu gọi sống như bậc quân tử theo ý nghĩa sâu xa nhất: ngay thẳng trong lòng, ngay thẳng khi nhận định, ngay thẳng khi hành xử. Đây không chỉ là đạo đức xã hội mà còn là tiêu chuẩn của đức tin.
 
 Bất cứ điều gì làm sai lệch lẽ thật, bóp méo sự công bằng, bẻ cong khuôn phép, đều không thể dung túng được trong đời sống người theo Chúa. Những động lực tư kỷ, những toan tính nhỏ nhen không được phép làm vẩn đục sự trong sạch của tâm hồn.
 
@@ -43,4 +43,4 @@ Bất cứ điều gì làm sai lệch lẽ thật, bóp méo sự công bằng,
 
 Điều quan trọng nhất mà bài học này nhắc nhở chúng ta là hãy nhớ rằng tất cả những gì chúng ta làm đều phải hướng về nước Chúa. Mọi danh vọng, quyền lực, phe cánh trên đời này rồi sẽ qua đi. Chỉ có người sống ngay thẳng, trung tín với lẽ thật mới nhận được phần thưởng về sự sống đời đời.
 
-Thi Thiên 37:37 dạy rằng hãy nhìn xem người trọn vẹn và người ngay thẳng, vì cuối cùng người hòa bình sẽ có phước. Đây là lời hứa và cũng là sự khích lệ cho mỗi Cơ Đốc nhân trên hành trình theo Chúa. Hãy sống ngay thẳng trong mọi hoàn cảnh, dù phải đối diện với áp lực từ dư luận hay cám dỗ từ tư lợi, vì phần thưởng cuối cùng thuộc về những ai trung tín với lẽ thật.
+Thi Thiên 37:37 dạy rằng hãy nhìn xem người trọn vẹn và người ngay thẳng, vì cuối cùng người hòa bình sẽ có phước. Đây là lời hứa và cũng là sự khích lệ cho mỗi Cơ-đốc nhân trên hành trình theo Chúa. Hãy sống ngay thẳng trong mọi hoàn cảnh, dù phải đối diện với áp lực từ dư luận hay cám dỗ từ tư lợi, vì phần thưởng cuối cùng thuộc về những ai trung tín với lẽ thật.

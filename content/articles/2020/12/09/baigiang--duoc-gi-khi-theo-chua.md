@@ -54,7 +54,7 @@ Phi-e-rơ lên tiếng: *"Nầy, chúng tôi đã bỏ hết mà đi theo thầy
 
 *"Chẳng một người nào vì ta và Tin lành từ bỏ nhà cửa, anh em, chị em, cha mẹ, con cái, đất ruộng, mà chẳng lãnh được đương bây giờ, trong đời nầy, trăm lần hơn... và sự sống đời đời trong đời sau."* (Mác 10:29-30)
 
-Mục sư giải thích lời hứa "trăm lần hơn" theo nghĩa cụ thể: mất gia đình huyết thống nhưng nhận được gia đình Cơ Đốc trên toàn thế giới. Ông kể câu chuyện về mục sư Egerton Young giảng Tin Lành cho người da đỏ ở Saskatchewan — khi vị tù trưởng nhận ra rằng Chúa là Cha của cả ông lẫn vị mục sư, ông nắm chặt tay Young và xúc động nói: *"Vậy tôi và ông là anh em!"* Đó chính là ý nghĩa của gia đình mới trong Đấng Christ.
+Mục sư giải thích lời hứa "trăm lần hơn" theo nghĩa cụ thể: mất gia đình huyết thống nhưng nhận được gia đình Cơ-đốc trên toàn thế giới. Ông kể câu chuyện về mục sư Egerton Young giảng Tin Lành cho người da đỏ ở Saskatchewan — khi vị tù trưởng nhận ra rằng Chúa là Cha của cả ông lẫn vị mục sư, ông nắm chặt tay Young và xúc động nói: *"Vậy tôi và ông là anh em!"* Đó chính là ý nghĩa của gia đình mới trong Đấng Christ.
 
 Điều đáng chú ý: trong danh sách phần thưởng, Chúa thêm vào cụm từ *"với sự bắt bớ"*. Ngài không dùng phần thưởng để đánh lừa hay che giấu thực tế — theo Chúa đồng nghĩa với có sự trả giá. Nhưng ngay giữa sự bắt bớ đó, ân điển và sự hiệp thông trong Ngài vẫn dư dật.
 

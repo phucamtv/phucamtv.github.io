@@ -62,7 +62,7 @@ Sự cứu rỗi cũng vậy. Nó là điều cao quý nhất mà con người c
 
 Đức Chúa Giê-su đã trả lời Phi-e-rơ rõ ràng: *"Ngươi sẽ ngồi đồng trị với Ta, cùng phán xét cả vũ trụ này."* Đó không phải lời hứa nhỏ. Đó là vinh quang vô cùng lớn lao.
 
-Phao-lô sau đó xác nhận trong Phi-líp đoạn 3, câu 14: *"Tôi cứ làm một điều, quên lửng sự ở đằng sau, mà bươn theo sự ở đằng trước, tôi nhắm mục đích mà chạy, để giật giải về sự kêu gọi trên trời của Đức Chúa Trời trong Đức Chúa Giê-su Cơ Đốc."*
+Phao-lô sau đó xác nhận trong Phi-líp đoạn 3, câu 14: *"Tôi cứ làm một điều, quên lửng sự ở đằng sau, mà bươn theo sự ở đằng trước, tôi nhắm mục đích mà chạy, để giật giải về sự kêu gọi trên trời của Đức Chúa Trời trong Đức Chúa Giê-su Cơ-đốc."*
 
 Rồi trong II Ti-mô-thê đoạn 4, câu 8, ông viết với niềm xác tín: *"Hiện nay mão triều thiên của sự công bình đã để dành cho ta."*
 

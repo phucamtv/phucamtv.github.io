@@ -24,9 +24,9 @@ Từ câu 5-6, lời cảnh cáo nghiêm khắc vang lên: Ngài sẽ phá rào 
 
 ## Chúa Đòi Hỏi Chúng Ta Phải Ra Trái
 
-Trong ẩn dụ về các ta-lâng ở Ma-thi-ơ 25, Chúa khen người nhận năm ta-lâng và hai ta-lâng đã làm lợi, nhưng phán với người chôn giấu ta-lâng: "Hỡi đầy tớ dữ và biếng nhác... hãy quăng nó ra ngoài chỗ tối tăm." Đời sống Cơ Đốc nhân không dừng lại ở chỗ tin Chúa, yêu Chúa, đi thờ phượng và dâng hiến. Chúa đòi hỏi nhiều hơn — phải ra trái, phải trở nên hữu ích, để người thế gian có thể nếm trải cuộc đời chúng ta như nếm một trái nho ngon ngọt.
+Trong ẩn dụ về các ta-lâng ở Ma-thi-ơ 25, Chúa khen người nhận năm ta-lâng và hai ta-lâng đã làm lợi, nhưng phán với người chôn giấu ta-lâng: "Hỡi đầy tớ dữ và biếng nhác... hãy quăng nó ra ngoài chỗ tối tăm." Đời sống Cơ-đốc nhân không dừng lại ở chỗ tin Chúa, yêu Chúa, đi thờ phượng và dâng hiến. Chúa đòi hỏi nhiều hơn — phải ra trái, phải trở nên hữu ích, để người thế gian có thể nếm trải cuộc đời chúng ta như nếm một trái nho ngon ngọt.
 
-Về hình ảnh muối trong Ma-thi-ơ 5:13, giá trị duy nhất của muối nằm ở vị mặn. Nếu muối mất mặn, nó hoàn toàn vô ích — thậm chí còn thành gánh nặng, chỉ có thể quăng ra ngoài cho người ta đạp dưới chân. Đời sống Cơ Đốc nhân không hữu ích cho Chúa và cho người khác còn tệ hơn muối mất mặn.
+Về hình ảnh muối trong Ma-thi-ơ 5:13, giá trị duy nhất của muối nằm ở vị mặn. Nếu muối mất mặn, nó hoàn toàn vô ích — thậm chí còn thành gánh nặng, chỉ có thể quăng ra ngoài cho người ta đạp dưới chân. Đời sống Cơ-đốc nhân không hữu ích cho Chúa và cho người khác còn tệ hơn muối mất mặn.
 
 Có một phương châm đáng ghi nhớ: thà hao mòn hơn rỉ sét. Con dao đem ra dùng sẽ mòn dần, nhưng thà mòn còn hơn cất kỹ để rồi rỉ sét. Giống như cái phao bồn nước bị rỉ sét gãy ngang — hậu quả là nước chảy tràn, gây thiệt hại lớn mà không ai hay biết. Nếu đời sống thuộc linh không được sử dụng cho Chúa, nó cũng sẽ rỉ sét và gãy đổ.
 

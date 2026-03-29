@@ -3,7 +3,7 @@ title: "Ông Truyền Đạo Ơi!"
 date: 2020-04-16
 url: /baigiang/ong-truyen-dao-oi/
 description: "Sự gương mẫu của người lãnh đạo thuộc linh quan trọng hơn ngàn bài giảng. Tín hữu cần thấy đời sống thực hành đức tin, không chỉ nghe lời nói suông."
-tags: ["Gương Mẫu", "Lãnh Đạo Thuộc Linh", "Truyền Đạo", "Đời Sống Cơ Đốc", "Chắp Cánh Bay Cao"]
+tags: ["Gương Mẫu", "Lãnh Đạo Thuộc Linh", "Truyền Đạo", "Đời Sống Cơ-đốc", "Chắp Cánh Bay Cao"]
 authors:
   - duong-quang-thoai
 plugins:
@@ -39,7 +39,7 @@ Người ta e ngại những người nói nhiều, nói hay mà không làm đ�
 
 Một hội thánh sống động hay thiếu sinh khí phần lớn tùy thuộc vào người lãnh đạo có thực thi những gì mình rao giảng hay không. Khi người lãnh đạo sống đúng với lời mình nói, cả hội thánh được khích lệ và noi theo. Ngược lại, khi có sự khác biệt giữa lời nói và hành động, đức tin của tín hữu sẽ bị lung lay.
 
-Nếu bạn đang trên hành trình tìm hiểu và theo Chúa, thì bức thư của người tín hữu gửi cho Mục sư Layne cũng chính là lời nhắc nhở dành cho mỗi chúng ta. Không chỉ người lãnh đạo, mà mỗi Cơ Đốc nhân đều được kêu gọi sống gương mẫu trong đức tin.
+Nếu bạn đang trên hành trình tìm hiểu và theo Chúa, thì bức thư của người tín hữu gửi cho Mục sư Layne cũng chính là lời nhắc nhở dành cho mỗi chúng ta. Không chỉ người lãnh đạo, mà mỗi Cơ-đốc nhân đều được kêu gọi sống gương mẫu trong đức tin.
 
 ## Lời Chúa Nhắc Nhở
 

@@ -49,7 +49,7 @@ Sáng Thế Ký 50:20 ghi lại lời Giô-sép nói với các anh sau khi cha 
 
 ## Ngay Cả Khi Bị Hại, Vẫn Phó Thác Và Tin Kế Hoạch Chúa Là Tốt Nhất
 
-Rô-ma 8:28 khẳng định: "Mọi sự hiệp lại làm ích cho kẻ yêu mến Đức Chúa Trời." Là Cơ Đốc nhân, chúng ta chắc chắn sẽ gặp những điều bất như ý, thậm chí bị hãm hại. Nhìn gương các tôi tớ Chúa trong Kinh Thánh, rõ ràng không ai theo Chúa mà không trải qua thử thách.
+Rô-ma 8:28 khẳng định: "Mọi sự hiệp lại làm ích cho kẻ yêu mến Đức Chúa Trời." Là Cơ-đốc nhân, chúng ta chắc chắn sẽ gặp những điều bất như ý, thậm chí bị hãm hại. Nhìn gương các tôi tớ Chúa trong Kinh Thánh, rõ ràng không ai theo Chúa mà không trải qua thử thách.
 
 Chính Đức Chúa Giê-su cũng đã chịu đựng sự bất công lớn nhất. Trước tòa thầy cả thượng phẩm, Ngài bị vu khống, bị đánh đập, bị nhổ vào mặt, nhưng Ngài cứ làm thinh. Không phải vì Ngài không có khả năng chống lại - Ngài có thể gọi mười hai đạo binh thiên sứ xuống giải cứu - mà vì Ngài tin vào kế hoạch cứu chuộc của Đức Chúa Cha.
 

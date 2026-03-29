@@ -14,7 +14,7 @@ draft: false
 
 ## Sự Cầu Nguyện — Chìa Khóa Bị Bỏ Quên
 
-Trong cuộc đời Cơ Đốc nhân, chúng ta đều hiểu rằng sự cầu nguyện là vô cùng quan trọng. Thế nhưng có một nghịch lý đáng buồn: nhiều người tin Chúa đã lâu năm mà vẫn không thật sự biết cầu nguyện. Hoặc chỉ cầu nguyện khi gặp hoàn cảnh bắt buộc, khi sự việc vượt quá khả năng của mình, khi không còn lựa chọn nào khác.
+Trong cuộc đời Cơ-đốc nhân, chúng ta đều hiểu rằng sự cầu nguyện là vô cùng quan trọng. Thế nhưng có một nghịch lý đáng buồn: nhiều người tin Chúa đã lâu năm mà vẫn không thật sự biết cầu nguyện. Hoặc chỉ cầu nguyện khi gặp hoàn cảnh bắt buộc, khi sự việc vượt quá khả năng của mình, khi không còn lựa chọn nào khác.
 
 I Phi-e-rơ 4:7 dạy rằng: *"Sự cuối cùng của muôn vật đã gần; vậy hãy khôn ngoan tỉnh thức mà cầu nguyện."* Sự cầu nguyện không chỉ là để xin Chúa đáp ứng những nhu cầu hàng ngày như cơm áo gạo tiền, hay để giải quyết những mối lo âu. Kinh Thánh dạy rằng sự cầu nguyện bao bọc cả cuộc đời chúng ta, ảnh hưởng đến cả số phận đời đời.
 

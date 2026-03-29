@@ -36,6 +36,6 @@ Là những môn đệ thật của Chúa, chúng ta không thể sống trái n
 
 ### Áp Dụng Thực Tế
 
-Tình yêu thương trong Cơ Đốc giáo không phải là khái niệm trừu tượng, mà là hành động cụ thể. Khi thấy anh chị em thiếu thốn, đừng chỉ nói "xin Chúa ban phước" rồi quay đi. Hãy tự hỏi: Tôi có thể làm gì ngay bây giờ? Một bữa ăn, một bộ quần áo, một sự giúp đỡ thiết thực — đó là tình yêu thật.
+Tình yêu thương trong Cơ-đốc giáo không phải là khái niệm trừu tượng, mà là hành động cụ thể. Khi thấy anh chị em thiếu thốn, đừng chỉ nói "xin Chúa ban phước" rồi quay đi. Hãy tự hỏi: Tôi có thể làm gì ngay bây giờ? Một bữa ăn, một bộ quần áo, một sự giúp đỡ thiết thực — đó là tình yêu thật.
 
 Đức tin không có việc làm là đức tin chết. Tình yêu không có hành động là tình yêu giả. Nguyện xin Chúa giúp chúng ta không chỉ yêu bằng môi miệng, nhưng yêu bằng cả tấm lòng và đôi tay sẵn sàng phục vụ.

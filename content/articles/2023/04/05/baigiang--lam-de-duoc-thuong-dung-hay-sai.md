@@ -2,7 +2,7 @@
 title: "Làm Để Được Thưởng, Đúng Hay Sai? | Ma-thi-ơ 6:1-18"
 date: 2023-04-05
 url: /baigiang/lam-de-duoc-thuong-dung-hay-sai/
-description: "Ma-thi-ơ 6:1-18 đặt ra câu hỏi quan trọng: Cơ Đốc nhân làm theo lời Chúa để được phần thưởng có đúng không? Qua ba hành vi bố thí, cầu nguyện và kiêng ăn, Đức Chúa Giê-su phân biệt giữa việc làm vì phô trương trước mặt người ta và việc làm trong sự kín nhiệm trước mặt Đức Chúa Trời — và chỉ ra phần thưởng thật đến từ Cha trên trời."
+description: "Ma-thi-ơ 6:1-18 đặt ra câu hỏi quan trọng: Cơ-đốc nhân làm theo lời Chúa để được phần thưởng có đúng không? Qua ba hành vi bố thí, cầu nguyện và kiêng ăn, Đức Chúa Giê-su phân biệt giữa việc làm vì phô trương trước mặt người ta và việc làm trong sự kín nhiệm trước mặt Đức Chúa Trời — và chỉ ra phần thưởng thật đến từ Cha trên trời."
 tags: ["Ma-thi-ơ", "Bài Giảng Trên Núi", "Phần Thưởng", "Bố Thí", "Cầu Nguyện", "Kiêng Ăn", "Động Lực", "Tình Yêu Thương"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]

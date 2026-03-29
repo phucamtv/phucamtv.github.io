@@ -55,7 +55,7 @@ Ma-thi-ơ 6:25-34 nhắc nhở chúng ta nhìn vào loài chim trời và hoa hu
 
 ## Hy vọng thật sự đến từ đâu?
 
-Khi nhạc sĩ Trịnh Công Sơn viết "Tôi Ơi Đừng Tuyệt Vọng," ông căn dặn hãy chấp nhận những gì không thể thay đổi. Nhưng niềm hy vọng Cơ Đốc không dừng lại ở sự chấp nhận thụ động — nó vươn đến Đấng có thể thay đổi tất cả.
+Khi nhạc sĩ Trịnh Công Sơn viết "Tôi Ơi Đừng Tuyệt Vọng," ông căn dặn hãy chấp nhận những gì không thể thay đổi. Nhưng niềm hy vọng Cơ-đốc không dừng lại ở sự chấp nhận thụ động — nó vươn đến Đấng có thể thay đổi tất cả.
 
 Thi Thiên 37:4-5 mời gọi: "Cũng hãy khoái lạc nơi Đức Giê-hô-va, thì Ngài sẽ ban cho ngươi điều lòng mình ước ao. Hãy phó thác đường lối mình cho Đức Giê-hô-va, và nhờ cậy nơi Ngài, thì Ngài sẽ làm thành việc ấy."
 

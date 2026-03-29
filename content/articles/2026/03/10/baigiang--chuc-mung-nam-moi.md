@@ -2,7 +2,7 @@
 title: "Chúc Mừng Năm Mới"
 date: 2026-03-10
 url: /baigiang/chuc-mung-nam-moi/
-description: "Bài chia sẻ nhân dịp Tết Bính Ngọ tại Hội Thánh Cơ Đốc Phục Lâm Cần Thơ — năm mới thật sự hạnh phúc không đến từ lời chúc hay bánh tét, mà đến từ sự tái sanh và bước đi theo Thánh Linh, với chủ đích mới là sự cứu rỗi trong ngày Chúa tái lâm."
+description: "Bài chia sẻ nhân dịp Tết Bính Ngọ tại Hội Thánh Cơ-đốc Phục Lâm Cần Thơ — năm mới thật sự hạnh phúc không đến từ lời chúc hay bánh tét, mà đến từ sự tái sanh và bước đi theo Thánh Linh, với chủ đích mới là sự cứu rỗi trong ngày Chúa tái lâm."
 tags: ["Tái Sanh", "Năm Mới", "Đức Thánh Linh", "Sự Cứu Rỗi", "Đức Tin", "Đời Sống Mới"]
 authors: ["tran-vinh-hai"]
 plugins: [youtube]
@@ -72,7 +72,7 @@ Phi-líp 3:13-14 ghi lời Phao-lô:
 
 Trước kia, Phao-lô dùng quyền lực để truy lùng và tiêu diệt đạo Chúa. Ngài đã để cho ông bị mù ba ngày, nằm liệt không ăn không uống — chỉ đến khi hoàn toàn đầu phục thì Chúa mới cứu ông, tha tội và ban ân tứ cho ông. Kể từ đó, Phao-lô từ bỏ hẳn chủ đích cũ và có một chủ đích mới duy nhất: **hiến thân làm của lễ sống để hầu việc Chúa.**
 
-Câu hỏi cho mỗi người chúng ta: *Từ khi trở thành Cơ Đốc nhân, chúng ta đã định ra những chủ đích mới nào cho cuộc đời mình? Chủ đích mới đó có chiếm phần ưu tiên trong cuộc sống không? Và chúng ta có sẵn sàng từ bỏ chủ đích cũ để đạt được chủ đích mới không?*
+Câu hỏi cho mỗi người chúng ta: *Từ khi trở thành Cơ-đốc nhân, chúng ta đã định ra những chủ đích mới nào cho cuộc đời mình? Chủ đích mới đó có chiếm phần ưu tiên trong cuộc sống không? Và chúng ta có sẵn sàng từ bỏ chủ đích cũ để đạt được chủ đích mới không?*
 
 Chủ đích mới của con cái Chúa: **sự tái sanh, sự cứu rỗi, và sự sống đời đời.**
 

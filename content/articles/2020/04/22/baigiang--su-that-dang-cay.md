@@ -2,7 +2,7 @@
 title: "Sự Thật Đắng Cay"
 date: 2020-04-22
 url: /baigiang/su-that-dang-cay/
-description: "Câu chuyện viên ngọc họ Hòa và bài học về sự thật đắng cay trong đức tin Cơ Đốc — khi nói thật lại bị cho là dối, khi ngọc quý lại bị coi là đá."
+description: "Câu chuyện viên ngọc họ Hòa và bài học về sự thật đắng cay trong đức tin Cơ-đốc — khi nói thật lại bị cho là dối, khi ngọc quý lại bị coi là đá."
 tags: ["Sự Thật", "Đức Tin", "Giả Dối", "Sa-tan", "Chắp Cánh Bay Cao", "Tĩnh Nguyện"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]

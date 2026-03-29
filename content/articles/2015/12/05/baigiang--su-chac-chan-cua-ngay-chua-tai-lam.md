@@ -14,7 +14,7 @@ draft: false
 
 ## Bối Cảnh: Tuần Lễ Bồi Linh Và Cầu Nguyện Phục Hưng
 
-Bài giảng mở đầu tuần lễ bồi linh tại Hội Thánh Cơ Đốc Phục Lâm, với chủ đề xuyên suốt: phục hưng để chuẩn bị cho ngày Chúa Tái Lâm. Mục sư Dương Quang Thoại nhắc nhở rằng sự Tái Lâm gắn liền với tên gọi và sứ mạng của hội thánh — đó không phải một khái niệm xa vời mà là mục đích sống của mỗi tín hữu.
+Bài giảng mở đầu tuần lễ bồi linh tại Hội Thánh Cơ-đốc Phục Lâm, với chủ đề xuyên suốt: phục hưng để chuẩn bị cho ngày Chúa Tái Lâm. Mục sư Dương Quang Thoại nhắc nhở rằng sự Tái Lâm gắn liền với tên gọi và sứ mạng của hội thánh — đó không phải một khái niệm xa vời mà là mục đích sống của mỗi tín hữu.
 
 Nếu không có sự chuẩn bị, ngày Chúa trở lại sẽ không phải ngày vui mừng mà trở thành sự kiện khủng khiếp. Sự phục hưng cần xảy ra trong từng gia đình, từng cá nhân, để tất cả sẵn sàng đón Chúa.
 

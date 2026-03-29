@@ -2,7 +2,7 @@
 title: "Sự Hèn Nhát"
 date: 2020-07-15
 url: /baigiang/su-hen-nhat/
-description: "Bài học từ câu chuyện thợ săn sư tử ở Nam Phi, nhắc nhở Cơ Đốc nhân đừng bỏ rơi anh em trong lúc hoạn nạn, vì sự hiệp nhất chính là sức mạnh để chiến thắng kẻ thù."
+description: "Bài học từ câu chuyện thợ săn sư tử ở Nam Phi, nhắc nhở Cơ-đốc nhân đừng bỏ rơi anh em trong lúc hoạn nạn, vì sự hiệp nhất chính là sức mạnh để chiến thắng kẻ thù."
 tags: ["Tình Yêu Thương", "Hiệp Nhất", "Đời Sống Cộng Đồng", "Đức Tin"]
 authors:
   - duong-quang-thoai
@@ -31,13 +31,13 @@ Nỗi đau lớn nhất không phải là vết thương trên da thịt, mà l�
 
 ## Đừng Bỏ Rơi Nhau Trong Hoạn Nạn
 
-Câu chuyện của Hottentot phản ánh một thực trạng đáng buồn trong đời sống Cơ Đốc nhân ngày nay. Có nhau trong lúc hoạn nạn mới thật sự quý báu! Nhưng nhiều khi, một người anh em trong Hội Thánh đang bị ma quỷ tấn công, thì chúng ta lại chạy tán loạn, bỏ lại người đồng đội đơn độc trong cuộc chiến đấu thuộc linh.
+Câu chuyện của Hottentot phản ánh một thực trạng đáng buồn trong đời sống Cơ-đốc nhân ngày nay. Có nhau trong lúc hoạn nạn mới thật sự quý báu! Nhưng nhiều khi, một người anh em trong Hội Thánh đang bị ma quỷ tấn công, thì chúng ta lại chạy tán loạn, bỏ lại người đồng đội đơn độc trong cuộc chiến đấu thuộc linh.
 
 Ma quỷ rất khôn ngoan trong chiến thuật của chúng. Chúng thường xé lẻ chúng ta ra để dễ dàng tấn công, vì chúng biết rằng khi con dân Chúa hiệp nhất, chúng chẳng thể làm gì được. Sự hiệp nhất chính là bức tường thành kiên cố nhất mà kẻ thù không thể xuyên thủng. Nhưng khi chúng ta tách rời nhau, khi chúng ta quay lưng với anh em mình trong lúc họ cần chúng ta nhất, thì đó chính là lúc kẻ thù toàn thắng.
 
 ## Sống Vì Nhau, Không Phải Vì Mình
 
-Đời sống Cơ Đốc nhân không phải là một cuộc hành trình đơn độc. Chúng ta được kêu gọi để sống trong cộng đồng, để gánh vác lẫn nhau, để nâng đỡ nhau khi vấp ngã. Mặc cho người đời sống vì chính họ, chúng ta phải sống vì nhau. Một Cơ Đốc nhân chân chính không bao giờ từ bỏ người khác khi họ đang cần mình.
+Đời sống Cơ-đốc nhân không phải là một cuộc hành trình đơn độc. Chúng ta được kêu gọi để sống trong cộng đồng, để gánh vác lẫn nhau, để nâng đỡ nhau khi vấp ngã. Mặc cho người đời sống vì chính họ, chúng ta phải sống vì nhau. Một Cơ-đốc nhân chân chính không bao giờ từ bỏ người khác khi họ đang cần mình.
 
 Khi thấy anh em mình đang sa vào cám dỗ, đừng tránh xa họ mà hãy đến bên cạnh. Khi thấy người đồng đội đang kiệt sức trong cuộc chiến thuộc linh, đừng quay lưng mà hãy đứng vững bên họ. Khi thấy một gia đình trong Hội Thánh đang trải qua giai đoạn khó khăn, đừng xì xào bàn tán mà hãy chìa tay ra giúp đỡ.
 

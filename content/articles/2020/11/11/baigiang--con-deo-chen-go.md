@@ -1,7 +1,7 @@
 ---
 title: "Con Đẽo Chén Gỗ"
 date: 2020-11-11
-description: "Suy gẫm về lòng hiếu thảo với cha mẹ qua câu chuyện đứa trẻ đẽo chén gỗ, nhắc nhở Cơ Đốc nhân về điều răn hiếu kính cha mẹ và luật gieo gặt trong đời sống."
+description: "Suy gẫm về lòng hiếu thảo với cha mẹ qua câu chuyện đứa trẻ đẽo chén gỗ, nhắc nhở Cơ-đốc nhân về điều răn hiếu kính cha mẹ và luật gieo gặt trong đời sống."
 tags: ["Hiếu Kính Cha Mẹ", "Điều Răn", "Gieo Gặt", "Châm Ngôn"]
 authors: ["duong-quang-thoai"]
 series: ["Chắp Cánh Bay Cao"]
@@ -37,6 +37,6 @@ Câu chuyện chiếc chén gỗ minh họa rõ ràng nguyên tắc này. Đứa
 
 Hiếu kính cha mẹ là điều răn đầu tiên trong bổn phận đối với đồng loại, là điều răn có kèm theo lời hứa (Ê-phê-sô 6:2). Đây không chỉ là đạo lý xã hội mà là mệnh lệnh từ Đức Chúa Trời. Cách chúng ta đối xử với cha mẹ phản ánh chính đức tin và mối tương giao của chúng ta với Chúa.
 
-Hãy chứng tỏ mình là một Cơ Đốc nhân chân chính qua cách đối xử với mẹ cha. Đừng để đến khi quá muộn mới nhận ra giá trị của những ngày tháng còn có cha mẹ bên cạnh.
+Hãy chứng tỏ mình là một Cơ-đốc nhân chân chính qua cách đối xử với mẹ cha. Đừng để đến khi quá muộn mới nhận ra giá trị của những ngày tháng còn có cha mẹ bên cạnh.
 
 > "Hãy nghe lời cha đã sanh ra con, chớ khinh bỉ mẹ con khi người trở nên già yếu. Cha người công bình sẽ có sự vui vẻ lớn, và người nào sanh con khôn ngoan sẽ khoái lạc nơi nó." — Châm ngôn 23:22, 24

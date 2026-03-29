@@ -2,7 +2,7 @@
 title: "Làm Gì Khi Ở Trong Hoàn Cảnh Bi Đát?"
 date: 2025-08-23
 url: /baigiang/lam-gi-khi-o-trong-hoan-canh-bi-dat/
-description: "Bài giảng từ Ha-ba-cúc 3:17-19 về cách người Cơ Đốc nhân đối diện với hoàn cảnh bi đát, đặt niềm vui trong sự cứu rỗi và giữ lòng trung tín với Chúa dù gặp thử thách."
+description: "Bài giảng từ Ha-ba-cúc 3:17-19 về cách người Cơ-đốc nhân đối diện với hoàn cảnh bi đát, đặt niềm vui trong sự cứu rỗi và giữ lòng trung tín với Chúa dù gặp thử thách."
 tags: ["Đức Tin", "Thử Thách", "Sự Cứu Rỗi", "Ha-ba-cúc", "Hoạn Nạn"]
 authors:
   - "duong-quang-thoai"
@@ -17,7 +17,7 @@ draft: false
 
 ## Theo Chúa không có nghĩa là tránh khỏi hoạn nạn
 
-Một trong những sai lầm phổ biến của người Cơ Đốc nhân là nghĩ rằng theo Chúa sẽ không bao giờ gặp hoạn nạn hay rơi vào tình cảnh bi đát. Không chỉ tín hữu mới mà ngay cả những người lâu năm trong Chúa vẫn có thể ngạc nhiên hỏi: "Chúa ơi, tại sao điều này xảy đến cho con?" -- giống như Ghê-đê-ôn đã thưa trong Các Quan Xét 6:13.
+Một trong những sai lầm phổ biến của người Cơ-đốc nhân là nghĩ rằng theo Chúa sẽ không bao giờ gặp hoạn nạn hay rơi vào tình cảnh bi đát. Không chỉ tín hữu mới mà ngay cả những người lâu năm trong Chúa vẫn có thể ngạc nhiên hỏi: "Chúa ơi, tại sao điều này xảy đến cho con?" -- giống như Ghê-đê-ôn đã thưa trong Các Quan Xét 6:13.
 
 Qua Ha-ba-cúc 3:17-19, tiên tri Ha-ba-cúc mô tả một bức tranh hoàn toàn bi đát: cây vả không nứt lộc, cây nho không có trái, cây ô-li-ve không sanh sản, ruộng không sanh ra đồ ăn, bầy chiên bị dứt khỏi ràn, không còn bầy bò trong chuồng. Đối với người Y-sơ-ra-ên sống bằng nghề trồng trọt và chăn nuôi, đây là mất tất cả.
 

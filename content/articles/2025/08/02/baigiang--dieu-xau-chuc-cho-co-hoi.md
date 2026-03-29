@@ -48,7 +48,7 @@ Ma quỷ không tấn công tùy hứng — nó quan sát, chờ đợi, rồi t
 
 Các tôn giáo khác tiếp cận bằng trí tuệ và ý chí con người. Phật giáo đề cao trí tuệ và bác ái như con đường chuyển hóa — nhưng sự chuyển hóa đó vẫn dựa trên năng lực của loài người. Khi hoàn cảnh đủ áp lực, năng lực ấy thường không đủ sức.
 
-Cơ Đốc giáo tuyên bố điều khác hẳn: tội lỗi phải được *khai tử*, không phải kiềm chế. Ga-la-ti 2:20 là nền tảng: *"Tôi đã bị đóng đinh vào thập tự giá với Đấng Cơ-Đốc, mà tôi sống, không phải là tôi sống nữa, nhưng Đấng Cơ-Đốc sống trong tôi."* Bản ngã tội lỗi không được cải tạo hay kiềm tỏa — nó được đóng đinh cùng Đấng Christ, và một đời sống mới thay thế.
+Cơ-đốc giáo tuyên bố điều khác hẳn: tội lỗi phải được *khai tử*, không phải kiềm chế. Ga-la-ti 2:20 là nền tảng: *"Tôi đã bị đóng đinh vào thập tự giá với Đấng Cơ-Đốc, mà tôi sống, không phải là tôi sống nữa, nhưng Đấng Cơ-Đốc sống trong tôi."* Bản ngã tội lỗi không được cải tạo hay kiềm tỏa — nó được đóng đinh cùng Đấng Christ, và một đời sống mới thay thế.
 
 Thi-thiên 51:17 dạy rằng Đức Chúa Trời không khinh dể tấm lòng đau thương thống hối. Đây là điều kiện tiên quyết: nhận ra mình thật sự xấu xa, thật sự bất lực, và không cố che đậy hay bào chữa.
 

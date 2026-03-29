@@ -2,8 +2,8 @@
 title: "Cuộc Sống Trong Thời Kỳ Cuối Cùng"
 date: 2020-11-21
 url: /baigiang/cuoc-song-trong-thoi-ky-cuoi-cung/
-description: "Bài giảng bồi linh về đời sống Cơ Đốc nhân trong thời kỳ cuối cùng: thời kỳ cuối cùng đã được báo trước, tinh thần sống của người tin Chúa, và sự chuẩn bị sẵn sàng cho ngày Chúa tái lâm."
-tags: ["Thời Kỳ Cuối Cùng", "Chúa Tái Lâm", "Đời Sống Cơ Đốc", "Sự Chuẩn Bị", "Bồi Linh"]
+description: "Bài giảng bồi linh về đời sống Cơ-đốc nhân trong thời kỳ cuối cùng: thời kỳ cuối cùng đã được báo trước, tinh thần sống của người tin Chúa, và sự chuẩn bị sẵn sàng cho ngày Chúa tái lâm."
+tags: ["Thời Kỳ Cuối Cùng", "Chúa Tái Lâm", "Đời Sống Cơ-đốc", "Sự Chuẩn Bị", "Bồi Linh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["ON-XvvcjjXQ"]
@@ -22,11 +22,11 @@ Thông điệp về ngày cuối cùng là một trong những thông điệp qu
 
 ## Biết để làm gì mới là câu hỏi quan trọng
 
-Hầu hết Cơ Đốc nhân đều biết phải có một ngày cuối cùng, nhưng câu hỏi quan trọng hơn là: biết để làm gì? Có người dành thời gian truy tìm ngày giờ Chúa tái lâm, thậm chí ấn định ngày cụ thể. Một nhóm người đã từng ấn định ngày Chúa trở lại vào tháng 10, lôi kéo nhiều tín hữu rời bỏ Hội Thánh để theo họ. Kết quả là khi ngày đó qua đi mà không có gì xảy ra, nhiều anh chị em xấu hổ không dám quay trở lại Hội Thánh.
+Hầu hết Cơ-đốc nhân đều biết phải có một ngày cuối cùng, nhưng câu hỏi quan trọng hơn là: biết để làm gì? Có người dành thời gian truy tìm ngày giờ Chúa tái lâm, thậm chí ấn định ngày cụ thể. Một nhóm người đã từng ấn định ngày Chúa trở lại vào tháng 10, lôi kéo nhiều tín hữu rời bỏ Hội Thánh để theo họ. Kết quả là khi ngày đó qua đi mà không có gì xảy ra, nhiều anh chị em xấu hổ không dám quay trở lại Hội Thánh.
 
 Kinh Thánh không hề dạy chúng ta phải cố gắng tìm ngày Đức Chúa Giê-su tái lâm. Việc của chúng ta không phải là truy tìm lúc nào Chúa trở lại, mà là sẵn sàng cho sự kiện trọng đại ấy. Lu-ca 12:40 nhắc nhở rõ ràng: hãy chực cho sẵn sàng, vì Con người sẽ đến trong giờ các ngươi không ngờ.
 
-## Tinh thần sống của Cơ Đốc nhân trong thời kỳ cuối cùng
+## Tinh thần sống của Cơ-đốc nhân trong thời kỳ cuối cùng
 
 Tít 2:11-14 cho chúng ta biết ân điển Đức Chúa Trời dạy chúng ta chừa bỏ sự không tin kính và tình dục thế gian, phải sống theo tiết độ, công bình, nhân đức, đang chờ đợi sự trông cậy hạnh phước. Đức Chúa Trời chọn lựa chúng ta giữa muôn dân để trở thành một tuyển dân, sống theo ân điển của Ngài, chiếu ánh sáng cho mọi người qua lối sống tiết độ, công bình và nhân đức.
 

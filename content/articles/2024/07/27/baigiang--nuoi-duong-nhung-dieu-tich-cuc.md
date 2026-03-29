@@ -2,7 +2,7 @@
 title: "Nuôi Dưỡng Những Điều Tích Cực | Phi-líp 4:8"
 date: 2024-07-27
 url: /baigiang/nuoi-duong-nhung-dieu-tich-cuc/
-description: "Từ Phi-líp 4:8 và các phân đoạn Kinh Thánh liên quan, Trưởng lão Nguyễn Tuấn chia sẻ về tầm quan trọng của việc nuôi dưỡng những suy nghĩ tích cực trong đời sống Cơ Đốc nhân: loại bỏ sự cay đắng, biết ơn Chúa, mạnh mẽ trong hoạn nạn, và hướng tâm trí đến những điều chân thật, công bình, thánh sạch."
+description: "Từ Phi-líp 4:8 và các phân đoạn Kinh Thánh liên quan, Trưởng lão Nguyễn Tuấn chia sẻ về tầm quan trọng của việc nuôi dưỡng những suy nghĩ tích cực trong đời sống Cơ-đốc nhân: loại bỏ sự cay đắng, biết ơn Chúa, mạnh mẽ trong hoạn nạn, và hướng tâm trí đến những điều chân thật, công bình, thánh sạch."
 tags: ["Suy Nghĩ Tích Cực", "Phi-líp", "Ê-phê-sô", "Tấm Lòng", "Đức Tin", "Biết Ơn", "Hoạn Nạn"]
 authors: ["nguyen-tuan"]
 plugins: [youtube]
@@ -40,7 +40,7 @@ Sự cay đắng đối với những điều xảy đến trong cuộc sống t
 
 ## Biết Ơn Chúa — Nền Tảng Của Suy Nghĩ Tích Cực
 
-Điều đầu tiên để có một suy nghĩ tích cực trong đời sống Cơ Đốc nhân là biết ơn Chúa. Dù gặp khó khăn, nếu ngồi xét lại đời sống mình, chúng ta sẽ thấy phước hạnh của Chúa tuôn tràn.
+Điều đầu tiên để có một suy nghĩ tích cực trong đời sống Cơ-đốc nhân là biết ơn Chúa. Dù gặp khó khăn, nếu ngồi xét lại đời sống mình, chúng ta sẽ thấy phước hạnh của Chúa tuôn tràn.
 
 Thi Thiên 103:1–2 nhắc nhở: *"Hỡi linh hồn ta, khá ngợi khen Đức Giê-hô-va, chớ quên các ân huệ của Ngài."* Lòng biết ơn kéo chúng ta đến gần Chúa hơn, đồng thời kéo chúng ta ra khỏi những suy nghĩ tiêu cực, sự phàn nàn và quở trách Chúa khi gặp khó khăn.
 

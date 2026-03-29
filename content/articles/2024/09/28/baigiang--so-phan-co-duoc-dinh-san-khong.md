@@ -16,7 +16,7 @@ draft: false
 
 Trong văn hóa phương Đông, không ai xa lạ với khái niệm "số phận" hay "định mệnh". Người ta nói: *"Dài dép còn có số, huống chi là người."* Từ cung hoàng đạo, 12 con giáp, tử vi, đến những ngày giờ sinh ra — tất cả được dùng để lý giải tương lai một con người đã được định đoạt từ trước.
 
-Người Cơ Đốc cũng không hoàn toàn miễn nhiễm với suy nghĩ này. Đôi khi chúng ta tự hỏi: *Có một số phận định sẵn cho đời tôi không? Nếu có, tôi phải làm gì? Nếu không, điều gì thực sự định đoạt kết cục đời tôi?*
+Người Cơ-đốc cũng không hoàn toàn miễn nhiễm với suy nghĩ này. Đôi khi chúng ta tự hỏi: *Có một số phận định sẵn cho đời tôi không? Nếu có, tôi phải làm gì? Nếu không, điều gì thực sự định đoạt kết cục đời tôi?*
 
 Bài giảng này của Mục sư Dương Quang Thoại dẫn dắt chúng ta qua hai điều căn bản: **những gì chúng ta không thể chọn lựa** và **những gì chúng ta hoàn toàn có quyền quyết định**.
 

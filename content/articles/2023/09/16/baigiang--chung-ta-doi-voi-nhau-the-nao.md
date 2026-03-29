@@ -3,7 +3,7 @@ title: "Chúng Ta Đối Với Nhau Thế Nào? | Phi-líp 1:3-11"
 date: 2023-09-16
 url: /baigiang/chung-ta-doi-voi-nhau-the-nao/
 description: "Bài giảng từ Phi-líp 1:3-11 — Mục sư Dương Quang Thoại chia sẻ về mối quan hệ giữa các tín hữu trong Hội Thánh, từ tấm gương của sứ đồ Phao-lô đối với Hội Thánh Phi-líp, để chúng ta sống thế nào cho nhau nhớ đến mà cảm tạ Chúa."
-tags: ["Hội Thánh", "Tình Yêu Thương", "Phi-líp", "Phao-lô", "Mối Quan Hệ", "Cầu Nguyện", "Đời Sống Cơ Đốc"]
+tags: ["Hội Thánh", "Tình Yêu Thương", "Phi-líp", "Phao-lô", "Mối Quan Hệ", "Cầu Nguyện", "Đời Sống Cơ-đốc"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["H_pvfHQpv1U"]

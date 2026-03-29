@@ -64,7 +64,7 @@ Câu hỏi đặt ra: làm thế nào ông Hammelmann có thể tha thứ đư�
 
 Ông Hammelmann đã tự trả lời trong bức thư: *"Từ khi biết sự tha thứ lớn lao của Chúa."* Chính vì ông đã kinh nghiệm được tình yêu và sự tha thứ của Đức Chúa Trời dành cho chính mình, ông mới có thể trở thành kênh chuyển tải sự tha thứ đó cho người khác — dù người đó là kẻ đã gây ra nỗi đau lớn nhất cuộc đời ông.
 
-Đây là bằng chứng sống động rằng đức tin Cơ Đốc không phải là lý thuyết trên giấy tờ. Nó có sức mạnh biến đổi con người từ bên trong, trang bị cho họ khả năng làm những điều mà bản tính tự nhiên không thể thực hiện được.
+Đây là bằng chứng sống động rằng đức tin Cơ-đốc không phải là lý thuyết trên giấy tờ. Nó có sức mạnh biến đổi con người từ bên trong, trang bị cho họ khả năng làm những điều mà bản tính tự nhiên không thể thực hiện được.
 
 ## Lời Kết: Hãy Tha Thứ Để Được Tự Do
 

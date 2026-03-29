@@ -3,7 +3,7 @@ title: "Tình Yêu Vui Trong Sự Thật | I Cô-rinh-tô 13:1-8, 13"
 date: 2023-08-05
 url: /baigiang/tinh-yeu-vui-trong-su-that/
 description: "Bài giảng từ I Cô-rinh-tô 13:1-8 và 13 — Mục sư Dương Quang Thoại giải nghĩa về tình yêu thương chân thật: không vui về điều không công bình nhưng vui trong lẽ thật, qua những minh họa thực tế về sự hy sinh, giúp đỡ, hòa thuận và tinh thần cho đi."
-tags: ["Tình Yêu Thương", "Lẽ Thật", "Công Bình", "Hy Sinh", "I Cô-rinh-tô", "Đời Sống Cơ Đốc", "Truyền Giảng"]
+tags: ["Tình Yêu Thương", "Lẽ Thật", "Công Bình", "Hy Sinh", "I Cô-rinh-tô", "Đời Sống Cơ-đốc", "Truyền Giảng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["Ocl5J75HHAQ"]

@@ -451,7 +451,7 @@ Tuy nhiên một thực tế không thể phủ nhận, là quyền lực của 
 
 Như đã luận ở chương 6 về hai loại ngày Sa-bát, chúng ta dễ dàng thông hiểu câu Thánh Kinh trên muốn nói đến những ngày Sa-bát lễ nghi trong năm, vì đó là bóng của những việc sẽ đến.
 
-Phao-lô có ý khuyên các tín đồ đừng đoán xét một số Cơ Đốc nhân vẫn còn giữ các nghi lễ Do-thái, dần dần họ cũng sẽ nhận ra *“hình ở trong Đấng Christ”* và sẽ thấy không còn cần thiết để giữ nữa, không nên lấy đó làm đề tài tranh cãi hay định tội nhau.
+Phao-lô có ý khuyên các tín đồ đừng đoán xét một số Cơ-đốc nhân vẫn còn giữ các nghi lễ Do-thái, dần dần họ cũng sẽ nhận ra *“hình ở trong Đấng Christ”* và sẽ thấy không còn cần thiết để giữ nữa, không nên lấy đó làm đề tài tranh cãi hay định tội nhau.
 
 Thật vội vã nếu cho rằng Phao-lô có ý nói đến ngày Sa-bát hằng tuần. Ngày Sa-bát hằng tuần không phải là hình bóng trong sự chết của Chúa Cứu Thế, vì đó là kỷ niệm công cuộc sáng tạo, là sự thừa nhận Đấng Tạo Hóa. Ngày Sa-bát thứ bảy là một trong mười điều căn bản để định tội loài người, Phao-lô không thể nào bảo rằng: *“chớ có ai đoán xét anh em mình về Mười Điều Răn!”*
 

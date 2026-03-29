@@ -38,6 +38,6 @@ Sứ đồ Phao-lô viết cho Ti-mô-thê rằng: "Vả, sự tin kính cùng s
 
 Lời Kinh Thánh này nhắc nhở chúng ta rằng giá trị thật của đời sống không nằm ở của cải vật chất. Chúng ta đến thế gian với hai bàn tay trắng và rồi cũng ra đi như vậy. Điều quan trọng nhất là mối tương giao với Đức Chúa Trời và tấm lòng biết đủ, biết ơn.
 
-Sự tin kính kết hợp với sự thỏa lòng tạo nên một nền tảng vững chắc cho đời sống Cơ Đốc nhân. Người tin kính mà không thỏa lòng sẽ luôn bất an. Người thỏa lòng mà không tin kính thì chỉ là tự mãn. Nhưng khi cả hai điều này đi đôi với nhau, chúng ta có được sự bình an thật sự — sự bình an mà thế gian không thể cho và cũng không thể lấy đi.
+Sự tin kính kết hợp với sự thỏa lòng tạo nên một nền tảng vững chắc cho đời sống Cơ-đốc nhân. Người tin kính mà không thỏa lòng sẽ luôn bất an. Người thỏa lòng mà không tin kính thì chỉ là tự mãn. Nhưng khi cả hai điều này đi đôi với nhau, chúng ta có được sự bình an thật sự — sự bình an mà thế gian không thể cho và cũng không thể lấy đi.
 
 Hãy tập thói quen tạ ơn Chúa mỗi ngày, vì trong mọi hoàn cảnh, chúng ta luôn có lý do để cảm tạ Ngài.

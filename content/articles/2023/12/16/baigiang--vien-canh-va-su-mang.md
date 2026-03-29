@@ -2,8 +2,8 @@
 title: "Viễn Cảnh và Sứ Mạng"
 date: 2023-12-16
 url: /baigiang/vien-canh-va-su-mang/
-description: "Để theo Chúa và kêu gọi người khác cùng đi, người Cơ Đốc nhân phải có một viễn cảnh rõ ràng và biến nó thành hành động cụ thể — không chỉ ước mơ mà phải có sứ mạng thực tiễn trong đời sống."
-tags: ["Viễn Cảnh", "Sứ Mạng", "Tái Lâm", "Đời Sống Cơ Đốc", "Hành Động Đức Tin"]
+description: "Để theo Chúa và kêu gọi người khác cùng đi, người Cơ-đốc nhân phải có một viễn cảnh rõ ràng và biến nó thành hành động cụ thể — không chỉ ước mơ mà phải có sứ mạng thực tiễn trong đời sống."
+tags: ["Viễn Cảnh", "Sứ Mạng", "Tái Lâm", "Đời Sống Cơ-đốc", "Hành Động Đức Tin"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["8rWsYuU4vNY"]
@@ -16,7 +16,7 @@ draft: false
 
 Mục sư Dương Quang Thoại mở đầu bài giảng bằng một hình ảnh quen thuộc: chuẩn bị cho một cuộc trại. Trước khi lên đường, người trại sinh phải ngồi tưởng tượng địa hình, thời gian, nhu cầu — để không bỡ ngỡ khi đặt chân đến nơi. Đó chính là viễn cảnh: nhìn thấy trước những gì chưa xảy ra, mong ước và chuẩn bị để bước vào hành trình không thất bại.
 
-Nguyên tắc này không chỉ áp dụng cho cuộc trại hay việc xây nhà thờ — mà cho toàn bộ đời sống Cơ Đốc nhân. **Nếu không có viễn cảnh, chúng ta không biết mình đang đi đâu.** Và nếu chính mình chưa biết mình đi đâu, làm sao có thể kêu gọi người khác cùng đi?
+Nguyên tắc này không chỉ áp dụng cho cuộc trại hay việc xây nhà thờ — mà cho toàn bộ đời sống Cơ-đốc nhân. **Nếu không có viễn cảnh, chúng ta không biết mình đang đi đâu.** Và nếu chính mình chưa biết mình đi đâu, làm sao có thể kêu gọi người khác cùng đi?
 
 ## Những Môn Đồ Biết Chúa Đi Đâu
 
@@ -48,7 +48,7 @@ Hê-bơ-rơ 11:13–16 liệt kê những tổ phụ đức tin — họ đã ch
 
 ## Viễn Cảnh Chắc Chắn Sẽ Xảy Ra
 
-Không như những giấc mơ viễn tưởng, viễn cảnh của người Cơ Đốc nhân có nền tảng vững chắc: đó là những điều Kinh Thánh đã tiết lộ và đang ứng nghiệm từng ngày. Từ cuộc chiến Nga–Ukraine đến xung đột Hamas–Israel, ngày càng nhiều người quay lại nghiên cứu Kinh Thánh vì thấy những lời tiên tri đang thành sự thật trước mắt.
+Không như những giấc mơ viễn tưởng, viễn cảnh của người Cơ-đốc nhân có nền tảng vững chắc: đó là những điều Kinh Thánh đã tiết lộ và đang ứng nghiệm từng ngày. Từ cuộc chiến Nga–Ukraine đến xung đột Hamas–Israel, ngày càng nhiều người quay lại nghiên cứu Kinh Thánh vì thấy những lời tiên tri đang thành sự thật trước mắt.
 
 Hội Thánh cần phải hành động. Như người chăn chiên không ngồi yên khi mất một con chiên (Lu-ca 15), hay như những ví dụ của Chúa trong Ma-thi-ơ 13 về người gieo giống, người lưới cá, người tìm kho báu — tất cả đều cho thấy: **viễn cảnh phải đi kèm hành động**. Đặc biệt các bạn trẻ — hãy tận dụng thì giờ, hầu việc Chúa và chuẩn bị cho sự cứu rỗi của bản thân mình.
 

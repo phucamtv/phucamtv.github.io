@@ -12,7 +12,7 @@ draft: false
 
 {{< youtube "TuaQPxlgjnI" >}}
 
-Trong thư Ê-phê-sô đoạn 3 câu 14 đến 21, sứ đồ Phao-lô tiếp tục vẽ lên bức tranh về Hội Thánh của Đức Chúa Trời. Trong một thế giới đầy dẫy sự chia rẽ, theo kế hoạch của Đức Chúa Trời, tất cả những điều lộn xộn ấy sẽ được hiệp nhất trong Chúa Cứu Thế Giê-su. Điều này không thể thực hiện được nếu Hội Thánh không mang tin mừng rao giảng cho mọi người. Chính vì điều này mà Phao-lô cầu nguyện cho cả Hội Thánh hiệp nhất trong thân thể Đấng Cơ Đốc.
+Trong thư Ê-phê-sô đoạn 3 câu 14 đến 21, sứ đồ Phao-lô tiếp tục vẽ lên bức tranh về Hội Thánh của Đức Chúa Trời. Trong một thế giới đầy dẫy sự chia rẽ, theo kế hoạch của Đức Chúa Trời, tất cả những điều lộn xộn ấy sẽ được hiệp nhất trong Chúa Cứu Thế Giê-su. Điều này không thể thực hiện được nếu Hội Thánh không mang tin mừng rao giảng cho mọi người. Chính vì điều này mà Phao-lô cầu nguyện cho cả Hội Thánh hiệp nhất trong thân thể Đấng Cơ-đốc.
 
 ## 1. Phao-lô quỳ gối cầu nguyện trước mặt Cha
 

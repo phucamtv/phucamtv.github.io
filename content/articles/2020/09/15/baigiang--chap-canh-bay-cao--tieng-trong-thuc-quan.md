@@ -1,7 +1,7 @@
 ---
 title: "Chắp Cánh Bay Cao - Tiếng Trống Thúc Quân"
 date: 2020-09-15
-description: "Câu chuyện cậu bé 13 tuổi dũng cảm đánh trống thúc quân trong trận chiến của Bonaparte nhắc nhở thanh thiếu niên Cơ Đốc: hãy trung tín với công việc của mình và can đảm bước theo Chúa trong giờ phút Hội Thánh cần tiến lên."
+description: "Câu chuyện cậu bé 13 tuổi dũng cảm đánh trống thúc quân trong trận chiến của Bonaparte nhắc nhở thanh thiếu niên Cơ-đốc: hãy trung tín với công việc của mình và can đảm bước theo Chúa trong giờ phút Hội Thánh cần tiến lên."
 tags: ["Chắp Cánh Bay Cao", "Thanh Thiếu Niên", "Can Đảm", "Trung Tín", "Thi Thiên 110"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -28,7 +28,7 @@ Không quá đáng khi nói rằng chiến thắng ấy của Bonaparte thật s
 
 ## Đức Chúa Trời Cần Những Tấm Lòng Như Thế
 
-Câu chuyện lịch sử này mang một bài học sâu sắc cho thanh thiếu niên Cơ Đốc. Đức Chúa Trời đang cần những thanh thiếu niên với lòng nhiệt huyết như cậu bé đó: **can đảm bước theo Chúa bằng cách trung tín với công việc hiện tại của mình**.
+Câu chuyện lịch sử này mang một bài học sâu sắc cho thanh thiếu niên Cơ-đốc. Đức Chúa Trời đang cần những thanh thiếu niên với lòng nhiệt huyết như cậu bé đó: **can đảm bước theo Chúa bằng cách trung tín với công việc hiện tại của mình**.
 
 Nhiều người trẻ nghĩ rằng mình phải làm những việc vĩ đại, đứng ở vị trí lớn lao, mới có thể phục vụ Chúa một cách ý nghĩa. Nhưng cậu bé trong câu chuyện này không cầm giáo, không cưỡi ngựa — cậu chỉ đánh trống. Đó là nhiệm vụ được giao, và cậu đã hoàn thành nó với trọn tấm lòng trong khoảnh khắc quyết định.
 

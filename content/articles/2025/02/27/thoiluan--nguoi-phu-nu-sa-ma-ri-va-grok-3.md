@@ -76,9 +76,9 @@ Những công nghệ như Grok 3, nếu không được kiểm duyệt đúng m�
 - **Suy yếu giá trị đạo đức truyền thống** về tình dục, hôn nhân và gia đình khi các nội dung này ngày càng phổ biến trên không gian mạng.
 - **Trách nhiệm xã hội** — những người nổi tiếng và có ảnh hưởng cần nhận thức rõ ràng về sức ảnh hưởng của mình, đặc biệt đối với giới trẻ.
 
-## Cơ Đốc nhân cần tỉnh thức
+## Cơ-đốc nhân cần tỉnh thức
 
-Cơ Đốc nhân cần tỉnh thức và nhận biết những nguy cơ từ công nghệ và các xu hướng xã hội đi ngược lại giá trị Thánh Kinh. Việc tăng cường giáo dục đạo đức Cơ Đốc cho thế hệ trẻ, trang bị cho họ khả năng phân biệt đúng sai, là điều vô cùng cần thiết trong bối cảnh hiện nay.
+Cơ-đốc nhân cần tỉnh thức và nhận biết những nguy cơ từ công nghệ và các xu hướng xã hội đi ngược lại giá trị Thánh Kinh. Việc tăng cường giáo dục đạo đức Cơ-đốc cho thế hệ trẻ, trang bị cho họ khả năng phân biệt đúng sai, là điều vô cùng cần thiết trong bối cảnh hiện nay.
 
 Đồng thời, chúng ta không thể im lặng trước những điều sai trái mà phải lên tiếng bảo vệ giá trị Thánh Kinh.
 
@@ -108,10 +108,10 @@ Thời đại ngày nay cũng chứng kiến sự suy giảm hoặc thay đổi 
 
 Câu chuyện người phụ nữ Sa-ma-ri trong Giăng chương 4 là một bài học sâu sắc về sự tìm kiếm ý nghĩa thật của cuộc sống. Người phụ nữ đã tìm kiếm sự thỏa mãn trong nhiều mối quan hệ nhưng vẫn không tìm thấy "nước sống" thật sự cho đến khi gặp gỡ Đức Chúa Giê-su.
 
-Trong thời đại ngày nay, sự lệch lạc đạo đức thể hiện qua Grok 3 và lối sống của Elon Musk là một hồi chuông cảnh tỉnh cho tất cả chúng ta. Cơ Đốc nhân không chỉ cần tìm về "nguồn nước sống" mà Đức Chúa Giê-su ban cho — sự tha thứ, hy vọng và đổi mới — mà còn phải chiến đấu chống lại những xu hướng độc hại trong xã hội.
+Trong thời đại ngày nay, sự lệch lạc đạo đức thể hiện qua Grok 3 và lối sống của Elon Musk là một hồi chuông cảnh tỉnh cho tất cả chúng ta. Cơ-đốc nhân không chỉ cần tìm về "nguồn nước sống" mà Đức Chúa Giê-su ban cho — sự tha thứ, hy vọng và đổi mới — mà còn phải chiến đấu chống lại những xu hướng độc hại trong xã hội.
 
 Chúng ta được kêu gọi trở thành muối của đất, là ánh sáng của thế gian (Ma-thi-ơ 5:13-16), tích cực góp phần xây dựng một xã hội tốt đẹp hơn, nơi các giá trị đạo đức được tôn trọng và gìn giữ.
 
 > "Chớ dự phần vào công việc vô ích của sự tối tăm, thà quở trách chúng nó thì hơn." — Ê-phê-sô 5:11
 
-Đây không chỉ là lời khuyên, mà còn là mệnh lệnh cho mỗi Cơ Đốc nhân trong thời đại đầy thách thức này.
+Đây không chỉ là lời khuyên, mà còn là mệnh lệnh cho mỗi Cơ-đốc nhân trong thời đại đầy thách thức này.

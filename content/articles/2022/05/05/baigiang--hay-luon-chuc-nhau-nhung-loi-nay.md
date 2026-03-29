@@ -3,7 +3,7 @@ title: "Hãy Luôn Chúc Nhau Những Lời Nầy"
 date: 2022-05-05
 url: /baigiang/duong-quang-thoai/hay-luon-chuc-nhau-nhung-loi-nay/index.html
 description: "Qua phần kết thúc thư Ê-phê-sô 6:21-24, bài giảng phân tích bốn lời chúc phước mà Phao-lô thường dành cho Hội Thánh: sự bình an, tình yêu thương, đức tin và ân điển -- bốn điều mà thế giới ngày càng cạn kiệt nhưng Đức Chúa Trời ban cho cách dư dật."
-tags: ["Ê-phê-sô", "Phước Hạnh", "Đời Sống Cơ Đốc", "Hội Thánh"]
+tags: ["Ê-phê-sô", "Phước Hạnh", "Đời Sống Cơ-đốc", "Hội Thánh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["Rfvd_fbqb18"]

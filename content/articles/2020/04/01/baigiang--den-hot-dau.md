@@ -31,7 +31,7 @@ Quy luật tích lũy này không chỉ áp dụng trong đời sống vật ch�
 
 ## Đừng Xem Thường Việc Nhỏ
 
-Một trong những cám dỗ lớn nhất của đời sống Cơ Đốc nhân là xem thường giá trị của những điều nhỏ nhặt. Chúng ta thường mơ ước những điều cao xa, những thành tựu vĩ đại, trong khi lại bỏ qua những phần việc nhỏ hàng ngày. Chúng ta muốn có đức tin lớn nhưng lại lơ là trong việc cầu nguyện mỗi sáng. Chúng ta muốn hiểu biết Lời Chúa sâu nhiệm nhưng lại không kiên trì đọc Kinh Thánh mỗi ngày.
+Một trong những cám dỗ lớn nhất của đời sống Cơ-đốc nhân là xem thường giá trị của những điều nhỏ nhặt. Chúng ta thường mơ ước những điều cao xa, những thành tựu vĩ đại, trong khi lại bỏ qua những phần việc nhỏ hàng ngày. Chúng ta muốn có đức tin lớn nhưng lại lơ là trong việc cầu nguyện mỗi sáng. Chúng ta muốn hiểu biết Lời Chúa sâu nhiệm nhưng lại không kiên trì đọc Kinh Thánh mỗi ngày.
 
 Thực tế cho thấy rằng khi kết quả to lớn được góp nhặt từ những năm tháng dài bền bỉ, chúng ta sẽ kinh ngạc nhận ra giá trị phi thường của những việc nhỏ hàng ngày. Mỗi lời cầu nguyện, mỗi câu Kinh Thánh, mỗi hành động yêu thương dù nhỏ bé đều đang xây đắp nên ngôi đền thuộc linh trong đời sống chúng ta.
 

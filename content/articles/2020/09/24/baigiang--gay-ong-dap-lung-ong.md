@@ -28,7 +28,7 @@ Sau khi nói thao thao bất tuyệt một lúc, anh chàng từ trên chiếc t
 
 Đức hạnh tự nhiên của con người không đủ sức để tạo nên một đồn lũy vững chắc cho linh hồn thoát khỏi sự tấn công hung hãn của điều ác. Chính vì thế mà người ta cần phải có niềm tin nơi Đấng Tối Cao.
 
-Đối với Cơ Đốc giáo, năng lực để chế ngự tội lỗi đến từ Lời của Đức Chúa Trời, qua niềm tin nơi Chúa Cứu Thế và sự chế ngự của Đức Thánh Linh. Không một nỗ lực nào của bản chất con người có thể thành công trong cuộc chiến không cân sức giữa tội lỗi và lòng người.
+Đối với Cơ-đốc giáo, năng lực để chế ngự tội lỗi đến từ Lời của Đức Chúa Trời, qua niềm tin nơi Chúa Cứu Thế và sự chế ngự của Đức Thánh Linh. Không một nỗ lực nào của bản chất con người có thể thành công trong cuộc chiến không cân sức giữa tội lỗi và lòng người.
 
 Loại trừ đức tin nơi Chúa, là loại trừ cơ hội chiến thắng. Chỉ có nền đạo đức chân chính trong Đấng Cứu Chuộc vô tội mới là chiếc neo để giữ vững con thuyền đạo hạnh chúng ta khỏi trôi giạt giữa những cơn thủy triều của một thế giới đầy băng hoại.
 

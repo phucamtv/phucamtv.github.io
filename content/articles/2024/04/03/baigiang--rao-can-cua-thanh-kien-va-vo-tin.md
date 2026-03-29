@@ -40,7 +40,7 @@ Sau loạt ẩn dụ, Đức Chúa Giê-su hỏi các môn đồ: "Các ngươi 
 
 Mục sư giải thích rằng "kho" ở đây là hình ảnh tâm trí của người tin Chúa. Các môn đồ trước khi theo Chúa đã được dạy dỗ trong Do Thái giáo — họ có nền tảng từ Torah, từ các thầy thông giáo, từ người Pha-ri-si. Đó là "đồ cũ" trong kho. Bây giờ Đức Chúa Giê-su chiếu thêm "ánh sáng mới" lên những văn tự quen thuộc đó, giúp họ hiểu sâu hơn và rộng hơn.
 
-Điều này có ý nghĩa thiết thực: khi tin Chúa, không nhất thiết phải bỏ hết mọi thứ của đời sống cũ. Người kinh doanh vẫn cứ kinh doanh — nhưng lương thiện. Vận động viên vẫn thi đấu — nhưng trung thực, cao thượng. Nghệ sĩ vẫn làm nghề — nhưng cân nhắc những vai diễn không phù hợp với tư cách một Cơ Đốc nhân. Đồ cũ nào còn dùng được thì giữ; đồ nào không phù hợp thì loại bỏ.
+Điều này có ý nghĩa thiết thực: khi tin Chúa, không nhất thiết phải bỏ hết mọi thứ của đời sống cũ. Người kinh doanh vẫn cứ kinh doanh — nhưng lương thiện. Vận động viên vẫn thi đấu — nhưng trung thực, cao thượng. Nghệ sĩ vẫn làm nghề — nhưng cân nhắc những vai diễn không phù hợp với tư cách một Cơ-đốc nhân. Đồ cũ nào còn dùng được thì giữ; đồ nào không phù hợp thì loại bỏ.
 
 Hơn nữa, Đức Chúa Giê-su còn chiếu ánh sáng mới lên những điều luật cũ. Ví dụ điều răn "ngươi chớ giết người" — người ta chỉ hiểu theo nghĩa hẹp là hành vi giết chóc bằng thể xác. Nhưng Đức Chúa Giê-su mở rộng: "nếu các ngươi ghét anh em mình, các ngươi cũng là kẻ giết người." Đó là cách dùng kho đồ cũ và mới cùng một lúc.
 

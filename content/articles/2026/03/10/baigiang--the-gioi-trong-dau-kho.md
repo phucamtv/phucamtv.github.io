@@ -2,7 +2,7 @@
 title: "Thế Giới Trong Đau Khổ"
 date: 2026-03-10
 url: /baigiang/the-gioi-trong-dau-kho/
-description: "Bài truyền giảng tháng 3/2026 tại Hội Thánh Cơ Đốc Phục Lâm Cần Thơ — khám phá nguồn gốc của đau khổ trong thế giới: tội lỗi đã tạo ra khoảng cách giữa con người với Đức Chúa Trời và đẩy con người vào sự khốn khổ. Lời giải đáp là hướng tâm trí về điều thiện, dứt khoát với điều ác, và để Chúa đổi mới tấm lòng."
+description: "Bài truyền giảng tháng 3/2026 tại Hội Thánh Cơ-đốc Phục Lâm Cần Thơ — khám phá nguồn gốc của đau khổ trong thế giới: tội lỗi đã tạo ra khoảng cách giữa con người với Đức Chúa Trời và đẩy con người vào sự khốn khổ. Lời giải đáp là hướng tâm trí về điều thiện, dứt khoát với điều ác, và để Chúa đổi mới tấm lòng."
 tags: ["Đời Sống", "Tội Lỗi", "Đau Khổ", "Đổi Mới", "Đức Thánh Linh", "Hy Vọng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]

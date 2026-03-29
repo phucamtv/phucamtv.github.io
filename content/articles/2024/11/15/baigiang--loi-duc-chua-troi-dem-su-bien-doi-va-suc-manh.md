@@ -32,7 +32,7 @@ Ma-thi-ơ 7:21-23 là lời cảnh cáo dành cho chính những người tin Ch
 
 Ẩn dụ hai nền nhà trong Ma-thi-ơ 7:24-27 cho thấy mưa sa, nước chảy, gió lay đến với cả hai nhà như nhau — hoàn cảnh bên ngoài không khác biệt. Sự khác biệt duy nhất nằm ở nền tảng: nghe và làm theo thì đứng vững, nghe mà không làm thì sụp đổ.
 
-Câu chuyện hai đứa con trai trong Ma-thi-ơ 21:28-31 chạm đến một thực trạng đau lòng: đứa con miệng nói "dạ vâng" nhưng không đi, trong khi đứa nói "con không muốn" lại ăn năn và đi làm. Mục sư chỉ ra rằng Cơ Đốc nhân đôi khi khoác lên mình vẻ ngoan ngoãn bề ngoài — hưởng ứng mọi thứ, tham gia mọi hoạt động — nhưng thực chất không sống theo ý muốn Đức Chúa Trời.
+Câu chuyện hai đứa con trai trong Ma-thi-ơ 21:28-31 chạm đến một thực trạng đau lòng: đứa con miệng nói "dạ vâng" nhưng không đi, trong khi đứa nói "con không muốn" lại ăn năn và đi làm. Mục sư chỉ ra rằng Cơ-đốc nhân đôi khi khoác lên mình vẻ ngoan ngoãn bề ngoài — hưởng ứng mọi thứ, tham gia mọi hoạt động — nhưng thực chất không sống theo ý muốn Đức Chúa Trời.
 
 ## Năng lực ẩn chứa trong Lời Đức Chúa Trời
 

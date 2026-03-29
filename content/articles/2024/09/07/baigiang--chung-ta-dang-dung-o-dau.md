@@ -3,7 +3,7 @@ title: "Chúng Ta Đang Đứng Ở Đâu?"
 date: 2024-09-07
 url: /baigiang/chung-ta-dang-dung-o-dau/
 description: "Bài giảng suy gẫm về vị trí thuộc linh của người tin Chúa qua ba khía cạnh: những chỗ đứng nguy hiểm cần tránh, sự can đảm giữ vững đức tin dù đối diện bách hại, và lựa chọn đứng nơi có thể chiếu sáng cho Chúa giữa thế giới tối tăm."
-tags: ["Đức Tin", "Can Đảm", "Chỗ Đứng", "Ánh Sáng", "Cơ Đốc Nhân"]
+tags: ["Đức Tin", "Can Đảm", "Chỗ Đứng", "Ánh Sáng", "Cơ-đốc Nhân"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["ZJ5Uj4eJWVE"]

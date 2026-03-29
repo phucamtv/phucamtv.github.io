@@ -28,7 +28,7 @@ Nhưng rồi hai tháng sau thất bại đó, cũng chính tại eo biển ấy
 
 ## Sương Mù Trong Đời Sống Đức Tin
 
-Đôi khi chúng ta chán nản và muốn bỏ cuộc, chẳng phải vì sợ hãi hay áp lực, mà bởi vì ta không còn thấy rõ chủ đích của công việc mình đang làm. Trong mọi lĩnh vực của cuộc sống, chủ đích là điều quan trọng nhất. Đối với Cơ Đốc Nhân, không ước vọng nào mãnh liệt hơn là được sống với Chúa nơi Thiên Quốc.
+Đôi khi chúng ta chán nản và muốn bỏ cuộc, chẳng phải vì sợ hãi hay áp lực, mà bởi vì ta không còn thấy rõ chủ đích của công việc mình đang làm. Trong mọi lĩnh vực của cuộc sống, chủ đích là điều quan trọng nhất. Đối với Cơ-đốc Nhân, không ước vọng nào mãnh liệt hơn là được sống với Chúa nơi Thiên Quốc.
 
 Nhưng những vùng sương mù dày đặc của công việc trần thế có thể làm chúng ta mất phương hướng, sao lãng, bỏ cuộc, hoặc rẽ sang một hướng khác. Những lo toan cơm áo gạo tiền, những thử thách trong gia đình và sự nghiệp, những mối quan hệ phức tạp — tất cả như lớp sương mù che khuất tầm nhìn đức tin của chúng ta.
 

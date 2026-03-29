@@ -21,7 +21,7 @@ Trong một buổi chiếu phim miễn phí ngoài trời dành cho thiếu nhi 
 
 Nhưng không một em bé nào nhúc nhích. Phần hai của bộ phim tiếp tục chiếu. Cả nhà Hatchison bồn chồn lo lắng suốt thời gian còn lại. Khi buổi chiếu phim kết thúc và đèn được bật sáng, Mary Jones thong thả bước ra về như không có chuyện gì xảy ra. Cả nhà vừa mừng vừa bực tức hỏi em tại sao không lên tiếng khi nghe thông báo. Mary trả lời một cách hồn nhiên rằng em có bị lạc đâu – em ngồi xem phim giống mọi người khác, và khi nghe thông báo, em tưởng người ta đang tìm một bé Jones nào khác trùng tên mà thôi.
 
-Câu chuyện tưởng chừng đơn giản nhưng phản ánh một thực trạng thuộc linh sâu sắc mà mỗi Cơ Đốc nhân cần nghiêm túc suy ngẫm.
+Câu chuyện tưởng chừng đơn giản nhưng phản ánh một thực trạng thuộc linh sâu sắc mà mỗi Cơ-đốc nhân cần nghiêm túc suy ngẫm.
 
 ## Thực Trạng Thuộc Linh Của Hội Thánh Lao-đi-xê
 

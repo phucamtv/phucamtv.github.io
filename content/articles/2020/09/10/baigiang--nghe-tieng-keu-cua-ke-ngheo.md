@@ -17,7 +17,7 @@ draft: false
 
 ## Câu Chuyện Ông Martin Ở Tours
 
-Bài tĩnh nguyện ngày 10 tháng 9 trong loạt bài Chắp Cánh Bay Cao mở đầu bằng một câu chuyện cảm động từ lịch sử Hội Thánh. Ông Martin ở Tours, nước Pháp, vốn là một chiến sĩ La Mã và cũng là một Cơ Đốc nhân. Vào một ngày mùa đông lạnh lẽo, khi ông bước vào thành phố, một người hành khất đã nài nỉ xin ông bố thí.
+Bài tĩnh nguyện ngày 10 tháng 9 trong loạt bài Chắp Cánh Bay Cao mở đầu bằng một câu chuyện cảm động từ lịch sử Hội Thánh. Ông Martin ở Tours, nước Pháp, vốn là một chiến sĩ La Mã và cũng là một Cơ-đốc nhân. Vào một ngày mùa đông lạnh lẽo, khi ông bước vào thành phố, một người hành khất đã nài nỉ xin ông bố thí.
 
 Martin không có tiền trong người. Nhưng nhìn thấy người hành khất xanh xao, run rẩy vì cái lạnh cắt da, ông đã hành động theo tấm lòng trắc ẩn của mình. Ông cởi chiếc áo nhà binh cũ sờn rách đang mặc trên người, xé làm đôi — một nửa trao cho người hành khất, nửa còn lại choàng ngang người mình cho đỡ lạnh.
 
@@ -39,10 +39,10 @@ Tuy nhiên, bài tĩnh nguyện đưa ra một lời khuyên đầy khích lệ:
 
 Điều quan trọng nhất mà Mục sư nhấn mạnh là hãy cố gắng giữ mãi sự nhạy cảm của lòng thương xót. Tình yêu của Đức Chúa Trời được thể hiện cụ thể qua cách sống nhân hậu của những người tin Ngài. Đây không chỉ là bổn phận mà còn là đặc quyền của con cái Chúa — được làm đôi tay của Ngài để chạm đến những người đang trong cơn khốn khó.
 
-Bài tĩnh nguyện kêu gọi mỗi tín nhân hãy chứng tỏ cho thế giới tội ác biết rằng, dù bị vây quanh bởi sự lừa dối, lòng nhân từ của người có Chúa vẫn không mảy may xao động. Đó chính là lời chứng mạnh mẽ nhất mà một Cơ Đốc nhân có thể mang đến cho thế gian.
+Bài tĩnh nguyện kêu gọi mỗi tín nhân hãy chứng tỏ cho thế giới tội ác biết rằng, dù bị vây quanh bởi sự lừa dối, lòng nhân từ của người có Chúa vẫn không mảy may xao động. Đó chính là lời chứng mạnh mẽ nhất mà một Cơ-đốc nhân có thể mang đến cho thế gian.
 
 ## Lời Kinh Thánh Nhắc Nhở
 
 Bài tĩnh nguyện kết thúc bằng câu Kinh Thánh Châm ngôn 21:13 — một lời cảnh tỉnh nghiêm túc rằng ai bưng tai không chịu nghe tiếng kêu la của người nghèo khổ, thì chính người đó khi kêu cầu cũng sẽ chẳng có ai đáp lại. Đây là nguyên tắc gieo gặt trong Kinh Thánh: sự thương xót mà chúng ta gieo ra sẽ quay trở lại với chính mình.
 
-Qua bài tĩnh nguyện ngắn gọn nhưng sâu sắc này, Mục sư Dương Quang Thoại nhắc nhở mỗi Cơ Đốc nhân rằng lòng thương xót không phải là sự yếu đuối — nó là sức mạnh thuộc linh phản ánh bản tính của Đức Chúa Trời. Và mỗi khi chúng ta mở lòng giúp đỡ người thiếu thốn, chúng ta đang phục vụ chính Chúa Giêsu.
+Qua bài tĩnh nguyện ngắn gọn nhưng sâu sắc này, Mục sư Dương Quang Thoại nhắc nhở mỗi Cơ-đốc nhân rằng lòng thương xót không phải là sự yếu đuối — nó là sức mạnh thuộc linh phản ánh bản tính của Đức Chúa Trời. Và mỗi khi chúng ta mở lòng giúp đỡ người thiếu thốn, chúng ta đang phục vụ chính Chúa Giêsu.

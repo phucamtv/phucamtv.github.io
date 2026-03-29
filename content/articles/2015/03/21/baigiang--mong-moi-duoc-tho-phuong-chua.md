@@ -48,7 +48,7 @@ Lời kêu gọi ở đây là hãy dùng môi miệng ca ngợi Thượng Đế
 
 ## Biến Trũng Khóc Lóc Thành Nơi Có Mạch Nước
 
-Câu 6 và 7 của Thi Thiên 84 mô tả hình ảnh đầy ấn tượng: những người khao khát thờ phượng Chúa đi qua trũng khóc lóc — vùng đất khô hạn không cây cối, không sự sống — nhưng biến nơi ấy trở thành nơi có mạch nước tươi mát. Đây là lời thách thức dành cho mỗi Cơ Đốc nhân: nơi nào chúng ta xuất hiện, sinh sống, làm việc, nơi ấy phải trở nên tốt đẹp hơn.
+Câu 6 và 7 của Thi Thiên 84 mô tả hình ảnh đầy ấn tượng: những người khao khát thờ phượng Chúa đi qua trũng khóc lóc — vùng đất khô hạn không cây cối, không sự sống — nhưng biến nơi ấy trở thành nơi có mạch nước tươi mát. Đây là lời thách thức dành cho mỗi Cơ-đốc nhân: nơi nào chúng ta xuất hiện, sinh sống, làm việc, nơi ấy phải trở nên tốt đẹp hơn.
 
 Đức Chúa Giê-su dạy rằng chúng ta là muối của đất và ánh sáng của thế gian. Muối giữ cho không hư thối, tăng thêm gia vị cho cuộc sống. Ánh sáng soi sáng, sưởi ấm, dẫn đường. Dù không giàu có, không học cao, dù thân phận tầm thường hay thể xác bệnh hoạn, năng lực từ sự thờ phượng Đức Chúa Trời giúp chúng ta ảnh hưởng tích cực đến mọi nơi mình đến.
 

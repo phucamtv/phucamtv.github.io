@@ -40,7 +40,7 @@ Thất bại không phải là kẻ thù. Thất bại là người thầy dạy
 
 Áp lực hằng ngày đôi khi đánh gục chúng ta. Sự nản lòng đè nặng, khiến chúng ta muốn buông xuôi tất cả. Nhưng trong những lúc như thế, hãy hướng về thập tự giá — nơi Chúa Cứu Thế đã để lại cho chúng ta gương mẫu, niềm tin và sức mạnh để đứng dậy, tiếp tục bước đi.
 
-Đời sống Cơ Đốc nhân là một cuộc vật lộn từng ngày: chống trả với điều ác, tu chỉnh đức hạnh. Không ai có thể đi trọn con đường ấy mà không có lúc vấp ngã. Điều quan trọng không phải là chúng ta có ngã hay không, mà là sau khi ngã, chúng ta có đứng dậy hay không.
+Đời sống Cơ-đốc nhân là một cuộc vật lộn từng ngày: chống trả với điều ác, tu chỉnh đức hạnh. Không ai có thể đi trọn con đường ấy mà không có lúc vấp ngã. Điều quan trọng không phải là chúng ta có ngã hay không, mà là sau khi ngã, chúng ta có đứng dậy hay không.
 
 Kinh Thánh viết:
 

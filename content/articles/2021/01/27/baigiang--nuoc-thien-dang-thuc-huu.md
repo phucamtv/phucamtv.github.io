@@ -32,7 +32,7 @@ Câu trả lời của Chúa không chỉ giải quyết câu hỏi đó, mà c�
 
 Người Sa-đu-sê rơi vào một cái bẫy phổ biến: **họ quá tập trung vào tín lý của giáo phái mình** đến mức không còn khả năng đọc Kinh Thánh với tâm thái khách quan. Họ đã chọn lọc từ Kinh Thánh những gì phù hợp với quan điểm sẵn có, rồi xây dựng lập luận để bảo vệ quan điểm đó.
 
-Đây là tình trạng không chỉ xảy ra vào thời Đức Chúa Giê-su. Ngay cả trong bối cảnh Cơ Đốc ngày nay, mỗi hệ phái, mỗi tổ chức đôi khi bị cám dỗ để ưu tiên tín điều riêng của mình hơn là trở về với lời Đức Chúa Trời. Hệ phái là điều kiện để phục vụ Chúa, không phải là tiêu chuẩn để được phán xét. Tiêu chuẩn phán xét duy nhất là Lời Chúa.
+Đây là tình trạng không chỉ xảy ra vào thời Đức Chúa Giê-su. Ngay cả trong bối cảnh Cơ-đốc ngày nay, mỗi hệ phái, mỗi tổ chức đôi khi bị cám dỗ để ưu tiên tín điều riêng của mình hơn là trở về với lời Đức Chúa Trời. Hệ phái là điều kiện để phục vụ Chúa, không phải là tiêu chuẩn để được phán xét. Tiêu chuẩn phán xét duy nhất là Lời Chúa.
 
 ### Khi Không Giải Thích Được Thì Phủ Nhận
 

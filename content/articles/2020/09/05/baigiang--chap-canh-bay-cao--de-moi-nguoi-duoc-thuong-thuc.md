@@ -30,7 +30,7 @@ Câu chuyện về Fritz Kreisler và chiếc vĩ cầm cổ mang một thông �
 
 ## Nguy Cơ Của Sự Né Tránh Và Động Lực Sai Lầm
 
-Có hai nguy cơ mà mỗi Cơ Đốc nhân cần cảnh giác khi nói đến việc dùng tài năng hầu việc Chúa.
+Có hai nguy cơ mà mỗi Cơ-đốc nhân cần cảnh giác khi nói đến việc dùng tài năng hầu việc Chúa.
 
 **Thứ nhất là né tránh.** Có những người biết rõ mình có tài năng — âm nhạc, giảng dạy, tổ chức, quan tâm chăm sóc — nhưng lại tìm cách tránh né không muốn phục vụ. Có thể vì sợ trách nhiệm, vì ngại tốn công sức, hoặc vì đơn giản là chưa sẵn lòng dâng hiến cho Chúa những gì Ngài đã ban.
 

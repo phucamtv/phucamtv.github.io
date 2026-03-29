@@ -13,7 +13,7 @@ part_of_series: true
 
 {{< youtube "sBduE6vzXQw" >}}
 
-Đức Chúa Giêsu có phải là Đức Chúa Trời hay không? Đây là câu hỏi nền tảng mà mọi Cơ Đốc nhân cần hiểu rõ. Chính Thánh Kinh đã đưa ra câu trả lời rõ ràng.
+Đức Chúa Giêsu có phải là Đức Chúa Trời hay không? Đây là câu hỏi nền tảng mà mọi Cơ-đốc nhân cần hiểu rõ. Chính Thánh Kinh đã đưa ra câu trả lời rõ ràng.
 
 ## Ma quỷ thử Đức Chúa Giêsu — bằng chứng về thần tính
 

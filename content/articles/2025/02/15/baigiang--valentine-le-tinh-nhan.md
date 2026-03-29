@@ -22,7 +22,7 @@ Ngày 14 tháng 2 được thế giới gọi là Lễ Tình Nhân — Valentine
 
 Khi người ta thiết lập một ngày kỷ niệm, thường có hai yếu tố: sự kiện hoặc nhân vật đáng ghi nhớ, và hành động trong ngày đó để bày tỏ ý nghĩa. Ngày Valentine kỷ niệm sự hy sinh của giám mục Valentine và người ta tặng nhau socola, hoa hồng như dấu hiệu của tình yêu.
 
-Trong đời sống Cơ Đốc cũng có một ngày kỷ niệm tương tự — Lễ Tiệc Thánh — để ghi nhớ sự thương khó của Chúa Cứu Thế. Khi dự Tiệc Thánh, tín đồ ăn bánh và uống nước nho, tượng trưng cho thịt và huyết Chúa, để sự sống của Ngài nuôi dưỡng tâm linh.
+Trong đời sống Cơ-đốc cũng có một ngày kỷ niệm tương tự — Lễ Tiệc Thánh — để ghi nhớ sự thương khó của Chúa Cứu Thế. Khi dự Tiệc Thánh, tín đồ ăn bánh và uống nước nho, tượng trưng cho thịt và huyết Chúa, để sự sống của Ngài nuôi dưỡng tâm linh.
 
 ## Lời tiên tri đầu tiên về Đấng Cứu Thế
 
@@ -38,7 +38,7 @@ Sự hy sinh của giám mục Valentine gây đau đớn cho những người y
 
 ## Hội Thánh là người vợ, Chúa là người chồng
 
-Kinh Thánh dùng hình ảnh tình yêu đôi lứa để miêu tả mối quan hệ giữa Đức Chúa Trời và dân sự Ngài. Ê-phê-sô 5:23 chép: *"Vì chồng là đầu vợ, khác nào Đấng Cơ Đốc là đầu Hội Thánh."* Khải Huyền 21:9 gọi Hội Thánh là "vợ chiên con" — Hội Thánh là vợ của Đức Chúa Giê-su.
+Kinh Thánh dùng hình ảnh tình yêu đôi lứa để miêu tả mối quan hệ giữa Đức Chúa Trời và dân sự Ngài. Ê-phê-sô 5:23 chép: *"Vì chồng là đầu vợ, khác nào Đấng Cơ-đốc là đầu Hội Thánh."* Khải Huyền 21:9 gọi Hội Thánh là "vợ chiên con" — Hội Thánh là vợ của Đức Chúa Giê-su.
 
 Đây cũng là nền tảng để hiểu sách Nhã Ca trong Cựu Ước. Nhiều người thắc mắc tại sao những bài thơ tình lãng mạn lại được đưa vào Kinh Thánh. Nhưng chính cái chân thực trong từng đường tơ kẽ tóc của tình yêu nam nữ giúp chúng ta hiểu sâu hơn tình yêu của Đức Chúa Giê-su dành cho Hội Thánh — mãnh liệt, sâu sắc, và không bao giờ từ bỏ.
 

@@ -16,7 +16,7 @@ draft: false
 
 Ở Việt Nam có những người bán máu chuyên nghiệp. Mỗi lần bán máu với dung lượng 200cc, họ có thể sống được nửa tháng.
 
-Câu chuyện sau đây là thật, nhưng xin được giấu tên. Chị là một tín hữu Cơ Đốc Phục Lâm. Chồng chị bỏ theo người phụ nữ khác, để lại chị với hai con gái còn thơ dại. Vất vả tảo tần nhưng không đủ nuôi con, nhất là những ngày con đau yếu, chị quyết định bán máu. Dần dần, việc này trở thành quen thuộc.
+Câu chuyện sau đây là thật, nhưng xin được giấu tên. Chị là một tín hữu Cơ-đốc Phục Lâm. Chồng chị bỏ theo người phụ nữ khác, để lại chị với hai con gái còn thơ dại. Vất vả tảo tần nhưng không đủ nuôi con, nhất là những ngày con đau yếu, chị quyết định bán máu. Dần dần, việc này trở thành quen thuộc.
 
 Tuy nhiên, bệnh viện chỉ mua máu của những người đủ trọng lượng theo yêu cầu.
 

@@ -70,4 +70,4 @@ Và lời hứa cuối cùng: *"Ta thường ở cùng các ngươi luôn cho đ
 
 ## Kết Luận
 
-Ma-thi-ơ 28 khép lại với bức tranh trọn vẹn: Đấng đã chết nay sống lại, mọi mưu đồ gian dối không thể dập tắt sự thật, và Đại Mạng Lệnh đặt trên vai mỗi Cơ Đốc nhân trách nhiệm rao truyền Tin Lành — không phải bằng sức riêng, mà trong quyền phép và sự đồng hành của Đấng nắm giữ cả trời đất.
+Ma-thi-ơ 28 khép lại với bức tranh trọn vẹn: Đấng đã chết nay sống lại, mọi mưu đồ gian dối không thể dập tắt sự thật, và Đại Mạng Lệnh đặt trên vai mỗi Cơ-đốc nhân trách nhiệm rao truyền Tin Lành — không phải bằng sức riêng, mà trong quyền phép và sự đồng hành của Đấng nắm giữ cả trời đất.

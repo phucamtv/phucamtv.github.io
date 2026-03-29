@@ -36,7 +36,7 @@ Trong xã hội ngày nay, nhiều người nghĩ rằng mình có quyền nói 
 
 Sự tục tĩu, giễu cợt và tầm phào không chỉ ảnh hưởng đến người nghe mà còn phản ánh nhân cách của chính người nói. Khi một người thường xuyên đùa cợt thiếu lành mạnh, giá trị con người họ trong mắt người khác sẽ dần giảm sút.
 
-Điều này đặc biệt quan trọng đối với người tin Chúa. Là Cơ Đốc nhân, chúng ta được kêu gọi sống khác biệt — không phải khác biệt theo nghĩa khô khan hay cứng nhắc, mà khác biệt trong sự thánh khiết và tôn trọng. Lời nói của chúng ta phản ánh đức tin bên trong và là lời chứng cho những người xung quanh.
+Điều này đặc biệt quan trọng đối với người tin Chúa. Là Cơ-đốc nhân, chúng ta được kêu gọi sống khác biệt — không phải khác biệt theo nghĩa khô khan hay cứng nhắc, mà khác biệt trong sự thánh khiết và tôn trọng. Lời nói của chúng ta phản ánh đức tin bên trong và là lời chứng cho những người xung quanh.
 
 Hơn thế nữa, đối với những người có chức vụ trong Hội Thánh, trách nhiệm này càng nặng nề hơn. Sự giễu cợt và tầm phào của một người hầu việc Chúa có thể ảnh hưởng nghiêm trọng đến Danh Thánh của Đức Chúa Trời và uy tín của Hội Thánh — hội chúng mà Ngài đã mua chuộc bằng chính huyết báu của Ngài.
 

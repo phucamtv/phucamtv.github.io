@@ -3,7 +3,7 @@ title: "Hãy Tìm Kiếm Niềm Vui Thật!"
 date: 2021-01-16
 url: /baigiang/hay-tim-kiem-niem-vui-that/
 description: "Bài giảng phân biệt niềm vui thế gian và niềm vui trong Chúa, trình bày bảy niềm vui chân chính của cơ đốc nhân: vui trong Lời Chúa, vui trong ơn phước và sự cầu nguyện, vui trong sự thờ phượng, vui khi tạo nên hòa bình, vui khi quan tâm anh em, vui khi người khác phục thiện, và vui khi rao truyền danh Chúa."
-tags: ["Niềm Vui", "Cơ Đốc Nhân", "Thờ Phượng", "Lời Chúa", "Hòa Bình", "Tình Yêu Thương"]
+tags: ["Niềm Vui", "Cơ-đốc Nhân", "Thờ Phượng", "Lời Chúa", "Hòa Bình", "Tình Yêu Thương"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["0bCue9tvmnY"]
@@ -20,7 +20,7 @@ Nhiều người nhận lấy niềm vui phút chốc để rồi gánh chịu n
 
 I Cô-rinh-tô 13:6 dạy rằng tình yêu chẳng vui về điều không công bình, nhưng vui trong lẽ thật.
 
-## Bảy Niềm Vui Của Cơ Đốc Nhân
+## Bảy Niềm Vui Của Cơ-đốc Nhân
 
 ### 1. Niềm Vui Trong Lời Chúa
 

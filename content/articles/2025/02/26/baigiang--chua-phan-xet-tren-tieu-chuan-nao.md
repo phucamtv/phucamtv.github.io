@@ -52,9 +52,9 @@ Không làm = không làm cho Chúa. Điều đó nặng nề hơn chúng ta th�
 
 ## Được Cứu Bởi Ân Điển — Và Vẫn Phải Làm Việc Lành
 
-Một số người lo ngại: Cơ Đốc Giáo dạy rằng chúng ta được cứu bởi ân điển, không phải bởi việc làm — vậy câu chuyện này mâu thuẫn không? Câu trả lời là: không mâu thuẫn, nhưng cũng không cho phép chúng ta bỏ qua việc lành.
+Một số người lo ngại: Cơ-đốc Giáo dạy rằng chúng ta được cứu bởi ân điển, không phải bởi việc làm — vậy câu chuyện này mâu thuẫn không? Câu trả lời là: không mâu thuẫn, nhưng cũng không cho phép chúng ta bỏ qua việc lành.
 
-Được cứu bởi ân điển nghĩa là chúng ta không thể tự tích lũy công đức để khỏa lấp tội lỗi — đó là sự khác biệt căn bản của Cơ Đốc Giáo với các tôn giáo khác. Nhưng quan điểm "được cứu bởi ân điển nên không cần làm từ thiện" là sai lầm nghiêm trọng. Kinh Thánh không loại bỏ việc làm lành — nó đặt việc làm lành vào đúng vị trí của nó: không phải phương tiện để được cứu, mà là kết quả của đức tin thật và tình yêu thương thật.
+Được cứu bởi ân điển nghĩa là chúng ta không thể tự tích lũy công đức để khỏa lấp tội lỗi — đó là sự khác biệt căn bản của Cơ-đốc Giáo với các tôn giáo khác. Nhưng quan điểm "được cứu bởi ân điển nên không cần làm từ thiện" là sai lầm nghiêm trọng. Kinh Thánh không loại bỏ việc làm lành — nó đặt việc làm lành vào đúng vị trí của nó: không phải phương tiện để được cứu, mà là kết quả của đức tin thật và tình yêu thương thật.
 
 Khi chúng ta thật sự yêu Chúa và được Thánh Linh Ngài ngự trong lòng, việc quan tâm đến người khác là điều tự nhiên chảy ra — giống như "chiên" trong câu chuyện, họ làm mà không để ý rằng mình đang làm cho Chúa.
 

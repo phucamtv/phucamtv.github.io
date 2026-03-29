@@ -50,6 +50,6 @@ I Giăng 3:16 dạy rằng bởi Chúa đã vì chúng ta bỏ sự sống, chú
 
 Đức Chúa Giê-su phán rằng ai đã tắm rồi chỉ cần rửa chân thì được sạch cả. Phép báp-tem là sự tẩy sạch ban đầu, nhưng trong hành trình đức tin, chúng ta vẫn bị cám dỗ và vấp ngã. Lễ rửa chân tượng trưng cho sự tẩy sạch liên tục — giữ mình trong sạch và giúp anh em trong sạch.
 
-Rô-ma 14:13 khuyên chúng ta đừng xét đoán nhau, nhưng hãy quyết định không để hòn đá vấp chân trước mặt anh em. Hê-bơ-rơ 10:24 kêu gọi mỗi người hãy coi sóc nhau để khuyên giục về lòng yêu thương và việc tốt lành. Thay vì phán xét, hãy đến với nhau bằng tinh thần xây dựng — giúp nhau trở nên những Cơ Đốc nhân thanh sạch, xây dựng tính hạnh cho nhau.
+Rô-ma 14:13 khuyên chúng ta đừng xét đoán nhau, nhưng hãy quyết định không để hòn đá vấp chân trước mặt anh em. Hê-bơ-rơ 10:24 kêu gọi mỗi người hãy coi sóc nhau để khuyên giục về lòng yêu thương và việc tốt lành. Thay vì phán xét, hãy đến với nhau bằng tinh thần xây dựng — giúp nhau trở nên những Cơ-đốc nhân thanh sạch, xây dựng tính hạnh cho nhau.
 
 Ma-thi-ơ 23:12 cảnh báo: kẻ nào tôn mình lên sẽ bị hạ xuống, còn kẻ nào hạ mình xuống sẽ được tôn lên. Thực hiện lễ rửa chân chính là dọn lòng khiêm nhu trước khi dự Tiệc Thánh — nhắc nhở chúng ta rằng theo Chúa là con đường phục vụ, chứ không phải con đường tìm kiếm địa vị.

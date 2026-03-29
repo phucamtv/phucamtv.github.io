@@ -31,7 +31,7 @@ Chính vì thế mà Đức Chúa Giê-su phải giáng trần. Giải pháp c�
 
 ## Không Thể Sống Chung Lẫn Lộn
 
-Là Cơ Đốc nhân, chúng ta hiểu rằng Đức Chúa Trời là Đấng kỵ tà. Ngài là ánh sáng và là sự thánh khiết. Khi Ngài ngự trong lòng ta, ta cần loại bỏ những ác tưởng xấu xa khỏi tâm trí mình. Không thể để cho ước vọng cao thượng và tham dục thấp hèn cùng tồn tại trong một tấm lòng, giống như không thể để sư tử và cừu sống chung mà mong cả hai đều bình an.
+Là Cơ-đốc nhân, chúng ta hiểu rằng Đức Chúa Trời là Đấng kỵ tà. Ngài là ánh sáng và là sự thánh khiết. Khi Ngài ngự trong lòng ta, ta cần loại bỏ những ác tưởng xấu xa khỏi tâm trí mình. Không thể để cho ước vọng cao thượng và tham dục thấp hèn cùng tồn tại trong một tấm lòng, giống như không thể để sư tử và cừu sống chung mà mong cả hai đều bình an.
 
 Sự trộn lẫn như vậy không phù hợp với lời dạy của Kinh Thánh. Lời Chúa phán rõ ràng rằng hãy nên thánh vì Ngài là thánh. Đây không phải là lời khuyên tùy chọn, mà là mệnh lệnh thiêng liêng đòi hỏi sự quyết liệt trong đời sống thuộc linh.
 

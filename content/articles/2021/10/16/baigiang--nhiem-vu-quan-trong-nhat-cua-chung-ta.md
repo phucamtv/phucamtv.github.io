@@ -2,8 +2,8 @@
 title: "Nhiệm Vụ Quan Trọng Nhất Của Chúng Ta | Rô-ma 10:13-17"
 date: 2021-10-16
 url: /baigiang/nhiem-vu-quan-trong-nhat-cua-chung-ta/
-description: "Rô-ma 10:13-17 cho thấy chuỗi liên kết ngược từ sự cứu rỗi đến việc kêu cầu, từ kêu cầu đến đức tin, từ đức tin đến sự nghe, và từ sự nghe đến người rao giảng — khẳng định rằng nhiệm vụ quan trọng nhất của mỗi Cơ Đốc nhân không phải là điều hành hội thánh hay dâng hiến đều đặn, mà là mở miệng nói về Chúa Cứu Thế cho người chưa biết Ngài."
-tags: ["Rao Giảng", "Cứu Rỗi", "Rô-ma", "Cơ Đốc Nhân", "Làm Chứng", "Truyền Giáo"]
+description: "Rô-ma 10:13-17 cho thấy chuỗi liên kết ngược từ sự cứu rỗi đến việc kêu cầu, từ kêu cầu đến đức tin, từ đức tin đến sự nghe, và từ sự nghe đến người rao giảng — khẳng định rằng nhiệm vụ quan trọng nhất của mỗi Cơ-đốc nhân không phải là điều hành hội thánh hay dâng hiến đều đặn, mà là mở miệng nói về Chúa Cứu Thế cho người chưa biết Ngài."
+tags: ["Rao Giảng", "Cứu Rỗi", "Rô-ma", "Cơ-đốc Nhân", "Làm Chứng", "Truyền Giáo"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["QZEwU36gN7M"]
@@ -12,11 +12,11 @@ draft: false
 
 {{< youtube "QZEwU36gN7M" >}}
 
-## Danh Xưng Cơ Đốc Nhân Gắn Liền Với Sứ Mạng
+## Danh Xưng Cơ-đốc Nhân Gắn Liền Với Sứ Mạng
 
-Ma-thi-ơ 1:21 cho biết tên Giê-su có nghĩa là "cứu dân mình ra khỏi tội" — danh xưng của Ngài đã xác định nhiệm vụ khi Ngài đến thế gian. Tại thành An-ti-ốt, theo Công Vụ 11:25-26, người ta bắt đầu gọi các môn đồ là "Cơ Đốc nhân" — nghĩa là kẻ tin theo Đấng Christ. Nếu chúng ta mang danh của Đấng đến để cứu người, thì nhiệm vụ gắn liền với danh ấy là làm cho người khác cũng được cứu.
+Ma-thi-ơ 1:21 cho biết tên Giê-su có nghĩa là "cứu dân mình ra khỏi tội" — danh xưng của Ngài đã xác định nhiệm vụ khi Ngài đến thế gian. Tại thành An-ti-ốt, theo Công Vụ 11:25-26, người ta bắt đầu gọi các môn đồ là "Cơ-đốc nhân" — nghĩa là kẻ tin theo Đấng Christ. Nếu chúng ta mang danh của Đấng đến để cứu người, thì nhiệm vụ gắn liền với danh ấy là làm cho người khác cũng được cứu.
 
-Có người đã nói: những Cơ Đốc nhân mà không làm cho người khác trở thành Cơ Đốc nhân thì không phải là Cơ Đốc nhân. Nếu Chúa Cứu Thế đến thế gian mà không cứu được ai thì Ngài không phải là Chúa Cứu Thế — cũng vậy, những người theo Chúa mà không dẫn ai đến với Ngài thì chưa thật sự sống đúng danh xưng mình mang.
+Có người đã nói: những Cơ-đốc nhân mà không làm cho người khác trở thành Cơ-đốc nhân thì không phải là Cơ-đốc nhân. Nếu Chúa Cứu Thế đến thế gian mà không cứu được ai thì Ngài không phải là Chúa Cứu Thế — cũng vậy, những người theo Chúa mà không dẫn ai đến với Ngài thì chưa thật sự sống đúng danh xưng mình mang.
 
 ---
 
@@ -40,7 +40,7 @@ Rô-ma 10:10 nêu rõ: tin bởi trong lòng mà được sự công bình, còn
 
 ## Hãy Rao Lên — Đừng Chờ Người Ta Hỏi
 
-I Cô-rinh-tô 11:26 dùng từ "rao" — mở miệng lên, nói lớn lên, vang lên — giống như người bán hàng rong ngày xưa phải rao khắp xóm để người ta biết. Nếu chở cả giỏ bánh mì mà đi quanh không rao tiếng nào, chiều về vẫn còn nguyên. Nhiều Cơ Đốc nhân cũng sống như vậy: chờ người ta hỏi rồi mới nói, giống người bán hàng ngồi chờ khách đến tìm.
+I Cô-rinh-tô 11:26 dùng từ "rao" — mở miệng lên, nói lớn lên, vang lên — giống như người bán hàng rong ngày xưa phải rao khắp xóm để người ta biết. Nếu chở cả giỏ bánh mì mà đi quanh không rao tiếng nào, chiều về vẫn còn nguyên. Nhiều Cơ-đốc nhân cũng sống như vậy: chờ người ta hỏi rồi mới nói, giống người bán hàng ngồi chờ khách đến tìm.
 
 Câu chuyện hội truyền giáo Moravian đến sống với người Eskimo tại Greenland là một lời cảnh tỉnh. Họ quyết định sống nhiều năm mà không nói về Chúa, chờ thời điểm thuận lợi. Khi một người trong hội bất chợt buột miệng kể về Đức Chúa Giê-su, người Eskimo nghe xong liền tức giận hỏi: "Tại sao bây giờ anh mới nói?" Câu hỏi ấy có thể là câu hỏi mà những người chung quanh chúng ta, hoặc chính Chúa, sẽ hỏi chúng ta một ngày nào đó.
 

@@ -35,7 +35,7 @@ Câu chuyện này phản ánh một thực tế sâu sắc của con người: 
 
 ## Nghệ thuật nhớ và quên theo sự khôn ngoan của Chúa
 
-Mục sư Dương Quang Thoại chia sẻ rằng, thay vì cầu xin "bệnh quên" như người trong câu chuyện, mỗi Cơ Đốc nhân cần **cầu xin sự khôn ngoan của Chúa** để biết:
+Mục sư Dương Quang Thoại chia sẻ rằng, thay vì cầu xin "bệnh quên" như người trong câu chuyện, mỗi Cơ-đốc nhân cần **cầu xin sự khôn ngoan của Chúa** để biết:
 
 - **Nhớ những gì đáng nhớ**
 - **Quên những gì đáng quên**

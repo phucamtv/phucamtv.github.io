@@ -18,7 +18,7 @@ Ma-thi-ơ 12:15-16 mở đầu với việc Đức Chúa Giê-su biết người
 
 Điều này cho thấy Đức Chúa Giê-su phân biệt rất rõ ràng giữa liều lĩnh và can đảm. Có những lúc cần đối đầu và có những lúc cần lẫn tránh. Dân Israel lúc bấy giờ đang mong chờ một vị cứu tinh chính trị để lật đổ sự đô hộ của La Mã, nhưng Đức Chúa Giê-su đến không phải vì mục đích chính trị. Ngài đến vì nước Trời, vì thế Ngài không để bị cuốn vào những xung đột không thuộc về sứ mạng của mình.
 
-Đây là bài học cho đời sống Cơ Đốc nhân: chúng ta cần sự khôn ngoan từ mối tương giao với Chúa và từ lời Kinh Thánh để biết lúc nào nên đối đầu, lúc nào nên lẫn tránh. Nếu không có lời Chúa dẫn dắt, chúng ta rất dễ hành động sai lạc.
+Đây là bài học cho đời sống Cơ-đốc nhân: chúng ta cần sự khôn ngoan từ mối tương giao với Chúa và từ lời Kinh Thánh để biết lúc nào nên đối đầu, lúc nào nên lẫn tránh. Nếu không có lời Chúa dẫn dắt, chúng ta rất dễ hành động sai lạc.
 
 ---
 

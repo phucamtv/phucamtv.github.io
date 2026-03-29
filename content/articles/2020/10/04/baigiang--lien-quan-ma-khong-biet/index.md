@@ -30,7 +30,7 @@ Chị rã rời, suy sụp như cái xác không hồn, đến bệnh viện nh�
 
 Điều đau lòng nhất trong câu chuyện này không phải là cái chết của người chồng, mà là sự thật nghiệt ngã rằng chị Hằng đã đi ngang qua đúng nơi chồng mình bị nạn, lòng vẫn bình thản, thậm chí tò mò hỏi "có ai chết không" — mà không hề nhận ra rằng người nằm xuống đó chính là người thân yêu nhất của đời mình.
 
-Mục sư Dương Quang Thoại dùng câu chuyện này để chỉ ra một thực trạng đáng suy nghĩ hơn trong đời sống tâm linh: nhiều người đi ngang qua thập tự giá, nghe biết về sự chết của Chúa Cơ Đốc, nhưng đã không hề nhận ra mối liên hệ giữa cái chết ấy và cuộc đời mình.
+Mục sư Dương Quang Thoại dùng câu chuyện này để chỉ ra một thực trạng đáng suy nghĩ hơn trong đời sống tâm linh: nhiều người đi ngang qua thập tự giá, nghe biết về sự chết của Chúa Cơ-đốc, nhưng đã không hề nhận ra mối liên hệ giữa cái chết ấy và cuộc đời mình.
 
 Biểu tượng thập tự giá đã trở nên quá quen thuộc. Người ta vẫn tưởng rằng đó là câu chuyện về một người Do Thái xa xưa, không liên quan gì đến cuộc sống của họ. Ngay cả một số người ngồi trong thánh đường cũng chưa thật sự nhận biết được mối liên hệ đặc biệt giữa sự chết của Đức Chúa Giê-su và cuộc đời mình.
 

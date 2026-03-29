@@ -38,7 +38,7 @@ Trước hết, ẩn dụ này là lời cảnh báo cho người Y-sơ-ra-ên. 
 
 Khi Đức Chúa Giê-su dùng hình ảnh tiệc cưới để tiêu biểu cho sự cứu rỗi, Ngài muốn cho thấy đến với Chúa là đến với niềm vui mừng lớn lao. Được mời dự tiệc cưới hoàng tử là một vinh dự và hạnh phúc. Tương tự, sự cứu rỗi thay đổi hoàn toàn cuộc đời và số phận — từ hư mất sang sự sống đời đời.
 
-Một Cơ Đốc nhân không thể có đời sống buồn tẻ. Nếu người xung quanh tiếp xúc với chúng ta mà chỉ thấy u sầu, mệt mỏi, chán chường thì không chỉ chúng ta thất bại mà còn làm thất bại cả đạo Chúa. Chỉ có sự vui mừng mới thu hút và khích lệ được người khác.
+Một Cơ-đốc nhân không thể có đời sống buồn tẻ. Nếu người xung quanh tiếp xúc với chúng ta mà chỉ thấy u sầu, mệt mỏi, chán chường thì không chỉ chúng ta thất bại mà còn làm thất bại cả đạo Chúa. Chỉ có sự vui mừng mới thu hút và khích lệ được người khác.
 
 ---
 
@@ -56,7 +56,7 @@ Sai lầm của con người nằm ở sự lựa chọn và quyết định —
 
 Khi những khách mời ban đầu từ chối, vua sai đầy tớ ra các ngã đường mời tất cả mọi người vào dự tiệc. Đây là hình ảnh về sự cứu rỗi dành cho mọi người không phân biệt. Dù có sự trừng phạt dành cho kẻ từ chối, nhưng ẩn dụ nhấn mạnh niềm vui hơn là sự hình phạt.
 
-Cơ Đốc giáo không dùng địa ngục để hù dọa, mà kêu gọi người ta đến với niềm vui của sự sống đời đời. Khi người ta đến với chúng ta bằng sự sợ hãi, tấm lòng họ không thật sự ở đó. Nhưng khi họ đến bằng tình thương và niềm vui, đó mới là sự ở lại vĩnh cửu.
+Cơ-đốc giáo không dùng địa ngục để hù dọa, mà kêu gọi người ta đến với niềm vui của sự sống đời đời. Khi người ta đến với chúng ta bằng sự sợ hãi, tấm lòng họ không thật sự ở đó. Nhưng khi họ đến bằng tình thương và niềm vui, đó mới là sự ở lại vĩnh cửu.
 
 ---
 

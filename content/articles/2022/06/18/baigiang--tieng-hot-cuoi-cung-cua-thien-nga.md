@@ -16,7 +16,7 @@ draft: false
 
 Trong tiếng Anh có một thành ngữ gọi là "swan song" — tiếng hót của con thiên nga. Người ta kể rằng con thiên nga suốt đời không hề cất tiếng hót, chỉ đến khi sắp chết, nó mới hót lên lần cuối cùng, như báo hiệu chặng cuối của hành trình. Trong Kinh Thánh, các nhà thần học cũng gọi 2 Ti-mô-thê đoạn 4 là "tiếng hót của thiên nga" — những lời cuối cùng của sứ đồ Phao-lô trước khi ông qua đời.
 
-Phao-lô viết: "Về phần ta, ta đang bị đổ ra làm lễ quán, kỳ qua đời của ta gần rồi" (2 Ti-mô-thê 4:6). Ông biết rằng đây là lần cuối cùng. Dưới triều đại hoàng đế Nero — một bạo chúa đã đốt thành Roma và đổ tội cho người Cơ Đốc — Phao-lô đã bị bắt giam và biết rằng thời gian còn lại của mình đang đếm ngược từng ngày.
+Phao-lô viết: "Về phần ta, ta đang bị đổ ra làm lễ quán, kỳ qua đời của ta gần rồi" (2 Ti-mô-thê 4:6). Ông biết rằng đây là lần cuối cùng. Dưới triều đại hoàng đế Nero — một bạo chúa đã đốt thành Roma và đổ tội cho người Cơ-đốc — Phao-lô đã bị bắt giam và biết rằng thời gian còn lại của mình đang đếm ngược từng ngày.
 
 ---
 
@@ -26,7 +26,7 @@ Phao-lô viết: "Về phần ta, ta đang bị đổ ra làm lễ quán, kỳ q
 
 Phao-lô — người đã viết hơn phân nửa Tân Ước, 14 trong 27 sách — vẫn thấy rằng việc đọc sách và nghiên cứu Kinh Thánh là thiết yếu cho đến hơi thở cuối cùng. Ông không chỉ dạy Ti-mô-thê "hãy chăm chỉ đọc sách, khuyên bảo, dạy dỗ" (1 Ti-mô-thê 4:13), mà chính cuộc đời ông cũng thể hiện điều đó.
 
-Đây là thách thức cho mỗi Cơ Đốc nhân: chúng ta có thể chia sẻ bài học hay cho người khác, nhưng bản thân mình có thực hành không?
+Đây là thách thức cho mỗi Cơ-đốc nhân: chúng ta có thể chia sẻ bài học hay cho người khác, nhưng bản thân mình có thực hành không?
 
 ---
 
@@ -42,7 +42,7 @@ Con người chúng ta hay quên. Kể cả những câu Kinh Thánh đã từng
 
 ## Sứ Mạng Rao Giảng Tin Lành Qua Ấn Phẩm
 
-Tháng 11 năm 1848, tại một phiên họp, bà Ellen White đã nhận sứ điệp từ Đức Chúa Trời và nói với chồng là ông James White rằng phải in sứ điệp này ra và gửi cho mọi người. Đó là khởi điểm của sứ mạng in ấn và thư báo truyền đạo của Giáo hội — ngay cả khi lúc đó Giáo hội Cơ Đốc Phục Lâm chưa chính thức thành lập (mãi đến năm 1863 mới chọn danh xưng).
+Tháng 11 năm 1848, tại một phiên họp, bà Ellen White đã nhận sứ điệp từ Đức Chúa Trời và nói với chồng là ông James White rằng phải in sứ điệp này ra và gửi cho mọi người. Đó là khởi điểm của sứ mạng in ấn và thư báo truyền đạo của Giáo hội — ngay cả khi lúc đó Giáo hội Cơ-đốc Phục Lâm chưa chính thức thành lập (mãi đến năm 1863 mới chọn danh xưng).
 
 Truyền giảng Tin Lành, nói đơn giản, là những người biết đi nói cho những người không biết. Không phải ai cũng có khiếu ăn nói hay đứng trước công chúng. Nhưng ai cũng có thể gửi đến bạn hữu, người thân, hàng xóm những trang sách, những ấn phẩm chứa đựng lẽ thật — và để lời Chúa tự làm công việc của Ngài.
 
@@ -50,7 +50,7 @@ Truyền giảng Tin Lành, nói đơn giản, là những người biết đi n
 
 ## Quyền Năng Của Một Trang Sách
 
-Có câu chuyện kể về một người trong hội Ghi-đê-ôn đang đi tặng Kinh Thánh thì có người xin một quyển Tân Ước nhỏ — không phải để đọc mà để làm giấy cuốn thuốc hút. Người tặng Kinh Thánh cầu nguyện xin sự khôn ngoan, rồi đồng ý với điều kiện: xé tờ nào ra thì phải đọc tờ đó trước khi dùng. Kết quả là người ấy chưa hút hết bốn sách Tin Lành thì đã tin Chúa và trở thành Cơ Đốc nhân.
+Có câu chuyện kể về một người trong hội Ghi-đê-ôn đang đi tặng Kinh Thánh thì có người xin một quyển Tân Ước nhỏ — không phải để đọc mà để làm giấy cuốn thuốc hút. Người tặng Kinh Thánh cầu nguyện xin sự khôn ngoan, rồi đồng ý với điều kiện: xé tờ nào ra thì phải đọc tờ đó trước khi dùng. Kết quả là người ấy chưa hút hết bốn sách Tin Lành thì đã tin Chúa và trở thành Cơ-đốc nhân.
 
 Một trang sách có thể thay đổi cuộc đời một con người. Lời của Đức Chúa Trời có quyền năng biến đổi ngay cả khi người ta đến với nó một cách hoàn toàn tình cờ.
 

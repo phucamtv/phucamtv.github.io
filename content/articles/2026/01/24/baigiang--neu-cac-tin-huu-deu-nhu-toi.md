@@ -2,8 +2,8 @@
 title: "Nếu Các Tín Hữu Đều Như Tôi Thì Hội Thánh Chúa Sẽ Ra Sao?"
 date: 2026-01-24
 url: /baigiang/neu-cac-tin-huu-deu-nhu-toi/
-description: "Năm câu hỏi tự vấn cho mỗi Cơ Đốc nhân: nếu mọi người đều thờ phượng như tôi, phục vụ như tôi, dâng hiến như tôi, chứng đạo như tôi, đối xử với anh em như tôi — thì hội thánh Chúa sẽ ra sao? Không phải để kết án, mà để mỗi người tự xét và nhờ Chúa điều chỉnh."
-tags: ["Hội Thánh", "Thờ Phượng", "Phục Vụ", "Dâng Hiến", "Chứng Đạo", "Hiệp Nhất", "Đời Sống Cơ Đốc"]
+description: "Năm câu hỏi tự vấn cho mỗi Cơ-đốc nhân: nếu mọi người đều thờ phượng như tôi, phục vụ như tôi, dâng hiến như tôi, chứng đạo như tôi, đối xử với anh em như tôi — thì hội thánh Chúa sẽ ra sao? Không phải để kết án, mà để mỗi người tự xét và nhờ Chúa điều chỉnh."
+tags: ["Hội Thánh", "Thờ Phượng", "Phục Vụ", "Dâng Hiến", "Chứng Đạo", "Hiệp Nhất", "Đời Sống Cơ-đốc"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["0f2gc9ZmobM"]
@@ -16,7 +16,7 @@ draft: false
 
 Khi còn là tín đồ trẻ, có những lúc muốn buông bỏ những thói quen thờ phượng và hầu việc Chúa. Trong những lúc đó, một câu hỏi nổi lên: *"Nếu tất cả tín hữu đều yếu đuối như tôi, đều không đi nhà thờ, không dâng hiến, không phục vụ như tôi — thì hội thánh sẽ thế nào?"* Câu hỏi đó đủ sức thúc đẩy đứng dậy tiếp tục.
 
-Bài chia sẻ này không phải để phán xét hay kết án. Đây là những gợi ý từ kinh nghiệm yếu đuối của chính người chia sẻ — để mỗi người tự xét lấy. Năm câu hỏi, năm lĩnh vực của đời sống Cơ Đốc nhân.
+Bài chia sẻ này không phải để phán xét hay kết án. Đây là những gợi ý từ kinh nghiệm yếu đuối của chính người chia sẻ — để mỗi người tự xét lấy. Năm câu hỏi, năm lĩnh vực của đời sống Cơ-đốc nhân.
 
 ---
 

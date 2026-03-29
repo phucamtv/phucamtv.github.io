@@ -56,7 +56,7 @@ Mục sư Thoại chỉ ra ba hình thức có thể chối Chúa mà người t
 
 1. **Bằng lời nói** — như Phi-e-rơ đã làm khi phủ nhận quen biết Chúa.
 2. **Bằng sự im lặng** — có những lúc im lặng là thích hợp, nhưng khi cần bày tỏ lòng trung thành với Chúa, sự im lặng trở thành sự chối bỏ.
-3. **Bằng hành động và đời sống** — khi xưng là Cơ Đốc nhân nhưng sống ngược lại lời dạy của Chúa, đó là đang "đóng đinh Ngài lần thứ hai."
+3. **Bằng hành động và đời sống** — khi xưng là Cơ-đốc nhân nhưng sống ngược lại lời dạy của Chúa, đó là đang "đóng đinh Ngài lần thứ hai."
 
 Trung thành không chỉ là lời nói. Trung thành là một nếp sống — dám xưng danh Chúa trước mặt thiên hạ, không kể hoàn cảnh thuận lợi hay nghịch cảnh.
 

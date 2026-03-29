@@ -54,4 +54,4 @@ Qua Công-vụ đoạn 3, chúng ta rút ra nhiều bài học quý giá. Về p
 
 Về sự phục vụ, Hội Thánh cần khéo léo trong việc giúp đỡ người nghèo khổ. Động lực phải xuất phát từ tình yêu thương chân thật, không phải để chiêu dụ hay thu hút người ta bằng vật chất. Điều quan trọng nhất là giới thiệu cho họ biết về sự cứu rỗi và tình yêu của Chúa.
 
-Cuối cùng, mỗi Cơ Đốc nhân đều mang đặc quyền là con cái Đức Chúa Trời, nhưng đặc quyền ấy luôn gắn liền với trách nhiệm. Trách nhiệm lớn nhất của chúng ta là giúp người khác cũng trở thành con cái của Ngài, sống xứng đáng với sự kêu gọi và trông đợi ngày Đức Chúa Giê-su tái lâm.
+Cuối cùng, mỗi Cơ-đốc nhân đều mang đặc quyền là con cái Đức Chúa Trời, nhưng đặc quyền ấy luôn gắn liền với trách nhiệm. Trách nhiệm lớn nhất của chúng ta là giúp người khác cũng trở thành con cái của Ngài, sống xứng đáng với sự kêu gọi và trông đợi ngày Đức Chúa Giê-su tái lâm.

@@ -12,7 +12,7 @@ draft: false
 
 {{< youtube "FJVoGxVThHA" >}}
 
-Lễ báp têm là một trong những thánh lễ quan trọng nhất trong đời sống Cơ Đốc nhân, nhưng cũng là đề tài bị hiểu lầm nhiều nhất. Trong bài giảng này, Mục sư Đặng Thanh Phong đi sâu vào Kinh Thánh để giải thích rõ ràng bốn khía cạnh của lễ báp têm: sự quan trọng, ý nghĩa, điều kiện, và những hiểu lầm cần được sửa lại.
+Lễ báp têm là một trong những thánh lễ quan trọng nhất trong đời sống Cơ-đốc nhân, nhưng cũng là đề tài bị hiểu lầm nhiều nhất. Trong bài giảng này, Mục sư Đặng Thanh Phong đi sâu vào Kinh Thánh để giải thích rõ ràng bốn khía cạnh của lễ báp têm: sự quan trọng, ý nghĩa, điều kiện, và những hiểu lầm cần được sửa lại.
 
 ---
 

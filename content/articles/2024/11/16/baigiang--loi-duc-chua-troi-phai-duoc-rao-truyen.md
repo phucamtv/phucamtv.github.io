@@ -1,7 +1,7 @@
 ---
 title: "Lời Đức Chúa Trời Phải Được Rao Truyền"
 date: 2024-11-16
-description: "Bài giảng bồi linh về sứ mạng rao truyền Lời Chúa dựa trên Rô-ma 10:14-17. Vì sao mỗi Cơ Đốc nhân đều có trách nhiệm mở miệng rao giảng Phúc Âm, từ gia đình đến cộng đồng, và cách vượt qua sự sợ hãi để làm chứng cho Chúa."
+description: "Bài giảng bồi linh về sứ mạng rao truyền Lời Chúa dựa trên Rô-ma 10:14-17. Vì sao mỗi Cơ-đốc nhân đều có trách nhiệm mở miệng rao giảng Phúc Âm, từ gia đình đến cộng đồng, và cách vượt qua sự sợ hãi để làm chứng cho Chúa."
 tags: ["Rao Giảng", "Phúc Âm", "Bồi Linh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -26,7 +26,7 @@ Sứ đồ Phao-lô trình bày một chuỗi lập luận ngược: Muốn đư
 
 ## Rao truyền như rao bán bánh mì
 
-Mục sư dùng hình ảnh quen thuộc của người bán bánh mì rong ở Việt Nam để minh họa: nếu không mở miệng rao lên thì không ai mua. Cũng vậy, nếu Cơ Đốc nhân không mở miệng nói về Chúa thì Phúc Âm không thể lan truyền. Và trong hàng ngàn người nghe, chỉ một số ít sẽ tin — nên càng phải rao giảng nhiều hơn.
+Mục sư dùng hình ảnh quen thuộc của người bán bánh mì rong ở Việt Nam để minh họa: nếu không mở miệng rao lên thì không ai mua. Cũng vậy, nếu Cơ-đốc nhân không mở miệng nói về Chúa thì Phúc Âm không thể lan truyền. Và trong hàng ngàn người nghe, chỉ một số ít sẽ tin — nên càng phải rao giảng nhiều hơn.
 
 ## Bắt đầu từ gia đình
 
@@ -42,4 +42,4 @@ Mục sư thừa nhận rằng ngay cả những người hầu việc Chúa đ�
 
 ## Kết luận
 
-Lời Đức Chúa Trời phải được rao truyền — đây không phải là lựa chọn mà là mạng lệnh. Mỗi Cơ Đốc nhân cần cầu xin Chúa ban sự mạnh mẽ để vượt qua sợ hãi, bắt đầu từ gia đình mình, rồi mở rộng ra cộng đồng xung quanh.
+Lời Đức Chúa Trời phải được rao truyền — đây không phải là lựa chọn mà là mạng lệnh. Mỗi Cơ-đốc nhân cần cầu xin Chúa ban sự mạnh mẽ để vượt qua sợ hãi, bắt đầu từ gia đình mình, rồi mở rộng ra cộng đồng xung quanh.

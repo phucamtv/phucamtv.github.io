@@ -12,7 +12,7 @@ draft: false
 
 {{< youtube "125G8fcqk_w" >}}
 
-Tình bạn là một điều vô cùng cao quý trong cuộc sống con người. La Fontaine đã từng nói rằng tình yêu đã hiếm, tình bạn chân thật còn hiếm hơn. Đức Chúa Trời đã ban cho chúng ta đầy đủ các loại tình yêu: tình cha con, tình mẹ con, tình vợ chồng, tình anh em, tình thầy trò, tình bạn... Tất cả đều là hình ảnh để chúng ta cảm nhận được phần nào tình yêu Đức Chúa Trời dành cho con người. Điều đặc biệt là chỉ riêng trong Cơ Đốc giáo, Đức Chúa Trời đã hạ mình xuống để trở thành bạn của loài người.
+Tình bạn là một điều vô cùng cao quý trong cuộc sống con người. La Fontaine đã từng nói rằng tình yêu đã hiếm, tình bạn chân thật còn hiếm hơn. Đức Chúa Trời đã ban cho chúng ta đầy đủ các loại tình yêu: tình cha con, tình mẹ con, tình vợ chồng, tình anh em, tình thầy trò, tình bạn... Tất cả đều là hình ảnh để chúng ta cảm nhận được phần nào tình yêu Đức Chúa Trời dành cho con người. Điều đặc biệt là chỉ riêng trong Cơ-đốc giáo, Đức Chúa Trời đã hạ mình xuống để trở thành bạn của loài người.
 
 ## 1. Tình bạn của Đa-vít và Giô-na-than
 
@@ -36,7 +36,7 @@ Cách duy nhất để có được bạn thân là chính mình phải trở n�
 
 Giăng 15:13-15 ghi lại lời Đức Chúa Giê-su: chẳng có sự yêu thương nào lớn hơn là vì bạn hữu mà phó sự sống mình. Ngài không gọi chúng ta là đầy tớ nữa, mà gọi là bạn hữu, vì Ngài đã tỏ cho chúng ta biết mọi điều Ngài nghe nơi Cha.
 
-Không có tôn giáo nào mà thượng đế hạ mình xuống làm bạn với loài người như Cơ Đốc giáo. Ngài chủ động đến làm bạn với chúng ta, nhưng câu hỏi là: chúng ta có xem Ngài là bạn không? Có khi suốt một ngày chúng ta không hề nghĩ đến Chúa, bận rộn với bao nhiêu thứ khác, mà quên đi Đấng từ trời cao đã hạ mình xuống làm bạn của chúng ta.
+Không có tôn giáo nào mà thượng đế hạ mình xuống làm bạn với loài người như Cơ-đốc giáo. Ngài chủ động đến làm bạn với chúng ta, nhưng câu hỏi là: chúng ta có xem Ngài là bạn không? Có khi suốt một ngày chúng ta không hề nghĩ đến Chúa, bận rộn với bao nhiêu thứ khác, mà quên đi Đấng từ trời cao đã hạ mình xuống làm bạn của chúng ta.
 
 Giăng 13:1 cho biết trong giây phút Đức Chúa Giê-su biết giờ mình phải lìa thế gian, Ngài vẫn yêu kẻ thuộc về mình cho đến cuối cùng. Ngay cả trong lúc khủng hoảng nhất, Ngài vẫn nhớ đến chúng ta. Đó là một tình bạn tuyệt vời mà không ngôn từ nào diễn tả hết được.
 

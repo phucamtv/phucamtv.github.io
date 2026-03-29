@@ -2,7 +2,7 @@
 title: "Trưởng Thành Trong Đức Tin"
 date: 2020-11-01
 description: "Bài giảng của Chấp sự Nguyễn Tuấn về hành trình trưởng thành thuộc linh — từ việc nhận biết những dấu hiệu trưởng thành trong đức tin đến trách nhiệm bỏ đi những điều thuộc về con trẻ để trở nên vững mạnh trong Chúa."
-tags: ["Trưởng Thành", "Đức Tin", "Tâm Linh", "Cơ Đốc Nhân"]
+tags: ["Trưởng Thành", "Đức Tin", "Tâm Linh", "Cơ-đốc Nhân"]
 authors: ["nguyen-tuan"]
 plugins: [youtube]
 youtubeIDs: ["A1JfE9FnQYs"]
@@ -24,7 +24,7 @@ Có sự khác biệt giữa *lớn lên* và *trưởng thành*. Lớn lên là
 
 Sứ đồ Phao-lô đã viết trong I Cô-rinh-tô 13:11: *"Khi tôi còn là con trẻ, tôi nói như con trẻ, tư tưởng như con trẻ, suy xét như con trẻ; khi tôi đã thành nhân, bèn bỏ những điều thuộc về con trẻ."*
 
-Trong đời sống Cơ Đốc nhân cũng vậy. Khi chúng ta tiếp nhận Chúa, chúng ta là con trẻ trong đức tin. Nhưng đức tin cần lớn lên, cần trưởng thành qua từng ngày.
+Trong đời sống Cơ-đốc nhân cũng vậy. Khi chúng ta tiếp nhận Chúa, chúng ta là con trẻ trong đức tin. Nhưng đức tin cần lớn lên, cần trưởng thành qua từng ngày.
 
 ## Hội Chứng Peter Pan Trong Đời Sống Thuộc Linh
 
@@ -52,7 +52,7 @@ Một người trưởng thành thể hiện điều đó qua cách suy nghĩ v�
 - **Sống có nguyên tắc** — biết điều gì đúng để làm theo, điều gì sai để tránh.
 - **Sống có trách nhiệm** — chịu trách nhiệm với bản thân và với người xung quanh.
 
-Trong đời sống tâm linh cũng vậy. Một Cơ Đốc nhân trưởng thành phải có nền tảng Kinh Thánh vững chắc. Ê-phê-sô 4:14–15 viết rằng Chúa muốn chúng ta *"không như trẻ con nữa, bị người ta lừa đảo"* mà hãy *"lấy lòng yêu thương nói ra lẽ chân thật."*
+Trong đời sống tâm linh cũng vậy. Một Cơ-đốc nhân trưởng thành phải có nền tảng Kinh Thánh vững chắc. Ê-phê-sô 4:14–15 viết rằng Chúa muốn chúng ta *"không như trẻ con nữa, bị người ta lừa đảo"* mà hãy *"lấy lòng yêu thương nói ra lẽ chân thật."*
 
 Không có nền tảng Kinh Thánh, chúng ta dễ bị lôi cuốn bởi những đạo lạc và lý lẽ sai trái trong thời đại này. Sự hiểu biết lời Chúa sẽ mang đến sự vững vàng trong đức tin, giúp chúng ta không còn bị cám dỗ và lung lay trước những làn sóng của thế gian.
 
@@ -60,10 +60,10 @@ Không có nền tảng Kinh Thánh, chúng ta dễ bị lôi cuốn bởi nhữ
 
 Một dấu hiệu không thể thiếu của sự trưởng thành đức tin là sự quan tâm đến anh chị em cùng đức tin. I Tê-sa-lô-ni-ca 1:3 cho thấy sứ đồ Phao-lô cảm tạ Chúa vì hội thánh Tê-sa-lô-ni-ca: *"Đức tin anh em rất tấn tới, và lòng yêu thương của mỗi người trong hết thảy anh em đối với nhau càng ngày càng thêm."*
 
-Một hội thánh mà các chi thể quan tâm đến nhau, yêu thương nhau ngày càng thêm — đó là một hội thánh được ơn phước. Mỗi Cơ Đốc nhân trưởng thành đều góp phần xây dựng hội thánh mạnh mẽ hơn, vì khi từng chi thể vững mạnh thì cả thân thể sẽ vững mạnh.
+Một hội thánh mà các chi thể quan tâm đến nhau, yêu thương nhau ngày càng thêm — đó là một hội thánh được ơn phước. Mỗi Cơ-đốc nhân trưởng thành đều góp phần xây dựng hội thánh mạnh mẽ hơn, vì khi từng chi thể vững mạnh thì cả thân thể sẽ vững mạnh.
 
 ## Trưởng Thành Là Một Hành Trình
 
 Sự trưởng thành trong Chúa không phải là điều chúng ta đạt được một cách trọn vẹn rồi dừng lại. Đây là một hành trình mỗi ngày một hơn, đòi hỏi sự luyện tập, sự học hỏi và sự gắn bó với lời Chúa. Hê-bơ-rơ 5:14 nói: *"Đồ ăn đặc là để cho kẻ thành nhân, cho kẻ hay dùng tâm trí luyện tập mà phân biệt điều lành và dữ."*
 
-Hãy suy ngẫm lại đời sống đức tin của mình: Chúng ta đang nuôi dưỡng tâm linh như thế nào? Chúng ta có đang lớn lên mỗi ngày trong sự hiểu biết về Chúa, trong sự yêu thương anh em, trong trách nhiệm với hội thánh? Đó là những câu hỏi mà mỗi Cơ Đốc nhân cần thường xuyên đặt ra cho mình để không rơi vào hội chứng đức tin ngừng lớn.
+Hãy suy ngẫm lại đời sống đức tin của mình: Chúng ta đang nuôi dưỡng tâm linh như thế nào? Chúng ta có đang lớn lên mỗi ngày trong sự hiểu biết về Chúa, trong sự yêu thương anh em, trong trách nhiệm với hội thánh? Đó là những câu hỏi mà mỗi Cơ-đốc nhân cần thường xuyên đặt ra cho mình để không rơi vào hội chứng đức tin ngừng lớn.

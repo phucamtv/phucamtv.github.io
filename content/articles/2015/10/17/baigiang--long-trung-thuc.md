@@ -3,7 +3,7 @@ title: "Lòng Trung Thực"
 date: 2015-10-17
 url: /baigiang/long-trung-thuc/
 description: "Bài giảng về lòng trung thực qua Kinh Thánh: Chúa dạy phải sống ngay thẳng, những thử thách về sự trung thực trong cuộc sống, và lời kêu gọi giữ tấm lòng trong sạch dù giữa một thế giới cong vạy."
-tags: ["Trung Thực", "Ngay Thẳng", "Châm Ngôn", "Phục Truyền Luật Lệ Ký", "Thi Thiên", "Cám Dỗ", "Thanh Liêm", "Đời Sống Cơ Đốc"]
+tags: ["Trung Thực", "Ngay Thẳng", "Châm Ngôn", "Phục Truyền Luật Lệ Ký", "Thi Thiên", "Cám Dỗ", "Thanh Liêm", "Đời Sống Cơ-đốc"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["3Rxrbeg-bLE"]

@@ -53,4 +53,4 @@ Sau khi cắt 490 năm cho Y-sơ-ra-ên ra khỏi 2.300 ngày, phần còn lại
 
 Mục Sư Đặng Thanh Phong chỉ ra rằng lời tiên tri này không phải là ngẫu nhiên hay tượng trưng chung chung — nó là bằng chứng hùng hồn về sự toàn tri và thành tín của Đức Chúa Trời. Những chi tiết về Đức Chúa Giê-su — từ thời điểm Ngài chịu lễ báp-têm, đến ngày Ngài bị đóng đinh — đã được tiên báo trước hơn 500 năm và ứng nghiệm chính xác.
 
-Bài học thực tiễn cho Cơ Đốc nhân: khi đối mặt với những điều khó hiểu trong Lời Chúa hay trong cuộc sống, hãy đến với Chúa bằng lòng khiêm nhường, cầu nguyện tha thiết, và tin cậy vào sự công bình của Ngài — như Đa-ni-ên đã làm. Đức Chúa Trời không im lặng; Ngài sẵn sàng bày tỏ sự khôn ngoan cho những ai thật lòng tìm kiếm Ngài.
+Bài học thực tiễn cho Cơ-đốc nhân: khi đối mặt với những điều khó hiểu trong Lời Chúa hay trong cuộc sống, hãy đến với Chúa bằng lòng khiêm nhường, cầu nguyện tha thiết, và tin cậy vào sự công bình của Ngài — như Đa-ni-ên đã làm. Đức Chúa Trời không im lặng; Ngài sẵn sàng bày tỏ sự khôn ngoan cho những ai thật lòng tìm kiếm Ngài.

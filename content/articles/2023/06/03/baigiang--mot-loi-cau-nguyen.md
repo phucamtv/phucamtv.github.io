@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu: Câu Chuyện Về Một Lời Cầu Nguyện Đơn Sơ
 
-Trong đời sống Cơ Đốc nhân, sự cầu nguyện là sợi dây liên kết chúng ta với Đức Chúa Trời. Hằng ngày chúng ta dâng lên Chúa những lời tạ ơn, những lời cầu xin, trình cho Ngài những điều khó khăn. Nhưng chúng ta cầu nguyện với Chúa như thế nào, và Chúa đáp ứng lời cầu nguyện ấy ra sao?
+Trong đời sống Cơ-đốc nhân, sự cầu nguyện là sợi dây liên kết chúng ta với Đức Chúa Trời. Hằng ngày chúng ta dâng lên Chúa những lời tạ ơn, những lời cầu xin, trình cho Ngài những điều khó khăn. Nhưng chúng ta cầu nguyện với Chúa như thế nào, và Chúa đáp ứng lời cầu nguyện ấy ra sao?
 
 Một câu chuyện có thật được chia sẻ trên mạng xã hội vào khoảng giữa năm 2015 kể về John — một người tình cờ gặp một người đàn ông tên Steve đang lục tìm thức ăn trong thùng rác. John đã mua cho ông một bữa ăn. Điều khiến John xúc động sâu xa là khi Steve nói: "Ngày hôm nay tôi đã cầu nguyện Chúa để được gặp một người có thể cho tôi một bữa ăn, và anh là người đó." Lời cầu nguyện đơn sơ của một con người đói khổ đã được Chúa đáp ứng — không chỉ một bữa ăn mà cả sự giúp đỡ lâu dài từ nhiều người khác. Câu chuyện này dẫn chúng ta đến một phần Kinh Thánh ngắn nhưng đầy ý nghĩa: lời cầu nguyện của Gia-bê trong I Sử Ký 4:9-10.
 

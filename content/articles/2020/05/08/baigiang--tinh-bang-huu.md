@@ -29,7 +29,7 @@ Người canh lò choáng váng, lặng đi vì bất ngờ. Sau khi thi lễ, �
 
 ## Thượng Đế - Người Bạn Của Nhân Loại
 
-Câu chuyện về vị hoàng đế Ba Tư là một hình ảnh tuyệt đẹp minh họa cho mối tương giao giữa Thượng Đế và con người. Chỉ trong Cơ Đốc giáo, chúng ta mới tìm gặp một Thượng Đế sẵn lòng hạ mình xuống để làm bạn với loài thọ tạo sa ngã. Đây không phải là một vị thần xa cách, lạnh lùng, mà là một Đấng yêu thương, khoan dung và độ lượng, muốn ở gần bên chúng ta.
+Câu chuyện về vị hoàng đế Ba Tư là một hình ảnh tuyệt đẹp minh họa cho mối tương giao giữa Thượng Đế và con người. Chỉ trong Cơ-đốc giáo, chúng ta mới tìm gặp một Thượng Đế sẵn lòng hạ mình xuống để làm bạn với loài thọ tạo sa ngã. Đây không phải là một vị thần xa cách, lạnh lùng, mà là một Đấng yêu thương, khoan dung và độ lượng, muốn ở gần bên chúng ta.
 
 Đức Chúa Giê-su Christ, Con Đức Chúa Trời, đã rời bỏ ngai trời vinh hiển để đến thế gian trong hình hài con người. Ngài không đến trong cung điện xa hoa mà sinh ra nơi máng cỏ hèn mọn. Ngài đã sống giữa con người, chia sẻ niềm vui và nỗi buồn, đau khổ và hy vọng. Ngài đã ban chính mình Ngài cho chúng ta, không phải vì chúng ta xứng đáng, mà vì tình yêu vô điều kiện của Ngài.
 

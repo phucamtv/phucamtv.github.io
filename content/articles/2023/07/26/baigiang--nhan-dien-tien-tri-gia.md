@@ -30,9 +30,9 @@ Theo nhà nghiên cứu William Barclay, tiên tri giả thường dạy đạo 
 
 1. **Vì lợi ích vật chất** — xem chức vụ mục sư, truyền đạo, tiên tri như một cái nghề để sinh sống. Không có khả năng làm nghề khác, thấy đi giảng đạo dễ, chỉ cần gây một nhóm nhỏ rồi hàng tháng có lương.
 
-2. **Vì danh vọng và sự khen ngợi** — tận dụng khả năng nói chuyện trước công chúng để xây đắp cho mình sự tôn sùng. Các nhà tiền bối của Cơ Đốc giáo luôn nhắc nhở: khi bạn làm cho mình tỏa sáng, bạn đã che mất vinh quang của Chúa — không ai có thể cùng một lúc làm cho Chúa tỏa sáng mà cũng làm cho mình tỏa sáng.
+2. **Vì danh vọng và sự khen ngợi** — tận dụng khả năng nói chuyện trước công chúng để xây đắp cho mình sự tôn sùng. Các nhà tiền bối của Cơ-đốc giáo luôn nhắc nhở: khi bạn làm cho mình tỏa sáng, bạn đã che mất vinh quang của Chúa — không ai có thể cùng một lúc làm cho Chúa tỏa sáng mà cũng làm cho mình tỏa sáng.
 
-3. **Vì muốn truyền đạt ý kiến riêng** — không muốn bị lệ thuộc vào một hệ thống tổ chức, tách ra lập hệ phái mới để mọi người phải tiếp nhận cách giải nghĩa Kinh Thánh của mình. Điều này lý giải tại sao số lượng hệ phái Cơ Đốc giáo ngày nay lên đến hàng chục ngàn. **Tiên tri thật không bao giờ nói ý của mình — tiên tri là nói những gì Đức Chúa Trời bảo nói.**
+3. **Vì muốn truyền đạt ý kiến riêng** — không muốn bị lệ thuộc vào một hệ thống tổ chức, tách ra lập hệ phái mới để mọi người phải tiếp nhận cách giải nghĩa Kinh Thánh của mình. Điều này lý giải tại sao số lượng hệ phái Cơ-đốc giáo ngày nay lên đến hàng chục ngàn. **Tiên tri thật không bao giờ nói ý của mình — tiên tri là nói những gì Đức Chúa Trời bảo nói.**
 
 ---
 

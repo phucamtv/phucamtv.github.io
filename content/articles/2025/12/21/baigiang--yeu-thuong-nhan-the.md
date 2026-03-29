@@ -24,7 +24,7 @@ Rô-ma 5:12 giải thích căn nguyên: *"Như bởi một người mà tội l�
 
 Đấng Tạo Hóa không thể chịu đựng nổi khi nhìn con người lầm lạc trong tội lỗi, quằn quại trong vũng lầy tuyệt vọng. Giống như bậc cha mẹ không thể ngồi yên khi con mình rơi vào nguy hiểm, Thượng Đế buộc phải hành động.
 
-Ê-phê-sô 2:4-5 khẳng định: Đức Chúa Trời giàu lòng thương xót, vì cớ lòng yêu thương lớn mà yêu chúng ta, nên đang khi chúng ta chết vì tội mình thì Ngài làm cho chúng ta sống với Đấng Cơ Đốc. Điều phi thường ở đây là Thượng Đế không cứu chúng ta vì chúng ta xứng đáng. Có những bậc cha mẹ lao vào lửa, lao xuống dòng nước xiết để cứu con — nhưng họ làm vì con họ đáng yêu. Còn Thượng Đế cứu chúng ta ngay khi chúng ta còn đang ở trong lầm lỗi, bất hiếu và ngỗ nghịch.
+Ê-phê-sô 2:4-5 khẳng định: Đức Chúa Trời giàu lòng thương xót, vì cớ lòng yêu thương lớn mà yêu chúng ta, nên đang khi chúng ta chết vì tội mình thì Ngài làm cho chúng ta sống với Đấng Cơ-đốc. Điều phi thường ở đây là Thượng Đế không cứu chúng ta vì chúng ta xứng đáng. Có những bậc cha mẹ lao vào lửa, lao xuống dòng nước xiết để cứu con — nhưng họ làm vì con họ đáng yêu. Còn Thượng Đế cứu chúng ta ngay khi chúng ta còn đang ở trong lầm lỗi, bất hiếu và ngỗ nghịch.
 
 ---
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu
 
-Câu chuyện về cố tổng thống Reagan mở đầu bài giảng với hình ảnh đầy ý nghĩa: dù mắc bệnh lãng trí, ông luôn giữ trong túi áo một đồng tiền khắc hai chữ "Let Go" và "Let God" — hãy buông ra và hãy để Chúa dẫn dắt. Đây là bài học sâu sắc cho mỗi Cơ Đốc nhân: liệu chúng ta có thật sự để Đức Chúa Trời dẫn dắt cuộc đời mình hay không?
+Câu chuyện về cố tổng thống Reagan mở đầu bài giảng với hình ảnh đầy ý nghĩa: dù mắc bệnh lãng trí, ông luôn giữ trong túi áo một đồng tiền khắc hai chữ "Let Go" và "Let God" — hãy buông ra và hãy để Chúa dẫn dắt. Đây là bài học sâu sắc cho mỗi Cơ-đốc nhân: liệu chúng ta có thật sự để Đức Chúa Trời dẫn dắt cuộc đời mình hay không?
 
 Trong thời đại mà internet và điện thoại thông minh chi phối mọi mặt đời sống, câu hỏi về sự dẫn dắt của Chúa trở nên cấp thiết hơn bao giờ hết. Ma quỷ đang dùng mọi phương tiện để khiến con người xa rời sự dẫn dắt thiêng liêng, giống như khi xưa nó đã cám dỗ Ê-va rời khỏi sự bảo hộ của Đức Chúa Trời.
 

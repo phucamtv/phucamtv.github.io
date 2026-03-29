@@ -34,7 +34,7 @@ Bài học quan trọng ở đây: **ngay cả trong những ngày tồi tệ nh
 
 Công Vụ 8:1-3 cho thấy thành tích khủng khiếp của Sau-lơ: hằng ngâm đe và chém giết môn đồ của Chúa, xin thư từ thầy cả thượng phẩm để bắt bớ tín đồ tại Đa-mách, đốt nhà và đánh đập những người theo Đức Chúa Giê-su. Ông là một người trẻ tài năng, nhiệt thành — nhưng đặt lòng nhiệt thành ở nơi hoàn toàn sai trái.
 
-Tuy nhiên Hội Thánh ban đầu đã chấp nhận Sau-lơ dù ông có quá khứ kinh khiếp. Đây là bài học cho chúng ta: trước khi biết Chúa, ai cũng có những lỗi lầm. Nhưng khi đã gặp Chúa rồi thì phải có cuộc đời mới. Không thể viện cớ quá khứ để tiếp tục sống tồi tệ sau khi đã tin Chúa — điều đó chỉ làm xấu hổ cho đức tin Cơ Đốc.
+Tuy nhiên Hội Thánh ban đầu đã chấp nhận Sau-lơ dù ông có quá khứ kinh khiếp. Đây là bài học cho chúng ta: trước khi biết Chúa, ai cũng có những lỗi lầm. Nhưng khi đã gặp Chúa rồi thì phải có cuộc đời mới. Không thể viện cớ quá khứ để tiếp tục sống tồi tệ sau khi đã tin Chúa — điều đó chỉ làm xấu hổ cho đức tin Cơ-đốc.
 
 ---
 

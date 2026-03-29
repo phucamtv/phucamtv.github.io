@@ -26,6 +26,6 @@ Mặt khác, cha mẹ cũng không được chọc giận con cái hay làm con 
 
 ## Tớ và chủ (Ê-phê-sô 6:5-9)
 
-Trong bối cảnh thời đó có khoảng 60 triệu nô lệ, Phao-lô không khuyên nô lệ nổi loạn, mà hãy sống đời Cơ Đốc nhân ngay tại thân phận của mình. Hoàn cảnh có thể bất lợi, nhưng nó rèn luyện khả năng sống cho Chúa.
+Trong bối cảnh thời đó có khoảng 60 triệu nô lệ, Phao-lô không khuyên nô lệ nổi loạn, mà hãy sống đời Cơ-đốc nhân ngay tại thân phận của mình. Hoàn cảnh có thể bất lợi, nhưng nó rèn luyện khả năng sống cho Chúa.
 
-Người làm việc không chỉ làm tốt khi có người kiểm soát, mà phải làm như làm cho Chúa. Cơ Đốc nhân phải là những người lao động tốt nhất. Đối với giới chủ, dù mình làm chủ nhưng hãy luôn nhớ mình cũng là đầy tớ của Thượng Đế, và một ngày cả chủ lẫn tớ đều phải đứng trước mặt Ngài để được xét đoán.
+Người làm việc không chỉ làm tốt khi có người kiểm soát, mà phải làm như làm cho Chúa. Cơ-đốc nhân phải là những người lao động tốt nhất. Đối với giới chủ, dù mình làm chủ nhưng hãy luôn nhớ mình cũng là đầy tớ của Thượng Đế, và một ngày cả chủ lẫn tớ đều phải đứng trước mặt Ngài để được xét đoán.

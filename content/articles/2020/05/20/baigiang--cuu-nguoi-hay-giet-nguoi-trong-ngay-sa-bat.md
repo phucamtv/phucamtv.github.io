@@ -29,7 +29,7 @@ Chúa Giêsu phản bác bằng câu chuyện vua Đa-vít. Khi Đa-vít và đo
 
 Câu 27 là chìa khóa của toàn bộ phân đoạn: *"Vì loài người mà lập ngày Sa-bát, chứ chẳng phải vì ngày Sa-bát mà dựng nên loài người."* Mục sư Thoại nhấn mạnh rằng ngày Sa-bát là một món quà Đức Chúa Trời ban cho con người — ngày được nghỉ ngơi, được ban phước và được đặt riêng là ngày thánh. Con người có trước ngày Sa-bát; ngày Sa-bát được lập nên để phục vụ con người, không phải ngược lại.
 
-Điều đáng suy ngẫm là nhiều Cơ Đốc nhân ngày nay nghe đến ngày Sa-bát thứ Bảy lại cảm thấy khó chịu, trong khi Chúa Giêsu gọi đó là món quà dành cho loài người. Mục sư Thoại không nhấn mạnh điều răn thứ tư hơn chín điều răn còn lại, nhưng ông đặt câu hỏi: tại sao chúng ta tiếp nhận các điều răn khác một cách tự nhiên, nhưng lại dị ứng riêng với điều răn này? Đó là điều đáng chúng ta xem lại thái độ của mình.
+Điều đáng suy ngẫm là nhiều Cơ-đốc nhân ngày nay nghe đến ngày Sa-bát thứ Bảy lại cảm thấy khó chịu, trong khi Chúa Giêsu gọi đó là món quà dành cho loài người. Mục sư Thoại không nhấn mạnh điều răn thứ tư hơn chín điều răn còn lại, nhưng ông đặt câu hỏi: tại sao chúng ta tiếp nhận các điều răn khác một cách tự nhiên, nhưng lại dị ứng riêng với điều răn này? Đó là điều đáng chúng ta xem lại thái độ của mình.
 
 ## Cứu Người Hay Giết Người?
 

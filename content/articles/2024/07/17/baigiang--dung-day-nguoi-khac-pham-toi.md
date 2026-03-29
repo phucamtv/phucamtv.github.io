@@ -3,7 +3,7 @@ title: "Đừng Dạy Người Khác Phạm Tội | Ma-thi-ơ 18:1-7, 10"
 date: 2024-07-17
 url: /baigiang/dung-day-nguoi-khac-pham-toi/
 description: "Mục sư Dương Quang Thoại giảng từ Ma-thi-ơ 18:1-7, 10 về sự khiêm nhường như đứa trẻ, trách nhiệm tiếp nhận người yếu đuối, và hậu quả nghiêm trọng của việc dạy dỗ hay dẫn dắt người khác vào con đường phạm tội."
-tags: ["Ma-thi-ơ", "Khiêm Nhường", "Đứa Trẻ", "Trách Nhiệm", "Phạm Tội", "Thiên Đàng", "Bản Tánh Cơ Đốc Nhân"]
+tags: ["Ma-thi-ơ", "Khiêm Nhường", "Đứa Trẻ", "Trách Nhiệm", "Phạm Tội", "Thiên Đàng", "Bản Tánh Cơ-đốc Nhân"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["8ETMvA3xWgE"]
@@ -60,6 +60,6 @@ Theo truyền thống người Do Thái, tội dạy cho người khác phạm t
 
 ## Kết Luận
 
-Ma-thi-ơ đoạn 18 đặt ra trước chúng ta những chuẩn mực của đời sống Cơ Đốc nhân. Muốn bước vào nước thiên đàng, không phải bằng cách ganh đua để trở nên "lớn hơn hết," mà bằng cách **đổi lại** — trở nên khiêm nhường, lệ thuộc, phó thác, tha thứ, và trong sáng như đứa trẻ. Đó là hướng đi đúng đắn về nước Đức Chúa Trời.
+Ma-thi-ơ đoạn 18 đặt ra trước chúng ta những chuẩn mực của đời sống Cơ-đốc nhân. Muốn bước vào nước thiên đàng, không phải bằng cách ganh đua để trở nên "lớn hơn hết," mà bằng cách **đổi lại** — trở nên khiêm nhường, lệ thuộc, phó thác, tha thứ, và trong sáng như đứa trẻ. Đó là hướng đi đúng đắn về nước Đức Chúa Trời.
 
 Đồng thời, trách nhiệm của mỗi người với thế hệ kế tiếp là vô cùng lớn. Hãy tiếp nhận những người nhỏ bé vì tình yêu Chúa. Hãy cẩn thận trong lối sống, lời nói, và hành động — vì đó đều là những bài học mà những người xung quanh, đặc biệt là con trẻ, đang học thuộc lòng mỗi ngày.

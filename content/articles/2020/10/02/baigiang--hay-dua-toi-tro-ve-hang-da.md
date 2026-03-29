@@ -48,4 +48,4 @@ Lời Kinh Thánh trong Châm Ngôn 12:19 dạy rằng môi chân thật đượ
 
 Muốn dạy con trẻ sống chân thật, trước hết người lớn phải nỗ lực duy trì sự chân thật trong từng lời nói của chính mình. Đừng xem thường bất kỳ lời nói dối nào, dù nhỏ đến đâu. Mỗi lời nói dối đều là một vết nứt trong nền tảng đạo đức, và khi những vết nứt ấy nhiều lên, cả nền tảng sẽ sụp đổ.
 
-Như thi sĩ Phillip đã chọn hang đá thay vì nịnh bợ, mỗi Cơ Đốc nhân cũng được mời gọi chọn sự chân thật thay vì sự thoải mái tạm thời của lời giả dối. Dù trong bất kỳ hoàn cảnh nào, hãy duy trì sự chân thật — vì đó là con đường dẫn đến sự bền vững thật sự trước mặt Đức Chúa Trời.
+Như thi sĩ Phillip đã chọn hang đá thay vì nịnh bợ, mỗi Cơ-đốc nhân cũng được mời gọi chọn sự chân thật thay vì sự thoải mái tạm thời của lời giả dối. Dù trong bất kỳ hoàn cảnh nào, hãy duy trì sự chân thật — vì đó là con đường dẫn đến sự bền vững thật sự trước mặt Đức Chúa Trời.

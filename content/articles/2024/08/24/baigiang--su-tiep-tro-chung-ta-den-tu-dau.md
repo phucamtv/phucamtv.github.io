@@ -2,7 +2,7 @@
 title: "Sự Tiếp Trợ Chúng Ta Đến Từ Đâu? | Thi-thiên 121:1"
 date: 2024-08-24
 url: /baigiang/su-tiep-tro-chung-ta-den-tu-dau/
-description: "Dựa trên Thi-thiên 121, Mục sư Dương Quang Thoại đặt ra câu hỏi căn bản cho mỗi Cơ Đốc nhân: khi gặp khó khăn, chúng ta tìm kiếm sự tiếp trợ từ đâu — từ con người, quyền lực thế gian, hay từ Đức Chúa Trời là Đấng Tạo Hóa?"
+description: "Dựa trên Thi-thiên 121, Mục sư Dương Quang Thoại đặt ra câu hỏi căn bản cho mỗi Cơ-đốc nhân: khi gặp khó khăn, chúng ta tìm kiếm sự tiếp trợ từ đâu — từ con người, quyền lực thế gian, hay từ Đức Chúa Trời là Đấng Tạo Hóa?"
 tags: ["Thi-thiên 121", "Đức Tin", "Cậy Nhờ Chúa", "Sự Tiếp Trợ", "Kiêu Ngạo", "Khiêm Nhường", "Ê-xê-chia", "Nương Cậy"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -16,7 +16,7 @@ draft: false
 
 Thi-thiên 121:1 mở đầu bằng một hình ảnh và một câu hỏi: *"Tôi ngước mắt lên trên núi: Sự tiếp trợ tôi đến từ đâu?"* Tác giả không nhìn ngang, không nhìn xuống — ông ngước mắt nhìn lên. Và sau khi đã nhìn lên, ông không vội vàng trả lời mà tự đặt câu hỏi cho chính mình.
 
-Đây là câu hỏi dành cho mỗi Cơ Đốc nhân: nhìn lại những tháng năm đã qua — một tháng, một năm, năm năm, mười năm — sự tiếp trợ trong đời mình thật sự đến từ đâu? Và quan trọng hơn: *những lúc gặp khốn khó, chúng ta tìm kiếm sự tiếp trợ ở đâu trước tiên?*
+Đây là câu hỏi dành cho mỗi Cơ-đốc nhân: nhìn lại những tháng năm đã qua — một tháng, một năm, năm năm, mười năm — sự tiếp trợ trong đời mình thật sự đến từ đâu? Và quan trọng hơn: *những lúc gặp khốn khó, chúng ta tìm kiếm sự tiếp trợ ở đâu trước tiên?*
 
 Mục sư Dương Quang Thoại nhận xét rằng chúng ta thường có một thói quen tự động: kẹt tiền thì nghĩ đến người thân có tiền; rắc rối giấy tờ thì tìm người quen trong cơ quan; gặp vấn đề khó khăn thì tự mình loay hoay tìm giải pháp. Đó là bản năng của con người. Nhưng Kinh Thánh cho biết Đức Chúa Trời nhìn điều đó như thế nào.
 
@@ -68,6 +68,6 @@ Ngài gìn giữ bước chân chúng ta không bị vấp ngã trên những co
 
 Mục sư Dương Quang Thoại kết lại với một lời kêu gọi thực tế: hãy thay đổi cái thói quen *tự động* trong đầu — thói quen mỗi khi gặp khó khăn là tìm đến con người trước khi tìm đến Chúa.
 
-Không phải Cơ Đốc nhân không được nhờ người khác giúp đỡ. Nhưng *điều đầu tiên* trong lòng, *nơi đầu tiên* chúng ta hướng đến khi cần sự tiếp trợ — đó phải là Đức Chúa Trời. Khi ngồi trong xe đang đi mà gặp chuyện, hãy dừng lại cầu nguyện ngay trên vô lăng. Khi đứng trước một quyết định, hãy ngước mắt lên trước khi gọi điện cho ai.
+Không phải Cơ-đốc nhân không được nhờ người khác giúp đỡ. Nhưng *điều đầu tiên* trong lòng, *nơi đầu tiên* chúng ta hướng đến khi cần sự tiếp trợ — đó phải là Đức Chúa Trời. Khi ngồi trong xe đang đi mà gặp chuyện, hãy dừng lại cầu nguyện ngay trên vô lăng. Khi đứng trước một quyết định, hãy ngước mắt lên trước khi gọi điện cho ai.
 
 Vì Ngài không ngủ. Ngài đang ở đó. Và sự tiếp trợ thật sự — sự tiếp trợ đời đời — *đến từ Ngài*.

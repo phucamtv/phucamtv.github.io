@@ -2,7 +2,7 @@
 title: "Được Đặt Một Tên Mới"
 date: 2025-08-16
 description: "Bài giảng Khải Huyền 2:17 về ý nghĩa của việc Đức Chúa Trời đặt cho người chiến thắng một tên mới trên hòn sỏi trắng, dấu ấn cá nhân qua tên gọi trong Kinh Thánh, danh xưng Cơ-Đốc nhân, và lời kêu gọi sống xứng đáng với tên Chúa đã ban."
-tags: ["Khải Huyền", "Tên Mới", "Cơ Đốc Nhân", "Bản Tánh Chúa", "Chiến Thắng"]
+tags: ["Khải Huyền", "Tên Mới", "Cơ-đốc Nhân", "Bản Tánh Chúa", "Chiến Thắng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["T3-x7svioPE"]

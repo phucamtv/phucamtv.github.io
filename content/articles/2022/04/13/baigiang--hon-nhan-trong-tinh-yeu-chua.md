@@ -30,7 +30,7 @@ Nơi nào có sự ích kỷ thì nơi đó đang giết chết tình yêu. Chú
 
 Câu 26-27 cho thấy Phao-lô chuyển từ hôn nhân sang hình ảnh Đấng Christ và Hội Thánh: Ngài khiến Hội nên thánh sau khi lấy nước rửa, dùng đạo làm cho Hội tinh sạch, không vết, không nhăn, không chi giống như vậy. Cuộc sống của Hội Thánh và gia đình cần được thanh lọc mỗi ngày — lời nói, tư tưởng, việc làm đều cần đi qua sự thanh lọc của Chúa.
 
-Giống như chúng ta đòi hỏi nước uống phải tinh khiết, thì đời sống thuộc linh cũng cần được tinh khiết. Cơ Đốc nhân được ví như chim phụng hoàng — luôn bay trên cao, không ăn xác chết thối, sống cao thượng. Đó là lối sống mà Phao-lô kêu gọi dân sự Chúa hướng tới.
+Giống như chúng ta đòi hỏi nước uống phải tinh khiết, thì đời sống thuộc linh cũng cần được tinh khiết. Cơ-đốc nhân được ví như chim phụng hoàng — luôn bay trên cao, không ăn xác chết thối, sống cao thượng. Đó là lối sống mà Phao-lô kêu gọi dân sự Chúa hướng tới.
 
 ## Yêu vợ như yêu chính thân mình
 

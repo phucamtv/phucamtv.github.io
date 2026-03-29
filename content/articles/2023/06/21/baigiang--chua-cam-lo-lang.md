@@ -14,9 +14,9 @@ draft: false
 
 ## Chúa Cấm Lo Lắng — Ma-thi-ơ 6:25-34
 
-Sự lo lắng là một trong những vấn đề mà ngay cả những Cơ Đốc nhân lâu năm vẫn thường vướng phải. Trong phân đoạn Kinh Thánh Ma-thi-ơ 6:25-34, Đức Chúa Giê-su không chỉ đơn thuần khuyên chúng ta đừng lo lắng, mà Ngài thật sự nghiêm cấm sự lo lắng. Tại sao vậy? Bởi vì lo lắng luôn kéo theo nỗi sợ hãi, và sự sợ hãi chính là kẻ thù của đức tin.
+Sự lo lắng là một trong những vấn đề mà ngay cả những Cơ-đốc nhân lâu năm vẫn thường vướng phải. Trong phân đoạn Kinh Thánh Ma-thi-ơ 6:25-34, Đức Chúa Giê-su không chỉ đơn thuần khuyên chúng ta đừng lo lắng, mà Ngài thật sự nghiêm cấm sự lo lắng. Tại sao vậy? Bởi vì lo lắng luôn kéo theo nỗi sợ hãi, và sự sợ hãi chính là kẻ thù của đức tin.
 
-Trước hết, cần xác định rằng Đức Chúa Giê-su không hề cấm chúng ta chuẩn bị cho tương lai. Những dự trù thông thường, thận trọng và hợp lý là điều cần thiết. Chúa cũng không khuyến khích một đời sống cẩu thả, lười biếng hay phó mặc mọi việc cho dòng đời đưa đẩy. Điều Chúa nghiêm cấm ở đây là sự lo lắng kéo theo sợ hãi — loại lo âu cướp mất niềm vui, sự bình an và hạnh phúc của đời sống Cơ Đốc nhân.
+Trước hết, cần xác định rằng Đức Chúa Giê-su không hề cấm chúng ta chuẩn bị cho tương lai. Những dự trù thông thường, thận trọng và hợp lý là điều cần thiết. Chúa cũng không khuyến khích một đời sống cẩu thả, lười biếng hay phó mặc mọi việc cho dòng đời đưa đẩy. Điều Chúa nghiêm cấm ở đây là sự lo lắng kéo theo sợ hãi — loại lo âu cướp mất niềm vui, sự bình an và hạnh phúc của đời sống Cơ-đốc nhân.
 
 ## Bảy Lập Luận Của Đức Chúa Giê-su
 
@@ -38,7 +38,7 @@ Có ai trong chúng ta lo lắng mà làm cho đời mình được dài thêm m
 
 ### 5. Lo lắng là giống như người ngoại
 
-Đây là một lời rất mạnh. Đặc tính của người ngoại là lo âu — họ thờ thần thánh với mục đích duy nhất là mong được phù hộ nhưng vẫn cứ liên tục gặp rủi ro. Nếu một Cơ Đốc nhân lo lắng, nghĩa là đang sống y như người ngoại, không tin vào Đức Chúa Trời. Miệng nói tin Chúa nhưng sống trong lo lắng, tức là đang tự mâu thuẫn với chính mình.
+Đây là một lời rất mạnh. Đặc tính của người ngoại là lo âu — họ thờ thần thánh với mục đích duy nhất là mong được phù hộ nhưng vẫn cứ liên tục gặp rủi ro. Nếu một Cơ-đốc nhân lo lắng, nghĩa là đang sống y như người ngoại, không tin vào Đức Chúa Trời. Miệng nói tin Chúa nhưng sống trong lo lắng, tức là đang tự mâu thuẫn với chính mình.
 
 ### 6. Giải pháp: Tìm kiếm nước Đức Chúa Trời trước hết
 

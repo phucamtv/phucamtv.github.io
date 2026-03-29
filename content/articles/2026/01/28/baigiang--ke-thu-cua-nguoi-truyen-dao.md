@@ -30,7 +30,7 @@ Trong ba tuần Sa-bát liên tiếp, Phao-lô giảng từ Kinh Thánh Cựu Ư
 
 ### Ghen Ghét Đẩy Đến Tận Cùng
 
-Nhưng một số người Do Thái tức giận. Cần lưu ý: người Do Thái thờ phượng Đức Chúa Trời, giữ Kinh Thánh Cựu Ước và luật pháp Môi-se — nhưng không chấp nhận Giê-su là Đấng Mê-si. Khi thấy Phao-lô kéo người theo Cơ Đốc giáo, lòng ghen ghét bùng lên.
+Nhưng một số người Do Thái tức giận. Cần lưu ý: người Do Thái thờ phượng Đức Chúa Trời, giữ Kinh Thánh Cựu Ước và luật pháp Môi-se — nhưng không chấp nhận Giê-su là Đấng Mê-si. Khi thấy Phao-lô kéo người theo Cơ-đốc giáo, lòng ghen ghét bùng lên.
 
 Công-vụ 17:5-8 ghi lại leo thang của bạo lực:
 1. **Kéo mấy đứa hoang đàn nơi đường phố** — thuê người hung hãn (tương đương xã hội đen ngày nay)
@@ -57,7 +57,7 @@ Lu-ca ghi lại một nhận xét đáng chú ý về người Bê-rê: họ *"h
 
 Đây là một bài học sâu sắc về cách tiếp nhận sự dạy dỗ. Nhiều người nghe giảng rồi tin theo mà không đối chiếu với Kinh Thánh — chỉ dựa vào uy tín của người truyền đạo hoặc tình cảm với hội thánh quen thuộc. Khi ai đó nói "hội thánh đó là tà giáo," người nghe tin ngay mà không tự mình kiểm tra.
 
-Nguyên tắc của người Bê-rê rất rõ ràng: **mọi lời giảng đều phải được đối chiếu với Kinh Thánh**. Mỗi Cơ Đốc nhân đều có Kinh Thánh và Đức Thánh Linh soi sáng — đủ để phân biệt lẽ thật khi đọc Lời Chúa với tấm lòng thành khẩn, không thiên vị, không kiêu ngạo.
+Nguyên tắc của người Bê-rê rất rõ ràng: **mọi lời giảng đều phải được đối chiếu với Kinh Thánh**. Mỗi Cơ-đốc nhân đều có Kinh Thánh và Đức Thánh Linh soi sáng — đủ để phân biệt lẽ thật khi đọc Lời Chúa với tấm lòng thành khẩn, không thiên vị, không kiêu ngạo.
 
 ### Kẻ Thù Không Buông
 

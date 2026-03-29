@@ -1,7 +1,7 @@
 ---
 title: "Sách Ê-phê-sô 6:10-20. Khí giới của Đức Chúa Trời"
 date: 2022-04-27
-description: "Bài giảng từ sách Ê-phê-sô đoạn 6 câu 10-20 về những khí giới thuộc linh mà Đức Chúa Trời trang bị cho Cơ Đốc nhân trong cuộc chiến với thế lực tối tăm."
+description: "Bài giảng từ sách Ê-phê-sô đoạn 6 câu 10-20 về những khí giới thuộc linh mà Đức Chúa Trời trang bị cho Cơ-đốc nhân trong cuộc chiến với thế lực tối tăm."
 tags: ["Ê-phê-sô", "Khí Giới Thuộc Linh", "Chiến Trận Thuộc Linh", "Đức Tin"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -12,7 +12,7 @@ draft: false
 
 {{< youtube "VufOs7DrqKw" >}}
 
-Phân đoạn Ê-phê-sô 6:10-20 là lời kêu gọi đầy ý nghĩa của sứ đồ Phao-lô dành cho các tín hữu: hãy mạnh dạn trong Chúa và nhờ sức toàn năng của Ngài. Khi sắp tạm biệt Hội Thánh, Phao-lô nghĩ đến những cuộc chiến thuộc linh cam go phía trước mà mỗi Cơ Đốc nhân phải đối diện.
+Phân đoạn Ê-phê-sô 6:10-20 là lời kêu gọi đầy ý nghĩa của sứ đồ Phao-lô dành cho các tín hữu: hãy mạnh dạn trong Chúa và nhờ sức toàn năng của Ngài. Khi sắp tạm biệt Hội Thánh, Phao-lô nghĩ đến những cuộc chiến thuộc linh cam go phía trước mà mỗi Cơ-đốc nhân phải đối diện.
 
 ## Kẻ thù vô hình
 
@@ -40,4 +40,4 @@ Trong bất cứ cuộc chiến nào cũng phải có vũ khí. Dù đức tin b
 
 Phao-lô nhắc nhở ba điều về sự cầu nguyện trong câu 18. Thứ nhất, phải liên tục. Chúng ta thường chỉ cầu nguyện khi cần, nhưng cầu nguyện không chỉ là kêu xin mà còn là sự tương giao và chìa khóa để nhận lấy sức mạnh thuộc linh. Thứ hai, phải nhiệt thành. Mọi hành động chiếu lệ, làm cho có, làm cách cẩu thả đều không bao giờ có kết quả. Sự cầu nguyện hời hợt chứng tỏ chúng ta không thật lòng với Ngài. Thứ ba, không ích kỷ. Chúng ta thường chỉ cầu nguyện cho nhu cầu của riêng mình. Hãy mở rộng sự cầu nguyện, trở thành lời cầu thay cho nhu cầu của mọi người.
 
-Trong cuộc chiến thuộc linh, Cơ Đốc nhân cần xác định rõ kẻ thù mình đang đối diện là ai, nó ở đâu, và phương cách của nó ra sao. Nếu không trả lời được ba điều đó, chúng ta sẽ thất bại. Nhưng khi mang lấy trọn bộ khí giới của Đức Chúa Trời, chúng ta có thể đứng vững và chiến thắng trong mọi hoàn cảnh.
+Trong cuộc chiến thuộc linh, Cơ-đốc nhân cần xác định rõ kẻ thù mình đang đối diện là ai, nó ở đâu, và phương cách của nó ra sao. Nếu không trả lời được ba điều đó, chúng ta sẽ thất bại. Nhưng khi mang lấy trọn bộ khí giới của Đức Chúa Trời, chúng ta có thể đứng vững và chiến thắng trong mọi hoàn cảnh.

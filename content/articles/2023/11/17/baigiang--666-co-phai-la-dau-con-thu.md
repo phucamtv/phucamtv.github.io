@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu: Câu Hỏi Về Dấu Con Thú
 
-Khải Huyền chương 13 là một trong những đoạn Kinh Thánh gây nhiều tranh luận nhất trong cộng đồng Cơ Đốc giáo. Con số 666 thường bị hiểu sai là chính dấu con thú, khiến nhiều người hoang mang và sợ hãi mà không nắm được ý nghĩa thật sự của lời tiên tri. Trong bài giảng này, Mục sư Đặng Thanh Phong đi sâu vào Khải Huyền 13:11-18 để phân tích hai khái niệm quan trọng: dấu con thú là gì, và con số 666 thật sự mang ý nghĩa gì.
+Khải Huyền chương 13 là một trong những đoạn Kinh Thánh gây nhiều tranh luận nhất trong cộng đồng Cơ-đốc giáo. Con số 666 thường bị hiểu sai là chính dấu con thú, khiến nhiều người hoang mang và sợ hãi mà không nắm được ý nghĩa thật sự của lời tiên tri. Trong bài giảng này, Mục sư Đặng Thanh Phong đi sâu vào Khải Huyền 13:11-18 để phân tích hai khái niệm quan trọng: dấu con thú là gì, và con số 666 thật sự mang ý nghĩa gì.
 
 Bối cảnh của đoạn Kinh Thánh cho thấy trong ngày cuối cùng, thế giới sẽ chia làm hai phe: những người trung kiên với Đức Chúa Trời, được gọi là dân còn sót lại, và những người đứng về phía con thú. Không ai có thể đứng giữa — mỗi người phải đưa ra sự lựa chọn dứt khoát.
 

@@ -48,7 +48,7 @@ Sứ đồ Phao-lô dạy Ti-mô-thê ba bài học về lòng trung thành:
 
 **Người lính:** Khi đã nhập ngũ, mọi thứ phải bỏ lại phía sau. Người lính đang làm nhiệm vụ không còn vướng víu việc đời, mục tiêu duy nhất là làm vừa lòng người chỉ huy. Cũng vậy, khi bước theo Chúa, ý muốn của Ngài phải là ưu tiên hàng đầu.
 
-**Vận động viên:** Muốn đạt huy chương phải chơi đúng luật. Dù có chiến thắng nhưng phạm luật thì cũng bị truất quyền. Đời sống Cơ Đốc nhân cũng vậy — không phải sống theo ý riêng mà phải sống trong khuôn khổ lời Chúa dạy.
+**Vận động viên:** Muốn đạt huy chương phải chơi đúng luật. Dù có chiến thắng nhưng phạm luật thì cũng bị truất quyền. Đời sống Cơ-đốc nhân cũng vậy — không phải sống theo ý riêng mà phải sống trong khuôn khổ lời Chúa dạy.
 
 **Người nông dân:** Người nông dân làm lụng khó nhọc thì phải được ưu tiên hưởng hoa lợi. Sự kiên nhẫn và lao động bền bỉ sẽ mang lại kết quả xứng đáng.
 

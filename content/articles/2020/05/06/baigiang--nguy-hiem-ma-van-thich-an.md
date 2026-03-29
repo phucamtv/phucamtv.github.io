@@ -34,9 +34,9 @@ Một quyết định trong vài phút — đổi cả quyền thừa kế, cả
 
 Điều đáng suy nghĩ là Ê-sau không phải người xấu về mặt đạo đức xã hội. Ông là người con hiếu thảo, người thợ săn tài giỏi. Nhưng một điểm yếu — không kiềm chế được trong lúc đói — đã dẫn đến hậu quả không thể đảo ngược trong cả cuộc đời.
 
-## Ý Nghĩa Cho Cơ Đốc Nhân Ngày Nay
+## Ý Nghĩa Cho Cơ-đốc Nhân Ngày Nay
 
-Một trong những thách thức đối với người tin Chúa trong thời kỳ cuối cùng chính là sự kiềm chế và kiểm soát việc ăn uống. Thói quen ăn uống thỏa thuê, ăn tất cả những gì mình thích mà không suy nghĩ, không phải là thói quen của một Cơ Đốc nhân chân chính.
+Một trong những thách thức đối với người tin Chúa trong thời kỳ cuối cùng chính là sự kiềm chế và kiểm soát việc ăn uống. Thói quen ăn uống thỏa thuê, ăn tất cả những gì mình thích mà không suy nghĩ, không phải là thói quen của một Cơ-đốc nhân chân chính.
 
 Bài học từ cá nóc và từ Ê-sau không chỉ dừng lại ở vấn đề thức ăn. Chúng là hình ảnh của một nguyên lý rộng hơn: khi chúng ta để những ham muốn tức thời điều khiển, chúng ta đang đánh đổi những phước hạnh thiêng liêng lâu dài để thỏa mãn cơn thèm nhất thời.
 

@@ -2,8 +2,8 @@
 title: "Chuẩn bị Cầu nguyện lúc 16g chiều nay 18.4.2020"
 date: 2020-04-18T00:00:00+07:00
 url: /baigiang/chuan-bi-cau-nguyen-luc-16g-chieu-nay-18-4-2020/
-description: "Mục sư Dương Quang Thoại kêu gọi và hướng dẫn cộng đồng Cơ Đốc Phục Lâm Đông Nam Á chuẩn bị hiệp lòng cầu nguyện vào lúc 4 giờ chiều ngày 18.4.2020, cầu thay cho thế giới đang đối diện với đại dịch COVID-19."
-tags: ["Cầu Nguyện", "COVID-19", "Đại Dịch", "Hiệp Lòng Cầu Nguyện", "Đông Nam Á", "Cơ Đốc Phục Lâm"]
+description: "Mục sư Dương Quang Thoại kêu gọi và hướng dẫn cộng đồng Cơ-đốc Phục Lâm Đông Nam Á chuẩn bị hiệp lòng cầu nguyện vào lúc 4 giờ chiều ngày 18.4.2020, cầu thay cho thế giới đang đối diện với đại dịch COVID-19."
+tags: ["Cầu Nguyện", "COVID-19", "Đại Dịch", "Hiệp Lòng Cầu Nguyện", "Đông Nam Á", "Cơ-đốc Phục Lâm"]
 authors:
   - duong-quang-thoai
 plugins:
@@ -17,13 +17,13 @@ draft: false
 
 ## Lời Kêu Gọi Hiệp Lòng Cầu Nguyện
 
-Trong bối cảnh đại dịch COVID-19 đang lan rộng trên toàn thế giới, Mục sư Dương Quang Thoại đã kêu gọi toàn thể anh chị em Cơ Đốc Phục Lâm tại khu vực Đông Nam Á cùng nhau hiệp lòng cầu nguyện vào lúc 4 giờ chiều ngày Thứ Bảy, 18 tháng 4 năm 2020.
+Trong bối cảnh đại dịch COVID-19 đang lan rộng trên toàn thế giới, Mục sư Dương Quang Thoại đã kêu gọi toàn thể anh chị em Cơ-đốc Phục Lâm tại khu vực Đông Nam Á cùng nhau hiệp lòng cầu nguyện vào lúc 4 giờ chiều ngày Thứ Bảy, 18 tháng 4 năm 2020.
 
-Đây là một lời kêu gọi xuất phát từ Giáo hội Cơ Đốc Phục Lâm, nhưng không chỉ giới hạn trong một hệ phái. Mục sư mời gọi tất cả con dân Chúa, dù thuộc bất kỳ hệ phái nào, cùng tham gia trong giờ cầu nguyện quan trọng này. Tinh thần đại kết và hiệp nhất được đặt lên hàng đầu trong thời điểm khủng hoảng chung của toàn nhân loại.
+Đây là một lời kêu gọi xuất phát từ Giáo hội Cơ-đốc Phục Lâm, nhưng không chỉ giới hạn trong một hệ phái. Mục sư mời gọi tất cả con dân Chúa, dù thuộc bất kỳ hệ phái nào, cùng tham gia trong giờ cầu nguyện quan trọng này. Tinh thần đại kết và hiệp nhất được đặt lên hàng đầu trong thời điểm khủng hoảng chung của toàn nhân loại.
 
 ## Các Quốc Gia Tham Gia
 
-Giờ cầu nguyện chung này kết nối cộng đồng Cơ Đốc nhân từ nhiều quốc gia Đông Nam Á, bao gồm:
+Giờ cầu nguyện chung này kết nối cộng đồng Cơ-đốc nhân từ nhiều quốc gia Đông Nam Á, bao gồm:
 
 - Việt Nam
 - Singapore

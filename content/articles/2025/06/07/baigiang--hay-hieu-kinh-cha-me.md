@@ -30,7 +30,7 @@ Một người không hiếu kính cha mẹ thì không thể thành công thậ
 
 Mạnh Tử từng viết rằng không hiếu thuận để vui lòng cha mẹ thì không đáng gọi là người, không sống để cha mẹ hãnh diện thì không đáng gọi là con. Ê-xê-chi-ên 22:7 cũng ghi lại lời Chúa quở trách những nơi mà người ta khinh dể cha mẹ. Lê-vi Ký 20:9 cho thấy luật hình sự Israel xưa rất nghiêm khắc với tội bất hiếu, chỉ cần chửi rủa cha mẹ là bị xử tử, cho thấy người xưa coi trọng đạo hiếu đến mức nào.
 
-I Ti-mô-thê 5:8 cảnh báo rằng ai không chăm sóc bà con mình, nhất là người nhà, thì đã chối bỏ đức tin và còn xấu hơn người không tin. Đây là lời nhắc nhở đặc biệt cho các Cơ Đốc nhân: không thể lấy việc phục vụ nhà thờ làm cớ để bỏ quên trách nhiệm chăm sóc cha mẹ, ông bà. Cha mẹ già đôi khi chỉ cần con ngồi bên cạnh năm phút, lắng nghe dù câu chuyện đã kể đi kể lại nhiều lần.
+I Ti-mô-thê 5:8 cảnh báo rằng ai không chăm sóc bà con mình, nhất là người nhà, thì đã chối bỏ đức tin và còn xấu hơn người không tin. Đây là lời nhắc nhở đặc biệt cho các Cơ-đốc nhân: không thể lấy việc phục vụ nhà thờ làm cớ để bỏ quên trách nhiệm chăm sóc cha mẹ, ông bà. Cha mẹ già đôi khi chỉ cần con ngồi bên cạnh năm phút, lắng nghe dù câu chuyện đã kể đi kể lại nhiều lần.
 
 ## Kinh Thánh Truyền Phải Hiếu Kính Cha Mẹ
 

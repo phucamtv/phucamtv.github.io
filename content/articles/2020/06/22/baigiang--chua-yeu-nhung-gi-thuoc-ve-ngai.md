@@ -66,7 +66,7 @@ Câu Kinh Thánh này không chỉ nói về một tình yêu thoáng qua hay c�
 
 ## Suy Ngẫm Và Ứng Dụng
 
-Qua câu chuyện của Irving Berlin và lời Kinh Thánh này, chúng ta được nhắc nhở về một sự thật quan trọng trong đức tin Cơ Đốc:
+Qua câu chuyện của Irving Berlin và lời Kinh Thánh này, chúng ta được nhắc nhở về một sự thật quan trọng trong đức tin Cơ-đốc:
 
 **Bạn không cần phải hoàn hảo để được Đức Chúa Trời yêu.** Bạn không cần phải giàu có, nổi tiếng hay được thế gian công nhận để có giá trị trước mặt Ngài. Ngài yêu bạn vì bạn là tạo vật của Ngài — điều đó đủ rồi.
 

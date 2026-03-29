@@ -3,7 +3,7 @@ title: "Đối Diện Với Việc Bị Chối Từ"
 date: 2020-12-05
 url: /baigiang/doi-dien-voi-viec-bi-choi-tu/
 description: "Khi bị từ chối, ruồng rẫy hay bỏ rơi, chúng ta phải đối diện thế nào? Bài giảng dẫn dắt chúng ta qua những tấm gương kinh thánh và chỉ ra Đấng không bao giờ từ chối chúng ta."
-tags: ["Đời Sống Cơ Đốc", "Tâm Lý", "Chữa Lành", "Sức Mạnh Thuộc Linh", "Vượt Khó"]
+tags: ["Đời Sống Cơ-đốc", "Tâm Lý", "Chữa Lành", "Sức Mạnh Thuộc Linh", "Vượt Khó"]
 authors:
   - duong-quang-thoai
 plugins:

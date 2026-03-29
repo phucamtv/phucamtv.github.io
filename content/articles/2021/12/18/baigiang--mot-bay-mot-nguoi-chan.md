@@ -17,7 +17,7 @@ draft: false
 
 ## Đức Chúa Trời – Đấng Chăn Giữ Dân Sự Ngài
 
-Trong Kinh Thánh, mối tương giao giữa Đức Chúa Trời và con dân Ngài được miêu tả qua nhiều hình ảnh thân thiết: cha và con, vợ và chồng, thầy và trò. Nhưng một trong những hình ảnh đậm nét và sâu sắc nhất chính là hình ảnh người chăn và con chiên. Thi Thiên 23 – khúc Kinh Thánh quen thuộc với hầu hết mọi Cơ Đốc nhân – mở đầu bằng lời tuyên bố: "Đức Giê-hô-va là Đấng chăn giữ tôi." Hình ảnh ấy cho thấy mỗi ngày Đức Chúa Trời ở bên cạnh chúng ta, chăm sóc, bảo vệ và dẫn dắt như người chăn luôn ở cùng bầy chiên mình.
+Trong Kinh Thánh, mối tương giao giữa Đức Chúa Trời và con dân Ngài được miêu tả qua nhiều hình ảnh thân thiết: cha và con, vợ và chồng, thầy và trò. Nhưng một trong những hình ảnh đậm nét và sâu sắc nhất chính là hình ảnh người chăn và con chiên. Thi Thiên 23 – khúc Kinh Thánh quen thuộc với hầu hết mọi Cơ-đốc nhân – mở đầu bằng lời tuyên bố: "Đức Giê-hô-va là Đấng chăn giữ tôi." Hình ảnh ấy cho thấy mỗi ngày Đức Chúa Trời ở bên cạnh chúng ta, chăm sóc, bảo vệ và dẫn dắt như người chăn luôn ở cùng bầy chiên mình.
 
 Thi Thiên 78:52-53 nhắc lại cách Đức Chúa Trời đưa dân Israel ra khỏi Ai Cập, dẫn dắt hơn một triệu người qua đồng vắng suốt bốn mươi năm. Kinh Thánh ghi nhận rằng trong suốt hành trình ấy, áo quần họ không sờn cũ, giày dép không mòn. Sự chăm sóc của Ngài không chỉ ở những điều lớn lao mà còn ở từng chi tiết nhỏ nhặt nhất trong đời sống. Nếu Đức Chúa Trời đã gìn giữ cả một dân tộc hơn triệu người, thì mỗi cá nhân chúng ta, mỗi gia đình nhỏ bé của chúng ta, chẳng phải cũng là bầy chiên trong bàn tay quyền năng của Ngài sao?
 
@@ -41,7 +41,7 @@ Ngài phán: "Ta quen chiên ta và chiên ta quen ta." Chúa dành thời gian 
 
 Đức Chúa Giê-su phán: "Nếu ai bởi ta mà vào thì sẽ được cứu rỗi, họ sẽ vào ra và gặp đồng cỏ." Chỉ qua cánh cửa của Ngài, chúng ta mới tìm được đồng cỏ thật sự. Những cánh cửa khác – tiền bạc, tài sản, sự nghiệp, danh vọng – chỉ dẫn đến những mảnh đất khô cằn.
 
-Ngài còn hứa ban cho chiên "sự sống dư dật" – không phải sự sống thoi thóp trên giường bệnh, không phải sự sống vừa đủ để tồn tại, mà là sự sống sung mãn, đầy năng quyền và sức mạnh tâm linh. Đó mới là đích mà mỗi Cơ Đốc nhân cần hướng đến.
+Ngài còn hứa ban cho chiên "sự sống dư dật" – không phải sự sống thoi thóp trên giường bệnh, không phải sự sống vừa đủ để tồn tại, mà là sự sống sung mãn, đầy năng quyền và sức mạnh tâm linh. Đó mới là đích mà mỗi Cơ-đốc nhân cần hướng đến.
 
 ## Rồi Sẽ Chỉ Có Một Bầy Và Một Người Chăn
 

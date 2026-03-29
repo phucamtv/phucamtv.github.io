@@ -3,7 +3,7 @@ title: "Đáng Giá Một Cuộn Thuốc Lá"
 date: 2020-12-02
 url: /baigiang/dang-gia-mot-cuon-thuoc-la/
 description: "Câu chuyện cậu bé nô lệ bị bán với giá một cuộn thuốc lá nhưng sau đó trở thành vị giám mục đầu tiên của Nigeria, nhắc nhở rằng Đức Chúa Trời chọn những người thấp hèn để làm nên sự vinh quang cho Ngài."
-tags: ["Chắp Cánh Bay Cao", "Ơn Gọi", "Đời Sống Cơ Đốc", "Sự Khiêm Nhường"]
+tags: ["Chắp Cánh Bay Cao", "Ơn Gọi", "Đời Sống Cơ-đốc", "Sự Khiêm Nhường"]
 authors:
   - duong-quang-thoai
 plugins:

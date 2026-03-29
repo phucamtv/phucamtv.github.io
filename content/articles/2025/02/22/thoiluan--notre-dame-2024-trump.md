@@ -19,17 +19,17 @@ Donald Trump, Tổng thống thứ 47 của Hoa Kỳ, được biết là một 
 
 ## Trump và niềm tin của giới Tin Lành Phúc Âm
 
-Donald Trump được nhiều tín đồ Cơ Đốc, đặc biệt là người Tin Lành Phúc Âm da trắng và các nhóm như New Apostolic Reformation, coi là sứ giả của Chúa để cứu nước Mỹ và cả thế giới thoát khỏi các thế lực xấu. Sự tái đắc cử của ông vào năm 2024 với 312 phiếu đại cử tri được họ xem là câu trả lời trực tiếp cho những lời cầu nguyện tha thiết, củng cố niềm tin rằng ông mang sứ mệnh thần thánh.
+Donald Trump được nhiều tín đồ Cơ-đốc, đặc biệt là người Tin Lành Phúc Âm da trắng và các nhóm như New Apostolic Reformation, coi là sứ giả của Chúa để cứu nước Mỹ và cả thế giới thoát khỏi các thế lực xấu. Sự tái đắc cử của ông vào năm 2024 với 312 phiếu đại cử tri được họ xem là câu trả lời trực tiếp cho những lời cầu nguyện tha thiết, củng cố niềm tin rằng ông mang sứ mệnh thần thánh.
 
 Mục sư Franklin Graham, con trai của nhà truyền giáo thế kỷ Billy Graham, từng nhấn mạnh rằng Thiên Chúa đã bảo vệ Trump qua vụ ám sát năm 2024 để thực hiện sứ mệnh này.
 
-Nhưng từ nhiều dữ liệu thực tế, cụ thể là việc tham dự lễ tái khánh thành Nhà thờ Notre-Dame, chứng minh điều ngược lại. Từ góc nhìn của một Cơ Đốc nhân bảo thủ, sự kiện này không đơn thuần là biểu tượng hòa hợp giữa tôn giáo và chính quyền, giữa Tin Lành và Công giáo. Nó gợi lên mối nghi ngờ rất nghiêm trọng: liệu Trump tham gia sự kiện quan trọng của người Công giáo có đang góp phần vào kế hoạch của Antichrist hay không — một thế lực mà Martin Luther từng thẳng thừng gọi Giáo hoàng là "Antichrist thật sự."
+Nhưng từ nhiều dữ liệu thực tế, cụ thể là việc tham dự lễ tái khánh thành Nhà thờ Notre-Dame, chứng minh điều ngược lại. Từ góc nhìn của một Cơ-đốc nhân bảo thủ, sự kiện này không đơn thuần là biểu tượng hòa hợp giữa tôn giáo và chính quyền, giữa Tin Lành và Công giáo. Nó gợi lên mối nghi ngờ rất nghiêm trọng: liệu Trump tham gia sự kiện quan trọng của người Công giáo có đang góp phần vào kế hoạch của Antichrist hay không — một thế lực mà Martin Luther từng thẳng thừng gọi Giáo hoàng là "Antichrist thật sự."
 
 ## Martin Luther và phong trào Cải cách Tin Lành
 
 Martin Luther là một nhà thần học, một tu sĩ dòng Augustine, và là nhân vật trung tâm của phong trào Cải cách Tin Lành khởi đầu vào ngày 31 tháng 10 năm 1517, khi ông đóng đinh 95 luận đề lên cửa nhà thờ Wittenberg, Đức Quốc, để phản đối các sai lệch của Giáo hội Công giáo — đặc biệt là việc bán bùa ân xá và quyền lực vô lý của Giáo hoàng.
 
-Với niềm tin mãnh liệt rằng sự cứu rỗi chỉ đến từ đức tin (Sola Fide), chỉ dựa trên Kinh Thánh (Sola Scriptura), ông đã thách thức thẩm quyền của Giáo hoàng — người mà ông gọi là "Antichrist thật sự" — làm lung lay nền tảng của Công giáo, dẫn đến sự ra đời của các giáo phái Tin Lành và định hình lịch sử Cơ Đốc giáo bằng sự chia rẽ kéo dài hàng thế kỷ giữa Công giáo và Tin Lành, để lại di sản về sự trung thành với Lời của Đức Chúa Trời vượt trên truyền thống của con người.
+Với niềm tin mãnh liệt rằng sự cứu rỗi chỉ đến từ đức tin (Sola Fide), chỉ dựa trên Kinh Thánh (Sola Scriptura), ông đã thách thức thẩm quyền của Giáo hoàng — người mà ông gọi là "Antichrist thật sự" — làm lung lay nền tảng của Công giáo, dẫn đến sự ra đời của các giáo phái Tin Lành và định hình lịch sử Cơ-đốc giáo bằng sự chia rẽ kéo dài hàng thế kỷ giữa Công giáo và Tin Lành, để lại di sản về sự trung thành với Lời của Đức Chúa Trời vượt trên truyền thống của con người.
 
 ## Lịch sử đàn áp của Giáo hội Công giáo La Mã
 

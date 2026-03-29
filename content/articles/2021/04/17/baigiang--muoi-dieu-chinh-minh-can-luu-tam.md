@@ -3,7 +3,7 @@ title: "Mười Điều Chính Mình Cần Lưu Tâm"
 date: 2021-04-17
 url: /baigiang/muoi-dieu-chinh-minh-can-luu-tam/
 description: "Mục sư Dương Quang Thoại chia sẻ 10 điều quan trọng liên quan đến chính bản thân mỗi Cơ-đốc nhân: giữ lòng mình, nhận ra mình, đóng đinh mình, xét mình, nghiêm khắc với mình, hạ mình, xem người khác hơn mình, nuôi mình, giữ mình và quên mình."
-tags: ["Đời Sống Cơ Đốc", "Tấm Lòng", "Khiêm Nhường", "Tự Xét Mình", "Tăng Trưởng Thuộc Linh"]
+tags: ["Đời Sống Cơ-đốc", "Tấm Lòng", "Khiêm Nhường", "Tự Xét Mình", "Tăng Trưởng Thuộc Linh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["EfM9_KyjaC0"]

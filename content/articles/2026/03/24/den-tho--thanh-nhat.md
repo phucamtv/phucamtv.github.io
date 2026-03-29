@@ -14,7 +14,7 @@ Suy ngẫm về Đền Thánh và kế hoạch cứu rỗi của Đức Chúa Tr
 
 Thi Thiên 77:13 có chép rằng: *"Your way, O God, is in the sanctuary"* — đường lối của Đức Chúa Trời ở trong nơi thánh. Nhưng thực lòng mà nói, mấy ai trong chúng ta dành thời gian để thực sự suy ngẫm điều đó có nghĩa gì?
 
-Giáo lý về đền thờ là một trong những giáo lý quan trọng bậc nhất trong toàn bộ Kinh Thánh, ấy vậy mà thường xuyên bị các Hội Thánh dạy dỗ một cách hời hợt — như thể đó chỉ là bài học lịch sử về một công trình kiến trúc xưa cũ của dân Israel. Chính vì thiếu nền tảng vững chắc này, nhiều Cơ Đốc nhân rất dễ bị lung lay trước các tín lý sai lầm: từ học thuyết bác bỏ Thiên Chúa Ba Ngôi, đến hệ thống cánh chung lạc đường, hay quan điểm cho rằng Đức Chúa Trời có hai chương trình cứu rỗi song song — một dành cho Israel, một dành cho phần còn lại của thế giới.
+Giáo lý về đền thờ là một trong những giáo lý quan trọng bậc nhất trong toàn bộ Kinh Thánh, ấy vậy mà thường xuyên bị các Hội Thánh dạy dỗ một cách hời hợt — như thể đó chỉ là bài học lịch sử về một công trình kiến trúc xưa cũ của dân Israel. Chính vì thiếu nền tảng vững chắc này, nhiều Cơ-đốc nhân rất dễ bị lung lay trước các tín lý sai lầm: từ học thuyết bác bỏ Thiên Chúa Ba Ngôi, đến hệ thống cánh chung lạc đường, hay quan điểm cho rằng Đức Chúa Trời có hai chương trình cứu rỗi song song — một dành cho Israel, một dành cho phần còn lại của thế giới.
 
 Hiểu đúng về đền thánh, chúng ta mới thấy được rằng Đức Chúa Trời đã gói gọn trong đó cả chương trình cứu rỗi dành cho toàn thể nhân loại. Đây không phải là kiến thức thoả mãn tính tò mò — đây là ánh sáng soi rọi vào trung tâm của Phúc Âm.
 
@@ -82,7 +82,7 @@ Tiếng kèn shofar kêu gọi dân sự chuẩn bị cho Ngày Chuộc Tội �
 
 ### 6. Ngày Chuộc Tội (Lê-vi Ký 23:26–32) — Phán xét cuối cùng
 
-Đây là ngày trọng đại nhất trong niên lịch phụng vụ của Israel. Thầy tế lễ thượng phẩm bước vào nơi chí thánh với huyết sinh tế, chuộc tội cho toàn dân. Theo cách hiểu trong thần học Cơ Đốc, đây tượng trưng cho giai đoạn phán xét cuối cùng trong lịch sử cứu rỗi.
+Đây là ngày trọng đại nhất trong niên lịch phụng vụ của Israel. Thầy tế lễ thượng phẩm bước vào nơi chí thánh với huyết sinh tế, chuộc tội cho toàn dân. Theo cách hiểu trong thần học Cơ-đốc, đây tượng trưng cho giai đoạn phán xét cuối cùng trong lịch sử cứu rỗi.
 
 ### 7. Lễ Lều Tạm (Lê-vi Ký 23:33–43) — Niềm vui sau sự cứu chuộc hoàn toàn
 

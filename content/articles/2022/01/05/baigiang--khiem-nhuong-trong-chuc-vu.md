@@ -40,7 +40,7 @@ Phao-lô dùng chữ "sự giàu có không dò được" (hay "sự phong phú 
 
 ## 5. Tự do và giản dị đến gần Đức Chúa Trời
 
-Trong hầu hết các tôn giáo, thần thánh rất khó cho con người đến gần. Nhưng Cơ Đốc giáo cho thấy Đức Chúa Trời đã đến gần chúng ta, và qua Đức Chúa Giê-su, chúng ta có thể đến gần Ngài một cách tự do và giản dị. Hai chữ "tự do" và "giản dị" vô cùng quan trọng -- tự do nghĩa là muốn đến lúc nào thì đến, giản dị là không còn rụt rè e ngại.
+Trong hầu hết các tôn giáo, thần thánh rất khó cho con người đến gần. Nhưng Cơ-đốc giáo cho thấy Đức Chúa Trời đã đến gần chúng ta, và qua Đức Chúa Giê-su, chúng ta có thể đến gần Ngài một cách tự do và giản dị. Hai chữ "tự do" và "giản dị" vô cùng quan trọng -- tự do nghĩa là muốn đến lúc nào thì đến, giản dị là không còn rụt rè e ngại.
 
 Kể từ khi A-đam và Ê-va phạm tội trong vườn Ê-đen, con người bị ngăn cách với Đức Chúa Trời. Nhưng nay qua Chúa Cứu Thế Giê-su, không còn gì ngăn cách nữa. Nếu mối tương giao với Đức Chúa Trời mà thiếu sự tự do và giản dị ấy, đó là mối tương giao chết. Hãy sử dụng đặc quyền này để đến với Ngài qua việc học Lời Chúa, cầu nguyện, lắng nghe Thánh Linh.
 

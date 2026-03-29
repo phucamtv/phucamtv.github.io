@@ -2,8 +2,8 @@
 title: "Vẽ Mặt Khi Mượn Tiền"
 date: 2020-10-09
 url: /baigiang/ve-mat-khi-muon-tien/
-description: "Bài học về lòng trung thành và sự thủy chung trong đời sống Cơ Đốc nhân qua câu chuyện vẽ mặt khi mượn tiền, suy ngẫm từ Giê-rê-mi 17:9-10."
-tags: ["Chắp Cánh Bay Cao", "Lòng Trung Thành", "Sự Thủy Chung", "Đời Sống Cơ Đốc", "Giê-rê-mi"]
+description: "Bài học về lòng trung thành và sự thủy chung trong đời sống Cơ-đốc nhân qua câu chuyện vẽ mặt khi mượn tiền, suy ngẫm từ Giê-rê-mi 17:9-10."
+tags: ["Chắp Cánh Bay Cao", "Lòng Trung Thành", "Sự Thủy Chung", "Đời Sống Cơ-đốc", "Giê-rê-mi"]
 authors:
   - duong-quang-thoai
 plugins:
@@ -33,9 +33,9 @@ Một câu danh ngôn rất nổi tiếng nói rằng khi ta cho một người 
 
 Trong các mối quan hệ cộng đồng, chúng ta nên cố gắng tránh tối đa những giao dịch tài chính có nguy cơ làm xấu đi sự thân thiết và tình cảm vốn có. Tiền bạc là thứ rất dễ gây chia rẽ và hiềm khích giữa con người với nhau, cho nên cần phải hết sức cẩn trọng trong vấn đề này.
 
-## Cơ Đốc Nhân Cần Sống Trung Thành Và Thủy Chung
+## Cơ-đốc Nhân Cần Sống Trung Thành Và Thủy Chung
 
-Cho dù hoàn cảnh có đổi thay thế nào đi nữa, người Cơ Đốc nhân cũng phải nhờ cậy nơi Chúa để sống một cách trung thành và thủy chung. Đừng để tâm hồn mình bị biến dạng bởi những đảo điên trong đời sống. Sự trung tín không chỉ thể hiện trong mối quan hệ với Đức Chúa Trời mà còn phải được bày tỏ trong cách chúng ta đối xử với người xung quanh.
+Cho dù hoàn cảnh có đổi thay thế nào đi nữa, người Cơ-đốc nhân cũng phải nhờ cậy nơi Chúa để sống một cách trung thành và thủy chung. Đừng để tâm hồn mình bị biến dạng bởi những đảo điên trong đời sống. Sự trung tín không chỉ thể hiện trong mối quan hệ với Đức Chúa Trời mà còn phải được bày tỏ trong cách chúng ta đối xử với người xung quanh.
 
 Khi nhận ơn ai, hãy luôn ghi nhớ và biết ơn. Khi đã hứa điều gì, hãy giữ lời cho trọn. Khi mượn của ai điều gì, hãy lo hoàn trả đúng hẹn. Đó là cách sống xứng đáng với danh xưng con cái Đức Chúa Trời. Đức tin không chỉ thể hiện trong nhà thờ mà phải được sống ra trong mọi khía cạnh của cuộc đời, kể cả trong chuyện tiền bạc và các mối quan hệ xã hội.
 

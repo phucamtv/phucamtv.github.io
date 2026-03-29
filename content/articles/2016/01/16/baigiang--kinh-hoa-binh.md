@@ -14,7 +14,7 @@ draft: false
 
 ## Kinh Hòa Bình — Bài Học Từ Một Lời Cầu Nguyện
 
-Kinh Hòa Bình là một bài kinh nguyện nổi tiếng trong cộng đồng Công giáo, được cho là của Thánh Francisco thành Assisi sống vào thế kỷ thứ 13. Dù xuất phát từ truyền thống Công giáo, nội dung bài kinh này chứa đựng những bài học tâm linh quý giá mà mọi Cơ Đốc nhân đều có thể học hỏi. Bài kinh trở nên phổ biến rộng rãi sau khi được linh mục Kim Long phổ nhạc theo lời dịch của giám mục Nguyễn Kim Điền.
+Kinh Hòa Bình là một bài kinh nguyện nổi tiếng trong cộng đồng Công giáo, được cho là của Thánh Francisco thành Assisi sống vào thế kỷ thứ 13. Dù xuất phát từ truyền thống Công giáo, nội dung bài kinh này chứa đựng những bài học tâm linh quý giá mà mọi Cơ-đốc nhân đều có thể học hỏi. Bài kinh trở nên phổ biến rộng rãi sau khi được linh mục Kim Long phổ nhạc theo lời dịch của giám mục Nguyễn Kim Điền.
 
 Lời kinh mở đầu bằng lời khẩn cầu: xin cho con biết mến yêu và phụng sự Chúa trong mọi người. Đây chính là phương châm sống đã được nêu rõ trong Mười Điều Răn — kính Chúa và yêu người. Nếu thật sự sống bằng lòng yêu mến, không có điều gì có thể gây ra ghen ghét, bất hòa hay chia rẽ giữa chúng ta.
 

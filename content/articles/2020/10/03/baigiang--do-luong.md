@@ -2,7 +2,7 @@
 title: "Độ Lượng | Châm Ngôn 20:28"
 date: 2020-10-03
 url: /baigiang/do-luong/
-description: "Qua câu chuyện vua Sở Trang Vương và sự bao dung với người lỡ lầm, Mục sư Dương Quang Thoại nhấn mạnh rằng lòng độ lượng không chỉ nâng cao phẩm giá con người mà còn là nét đẹp của đời sống Cơ Đốc nhân theo gương Chúa."
+description: "Qua câu chuyện vua Sở Trang Vương và sự bao dung với người lỡ lầm, Mục sư Dương Quang Thoại nhấn mạnh rằng lòng độ lượng không chỉ nâng cao phẩm giá con người mà còn là nét đẹp của đời sống Cơ-đốc nhân theo gương Chúa."
 tags: ["Độ Lượng", "Bao Dung", "Khoan Dung", "Châm Ngôn", "Chắp Cánh Bay Cao"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -50,6 +50,6 @@ Kinh Thánh viết trong Châm Ngôn 20:28: *"Sự nhân từ và chân thật b
 
 Lòng nhân từ không chỉ là đức tính tốt đẹp theo nghĩa đạo đức thế gian — đó còn là nền tảng vững chắc giữ gìn quyền bính và địa vị. Vua Sở Trang Vương đã chứng minh điều đó bằng chính lịch sử nước mình.
 
-Với Cơ Đốc nhân, lý do để sống độ lượng còn sâu xa hơn. Chúng ta đã nhận được ân điển vô bờ từ Đấng không chỉ tha thứ lỡ lầm mà còn gánh tội thay. Từ ân điển đó, mỗi người được mời gọi sống bao dung với nhau — không giữ lòng thù hận, không tìm cách trả thù hay vạch trần lỗi lầm của người khác, nhưng biết che phủ tội lỗi trong tình yêu thương.
+Với Cơ-đốc nhân, lý do để sống độ lượng còn sâu xa hơn. Chúng ta đã nhận được ân điển vô bờ từ Đấng không chỉ tha thứ lỡ lầm mà còn gánh tội thay. Từ ân điển đó, mỗi người được mời gọi sống bao dung với nhau — không giữ lòng thù hận, không tìm cách trả thù hay vạch trần lỗi lầm của người khác, nhưng biết che phủ tội lỗi trong tình yêu thương.
 
 Độ lượng không phải là thiên bẩm của một vài người đặc biệt. Đó là hoa quả tự nhiên của người đã thật sự trải nghiệm ân sủng. Khi hiểu rằng mình đã được tha thứ nhiều, chúng ta sẽ tự nhiên sống bao dung hơn với những người xung quanh.

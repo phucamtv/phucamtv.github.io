@@ -17,7 +17,7 @@ part_of_series: false
 
 Khẩu hiệu "America First" (Nước Mỹ trên hết) cùng với "Make America Great Again" đã trở thành kim chỉ nam cho toàn bộ chiến dịch và đường lối lãnh đạo của Tổng thống Donald Trump. Tinh thần xuyên suốt trong mọi việc ông làm là đặt nước Mỹ lên trên hết --- trên mọi quốc gia, mọi mối quan hệ đồng minh, và mọi thỏa thuận quốc tế.
 
-Điều đáng chú ý là rất nhiều mục sư, linh mục, và tín đồ Cơ Đốc đã ủng hộ nhân vật này một cách nhiệt thành. Thậm chí có những người nổi tiếng còn cho rằng Donald Trump là "người được Chúa chọn", là "tôi tớ của Đức Chúa Trời được sai phái đến". Nhưng khi đối chiếu với Thánh Kinh, quan điểm "America First" có thật sự phù hợp với lời Chúa dạy hay không?
+Điều đáng chú ý là rất nhiều mục sư, linh mục, và tín đồ Cơ-đốc đã ủng hộ nhân vật này một cách nhiệt thành. Thậm chí có những người nổi tiếng còn cho rằng Donald Trump là "người được Chúa chọn", là "tôi tớ của Đức Chúa Trời được sai phái đến". Nhưng khi đối chiếu với Thánh Kinh, quan điểm "America First" có thật sự phù hợp với lời Chúa dạy hay không?
 
 ## Điều Răn Thứ Nhất: Trước mặt ta, ngươi chớ có các thần khác
 
@@ -80,4 +80,4 @@ Trong một thế giới mà nhiều người yêu mến Donald Trump và đồn
 
 Câu trả lời từ Điều Răn Thứ Nhất rất rõ ràng: **"Trước hết hãy tìm kiếm nước Đức Chúa Trời."** Chúng ta phải yêu mến Chúa, kính mến Chúa trên hết mọi sự. Chúa phán: "Trước mặt ta, ngươi chớ có các thần khác" --- chứ không phải "trước mặt ta, America là first."
 
-"America First" không phải là tinh thần đúng đắn, không phải là động cơ đúng đắn của một người được gọi là tôi tớ của Đức Chúa Trời. Là Cơ Đốc nhân trong những ngày chờ Chúa trở lại, chúng ta không có cách nào khác ngoài việc dựa vào lời Chúa, dựa vào điều răn và luật pháp của Thiên Chúa để phân biệt đúng sai trong thời cuộc hôm nay.
+"America First" không phải là tinh thần đúng đắn, không phải là động cơ đúng đắn của một người được gọi là tôi tớ của Đức Chúa Trời. Là Cơ-đốc nhân trong những ngày chờ Chúa trở lại, chúng ta không có cách nào khác ngoài việc dựa vào lời Chúa, dựa vào điều răn và luật pháp của Thiên Chúa để phân biệt đúng sai trong thời cuộc hôm nay.

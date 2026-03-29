@@ -3,7 +3,7 @@ title: "Hãy Làm Cho Cuộc Sống Tốt Đẹp Hơn | Ma-thi-ơ 21:19"
 date: 2016-07-23
 url: /baigiang/hay-lam-cho-cuoc-song-tot-dep-hon/
 description: "Bài giảng của Mục sư Dương Quang Thoại từ Ma-thi-ơ 21:19 về bài học từ cây vả không ra trái — kêu gọi Cơ-Đốc nhân sống hữu ích, đem lợi ích thật sự cho người chung quanh, thay vì chỉ có bề ngoài mà thiếu kết quả."
-tags: ["Ma-thi-ơ", "Cây Vả", "Kết Quả", "Đời Sống Cơ Đốc", "Phục Vụ", "Thay Đổi", "Hữu Ích"]
+tags: ["Ma-thi-ơ", "Cây Vả", "Kết Quả", "Đời Sống Cơ-đốc", "Phục Vụ", "Thay Đổi", "Hữu Ích"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
 youtubeIDs: ["5s2DzvOcxG4"]

@@ -48,7 +48,7 @@ Nó dùng rất nhiều cách: công việc, lo lắng, giải trí, những hì
 
 Các nhà thông thái đã đi đường khác để về xứ mình — không quay lại Giê-ru-sa-lem vì đó là cạm bẫy của Hê-rốt. Con đường mới họ phải đi có thể xa hơn, khó khăn hơn, phải băng rừng lội suối — nhưng đó là con đường sống.
 
-Đây là hình ảnh của mỗi người khi trở thành Cơ Đốc nhân. Lễ báp-têm tượng trưng cho việc chúng ta chết đi với con người cũ và bước đi trong một cuộc đời mới. Nhưng con đường mới đó đòi hỏi một sự thay đổi thật sự và toàn diện: từ cách nói năng, cách đi đứng, cách ăn mặc, những thói quen cũ, những ước vọng cũ — tất cả cần được xem xét lại trong ánh sáng của đời sống mới trong Chúa.
+Đây là hình ảnh của mỗi người khi trở thành Cơ-đốc nhân. Lễ báp-têm tượng trưng cho việc chúng ta chết đi với con người cũ và bước đi trong một cuộc đời mới. Nhưng con đường mới đó đòi hỏi một sự thay đổi thật sự và toàn diện: từ cách nói năng, cách đi đứng, cách ăn mặc, những thói quen cũ, những ước vọng cũ — tất cả cần được xem xét lại trong ánh sáng của đời sống mới trong Chúa.
 
 Ê-phê-sô 2:1-2 nhắc nhở: *"Còn anh em đã chết vì lầm lỗi và tội ác mình, đều là những sự anh em xưa đã học đòi theo thói quen đời này."* Thói quen vốn khó bỏ. Người ta nói cần khoảng 21-30 ngày lặp đi lặp lại liên tục mới có thể thay đổi một thói quen đơn giản. Huống chi là những tập quán, lối sống và ước vọng đã ăn sâu trong nhiều năm.
 

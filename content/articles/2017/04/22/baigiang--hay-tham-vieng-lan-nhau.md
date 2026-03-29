@@ -2,7 +2,7 @@
 title: "Hãy Thăm Viếng Lẫn Nhau"
 date: 2017-04-22
 url: /baigiang/hay-tham-vieng-lan-nhau/
-description: "Bài giảng về tầm quan trọng của sự thăm viếng lẫn nhau trong đời sống Cơ Đốc nhân, từ câu chuyện Ma-ri thăm Ê-li-sa-bét đến trách nhiệm chăm sóc anh em trong Hội Thánh."
+description: "Bài giảng về tầm quan trọng của sự thăm viếng lẫn nhau trong đời sống Cơ-đốc nhân, từ câu chuyện Ma-ri thăm Ê-li-sa-bét đến trách nhiệm chăm sóc anh em trong Hội Thánh."
 tags: ["Thăm Viếng", "Chăm Sóc", "Hội Thánh", "Tình Yêu Thương", "Trách Nhiệm"]
 authors:
   - duong-quang-thoai

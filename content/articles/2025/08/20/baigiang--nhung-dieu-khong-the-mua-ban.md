@@ -32,7 +32,7 @@ Phi-e-rơ đáp trả Si-môn bằng ba lời quở trách nghiêm khắc. Thứ
 
 Ngày nay, dù không ai công khai đem tiền mua ân tứ Thánh Linh như Si-môn, nhưng tâm lý dâng cúng để được phù hộ, được bình an, được thoát nạn vẫn rất phổ biến trong nhiều tôn giáo. Người ta xây dựng những nơi thờ tự uy nghi, tốn kém, bởi vì tín đồ tin rằng dâng cúng càng nhiều thì càng được phước.
 
-Cơ Đốc giáo hoàn toàn khác biệt. Việc dâng hiến cho Đức Chúa Trời dựa trên bốn nền tảng: nhận biết tất cả những gì mình có đều thuộc về Chúa; biết ơn vì Ngài ban cho sức lực, sự khôn ngoan và cơ hội; bày tỏ lòng biết ơn qua hành động cụ thể; và quan tâm đến sự phát triển của nước Chúa. Dâng hiến không phải là giao dịch mua bán với Đấng Tối Cao.
+Cơ-đốc giáo hoàn toàn khác biệt. Việc dâng hiến cho Đức Chúa Trời dựa trên bốn nền tảng: nhận biết tất cả những gì mình có đều thuộc về Chúa; biết ơn vì Ngài ban cho sức lực, sự khôn ngoan và cơ hội; bày tỏ lòng biết ơn qua hành động cụ thể; và quan tâm đến sự phát triển của nước Chúa. Dâng hiến không phải là giao dịch mua bán với Đấng Tối Cao.
 
 Có một câu nói sâu sắc rằng giảng đạo là chia sẻ chân lý xuyên qua nhân cách. Điều này có nghĩa khi nói về Chúa, người giảng không thể tách rời lời nói khỏi đời sống mình. Phẩm hạnh, đức hạnh — những điều không tiền bạc nào mua được — phải được rèn luyện qua sự biến đổi của Đức Thánh Linh, gắn liền với đời sống hằng ngày chứ không phải chỉ là cảm xúc nhất thời trong một buổi nhóm.
 

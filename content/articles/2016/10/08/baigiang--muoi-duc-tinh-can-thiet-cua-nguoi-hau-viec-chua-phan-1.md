@@ -52,7 +52,7 @@ Công việc chính của người hầu việc Chúa là đưa người khác �
 
 ## 5. Cư Xử Lịch Sự
 
-Văn hóa khác với trình độ học vấn. Một người có thể có bằng cấp cao nhưng không có văn hóa trong cách cư xử. Ngược lại, người hầu việc Chúa dù thất học, nghèo khổ, nhưng nếu cách cư xử lịch sự, sẽ làm cho người ta phải cúi đầu kính phục. Cơ Đốc nhân là người đại diện của Chúa Cứu Thế — nếu ăn nói tục tĩu, hách dịch, kiêu kỳ, thì làm sao xứng đáng với danh xưng ấy?
+Văn hóa khác với trình độ học vấn. Một người có thể có bằng cấp cao nhưng không có văn hóa trong cách cư xử. Ngược lại, người hầu việc Chúa dù thất học, nghèo khổ, nhưng nếu cách cư xử lịch sự, sẽ làm cho người ta phải cúi đầu kính phục. Cơ-đốc nhân là người đại diện của Chúa Cứu Thế — nếu ăn nói tục tĩu, hách dịch, kiêu kỳ, thì làm sao xứng đáng với danh xưng ấy?
 
 Ê-tiên, trước khi bị ném đá chết, vẫn nói với những kẻ bắt bớ mình rằng: "Thưa các anh, thưa các cha" — lễ độ vô cùng ngay trong giây phút sinh tử (Công Vụ 7:2). Đức Chúa Giê-su, khi Giu-đa đến hôn Ngài để phản bội, vẫn gọi Giu-đa là "bạn ơi" (Ma-thi-ơ 26:50). Ngay cả trong giây phút khủng khiếp nhất, Chúa vẫn giữ sự lịch sự. Đây là tấm gương cho mọi người hầu việc Chúa: phải lịch sự trong cách ăn nói, đi đứng, giao tiếp — nói như đang giảng, chứ đừng giảng như đang nói.
 
