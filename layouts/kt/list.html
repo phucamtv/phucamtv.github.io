@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{- $books := sort (where .Site.Pages "Layout" "kt-book") "Weight" -}}
+{{- $otBooks := where $books "Params.testament" "old" -}}
+{{- $ntBooks := where $books "Params.testament" "new" -}}
+<div class="kt-index">
+  <h1 class="kt-title">{{ .Title }}</h1>
+  <div class="kt-columns">
+
+    <div class="kt-section">
+      <h2 class="kt-testament">Cựu Ước</h2>
+      {{- $currentGroup := "" -}}
+      {{- range $otBooks -}}
+        {{- if ne .Params.group $currentGroup -}}
+          {{- if ne $currentGroup "" }}</div>{{ end }}
+          {{- $currentGroup = .Params.group }}
+      <h3 class="kt-group-title">{{ .Params.group }} <span class="kt-group-title-en">({{ .Params.groupEn }})</span></h3>
+      <div class="kt-group">
+        {{- end }}
+        <div class="kt-book">
+          <a class="kt-book-name" href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ with .Description }}<span class="kt-book-desc">{{ . }}</span>{{ end }}
+        </div>
+      {{- end }}
+      {{- if ne $currentGroup "" }}</div>{{ end }}
+    </div>
+
+    <div class="kt-section">
+      <h2 class="kt-testament">Tân Ước</h2>
+      {{- $currentGroup = "" -}}
+      {{- range $ntBooks -}}
+        {{- if ne .Params.group $currentGroup -}}
+          {{- if ne $currentGroup "" }}</div>{{ end }}
+          {{- $currentGroup = .Params.group }}
+      <h3 class="kt-group-title">{{ .Params.group }} <span class="kt-group-title-en">({{ .Params.groupEn }})</span></h3>
+      <div class="kt-group">
+        {{- end }}
+        <div class="kt-book">
+          <a class="kt-book-name" href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ with .Description }}<span class="kt-book-desc">{{ . }}</span>{{ end }}
+        </div>
+      {{- end }}
+      {{- if ne $currentGroup "" }}</div>{{ end }}
+    </div>
+
+  </div>
+</div>
+{{ end }}

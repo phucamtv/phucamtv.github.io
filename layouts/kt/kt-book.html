@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="kt-single">
+  <div class="breadcrumb">
+    <a href="/kt/">Kinh Thánh</a>
+    <span class="breadcrumb-sep">›</span>
+    {{ if eq .Params.testament "old" }}Cựu Ước{{ else }}Tân Ước{{ end }}
+    <span class="breadcrumb-sep">›</span>
+    {{ .Params.group }}
+  </div>
+  <h1>{{ .Title }} <span class="kt-single-en">{{ .Params.titleEn }}</span></h1>
+  <p class="kt-single-short">{{ .Description }}</p>
+  <div class="kt-single-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

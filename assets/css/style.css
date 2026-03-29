@@ -1361,3 +1361,126 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
+/* ===== Bible Index (/kt) ===== */
+
+.kt-index {
+  max-width: 100%;
+}
+
+.kt-title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #3d3529;
+  margin-bottom: 1rem;
+}
+
+.kt-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+}
+
+.kt-testament {
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #3d3529;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #d4c9b8;
+}
+
+.kt-group-title {
+  text-align: center;
+  font-size: 0.88rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #5c5347;
+  margin: 1.5rem 0 0.75rem;
+}
+
+.kt-group-title-en {
+  font-weight: 400;
+  font-size: 0.82rem;
+  color: #8a7f72;
+}
+
+.kt-group-title:first-of-type {
+  margin-top: 0;
+}
+
+.kt-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.kt-book {
+  padding: 0.35rem 0;
+  font-size: 0.92rem;
+  color: #3d3529;
+}
+
+.kt-book-name {
+  font-weight: 600;
+  color: #3d3529;
+  text-decoration: none;
+}
+
+.kt-book-name:hover {
+  color: #5c5347;
+  text-decoration: underline;
+}
+
+.kt-book-desc {
+  display: block;
+  font-size: 0.8rem;
+  color: #8a7f72;
+  line-height: 1.4;
+  font-weight: 400;
+}
+
+/* Bible book single page */
+.kt-single {
+  max-width: 750px;
+}
+
+.kt-single h1 {
+  margin-bottom: 0.75rem;
+}
+
+.kt-single-en {
+  font-weight: 400;
+  font-size: 0.7em;
+  color: #8a7f72;
+}
+
+.kt-single-short {
+  font-size: 1.05rem;
+  color: #5c5347;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e2dacf;
+}
+
+.kt-single-body {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #3d3529;
+}
+
+@media (max-width: 700px) {
+  .kt-columns {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .kt-title {
+    font-size: 1.5rem;
+  }
+}

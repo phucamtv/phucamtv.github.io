@@ -13,6 +13,7 @@ removePathAccents = true
   [permalinks.page]
     articles = "/:sections/:slug/"
     doctrines = "/tin-ly/:slug/"
+    kt = "/kt/:slug/"
 
 [markup]
   [markup.goldmark]
