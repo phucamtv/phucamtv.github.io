@@ -32,6 +32,7 @@ body {
   max-width: 1100px;
   margin: 0 auto;
   padding: 0 1rem;
+  overflow-x: hidden;
 }
 
 header {
@@ -1489,7 +1490,7 @@ footer {
 
 /* Bible book single page */
 .kt-single {
-  max-width: 750px;
+  max-width: 100%;
 }
 
 .kt-single h1 {
