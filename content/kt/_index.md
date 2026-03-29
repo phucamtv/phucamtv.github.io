@@ -1,5 +1,6 @@
 ---
-title: "Kinh Thánh Tiếng Việt 1925"
-description: "Mục lục Kinh Thánh Tiếng Việt bản dịch 1925 – Cựu Ước và Tân Ước"
+title: "Kinh Thánh Tiếng Việt"
+description: "Mục lục Kinh Thánh Tiếng Việt – Cựu Ước và Tân Ước"
 layout: kt
+verse: "Người ta sống chẳng phải chỉ nhờ bánh, nhưng cũng nhờ mọi lời nói ra từ miệng Đức Chúa Trời. (Ma-thi-ơ 4:4)"
 ---

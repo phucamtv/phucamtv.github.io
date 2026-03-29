@@ -4,6 +4,7 @@
 {{- $ntBooks := where $books "Params.testament" "new" -}}
 <div class="kt-index">
   <h1 class="kt-title">{{ .Title }}</h1>
+  {{ with .Params.verse }}<p class="kt-verse">{{ . }}</p>{{ end }}
   <div class="kt-columns">
 
     <div class="kt-section">
