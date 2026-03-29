@@ -30,7 +30,7 @@ Sự tạ ơn không chỉ dừng lại ở lời nói mà còn thể hiện qua
 
 ## Lời Cầu Nguyện Đầu Năm
 
-Lời cầu nguyện đầu năm mang một ý nghĩa đặc biệt. Mục sư đã dẫn dắt hội thánh trong lời cầu nguyện, dâng trọn hội thánh, các gia đình, và những người thân lên cho Chúa. Lời cầu xin Chúa chúc phước, chăm gìn, và bảo vệ trong một năm mới vang lên từ tấm lòng thành kính.
+Lời cầu nguyện đầu năm mang một ý nghĩa đặc biệt. Mục sư đã dẫn dắt hội thánh trong lời cầu nguyện, dâng trọn hội thánh, các gia đình, và những người thân lên cho Chúa. Lời cầu xin Chúa ban phước, chăm gìn, và bảo vệ trong một năm mới vang lên từ tấm lòng thành kính.
 
 Đặc biệt, các bậc trung niên và cao niên trong hội thánh đã được tôn vinh và cầu nguyện cho sức khỏe, sự bình an, và niềm vui cho đến ngày Chúa trở lại. Hội thánh cũng dâng các cháu nhỏ lên cho Chúa, cầu xin Ngài ban phước và hướng dẫn thế hệ tương lai trong đường lối của Ngài. Đây là hình ảnh đẹp của một cộng đồng đức tin, nơi mọi thế hệ cùng hiệp một trong sự thờ phượng.
 

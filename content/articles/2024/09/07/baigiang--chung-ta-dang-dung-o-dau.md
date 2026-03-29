@@ -24,7 +24,7 @@ Câu chuyện nghệ sĩ vĩ cầm Joshua Bell đứng đàn tại ga tàu đi�
 
 **Xuất Ê-díp-tô Ký 32:25-26** kể lại khoảnh khắc Môi-se trở xuống núi, thấy dân sự thờ bò vàng, ông đứng nơi cửa trại quân và kêu gọi: "Ai thuộc về Đức Giê-hô-va, hãy đến cùng ta đây!" Người Lê-vi bước qua, nhưng nhiều người vì tự ái, cố chấp hay mặc cảm đã không chịu dời chỗ đứng — và 3.000 người đã phải trả giá bằng mạng sống. Chỗ đứng đòi hỏi sự suy nghĩ, niềm tin và quyết định dứt khoát.
 
-Câu chuyện Ba-la-am trong **Dân-số Ký 23-24** cho thấy một bài học khác: Ba-lác ba lần thay đổi đỉnh núi để Ba-la-am rủa sả dân Israel, nhưng lần nào miệng Ba-la-am cũng thốt ra lời chúc phước. Ba-lác tưởng thay đổi chỗ đứng có thể thay đổi kết quả, nhưng quyền năng chúc phước hay rủa sả không nằm ở vị trí địa lý — mà thuộc về Đức Chúa Trời.
+Câu chuyện Ba-la-am trong **Dân-số Ký 23-24** cho thấy một bài học khác: Ba-lác ba lần thay đổi đỉnh núi để Ba-la-am rủa sả dân Israel, nhưng lần nào miệng Ba-la-am cũng thốt ra lời chúc phước. Ba-lác tưởng thay đổi chỗ đứng có thể thay đổi kết quả, nhưng quyền năng ban phước hay rủa sả không nằm ở vị trí địa lý — mà thuộc về Đức Chúa Trời.
 
 ---
 
