@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="canonical" href="{{ .Params.redirect_to | absURL }}">
+  <meta http-equiv="refresh" content="0; url={{ .Params.redirect_to | absURL }}">
+</head>
+<body>
+  <p>Redirecting to <a href="{{ .Params.redirect_to | absURL }}">{{ .Params.redirect_to | absURL }}</a></p>
+</body>
+</html>
