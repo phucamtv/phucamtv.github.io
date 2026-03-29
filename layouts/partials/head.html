@@ -6,6 +6,7 @@
 {{ if eq .Section "authors" }}<meta name="robots" content="noindex, nofollow">{{ end }}
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $description }}">
+{{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
 <link rel="canonical" href="{{ $canonicalURL }}">
 
 {{/* Open Graph */}}
@@ -47,7 +48,13 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": {{ .Site.Title | jsonify }},
-  "url": {{ .Site.BaseURL | jsonify }}
+  "description": {{ $description | jsonify }},
+  "url": {{ .Site.BaseURL | jsonify }},
+  "inLanguage": "vi",
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ .Site.Title | jsonify }}
+  }
 }
 </script>
 {{ end }}

@@ -6,7 +6,8 @@ removePathAccents = true
   pagerSize = 20
 
 [params]
-  description = "Phúc Âm TV"
+  description = "Phúc Âm TV – Chia sẻ Phúc Âm, lẽ thật Kinh Thánh, tín lý và giáo lý Kinh Thánh, giải thích các lời tiên tri cho người Việt Nam."
+  keywords = "Phúc Âm, Kinh Thánh, tín lý, giáo lý, lời tiên tri, Tin Lành, đức tin, Chúa Giê-su, người Việt"
 
 [permalinks]
   [permalinks.page]
