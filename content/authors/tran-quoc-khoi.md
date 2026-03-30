@@ -4,5 +4,5 @@ slug: tran-quoc-khoi
 email: ""
 phone: ""
 country: ""
-avatar: ""
+avatar: "tran-quoc-khoi.webp"
 ---
