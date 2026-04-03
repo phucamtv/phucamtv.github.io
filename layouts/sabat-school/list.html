@@ -1,0 +1,35 @@
+{{ define "main" }}
+<section class="ss-list">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{/*
+    Structure: /sabat-school/ → year/ → quarter/ → lesson/
+    Top-level .Sections = years
+    year.Sections = quarters
+    quarter.Sections = lessons (with layout: lesson)
+  */}}
+
+  {{ range .Sections }}
+    {{/* Year level */}}
+    {{ range .Sections }}
+      {{/* Quarter level */}}
+      <h2 class="ss-quarter-title">{{ .Title }}</h2>
+      {{ .Content }}
+      <div class="ss-lesson-list">
+        {{ range .Sections.ByWeight }}
+        <a href="{{ .Permalink }}" class="ss-lesson-card">
+          {{ with .Params.lesson }}
+          <span class="ss-lesson-num">{{ printf "%02d" . }}</span>
+          {{ end }}
+          <span class="ss-lesson-info">
+            <span class="ss-lesson-card-title">{{ .Title }}</span>
+            {{ with .Params.dateRange }}<span class="ss-lesson-date">{{ . }}</span>{{ end }}
+          </span>
+        </a>
+        {{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
+</section>
+{{ end }}
