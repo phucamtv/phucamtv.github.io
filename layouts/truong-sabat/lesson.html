@@ -1,0 +1,46 @@
+{{ define "main" }}
+<div class="ss-page">
+  <nav class="breadcrumb">
+    <a href="{{ "/truong-sabat/" | relURL }}">Trường Sa-bát</a>
+    <span class="breadcrumb-sep">›</span>
+    {{ with .Parent }}
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="breadcrumb-sep">›</span>
+    {{ end }}
+    <span>Bài {{ .Params.lesson }}</span>
+  </nav>
+  <div class="ss-header">
+    <div class="ss-header-inner">
+      <div class="ss-lesson-label">Bài Học {{ .Params.lesson }}, {{ .Params.dateRange }}</div>
+      <h1 class="ss-title">{{ .Title }}</h1>
+      {{ with .Params.scriptures }}
+      <div class="ss-scripture">
+        <strong>Kinh Thánh Nghiên Cứu:</strong> {{ . }}
+      </div>
+      {{ end }}
+      {{ with .Params.memoryVerse }}
+      <div class="ss-verse">
+        <strong>Câu Gốc:</strong> {{ . }}{{ with $.Params.memoryVerseRef }} ({{ . }}){{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="ss-content">
+    {{ .Content }}
+
+    {{ $days := .Pages.ByWeight }}
+    {{ range $days }}
+    <details class="ss-accordion">
+      <summary class="ss-accordion-summary">
+        <span class="ss-accordion-chevron" aria-hidden="true"></span>
+        <span>{{ .Params.dayLabel }} - {{ if eq .Params.dayLabel "Thứ Sáu" }}<strong>{{ upper .Title }}</strong>{{ else }}"{{ .Title }}"{{ end }}</span>
+      </summary>
+      <div class="ss-day-content content">
+        {{ .Content }}
+      </div>
+    </details>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

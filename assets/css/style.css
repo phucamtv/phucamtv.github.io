@@ -81,6 +81,7 @@ header .site-title:hover {
 
 .nav-links {
   display: flex;
+  align-items: center;
   gap: 1.5rem;
 }
 
@@ -111,6 +112,79 @@ header .site-title:hover {
 
 .nav-links a:hover::after {
   width: 100%;
+}
+
+.nav-dropdown {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.nav-dropdown > a {
+  cursor: pointer;
+}
+
+.nav-dropdown-icon {
+  font-size: 0.65em;
+  opacity: 0.5;
+  margin-left: 0.15rem;
+  vertical-align: 0.05em;
+}
+
+.nav-dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  padding-top: 0.6rem;
+  min-width: max-content;
+  z-index: 100;
+}
+
+.nav-dropdown-menu {
+  background: #fff;
+  border: 1px solid #e2dacf;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  overflow: hidden;
+}
+
+.nav-dropdown-menu a {
+  display: block;
+  padding: 0.45rem 1rem;
+  font-size: 0.82rem;
+  white-space: nowrap;
+}
+
+.nav-dropdown-menu a + a {
+  border-top: 1px solid #f0ece3;
+}
+
+.nav-dropdown-title {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #3d3529;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.nav-dropdown-desc {
+  display: block;
+  font-size: 0.75rem;
+  color: #8a7f72;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  margin-top: 0.1rem;
+}
+
+.nav-dropdown-menu a::after {
+  display: none;
+}
+
+.nav-dropdown:hover .nav-dropdown-menu {
+  display: block;
 }
 
 h1, h2, h3 { line-height: 1.3; margin-bottom: 0.5rem; }
@@ -1637,6 +1711,22 @@ footer {
   color: #3d3529;
   font-size: 0.98rem;
   line-height: 1.75;
+}
+
+.ss-day-content code {
+  font-family: inherit;
+  font-size: 0.92rem;
+  font-style: italic;
+  display: block;
+  background: linear-gradient(135deg, #f5f0e8 0%, #ede6da 100%);
+  border-left: 3px solid #8a7f72;
+  border-radius: 0 6px 6px 0;
+  padding: 0.85rem 1.1rem;
+  margin: 1.25rem 0;
+  color: #5c5347;
+  line-height: 1.7;
+  position: relative;
+  box-shadow: 0 1px 3px rgba(61, 53, 41, 0.06);
 }
 
 /* ── Sabbath School List ── */

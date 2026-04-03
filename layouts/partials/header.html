@@ -6,10 +6,20 @@
         {{ .Site.Title }}
       </a>
       <div class="nav-links">
-        <a href="{{ "/kt/" | relURL }}">Kinh Thánh</a>
-        <a href="{{ "/tin-ly/" | relURL }}">Tín Lý</a>
-        <a href="{{ "/sabat-school/" | relURL }}">Trường Sa-bát</a>
         <a href="{{ "tags/" | relURL }}">Chủ đề</a>
+        <div class="nav-dropdown">
+          <a href="{{ "/kt/" | relURL }}">Kinh Thánh <span class="nav-dropdown-icon" aria-hidden="true">&#9662;</span></a>
+          <div class="nav-dropdown-menu">
+            <a href="{{ "/tin-ly/" | relURL }}">
+              <span class="nav-dropdown-title">Tín Lý</span>
+              <span class="nav-dropdown-desc">28 tín lý căn bản</span>
+            </a>
+            <a href="{{ "/truong-sabat/" | relURL }}">
+              <span class="nav-dropdown-title">Trường Sa-bát</span>
+              <span class="nav-dropdown-desc">Bài học hàng tuần</span>
+            </a>
+          </div>
+        </div>
       </div>
     </nav>
   </div>
