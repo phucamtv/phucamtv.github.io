@@ -3,7 +3,7 @@ title: "Chúa Muốn Chúng Ta Giàu Có"
 date: 2024-12-01
 url: /baigiang/chua-muon-chung-ta-giau-co/
 description: "Trưởng lão Trần Vinh Hải giảng giải về ý muốn của Đức Chúa Trời cho sự giàu có chân chính của con cái Ngài — giàu có bằng lao động chuyên cần, quản lý khôn ngoan, dâng phần mười trung tín, và sống lương thiện theo lời dạy của Kinh Thánh."
-tags: ["Giàu Có", "Tài Chính", "Phần Mười", "Ma-thi-ơ", "Thi Thiên", "Giu-sép", "Đức Tin"]
+tags: ["Giàu Có", "Tài Chính", "Phần Mười", "Ma-thi-ơ", "Thi Thiên", "Giô-sép", "Đức Tin"]
 authors: ["tran-vinh-hai"]
 plugins: [youtube]
 youtubeIDs: ["K0X3DGvF_N8"]
@@ -38,7 +38,7 @@ Hình ảnh "cây trồng gần dòng nước" rất gần gũi với người d
 
 Trưởng lão nhấn mạnh: Thi Thiên 23:1 chép *"Đức Giê-hô-va là Đấng chăn giữ tôi, tôi sẽ chẳng thiếu thốn gì"* — nhưng nếu chúng ta không làm gì cả, thì chẳng có gì để Chúa phù hộ.
 
-Gương mẫu điển hình là Giu-sép trong Sáng Thế Ký 41. Khi được Pha-ra-ôn tin giao quản lý cả Ai Cập, Giu-sép đã dùng trí tuệ và sự dẫn dắt của Đức Chúa Trời để thu mua và tích trữ lương thực trong bảy năm được mùa. Khi bảy năm đói kém đến, kho lương thực đầy ắp đã cứu không chỉ Ai Cập mà cả các nước lân cận. Đây là hình mẫu **đầu tư thông minh và khoa học** — khác hoàn toàn với đầu cơ bất chấp đạo đức.
+Gương mẫu điển hình là Giô-sép trong Sáng Thế Ký 41. Khi được Pha-ra-ôn tin giao quản lý cả Ai Cập, Giô-sép đã dùng trí tuệ và sự dẫn dắt của Đức Chúa Trời để thu mua và tích trữ lương thực trong bảy năm được mùa. Khi bảy năm đói kém đến, kho lương thực đầy ắp đã cứu không chỉ Ai Cập mà cả các nước lân cận. Đây là hình mẫu **đầu tư thông minh và khoa học** — khác hoàn toàn với đầu cơ bất chấp đạo đức.
 
 Ví dụ về các ta-lăng trong Ma-thi-ơ 25:14–30 cũng minh họa rõ điều này. Hai đầy tớ siêng năng đã làm lợi ra gấp đôi số ta-lăng được giao, trong khi người đầy tớ lười biếng chỉ chôn vùi tài năng mà không sinh lợi. Chúa không chỉ phù hộ — Ngài mong đợi chúng ta đem tài năng, sức lực và trí tuệ ra sử dụng.
 
