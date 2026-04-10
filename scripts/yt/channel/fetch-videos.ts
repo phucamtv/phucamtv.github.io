@@ -150,6 +150,105 @@ function channelDbPath(config: Config, channelName: string): string {
   return join(config.dataDir, `${sanitized}.db`);
 }
 
+// --- YouTube API ---
+
+const YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3";
+
+const QUOTA_COSTS: Record<string, number> = {
+  "channels.list": 1,
+  "playlistItems.list": 1,
+  "videos.list": 1,
+};
+
+interface ApiCallOptions {
+  endpoint: string;
+  params: Record<string, string>;
+  centralDb: Database;
+}
+
+async function youtubeApi({
+  endpoint,
+  params,
+  centralDb,
+}: ApiCallOptions): Promise<any> {
+  const apiKey = process.env.YOUTUBE_API_KEY;
+  if (!apiKey) {
+    throw new Error("YOUTUBE_API_KEY not set in environment");
+  }
+
+  const url = new URL(`${YOUTUBE_API_BASE}/${endpoint}`);
+  url.searchParams.set("key", apiKey);
+  for (const [k, v] of Object.entries(params)) {
+    url.searchParams.set(k, v);
+  }
+
+  const res = await fetch(url.toString());
+  const now = new Date().toISOString();
+  const quotaCost = QUOTA_COSTS[endpoint] || 1;
+
+  centralDb.run(
+    "INSERT INTO api_calls (endpoint, quota_cost, status_code, called_at) VALUES (?, ?, ?, ?)",
+    [endpoint, quotaCost, res.status, now]
+  );
+
+  if (res.status === 403) {
+    const body = await res.json();
+    const reason = body?.error?.errors?.[0]?.reason || "unknown";
+    throw new QuotaExceededError(`YouTube API 403: ${reason}`);
+  }
+
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`YouTube API ${res.status}: ${body}`);
+  }
+
+  return res.json();
+}
+
+class QuotaExceededError extends Error {
+  constructor(message: string) {
+    super(message);
+    this.name = "QuotaExceededError";
+  }
+}
+
+// --- Channel Resolution ---
+
+interface ResolvedChannel {
+  id: string;
+  name: string;
+  handle: string;
+  uploadsPlaylistId: string;
+}
+
+async function resolveChannel(
+  handle: string,
+  centralDb: Database
+): Promise<ResolvedChannel> {
+  const normalizedHandle = handle.startsWith("@") ? handle : `@${handle}`;
+
+  const data = await youtubeApi({
+    endpoint: "channels",
+    params: {
+      part: "snippet,contentDetails",
+      forHandle: normalizedHandle.slice(1),
+    },
+    centralDb,
+  });
+
+  if (!data.items || data.items.length === 0) {
+    throw new Error(`Channel not found: ${normalizedHandle}`);
+  }
+
+  const item = data.items[0];
+  return {
+    id: item.id,
+    name: item.snippet.title,
+    handle: normalizedHandle,
+    uploadsPlaylistId: item.contentDetails.relatedPlaylists.uploads,
+  };
+}
+
 // --- Main ---
 
 async function main() {
@@ -159,9 +258,8 @@ async function main() {
 
   const centralDb = initCentralDb(config);
   console.log("Central DB initialized");
-
-  const testPath = channelDbPath(config, "Test Channel");
-  console.log("Channel DB path:", testPath);
+  console.log(`API key present: ${!!process.env.YOUTUBE_API_KEY}`);
+  console.log(`Channels to process: ${config.channels.length}`);
 
   centralDb.close();
 }
