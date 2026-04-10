@@ -347,6 +347,78 @@ function createTasks(
   }
 }
 
+// --- Video ID Collection ---
+
+interface TaskRow {
+  id: number;
+  channel_id: string;
+  status: string;
+  type: string;
+  next_page_token: string | null;
+  newest_known_video_id: string | null;
+  videos_fetched: number;
+}
+
+async function collectVideoIds(
+  task: TaskRow,
+  uploadsPlaylistId: string,
+  centralDb: Database
+): Promise<string[]> {
+  const videoIds: string[] = [];
+  let pageToken: string | null = task.next_page_token;
+  let page = 0;
+
+  while (true) {
+    const params: Record<string, string> = {
+      part: "contentDetails",
+      playlistId: uploadsPlaylistId,
+      maxResults: "50",
+    };
+    if (pageToken) params.pageToken = pageToken;
+
+    const data = await youtubeApi({
+      endpoint: "playlistItems",
+      params,
+      centralDb,
+    });
+
+    let hitKnown = false;
+    for (const item of data.items || []) {
+      const videoId = item.contentDetails.videoId;
+
+      // Incremental mode: stop at known video
+      if (task.type === "incremental" && task.newest_known_video_id && videoId === task.newest_known_video_id) {
+        hitKnown = true;
+        break;
+      }
+
+      videoIds.push(videoId);
+    }
+
+    page++;
+    console.log(`  Page ${page}: ${data.items?.length || 0} items (total collected: ${videoIds.length})`);
+
+    if (hitKnown) {
+      console.log(`  Hit known video ${task.newest_known_video_id}, stopping`);
+      break;
+    }
+
+    pageToken = data.nextPageToken || null;
+
+    // Save page token for resumability
+    centralDb.run(
+      "UPDATE tasks SET next_page_token = ? WHERE id = ?",
+      [pageToken, task.id]
+    );
+
+    if (!pageToken) break;
+  }
+
+  // Reverse for old-first ordering
+  videoIds.reverse();
+  return videoIds;
+}
+
 // --- Main ---
 
 async function main() {
