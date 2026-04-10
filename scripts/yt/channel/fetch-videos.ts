@@ -249,6 +249,38 @@ async function resolveChannel(
   };
 }
 
+// --- Channel Sync ---
+
+async function syncChannels(
+  config: Config,
+  centralDb: Database
+): Promise<void> {
+  const upsertChannel = centralDb.prepare(`
+    INSERT INTO channels (id, handle, name, url, uploads_playlist_id, registered_at)
+    VALUES (?, ?, ?, ?, ?, ?)
+    ON CONFLICT(id) DO UPDATE SET
+      handle = excluded.handle,
+      name = excluded.name,
+      url = excluded.url,
+      uploads_playlist_id = excluded.uploads_playlist_id
+  `);
+
+  for (const ch of config.channels) {
+    console.log(`Resolving channel: ${ch.handle}`);
+    const resolved = await resolveChannel(ch.handle, centralDb);
+    console.log(`  -> ${resolved.name} (${resolved.id})`);
+
+    upsertChannel.run(
+      resolved.id,
+      resolved.handle,
+      resolved.name,
+      `https://www.youtube.com/${resolved.handle}`,
+      resolved.uploadsPlaylistId,
+      new Date().toISOString()
+    );
+  }
+}
+
 // --- Main ---
 
 async function main() {
@@ -257,11 +289,13 @@ async function main() {
   mkdirSync(config.dataDir, { recursive: true });
 
   const centralDb = initCentralDb(config);
-  console.log("Central DB initialized");
-  console.log(`API key present: ${!!process.env.YOUTUBE_API_KEY}`);
-  console.log(`Channels to process: ${config.channels.length}`);
 
-  centralDb.close();
+  try {
+    await syncChannels(config, centralDb);
+    console.log("Channel sync complete");
+  } finally {
+    centralDb.close();
+  }
 }
 
 main().catch((err) => {
