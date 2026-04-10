@@ -3,6 +3,12 @@ import YAML from "bun:yaml";
 import { readFileSync, mkdirSync, existsSync } from "fs";
 import { resolve, join } from "path";
 
+// Bun auto-loads .env — verify API key is available early
+if (!process.env.YOUTUBE_API_KEY) {
+  console.error("Error: YOUTUBE_API_KEY not set. Add it to .env or export it.");
+  process.exit(1);
+}
+
 // --- Types ---
 
 interface ChannelConfig {
@@ -171,10 +177,7 @@ async function youtubeApi({
   params,
   centralDb,
 }: ApiCallOptions): Promise<any> {
-  const apiKey = process.env.YOUTUBE_API_KEY;
-  if (!apiKey) {
-    throw new Error("YOUTUBE_API_KEY not set in environment");
-  }
+  const apiKey = process.env.YOUTUBE_API_KEY!;
 
   const url = new URL(`${YOUTUBE_API_BASE}/${endpoint}`);
   url.searchParams.set("key", apiKey);
@@ -225,26 +228,43 @@ async function resolveChannel(
   handle: string,
   centralDb: Database
 ): Promise<ResolvedChannel> {
-  const normalizedHandle = handle.startsWith("@") ? handle : `@${handle}`;
+  let params: Record<string, string>;
+
+  if (handle.startsWith("UC") && handle.length === 24) {
+    // Channel ID
+    params = { part: "snippet,contentDetails", id: handle };
+  } else if (handle.includes("youtube.com")) {
+    // URL — extract handle or ID
+    const match = handle.match(/@([\w-]+)/) || handle.match(/channel\/(UC[\w-]+)/);
+    if (!match) throw new Error(`Cannot parse channel URL: ${handle}`);
+    if (match[1].startsWith("UC")) {
+      params = { part: "snippet,contentDetails", id: match[1] };
+    } else {
+      params = { part: "snippet,contentDetails", forHandle: match[1] };
+    }
+  } else {
+    // Assume @handle
+    const h = handle.startsWith("@") ? handle.slice(1) : handle;
+    params = { part: "snippet,contentDetails", forHandle: h };
+  }
 
   const data = await youtubeApi({
     endpoint: "channels",
-    params: {
-      part: "snippet,contentDetails",
-      forHandle: normalizedHandle.slice(1),
-    },
+    params,
     centralDb,
   });
 
   if (!data.items || data.items.length === 0) {
-    throw new Error(`Channel not found: ${normalizedHandle}`);
+    throw new Error(`Channel not found: ${handle}`);
   }
 
   const item = data.items[0];
+  const originalHandle = handle.startsWith("@") ? handle : `@${item.snippet.customUrl || handle}`;
+
   return {
     id: item.id,
     name: item.snippet.title,
-    handle: normalizedHandle,
+    handle: originalHandle,
     uploadsPlaylistId: item.contentDetails.relatedPlaylists.uploads,
   };
 }
