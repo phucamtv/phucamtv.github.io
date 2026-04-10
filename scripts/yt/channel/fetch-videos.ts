@@ -281,6 +281,72 @@ async function syncChannels(
   }
 }
 
+// --- Task Creation ---
+
+function getNewestVideoId(config: Config, channelName: string): string | null {
+  const dbPath = channelDbPath(config, channelName);
+  if (!existsSync(dbPath)) return null;
+
+  const db = new Database(dbPath, { readonly: true });
+  const row = db.query(
+    "SELECT id FROM videos ORDER BY published_at DESC LIMIT 1"
+  ).get() as { id: string } | null;
+  db.close();
+  return row?.id ?? null;
+}
+
+interface ChannelRow {
+  id: string;
+  handle: string;
+  name: string;
+  uploads_playlist_id: string;
+}
+
+function createTasks(
+  centralDb: Database,
+  config: Config,
+  cliArgs: CliArgs
+): void {
+  // Reset stale in_progress tasks from previous crashed runs
+  centralDb.run(
+    "UPDATE tasks SET status = 'pending' WHERE status = 'in_progress'"
+  );
+
+  const channels = centralDb.query("SELECT * FROM channels").all() as ChannelRow[];
+
+  const insertTask = centralDb.prepare(`
+    INSERT INTO tasks (channel_id, status, type, newest_known_video_id, created_at)
+    VALUES (?, 'pending', ?, ?, ?)
+  `);
+
+  for (const ch of channels) {
+    // If --recrawl with a specific handle, skip non-matching channels
+    if (cliArgs.recrawl && cliArgs.recrawlHandle) {
+      const target = cliArgs.recrawlHandle.startsWith("@")
+        ? cliArgs.recrawlHandle
+        : `@${cliArgs.recrawlHandle}`;
+      if (ch.handle !== target) continue;
+    }
+
+    // Check if there's already a pending/in_progress task for this channel
+    const existing = centralDb.query(
+      "SELECT id FROM tasks WHERE channel_id = ? AND status IN ('pending', 'in_progress')"
+    ).get(ch.id);
+    if (existing) {
+      console.log(`Task already pending for ${ch.name}, skipping`);
+      continue;
+    }
+
+    const type = cliArgs.recrawl ? "recrawl" : "incremental";
+    const newestVideoId = cliArgs.recrawl
+      ? null
+      : getNewestVideoId(config, ch.name);
+
+    insertTask.run(ch.id, type, newestVideoId, new Date().toISOString());
+    console.log(`Created ${type} task for ${ch.name}${newestVideoId ? ` (resume after ${newestVideoId})` : ""}`);
+  }
+}
+
 // --- Main ---
 
 async function main() {
@@ -292,7 +358,12 @@ async function main() {
 
   try {
     await syncChannels(config, centralDb);
-    console.log("Channel sync complete");
+    createTasks(centralDb, config, cliArgs);
+
+    const pendingCount = (
+      centralDb.query("SELECT COUNT(*) as count FROM tasks WHERE status = 'pending'").get() as { count: number }
+    ).count;
+    console.log(`\n${pendingCount} task(s) pending`);
   } finally {
     centralDb.close();
   }
