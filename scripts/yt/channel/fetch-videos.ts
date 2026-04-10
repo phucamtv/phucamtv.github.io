@@ -659,13 +659,58 @@ async function main() {
   const centralDb = initCentralDb(config);
 
   try {
+    // 1. Sync channels from config
     await syncChannels(config, centralDb);
+
+    // 2. Create tasks
     createTasks(centralDb, config, cliArgs);
 
     const pendingCount = (
       centralDb.query("SELECT COUNT(*) as count FROM tasks WHERE status = 'pending'").get() as { count: number }
     ).count;
-    console.log(`\n${pendingCount} task(s) pending`);
+
+    if (pendingCount === 0) {
+      console.log("\nNo tasks to process");
+      return;
+    }
+
+    console.log(`\n${pendingCount} task(s) to process with ${config.workers} worker(s)`);
+
+    // 3. Run workers
+    const workers: Promise<void>[] = [];
+    for (let i = 0; i < config.workers; i++) {
+      workers.push(runWorker(i, config, centralDb));
+    }
+    await Promise.all(workers);
+
+    // 4. Summary
+    const stats = centralDb.query(`
+      SELECT
+        COUNT(*) FILTER (WHERE status = 'completed') as completed,
+        COUNT(*) FILTER (WHERE status = 'failed') as failed,
+        COUNT(*) FILTER (WHERE status = 'pending') as pending,
+        SUM(videos_fetched) FILTER (WHERE status = 'completed') as total_videos
+      FROM tasks
+      WHERE created_at >= datetime('now', '-1 hour')
+    `).get() as { completed: number; failed: number; pending: number; total_videos: number };
+
+    console.log(`\n--- Summary ---`);
+    console.log(`Completed: ${stats.completed}, Failed: ${stats.failed}, Pending: ${stats.pending}`);
+    console.log(`Total videos fetched: ${stats.total_videos || 0}`);
+
+    const apiStats = centralDb.query(`
+      SELECT endpoint, COUNT(*) as calls, SUM(quota_cost) as quota
+      FROM api_calls
+      WHERE called_at >= datetime('now', '-1 hour')
+      GROUP BY endpoint
+    `).all() as { endpoint: string; calls: number; quota: number }[];
+
+    if (apiStats.length > 0) {
+      console.log(`\nAPI calls (last hour):`);
+      for (const row of apiStats) {
+        console.log(`  ${row.endpoint}: ${row.calls} calls (${row.quota} quota units)`);
+      }
+    }
   } finally {
     centralDb.close();
   }
