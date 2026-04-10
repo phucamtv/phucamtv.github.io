@@ -419,6 +419,131 @@ async function collectVideoIds(
   return videoIds;
 }
 
+// --- Helpers ---
+
+function parseDurationToSeconds(iso: string): number {
+  const match = iso.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+  if (!match) return 0;
+  const h = parseInt(match[1] || "0", 10);
+  const m = parseInt(match[2] || "0", 10);
+  const s = parseInt(match[3] || "0", 10);
+  return h * 3600 + m * 60 + s;
+}
+
+// --- Video Detail Fetching ---
+
+async function fetchAndUpsertVideos(
+  videoIds: string[],
+  channelDb: Database,
+  centralDb: Database
+): Promise<number> {
+  let totalUpserted = 0;
+  const now = new Date().toISOString();
+
+  const upsertVideo = channelDb.prepare(`
+    INSERT INTO videos (
+      id, channel_id, title, description, published_at,
+      duration, duration_seconds, channel_title, tags, category_id,
+      default_language, default_audio_language, live_broadcast_content,
+      view_count, like_count, comment_count,
+      thumbnail_default, thumbnail_medium, thumbnail_high, thumbnail_maxres,
+      caption_available, license, embeddable, privacy_status,
+      made_for_kids, topic_categories, fetched_at
+    ) VALUES (
+      ?, ?, ?, ?, ?,
+      ?, ?, ?, ?, ?,
+      ?, ?, ?,
+      ?, ?, ?,
+      ?, ?, ?, ?,
+      ?, ?, ?, ?,
+      ?, ?, ?
+    )
+    ON CONFLICT(id) DO UPDATE SET
+      title = excluded.title,
+      description = excluded.description,
+      published_at = excluded.published_at,
+      duration = excluded.duration,
+      duration_seconds = excluded.duration_seconds,
+      channel_title = excluded.channel_title,
+      tags = excluded.tags,
+      category_id = excluded.category_id,
+      default_language = excluded.default_language,
+      default_audio_language = excluded.default_audio_language,
+      live_broadcast_content = excluded.live_broadcast_content,
+      view_count = excluded.view_count,
+      like_count = excluded.like_count,
+      comment_count = excluded.comment_count,
+      thumbnail_default = excluded.thumbnail_default,
+      thumbnail_medium = excluded.thumbnail_medium,
+      thumbnail_high = excluded.thumbnail_high,
+      thumbnail_maxres = excluded.thumbnail_maxres,
+      caption_available = excluded.caption_available,
+      license = excluded.license,
+      embeddable = excluded.embeddable,
+      privacy_status = excluded.privacy_status,
+      made_for_kids = excluded.made_for_kids,
+      topic_categories = excluded.topic_categories,
+      fetched_at = excluded.fetched_at
+  `);
+
+  // Process in batches of 50 (API max)
+  for (let i = 0; i < videoIds.length; i += 50) {
+    const batch = videoIds.slice(i, i + 50);
+
+    const data = await youtubeApi({
+      endpoint: "videos",
+      params: {
+        part: "snippet,contentDetails,statistics,status,topicDetails",
+        id: batch.join(","),
+      },
+      centralDb,
+    });
+
+    for (const item of data.items || []) {
+      const s = item.snippet;
+      const cd = item.contentDetails;
+      const stats = item.statistics;
+      const status = item.status;
+      const topics = item.topicDetails;
+
+      upsertVideo.run(
+        item.id,
+        s.channelId,
+        s.title,
+        s.description,
+        s.publishedAt,
+        cd.duration,
+        parseDurationToSeconds(cd.duration),
+        s.channelTitle,
+        JSON.stringify(s.tags || []),
+        s.categoryId,
+        s.defaultLanguage || null,
+        s.defaultAudioLanguage || null,
+        s.liveBroadcastContent,
+        parseInt(stats.viewCount || "0", 10),
+        parseInt(stats.likeCount || "0", 10),
+        parseInt(stats.commentCount || "0", 10),
+        s.thumbnails?.default?.url || null,
+        s.thumbnails?.medium?.url || null,
+        s.thumbnails?.high?.url || null,
+        s.thumbnails?.maxres?.url || null,
+        cd.caption === "true" ? 1 : 0,
+        cd.licensedContent ? 1 : 0,
+        status.embeddable ? 1 : 0,
+        status.privacyStatus,
+        status.madeForKids ? 1 : 0,
+        JSON.stringify(topics?.topicCategories || []),
+        now
+      );
+      totalUpserted++;
+    }
+
+    console.log(`  Fetched details: ${i + batch.length}/${videoIds.length}`);
+  }
+
+  return totalUpserted;
+}
+
 // --- Main ---
 
 async function main() {
