@@ -544,6 +544,111 @@ async function fetchAndUpsertVideos(
   return totalUpserted;
 }
 
+// --- Worker ---
+
+async function processTask(
+  task: TaskRow,
+  config: Config,
+  centralDb: Database
+): Promise<void> {
+  // Mark in_progress
+  centralDb.run(
+    "UPDATE tasks SET status = 'in_progress', started_at = ? WHERE id = ?",
+    [new Date().toISOString(), task.id]
+  );
+
+  // Get channel info
+  const channel = centralDb.query(
+    "SELECT * FROM channels WHERE id = ?"
+  ).get(task.channel_id) as ChannelRow | null;
+
+  if (!channel) {
+    centralDb.run(
+      "UPDATE tasks SET status = 'failed', error = 'Channel not found in DB' WHERE id = ?",
+      [task.id]
+    );
+    return;
+  }
+
+  console.log(`\nProcessing: ${channel.name} (${task.type})`);
+
+  // Collect video IDs
+  const videoIds = await collectVideoIds(
+    task,
+    channel.uploads_playlist_id,
+    centralDb
+  );
+
+  if (videoIds.length === 0) {
+    console.log("  No new videos found");
+    centralDb.run(
+      "UPDATE tasks SET status = 'completed', videos_fetched = 0, completed_at = ? WHERE id = ?",
+      [new Date().toISOString(), task.id]
+    );
+    return;
+  }
+
+  console.log(`  Collected ${videoIds.length} video IDs, fetching details...`);
+
+  // Init channel DB and fetch details
+  const dbPath = channelDbPath(config, channel.name);
+  const channelDb = initChannelDb(dbPath);
+
+  try {
+    const upserted = await fetchAndUpsertVideos(videoIds, channelDb, centralDb);
+
+    // Mark task completed
+    centralDb.run(
+      "UPDATE tasks SET status = 'completed', videos_fetched = ?, next_page_token = NULL, completed_at = ? WHERE id = ?",
+      [upserted, new Date().toISOString(), task.id]
+    );
+
+    // Update channel last_crawled_at
+    centralDb.run(
+      "UPDATE channels SET last_crawled_at = ? WHERE id = ?",
+      [new Date().toISOString(), channel.id]
+    );
+
+    console.log(`  Done: ${upserted} videos upserted to ${dbPath}`);
+  } finally {
+    channelDb.close();
+  }
+}
+
+async function runWorker(
+  workerId: number,
+  config: Config,
+  centralDb: Database
+): Promise<void> {
+  while (true) {
+    // Pick oldest pending task
+    const task = centralDb.query(
+      "SELECT * FROM tasks WHERE status = 'pending' ORDER BY created_at ASC LIMIT 1"
+    ).get() as TaskRow | null;
+
+    if (!task) break;
+
+    try {
+      await processTask(task, config, centralDb);
+    } catch (err) {
+      if (err instanceof QuotaExceededError) {
+        console.log(`\nWorker ${workerId}: Quota exceeded, saving progress and stopping`);
+        centralDb.run(
+          "UPDATE tasks SET status = 'pending' WHERE id = ?",
+          [task.id]
+        );
+        break;
+      }
+      // Other errors: mark task failed
+      centralDb.run(
+        "UPDATE tasks SET status = 'failed', error = ?, completed_at = ? WHERE id = ?",
+        [String(err), new Date().toISOString(), task.id]
+      );
+      console.error(`  Task ${task.id} failed:`, err);
+    }
+  }
+}
+
 // --- Main ---
 
 async function main() {
