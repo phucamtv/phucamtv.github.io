@@ -1,7 +1,7 @@
 import { Database } from "bun:sqlite";
 import YAML from "bun:yaml";
 import { readFileSync, mkdirSync, existsSync } from "fs";
-import { resolve, join } from "path";
+import { join } from "path";
 
 // Bun auto-loads .env — verify API key is available early
 if (!process.env.YOUTUBE_API_KEY) {
@@ -161,9 +161,9 @@ function channelDbPath(config: Config, channelName: string): string {
 const YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3";
 
 const QUOTA_COSTS: Record<string, number> = {
-  "channels.list": 1,
-  "playlistItems.list": 1,
-  "videos.list": 1,
+  channels: 1,
+  playlistItems: 1,
+  videos: 1,
 };
 
 interface ApiCallOptions {
@@ -197,7 +197,10 @@ async function youtubeApi({
   if (res.status === 403) {
     const body = await res.json();
     const reason = body?.error?.errors?.[0]?.reason || "unknown";
-    throw new QuotaExceededError(`YouTube API 403: ${reason}`);
+    if (reason === "quotaExceeded" || reason === "rateLimitExceeded") {
+      throw new QuotaExceededError(`YouTube API 403: ${reason}`);
+    }
+    throw new Error(`YouTube API 403 (${reason}): ${JSON.stringify(body)}`);
   }
 
   if (!res.ok) {
@@ -548,7 +551,7 @@ async function fetchAndUpsertVideos(
         s.thumbnails?.high?.url || null,
         s.thumbnails?.maxres?.url || null,
         cd.caption === "true" ? 1 : 0,
-        cd.licensedContent ? 1 : 0,
+        cd.license || null,
         status.embeddable ? 1 : 0,
         status.privacyStatus,
         status.madeForKids ? 1 : 0,
@@ -571,12 +574,6 @@ async function processTask(
   config: Config,
   centralDb: Database
 ): Promise<void> {
-  // Mark in_progress
-  centralDb.run(
-    "UPDATE tasks SET status = 'in_progress', started_at = ? WHERE id = ?",
-    [new Date().toISOString(), task.id]
-  );
-
   // Get channel info
   const channel = centralDb.query(
     "SELECT * FROM channels WHERE id = ?"
@@ -641,10 +638,13 @@ async function runWorker(
   centralDb: Database
 ): Promise<void> {
   while (true) {
-    // Pick oldest pending task
+    // Atomically claim oldest pending task
     const task = centralDb.query(
-      "SELECT * FROM tasks WHERE status = 'pending' ORDER BY created_at ASC LIMIT 1"
-    ).get() as TaskRow | null;
+      `UPDATE tasks SET status = 'in_progress', started_at = ?
+       WHERE id = (
+         SELECT id FROM tasks WHERE status = 'pending' ORDER BY created_at ASC LIMIT 1
+       ) RETURNING *`
+    ).get(new Date().toISOString()) as TaskRow | null;
 
     if (!task) break;
 
