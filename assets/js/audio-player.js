@@ -18,8 +18,10 @@
 
   function formatTime(sec) {
     if (!sec || !isFinite(sec)) return "0:00";
-    var m = Math.floor(sec / 60);
+    var h = Math.floor(sec / 3600);
+    var m = Math.floor((sec % 3600) / 60);
     var s = Math.floor(sec % 60);
+    if (h > 0) return h + ":" + (m < 10 ? "0" : "") + m + ":" + (s < 10 ? "0" : "") + s;
     return m + ":" + (s < 10 ? "0" : "") + s;
   }
 
@@ -49,11 +51,6 @@
       return map;
     }
     return null;
-  }
-
-  function chapterCount(chapters) {
-    if (!chapters) return 0;
-    return Object.keys(chapters).length;
   }
 
   // ── localStorage helpers ───────────────────────────────────
@@ -214,6 +211,7 @@
     this._onLoaded = null;
     this._pollTimer = null;
     this._ready = false;
+    this._pendingPlay = false;
   }
 
   YouTubeBackend.prototype._createPlayer = function (opts) {
@@ -226,11 +224,20 @@
     this._player = new YT.Player(div.id, {
       width: "1",
       height: "1",
-      playerVars: Object.assign({ autoplay: 0, controls: 0, disablekb: 1 }, opts.playerVars || {}),
+      playerVars: (function() {
+        var pv = { autoplay: 0, controls: 0, disablekb: 1 };
+        var extra = opts.playerVars || {};
+        for (var k in extra) { if (extra.hasOwnProperty(k)) pv[k] = extra[k]; }
+        return pv;
+      })(),
       videoId: opts.videoId || undefined,
       events: {
         onReady: function () {
           self._ready = true;
+          if (self._pendingPlay) {
+            self._pendingPlay = false;
+            self._player.playVideo();
+          }
           if (opts.listType) {
             // for playlists, duration comes after first video loads
           }
@@ -275,7 +282,11 @@
   };
 
   YouTubeBackend.prototype.play = function () {
-    if (this._ready && this._player) this._player.playVideo();
+    if (this._ready && this._player) {
+      this._player.playVideo();
+    } else {
+      this._pendingPlay = true;
+    }
   };
 
   YouTubeBackend.prototype.pause = function () {
@@ -443,6 +454,7 @@
 
     if (entry.type === "youtube-playlist" && this.backend) {
       // playlist: jump to index (0-based)
+      // Assumes playlist videos are in chapter order (1-based chapter → 0-based index)
       this.backend.setPlaylistIndex(ch - 1);
       this.playing = true;
     } else if (entry.type === "mp3" && entry.scope === "chapter") {
@@ -531,6 +543,7 @@
   };
 
   AudioPlayer.prototype._startResumeSave = function () {
+    this._stopResumeSave();
     var self = this;
     this._resumeSaveTimer = setInterval(function () {
       self._saveResumeNow();
@@ -681,6 +694,7 @@
 
     this.closeBtn.addEventListener("click", function () {
       self.player.pause();
+      self.player.clearSleep();
       self.bar.classList.remove("is-visible");
       document.body.classList.remove("has-audio-player");
     });
