@@ -1,0 +1,77 @@
+{{/* Audio Player — only included when .Params.audio exists */}}
+{{ $audioData := dict
+  "slug" .Params.slug
+  "title" .Title
+  "audio" .Params.audio
+}}
+<script id="audio-data" type="application/json">{{ $audioData | jsonify }}</script>
+
+<div class="audio-player-bar" id="audio-player">
+  <div class="audio-player-inner">
+    {{/* Transport: prev, play/pause, next */}}
+    <div class="ap-transport">
+      <button class="ap-btn ap-btn-skip" id="ap-prev" aria-label="Chương trước">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg>
+      </button>
+      <button class="ap-btn ap-btn-play" id="ap-play" aria-label="Phát">
+        <svg viewBox="0 0 24 24" fill="currentColor" id="ap-icon-play"><polygon points="5,3 19,12 5,21"/></svg>
+        <svg viewBox="0 0 24 24" fill="currentColor" id="ap-icon-pause" style="display:none"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+      </button>
+      <button class="ap-btn ap-btn-skip" id="ap-next" aria-label="Chương kế">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/></svg>
+      </button>
+    </div>
+
+    {{/* Info: title + source selector */}}
+    <div class="ap-info">
+      <div class="ap-title" id="ap-title">{{ .Title }}</div>
+      <select class="ap-source-select" id="ap-source"></select>
+    </div>
+
+    {{/* Progress bar */}}
+    <div class="ap-progress-wrap">
+      <span class="ap-time" id="ap-current-time">0:00</span>
+      <div class="ap-progress-bar" id="ap-progress">
+        <div class="ap-progress-fill" id="ap-progress-fill"></div>
+      </div>
+      <span class="ap-time" id="ap-duration">0:00</span>
+    </div>
+
+    {{/* Right actions */}}
+    <div class="ap-actions">
+      <select class="ap-chapter-select" id="ap-chapter"></select>
+      <button class="ap-btn" id="ap-settings-btn" aria-label="Cài đặt">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+      </button>
+      <button class="ap-btn" id="ap-close" aria-label="Đóng">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+  </div>
+
+  {{/* Settings popover */}}
+  <div class="ap-settings-popover" id="ap-settings">
+    <div class="ap-settings-group">
+      <div class="ap-settings-label">Tốc độ</div>
+      <div class="ap-speed-options" id="ap-speed-options"></div>
+    </div>
+    <div class="ap-settings-group">
+      <div class="ap-settings-label">Hẹn giờ tắt</div>
+      <div class="ap-sleep-options" id="ap-sleep-options"></div>
+      <div class="ap-sleep-countdown" id="ap-sleep-countdown"></div>
+    </div>
+  </div>
+
+  {{/* Resume prompt */}}
+  <div class="ap-resume-prompt" id="ap-resume">
+    <span id="ap-resume-text"></span>
+    <button class="ap-resume-btn ap-resume-btn--yes" id="ap-resume-yes">Tiếp tục</button>
+    <button class="ap-resume-btn" id="ap-resume-no">Từ đầu</button>
+  </div>
+</div>
+
+{{/* Hidden container for YouTube iframes */}}
+<div id="ap-yt-container" style="position:absolute;width:0;height:0;overflow:hidden;pointer-events:none"></div>
+
+{{ $js := resources.Get "js/audio-player.js" | fingerprint }}
+<script src="{{ $js.RelPermalink }}" defer></script>
