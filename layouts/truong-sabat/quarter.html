@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="ss-list">
+  <nav class="breadcrumb">
+    <a href="{{ "/truong-sabat/" | relURL }}">Trường Sa-bát</a>
+  </nav>
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <div class="ss-lesson-list">
+    {{ range .Sections.ByWeight }}
+    <a href="{{ .Permalink }}" class="ss-lesson-card">
+      {{ with .Params.lesson }}
+      <span class="ss-lesson-num">{{ printf "%02d" . }}</span>
+      {{ end }}
+      <span class="ss-lesson-info">
+        <span class="ss-lesson-card-title">{{ .Title }}</span>
+        {{ with .Params.dateRange }}<span class="ss-lesson-date">{{ . }}</span>{{ end }}
+      </span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

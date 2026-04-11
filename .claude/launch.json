@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "hugo",
-      "runtimeExecutable": "hugo",
+      "runtimeExecutable": "/usr/local/bin/hugo",
       "runtimeArgs": ["server", "-D"],
       "port": 1313
     }
