@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Hãy đưa họ trở lại"
 dayLabel: "Thứ Năm"
 weight: 6

@@ -2,7 +2,7 @@
 <section class="list" style="max-width:800px">
   <h1>Loạt bài</h1>
   <div class="author-grid">
-    {{ range $id, $s := $.Site.Data.series }}
+    {{ range $id, $s := hugo.Data.series }}
     {{ $count := 0 }}
     {{ range $.Site.RegularPages }}
       {{ if in .Params.series $id }}{{ $count = add $count 1 }}{{ end }}

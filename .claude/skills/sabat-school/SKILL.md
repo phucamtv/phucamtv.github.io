@@ -42,7 +42,7 @@ memoryVerseRef: "Book chapter:verse"
 
 ```yaml
 ---
-_build: { render: never }
+build: { render: never }
 title: "Day Title"
 dayLabel: "Thứ Nhất"    # Sa-bát | Thứ Nhất | Thứ Hai | Thứ Ba | Thứ Tư | Thứ Năm | Thứ Sáu
 weight: 2                # 1-7 matching day order

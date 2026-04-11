@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Đức chúa trời thánh khiết"
 dayLabel: "Thứ Hai"
 weight: 3

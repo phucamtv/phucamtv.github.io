@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Sự phân tâm và cám dỗ"
 dayLabel: "Thứ Nhất"
 weight: 2

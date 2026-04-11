@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Vai trò của Kinh Thánh"
 dayLabel: "Sa-bát"
 weight: 1

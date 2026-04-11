@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Chỉ cần cho tôi một dấu hiệu!"
 dayLabel: "Thứ Nhất"
 weight: 2

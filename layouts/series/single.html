@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $seriesID := .Params.seriesID }}
-{{ $series := index $.Site.Data.series $seriesID }}
+{{ $series := index hugo.Data.series $seriesID }}
 
 <div class="article-layout">
   <section class="article-main">

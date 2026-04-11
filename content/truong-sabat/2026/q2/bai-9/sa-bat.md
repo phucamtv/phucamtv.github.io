@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Tội lỗi, phúc âm và luật pháp"
 dayLabel: "Sa-bát"
 weight: 1

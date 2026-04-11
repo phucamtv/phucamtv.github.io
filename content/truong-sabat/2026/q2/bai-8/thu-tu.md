@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Những tấm gương đức tin"
 dayLabel: "Thứ Tư"
 weight: 5

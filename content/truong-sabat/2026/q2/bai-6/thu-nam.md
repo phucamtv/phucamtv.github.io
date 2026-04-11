@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Môi-se cầu thay cho dân sự"
 dayLabel: "Thứ Năm"
 weight: 6

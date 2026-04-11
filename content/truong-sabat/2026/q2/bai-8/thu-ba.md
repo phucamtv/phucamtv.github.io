@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Đức tin không phải là cảm xúc"
 dayLabel: "Thứ Ba"
 weight: 4

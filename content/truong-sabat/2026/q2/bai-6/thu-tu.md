@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Môi-se – vị lãnh đạo tin kính"
 dayLabel: "Thứ Tư"
 weight: 5

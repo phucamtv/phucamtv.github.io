@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Sự xúc phạm lớn nhất"
 dayLabel: "Thứ Tư"
 weight: 5

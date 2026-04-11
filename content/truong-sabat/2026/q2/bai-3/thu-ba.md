@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Môi-se, một tôi tớ khiêm nhường"
 dayLabel: "Thứ Ba"
 weight: 4

@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Những cơn bão của cuộc đời"
 dayLabel: "Thứ Nhất"
 weight: 2

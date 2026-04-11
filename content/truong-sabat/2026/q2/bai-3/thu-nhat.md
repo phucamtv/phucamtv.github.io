@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Sự thể hiện của lòng kiêu ngạo"
 dayLabel: "Thứ Nhất"
 weight: 2

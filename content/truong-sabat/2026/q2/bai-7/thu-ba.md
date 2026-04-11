@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Đức Chúa Giê-su dạy chúng ta cách cầu nguyện"
 dayLabel: "Thứ Ba"
 weight: 4

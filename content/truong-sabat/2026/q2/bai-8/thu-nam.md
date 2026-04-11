@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Đức tin của Đức Chúa Giê-su"
 dayLabel: "Thứ Năm"
 weight: 6

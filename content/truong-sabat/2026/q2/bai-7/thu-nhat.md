@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Ê-li - cầu nguyện trong cơn khủng hoảng"
 dayLabel: "Thứ Nhất"
 weight: 2

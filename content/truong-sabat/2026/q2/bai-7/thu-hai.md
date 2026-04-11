@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Khi lời cầu nguyện dường như chưa được đáp lại"
 dayLabel: "Thứ Hai"
 weight: 3

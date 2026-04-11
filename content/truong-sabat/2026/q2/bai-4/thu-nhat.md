@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Vũ khí quyền năng nhất"
 dayLabel: "Thứ Nhất"
 weight: 2

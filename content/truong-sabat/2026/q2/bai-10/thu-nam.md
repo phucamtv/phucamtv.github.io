@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Chiếc áo quý giá nhất"
 dayLabel: "Thứ Năm"
 weight: 6

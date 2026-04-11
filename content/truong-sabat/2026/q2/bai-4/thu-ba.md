@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Lẽ thật của Kinh Thánh"
 dayLabel: "Thứ Ba"
 weight: 4

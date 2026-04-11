@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Chân thành kiểm điểm chính mình"
 dayLabel: "Sa-bát"
 weight: 1

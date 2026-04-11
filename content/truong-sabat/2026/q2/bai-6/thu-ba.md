@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Hê-nóc đã đồng đi và hầu chuyện cùng Chúa"
 dayLabel: "Thứ Ba"
 weight: 4

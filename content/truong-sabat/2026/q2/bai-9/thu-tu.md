@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Luật pháp và phúc âm"
 dayLabel: "Thứ Tư"
 weight: 5

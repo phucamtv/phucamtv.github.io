@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Sự thúc giục của Đức Thánh Linh"
 dayLabel: "Thứ Hai"
 weight: 3

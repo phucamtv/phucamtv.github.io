@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Con đường đến Em-ma-út"
 dayLabel: "Thứ Tư"
 weight: 5

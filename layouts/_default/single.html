@@ -10,7 +10,7 @@
 {{ $series := false }}
 {{ with .Params.series }}
   {{ $seriesID = index . 0 }}
-  {{ with index $.Site.Data.series $seriesID }}
+  {{ with index hugo.Data.series $seriesID }}
     {{ $series = . }}
   {{ end }}
 {{ end }}

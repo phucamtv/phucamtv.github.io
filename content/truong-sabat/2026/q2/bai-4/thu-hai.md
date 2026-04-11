@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Kinh Thánh và thẩm quyền"
 dayLabel: "Thứ Hai"
 weight: 3

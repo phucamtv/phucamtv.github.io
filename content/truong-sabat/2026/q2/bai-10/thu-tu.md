@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Ân điển dư dật"
 dayLabel: "Thứ Tư"
 weight: 5

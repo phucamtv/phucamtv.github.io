@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Cuộc sống vội vã"
 dayLabel: "Thứ Nhất"
 weight: 2

@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Đức chúa trời trong sự sáng tạo"
 dayLabel: "Thứ Tư"
 weight: 5

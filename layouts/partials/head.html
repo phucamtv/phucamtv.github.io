@@ -63,5 +63,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,500&display=swap" rel="stylesheet">
-{{ $style := resources.Get "css/style.css" | fingerprint }}
+{{ $base := resources.Get "css/base.css" }}
+{{ $layout := resources.Get "css/layout.css" }}
+{{ $components := resources.Get "css/components.css" }}
+{{ $bibleMedia := resources.Get "css/bible-media.css" }}
+{{ $style := slice $base $layout $components $bibleMedia | resources.Concat "css/style.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">

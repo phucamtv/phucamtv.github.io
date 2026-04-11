@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Không vì ép buộc nhưng đầy quyền năng"
 dayLabel: "Thứ Hai"
 weight: 3

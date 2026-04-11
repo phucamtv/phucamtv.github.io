@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Theo bước chiên con"
 dayLabel: "Thứ Tư"
 weight: 5

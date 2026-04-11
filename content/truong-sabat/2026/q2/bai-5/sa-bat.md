@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Cách học Kinh Thánh"
 dayLabel: "Sa-bát"
 weight: 1

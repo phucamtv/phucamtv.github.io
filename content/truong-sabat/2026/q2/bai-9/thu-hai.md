@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Những pháo đài trong mối quan hệ với Đức Chúa Trời"
 dayLabel: "Thứ Hai"
 weight: 3

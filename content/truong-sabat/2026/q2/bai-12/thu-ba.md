@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Những ý định chia sẻ về Đức Chúa Giê-su"
 dayLabel: "Thứ Ba"
 weight: 4

@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Em-ma-nu-ên, đức chúa trời ở cùng chúng ta"
 dayLabel: "Thứ Năm"
 weight: 6

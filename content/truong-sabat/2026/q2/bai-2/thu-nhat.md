@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Một bức tranh rõ hơn về đức chúa trời"
 dayLabel: "Thứ Nhất"
 weight: 2

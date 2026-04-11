@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Những câu hỏi khác về cầu nguyện"
 dayLabel: "Thứ Năm"
 weight: 6

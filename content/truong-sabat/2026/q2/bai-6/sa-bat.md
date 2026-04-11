@@ -1,5 +1,5 @@
 ---
-_build: { render: never }
+build: { render: never }
 title: "Các chiến sĩ cầu nguyện"
 dayLabel: "Sa-bát"
 weight: 1
