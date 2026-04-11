@@ -1528,3 +1528,343 @@ footer {
     font-size: 1.5rem;
   }
 }
+
+/* ===== Audio Player ===== */
+
+.audio-player-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 64px;
+  background: linear-gradient(180deg, #f0ece3 0%, #e8e2d6 100%);
+  border-top: 1px solid #d4c9b8;
+  box-shadow: 0 -2px 12px rgba(61, 53, 41, 0.1);
+  z-index: 1000;
+  display: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.85rem;
+}
+
+.audio-player-bar.is-visible {
+  display: flex;
+  align-items: center;
+}
+
+.audio-player-inner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  width: 100%;
+  height: 100%;
+}
+
+/* Transport controls: prev, play/pause, next */
+.ap-transport {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  flex-shrink: 0;
+}
+
+.ap-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: none;
+  background: none;
+  color: #3d3529;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: background 0.15s ease;
+  padding: 0;
+}
+
+.ap-btn:hover {
+  background: rgba(0, 0, 0, 0.06);
+}
+
+.ap-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+.ap-btn-play {
+  width: 40px;
+  height: 40px;
+  background: #3d3529;
+  color: #f0ece3;
+}
+
+.ap-btn-play:hover {
+  background: #5c5347;
+}
+
+.ap-btn-play svg {
+  width: 22px;
+  height: 22px;
+}
+
+.ap-btn-skip {
+  display: none;
+}
+
+.audio-player-bar.has-chapters .ap-btn-skip {
+  display: inline-flex;
+}
+
+/* Info area: title + source selector */
+.ap-info {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  flex-shrink: 1;
+  gap: 0.1rem;
+}
+
+.ap-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #3d3529;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ap-source-select {
+  font-size: 0.75rem;
+  color: #5c5347;
+  background: none;
+  border: 1px solid #d4c9b8;
+  border-radius: 4px;
+  padding: 0.1rem 0.3rem;
+  cursor: pointer;
+  max-width: 200px;
+  font-family: inherit;
+}
+
+/* Progress bar */
+.ap-progress-wrap {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.ap-progress-bar {
+  flex: 1;
+  height: 4px;
+  background: #d4c9b8;
+  border-radius: 2px;
+  cursor: pointer;
+  position: relative;
+  min-width: 60px;
+}
+
+.ap-progress-fill {
+  height: 100%;
+  background: #3d3529;
+  border-radius: 2px;
+  width: 0%;
+  position: relative;
+}
+
+.ap-progress-fill::after {
+  content: "";
+  position: absolute;
+  right: -5px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 10px;
+  height: 10px;
+  background: #3d3529;
+  border-radius: 50%;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.ap-progress-bar:hover .ap-progress-fill::after {
+  opacity: 1;
+}
+
+.ap-time {
+  font-size: 0.72rem;
+  color: #8a7f72;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Right-side buttons: chapter dropdown, settings, close */
+.ap-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.15rem;
+  flex-shrink: 0;
+}
+
+/* Chapter dropdown */
+.ap-chapter-select {
+  font-size: 0.75rem;
+  color: #5c5347;
+  background: none;
+  border: 1px solid #d4c9b8;
+  border-radius: 4px;
+  padding: 0.15rem 0.3rem;
+  cursor: pointer;
+  display: none;
+  font-family: inherit;
+}
+
+.audio-player-bar.has-chapters .ap-chapter-select {
+  display: block;
+}
+
+/* Settings popover */
+.ap-settings-popover {
+  position: absolute;
+  bottom: 72px;
+  right: 1rem;
+  background: #fff;
+  border: 1px solid #d4c9b8;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(61, 53, 41, 0.15);
+  padding: 1rem;
+  display: none;
+  min-width: 200px;
+  z-index: 1001;
+}
+
+.ap-settings-popover.is-visible {
+  display: block;
+}
+
+.ap-settings-group {
+  margin-bottom: 0.75rem;
+}
+
+.ap-settings-group:last-child {
+  margin-bottom: 0;
+}
+
+.ap-settings-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #8a7f72;
+  margin-bottom: 0.4rem;
+}
+
+.ap-speed-options,
+.ap-sleep-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.ap-speed-btn,
+.ap-sleep-btn {
+  font-size: 0.78rem;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid #d4c9b8;
+  border-radius: 4px;
+  background: none;
+  color: #5c5347;
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.15s ease;
+}
+
+.ap-speed-btn:hover,
+.ap-sleep-btn:hover {
+  background: #f0ece3;
+}
+
+.ap-speed-btn.is-active,
+.ap-sleep-btn.is-active {
+  background: #3d3529;
+  color: #f0ece3;
+  border-color: #3d3529;
+}
+
+.ap-sleep-countdown {
+  font-size: 0.72rem;
+  color: #8a7f72;
+  margin-top: 0.3rem;
+  display: none;
+}
+
+.ap-sleep-countdown.is-visible {
+  display: block;
+}
+
+/* Resume prompt */
+.ap-resume-prompt {
+  position: absolute;
+  bottom: 72px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #fff;
+  border: 1px solid #d4c9b8;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(61, 53, 41, 0.15);
+  padding: 0.75rem 1rem;
+  display: none;
+  z-index: 1001;
+  white-space: nowrap;
+  font-size: 0.85rem;
+  color: #3d3529;
+}
+
+.ap-resume-prompt.is-visible {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.ap-resume-btn {
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid #d4c9b8;
+  border-radius: 4px;
+  background: none;
+  color: #5c5347;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.ap-resume-btn--yes {
+  background: #3d3529;
+  color: #f0ece3;
+  border-color: #3d3529;
+}
+
+/* Body padding when player is visible */
+body.has-audio-player {
+  padding-bottom: 72px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  .ap-info {
+    display: none;
+  }
+
+  .ap-progress-wrap {
+    flex: 1;
+  }
+
+  .audio-player-bar {
+    height: 56px;
+  }
+
+  body.has-audio-player {
+    padding-bottom: 64px;
+  }
+}
