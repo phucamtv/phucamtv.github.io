@@ -98,7 +98,7 @@ Sticky bottom bar, fixed to viewport bottom. Only appears on book pages with `au
 - **Chapter nav** `[🔽]` — dropdown to jump to chapter (hidden for `scope: book` single track)
 - **Prev/Next chapter buttons** — flanking play button, visible only for `scope: chapter`
 - **Settings** `[⚙]` — popover with playback speed and sleep timer
-- **Close** `[×]` — dismisses the player
+- **Close** `[×]` — pauses playback and hides the bar for the current session. Resume data is preserved in localStorage. On next page load, bar stays hidden until user clicks play again.
 
 ### Dropdown Selector Format
 
