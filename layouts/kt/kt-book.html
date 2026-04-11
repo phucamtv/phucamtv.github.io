@@ -13,4 +13,7 @@
     {{ .Content }}
   </div>
 </article>
+{{ if .Params.audio }}
+  {{ partial "audio-player.html" . }}
+{{ end }}
 {{ end }}
