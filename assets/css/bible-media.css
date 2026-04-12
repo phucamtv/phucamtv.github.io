@@ -491,10 +491,6 @@ body.has-audio-player {
 
 /* Mobile adjustments */
 @media (max-width: 600px) {
-  .ap-info {
-    display: none;
-  }
-
   .ap-time-display {
     display: none;
   }
