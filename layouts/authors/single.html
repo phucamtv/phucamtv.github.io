@@ -9,7 +9,10 @@
       <a href="{{ "/authors/" | relURL }}">Các tác giả</a>
     </nav>
     <h1>{{ .Title }}</h1>
-    <h2>Bài viết</h2>
+    {{ with .Content }}
+    <div class="author-bio">{{ . }}</div>
+    {{ end }}
+    <h2 style="margin-top:2rem">Nội dung</h2>
     <ol class="doctrines-list">
     {{ $idx := 0 }}
     {{ range where $.Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true }}
