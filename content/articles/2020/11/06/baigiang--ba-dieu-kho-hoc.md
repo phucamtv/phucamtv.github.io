@@ -40,7 +40,7 @@ Hãy soi mình với những điều dạy dỗ của Chúa — chúng ta sẽ t
 
 ### Lời Mời Gọi Thực Tiễn
 
-Những bất công, những tị hiềm nào còn ẩn chứa trong lòng — hãy dâng lên cho Chúa. Chúng ta nhờ Ngài biến đổi lòng chúng ta, để trở nên giống như Ngài. Kinh thánh chép:
+Những bất công, những tị hiềm nào còn ẩn chứa trong lòng — hãy dâng lên cho Chúa. Chúng ta nhờ Ngài biến đổi lòng chúng ta, để trở nên giống như Ngài. Kinh Thánh chép:
 
 > *Kẻ buông mình vào sự gian ác chẳng hiểu sự công bình; nhưng ai tìm cầu Đức Giê-hô-va hiểu biết mọi sự.* — Châm Ngôn 28:5
 

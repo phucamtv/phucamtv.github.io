@@ -2,7 +2,7 @@
 title: "Đối Diện Với Việc Bị Chối Từ"
 date: 2020-12-05
 url: /baigiang/doi-dien-voi-viec-bi-choi-tu/
-description: "Khi bị từ chối, ruồng rẫy hay bỏ rơi, chúng ta phải đối diện thế nào? Bài giảng dẫn dắt chúng ta qua những tấm gương kinh thánh và chỉ ra Đấng không bao giờ từ chối chúng ta."
+description: "Khi bị từ chối, ruồng rẫy hay bỏ rơi, chúng ta phải đối diện thế nào? Bài giảng dẫn dắt chúng ta qua những tấm gương Kinh Thánh và chỉ ra Đấng không bao giờ từ chối chúng ta."
 tags: ["Đời Sống Cơ-đốc", "Tâm Lý", "Chữa Lành", "Sức Mạnh Thuộc Linh", "Vượt Khó"]
 authors:
   - duong-quang-thoai
@@ -41,7 +41,7 @@ Thế nhưng, khi có cơ hội giết Sau-lơ, Đa-vít không làm. Ông chỉ
 
 Thái độ đó không phải là sự yếu đuối. Đó là sức mạnh của một người biết rằng Đức Chúa Trời đang dẫn dắt cuộc đời mình, dù hoàn cảnh có tối tăm đến đâu.
 
-## Đức Chúa Giê-Su — Đấng Bị Chối Từ Nhiều Nhất
+## Đức Chúa Giê-su — Đấng Bị Chối Từ Nhiều Nhất
 
 Ngay cả Đức Chúa Giê-su cũng không thoát khỏi sự từ chối. Ngài đến với dân Ngài, nhưng dân Ngài không tiếp nhận. Trong những giờ phút đau đớn nhất — tại vườn Ghết-sê-ma-nê, trước tòa án, trên thập tự giá — các môn đệ bỏ trốn, Phi-e-rơ chối bỏ Ngài, và đám đông đòi đóng đinh Ngài. Ngài chịu nỗi đau của sự từ chối không phải vì Ngài đáng bị như vậy, mà vì Ngài muốn thông cảm với mỗi người trong chúng ta khi chúng ta trải qua điều tương tự.
 

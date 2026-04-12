@@ -44,7 +44,7 @@ Con người, nam và nữ, được tạo dựng nên trong hình ảnh của �
 
 ## Áp Dụng Cá Nhân
 
-1. Làm sao để tôi có thể học để biết yêu thương như Chúa yêu? (Đọc thêm Kinh thánh: 1 Giăng 4:7-9; Giăng 13:34; Rô-ma 5:5)
+1. Làm sao để tôi có thể học để biết yêu thương như Chúa yêu? (Đọc thêm Kinh Thánh: 1 Giăng 4:7-9; Giăng 13:34; Rô-ma 5:5)
 2. Thiên Chúa đã làm gì để giúp tôi chiến thắng bản ngã tội lỗi của tôi? (Rô-ma 8:5-9; Galati 5:16-23)
 3. Tôi được tạo dựng trong hình ảnh của Đức Chúa Trời! Tiềm năng để phát triển của tôi sẽ vô hạn! Tôi cảm tạ Đấng Tạo Hoá vì Ngài đã ban Đức Thánh Linh để phục hồi lại ảnh tượng của Ngài trong tôi.
 

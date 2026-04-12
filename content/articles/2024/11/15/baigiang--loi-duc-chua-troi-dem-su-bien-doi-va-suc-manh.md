@@ -20,7 +20,7 @@ draft: false
 
 Mục sư mở đầu bằng sự phân biệt quan trọng giữa hai khái niệm: Lời Chúa là lời sống (bản thân Lời có sự sống, có hoạt động, có quyền năng) và Lời Chúa đem đến sự sống cho người đón nhận. Ông dùng hình ảnh quen thuộc: bác sĩ khám bệnh, kê toa thuốc đầy đủ, dặn dò kỹ lưỡng — nhưng bệnh nhân mang toa về mà không chịu uống thuốc thì sự chữa trị hoàn toàn vô ích. Lời Đức Chúa Trời cũng vậy: dù là lời sống, nếu chúng ta không đón nhận thì sự sống ấy không tác động gì đến chúng ta.
 
-Từ Giăng 5:39, Mục sư đặt ra câu hỏi thẳng thắn: chúng ta đọc Kinh Thánh để làm gì? Có phải để soạn bài giảng, để thi kinh thánh, để chứng tỏ kiến thức, hay để tranh luận giáo lý trên mạng xã hội? Ông thẳng thắn chia sẻ rằng ngay cả người hầu việc Chúa cũng có lúc rơi vào tình trạng đọc Kinh Thánh chỉ để đáp ứng công việc chức vụ, và đó là điều tồi tệ. Kinh Thánh làm chứng về Đức Chúa Giê-su — mục đích đọc Kinh Thánh là để được biến đổi và nhận lấy năng lực.
+Từ Giăng 5:39, Mục sư đặt ra câu hỏi thẳng thắn: chúng ta đọc Kinh Thánh để làm gì? Có phải để soạn bài giảng, để thi Kinh Thánh, để chứng tỏ kiến thức, hay để tranh luận giáo lý trên mạng xã hội? Ông thẳng thắn chia sẻ rằng ngay cả người hầu việc Chúa cũng có lúc rơi vào tình trạng đọc Kinh Thánh chỉ để đáp ứng công việc chức vụ, và đó là điều tồi tệ. Kinh Thánh làm chứng về Đức Chúa Giê-su — mục đích đọc Kinh Thánh là để được biến đổi và nhận lấy năng lực.
 
 Hê-bơ-rơ 4:12 mô tả Lời Chúa sắc hơn gươm hai lưỡi, xem xét tư tưởng và ý định trong lòng. Mục sư nhấn mạnh chữ "ý định": Kinh Thánh không chỉ cáo trách những gì chúng ta đã làm mà còn ngăn chặn những gì chúng ta dự định làm sai, giống như Đức Chúa Trời đã cảnh báo Ca-in trước khi ông giết em mình.
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Phần 1: Những Kẻ Truyền Đạo Gian Ác (Ma-thi-ơ 23:15)
 
-Mục sư Dương Quang Thoại tiếp tục loạt bài học Phúc Âm Ma-thi-ơ đoạn 23, tập trung vào câu 15 đến câu 22. Phân đoạn kinh thánh mở đầu bằng lời quở trách nghiêm khắc của Đức Chúa Giê-su:
+Mục sư Dương Quang Thoại tiếp tục loạt bài học Phúc Âm Ma-thi-ơ đoạn 23, tập trung vào câu 15 đến câu 22. Phân đoạn Kinh Thánh mở đầu bằng lời quở trách nghiêm khắc của Đức Chúa Giê-su:
 
 > *"Khốn cho các ngươi, thầy thông giáo và người Pha-ri-si, là kẻ giả hình! Vì các ngươi đi khắp dưới nước trên bộ để khuyên một người vào đạo mình; và khi đã khuyên được rồi, thì các ngươi làm cho họ trở nên người địa ngục gấp hai các ngươi."*
 
@@ -26,11 +26,11 @@ Vấn đề nằm ở **mục đích** và **điểm đến** của sự truyề
 
 ### Cạm Bẫy Của Tôn Giáo Hình Thức
 
-Mục sư dẫn ra một bài học sâu sắc từ tài liệu của Mục sư William Barclay — nhà giải thích kinh thánh uyên bác không nghiêng lệch theo bất kỳ hệ phái nào. Bài học đó là: nếu một người đi truyền đạo chỉ với mục đích đưa người ta vào hội thánh mình, làm cho hội thánh đông người hơn, thu được nguồn lợi từ sự đóng góp, mà quên mất điều cốt lõi là **đưa người ta đến với Chúa Cứu Thế**, thì người đó đang đặt sai mục đích.
+Mục sư dẫn ra một bài học sâu sắc từ tài liệu của Mục sư William Barclay — nhà giải thích Kinh Thánh uyên bác không nghiêng lệch theo bất kỳ hệ phái nào. Bài học đó là: nếu một người đi truyền đạo chỉ với mục đích đưa người ta vào hội thánh mình, làm cho hội thánh đông người hơn, thu được nguồn lợi từ sự đóng góp, mà quên mất điều cốt lõi là **đưa người ta đến với Chúa Cứu Thế**, thì người đó đang đặt sai mục đích.
 
 Mục sư Thoại thẳng thắn tự kiểm:
 
-> *"Khi học đến phần kinh thánh này, tôi rung sợ và xin Chúa tha thứ để điều chỉnh lại tất cả mọi động lực khi mình truyền giảng."*
+> *"Khi học đến phần Kinh Thánh này, tôi rung sợ và xin Chúa tha thứ để điều chỉnh lại tất cả mọi động lực khi mình truyền giảng."*
 
 Đây là cảnh báo nghiêm khắc cho mọi người làm công tác chăn bầy và truyền giảng ngày nay:
 - Nếu chỉ đưa người đến với **giáo phái** mà không đưa đến Đức Chúa Trời — đó là hành động gian ác.
@@ -87,4 +87,4 @@ Qua Ma-thi-ơ 23:15–22, Mục sư Dương Quang Thoại đúc kết những b�
 
 ---
 
-*Bài giảng dựa trên tài liệu nghiên cứu kinh thánh của Mục sư William Barclay.*
+*Bài giảng dựa trên tài liệu nghiên cứu Kinh Thánh của Mục sư William Barclay.*

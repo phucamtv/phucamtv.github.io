@@ -22,7 +22,7 @@ Câu trả lời dứt khoát: **Không.** Đó là suy nghĩ vội vàng và n�
 
 ## Nền Tảng Kinh Thánh: Giàu Có Trong Chúa
 
-Trưởng lão dẫn hai phân đoạn kinh thánh làm trụ cột cho toàn bài:
+Trưởng lão dẫn hai phân đoạn Kinh Thánh làm trụ cột cho toàn bài:
 
 > *"Nhưng trước hết hãy tìm kiếm nước Đức Chúa Trời và sự công bình của Ngài, thì Ngài sẽ cho thêm các ngươi mọi điều ấy nữa."* — Ma-thi-ơ 6:33
 

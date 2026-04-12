@@ -59,7 +59,7 @@ Xuất Ê-díp-tô Ký 31:18 chép:
 
 > “Khi Thiên Chúa đã phán xong cùng Môi-se tại núi Si-Nai, bèn cho người hai bảng chứng bằng đá, bởi ngón tay Đức Chúa Trời viết ra”. (Xuất Ê-díp-tô Ký 31:18)
 
-Đây là Luật Pháp Mười Điều Răn, Luật Luân lý của Đức Chúa trời, do chính miệng Chúa đã phán, do chính ngón tay Chúa đã viết trên hai bảng đá. Trong Thánh Kinh chỉ ghi lại có hai lần Chúa đã dùng ngón tay của Ngài để viết ra:
+Đây là Luật Pháp Mười Điều Răn, Luật Luân lý của Đức Chúa Trời, do chính miệng Chúa đã phán, do chính ngón tay Chúa đã viết trên hai bảng đá. Trong Thánh Kinh chỉ ghi lại có hai lần Chúa đã dùng ngón tay của Ngài để viết ra:
 
 - Lần thứ nhứt Chúa viết Mười Điều Răn trên hai bảng đá tại núi Si-nai.
 - Lần thứ hai, Vua của Canh-đê là Bên-xát-xa, trong một đêm hoan lạc, đã lấy các dụng cụ bằng vàng và khí mạnh trong đền thờ của Đức Chúa Trời tại Giê-ru-sa-lem, và vua cùng các đại thần, các hoàng hậu và cung phi mình dùng mà uống rượu. Chính giờ đó, có những ngón tay hiện ra, viết trên tường của cung vua, vua trông thấy phần bàn tay ấy đang viết. Bấy giờ vua biến sắc mặt, các ý tưởng làm cho vua bối rối; các xương lưng rời khớp ra, và hai đầu gối chạm vào nhau. Và ngay trong đêm đó, vua người Canh-đê là Bên-xát-xa bị giết, và nước bị phân chia. (Đa-ni-ên 5)
