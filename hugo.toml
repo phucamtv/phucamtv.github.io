@@ -1,5 +1,8 @@
 baseURL = "https://phucam.tv/"
 languageCode = "vi"
+
+[server]
+  port = 1212
 title = "Phúc Âm"
 removePathAccents = true
 [pagination]
@@ -21,6 +24,30 @@ removePathAccents = true
       unsafe = true
 
 ignoreFiles = ['\.py$', 'output/']
+
+[[module.mounts]]
+  source = "data/series.json"
+  target = "data/series.json"
+
+[[module.mounts]]
+  source = "content"
+  target = "content"
+
+[[module.mounts]]
+  source = "static"
+  target = "static"
+
+[[module.mounts]]
+  source = "layouts"
+  target = "layouts"
+
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+
+[[module.mounts]]
+  source = "archetypes"
+  target = "archetypes"
 
 [taxonomies]
   tag = "tags"

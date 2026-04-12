@@ -607,6 +607,14 @@
   PlayerUI.prototype._initSourceDropdown = function () {
     var entries = this.player.entries;
     this.sourceSelect.innerHTML = "";
+    if (entries.length <= 1) {
+      this.sourceSelect.style.display = "none";
+      var span = document.createElement("span");
+      span.className = "ap-source-label";
+      span.textContent = sourceLabel(entries[0]);
+      this.sourceSelect.parentNode.appendChild(span);
+      return;
+    }
     for (var i = 0; i < entries.length; i++) {
       var opt = document.createElement("option");
       opt.value = i;

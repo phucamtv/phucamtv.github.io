@@ -252,6 +252,11 @@
   text-overflow: ellipsis;
 }
 
+.ap-source-label {
+  font-size: 0.75rem;
+  color: #8a7f72;
+}
+
 .ap-source-select {
   font-size: 0.75rem;
   color: #5c5347;

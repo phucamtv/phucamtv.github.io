@@ -4,7 +4,7 @@
   "title" .Title
   "audio" .Params.audio
 }}
-<script id="audio-data" type="application/json">{{ $audioData | jsonify | htmlEscape }}</script>
+<script id="audio-data" type="application/json">{{ $audioData | jsonify | safeJS }}</script>
 
 <div class="audio-player-bar" id="audio-player">
   <div class="audio-player-inner">
