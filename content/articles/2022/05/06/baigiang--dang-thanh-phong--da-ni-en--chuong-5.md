@@ -1,5 +1,5 @@
 ---
-title: "Chữ "thiếu" trong Đa-ni-ên 5"
+title: "Chữ 'thiếu' trong Đa-ni-ên 5"
 date: 2022-05-06
 description: "Mục sư Đặng Thanh Phong giảng về Đa-ni-ên 5 và hai ý nghĩa của chữ 'thiếu': nhân loại thiếu sự vinh hiển của Đức Chúa Trời vì tội lỗi, và người tin Chúa vẫn có thể thiếu khi chưa đặt Chúa làm chủ trọn vẹn cuộc đời."
 tags: ["Đa-ni-ên", "Tiên Tri", "Sự Tái Lâm", "Tội Lỗi", "Sự Cứu Rỗi"]
