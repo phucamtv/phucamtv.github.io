@@ -1,10 +1,10 @@
 baseURL = "https://phucam.tv/"
 languageCode = "vi"
+title = "Phúc Âm"
+removePathAccents = true
 
 [server]
   port = 1212
-title = "Phúc Âm"
-removePathAccents = true
 [pagination]
   pagerSize = 20
 
