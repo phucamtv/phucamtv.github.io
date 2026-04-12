@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "hugo",
-      "runtimeExecutable": "/usr/local/bin/hugo",
+      "runtimeExecutable": "/opt/homebrew/bin/hugo",
       "runtimeArgs": ["server", "-D"],
       "port": 1313
     }

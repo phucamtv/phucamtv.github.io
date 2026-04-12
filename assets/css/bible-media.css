@@ -152,7 +152,6 @@
   bottom: 0;
   left: 0;
   right: 0;
-  height: 64px;
   background: linear-gradient(180deg, #f0ece3 0%, #e8e2d6 100%);
   border-top: 1px solid #d4c9b8;
   box-shadow: 0 -2px 12px rgba(61, 53, 41, 0.1);
@@ -164,7 +163,7 @@
 
 .audio-player-bar.is-visible {
   display: flex;
-  align-items: center;
+  flex-direction: column;
 }
 
 .audio-player-inner {
@@ -175,7 +174,8 @@
   margin: 0 auto;
   padding: 0 1rem;
   width: 100%;
-  height: 100%;
+  height: 64px;
+  flex-shrink: 0;
 }
 
 /* Transport controls: prev, play/pause, next */
@@ -239,7 +239,7 @@
   display: flex;
   flex-direction: column;
   min-width: 0;
-  flex-shrink: 1;
+  flex: 1;
   gap: 0.1rem;
 }
 
@@ -269,31 +269,33 @@
   font-family: inherit;
 }
 
-/* Progress bar */
+/* Progress bar — full-width, top of player */
 .ap-progress-wrap {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  min-width: 0;
+  width: 100%;
+  position: relative;
+  cursor: crosshair;
+  flex-shrink: 0;
+  padding-top: 8px;
+  margin-top: -8px;
 }
 
 .ap-progress-bar {
-  flex: 1;
-  height: 4px;
+  width: 100%;
+  height: 3px;
   background: #d4c9b8;
-  border-radius: 2px;
-  cursor: pointer;
+  cursor: crosshair;
   position: relative;
-  min-width: 60px;
-  padding: 8px 0;
-  background-clip: content-box;
+  transform-origin: bottom;
+  transition: transform 0.15s ease;
+}
+
+.ap-progress-wrap:hover .ap-progress-bar {
+  transform: scaleY(1.67);
 }
 
 .ap-progress-fill {
   height: 100%;
   background: #3d3529;
-  border-radius: 2px;
   width: 0%;
   position: relative;
 }
@@ -312,8 +314,16 @@
   transition: opacity 0.15s ease;
 }
 
-.ap-progress-bar:hover .ap-progress-fill::after {
+.ap-progress-wrap:hover .ap-progress-fill::after {
   opacity: 1;
+}
+
+/* Time display */
+.ap-time-display {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  flex-shrink: 0;
 }
 
 .ap-time {
@@ -321,6 +331,11 @@
   color: #8a7f72;
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
+}
+
+.ap-time-sep {
+  font-size: 0.72rem;
+  color: #8a7f72;
 }
 
 /* Right-side buttons: chapter dropdown, settings, close */
@@ -351,7 +366,7 @@
 /* Settings popover */
 .ap-settings-popover {
   position: absolute;
-  bottom: 72px;
+  bottom: calc(100% + 8px);
   right: 1rem;
   background: #fff;
   border: 1px solid #d4c9b8;
@@ -430,7 +445,7 @@
 /* Resume prompt */
 .ap-resume-prompt {
   position: absolute;
-  bottom: 72px;
+  bottom: calc(100% + 8px);
   left: 50%;
   transform: translateX(-50%);
   background: #fff;
@@ -470,7 +485,7 @@
 
 /* Body padding when player is visible */
 body.has-audio-player {
-  padding-bottom: 72px;
+  padding-bottom: 80px;
 }
 
 /* Mobile adjustments */
@@ -479,16 +494,16 @@ body.has-audio-player {
     display: none;
   }
 
-  .ap-progress-wrap {
-    flex: 1;
+  .ap-time-display {
+    display: none;
   }
 
-  .audio-player-bar {
+  .audio-player-inner {
     height: 56px;
   }
 
   body.has-audio-player {
-    padding-bottom: 64px;
+    padding-bottom: 72px;
   }
 }
 

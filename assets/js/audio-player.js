@@ -584,6 +584,7 @@
     this.chapterSelect = document.getElementById("ap-chapter");
     this.progressBar = document.getElementById("ap-progress");
     this.progressFill = document.getElementById("ap-progress-fill");
+    this.progressWrap = this.progressBar.parentElement;
     this.currentTimeEl = document.getElementById("ap-current-time");
     this.durationEl = document.getElementById("ap-duration");
     this.settingsBtn = document.getElementById("ap-settings-btn");
@@ -681,12 +682,32 @@
       if (!self.player.playing) self.player.play();
     });
 
-    this.progressBar.addEventListener("click", function (e) {
-      if (!self._duration) return;
+    // Drag-to-seek on full-width progress bar
+    var dragging = false;
+    function seekFromEvent(e) {
+      var touch = e.touches ? e.touches[0] : e;
       var rect = self.progressBar.getBoundingClientRect();
-      var pct = (e.clientX - rect.left) / rect.width;
+      var pct = Math.max(0, Math.min(1, (touch.clientX - rect.left) / rect.width));
       self.player.seek(pct * self._duration);
+    }
+    self.progressWrap.addEventListener("mousedown", function (e) {
+      if (!self._duration) return;
+      dragging = true;
+      seekFromEvent(e);
     });
+    document.addEventListener("mousemove", function (e) {
+      if (dragging && self._duration) seekFromEvent(e);
+    });
+    document.addEventListener("mouseup", function () { dragging = false; });
+    self.progressWrap.addEventListener("touchstart", function (e) {
+      if (!self._duration) return;
+      dragging = true;
+      seekFromEvent(e);
+    }, { passive: true });
+    self.progressWrap.addEventListener("touchmove", function (e) {
+      if (dragging && self._duration) seekFromEvent(e);
+    }, { passive: true });
+    self.progressWrap.addEventListener("touchend", function () { dragging = false; });
 
     this.settingsBtn.addEventListener("click", function (e) {
       e.stopPropagation();

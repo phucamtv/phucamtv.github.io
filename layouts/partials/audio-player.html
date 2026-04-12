@@ -7,6 +7,13 @@
 <script id="audio-data" type="application/json">{{ $audioData | jsonify | safeJS }}</script>
 
 <div class="audio-player-bar" id="audio-player">
+  {{/* Full-width progress bar (Spotify-style, top of player) */}}
+  <div class="ap-progress-wrap">
+    <div class="ap-progress-bar" id="ap-progress">
+      <div class="ap-progress-fill" id="ap-progress-fill"></div>
+    </div>
+  </div>
+
   <div class="audio-player-inner">
     {{/* Transport: prev, play/pause, next */}}
     <div class="ap-transport">
@@ -28,12 +35,10 @@
       <select class="ap-source-select" id="ap-source"></select>
     </div>
 
-    {{/* Progress bar */}}
-    <div class="ap-progress-wrap">
+    {{/* Time display */}}
+    <div class="ap-time-display">
       <span class="ap-time" id="ap-current-time">0:00</span>
-      <div class="ap-progress-bar" id="ap-progress">
-        <div class="ap-progress-fill" id="ap-progress-fill"></div>
-      </div>
+      <span class="ap-time-sep">/</span>
       <span class="ap-time" id="ap-duration">0:00</span>
     </div>
 
