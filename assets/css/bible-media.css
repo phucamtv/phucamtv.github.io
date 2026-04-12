@@ -154,7 +154,7 @@
   right: 0;
   background: linear-gradient(180deg, #f0ece3 0%, #e8e2d6 100%);
   border-top: 1px solid #d4c9b8;
-  box-shadow: 0 -2px 12px rgba(61, 53, 41, 0.1);
+  box-shadow: 0 -4px 20px rgba(61, 53, 41, 0.18);
   z-index: 1000;
   display: none;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;

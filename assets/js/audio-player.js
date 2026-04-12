@@ -368,6 +368,7 @@
     var self = this;
     var onTime = function (cur, dur) {
       if (self._ui) self._ui.updateProgress(cur, dur);
+      self._updateMediaSessionPosition(cur, dur);
     };
     var onEnd = function () {
       self._handleTrackEnd();
@@ -419,6 +420,8 @@
     this.playing = true;
     this._startResumeSave();
     if (this._ui) this._ui.updatePlayState(true);
+    this._updateMediaSession();
+    this._setMediaSessionState("playing");
   };
 
   AudioPlayer.prototype.pause = function () {
@@ -428,6 +431,7 @@
     this._stopResumeSave();
     this._saveResumeNow();
     if (this._ui) this._ui.updatePlayState(false);
+    this._setMediaSessionState("paused");
   };
 
   AudioPlayer.prototype.togglePlay = function () {
@@ -444,6 +448,9 @@
     saveSpeed(rate);
     if (this.backend) this.backend.setSpeed(rate);
     if (this._ui) this._ui.updateSpeed(rate);
+    if (this.backend) {
+      this._updateMediaSessionPosition(this.backend.getCurrentTime(), this.backend.getDuration());
+    }
   };
 
   AudioPlayer.prototype.setChapter = function (ch) {
@@ -478,6 +485,7 @@
     }
 
     if (this._ui) this._ui.updateTrackInfo(this);
+    this._updateMediaSession();
   };
 
   AudioPlayer.prototype.nextChapter = function () {
@@ -560,6 +568,53 @@
     var pos = this.backend.getCurrentTime();
     if (pos > 0) {
       saveResume(this.slug, this.currentIndex, this.currentChapter, pos);
+    }
+  };
+
+  // ── Media Session API (lock screen controls, background playback) ──
+
+  AudioPlayer.prototype._updateMediaSession = function () {
+    if (!("mediaSession" in navigator)) return;
+    var entry = this.currentEntry();
+    var title = this.bookTitle;
+    if (entry.scope === "chapter") title += " - Chương " + this.currentChapter;
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: title,
+      artist: sourceLabel(entry),
+      album: "Kinh Thánh",
+    });
+    var self = this;
+    navigator.mediaSession.setActionHandler("play", function () { self.play(); });
+    navigator.mediaSession.setActionHandler("pause", function () { self.pause(); });
+    navigator.mediaSession.setActionHandler("seekbackward", function () {
+      var t = self.backend.getCurrentTime();
+      self.seek(Math.max(0, t - 10));
+    });
+    navigator.mediaSession.setActionHandler("seekforward", function () {
+      var t = self.backend.getCurrentTime();
+      self.seek(t + 30);
+    });
+    try {
+      navigator.mediaSession.setActionHandler("previoustrack", self.chapters ? function () { self.prevChapter(); } : null);
+      navigator.mediaSession.setActionHandler("nexttrack", self.chapters ? function () { self.nextChapter(); } : null);
+    } catch (e) { /* unsupported */ }
+  };
+
+  AudioPlayer.prototype._setMediaSessionState = function (state) {
+    if (!("mediaSession" in navigator)) return;
+    navigator.mediaSession.playbackState = state;
+  };
+
+  AudioPlayer.prototype._updateMediaSessionPosition = function (position, duration) {
+    if (!("mediaSession" in navigator) || !navigator.mediaSession.setPositionState) return;
+    if (duration > 0) {
+      try {
+        navigator.mediaSession.setPositionState({
+          duration: duration,
+          playbackRate: this.speed,
+          position: Math.min(position, duration),
+        });
+      } catch (e) { /* invalid state */ }
     }
   };
 
