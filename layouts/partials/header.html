@@ -6,7 +6,19 @@
         {{ .Site.Title }}
       </a>
       <div class="nav-links">
-        <a href="{{ "tags/" | relURL }}">Chủ đề</a>
+        <div class="nav-dropdown">
+          <a href="{{ "/tags/" | relURL }}">Chủ đề <span class="nav-dropdown-icon" aria-hidden="true">&#9662;</span></a>
+          <div class="nav-dropdown-menu">
+            <a href="{{ "/tags/" | relURL }}">
+              <span class="nav-dropdown-title">Tất cả Chủ Đề</span>
+              <span class="nav-dropdown-desc">Duyệt bài theo chủ đề</span>
+            </a>
+            <a href="{{ "/authors/" | relURL }}">
+              <span class="nav-dropdown-title">Các tác giả</span>
+              <span class="nav-dropdown-desc">Những người tạo nội dung</span>
+            </a>
+          </div>
+        </div>
         <div class="nav-dropdown">
           <a href="{{ "/kt/" | relURL }}">Kinh Thánh <span class="nav-dropdown-icon" aria-hidden="true">&#9662;</span></a>
           <div class="nav-dropdown-menu">
