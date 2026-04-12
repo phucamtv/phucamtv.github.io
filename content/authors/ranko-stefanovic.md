@@ -4,7 +4,7 @@ slug: ranko-stefanovic
 email: ""
 phone: ""
 country: "Hoa Kỳ"
-avatar: ""
+avatar: "ranko-stefanovic.webp"
 ---
 
 Giáo sư Khoa Tân Ước tại Chủng Viện Thần Học Cơ-đốc Phục Lâm thuộc Đại học Andrews (Andrews University, Hoa Kỳ), với chuyên ngành sâu về sách Khải Huyền. Ông lấy bằng Cử nhân Thần học và Thạc sĩ tại Adventist International Institute of Advanced Studies, và bằng Tiến sĩ tại Đại học Andrews.
