@@ -1,6 +1,6 @@
 ---
 title: "Không E Ngại Phi Chính Thống — Cuộc Đối Thoại Cởi Mở Với Walter Veith"
-date: 2026-04-13
+date: 2026-04-10
 url: /phongvan/walter-veith-khong-e-ngai-phi-chinh-thong/
 description: "Giáo sư Walter Veith trò chuyện cùng Advent Media Connect về hành trình từ thế giới huyền bí đến Cơ-đốc Phục Lâm, về nguồn gốc loạt bài Total Onslaught, về dấu hiệu tận thế, luật Chúa Nhật, phong trào Zionism, và chân lý về Đức Thánh Linh."
 tags: ["Walter Veith", "Lời Tiên Tri", "Ngày Tận Thế", "Luật Chúa Nhật", "Zionism", "Ba Ngôi", "Cơ-đốc Phục Lâm", "Hội Dòng Tên"]
