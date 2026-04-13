@@ -1,12 +1,14 @@
-"""Translate a single chunk with Claude, then resolve Bible sentinels."""
+"""Translate a single chunk via the `claude` CLI, then resolve Bible sentinels.
+
+Uses the local Claude Code CLI in bare print mode — no ANTHROPIC_API_KEY
+required. Billing is the user's Claude subscription.
+"""
 from __future__ import annotations
 
-import os
+import shutil
+import subprocess
 import sys
 import time
-from pathlib import Path
-
-from anthropic import Anthropic, APIError
 
 from scripts.gc_translation.bible import load_bible, load_bible_refs, resolve_sentinels
 from scripts.gc_translation.glossary import load_glossary
@@ -19,26 +21,45 @@ from scripts.gc_translation.paths import (
 from scripts.gc_translation.prompt import build_system_prompt
 
 MODEL = "claude-opus-4-6"
-MAX_TOKENS = 8000
 MAX_RETRIES = 3
+TIMEOUT_SECONDS = 600
 
 
-def translate_chunk_text(
-    client: Anthropic, english: str, system_prompt: str
-) -> str:
+def translate_chunk_text(english: str, system_prompt: str) -> str:
+    claude = shutil.which("claude")
+    if not claude:
+        raise RuntimeError("`claude` CLI not found on PATH")
+
+    cmd = [
+        claude,
+        "-p",
+        "--model", MODEL,
+        "--system-prompt", system_prompt,
+        "--output-format", "text",
+        "--setting-sources", "",
+        "--disable-slash-commands",
+    ]
+
     last_err: Exception | None = None
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            resp = client.messages.create(
-                model=MODEL,
-                max_tokens=MAX_TOKENS,
-                system=system_prompt,
-                messages=[{"role": "user", "content": english}],
+            result = subprocess.run(
+                cmd,
+                input=english,
+                capture_output=True,
+                text=True,
+                timeout=TIMEOUT_SECONDS,
+                check=False,
             )
-            return "".join(
-                block.text for block in resp.content if getattr(block, "type", None) == "text"
-            ).strip()
-        except APIError as e:
+            if result.returncode != 0:
+                raise RuntimeError(
+                    f"claude exit {result.returncode}: {result.stderr.strip()[:500]}"
+                )
+            out = result.stdout.strip()
+            if not out:
+                raise RuntimeError("claude returned empty output")
+            return out
+        except (subprocess.TimeoutExpired, RuntimeError) as e:
             last_err = e
             wait = 2 ** attempt
             print(f"  attempt {attempt} failed: {e}; retrying in {wait}s", file=sys.stderr)
@@ -55,12 +76,10 @@ def translate_chunk_file(chapter: int, chunk: int, force: bool = False) -> None:
 
     TRANSLATED_DIR.mkdir(parents=True, exist_ok=True)
     src = chunk_path(chapter, chunk).read_text(encoding="utf-8")
-
-    client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     system_prompt = build_system_prompt(load_glossary())
 
     try:
-        raw = translate_chunk_text(client, src, system_prompt)
+        raw = translate_chunk_text(src, system_prompt)
     except Exception as e:
         err_file.write_text(f"{type(e).__name__}: {e}\n", encoding="utf-8")
         print(f"ch{chapter:02d}-{chunk:02d}: FAILED — {e}", file=sys.stderr)
