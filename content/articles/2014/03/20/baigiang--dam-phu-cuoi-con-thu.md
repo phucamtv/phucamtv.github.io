@@ -1,9 +1,9 @@
 ---
-title: "Đạm Phụ Cưỡi Con Thú — Giải Mã Khải Huyền 17"
+title: "Dâm Phụ Cưỡi Con Thú — Giải Mã Khải Huyền 17"
 date: 2014-03-20
 url: /baigiang/dam-phu-cuoi-con-thu/
-description: "Mục sư Stephen Bohr phân tích Khải Huyền 17, vạch trần danh tính của đạm phụ Ba-by-lôn, con thú sắc đỏ bảy đầu mười sừng, ba giai đoạn quyền lực của giáo hoàng La Mã, và sự cạn kiệt dòng sông Ơ-phơ-rát trong thời kỳ cuối cùng."
-tags: ["Stephen Bohr", "Khải Huyền 17", "Lời Tiên Tri", "Đạm Phụ Ba-by-lôn", "Con Thú", "Giáo Hoàng", "Bảy Đầu", "Mười Sừng", "Armageddon"]
+description: "Mục sư Stephen Bohr phân tích Khải Huyền 17, vạch trần danh tính của dâm phụ Ba-by-lôn, con thú sắc đỏ bảy đầu mười sừng, ba giai đoạn quyền lực của giáo hoàng La Mã, và sự cạn kiệt dòng sông Ơ-phơ-rát trong thời kỳ cuối cùng."
+tags: ["Stephen Bohr", "Khải Huyền 17", "Lời Tiên Tri", "Dâm Phụ Ba-by-lôn", "Con Thú", "Giáo Hoàng", "Bảy Đầu", "Mười Sừng", "Armageddon"]
 authors: ["stephen-bohr"]
 plugins: [youtube]
 youtubeIDs: ["V7l57lWekqM"]
