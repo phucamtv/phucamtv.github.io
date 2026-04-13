@@ -1,9 +1,10 @@
 ---
-title: "Chương 12: Chapter 12—The French Reformation"
+title: "Chương 12: The French Reformation"
 slug: "chuong-12"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 12
+weight: 12
 date: 2026-04-13
 summary: ""
 ---

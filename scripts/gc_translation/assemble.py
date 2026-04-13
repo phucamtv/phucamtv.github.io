@@ -30,6 +30,7 @@ def build_front_matter(
         'author: "ellen-g-white"',
         'book: "thien-ac-dau-tranh"',
         f"chapter: {chapter}",
+        f"weight: {chapter}",
         f"date: {date}",
         f'summary: "{esc(summary)}"',
         "---",

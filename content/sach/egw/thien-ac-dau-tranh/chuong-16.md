@@ -1,9 +1,10 @@
 ---
-title: "Chương 16: Chapter 16—The Pilgrim Fathers"
+title: "Chương 16: The Pilgrim Fathers"
 slug: "chuong-16"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 16
+weight: 16
 date: 2026-04-13
 summary: ""
 ---

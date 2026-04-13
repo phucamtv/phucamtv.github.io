@@ -1,9 +1,10 @@
 ---
-title: "Chương 18: Chapter 18—An American Reformer"
+title: "Chương 18: An American Reformer"
 slug: "chuong-18"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 18
+weight: 18
 date: 2026-04-13
 summary: ""
 ---

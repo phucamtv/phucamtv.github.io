@@ -1,9 +1,10 @@
 ---
-title: "Chương 38: Chapter 38—The Final Warning"
+title: "Chương 38: The Final Warning"
 slug: "chuong-38"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 38
+weight: 38
 date: 2026-04-13
 summary: ""
 ---

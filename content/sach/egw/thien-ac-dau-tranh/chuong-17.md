@@ -1,9 +1,10 @@
 ---
-title: "Chương 17: Chapter 17—Heralds of the Morning"
+title: "Chương 17: Heralds of the Morning"
 slug: "chuong-17"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 17
+weight: 17
 date: 2026-04-13
 summary: ""
 ---

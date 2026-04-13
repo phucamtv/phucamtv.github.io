@@ -1,9 +1,10 @@
 ---
-title: "Chương 20: Chapter 20—A Great Religious Awakening"
+title: "Chương 20: A Great Religious Awakening"
 slug: "chuong-20"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 20
+weight: 20
 date: 2026-04-13
 summary: ""
 ---

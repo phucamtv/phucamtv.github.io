@@ -1,9 +1,10 @@
 ---
-title: "Chương 11: Chapter 11—Protest of the Princes"
+title: "Chương 11: Protest of the Princes"
 slug: "chuong-11"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 11
+weight: 11
 date: 2026-04-13
 summary: ""
 ---

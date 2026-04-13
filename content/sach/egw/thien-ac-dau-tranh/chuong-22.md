@@ -1,9 +1,10 @@
 ---
-title: "Chương 22: Chapter 22—Prophecies Fulfilled"
+title: "Chương 22: Prophecies Fulfilled"
 slug: "chuong-22"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 22
+weight: 22
 date: 2026-04-13
 summary: ""
 ---

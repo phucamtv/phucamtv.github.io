@@ -1,9 +1,10 @@
 ---
-title: "Chương 6: Chapter 6—Huss and Jerome"
+title: "Chương 6: Huss and Jerome"
 slug: "chuong-06"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 6
+weight: 6
 date: 2026-04-13
 summary: ""
 ---

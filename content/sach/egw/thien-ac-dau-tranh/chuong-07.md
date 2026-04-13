@@ -1,9 +1,10 @@
 ---
-title: "Chương 7: Chapter 7—Luther’s Separation From Rome"
+title: "Chương 7: Luther’s Separation From Rome"
 slug: "chuong-07"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 7
+weight: 7
 date: 2026-04-13
 summary: ""
 ---

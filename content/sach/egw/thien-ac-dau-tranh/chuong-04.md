@@ -1,9 +1,10 @@
 ---
-title: "Chương 4: Chapter 4—The Waldenses"
+title: "Chương 4: The Waldenses"
 slug: "chuong-04"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 4
+weight: 4
 date: 2026-04-13
 summary: ""
 ---

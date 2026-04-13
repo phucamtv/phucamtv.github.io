@@ -1,9 +1,10 @@
 ---
-title: "Chương 27: Chapter 27—Modern Revivals"
+title: "Chương 27: Modern Revivals"
 slug: "chuong-27"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 27
+weight: 27
 date: 2026-04-13
 summary: ""
 ---

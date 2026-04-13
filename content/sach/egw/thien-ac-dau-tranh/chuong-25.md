@@ -1,9 +1,10 @@
 ---
-title: "Chương 25: Chapter 25—God’s Law Immutable"
+title: "Chương 25: God’s Law Immutable"
 slug: "chuong-25"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 25
+weight: 25
 date: 2026-04-13
 summary: ""
 ---

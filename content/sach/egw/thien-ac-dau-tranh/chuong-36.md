@@ -1,9 +1,10 @@
 ---
-title: "Chương 36: Chapter 36—The Impending Conflict"
+title: "Chương 36: The Impending Conflict"
 slug: "chuong-36"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 36
+weight: 36
 date: 2026-04-13
 summary: ""
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Chương 1: Chapter 1—The Destruction of Jerusalem"
+title: "Chương 1: The Destruction of Jerusalem"
 slug: "chuong-01"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 1
+weight: 1
 date: 2026-04-13
 summary: ""
 ---

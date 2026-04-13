@@ -1,9 +1,10 @@
 ---
-title: "Chương 24: Chapter 24—In the Holy of Holies"
+title: "Chương 24: In the Holy of Holies"
 slug: "chuong-24"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 24
+weight: 24
 date: 2026-04-13
 summary: ""
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Chương 28: Chapter 28—Facing Life’s Record"
+title: "Chương 28: Facing Life’s Record"
 slug: "chuong-28"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 28
+weight: 28
 date: 2026-04-13
 summary: ""
 ---

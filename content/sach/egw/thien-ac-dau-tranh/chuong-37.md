@@ -1,9 +1,10 @@
 ---
-title: "Chương 37: Chapter 37—The Scriptures a Safeguard"
+title: "Chương 37: The Scriptures a Safeguard"
 slug: "chuong-37"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 37
+weight: 37
 date: 2026-04-13
 summary: ""
 ---

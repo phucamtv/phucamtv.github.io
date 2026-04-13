@@ -1,9 +1,10 @@
 ---
-title: "Chương 32: Chapter 32—Snares of Satan"
+title: "Chương 32: Snares of Satan"
 slug: "chuong-32"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 32
+weight: 32
 date: 2026-04-13
 summary: ""
 ---

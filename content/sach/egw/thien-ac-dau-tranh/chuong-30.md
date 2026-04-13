@@ -1,9 +1,10 @@
 ---
-title: "Chương 30: Chapter 30—Enmity Between Man and Satan"
+title: "Chương 30: Enmity Between Man and Satan"
 slug: "chuong-30"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 30
+weight: 30
 date: 2026-04-13
 summary: ""
 ---

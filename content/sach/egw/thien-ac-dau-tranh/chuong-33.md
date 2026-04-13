@@ -1,9 +1,10 @@
 ---
-title: "Chương 33: Chapter 33—The First Great Deception"
+title: "Chương 33: The First Great Deception"
 slug: "chuong-33"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 33
+weight: 33
 date: 2026-04-13
 summary: ""
 ---

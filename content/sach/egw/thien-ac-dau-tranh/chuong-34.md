@@ -1,9 +1,10 @@
 ---
-title: "Chương 34: Chapter 34—Can Our Dead Speak to Us?"
+title: "Chương 34: Can Our Dead Speak to Us?"
 slug: "chuong-34"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 34
+weight: 34
 date: 2026-04-13
 summary: ""
 ---

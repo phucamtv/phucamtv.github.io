@@ -1,9 +1,10 @@
 ---
-title: "Chương 21: Chapter 21—A Warning Rejected"
+title: "Chương 21: A Warning Rejected"
 slug: "chuong-21"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 21
+weight: 21
 date: 2026-04-13
 summary: ""
 ---

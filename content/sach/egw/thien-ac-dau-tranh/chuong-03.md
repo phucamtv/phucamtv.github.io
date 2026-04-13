@@ -1,9 +1,10 @@
 ---
-title: "Chương 3: Chapter 3—An Era of Spiritual Darkness"
+title: "Chương 3: An Era of Spiritual Darkness"
 slug: "chuong-03"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 3
+weight: 3
 date: 2026-04-13
 summary: ""
 ---
