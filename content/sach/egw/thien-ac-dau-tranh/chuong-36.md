@@ -1,5 +1,5 @@
 ---
-title: "Chương 36: The Impending Conflict"
+title: "Chương 36: Cuộc Xung Đột Sắp Tới"
 slug: "chuong-36"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

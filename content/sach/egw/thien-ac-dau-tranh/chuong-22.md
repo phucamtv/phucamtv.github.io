@@ -1,5 +1,5 @@
 ---
-title: "Chương 22: Prophecies Fulfilled"
+title: "Chương 22: Những Lời Tiên Tri Được Ứng Nghiệm"
 slug: "chuong-22"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

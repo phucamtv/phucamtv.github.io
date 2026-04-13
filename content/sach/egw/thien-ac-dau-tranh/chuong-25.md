@@ -1,5 +1,5 @@
 ---
-title: "Chương 25: God’s Law Immutable"
+title: "Chương 25: Luật Pháp Đức Chúa Trời Không Thể Thay Đổi"
 slug: "chuong-25"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

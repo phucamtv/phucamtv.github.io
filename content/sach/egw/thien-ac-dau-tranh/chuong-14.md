@@ -1,5 +1,5 @@
 ---
-title: "Chương 14: Later English Reformers"
+title: "Chương 14: Các Nhà Cải Chánh Anh Quốc Về Sau"
 slug: "chuong-14"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

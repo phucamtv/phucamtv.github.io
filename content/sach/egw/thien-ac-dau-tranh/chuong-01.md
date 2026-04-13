@@ -1,5 +1,5 @@
 ---
-title: "Chương 1: The Destruction of Jerusalem"
+title: "Chương 1: Sự Hủy Diệt Thành Giê-ru-sa-lem"
 slug: "chuong-01"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

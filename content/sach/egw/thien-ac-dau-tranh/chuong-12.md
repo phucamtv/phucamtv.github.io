@@ -1,5 +1,5 @@
 ---
-title: "Chương 12: The French Reformation"
+title: "Chương 12: Cuộc Cải Chánh Tại Pháp"
 slug: "chuong-12"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

@@ -1,5 +1,5 @@
 ---
-title: "Chương 24: In the Holy of Holies"
+title: "Chương 24: Trong Nơi Chí Thánh"
 slug: "chuong-24"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

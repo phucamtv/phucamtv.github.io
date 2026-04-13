@@ -1,5 +1,5 @@
 ---
-title: "Chương 18: An American Reformer"
+title: "Chương 18: Một Nhà Cải Chánh Người Mỹ"
 slug: "chuong-18"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

@@ -1,5 +1,5 @@
 ---
-title: "Chương 11: Protest of the Princes"
+title: "Chương 11: Sự Phản Kháng Của Các Hoàng Tử"
 slug: "chuong-11"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

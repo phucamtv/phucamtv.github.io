@@ -1,5 +1,5 @@
 ---
-title: "Chương 19: Light Through Darkness"
+title: "Chương 19: Ánh Sáng Xuyên Qua Bóng Tối"
 slug: "chuong-19"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

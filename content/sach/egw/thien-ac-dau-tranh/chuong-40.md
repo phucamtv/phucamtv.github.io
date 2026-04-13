@@ -1,5 +1,5 @@
 ---
-title: "Chương 40: God’s People Delivered"
+title: "Chương 40: Dân Sự Đức Chúa Trời Được Giải Cứu"
 slug: "chuong-40"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

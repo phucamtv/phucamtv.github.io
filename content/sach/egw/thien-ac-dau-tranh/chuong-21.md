@@ -1,5 +1,5 @@
 ---
-title: "Chương 21: A Warning Rejected"
+title: "Chương 21: Lời Cảnh Báo Bị Khước Từ"
 slug: "chuong-21"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

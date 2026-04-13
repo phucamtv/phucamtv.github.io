@@ -1,5 +1,5 @@
 ---
-title: "Chương 20: A Great Religious Awakening"
+title: "Chương 20: Cuộc Phục Hưng Tôn Giáo Vĩ Đại"
 slug: "chuong-20"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

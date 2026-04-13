@@ -1,5 +1,5 @@
 ---
-title: "Chương 7: Luther’s Separation From Rome"
+title: "Chương 7: Sự Tách Biệt Của Lu-thơ Khỏi La Mã"
 slug: "chuong-07"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

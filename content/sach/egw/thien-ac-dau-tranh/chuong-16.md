@@ -1,5 +1,5 @@
 ---
-title: "Chương 16: The Pilgrim Fathers"
+title: "Chương 16: Những Người Cha Hành Hương"
 slug: "chuong-16"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

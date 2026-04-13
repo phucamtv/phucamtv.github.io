@@ -1,5 +1,5 @@
 ---
-title: "Chương 15: The Bible and the French Revolution"
+title: "Chương 15: Kinh Thánh và Cuộc Cách Mạng Pháp"
 slug: "chuong-15"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

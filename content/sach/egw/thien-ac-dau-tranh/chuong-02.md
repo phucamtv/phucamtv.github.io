@@ -1,5 +1,5 @@
 ---
-title: "Chương 2: Persecution in the First Centuries"
+title: "Chương 2: Sự Bắt Bớ Trong Những Thế Kỷ Đầu Tiên"
 slug: "chuong-02"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

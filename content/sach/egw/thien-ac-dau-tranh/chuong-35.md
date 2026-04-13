@@ -1,5 +1,5 @@
 ---
-title: "Chương 35: Liberty of Conscience Threatened"
+title: "Chương 35: Quyền Tự Do Lương Tâm Bị Đe Dọa"
 slug: "chuong-35"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
