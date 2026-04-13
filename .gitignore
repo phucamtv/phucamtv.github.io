@@ -4,3 +4,7 @@ public/
 .claude/data/
 .claude/tasks/
 *.log
+
+# GC translation intermediate artifacts
+data/gc-source/
+data/gc-translated/

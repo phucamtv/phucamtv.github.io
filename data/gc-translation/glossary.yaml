@@ -1,0 +1,100 @@
+# English → Vietnamese theological glossary for The Great Controversy.
+# These renderings are MANDATORY — the translator must use them verbatim.
+# Grouped by category for human editability; the loader flattens all groups.
+
+divine_names:
+  God: Đức Chúa Trời
+  Lord: Chúa
+  Jesus: Đức Chúa Giê-su
+  Jesus Christ: Đức Chúa Giê-su
+  Christ: Đấng Christ
+  Holy Spirit: Đức Thánh Linh
+  Father: Đức Chúa Cha
+  Son of God: Con Đức Chúa Trời
+  Son of Man: Con Người
+  Saviour: Đấng Cứu Thế
+  Redeemer: Đấng Cứu Chuộc
+  Messiah: Đấng Mê-si
+
+adversary:
+  Satan: Sa-tan
+  devil: ma quỷ
+  the dragon: con rồng
+  antichrist: kẻ địch lại Đấng Christ
+
+people:
+  disciples: các môn đồ
+  apostles: các sứ đồ
+  prophets: các tiên tri
+  priests: các thầy tế lễ
+  Pharisees: người Pha-ri-si
+  Sadducees: người Sa-đu-sê
+  Jews: người Do Thái
+  Gentiles: dân ngoại
+  saints: các thánh đồ
+  remnant: dân sót
+  martyrs: những người tử đạo
+  Reformers: các nhà Cải chánh
+  Protestants: người Tin lành
+  Luther: Lu-thơ
+
+institutions:
+  Judaism: Do Thái Giáo
+  Christianity: Cơ-đốc Giáo
+  Catholicism: Công Giáo
+  Protestantism: Tin Lành
+  Church of Rome: Giáo hội La-mã
+  papacy: giáo hoàng
+  church: hội thánh
+
+theology:
+  sanctuary: đền thánh
+  temple: đền thờ
+  tabernacle: đền tạm
+  most holy place: nơi chí thánh
+  holy place: nơi thánh
+  ark of the covenant: hòm giao ước
+  mercy seat: nắp thi ân
+  law of God: luật pháp Đức Chúa Trời
+  Ten Commandments: Mười Điều Răn
+  commandments: các điều răn
+  Sabbath: Sa-bát
+  grace: ân điển
+  faith: đức tin
+  salvation: sự cứu rỗi
+  redemption: sự cứu chuộc
+  atonement: sự chuộc tội
+  sin: tội lỗi
+  righteousness: sự công bình
+  judgment: sự phán xét
+  investigative judgment: sự phán xét tra xét
+  second coming: sự tái lâm
+  second advent: sự tái lâm
+  millennium: thiên hi niên
+  resurrection: sự sống lại
+  immortality: sự bất tử
+  soul: linh hồn
+  spirit: thần linh
+  kingdom of God: nước Đức Chúa Trời
+  kingdom of heaven: nước thiên đàng
+  gospel: tin lành
+  scripture: Kinh Thánh
+  scriptures: Kinh Thánh
+  Bible: Kinh Thánh
+  Word of God: Lời Đức Chúa Trời
+  covenant: giao ước
+  new covenant: giao ước mới
+  old covenant: giao ước cũ
+  Sabbath-keeping: sự giữ ngày Sa-bát
+  Christian: Cơ-đốc nhân
+  Christians: những người Cơ-đốc
+
+events:
+  the Fall: sự sa ngã
+  the Flood: cơn Đại hồng thủy
+  the Reformation: cuộc Cải chánh
+  the Dark Ages: thời kỳ Trung Cổ
+  the crucifixion: sự đóng đinh
+  the resurrection: sự phục sinh
+  Pentecost: lễ Ngũ Tuần
+  Passover: lễ Vượt Qua
