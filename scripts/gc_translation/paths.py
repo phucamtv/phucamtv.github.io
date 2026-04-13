@@ -18,12 +18,12 @@ CHAPTERS = 42
 BOOK_ID = 132  # egwwritings book id
 
 
-def chapter_source_html(n: int) -> Path:
-    return SOURCE_DIR / f"ch{n:02d}.html"
+def chapter_source_html(chapter: int) -> Path:
+    return SOURCE_DIR / f"ch{chapter:02d}.html"
 
 
-def chapter_source_text(n: int) -> Path:
-    return SOURCE_DIR / f"ch{n:02d}.txt"
+def chapter_source_text(chapter: int) -> Path:
+    return SOURCE_DIR / f"ch{chapter:02d}.txt"
 
 
 def chunk_path(chapter: int, chunk: int) -> Path:
@@ -38,5 +38,5 @@ def error_path(chapter: int, chunk: int) -> Path:
     return TRANSLATED_DIR / f"ch{chapter:02d}-{chunk:02d}.err"
 
 
-def hugo_chapter_path(n: int) -> Path:
-    return HUGO_BOOK_DIR / f"chuong-{n:02d}.md"
+def hugo_chapter_path(chapter: int) -> Path:
+    return HUGO_BOOK_DIR / f"chuong-{chapter:02d}.md"
