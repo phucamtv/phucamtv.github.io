@@ -73,7 +73,12 @@ Nhiều người tự lừa dối về tình trạng thật của mình trước
 
 Khi thời kỳ thử thách đến, những ai đã lấy lời Đức Chúa Trời làm quy tắc cho đời sống mình sẽ được tỏ ra. Vào mùa hè, không có sự khác biệt đáng chú ý giữa cây thường xanh và các cây khác; nhưng khi những cơn gió mùa đông thổi đến, cây thường xanh vẫn không thay đổi, trong khi các cây khác bị trút hết lá. Cũng vậy, người xưng đạo giả dối có thể hiện nay không phân biệt được với Cơ-đốc nhân chân thật, nhưng thời điểm sự khác biệt được tỏ rõ đã gần kề. Hãy để sự chống đối nổi lên, hãy để sự cố chấp và bất khoan dung lại hoành hành, hãy để sự bắt bớ được nhen lên, thì kẻ nửa lòng và giả hình sẽ dao động và chối bỏ đức tin; nhưng Cơ-đốc nhân chân thật sẽ đứng vững như đá, đức tin của người mạnh mẽ hơn, hy vọng của người rạng rỡ hơn so với những ngày thịnh vượng. GC 602.1
 
-Tác giả Thi Thiên nói: “Chứng cớ Chúa là sự suy gẫm tôi.” “Nhờ giềng mối Chúa tôi được sự thông sáng; vì vậy, tôi ghét mọi đường giả dối.” [[BIBLE:Psalm 119:99,104]]. GC 602.2
+Tác giả Thi Thiên nói: “Chứng cớ Chúa là sự suy gẫm tôi.” “Nhờ giềng mối Chúa tôi được sự thông sáng; vì vậy, tôi ghét mọi đường giả dối.” 
+
+> "Tôi có trí hiểu hơn hết thảy kẻ dạy tôi, Vì tôi suy gẫm các chứng cớ Chúa. Nhờ giềng mối Chúa tôi được sự thông sáng; Vì vậy, tôi ghét mọi đường giả dối."
+> <cite>(Thi-thiên 119:99,104)</cite>
+
+GC 602.2
 
 “Phước cho người nào tìm được sự khôn ngoan.” “Nó cũng như cây trồng nơi bờ suối, đâm rễ theo dòng nước chảy; ngộ khi trời nắng, chẳng hề sợ hãi, mà lá cứ xanh tươi. Gặp năm hạn hán cũng chẳng lo gì, mà cứ ra trái không dứt.” > "Người nào tìm đặng sự khôn ngoan, Và được sự thông sáng, có phước thay!"
 > <cite>(Châm-ngôn 3:13)</cite>; > "Nó cũng như cây trồng nơi bờ suối, đâm rễ theo dòng nước chảy; ngộ khi trời nắng, chẳng hề sợ hãi, mà lá cứ xanh tươi. Gặp năm hạn hán cũng chẳng lo gì, mà cứ ra trái không dứt."

@@ -91,7 +91,12 @@ Trong một ngàn năm giữa sự sống lại thứ nhất và sự sống l�
 > <cite>(I Cô-rinh-tô 6:2)</cite>. Trong sự hiệp một với Đấng Christ, họ phán xét những kẻ ác, đối chiếu các việc làm của chúng với bộ luật pháp, là Kinh Thánh, và quyết định từng trường hợp theo những việc đã làm lúc còn sống trong thân xác. Rồi phần hình phạt mà những kẻ ác phải chịu được phân định theo các việc làm của chúng; và điều đó được ghi lại đối nghịch với tên của chúng trong sách sự chết. GC 660.4
 
 Sa-tan và các thiên sứ ác cũng bị Đấng Christ và dân sự Ngài phán xét. Phao-lô nói rằng: > "Anh em chẳng biết chúng ta sẽ xét đoán các thiên sứ sao? Huống chi việc đời này!"
-> <cite>(I Cô-rinh-tô 6:3)</cite>. Và Giu-đe tuyên bố rằng [[BIBLE:Jude 6]]. GC 661.1
+> <cite>(I Cô-rinh-tô 6:3)</cite>. Và Giu-đe tuyên bố rằng 
+
+> "còn các thiên sứ không giữ thứ bậc và bỏ chỗ riêng mình, thì Ngài đã dùng dây xích họ trong nơi tối tăm đời đời, cầm giữ lại để chờ sự phán xét ngày lớn."
+> <cite>(Giu-đe 6)</cite>
+
+GC 661.1
 
 Vào cuối một ngàn năm, sự sống lại thứ hai sẽ diễn ra. Bấy giờ những kẻ ác sẽ được sống lại từ cõi chết và xuất hiện trước mặt Đức Chúa Trời để thi hành "sự phán xét đã chép". Như vậy, người viết sách Khải Huyền, sau khi mô tả sự sống lại của những người công bình, đã nói rằng: > "Còn những kẻ chết khác chẳng được sống cho đến khi đủ một ngàn năm. Ấy là sự sống lại thứ nhất."
 > <cite>(Khải-huyền 20:5)</cite>. Và Ê-sai tuyên bố, về những kẻ ác: > "Họ sẽ nhóm lại cùng nhau, bị cầm trong hầm như tù bị nhốt trong ngục; cách lâu ngày, sẽ đều bị phạt."

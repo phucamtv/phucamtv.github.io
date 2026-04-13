@@ -56,7 +56,12 @@ Thiên sứ hiệp cùng trong việc rao truyền sứ điệp của thiên s�
 
 Công việc này sẽ giống như công việc trong ngày lễ Ngũ Tuần. Như “mưa đầu mùa” đã được ban xuống, trong sự đổ ra của Đức Thánh Linh vào lúc khởi đầu của tin lành, để khiến hạt giống quý báu nảy mầm, thì “mưa cuối mùa” cũng sẽ được ban xuống vào lúc kết thúc để làm chín mùa gặt. > "Chúng ta khá nhìn biết Đức Giê-hô-va; chúng ta khá gắng sức nhìn biết Ngài. Sự hiện ra của Ngài là chắc chắn như sự hiện ra của mặt trời sớm mai, Ngài sẽ đến cùng chúng ta như mưa, như mưa cuối mùa tưới đất."
 > <cite>(Ô-sê 6:3)</cite> > "Hỡi con cái Si-ôn, các ngươi hãy nức lòng vui vẻ và mừng rỡ trong Giê-hô-va Đức Chúa Trời các ngươi! Vì Ngài ban mưa phải thời cho các ngươi về mùa đầu, và xuống mưa dồi dào về mùa đầu và mùa cuối cho các ngươi nơi tháng đầu tiên."
-> <cite>(Giô-ên 2:23)</cite> [[BIBLE:Acts 2:17,21]] GC 611.2
+> <cite>(Giô-ên 2:23)</cite> 
+
+> "Đức Chúa Trời phán: Trong những ngày sau rốt, ta sẽ đổ Thần ta khắp trên mọi xác thịt; Con trai và con gái các ngươi đều sẽ nói lời tiên tri, Bọn trai trẻ sẽ thấy điềm lạ, Và các người già cả sẽ có chiêm bao. Vả lại ai cầu khẩn danh Chúa thì sẽ được cứu."
+> <cite>(Công-vụ các Sứ-đồ 2:17,21)</cite>
+
+ GC 611.2
 
 Công việc vĩ đại của tin lành sẽ không kết thúc với sự biểu hiện quyền năng của Đức Chúa Trời ít hơn so với lúc khởi đầu. Những lời tiên tri đã được ứng nghiệm trong sự đổ ra của mưa đầu mùa vào lúc khởi đầu của tin lành sẽ lại được ứng nghiệm trong mưa cuối mùa vào lúc kết thúc. Đây là “kỳ thơ thái” mà sứ đồ Phi-e-rơ đã trông đợi khi ông nói: > "Vậy, các ngươi hãy ăn năn và trở lại, đặng cho tội lỗi mình được xóa đi, hầu cho kỳ thơ thái đến từ Chúa, và Chúa sai Đấng Cơ-đốc đã định cho các ngươi, tức là Giê-su,"
 > <cite>(Công-vụ các Sứ-đồ 3:19-20)</cite> GC 611.3

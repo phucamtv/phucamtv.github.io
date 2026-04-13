@@ -133,7 +133,12 @@ Farel bắt đầu công việc tại Thụy Sĩ trong vai trò khiêm nhường
 Farel đã từ lâu ao ước cắm ngọn cờ Tin Lành tại Geneva. Nếu thành này được chinh phục, nó sẽ là trung tâm cho cuộc Cải chánh ở Pháp, ở Thụy Sĩ và ở Ý. Với mục tiêu ấy trước mắt, ông đã tiếp tục công lao cho đến khi nhiều thị trấn và làng mạc xung quanh đã được chinh phục. Rồi cùng với một người bạn đồng hành duy nhất, ông bước vào Geneva. Nhưng ông chỉ được phép giảng hai bài. Các thầy tế lễ, sau khi cố gắng vô ích kết án ông trước các nhà chức trách dân sự, đã triệu ông đến trước một hội đồng giáo hội, đến đó họ giấu vũ khí dưới áo choàng, quyết lấy mạng sống ông. Bên ngoài phòng họp, một đám đông hung hãn, với gậy và gươm, tụ tập để chắc chắn giết chết ông nếu ông thoát khỏi hội đồng. Tuy nhiên, sự hiện diện của các quan chức và một lực lượng vũ trang đã cứu ông. Sáng sớm hôm sau, ông cùng người bạn đồng hành được đưa qua hồ đến một nơi an toàn. Nỗ lực đầu tiên của ông để truyền tin lành tại Geneva đã kết thúc như vậy. GC 232.1
 
 Cho lần thử kế tiếp, một khí cụ khiêm nhường hơn đã được chọn—một thanh niên, khiêm nhường về diện mạo đến nỗi ngay cả những người được xưng là bạn của cuộc cải cách cũng đối đãi lạnh nhạt. Nhưng người như vậy có thể làm được gì nơi mà Farel đã bị từ chối? Làm sao một người ít can đảm và kinh nghiệm có thể chống lại cơn bão mà những người mạnh mẽ và can đảm nhất đã buộc phải chạy trốn? > "Người đáp lại rằng: Đây là lời của Đức Giê-hô-va phán cho Xô-rô-ba-bên, rằng: Ấy chẳng phải là bởi quyền thế, cũng chẳng phải là bởi năng lực, bèn là bởi Thần ta, Đức Giê-hô-va vạn quân phán vậy."
-> <cite>(Xa-cha-ri 4:6)</cite> [[BIBLE:1 Corinthians 1:27,25]] GC 232.2
+> <cite>(Xa-cha-ri 4:6)</cite> 
+
+> "Nhưng Đức Chúa Trời đã chọn những sự dại ở thế gian để làm hổ thẹn những kẻ khôn; Đức Chúa Trời đã chọn những sự yếu ở thế gian để làm hổ thẹn những sự mạnh; Bởi vì sự rồ dại của Đức Chúa Trời là khôn sáng hơn người ta, và sự yếu đuối của Đức Chúa Trời là mạnh hơn người ta."
+> <cite>(I Cô-rinh-tô 1:27,25)</cite>
+
+ GC 232.2
 
 Froment bắt đầu công việc với tư cách là một thầy giáo. Các lẽ thật ông dạy cho trẻ em ở trường được chúng lặp lại ở nhà. Chẳng bao lâu các bậc cha mẹ đến nghe Kinh Thánh được giải thích, cho đến khi phòng học đầy những người chăm chú lắng nghe. Kinh Tân Ước và các tờ rơi được phân phát rộng rãi, và chúng đến được với nhiều người vốn không dám công khai đến nghe các giáo lý mới. Sau một thời gian, người lao động này cũng buộc phải chạy trốn; nhưng các lẽ thật ông đã dạy đã bám rễ trong tâm trí người ta. Cuộc Cải chánh đã được gieo trồng, và tiếp tục củng cố và mở rộng. Các nhà truyền đạo trở lại, và qua công lao của họ, sự thờ phượng Tin Lành cuối cùng đã được thiết lập tại Geneva. GC 232.3
 

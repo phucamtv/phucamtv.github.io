@@ -25,7 +25,12 @@ Một trong những giáo lý hàng đầu của Công Giáo La-mã là giáo ho
 Nhưng những người kính sợ và tôn kính Đức Chúa Trời đối diện với sự tự phụ dám thách thức thiên đàng này theo cách Đấng Christ đã đáp lại những lời dụ dỗ của kẻ thù xảo quyệt: "> "Đức Chúa Giê-su đáp: Có chép rằng: Ngươi phải thờ phượng Chúa, là Đức Chúa Trời ngươi, và chỉ hầu việc một mình Ngài mà thôi."
 > <cite>(Lu-ca 4:8)</cite>". Đức Chúa Trời chưa bao giờ gợi ý trong Lời của Ngài rằng Ngài đã chỉ định bất kỳ người nào làm đầu hội thánh. Giáo lý về quyền tối thượng của giáo hoàng đi ngược lại trực tiếp với những lời dạy của Kinh Thánh. Giáo hoàng không thể có quyền lực nào trên hội thánh của Đấng Christ ngoại trừ bằng sự chiếm đoạt. GC 51.1
 
-Những người Công Giáo La-mã đã khăng khăng kết tội người Tin lành là theo tà giáo và cố ý tách khỏi hội thánh chân chính. Nhưng những lời buộc tội này lại đúng hơn với chính họ. Chính họ mới là những người đã hạ xuống ngọn cờ của Đấng Christ và rời bỏ "[[BIBLE:Jude 3]]". GC 51.2
+Những người Công Giáo La-mã đã khăng khăng kết tội người Tin lành là theo tà giáo và cố ý tách khỏi hội thánh chân chính. Nhưng những lời buộc tội này lại đúng hơn với chính họ. Chính họ mới là những người đã hạ xuống ngọn cờ của Đấng Christ và rời bỏ
+
+> "Hỡi kẻ rất yêu dấu, vì tôi đã ân cần viết cho anh em về sự cứu rỗi chung của chúng ta, tôi tưởng phải làm điều đó, để khuyên anh em vì đạo mà tranh chiến, là đạo đã truyền cho các thánh một lần đủ rồi."
+> <cite>(Giu-đe 3)</cite>
+
+GC 51.2
 
 Sa-tan biết rõ rằng Kinh Thánh sẽ khiến con người có khả năng nhận biết những mưu kế lừa dối của nó và chống lại quyền lực của nó. Chính bằng lời mà ngay cả Đấng Cứu Thế của thế gian cũng đã chống lại những cuộc tấn công của nó. Trước mỗi cuộc tấn công, Đấng Christ đã đưa ra khiên thuẫn của chân lý đời đời, phán rằng, "Có lời chép rằng." Đối với mọi gợi ý của kẻ thù, Ngài đã đối lại bằng sự khôn ngoan và quyền năng của lời. Để Sa-tan có thể duy trì sự thống trị của mình trên con người, và thiết lập thẩm quyền của kẻ tiếm quyền giáo hoàng, nó phải giữ cho họ ngu muội về Kinh Thánh. Kinh Thánh sẽ tôn cao Đức Chúa Trời và đặt loài người hữu hạn vào vị trí chân thật của họ; vì vậy những chân lý thánh của nó phải bị che giấu và đàn áp. Logic này đã được Giáo hội La-mã chấp nhận. Trong hàng trăm năm, việc lưu hành Kinh Thánh đã bị cấm đoán. Dân chúng bị cấm đọc hoặc giữ Kinh Thánh trong nhà, và những thầy tế lễ và giáo phẩm vô đạo đức đã giải nghĩa những lời dạy của Kinh Thánh để hỗ trợ cho những yêu sách của họ. Vì vậy, giáo hoàng đã được công nhận gần như phổ biến là kẻ thay mặt Đức Chúa Trời trên đất, được ban cho thẩm quyền trên cả hội thánh lẫn quốc gia. GC 51.3
 
