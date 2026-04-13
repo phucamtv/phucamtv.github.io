@@ -1,12 +1,395 @@
 {{ define "main" }}
-<section class="list" style="max-width:800px">
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ $pages := .RegularPages.ByWeight }}
-  {{ range $pages }}
-  <article class="summary">
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-  </article>
-  {{ end }}
-</section>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+
+<style>
+  .ts-root {
+    --ink: #1c1813;
+    --ink-soft: #4a3f33;
+    --ink-mute: #8a7c69;
+    --paper: #f4ede0;
+    --paper-deep: #ebe2cf;
+    --gold: #a8853f;
+    --gold-soft: #c9a661;
+    --rule: #d8caa9;
+
+    font-family: "EB Garamond", "Lora", Georgia, serif;
+    color: var(--ink);
+    background: var(--paper);
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    position: relative;
+    overflow: hidden;
+  }
+  .ts-root::before {
+    content: "";
+    position: absolute; inset: 0;
+    background-image:
+      radial-gradient(ellipse at 25% 0%, rgba(168,133,63,0.07), transparent 55%),
+      radial-gradient(ellipse at 75% 100%, rgba(74,63,51,0.09), transparent 50%),
+      url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.18  0 0 0 0 0.14  0 0 0 0 0.08  0 0 0 0.10 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+    pointer-events: none;
+    mix-blend-mode: multiply;
+    opacity: 0.55;
+  }
+  .ts-wrap {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 3rem 1.75rem 5rem;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Breadcrumb (sub-levels only) */
+  .ts-crumb {
+    font-family: "EB Garamond", serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+  .ts-crumb a {
+    color: var(--ink-mute);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color .25s;
+  }
+  .ts-crumb a:hover { border-color: var(--gold); }
+
+  /* Hero */
+  .ts-hero {
+    text-align: center;
+    margin-bottom: 3rem;
+    animation: tsFade 0.9s ease both;
+  }
+  .ts-hero-ornament {
+    font-size: 1.6rem;
+    color: var(--gold);
+    margin-bottom: 1.5rem;
+    letter-spacing: 0.5em;
+  }
+  .ts-title {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 500;
+    font-size: clamp(2.4rem, 6vw, 3.8rem);
+    line-height: 1.1;
+    letter-spacing: 0.03em;
+    color: var(--ink);
+    margin: 0 0 1.25rem;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.4);
+  }
+  .ts-intro {
+    font-family: "EB Garamond", serif;
+    font-size: 1.08rem;
+    line-height: 1.8;
+    color: var(--ink-soft);
+    max-width: 520px;
+    margin: 0 auto 2.25rem;
+  }
+  .ts-intro p { margin: 0; }
+  .ts-hero-rule {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    color: var(--gold);
+  }
+  .ts-hero-rule .line {
+    height: 1px;
+    flex: 0 1 100px;
+    background: linear-gradient(90deg, transparent, var(--gold-soft), transparent);
+  }
+  .ts-hero-rule .ornament {
+    font-size: 1.2rem;
+    line-height: 1;
+  }
+
+  /* Author group heading */
+  .ts-author-group {
+    margin-bottom: 3rem;
+  }
+  .ts-author-label {
+    font-family: "EB Garamond", serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.42em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 1.75rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .ts-author-label::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, var(--rule), transparent);
+  }
+
+  /* Book card */
+  .ts-book {
+    display: block;
+    text-decoration: none;
+    color: var(--ink);
+    border: 1px solid var(--rule);
+    padding: 3rem 2.5rem 2.5rem;
+    position: relative;
+    text-align: center;
+    background: linear-gradient(180deg, rgba(255,253,247,0.6), rgba(244,237,224,0.0));
+    transition: border-color .4s ease, box-shadow .4s ease, transform .4s ease;
+    animation: tsSlide 0.75s ease both;
+    margin-bottom: 2rem;
+  }
+  .ts-book:last-child { margin-bottom: 0; }
+  .ts-book:hover {
+    border-color: var(--gold-soft);
+    box-shadow:
+      0 6px 32px rgba(168,133,63,0.13),
+      0 2px 8px rgba(28,24,19,0.05);
+    transform: translateY(-3px);
+  }
+  /* Corner ornaments */
+  .ts-book::before, .ts-book::after {
+    content: "";
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border: 1px solid var(--gold);
+    opacity: 0.38;
+    transition: opacity .4s ease;
+  }
+  .ts-book::before { top: 9px; left: 9px; border-right: none; border-bottom: none; }
+  .ts-book::after { bottom: 9px; right: 9px; border-left: none; border-top: none; }
+  .ts-book:hover::before, .ts-book:hover::after { opacity: 0.65; }
+
+  /* Card stagger */
+  .ts-book:nth-child(2) { animation-delay: 0.12s; }
+  .ts-book:nth-child(3) { animation-delay: 0.24s; }
+  .ts-book:nth-child(4) { animation-delay: 0.36s; }
+  .ts-book:nth-child(5) { animation-delay: 0.48s; }
+
+  /* Book card content */
+  .ts-book-eyebrow {
+    font-family: "Cormorant Garamond", serif;
+    font-style: italic;
+    font-size: 0.92rem;
+    color: var(--ink-mute);
+    letter-spacing: 0.14em;
+    margin-bottom: 0.3rem;
+  }
+  .ts-book-author {
+    font-family: "EB Garamond", serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 1.5rem;
+  }
+  .ts-book-title {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 500;
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    line-height: 1.05;
+    letter-spacing: 0.005em;
+    color: var(--ink);
+    margin: 0;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.4);
+  }
+  .ts-book-subtitle {
+    font-family: "Cormorant Garamond", serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 1.15rem;
+    color: var(--ink-soft);
+    letter-spacing: 0.04em;
+    margin-top: 0.6rem;
+  }
+  .ts-book-rule {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.8rem;
+    margin: 1.5rem auto;
+    max-width: 200px;
+    color: var(--gold);
+  }
+  .ts-book-rule .line {
+    height: 1px;
+    flex: 1;
+    background: linear-gradient(90deg, transparent, var(--gold-soft), transparent);
+  }
+  .ts-book-rule .ornament {
+    font-size: 1.1rem;
+    line-height: 1;
+  }
+  .ts-book-chapters {
+    display: inline-block;
+    font-family: "EB Garamond", serif;
+    font-size: 0.74rem;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    border: 1px solid var(--rule);
+    padding: 0.3rem 1rem;
+    margin-bottom: 1.25rem;
+    font-variant-numeric: oldstyle-nums;
+  }
+  .ts-book-summary {
+    font-family: "EB Garamond", serif;
+    font-size: 1rem;
+    line-height: 1.75;
+    color: var(--ink-soft);
+    max-width: 540px;
+    margin: 0 auto;
+  }
+  .ts-book-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-top: 1.75rem;
+    font-family: "EB Garamond", serif;
+    font-size: 0.88rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--gold);
+    transition: color .3s, gap .3s;
+  }
+  .ts-book:hover .ts-book-cta {
+    color: var(--ink);
+    gap: 0.85rem;
+  }
+  .ts-book-cta .arrow {
+    display: inline-block;
+    transition: transform .3s;
+    font-size: 1rem;
+  }
+  .ts-book:hover .ts-book-cta .arrow {
+    transform: translateX(4px);
+  }
+
+  /* Footer */
+  .ts-foot {
+    margin-top: 4.5rem;
+    text-align: center;
+    color: var(--ink-mute);
+    font-family: "Cormorant Garamond", serif;
+    font-style: italic;
+    font-size: 0.95rem;
+    letter-spacing: 0.03em;
+  }
+  .ts-foot .ornament {
+    color: var(--gold);
+    font-size: 1.4rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  .ts-foot .imprint {
+    font-style: normal;
+    font-size: 0.72rem;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-top: 0.4rem;
+  }
+  .ts-foot .imprint span { color: var(--gold); margin: 0 0.4rem; }
+
+  /* Animations */
+  @keyframes tsFade {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes tsSlide {
+    from { opacity: 0; transform: translateY(14px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Responsive */
+  @media (max-width: 640px) {
+    .ts-wrap { padding: 2.5rem 1.25rem 3.5rem; }
+    .ts-hero { margin-bottom: 3.5rem; }
+    .ts-book { padding: 2.25rem 1.5rem 2rem; }
+  }
+</style>
+
+<div class="ts-root">
+  <div class="ts-wrap">
+    {{/* Breadcrumb — sub-levels only */}}
+    {{ if not .Parent.IsHome }}
+    <div class="ts-crumb">
+      <a href="/sach/">Tủ Sách</a> &nbsp;❦&nbsp; {{ .Title }}
+    </div>
+    {{ end }}
+
+    {{/* Hero */}}
+    <header class="ts-hero">
+      <div class="ts-hero-ornament">❦</div>
+      <h1 class="ts-title">{{ .Title }}</h1>
+      {{ with .Content }}<div class="ts-intro">{{ . }}</div>{{ end }}
+      <div class="ts-hero-rule">
+        <span class="line"></span>
+        <span class="ornament">❦</span>
+        <span class="line"></span>
+      </div>
+    </header>
+
+    {{/* Book collection */}}
+    {{ with .Sections }}
+    <section class="ts-collection">
+      {{ range $section := . }}
+        {{ if $section.Sections }}
+        {{/* Author group with sub-books */}}
+        <div class="ts-author-group">
+          <div class="ts-author-label">{{ $section.Title }}</div>
+          {{ range $book := $section.Sections }}
+          <a href="{{ $book.RelPermalink }}" class="ts-book">
+            <div class="ts-book-eyebrow">một tác phẩm của</div>
+            <div class="ts-book-author">{{ $section.Title }}</div>
+            <h2 class="ts-book-title">{{ $book.Title }}</h2>
+            {{ with $book.Params.subtitle }}<div class="ts-book-subtitle">{{ . }}</div>{{ end }}
+            <div class="ts-book-rule">
+              <span class="line"></span>
+              <span class="ornament">❦</span>
+              <span class="line"></span>
+            </div>
+            {{ with $book.RegularPages }}
+            <div class="ts-book-chapters">{{ len . }} chương</div>
+            {{ end }}
+            {{ with $book.Params.summary }}<p class="ts-book-summary">{{ . }}</p>{{ end }}
+            <div class="ts-book-cta">Đọc sách <span class="arrow">→</span></div>
+          </a>
+          {{ end }}
+        </div>
+        {{ else }}
+        {{/* Direct book at this level */}}
+        <a href="{{ $section.RelPermalink }}" class="ts-book">
+          <div class="ts-book-eyebrow">một tác phẩm của</div>
+          <div class="ts-book-author">{{ $.Title }}</div>
+          <h2 class="ts-book-title">{{ $section.Title }}</h2>
+          {{ with $section.Params.subtitle }}<div class="ts-book-subtitle">{{ . }}</div>{{ end }}
+          <div class="ts-book-rule">
+            <span class="line"></span>
+            <span class="ornament">❦</span>
+            <span class="line"></span>
+          </div>
+          {{ with $section.RegularPages }}
+          <div class="ts-book-chapters">{{ len . }} chương</div>
+          {{ end }}
+          {{ with $section.Params.summary }}<p class="ts-book-summary">{{ . }}</p>{{ end }}
+          <div class="ts-book-cta">Đọc sách <span class="arrow">→</span></div>
+        </a>
+        {{ end }}
+      {{ end }}
+    </section>
+    {{ end }}
+
+    <div class="ts-foot">
+      <span class="ornament">⁂</span>
+      "Cả Kinh Thánh đều là bởi Đức Chúa Trời soi dẫn."
+      <div class="imprint">PhucAm.tv <span>·</span> Tủ Sách</div>
+    </div>
+  </div>
+</div>
 {{ end }}

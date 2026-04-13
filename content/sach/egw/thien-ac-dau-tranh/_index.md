@@ -3,6 +3,10 @@ title: "Thiện Ác Đấu Tranh"
 slug: "thien-ac-dau-tranh"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
+layout: "frontispiece"
+subtitle: "The Great Controversy"
+cascade:
+  layout: "chapter"
 summary: "Cuốn sách kinh điển của Ellen G. White kể lại cuộc đại chiến giữa Đấng Christ và Sa-tan xuyên suốt lịch sử, từ sự tàn phá Giê-ru-sa-lem đến ngày tái lâm."
 ---
 
