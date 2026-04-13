@@ -1,5 +1,5 @@
 ---
-title: "Chương 6: Huss and Jerome"
+title: "Chương 6: Huss và Jerome"
 slug: "chuong-06"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

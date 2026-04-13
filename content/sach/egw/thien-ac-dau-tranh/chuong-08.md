@@ -1,5 +1,5 @@
 ---
-title: "Chương 8: Luther Before the Diet"
+title: "Chương 8: Lu-thơ Trước Hội Nghị"
 slug: "chuong-08"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

@@ -1,5 +1,5 @@
 ---
-title: "Chương 42: The Controversy Ended"
+title: "Chương 42: Cuộc Đấu Tranh Kết Thúc"
 slug: "chuong-42"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

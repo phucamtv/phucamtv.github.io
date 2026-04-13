@@ -1,5 +1,5 @@
 ---
-title: "Chương 39: The Time of Trouble"
+title: "Chương 39: Thời Kỳ Hoạn Nạn"
 slug: "chuong-39"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

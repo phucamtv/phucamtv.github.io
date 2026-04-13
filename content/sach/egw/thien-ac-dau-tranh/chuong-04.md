@@ -1,5 +1,5 @@
 ---
-title: "Chương 4: The Waldenses"
+title: "Chương 4: Người Waldenses"
 slug: "chuong-04"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

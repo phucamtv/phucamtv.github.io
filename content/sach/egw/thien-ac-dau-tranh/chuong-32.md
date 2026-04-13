@@ -1,5 +1,5 @@
 ---
-title: "Chương 32: Snares of Satan"
+title: "Chương 32: Cạm Bẫy Của Sa-tan"
 slug: "chuong-32"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

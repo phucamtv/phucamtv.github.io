@@ -1,5 +1,5 @@
 ---
-title: "Chương 34: Can Our Dead Speak to Us?"
+title: "Chương 34: Người Chết Có Thể Nói Chuyện Với Chúng Ta Không?"
 slug: "chuong-34"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

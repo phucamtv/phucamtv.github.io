@@ -1,5 +1,5 @@
 ---
-title: "Chương 41: Desolation of the Earth"
+title: "Chương 41: Sự Hoang Tàn Của Trái Đất"
 slug: "chuong-41"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

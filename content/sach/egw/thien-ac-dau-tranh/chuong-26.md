@@ -1,5 +1,5 @@
 ---
-title: "Chương 26: A Work of Reform"
+title: "Chương 26: Công Cuộc Cải Chánh"
 slug: "chuong-26"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

@@ -1,5 +1,5 @@
 ---
-title: "Chương 3: An Era of Spiritual Darkness"
+title: "Chương 3: Thời Đại Tối Tăm Thuộc Linh"
 slug: "chuong-03"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

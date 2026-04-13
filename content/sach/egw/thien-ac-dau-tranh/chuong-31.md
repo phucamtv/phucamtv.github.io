@@ -1,5 +1,5 @@
 ---
-title: "Chương 31: Agency of Evil Spirits"
+title: "Chương 31: Hoạt Động Của Các Tà Linh"
 slug: "chuong-31"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

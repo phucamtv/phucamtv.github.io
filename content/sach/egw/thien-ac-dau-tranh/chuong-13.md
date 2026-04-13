@@ -1,5 +1,5 @@
 ---
-title: "Chương 13: The Netherlands and Scandinavia"
+title: "Chương 13: Hà Lan và Scandinavia"
 slug: "chuong-13"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

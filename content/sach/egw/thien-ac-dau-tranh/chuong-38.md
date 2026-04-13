@@ -1,5 +1,5 @@
 ---
-title: "Chương 38: The Final Warning"
+title: "Chương 38: Lời Cảnh Báo Cuối Cùng"
 slug: "chuong-38"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

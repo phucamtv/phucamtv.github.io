@@ -1,5 +1,5 @@
 ---
-title: "Chương 10: Progress of Reform in Germany"
+title: "Chương 10: Tiến Trình Cải Chánh Tại Đức"
 slug: "chuong-10"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

@@ -1,5 +1,5 @@
 ---
-title: "Chương 28: Facing Life’s Record"
+title: "Chương 28: Đối Diện Với Sổ Sách Cuộc Đời"
 slug: "chuong-28"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

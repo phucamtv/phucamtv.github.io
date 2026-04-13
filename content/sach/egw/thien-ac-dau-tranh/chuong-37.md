@@ -1,5 +1,5 @@
 ---
-title: "Chương 37: The Scriptures a Safeguard"
+title: "Chương 37: Kinh Thánh Là Sự Bảo Vệ"
 slug: "chuong-37"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

@@ -1,5 +1,5 @@
 ---
-title: "Chương 27: Modern Revivals"
+title: "Chương 27: Những Cuộc Phục Hưng Hiện Đại"
 slug: "chuong-27"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

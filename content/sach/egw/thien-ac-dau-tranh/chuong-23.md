@@ -1,5 +1,5 @@
 ---
-title: "Chương 23: What is the Sanctuary?"
+title: "Chương 23: Đền Thánh Là Gì?"
 slug: "chuong-23"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

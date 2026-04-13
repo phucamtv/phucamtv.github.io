@@ -1,5 +1,5 @@
 ---
-title: "Chương 29: The Origin of Evil"
+title: "Chương 29: Nguồn Gốc Của Sự Ác"
 slug: "chuong-29"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

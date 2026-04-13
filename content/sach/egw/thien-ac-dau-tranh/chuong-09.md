@@ -1,5 +1,5 @@
 ---
-title: "Chương 9: The Swiss Reformer"
+title: "Chương 9: Nhà Cải Chánh Thụy Sĩ"
 slug: "chuong-09"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

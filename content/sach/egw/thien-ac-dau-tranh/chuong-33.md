@@ -1,5 +1,5 @@
 ---
-title: "Chương 33: The First Great Deception"
+title: "Chương 33: Sự Lừa Dối Lớn Đầu Tiên"
 slug: "chuong-33"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

@@ -1,5 +1,5 @@
 ---
-title: "Chương 17: Heralds of the Morning"
+title: "Chương 17: Sứ Giả Của Buổi Bình Minh"
 slug: "chuong-17"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"

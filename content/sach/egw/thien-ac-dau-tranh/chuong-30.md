@@ -1,5 +1,5 @@
 ---
-title: "Chương 30: Enmity Between Man and Satan"
+title: "Chương 30: Sự Thù Nghịch Giữa Loài Người và Sa-tan"
 slug: "chuong-30"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
