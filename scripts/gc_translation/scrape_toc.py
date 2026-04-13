@@ -30,7 +30,11 @@ def parse_toc(html: str) -> list[dict]:
         text = a.get_text(" ", strip=True)
         if not text or text.lower() in {"contents", "back", "next"}:
             continue
+        if text in {"Read", "Details"}:
+            continue
         url = href if href.startswith("http") else f"https://m.egwwritings.org{href}"
+        if url.endswith("/info") or url.endswith(".0"):
+            continue
         if url in seen_urls:
             continue
         seen_urls.add(url)
