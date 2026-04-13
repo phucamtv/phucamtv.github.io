@@ -1,9 +1,10 @@
 ---
-title: "Chương 8: Chapter 8—Luther Before the Diet"
+title: "Chương 8: Luther Before the Diet"
 slug: "chuong-08"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 8
+weight: 8
 date: 2026-04-13
 summary: ""
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Chương 40: Chapter 40—God’s People Delivered"
+title: "Chương 40: God’s People Delivered"
 slug: "chuong-40"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 40
+weight: 40
 date: 2026-04-13
 summary: ""
 ---

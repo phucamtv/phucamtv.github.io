@@ -1,9 +1,10 @@
 ---
-title: "Chương 42: Chapter 42—The Controversy Ended"
+title: "Chương 42: The Controversy Ended"
 slug: "chuong-42"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 42
+weight: 42
 date: 2026-04-13
 summary: ""
 ---

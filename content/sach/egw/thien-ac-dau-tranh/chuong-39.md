@@ -1,9 +1,10 @@
 ---
-title: "Chương 39: Chapter 39—The Time of Trouble"
+title: "Chương 39: The Time of Trouble"
 slug: "chuong-39"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 39
+weight: 39
 date: 2026-04-13
 summary: ""
 ---

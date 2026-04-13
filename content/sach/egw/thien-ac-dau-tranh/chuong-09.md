@@ -1,9 +1,10 @@
 ---
-title: "Chương 9: Chapter 9—The Swiss Reformer"
+title: "Chương 9: The Swiss Reformer"
 slug: "chuong-09"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 9
+weight: 9
 date: 2026-04-13
 summary: ""
 ---

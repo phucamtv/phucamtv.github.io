@@ -1,9 +1,10 @@
 ---
-title: "Chương 5: Chapter 5—John Wycliffe"
+title: "Chương 5: John Wycliffe"
 slug: "chuong-05"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 5
+weight: 5
 date: 2026-04-13
 summary: ""
 ---

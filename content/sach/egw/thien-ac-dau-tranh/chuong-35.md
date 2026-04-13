@@ -1,9 +1,10 @@
 ---
-title: "Chương 35: Chapter 35—Liberty of Conscience Threatened"
+title: "Chương 35: Liberty of Conscience Threatened"
 slug: "chuong-35"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 35
+weight: 35
 date: 2026-04-13
 summary: ""
 ---

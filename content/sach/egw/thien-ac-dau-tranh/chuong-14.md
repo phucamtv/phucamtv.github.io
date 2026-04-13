@@ -1,9 +1,10 @@
 ---
-title: "Chương 14: Chapter 14—Later English Reformers"
+title: "Chương 14: Later English Reformers"
 slug: "chuong-14"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 14
+weight: 14
 date: 2026-04-13
 summary: ""
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Chương 2: Chapter 2—Persecution in the First Centuries"
+title: "Chương 2: Persecution in the First Centuries"
 slug: "chuong-02"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 2
+weight: 2
 date: 2026-04-13
 summary: ""
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Chương 29: Chapter 29—The Origin of Evil"
+title: "Chương 29: The Origin of Evil"
 slug: "chuong-29"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 29
+weight: 29
 date: 2026-04-13
 summary: ""
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Chương 31: Chapter 31—Agency of Evil Spirits"
+title: "Chương 31: Agency of Evil Spirits"
 slug: "chuong-31"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 31
+weight: 31
 date: 2026-04-13
 summary: ""
 ---

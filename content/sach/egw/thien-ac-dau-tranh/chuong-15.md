@@ -1,9 +1,10 @@
 ---
-title: "Chương 15: Chapter 15—The Bible and the French Revolution"
+title: "Chương 15: The Bible and the French Revolution"
 slug: "chuong-15"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 15
+weight: 15
 date: 2026-04-13
 summary: ""
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Chương 26: Chapter 26—A Work of Reform"
+title: "Chương 26: A Work of Reform"
 slug: "chuong-26"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 26
+weight: 26
 date: 2026-04-13
 summary: ""
 ---

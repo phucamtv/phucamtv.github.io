@@ -10,6 +10,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 from pathlib import Path
 
@@ -72,7 +73,8 @@ def do_translate(chapters: list[dict], only: int | None) -> None:
 def do_assemble(chapters: list[dict], only: int | None) -> None:
     for c in _chapters_iter(chapters, only):
         n = c["number"]
-        vi_title = c.get("vi_title") or c["en_title"]
+        raw_title = c.get("vi_title") or c["en_title"]
+        vi_title = re.sub(r"^Chapter\s+\d+\s*[—–-]\s*", "", raw_title)
         summary = c.get("summary", "")
         chunk_files = sorted(CHUNK_DIR.glob(f"ch{n:02d}-*.txt"))
         missing: list[int] = []

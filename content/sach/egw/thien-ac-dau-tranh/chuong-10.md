@@ -1,9 +1,10 @@
 ---
-title: "Chương 10: Chapter 10—Progress of Reform in Germany"
+title: "Chương 10: Progress of Reform in Germany"
 slug: "chuong-10"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 10
+weight: 10
 date: 2026-04-13
 summary: ""
 ---

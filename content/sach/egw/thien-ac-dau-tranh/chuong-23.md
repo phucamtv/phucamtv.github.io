@@ -1,9 +1,10 @@
 ---
-title: "Chương 23: Chapter 23—What is the Sanctuary?"
+title: "Chương 23: What is the Sanctuary?"
 slug: "chuong-23"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 23
+weight: 23
 date: 2026-04-13
 summary: ""
 ---

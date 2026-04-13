@@ -1,9 +1,10 @@
 ---
-title: "Chương 13: Chapter 13—The Netherlands and Scandinavia"
+title: "Chương 13: The Netherlands and Scandinavia"
 slug: "chuong-13"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 13
+weight: 13
 date: 2026-04-13
 summary: ""
 ---

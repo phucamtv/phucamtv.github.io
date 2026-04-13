@@ -1,9 +1,10 @@
 ---
-title: "Chương 19: Chapter 19—Light Through Darkness"
+title: "Chương 19: Light Through Darkness"
 slug: "chuong-19"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 19
+weight: 19
 date: 2026-04-13
 summary: ""
 ---

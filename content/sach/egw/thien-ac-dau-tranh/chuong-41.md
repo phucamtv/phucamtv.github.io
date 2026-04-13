@@ -1,9 +1,10 @@
 ---
-title: "Chương 41: Chapter 41—Desolation of the Earth"
+title: "Chương 41: Desolation of the Earth"
 slug: "chuong-41"
 author: "ellen-g-white"
 book: "thien-ac-dau-tranh"
 chapter: 41
+weight: 41
 date: 2026-04-13
 summary: ""
 ---
