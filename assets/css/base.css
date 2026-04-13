@@ -24,6 +24,30 @@
   margin: 0 0.4rem;
 }
 
+.chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e5dfd3;
+  font-size: 0.95rem;
+}
+
+.chapter-nav a {
+  color: #5c5347;
+  text-decoration: none;
+}
+
+.chapter-nav a:hover {
+  color: #3d3529;
+  text-decoration: underline;
+}
+
+.chapter-nav-arrow {
+  color: #b8a88a;
+}
+
 body {
   font-family: "Lora", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
   line-height: 1.7;

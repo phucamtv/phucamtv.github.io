@@ -1,0 +1,35 @@
+{{ define "main" }}
+<article class="sach-single" style="max-width:800px;margin:0 auto">
+  {{ with .Parent }}
+  <div class="breadcrumb">
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <span class="breadcrumb-sep">›</span>
+    <span>{{ $.Title }}</span>
+  </div>
+  {{ end }}
+  <h1>{{ .Title }}</h1>
+  <div class="content">
+    {{ .Content }}
+  </div>
+  {{ with .Parent }}
+    {{ $pages := .Pages.ByWeight }}
+    {{ $cur := $.RelPermalink }}
+    {{ $prev := false }}
+    {{ $next := false }}
+    {{ range $i, $p := $pages }}
+      {{ if eq $p.RelPermalink $cur }}
+        {{ if gt $i 0 }}{{ $prev = index $pages (sub $i 1) }}{{ end }}
+        {{ if lt $i (sub (len $pages) 1) }}{{ $next = index $pages (add $i 1) }}{{ end }}
+      {{ end }}
+    {{ end }}
+    <nav class="chapter-nav">
+      <div class="chapter-nav-prev">
+        {{ with $prev }}<a href="{{ .RelPermalink }}"><span class="chapter-nav-arrow">←</span> {{ .Title }}</a>{{ end }}
+      </div>
+      <div class="chapter-nav-next">
+        {{ with $next }}<a href="{{ .RelPermalink }}">{{ .Title }} <span class="chapter-nav-arrow">→</span></a>{{ end }}
+      </div>
+    </nav>
+  {{ end }}
+</article>
+{{ end }}
