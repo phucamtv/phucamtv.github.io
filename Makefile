@@ -22,3 +22,24 @@ optimize-images:
 		fi; \
 	done
 	@echo "Done. Reminder: update .md refs from .png/.jpg to .webp"
+
+# --- GC translation pipeline ---
+gc-scrape:
+	python3 -m scripts.gc_translation.run scrape
+
+gc-chunk:
+	python3 -m scripts.gc_translation.run chunk
+
+gc-translate:
+	python3 -m scripts.gc_translation.run translate
+
+gc-assemble:
+	python3 -m scripts.gc_translation.run assemble
+
+gc-all:
+	python3 -m scripts.gc_translation.run all
+
+gc-test:
+	python3 -m pytest tests/gc_translation/ -v
+
+.PHONY: gc-scrape gc-chunk gc-translate gc-assemble gc-all gc-test
