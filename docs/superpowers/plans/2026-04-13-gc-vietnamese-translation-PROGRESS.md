@@ -13,17 +13,17 @@ Execution model: subagent-driven (one implementer per task, one combined spec+qu
 | 1 | Scaffolding & dependencies | ✅ done | `eb7f596` + `a8384c3` |
 | 2 | Seed glossary + bible-refs | ✅ done | `c1f0aac` |
 | 3 | VI1934 Bible JSON | ✅ done | `d6fb69e` |
-| 4 | Bible resolver module | ⏳ pending | — |
-| 5 | Lint module | ⏳ pending | — |
-| 6 | Chapter scraper | ⏳ pending | — |
-| 7 | TOC scraper | ⏳ pending | — |
-| 8 | Chunker | ⏳ pending | — |
-| 9 | Glossary loader | ⏳ pending | — |
-| 10 | Prompt builder | ⏳ pending | — |
-| 11 | Translator (Claude API) | ⏳ pending | — |
-| 12 | Assembler | ⏳ pending | — |
-| 13 | Hugo section indices | ⏳ pending | — |
-| 14 | Orchestrator + Makefile | ⏳ pending | — |
+| 4 | Bible resolver module | ✅ done | `124c366` |
+| 5 | Lint module | ✅ done | `575bd44` |
+| 6 | Chapter scraper | ✅ done | `9adce27` |
+| 7 | TOC scraper | ✅ done | `36e5591` + `30e7b37` |
+| 8 | Chunker | ✅ done | `4d61014` |
+| 9 | Glossary loader | ✅ done | `3d7f608` |
+| 10 | Prompt builder | ✅ done | `18e693a` |
+| 11 | Translator (Claude CLI) | ✅ done | `7b71903` + `2f2675a` |
+| 12 | Assembler | ✅ done | `0d85b78` |
+| 13 | Hugo section indices | ✅ done | `e26b061` |
+| 14 | Orchestrator + Makefile | ✅ done | `61c2a1f` |
 | 15 | End-to-end on ch1 | 🟦 out of scope (user runs) | — |
 | 16 | Full pipeline on 42 chapters | 🟦 out of scope (user runs) | — |
 
@@ -44,5 +44,6 @@ Execution model: subagent-driven (one implementer per task, one combined spec+qu
 
 ## Out of Scope (handed back to user)
 
-- **T15**: End-to-end validation on chapter 1. Requires live `m.egwwritings.org` fetch + Anthropic API call. User will run `python3 -m scripts.gc_translation.run all --chapter 1` after T1-T14 merge.
-- **T16**: Full 42-chapter run. Hours of wall time; ~$50-150 in Anthropic tokens. User will run `make gc-all` when ready.
+- **T15**: End-to-end validation on chapter 1. Requires live `m.egwwritings.org` fetch + `claude` CLI. User will run `python3 -m scripts.gc_translation.run all --chapter 1` after merge.
+- **T16**: Full 42-chapter run. Hours of wall time via `claude` CLI (billed against Claude subscription, not API tokens). User will run `make gc-all` when ready.
+- **Translator backend**: Uses `claude -p` subprocess (not Anthropic SDK). Smoke test verified live on 2026-04-13.
