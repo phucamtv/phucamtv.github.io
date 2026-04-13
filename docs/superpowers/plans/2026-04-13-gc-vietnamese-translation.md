@@ -4,7 +4,7 @@
 
 **Goal:** Scrape, translate, and publish Ellen G. White's *The Great Controversy* (egwwritings book 132, 42 chapters) into Vietnamese as a Hugo book section at `content/sach/egw/thien-ac-dau-tranh/`.
 
-**Architecture:** Four-stage idempotent Python pipeline (`scrape → chunk → translate → assemble`). Intermediate artifacts land under `data/gc-source/`, `data/gc-translated/`. Translation uses Anthropic Claude (`claude-opus-4-6`) with a seeded glossary + post-processing that swaps English Bible quotes for VN1925 (Truyền Thống 1925) verses. Regex lint enforces the project's Vietnamese terminology rules.
+**Architecture:** Four-stage idempotent Python pipeline (`scrape → chunk → translate → assemble`). Intermediate artifacts land under `data/gc-source/`, `data/gc-translated/`. Translation uses Anthropic Claude (`claude-opus-4-6`) with a seeded glossary + post-processing that swaps English Bible quotes for VI1934 (Truyền Thống 1934) verses. Regex lint enforces the project's Vietnamese terminology rules.
 
 **Tech Stack:** Python 3.11+, `requests` + `beautifulsoup4` (scraping), `anthropic` SDK (translation), `pyyaml` (glossary), `pytest` (tests), Hugo (static site).
 
@@ -20,19 +20,19 @@
 - `scrape_chapter.py` — given a chapter URL, fetch and extract clean HTML + plain text
 - `chunk.py` — split a chapter into section-level chunks by `<h2>`/heading boundaries
 - `glossary.py` — load YAML glossary, render as prompt-ready table
-- `bible.py` — VN1925 lookup, English → Vietnamese book-name mapping, sentinel resolver
+- `bible.py` — VI1934 lookup, English → Vietnamese book-name mapping, sentinel resolver
 - `prompt.py` — assemble the translation system + user prompts from chunk + glossary
 - `translate.py` — call Claude with the prompt, write translated chunk, retry on error
 - `lint.py` — regex normalization passes enforcing CLAUDE.md terminology rules
 - `assemble.py` — concatenate translated chunks, prepend front matter, write Hugo `.md`
-- `prepare_bible.py` — one-off: download + normalize VN1925 into `data/bible/vn1925.json`
+- `prepare_bible.py` — one-off: download + normalize VI1934 into `data/bible/vi1934.json`
 - `run.py` — top-level orchestrator; runs any/all stages per chapter or for all 42
 
 **New data files:**
 
 - `data/gc-translation/glossary.yaml` — seed theological glossary
 - `data/gc-translation/bible-refs.yaml` — English → Vietnamese book name map
-- `data/bible/vn1925.json` — vendored VN1925 full text, keyed by `"<Book> <Chapter>:<Verse>"`
+- `data/bible/vi1934.json` — vendored VI1934 full text, keyed by `"<Book> <Chapter>:<Verse>"`
 
 **New tests under `tests/gc-translation/`:**
 
@@ -87,7 +87,7 @@ TRANSLATED_DIR = DATA_DIR / "gc-translated"
 
 GLOSSARY_PATH = DATA_DIR / "gc-translation" / "glossary.yaml"
 BIBLE_REFS_PATH = DATA_DIR / "gc-translation" / "bible-refs.yaml"
-VN1925_PATH = DATA_DIR / "bible" / "vn1925.json"
+VI1934_PATH = DATA_DIR / "bible" / "vi1934.json"
 
 HUGO_BOOK_DIR = REPO_ROOT / "content" / "sach" / "egw" / "thien-ac-dau-tranh"
 
@@ -454,69 +454,163 @@ git commit -m "gc-translation: seed glossary and bible-refs data"
 
 ---
 
-## Task 3: Prepare VN1925 Bible JSON
+## Task 3: Prepare VI1934 Bible JSON from local Docusaurus source
 
-Source the VN1925 text from a public-domain repo and normalize to `data/bible/vn1925.json` keyed by `"<English Book> <Chapter>:<Verse>"` so the resolver can look up directly by the sentinel contents. Using English book names as keys keeps the resolver simple; the Vietnamese book name is applied only when rendering the `<cite>`.
+The Vietnamese Bible is already available locally at `/Users/htruong/code/kt-static/VI1934/` as Docusaurus-flavored markdown — one directory per book (Vietnamese slug) containing `1.md`, `2.md`, … one file per chapter. Each file has YAML front matter with `title`, `book`, and `chapter` fields; the body contains verses marked with Unicode superscript numerals (¹, ², ³, …, ¹², …, ³¹). We parse this into `data/bible/vi1934.json` keyed by canonical English book names.
 
 **Files:**
-- Create: `scripts/gc-translation/prepare_bible.py`
-- Create: `data/bible/vn1925.json` (generated, committed)
+- Create: `scripts/gc_translation/prepare_bible.py`
+- Create: `data/bible/vi1934.json` (generated, committed)
 
-- [ ] **Step 1: Write `scripts/gc-translation/prepare_bible.py`**
+- [ ] **Step 1: Sanity-check the source data format**
+
+```bash
+ls /Users/htruong/code/kt-static/VI1934/ | wc -l
+head -12 /Users/htruong/code/kt-static/VI1934/sa/1.md
+```
+
+Expected: ~66 entries (one per Bible book) plus an `intro.md`; chapter file shows YAML front matter with `book: Sáng-thế Ký`, then body with `¹ Ban đầu Đức Chúa Trời...`.
+
+- [ ] **Step 2: Write `scripts/gc_translation/prepare_bible.py`**
 
 ```python
-"""One-off: download VN1925 and normalize to data/bible/vn1925.json.
+"""One-off: parse local VI1934 Docusaurus markdown → data/bible/vi1934.json.
 
-Source: https://github.com/scrollmapper/bible_databases (public-domain VN1925 JSON).
-Run once; output is committed to the repo.
+Source: /Users/htruong/code/kt-static/VI1934/<slug>/<chapter>.md
+Each chapter file:
+  - YAML front matter with `book:` (Vietnamese book name) and `chapter:` fields.
+  - Body containing verses inlined with Unicode superscript markers:
+    ¹ Ban đầu Đức Chúa Trời dựng nên trời đất.   ² Vả, đất là vô-hình và trống-không...
+
+We emit JSON keyed by canonical English book name + chapter:verse, e.g.
+  "Genesis 1:1": "Ban đầu Đức Chúa Trời dựng nên trời đất."
 """
+from __future__ import annotations
+
 import json
+import re
 import sys
-from urllib.request import urlopen
+import unicodedata
+from pathlib import Path
 
-from scripts.gc_translation.paths import VN1925_PATH
+import yaml
 
-SOURCE_URL = (
-    "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/"
-    "json/t_vn1925.json"
-)
+from scripts.gc_translation.paths import BIBLE_REFS_PATH, VI1934_PATH
 
-# Numeric book id → canonical English name (KJV ordering used by scrollmapper).
-BOOK_NAMES = {
-    1: "Genesis", 2: "Exodus", 3: "Leviticus", 4: "Numbers", 5: "Deuteronomy",
-    6: "Joshua", 7: "Judges", 8: "Ruth", 9: "1 Samuel", 10: "2 Samuel",
-    11: "1 Kings", 12: "2 Kings", 13: "1 Chronicles", 14: "2 Chronicles",
-    15: "Ezra", 16: "Nehemiah", 17: "Esther", 18: "Job", 19: "Psalms",
-    20: "Proverbs", 21: "Ecclesiastes", 22: "Song of Solomon", 23: "Isaiah",
-    24: "Jeremiah", 25: "Lamentations", 26: "Ezekiel", 27: "Daniel",
-    28: "Hosea", 29: "Joel", 30: "Amos", 31: "Obadiah", 32: "Jonah",
-    33: "Micah", 34: "Nahum", 35: "Habakkuk", 36: "Zephaniah", 37: "Haggai",
-    38: "Zechariah", 39: "Malachi",
-    40: "Matthew", 41: "Mark", 42: "Luke", 43: "John", 44: "Acts",
-    45: "Romans", 46: "1 Corinthians", 47: "2 Corinthians", 48: "Galatians",
-    49: "Ephesians", 50: "Philippians", 51: "Colossians",
-    52: "1 Thessalonians", 53: "2 Thessalonians", 54: "1 Timothy",
-    55: "2 Timothy", 56: "Titus", 57: "Philemon", 58: "Hebrews",
-    59: "James", 60: "1 Peter", 61: "2 Peter", 62: "1 John", 63: "2 John",
-    64: "3 John", 65: "Jude", 66: "Revelation",
-}
+SOURCE_ROOT = Path("/Users/htruong/code/kt-static/VI1934")
+
+# Unicode superscript digits → normal digits for the verse-number regex.
+SUPERSCRIPT_MAP = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
+
+# Matches a run of one-or-more Unicode superscript digits, possibly preceded
+# by whitespace. Captures the raw superscript run so we can split on its start.
+VERSE_SPLIT_RE = re.compile(r"([⁰¹²³⁴⁵⁶⁷⁸⁹]+)")
+
+FRONT_MATTER_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.DOTALL)
+
+
+def parse_front_matter(text: str) -> tuple[dict, str]:
+    m = FRONT_MATTER_RE.match(text)
+    if not m:
+        raise ValueError("No YAML front matter")
+    fm = yaml.safe_load(m.group(1))
+    return fm, m.group(2)
+
+
+def parse_verses(body: str) -> dict[int, str]:
+    """Split a chapter body into {verse_number: verse_text}.
+
+    Strategy: find every superscript run with its span, treat that as a verse
+    boundary. Content between boundary N and boundary N+1 is verse N's text.
+    Content before the first boundary is discarded (usually a section heading).
+    """
+    out: dict[int, str] = {}
+    # Strip markdown headings (## …) — they're section titles, not verse text.
+    body_lines = [ln for ln in body.splitlines() if not ln.lstrip().startswith("#")]
+    flat = "\n".join(body_lines)
+
+    matches = list(VERSE_SPLIT_RE.finditer(flat))
+    for i, m in enumerate(matches):
+        verse_num = int(m.group(1).translate(SUPERSCRIPT_MAP))
+        start = m.end()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(flat)
+        text = flat[start:end]
+        # Collapse whitespace, strip.
+        text = re.sub(r"\s+", " ", text).strip()
+        if text:
+            out[verse_num] = text
+    return out
+
+
+def build_slug_to_english_map(bible_refs: dict[str, str]) -> dict[str, str]:
+    """Walk each slug dir, read chapter 1's `book:` front-matter field (Vietnamese),
+    and resolve to canonical English via bible-refs.yaml reverse lookup.
+
+    Returns {slug: english_book_name}. Raises if any slug can't be matched.
+    """
+    vi_to_en: dict[str, str] = {}
+    # Pick the longest English key per Vietnamese value (the full name, not an abbrev).
+    vn_to_candidates: dict[str, list[str]] = {}
+    for english, vi in bible_refs.items():
+        vn_to_candidates.setdefault(vi.strip(), []).append(english)
+    for vi, candidates in vn_to_candidates.items():
+        vi_to_en[vi] = max(candidates, key=len)
+
+    mapping: dict[str, str] = {}
+    unresolved: list[tuple[str, str]] = []
+    for slug_dir in sorted(SOURCE_ROOT.iterdir()):
+        if not slug_dir.is_dir():
+            continue
+        ch1 = slug_dir / "1.md"
+        if not ch1.exists():
+            continue
+        fm, _ = parse_front_matter(ch1.read_text(encoding="utf-8"))
+        vi_book = str(fm.get("book", "")).strip()
+        english = vi_to_en.get(vi_book)
+        if english is None:
+            unresolved.append((slug_dir.name, vi_book))
+            continue
+        mapping[slug_dir.name] = english
+
+    if unresolved:
+        raise RuntimeError(
+            "Could not map these slugs to English book names via bible-refs.yaml: "
+            + ", ".join(f"{s}={v!r}" for s, v in unresolved)
+            + ". Add the Vietnamese name to bible-refs.yaml and retry."
+        )
+    return mapping
 
 
 def main() -> int:
-    print(f"Fetching {SOURCE_URL}...", file=sys.stderr)
-    raw = json.loads(urlopen(SOURCE_URL).read().decode("utf-8"))
-    # scrollmapper format: {"resultset": {"row": [{"field": [id, book, chapter, verse, text]}, ...]}}
-    rows = raw["resultset"]["row"]
+    bible_refs = yaml.safe_load(Path(BIBLE_REFS_PATH).read_text(encoding="utf-8"))
+    slug_to_en = build_slug_to_english_map(bible_refs)
+    print(f"Mapped {len(slug_to_en)} book slugs to English names.", file=sys.stderr)
+
     out: dict[str, str] = {}
-    for r in rows:
-        _id, book_id, chapter, verse, text = r["field"]
-        book = BOOK_NAMES.get(book_id)
-        if book is None:
-            continue
-        out[f"{book} {chapter}:{verse}"] = text.strip()
-    VN1925_PATH.parent.mkdir(parents=True, exist_ok=True)
-    VN1925_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=2, sort_keys=True))
-    print(f"Wrote {len(out)} verses to {VN1925_PATH}", file=sys.stderr)
+    chapter_count = 0
+    for slug, english in slug_to_en.items():
+        for ch_file in sorted(
+            (SOURCE_ROOT / slug).glob("*.md"),
+            key=lambda p: int(p.stem) if p.stem.isdigit() else -1,
+        ):
+            if not ch_file.stem.isdigit():
+                continue
+            fm, body = parse_front_matter(ch_file.read_text(encoding="utf-8"))
+            chapter = int(fm.get("chapter", ch_file.stem))
+            verses = parse_verses(body)
+            for v, text in verses.items():
+                out[f"{english} {chapter}:{v}"] = text
+            chapter_count += 1
+
+    VI1934_PATH.parent.mkdir(parents=True, exist_ok=True)
+    VI1934_PATH.write_text(
+        json.dumps(out, ensure_ascii=False, indent=2, sort_keys=True),
+        encoding="utf-8",
+    )
+    print(
+        f"Wrote {len(out)} verses across {chapter_count} chapters to {VI1934_PATH}",
+        file=sys.stderr,
+    )
     return 0
 
 
@@ -524,29 +618,34 @@ if __name__ == "__main__":
     sys.exit(main())
 ```
 
-- [ ] **Step 2: Run the script to generate the file**
+- [ ] **Step 3: Run the parser**
 
 ```bash
-cd /Users/htruong/code/phucamtv && python -m scripts.gc-translation.prepare_bible
+cd /Users/htruong/code/phucamtv && python -m scripts.gc_translation.prepare_bible
 ```
 
-Expected: prints "Wrote ~31,100 verses to data/bible/vn1925.json".
+Expected: "Mapped 66 book slugs to English names." then "Wrote ~31,000 verses across ~1,189 chapters to data/bible/vi1934.json".
 
-If the source URL 404s, fall back to searching `github.com/wldeh/bible-api` for a Vietnamese 1925 JSON and adapt the `main()` loop to that file's shape (keep the `out` dict format identical).
+**If the slug map fails** (`RuntimeError: Could not map these slugs...`): the unresolved Vietnamese names are almost certainly missing from `data/gc-translation/bible-refs.yaml` or have spelling variants (e.g. `Sáng-thế Ký` vs `Sáng thế Ký`). Add the exact Vietnamese spelling (with any hyphens/spaces the source file uses) as a new key in `bible-refs.yaml` pointing to the same canonical Vietnamese value already there. Re-run.
 
-- [ ] **Step 3: Spot-check a sample of verses**
+- [ ] **Step 4: Spot-check known verses**
 
 ```bash
-python -c "import json; b = json.load(open('data/bible/vn1925.json')); print(b['Genesis 1:1']); print(b['Luke 21:20']); print(b['Revelation 22:20'])"
+python -c "
+import json
+b = json.load(open('data/bible/vi1934.json'))
+for k in ['Genesis 1:1', 'Luke 21:20', 'Matthew 24:20', 'Revelation 22:20']:
+    print(k, '→', b.get(k, '<MISSING>')[:80])
+"
 ```
 
-Expected: three Vietnamese verses print, each containing Vietnamese diacritics.
+Expected: each key prints a Vietnamese verse beginning (e.g. Genesis 1:1 → "Ban đầu Đức Chúa Trời dựng nên trời đất."). Any `<MISSING>` means the parser dropped that verse — investigate by reading the source markdown for that chapter and comparing against `parse_verses()` output.
 
-- [ ] **Step 4: Commit**
+- [ ] **Step 5: Commit**
 
 ```bash
-git add data/bible/vn1925.json scripts/gc-translation/prepare_bible.py
-git commit -m "gc-translation: vendor VN1925 bible data and prep script"
+git add data/bible/vi1934.json scripts/gc_translation/prepare_bible.py
+git commit -m "gc-translation: parse local VI1934 bible into JSON lookup"
 ```
 
 ---
@@ -670,7 +769,7 @@ Expected: collects `test_bible.py` tests; they will fail on missing `bible` modu
 - [ ] **Step 5: Write minimal implementation `scripts/gc_translation/bible.py`**
 
 ```python
-"""Bible reference parsing, VN1925 lookup, and [[BIBLE:...]] sentinel resolution."""
+"""Bible reference parsing, VI1934 lookup, and [[BIBLE:...]] sentinel resolution."""
 from __future__ import annotations
 
 import json
@@ -679,7 +778,7 @@ from pathlib import Path
 
 import yaml
 
-from scripts.gc_translation.paths import BIBLE_REFS_PATH, VN1925_PATH
+from scripts.gc_translation.paths import BIBLE_REFS_PATH, VI1934_PATH
 
 SENTINEL_RE = re.compile(r"\[\[BIBLE:([^\]]+)\]\]")
 
@@ -690,7 +789,7 @@ REF_RE = re.compile(
 
 
 def load_bible() -> dict[str, str]:
-    return json.loads(Path(VN1925_PATH).read_text(encoding="utf-8"))
+    return json.loads(Path(VI1934_PATH).read_text(encoding="utf-8"))
 
 
 def load_bible_refs() -> dict[str, str]:
@@ -698,9 +797,9 @@ def load_bible_refs() -> dict[str, str]:
 
 
 def _canonicalize_book(bible_refs: dict[str, str], name: str) -> str:
-    """Return the canonical English key the VN1925 JSON is stored under.
+    """Return the canonical English key the VI1934 JSON is stored under.
 
-    Our bible-refs.yaml maps every alias to a Vietnamese name, but the VN1925
+    Our bible-refs.yaml maps every alias to a Vietnamese name, but the VI1934
     JSON uses canonical English names. We treat the first yaml entry whose
     Vietnamese value matches as the canonical English name for that book.
     """
@@ -754,7 +853,7 @@ def resolve_sentinels(
     bible: dict[str, str] | None = None,
     bible_refs: dict[str, str] | None = None,
 ) -> tuple[str, list[str]]:
-    """Replace every [[BIBLE:...]] sentinel with a VN1925 blockquote + cite.
+    """Replace every [[BIBLE:...]] sentinel with a VI1934 blockquote + cite.
 
     Returns (resolved_text, unresolved_refs). Unresolved sentinels are left
     in place so a later lint pass can warn.
@@ -796,7 +895,7 @@ Expected: all tests PASS.
 
 ```bash
 git add scripts/gc_translation/bible.py tests/gc_translation/test_bible.py
-git commit -m "gc-translation: bible ref parser and VN1925 sentinel resolver"
+git commit -m "gc-translation: bible ref parser and VI1934 sentinel resolver"
 ```
 
 ---
@@ -1510,7 +1609,7 @@ surrounding commentary. Do not wrap the output in code fences.
 ROLE = """\
 You are an expert Vietnamese translator specializing in Christian theological
 texts for a Seventh-day Adventist audience. Your register is reverent, clear,
-and consistent with the 1925-era Vietnamese Protestant tradition.
+and consistent with the 1934-era Vietnamese Protestant tradition.
 """
 
 
@@ -1908,7 +2007,7 @@ book: "thien-ac-dau-tranh"
 summary: "Cuốn sách kinh điển của Ellen G. White kể lại cuộc đại chiến giữa Đấng Christ và Sa-tan xuyên suốt lịch sử, từ sự tàn phá Giê-ru-sa-lem đến ngày tái lâm."
 ---
 
-*Thiện Ác Đấu Tranh* (nguyên tác: *The Great Controversy*) là tác phẩm của bà Ellen G. White, trình bày cuộc xung đột vĩ đại giữa Đấng Christ và Sa-tan qua lịch sử hội thánh, cuộc Cải chánh, và những sự kiện trước ngày tái lâm. Bản dịch này được dịch từ ấn bản Anh ngữ công cộng và các trích dẫn Kinh Thánh lấy từ bản Truyền Thống 1925.
+*Thiện Ác Đấu Tranh* (nguyên tác: *The Great Controversy*) là tác phẩm của bà Ellen G. White, trình bày cuộc xung đột vĩ đại giữa Đấng Christ và Sa-tan qua lịch sử hội thánh, cuộc Cải chánh, và những sự kiện trước ngày tái lâm. Bản dịch này được dịch từ ấn bản Anh ngữ công cộng và các trích dẫn Kinh Thánh lấy từ bản Truyền Thống 1934.
 
 ## Mục Lục
 
@@ -2153,7 +2252,7 @@ Expected: one `.md` per chunk, no `.err` files. Open one and confirm: Vietnamese
 
 If translate printed unresolved refs, open the corresponding `.md` and search for `[[BIBLE:`. Either:
 - The reference was malformed (e.g. `Is. 24:1` with trailing dot): add the alias to `data/gc-translation/bible-refs.yaml` (Task 2) and rerun resolve via `python -m scripts.gc_translation.run translate --chapter 1` (this will skip completed chunks; to force re-resolve without re-translating, manually delete the chunk's `.md` and rerun).
-- The verse genuinely isn't in VN1925 (e.g. a deuterocanonical reference): accept the sentinel; it'll surface as a lint warning at assemble time.
+- The verse genuinely isn't in VI1934 (e.g. a deuterocanonical reference): accept the sentinel; it'll surface as a lint warning at assemble time.
 
 - [ ] **Step 6: Add Vietnamese title + summary for chapter 1 to `chapters.yaml`**
 
@@ -2221,7 +2320,7 @@ Expected: `no errors`. If any `.err` files exist, read them, fix the root cause 
 grep -rn "\[\[BIBLE:" content/sach/egw/thien-ac-dau-tranh/ || echo "all refs resolved"
 ```
 
-Expected: `all refs resolved`. Any hits mean either bad book-name aliases (fix `bible-refs.yaml`, re-run assemble) or genuinely-missing VN1925 verses (acceptable; leave them and manually annotate later).
+Expected: `all refs resolved`. Any hits mean either bad book-name aliases (fix `bible-refs.yaml`, re-run assemble) or genuinely-missing VI1934 verses (acceptable; leave them and manually annotate later).
 
 - [ ] **Step 4: Fill in remaining Vietnamese titles and summaries**
 

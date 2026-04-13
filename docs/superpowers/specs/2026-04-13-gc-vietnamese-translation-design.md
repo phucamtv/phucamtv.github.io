@@ -36,7 +36,7 @@ All scripts live under `scripts/gc-translation/`.
 3. **`translate.py`** — For each chunk:
    - Loads the chunk, the glossary, and CLAUDE.md terminology rules.
    - Calls Claude (claude-opus-4-6) with a system prompt that enforces glossary + terminology and instructs the model to emit `[[BIBLE:<book> <chapter>:<verse>]]` sentinels wherever English quotes scripture.
-   - Replaces `[[BIBLE:…]]` sentinels with VN1925 verse text from `data/bible/vn1925.json`.
+   - Replaces `[[BIBLE:…]]` sentinels with VI1934 verse text from `data/bible/vi1934.json`.
    - Writes `data/gc-translated/chXX-NN.md`.
    - On failure, writes `chXX-NN.err` and continues. Re-runs retry only errored chunks.
 
@@ -86,14 +86,14 @@ Rendered as Hugo blockquotes with cite:
 ## Supporting Data
 
 - **`data/gc-translation/glossary.yaml`** — 50–100 theological terms (sanctuary, remnant, investigative judgment, etc.) plus the CLAUDE.md-mandated renderings. Injected verbatim into every translate prompt as a "MUST use exactly" block.
-- **`data/bible/vn1925.json`** — Full VN1925 (Truyền Thống 1925) text keyed by canonical `"<Book> <Chapter>:<Verse>"`. Sourced from a public-domain Vietnamese Bible dump (e.g. wldeh/bible-api or scrollmapper/bible_databases). Public domain; safe to vendor into the repo.
+- **`data/bible/vi1934.json`** — Full VI1934 (Truyền Thống 1934) text keyed by canonical `"<Book> <Chapter>:<Verse>"`. Parsed from the user's local Docusaurus dump at `/Users/htruong/code/kt-static/VI1934/` (one markdown file per chapter, verses marked with Unicode superscript numerals). Vendored into this repo as a single JSON blob.
 - **`data/gc-translation/bible-refs.yaml`** — Map of English book names → Vietnamese book names (e.g. `Matthew: Ma-thi-ơ`, `1 Corinthians: 1 Cô-rinh-tô`). Used by the sentinel resolver.
 
 ## Translation Prompt
 
 **System prompt (assembled per chunk):**
 
-1. Role: expert Vietnamese translator specializing in Christian theological texts, 1925-era register, for a Seventh-day Adventist audience.
+1. Role: expert Vietnamese translator specializing in Christian theological texts, 1934-era register, for a Seventh-day Adventist audience.
 2. Terminology rules (verbatim from CLAUDE.md).
 3. Full `glossary.yaml` rendered as an English → Vietnamese table, marked as MUST-USE.
 4. Bible-quote instruction: wherever the English text directly quotes a Bible verse with an inline or parenthetical reference, emit `[[BIBLE:<English Book Name> <Chapter>:<Verse>]]` (or `<Chapter>:<VerseStart>-<VerseEnd>` for ranges) in place of the quoted English text. Do not translate the quote.
@@ -120,7 +120,7 @@ Each rule is independently testable.
 All tests use `pytest` under `tests/gc-translation/`.
 
 - `test_chunk.py` — Chunk count matches section count; total word count preserved (within 1%); chapters with no headings produce one chunk.
-- `test_bible_ref.py` — `[[BIBLE:Matthew 24:20]]` → correct VN1925 verse; ranges (`1:1-3`) concatenate verses; edge cases: `Ps` vs `Psalms`, `1 Cor` vs `1 Corinthians`, Revelation book-name variants; missing verse → warning.
+- `test_bible_ref.py` — `[[BIBLE:Matthew 24:20]]` → correct VI1934 verse; ranges (`1:1-3`) concatenate verses; edge cases: `Ps` vs `Psalms`, `1 Cor` vs `1 Corinthians`, Revelation book-name variants; missing verse → warning.
 - `test_lint.py` — Each CLAUDE.md rule: one positive case (rule fires), one negative case (already correct, unchanged).
 - `test_assemble.py` — Correct front matter keys/values; chunks concatenated in order; output written to expected path.
 - `test_scrape.py` — Scraper given a local HTML fixture yields expected plain text (no live network in tests).
@@ -136,6 +136,6 @@ All tests use `pytest` under `tests/gc-translation/`.
 ## Open Risks
 
 - **Quality at scale:** auto-publish with no human gate means a single prompt regression can taint many chapters. Mitigation: lint catches CLAUDE.md violations; the smoke test gates merges of prompt/glossary changes.
-- **Bible-ref detection recall:** the model may not emit sentinels for every quotation, especially loose allusions. We accept that edge cases get translated as prose rather than substituted with VN1925.
-- **VN1925 source reliability:** if the chosen public-domain dump has transcription errors, they propagate. Mitigation: spot-check a sample after import.
+- **Bible-ref detection recall:** the model may not emit sentinels for every quotation, especially loose allusions. We accept that edge cases get translated as prose rather than substituted with VI1934.
+- **VI1934 source reliability:** if the chosen public-domain dump has transcription errors, they propagate. Mitigation: spot-check a sample after import.
 - **Token cost:** ~700 pages × section-level calls could run into the $50–150 range. Acceptable per user.
