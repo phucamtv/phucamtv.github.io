@@ -3,6 +3,7 @@ public/
 .env
 .claude/data/
 .claude/tasks/
+.worktrees/
 *.log
 
 # GC translation intermediate artifacts

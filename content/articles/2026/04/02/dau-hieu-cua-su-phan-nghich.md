@@ -2,9 +2,9 @@
 title: "Dấu Hiệu Của Sự Phản Nghịch — Cain, Nim-rốt Và Cội Nguồn Dấu Con Thú"
 date: 2026-04-02
 url: /phongvan/dau-hieu-cua-su-phan-nghich/
-description: "Robert Veith và Marlou Smith của podcast What is Truth? truy tìm dấu ấn của sự phản nghịch từ Lu-xi-phe, Cain, Nim-rốt đến các huyền thoại Ba-by-lôn, Ai Cập, cho thấy hai tâm trí đối nghịch đang định hình thế giới và chuẩn bị cho dấu con thú."
+description: "Walter Veith và Marlou Smith của podcast What is Truth? truy tìm dấu ấn của sự phản nghịch từ Lu-xi-phe, Cain, Nim-rốt đến các huyền thoại Ba-by-lôn, Ai Cập, cho thấy hai tâm trí đối nghịch đang định hình thế giới và chuẩn bị cho dấu con thú."
 tags: ["Dấu Con Thú", "Cain", "Nim-rốt", "Ba-by-lôn", "Hội Kín", "Lời Tiên Tri", "Cơ-đốc Phục Lâm"]
-authors: []
+authors: ["walter-veith"]
 plugins: [youtube]
 youtubeIDs: ["2A0B5sQVlAs"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 ## Hai Tâm Trí Từ Khởi Nguyên
 
-Robert Veith và Marlou Smith mở đầu tập tiếp theo của loạt bài về dấu con thú bằng một khẳng định đơn giản nhưng then chốt: trước khi nhận diện dấu con thú, cần hiểu hai tâm trí đã tồn tại từ buổi đầu lịch sử. Muốn định nghĩa dấu con thú mà không đặt nền tảng này, chúng ta sẽ rơi vào mê hồn trận của những lời đồn về con chip cấy dưới da hoặc con số 666 khắc trên trán.
+Walter Veith và Marlou Smith mở đầu tập tiếp theo của loạt bài về dấu con thú bằng một khẳng định đơn giản nhưng then chốt: trước khi nhận diện dấu con thú, cần hiểu hai tâm trí đã tồn tại từ buổi đầu lịch sử. Muốn định nghĩa dấu con thú mà không đặt nền tảng này, chúng ta sẽ rơi vào mê hồn trận của những lời đồn về con chip cấy dưới da hoặc con số 666 khắc trên trán.
 
 Kinh Thánh Ê-sai 14:13 cho thấy Lu-xi-phe ngã xuống vì một "vấn đề về cái tôi": "Ta sẽ lên trời, ta sẽ nhắc ngai ta lên trên các ngôi sao Đức Chúa Trời." Hắn không hài lòng với vị trí đã được ban, khát vọng được các thiên sứ thờ phượng, thèm muốn thờ phượng của Đức Chúa Trời, và cuối cùng là của con người. Chính tâm trí tự tôn ấy trở thành mạch ngầm chảy xuyên suốt lịch sử nhân loại.
 
@@ -34,7 +34,7 @@ Sau khi giết A-bên, Cain sợ hãi. Đức Chúa Trời đóng ấn trên tr�
 
 ## Nim-rốt Và Sự Ra Đời Của Đế Quốc Phản Nghịch
 
-Sau cơn đại hồng thủy, tâm trí của Cain tái xuất hiện nơi Nim-rốt, cháu của Cham. Kinh Thánh gọi ông là "tay thiện xạ săn bắn trước mặt Đức Giê-hô-va" — và Robert Veith nhấn mạnh rằng cụm từ ấy, qua các bảng đá As-sy-ri, được dùng để chỉ các quân vương "săn bắn dân tộc" như săn thú. Nim-rốt xây Ba-bên và Ni-ni-ve, dựng lên hình thức quân chủ đầu tiên, đặt vua loài người vào chỗ mà đáng lý chỉ Đức Chúa Trời ngự.
+Sau cơn đại hồng thủy, tâm trí của Cain tái xuất hiện nơi Nim-rốt, cháu của Cham. Kinh Thánh gọi ông là "tay thiện xạ săn bắn trước mặt Đức Giê-hô-va" — và Walter Veith nhấn mạnh rằng cụm từ ấy, qua các bảng đá As-sy-ri, được dùng để chỉ các quân vương "săn bắn dân tộc" như săn thú. Nim-rốt xây Ba-bên và Ni-ni-ve, dựng lên hình thức quân chủ đầu tiên, đặt vua loài người vào chỗ mà đáng lý chỉ Đức Chúa Trời ngự.
 
 Đằng sau tháp Ba-bên vẫn là nỗi sợ. Đức Chúa Trời đã ban cầu vồng làm giao ước rằng Ngài sẽ không dùng nước lụt hủy diệt đất nữa, nhưng con người không tin cậy. Họ muốn có "cửa sau" của riêng mình, một an ninh do chính họ dựng nên. Và một lần nữa, loài người hợp nhất — nhưng hợp nhất trong sự chống nghịch Đức Chúa Trời. Phong trào đại kết ngày nay mang cùng một tinh thần: một tôn giáo thế giới, một sự đồng nhất không đặt trên lẽ thật của Kinh Thánh.
 
@@ -68,7 +68,7 @@ Dấu hiệu của Anu lớn nhất thế giới không nằm ở một bảo t�
 
 Chiếc miện ba tầng của giáo hoàng mang cùng cấu trúc với vương miện ba tầng của các thần Ba-by-lôn và As-sy-ri. Chiếc mão của giáo hoàng giống hệt mão của thầy tế lễ thần cá Đa-gôn. Bức tượng vị giáo hoàng bế một em nhỏ gợi lên hình ảnh Sê-mi-ra-mít bế Tam-muz. Thánh giá Malta mà các Hiệp Sĩ Malta — tổ chức Tam Điểm cấp 33 phụ trách y tế — sử dụng, từng là phù hiệu của thầy tế lễ Hô-rút tại Ai Cập.
 
-Trong hệ thống Mi-tra có bảy cấp bậc, cấp cao nhất được gọi là "cha". Trong hệ thống La Mã giáo hoàng, vị linh mục cũng được gọi là "cha", và người đứng đầu là "papa". Không phải ngẫu nhiên. Như Robert Veith nhận xét, càng nghiên cứu Mi-tra giáo càng thấy Công giáo La Mã là hiện thân hiện đại của nó.
+Trong hệ thống Mi-tra có bảy cấp bậc, cấp cao nhất được gọi là "cha". Trong hệ thống La Mã giáo hoàng, vị linh mục cũng được gọi là "cha", và người đứng đầu là "papa". Không phải ngẫu nhiên. Như Walter Veith nhận xét, càng nghiên cứu Mi-tra giáo càng thấy Công giáo La Mã là hiện thân hiện đại của nó.
 
 ---
 
@@ -86,6 +86,6 @@ Nhưng khi lẽ thật được bày tỏ, lời kêu gọi trở nên khẩn th
 
 Từ Cain đến Nim-rốt, từ các huyền thoại Mê-sô-pô-ta-mi đến Va-ti-căng, từ đền thờ Sa-mát đến phòng họp Tối Cao Pháp Viện — chỉ có hai tâm trí, không phải ba mươi. Một tâm trí tự tôn, tìm cách tự cứu, xây tháp Ba-bên của riêng mình. Một tâm trí phục tùng Đấng Tạo Hóa, đặt mình dưới sự công bình của Đức Chúa Giê-su, giữ các điều răn vì yêu chứ không vì công đức.
 
-Dấu con thú chưa phải là một con chip hay một hình xăm. Nó là đỉnh điểm có thể nhìn thấy được của một tâm trí đã âm ỉ suốt sáu ngàn năm. Và trước khi bàn đến dấu ấy trong tập tiếp theo, Robert Veith và Marlou Smith khẳng định: muốn không bị lừa dối, phải hiểu tâm trí của Sa-tan — hắn không tạo ra điều gì mới, chỉ giả mạo, bóp méo, và chờ đợi lòng người ngã về phía hắn.
+Dấu con thú chưa phải là một con chip hay một hình xăm. Nó là đỉnh điểm có thể nhìn thấy được của một tâm trí đã âm ỉ suốt sáu ngàn năm. Và trước khi bàn đến dấu ấy trong tập tiếp theo, Walter Veith và Marlou Smith khẳng định: muốn không bị lừa dối, phải hiểu tâm trí của Sa-tan — hắn không tạo ra điều gì mới, chỉ giả mạo, bóp méo, và chờ đợi lòng người ngã về phía hắn.
 
 Người canh gác trên tường thành Si-ôn được kêu gọi hôm nay không phải để tranh luận với cá nhân, mà để la lớn cho thế giới biết hệ thống nào đang kéo nhân loại về. Và khi ánh sáng đã được ban cho, trách nhiệm đáp ứng là của mỗi chúng ta.
