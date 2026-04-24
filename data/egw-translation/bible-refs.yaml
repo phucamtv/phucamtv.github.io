@@ -1,0 +1,102 @@
+# Canonical English → Vietnamese Bible book-name map.
+# Includes common abbreviations as aliases pointing to the same Vietnamese name.
+
+Genesis: Sáng-thế Ký
+Gen: Sáng-thế Ký
+Exodus: Xuất Ê-díp-tô Ký
+Ex: Xuất Ê-díp-tô Ký
+Leviticus: Lê-vi Ký
+Lev: Lê-vi Ký
+Numbers: Dân-số Ký
+Num: Dân-số Ký
+Deuteronomy: Phục-truyền Luật-lệ Ký
+Deut: Phục-truyền Luật-lệ Ký
+Joshua: Giô-suê
+Josh: Giô-suê
+Judges: Các Quan Xét
+Ruth: Ru-tơ
+1 Samuel: I Sa-mu-ên
+1 Sam: I Sa-mu-ên
+2 Samuel: II Sa-mu-ên
+2 Sam: II Sa-mu-ên
+1 Kings: I Các Vua
+2 Kings: II Các Vua
+1 Chronicles: I Sử-ký
+2 Chronicles: II Sử-ký
+Ezra: E-xơ-ra
+Nehemiah: Nê-hê-mi
+Esther: Ê-xơ-tê
+Job: Gióp
+Psalms: Thi-thiên
+Psalm: Thi-thiên
+Ps: Thi-thiên
+Proverbs: Châm-ngôn
+Prov: Châm-ngôn
+Ecclesiastes: Truyền-đạo
+Eccl: Truyền-đạo
+Song of Solomon: Nhã-ca
+Isaiah: Ê-sai
+Isa: Ê-sai
+Jeremiah: Giê-rê-mi
+Jer: Giê-rê-mi
+Lamentations: Ca-thương
+Ezekiel: Ê-xê-chi-ên
+Ezek: Ê-xê-chi-ên
+Daniel: Đa-ni-ên
+Dan: Đa-ni-ên
+Hosea: Ô-sê
+Joel: Giô-ên
+Amos: A-mốt
+Obadiah: Áp-đia
+Jonah: Giô-na
+Micah: Mi-chê
+Nahum: Na-hum
+Habakkuk: Ha-ba-cúc
+Zephaniah: Sô-phô-ni
+Haggai: A-ghê
+Zechariah: Xa-cha-ri
+Zech: Xa-cha-ri
+Malachi: Ma-la-chi
+Mal: Ma-la-chi
+Matthew: Ma-thi-ơ
+Matt: Ma-thi-ơ
+Mt: Ma-thi-ơ
+Mark: Mác
+Mk: Mác
+Luke: Lu-ca
+Lk: Lu-ca
+John: Giăng
+Jn: Giăng
+Acts: Công-vụ các Sứ-đồ
+Romans: Rô-ma
+Rom: Rô-ma
+1 Corinthians: I Cô-rinh-tô
+1 Cor: I Cô-rinh-tô
+2 Corinthians: II Cô-rinh-tô
+2 Cor: II Cô-rinh-tô
+Galatians: Ga-la-ti
+Gal: Ga-la-ti
+Ephesians: Ê-phê-sô
+Eph: Ê-phê-sô
+Philippians: Phi-líp
+Phil: Phi-líp
+Colossians: Cô-lô-se
+Col: Cô-lô-se
+1 Thessalonians: I Tê-sa-lô-ni-ca
+2 Thessalonians: II Tê-sa-lô-ni-ca
+1 Timothy: I Ti-mô-thê
+2 Timothy: II Ti-mô-thê
+Titus: Tít
+Philemon: Phi-lê-môn
+Hebrews: Hê-bơ-rơ
+Heb: Hê-bơ-rơ
+James: Gia-cơ
+Jas: Gia-cơ
+1 Peter: I Phi-e-rơ
+2 Peter: II Phi-e-rơ
+1 John: I Giăng
+2 John: II Giăng
+3 John: III Giăng
+Jude: Giu-đe
+Revelation: Khải-huyền
+Rev: Khải-huyền

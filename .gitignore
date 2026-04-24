@@ -6,6 +6,8 @@ public/
 .worktrees/
 *.log
 
-# GC translation intermediate artifacts
+# Translation intermediate artifacts
 data/gc-source/
 data/gc-translated/
+data/colp-source/
+data/colp-translated/

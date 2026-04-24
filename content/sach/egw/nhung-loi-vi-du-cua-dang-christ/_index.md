@@ -26,4 +26,4 @@ Bản dịch này được dịch từ ấn bản Anh ngữ công cộng, và c�
 
 ## Về Mục Lục
 
-Sách gồm 30 chương, được chia thành các bài học rút ra từ những thí dụ của Đấng Christ trong các sách Phúc Âm.
+Sách gồm 29 chương, được chia thành các bài học rút ra từ những thí dụ của Đấng Christ trong các sách Phúc Âm.
