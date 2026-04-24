@@ -7,7 +7,7 @@ chapter: 1
 weight: 1
 date: 2026-04-23
 summary: ""
-draft: true
+draft: false
 ---
 
 Trong sự dạy dỗ bằng thí dụ của Đấng Christ, chúng ta thấy cùng một nguyên tắc như trong sứ mạng của chính Ngài đến thế gian. Để chúng ta có thể biết được thần tánh và đời sống của Ngài, Đấng Christ đã mang lấy bản tánh của chúng ta và ở giữa chúng ta. Thần tánh được bày tỏ trong nhân tánh; vinh quang vô hình trong hình thể hữu hình của con người. Loài người có thể học biết điều chưa biết qua điều đã biết; những điều thuộc về trời được bày tỏ qua những điều thuộc về đất; Đức Chúa Trời được tỏ hiện trong hình dạng loài người. Sự dạy dỗ của Đấng Christ cũng vậy: điều chưa biết được minh họa bằng điều đã biết; những lẽ thật thiêng liêng bằng những điều trần tục mà dân chúng quen thuộc nhất. COL 17.1

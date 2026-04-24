@@ -7,7 +7,7 @@ chapter: 6
 weight: 6
 date: 2026-04-23
 summary: ""
-draft: true
+draft: false
 ---
 
 Từ công việc gieo hạt và sự sinh trưởng của cây từ hạt giống, có thể rút ra những bài học quý báu để dạy trong gia đình và trường học. Hãy để con trẻ và thanh thiếu niên học biết nhận ra trong các sự vật thiên nhiên công việc của các tác nhân thiêng liêng, và chúng sẽ có thể nắm bắt bằng đức tin những ơn phước vô hình. Khi chúng hiểu được công việc kỳ diệu của Đức Chúa Trời trong việc cung ứng các nhu cầu cho đại gia đình của Ngài, và cách chúng ta phải cộng tác với Ngài, chúng sẽ có đức tin hơn nơi Đức Chúa Trời, và sẽ nhận biết nhiều hơn quyền năng của Ngài trong đời sống hằng ngày của chính mình. COL 80.1

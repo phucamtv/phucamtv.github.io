@@ -7,7 +7,7 @@ chapter: 16
 weight: 16
 date: 2026-04-23
 summary: ""
-draft: true
+draft: false
 ---
 
 Chương này dựa trên
