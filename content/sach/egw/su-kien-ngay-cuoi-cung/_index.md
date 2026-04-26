@@ -28,7 +28,7 @@ teaser_quote: "&ldquo;Vậy hãy tỉnh thức, vì các ngươi không biết n
 teaser_quote_cite: "Ma-thi-ơ 24:42"
 chapter_label: "chương"
 cascade:
-  layout: "chapter"
+  layout: "lde-chapter"
 summary: "Tuyển tập những lời chỉ dẫn của bà Ellen G. White về các sự kiện trong ngày cuối cùng — từ những dấu hiệu Đức Chúa Giê-su tái lâm, Hội Thánh ngày sau rốt, sự rung chuyển và mưa cuối mùa, cho đến tiếng kêu lớn, ấn của Đức Chúa Trời và sự kết thúc thời kỳ ân điển."
 ---
 
