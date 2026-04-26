@@ -104,7 +104,7 @@ Tất cả những lời cảnh báo của Đấng Christ về các sự kiện 
 
 ## Các Nghiệp Đoàn Trong Các Thành Phố
 
-Sa-tan đang bận rộn hoạt động trong các thành phố đông đúc của chúng ta. Có thể thấy việc làm của nó trong sự rối loạn, sự tranh chấp và bất hòa giữa lao động và tư bản, cùng sự giả hình đã len lỏi vào các hội thánh.... Sự tham dục của xác thịt, sự kiêu ngạo của mắt, sự phô trương lòng ích kỷ, sự lạm dụng quyền lực, sự tàn nhẫn và sức ép buộc người ta liên kết với các liên minh và nghiệp đoàn — bó mình lại thành từng bó để bị thiêu đốt trong những ngọn lửa lớn của những ngày sau rốt — tất cả những điều này đều là công việc của các thế lực Sa-tan. — Evangelism, 26 (1903). LDE 116.1
+Sa-tan đang bận rộn hoạt động trong các thành phố đông đúc của chúng ta. Có thể thấy việc làm của nó trong sự rối loạn, sự tranh chấp và bất hòa giữa lao động và tư bản, cùng sự giả hình đã len lỏi vào các Hội Thánh.... Sự tham dục của xác thịt, sự kiêu ngạo của mắt, sự phô trương lòng ích kỷ, sự lạm dụng quyền lực, sự tàn nhẫn và sức ép buộc người ta liên kết với các liên minh và nghiệp đoàn — bó mình lại thành từng bó để bị thiêu đốt trong những ngọn lửa lớn của những ngày sau rốt — tất cả những điều này đều là công việc của các thế lực Sa-tan. — Evangelism, 26 (1903). LDE 116.1
 
 Kẻ ác đang bị bó lại thành từng bó, bị bó lại trong các tập đoàn, trong các nghiệp đoàn, trong các liên minh. Chúng ta đừng dính dáng gì đến các tổ chức này. Đức Chúa Trời là Đấng Cai Trị, là Đấng Thống Lĩnh của chúng ta, và Ngài kêu gọi chúng ta phải ra khỏi thế gian và phân rẽ ra.
 
@@ -149,7 +149,7 @@ Các thành phố và thị trấn đã chìm đắm trong tội lỗi và sự 
 
 ## Cần Có Trường Học, Hội Thánh, Nhà Hàng Trong Các Thành Phố
 
-Còn nhiều việc có thể làm hơn nữa để cứu vớt và giáo dục con cái của những người hiện nay chưa thể rời khỏi các thành phố. Đây là vấn đề xứng đáng với những nỗ lực tốt nhất của chúng ta. Cần phải thiết lập các trường hội thánh cho con trẻ trong các thành phố, và cùng với những trường học này, cần phải có sự sắp đặt cho việc giảng dạy các môn học cao hơn khi cần thiết.—Child Guidance, 306 (1903). LDE 119.3
+Còn nhiều việc có thể làm hơn nữa để cứu vớt và giáo dục con cái của những người hiện nay chưa thể rời khỏi các thành phố. Đây là vấn đề xứng đáng với những nỗ lực tốt nhất của chúng ta. Cần phải thiết lập các trường Hội Thánh cho con trẻ trong các thành phố, và cùng với những trường học này, cần phải có sự sắp đặt cho việc giảng dạy các môn học cao hơn khi cần thiết.—Child Guidance, 306 (1903). LDE 119.3
 
 Các nhà hàng của chúng ta phải đặt trong các thành phố, vì nếu không, các nhân công trong những nhà hàng này không thể tiếp cận với dân chúng và dạy cho họ các nguyên tắc của lối sống đúng đắn.—Selected Messages 2:142 (1903). LDE 119.4
 

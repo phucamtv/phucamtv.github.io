@@ -27,7 +27,7 @@ draft: true
 
 Cũng như sương và mưa được ban xuống trước hết để hạt giống nảy mầm, rồi sau đó để mùa gặt chín, thì Đức Thánh Linh cũng được ban cho để đưa tiến trình tăng trưởng thuộc linh từ giai đoạn này đến giai đoạn khác. Sự chín muồi của hạt lúa tiêu biểu cho sự hoàn thành công việc ân điển của Đức Chúa Trời trong linh hồn. Bởi quyền năng của Đức Thánh Linh, hình ảnh đạo đức của Đức Chúa Trời sẽ được trở nên trọn vẹn trong tánh hạnh. Chúng ta phải được biến đổi hoàn toàn thành giống như Đấng Christ. LDE 183.2
 
-Mưa cuối mùa, làm chín mùa gặt của trái đất, tiêu biểu cho ân điển thuộc linh chuẩn bị hội thánh cho sự đến của Con Người. Nhưng nếu mưa đầu mùa chưa rơi, thì sẽ không có sự sống; lưỡi mạ xanh sẽ không mọc lên. Nếu những cơn mưa sớm chưa hoàn tất công việc của chúng, thì mưa cuối mùa cũng không thể đem một hạt giống nào đến chỗ trọn vẹn được.—Testimonies to Ministers and Gospel Workers, 506 (1897). LDE 183.3
+Mưa cuối mùa, làm chín mùa gặt của trái đất, tiêu biểu cho ân điển thuộc linh chuẩn bị Hội Thánh cho sự đến của Con Người. Nhưng nếu mưa đầu mùa chưa rơi, thì sẽ không có sự sống; lưỡi mạ xanh sẽ không mọc lên. Nếu những cơn mưa sớm chưa hoàn tất công việc của chúng, thì mưa cuối mùa cũng không thể đem một hạt giống nào đến chỗ trọn vẹn được.—Testimonies to Ministers and Gospel Workers, 506 (1897). LDE 183.3
 
 ## A. Sự Áp Dụng Lịch Sử Cho Hội Thánh Nói Chung
 
@@ -44,7 +44,7 @@ Trong khi các môn đồ chờ đợi sự ứng nghiệm của lời hứa, h�
 
 Chính sau khi các môn đồ đã đạt đến sự hiệp một trọn vẹn, khi họ không còn tranh giành địa vị cao nhất nữa, thì Đức Thánh Linh đã được đổ xuống.—Testimonies for the Church 8:20 (1904). LDE 184.3
 
-Sự đổ Đức Thánh Linh xuống trong thời các sứ đồ là sự khởi đầu của mưa đầu mùa, hay mưa trước, và kết quả thật vinh hiển. Cho đến tận thế, sự hiện diện của Đức Thánh Linh sẽ ngự cùng hội thánh chân chính.—The Acts of the Apostles, 54, 55 (1911). LDE 184.4
+Sự đổ Đức Thánh Linh xuống trong thời các sứ đồ là sự khởi đầu của mưa đầu mùa, hay mưa trước, và kết quả thật vinh hiển. Cho đến tận thế, sự hiện diện của Đức Thánh Linh sẽ ngự cùng Hội Thánh chân chính.—The Acts of the Apostles, 54, 55 (1911). LDE 184.4
 
 ## Hậu Quả Của Mưa Đầu Mùa Tại Lễ Ngũ Tuần
 
@@ -54,13 +54,13 @@ Dưới sự cảm hóa của Đức Thánh Linh, những lời ăn năn và xư
 
 Lòng họ tràn đầy một tình yêu thương quảng đại, đầy tràn, sâu sắc và bao la đến nỗi thúc giục họ đi đến các đầu cùng đất, làm chứng về quyền năng của Đấng Christ.—The Acts of the Apostles, 46 (1911). LDE 185.3
 
-Kết quả của sự đổ Đức Thánh Linh xuống vào ngày lễ Ngũ Tuần là gì? Tin lành về một Đấng Cứu Thế đã sống lại được mang đến những nơi xa xôi nhất của thế giới có người sinh sống.... Hội thánh nhìn thấy những người trở lại đạo từ khắp mọi hướng đổ về với mình. Những kẻ bội đạo đã được trở lại.... Hoài bão của các tín đồ là bày tỏ hình ảnh của bản tánh Đấng Christ và lao động cho sự mở rộng nước Ngài.—The Acts of the Apostles, 48 (1911). LDE 185.4
+Kết quả của sự đổ Đức Thánh Linh xuống vào ngày lễ Ngũ Tuần là gì? Tin lành về một Đấng Cứu Thế đã sống lại được mang đến những nơi xa xôi nhất của thế giới có người sinh sống.... Hội Thánh nhìn thấy những người trở lại đạo từ khắp mọi hướng đổ về với mình. Những kẻ bội đạo đã được trở lại.... Hoài bão của các tín đồ là bày tỏ hình ảnh của bản tánh Đấng Christ và lao động cho sự mở rộng nước Ngài.—The Acts of the Apostles, 48 (1911). LDE 185.4
 
 ## Lời Hứa Về Mưa Cuối Mùa
 
 Sự đổ Đức Thánh Linh xuống vào thời các sứ đồ là "mưa đầu mùa," và kết quả thật vinh hiển. Nhưng mưa cuối mùa sẽ còn dồi dào hơn nữa.—Testimonies for the Church 8:21 (1904). LDE 185.5
 
-Gần đến lúc kết thúc mùa gặt của thế gian, một sự ban phát đặc biệt về ân điển thuộc linh được hứa ban để chuẩn bị hội thánh cho sự đến của Con Người. Sự đổ Đức Thánh Linh xuống này được ví như sự rơi xuống của mưa cuối mùa.—The Acts of the Apostles, 55 (1911). LDE 186.1
+Gần đến lúc kết thúc mùa gặt của thế gian, một sự ban phát đặc biệt về ân điển thuộc linh được hứa ban để chuẩn bị Hội Thánh cho sự đến của Con Người. Sự đổ Đức Thánh Linh xuống này được ví như sự rơi xuống của mưa cuối mùa.—The Acts of the Apostles, 55 (1911). LDE 186.1
 
 Trước cuộc viếng thăm cuối cùng của những sự phán xét của Đức Chúa Trời trên đất, sẽ có giữa vòng dân sự của Chúa một sự phục hưng lòng tin kính nguyên thủy mà chưa từng được chứng kiến kể từ thời các sứ đồ. Thần linh và quyền năng của Đức Chúa Trời sẽ được đổ xuống trên các con cái Ngài.—The Great Controversy, 464 (1911). LDE 186.2
 
@@ -82,7 +82,7 @@ Không có thời điểm nào trong kinh nghiệm của chúng ta mà chúng ta
 
 Chúng ta có thể đã nhận được một phần Thánh Linh của Đức Chúa Trời, nhưng bằng sự cầu nguyện và đức tin, chúng ta phải liên tục tìm kiếm thêm nhiều Thánh Linh hơn nữa. Sẽ không bao giờ được phép ngưng nỗ lực của chúng ta. Nếu chúng ta không tiến bộ, nếu chúng ta không đặt mình trong tư thế sẵn sàng để nhận cả mưa đầu mùa và mưa cuối mùa, chúng ta sẽ mất linh hồn mình, và trách nhiệm sẽ thuộc về chính chúng ta.... LDE 187.3
 
-Các buổi nhóm của hội thánh, như các trại họp, các buổi nhóm của hội thánh tại nhà, và tất cả những dịp có sự lao động cá nhân cho các linh hồn, đều là những cơ hội do Đức Chúa Trời chỉ định để ban mưa đầu mùa và mưa cuối mùa.—Testimonies to Ministers and Gospel Workers, 508 (1897). LDE 188.1
+Các buổi nhóm của Hội Thánh, như các trại họp, các buổi nhóm của Hội Thánh tại nhà, và tất cả những dịp có sự lao động cá nhân cho các linh hồn, đều là những cơ hội do Đức Chúa Trời chỉ định để ban mưa đầu mùa và mưa cuối mùa.—Testimonies to Ministers and Gospel Workers, 508 (1897). LDE 188.1
 
 Khi đường lối đã được dọn sẵn cho Thánh Linh của Đức Chúa Trời, phước lành sẽ đến. Sa-tan không thể ngăn cản cơn mưa phước lành đổ xuống trên dân sự Đức Chúa Trời, cũng như nó không thể đóng các cửa sổ trên trời để mưa không thể rơi xuống đất.—Selected Messages 1:124 (1887). LDE 188.2
 
@@ -90,7 +90,7 @@ Khi đường lối đã được dọn sẵn cho Thánh Linh của Đức Chúa
 
 Chúng ta phải tha thiết cầu nguyện xin Đức Thánh Linh giáng xuống như các môn đồ đã cầu nguyện trong ngày lễ Ngũ Tuần. Nếu lúc đó họ cần Ngài, thì ngày nay chúng ta lại càng cần hơn.—Testimonies for the Church 5:158 (1882). LDE 188.3
 
-Sự giáng xuống của Đức Thánh Linh trên hội thánh được mong đợi như là một điều trong tương lai, nhưng đặc ân của hội thánh là có được sự giáng xuống ấy ngay bây giờ. Hãy tìm kiếm điều đó, hãy cầu nguyện để nhận được điều đó, hãy tin rằng sẽ được điều đó. Chúng ta phải có được điều đó, và Thiên đàng đang chờ ban cho.—Evangelism, 701 (1895). LDE 188.4
+Sự giáng xuống của Đức Thánh Linh trên Hội Thánh được mong đợi như là một điều trong tương lai, nhưng đặc ân của Hội Thánh là có được sự giáng xuống ấy ngay bây giờ. Hãy tìm kiếm điều đó, hãy cầu nguyện để nhận được điều đó, hãy tin rằng sẽ được điều đó. Chúng ta phải có được điều đó, và Thiên đàng đang chờ ban cho.—Evangelism, 701 (1895). LDE 188.4
 
 Mức độ Đức Thánh Linh mà chúng ta nhận được sẽ tương xứng với mức độ khao khát và đức tin chúng ta thực hành để có được, cùng với cách chúng ta sử dụng ánh sáng và sự hiểu biết được ban cho mình.—The Review and Herald, May 5, 1896. LDE 188.5
 
@@ -139,7 +139,7 @@ Tôi đã thấy rằng không ai có thể được dự phần trong "sự tư
 
 Việc sửa chữa những khiếm khuyết trong bản tánh chúng ta, làm sạch đền thờ tâm hồn khỏi mọi sự ô uế, là tùy thuộc nơi chúng ta. Bấy giờ mưa cuối mùa sẽ đổ trên chúng ta như mưa đầu mùa đã đổ trên các môn đồ trong ngày lễ Ngũ Tuần.—Testimonies for the Church 5:214 (1882). LDE 192.3
 
-Không có điều gì Sa-tan sợ hãi cho bằng việc dân sự Đức Chúa Trời dọn đường bằng cách loại bỏ mọi trở ngại, để Chúa có thể đổ Thánh Linh Ngài trên một hội thánh đang suy yếu.... Mọi cám dỗ, mọi ảnh hưởng đối nghịch, dù công khai hay bí mật, đều có thể bị chống cự cách thắng lợi,
+Không có điều gì Sa-tan sợ hãi cho bằng việc dân sự Đức Chúa Trời dọn đường bằng cách loại bỏ mọi trở ngại, để Chúa có thể đổ Thánh Linh Ngài trên một Hội Thánh đang suy yếu.... Mọi cám dỗ, mọi ảnh hưởng đối nghịch, dù công khai hay bí mật, đều có thể bị chống cự cách thắng lợi,
 
 > "Người đáp lại rằng: Đây là lời của Đức Giê-hô-va phán cho Xô-rô-ba-bên, rằng: Ấy chẳng phải là bởi quyền thế, cũng chẳng phải là bởi năng lực, bèn là bởi Thần ta, Đức Giê-hô-va vạn quân phán vậy."
 > <cite>(Xa-cha-ri 4:6)</cite>
@@ -150,11 +150,11 @@ Mưa cuối mùa sẽ đến, và phước lành của Đức Chúa Trời sẽ 
 
 ## Hãy Trở Thành Những Người Lao Động Tích Cực Trong Sự Phục Vụ Đấng Christ
 
-Khi các hội thánh trở nên những hội thánh sống động, hoạt động, Đức Thánh Linh sẽ được ban cho để đáp lại lời cầu xin chân thành của họ.... Bấy giờ các cửa sổ trên trời sẽ mở ra để đổ xuống mưa cuối mùa.—The Review and Herald, ngày 25 tháng 2, 1890. LDE 193.2
+Khi các Hội Thánh trở nên những Hội Thánh sống động, hoạt động, Đức Thánh Linh sẽ được ban cho để đáp lại lời cầu xin chân thành của họ.... Bấy giờ các cửa sổ trên trời sẽ mở ra để đổ xuống mưa cuối mùa.—The Review and Herald, ngày 25 tháng 2, 1890. LDE 193.2
 
-Sự đổ ra cách dồi dào của Đức Thánh Linh, là điều sẽ làm sáng cả trái đất bằng sự vinh hiển của Ngài, sẽ không đến cho đến khi chúng ta có được một dân tộc được khai sáng, biết bằng kinh nghiệm ý nghĩa của việc trở thành những người cùng làm việc với Đức Chúa Trời. Khi chúng ta dâng mình trọn vẹn, hết lòng cho sự phục vụ Đấng Christ, Đức Chúa Trời sẽ công nhận sự thật ấy bằng cách đổ Đức Thánh Linh của Ngài cách không hạn lượng; nhưng điều này sẽ không xảy ra chừng nào phần lớn hội thánh chưa phải là những người cùng làm việc với Đức Chúa Trời.—Christian Service, 253 (1896). LDE 193.3
+Sự đổ ra cách dồi dào của Đức Thánh Linh, là điều sẽ làm sáng cả trái đất bằng sự vinh hiển của Ngài, sẽ không đến cho đến khi chúng ta có được một dân tộc được khai sáng, biết bằng kinh nghiệm ý nghĩa của việc trở thành những người cùng làm việc với Đức Chúa Trời. Khi chúng ta dâng mình trọn vẹn, hết lòng cho sự phục vụ Đấng Christ, Đức Chúa Trời sẽ công nhận sự thật ấy bằng cách đổ Đức Thánh Linh của Ngài cách không hạn lượng; nhưng điều này sẽ không xảy ra chừng nào phần lớn Hội Thánh chưa phải là những người cùng làm việc với Đức Chúa Trời.—Christian Service, 253 (1896). LDE 193.3
 
-Khi sự sỉ nhục về tính lười biếng và uể oải được rửa sạch khỏi hội thánh, Thần của Chúa sẽ được bày tỏ cách ân cần. Quyền năng thiêng liêng sẽ được tỏ lộ. Hội thánh sẽ thấy sự hành động quan phòng của Chúa các đạo binh.—Testimonies for the Church 9:46 (1909). LDE 193.4
+Khi sự sỉ nhục về tính lười biếng và uể oải được rửa sạch khỏi Hội Thánh, Thần của Chúa sẽ được bày tỏ cách ân cần. Quyền năng thiêng liêng sẽ được tỏ lộ. Hội Thánh sẽ thấy sự hành động quan phòng của Chúa các đạo binh.—Testimonies for the Church 9:46 (1909). LDE 193.4
 
 ## "Hãy Giữ Bình Chứa Sạch Sẽ và Đúng Chiều"
 
@@ -168,7 +168,7 @@ Tôi không có một thời điểm cụ thể nào để nói khi nào sự tu
 
 Tôi được cho thấy rằng nếu con dân Đức Chúa Trời không nỗ lực về phần mình, mà cứ chờ đợi sự tươi mới đến trên họ để loại bỏ những sai phạm và sửa chữa những lỗi lầm; nếu họ trông cậy vào điều đó để làm cho họ sạch khỏi mọi sự ô uế của xác thịt và thần linh, và làm cho họ đủ điều kiện tham gia vào tiếng kêu lớn của thiên sứ thứ ba, thì họ sẽ bị thấy là thiếu sót.—Testimonies For The Church 1:619 (1867). LDE 195.1
 
-Chúng ta có đang hy vọng thấy toàn thể hội thánh được phục hưng chăng? Thời điểm đó sẽ không bao giờ đến. Trong hội thánh có những người chưa được trở lại, và họ sẽ không hiệp một trong sự cầu nguyện sốt sắng, bền lòng. Chúng ta phải bắt tay vào công việc một cách cá nhân. Chúng ta phải cầu nguyện nhiều hơn, và nói ít hơn.—Selected Messages 1:122 (1887). LDE 195.2
+Chúng ta có đang hy vọng thấy toàn thể Hội Thánh được phục hưng chăng? Thời điểm đó sẽ không bao giờ đến. Trong Hội Thánh có những người chưa được trở lại, và họ sẽ không hiệp một trong sự cầu nguyện sốt sắng, bền lòng. Chúng ta phải bắt tay vào công việc một cách cá nhân. Chúng ta phải cầu nguyện nhiều hơn, và nói ít hơn.—Selected Messages 1:122 (1887). LDE 195.2
 
 Chúng ta có thể chắc chắn rằng khi Đức Thánh Linh được đổ xuống, những ai không tiếp nhận và trân trọng mưa đầu mùa sẽ không thấy hay hiểu được giá trị của mưa cuối mùa.—Testimonies to Ministers and Gospel Workers, 399 (1896). LDE 195.3
 

@@ -12,15 +12,15 @@ draft: true
 
 ## Đức Chúa Trời Có Những Viên Ngọc Trong Mọi Hội Thánh
 
-Đức Chúa Trời có những viên ngọc trong mọi hội thánh, và không phải việc của chúng ta để lên án quét sạch toàn bộ thế giới tôn giáo bề ngoài.—The S.D.A. Bible Commentary 4:1184 (1893). LDE 197.1
+Đức Chúa Trời có những viên ngọc trong mọi Hội Thánh, và không phải việc của chúng ta để lên án quét sạch toàn bộ thế giới tôn giáo bề ngoài.—The S.D.A. Bible Commentary 4:1184 (1893). LDE 197.1
 
-Chúa có những đại diện của Ngài trong mọi hội thánh. Những người này chưa được trình bày những lẽ thật thử thách đặc biệt cho những ngày cuối cùng này trong những hoàn cảnh đem lại sự thuyết phục cho lòng và trí của họ; vì vậy họ chưa, bằng cách khước từ ánh sáng, cắt đứt mối liên hệ của mình với Đức Chúa Trời.—Testimonies for the Church 6:70, 71 (1900). LDE 197.2
+Chúa có những đại diện của Ngài trong mọi Hội Thánh. Những người này chưa được trình bày những lẽ thật thử thách đặc biệt cho những ngày cuối cùng này trong những hoàn cảnh đem lại sự thuyết phục cho lòng và trí của họ; vì vậy họ chưa, bằng cách khước từ ánh sáng, cắt đứt mối liên hệ của mình với Đức Chúa Trời.—Testimonies for the Church 6:70, 71 (1900). LDE 197.2
 
 Trong vòng những người Công Giáo có nhiều Cơ-đốc nhân hết sức tận tâm và họ bước đi trong tất cả ánh sáng đang chiếu soi trên họ, và Đức Chúa Trời sẽ hành động vì họ.—Testimonies for the Church 9:243 (1909). LDE 197.3
 
-Trong chương mười tám của sách Khải Huyền, dân sự của Đức Chúa Trời được kêu gọi ra khỏi Ba-by-lôn. Theo Kinh Thánh đoạn này, nhiều người trong dân sự của Đức Chúa Trời vẫn còn phải ở trong Ba-by-lôn. Và trong những đoàn thể tôn giáo nào hiện nay phần đông những người theo Đấng Christ được tìm thấy? Không nghi ngờ gì, đó là trong các hội thánh khác nhau xưng nhận đức tin Tin Lành.—The Great Controversy, 383 (1911). LDE 197.4
+Trong chương mười tám của sách Khải Huyền, dân sự của Đức Chúa Trời được kêu gọi ra khỏi Ba-by-lôn. Theo Kinh Thánh đoạn này, nhiều người trong dân sự của Đức Chúa Trời vẫn còn phải ở trong Ba-by-lôn. Và trong những đoàn thể tôn giáo nào hiện nay phần đông những người theo Đấng Christ được tìm thấy? Không nghi ngờ gì, đó là trong các Hội Thánh khác nhau xưng nhận đức tin Tin Lành.—The Great Controversy, 383 (1911). LDE 197.4
 
-Mặc dầu có sự tối tăm thuộc linh và sự xa cách Đức Chúa Trời tồn tại trong các hội thánh tạo nên Ba-by-lôn, phần lớn những người theo Đấng Christ chân thật vẫn còn được tìm thấy trong sự thông công của họ.—The Great Controversy, 390 (1911). LDE 198.1
+Mặc dầu có sự tối tăm thuộc linh và sự xa cách Đức Chúa Trời tồn tại trong các Hội Thánh tạo nên Ba-by-lôn, phần lớn những người theo Đấng Christ chân thật vẫn còn được tìm thấy trong sự thông công của họ.—The Great Controversy, 390 (1911). LDE 198.1
 
 ## Sự sa ngã của Ba-by-lôn chưa được trọn vẹn
 
@@ -33,7 +33,7 @@ Việc này được thực hiện thế nào? Bằng cách ép buộc loài ng�
 
 Tuy nhiên, hiện nay vẫn chưa thể nói rằng... "nó đã làm cho mọi nước uống rượu thạnh nộ về sự dâm dục của nó." Nó chưa khiến mọi nước làm điều này.... LDE 198.3
 
-Sự sa ngã của Ba-by-lôn chỉ được trọn vẹn khi tình trạng này đến mức độ ấy, và sự liên hiệp giữa hội thánh với thế gian được hoàn tất khắp các nước theo Cơ-đốc Giáo. Sự thay đổi này diễn ra từng bước, và sự ứng nghiệm trọn vẹn của
+Sự sa ngã của Ba-by-lôn chỉ được trọn vẹn khi tình trạng này đến mức độ ấy, và sự liên hiệp giữa Hội Thánh với thế gian được hoàn tất khắp các nước theo Cơ-đốc Giáo. Sự thay đổi này diễn ra từng bước, và sự ứng nghiệm trọn vẹn của
 
 > "Một vị thiên sứ khác, là vị thứ hai, theo sau mà rằng: Ba-by-lôn lớn kia, đã đổ rồi, đã đổ rồi, vì nó có cho các dân tộc uống rượu tà dâm thạnh nộ của nó."
 > <cite>(Khải-huyền 14:8)</cite>
@@ -56,7 +56,7 @@ Khải Huyền đoạn 18 chỉ về thời điểm mà, do hậu quả của vi
 > "Điều ấy đoạn, tôi thấy một vị thiên sứ khác bay giữa trời, có Tin lành đời đời, đặng rao truyền cho dân cư trên đất, cho mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc. Người cất tiếng lớn nói rằng: Hãy kính sợ Đức Chúa Trời, và tôn vinh Ngài, vì giờ phán xét của Ngài đã đến; hãy thờ phượng Đấng dựng nên trời đất, biển và các suối nước. Một vị thiên sứ khác, là vị thứ hai, theo sau mà rằng: Ba-by-lôn lớn kia, đã đổ rồi, đã đổ rồi, vì nó có cho các dân tộc uống rượu tà dâm thạnh nộ của nó. Lại một vị thiên sứ khác, là vị thứ ba, theo sau, nói lớn tiếng mà rằng: Nếu ai thờ phượng con thú cùng tượng nó, và chịu dấu nó ghi trên trán hay trên tay, thì người ấy cũng vậy, sẽ uống rượu thạnh nộ không pha của Đức Chúa Trời rót trong chén thạnh nộ Ngài; và sẽ chịu đau đớn trong lửa và diêm ở trước mặt các thiên sứ thánh và trước mặt Chiên Con. Khói của sự đau đớn chúng nó bay lên đời đời. Những kẻ thờ lạy con thú và tượng nó, cùng những kẻ chịu dấu của tên nó ghi, thì cả ngày lẫn đêm không lúc nào được yên nghỉ. Đây tỏ ra sự nhịn nhục của các thánh đồ: Chúng giữ điều răn của Đức Chúa Trời và giữ lòng tin Đức Chúa Giê-su."
 > <cite>(Khải-huyền 14:6-12)</cite>
 
-hội thánh sẽ rơi vào tình trạng mà thiên sứ thứ hai đã báo trước, và dân sự của Đức Chúa Trời còn ở trong Ba-by-lôn sẽ được kêu gọi tách rời khỏi sự thông công với nó. Sứ điệp này là sứ điệp cuối cùng sẽ được ban cho thế gian.—The Great Controversy, 390 (1911). LDE 199.1
+Hội Thánh sẽ rơi vào tình trạng mà thiên sứ thứ hai đã báo trước, và dân sự của Đức Chúa Trời còn ở trong Ba-by-lôn sẽ được kêu gọi tách rời khỏi sự thông công với nó. Sứ điệp này là sứ điệp cuối cùng sẽ được ban cho thế gian.—The Great Controversy, 390 (1911). LDE 199.1
 
 [
 
@@ -65,7 +65,7 @@ hội thánh sẽ rơi vào tình trạng mà thiên sứ thứ hai đã báo tr
 
 được trích dẫn.] Phân đoạn Kinh Thánh này hướng về một thời điểm trong tương lai, khi lời tuyên bố về sự sụp đổ của Ba-by-lôn, đã được thiên sứ thứ hai trong Khải Huyền đoạn 14 (câu 8) loan báo, sẽ được lặp lại, kèm theo lời đề cập thêm về những sự bại hoại đã len lỏi vào các tổ chức khác nhau hợp thành Ba-by-lôn, kể từ khi sứ điệp ấy được ban ra lần đầu vào mùa hè năm 1844…. Những lời tuyên bố này, kết hợp với sứ điệp của thiên sứ thứ ba, hợp thành lời cảnh báo cuối cùng sẽ được ban cho cư dân của trái đất…. LDE 199.2
 
-Tội lỗi của Ba-by-lôn sẽ bị phơi bày. Những hậu quả khủng khiếp của việc dùng quyền lực dân sự để cưỡng ép tuân giữ các nghi lễ của hội thánh, sự xâm nhập của thuyết duy linh, sự tiến triển âm thầm nhưng nhanh chóng của quyền lực giáo hoàng—tất cả sẽ bị vạch trần. Bởi những lời cảnh báo trang nghiêm này, dân chúng sẽ được đánh động. Hàng ngàn hàng vạn người chưa từng nghe những lời như thế sẽ lắng nghe.—The Great Controversy, 603, 604, 606 (1911). LDE 199.3
+Tội lỗi của Ba-by-lôn sẽ bị phơi bày. Những hậu quả khủng khiếp của việc dùng quyền lực dân sự để cưỡng ép tuân giữ các nghi lễ của Hội Thánh, sự xâm nhập của thuyết duy linh, sự tiến triển âm thầm nhưng nhanh chóng của quyền lực giáo hoàng—tất cả sẽ bị vạch trần. Bởi những lời cảnh báo trang nghiêm này, dân chúng sẽ được đánh động. Hàng ngàn hàng vạn người chưa từng nghe những lời như thế sẽ lắng nghe.—The Great Controversy, 603, 604, 606 (1911). LDE 199.3
 
 ## Trọng tâm của sứ điệp cuối cùng của Đức Chúa Trời
 
@@ -171,7 +171,7 @@ Khi cơn bão bắt bớ thực sự ập xuống trên chúng ta, ... thì bấ
 
 Tại mỗi thành phố ở Mỹ, lẽ thật phải được rao truyền. Tại mỗi quốc gia trên thế giới, sứ điệp cảnh báo phải được công bố.—The General Conference Bulletin, March 30, 1903. LDE 208.3
 
-Trong tiếng kêu lớn, hội thánh, được trợ giúp bởi sự can thiệp đầy quan phòng của Chúa cao cả, sẽ phổ biến sự hiểu biết về sự cứu rỗi cách dồi dào đến nỗi ánh sáng sẽ được truyền đến mọi thành phố và thị trấn.—Evangelism, 694 (1904). LDE 208.4
+Trong tiếng kêu lớn, Hội Thánh, được trợ giúp bởi sự can thiệp đầy quan phòng của Chúa cao cả, sẽ phổ biến sự hiểu biết về sự cứu rỗi cách dồi dào đến nỗi ánh sáng sẽ được truyền đến mọi thành phố và thị trấn.—Evangelism, 694 (1904). LDE 208.4
 
 Một cuộc khủng hoảng đang ở ngay trước mặt chúng ta. Bây giờ chúng ta phải nhờ quyền năng của Đức Thánh Linh mà rao truyền những lẽ thật vĩ đại cho những ngày cuối cùng này. Sẽ không lâu nữa trước khi mọi người đều đã nghe lời cảnh báo và đưa ra quyết định của mình. Rồi sự cuối cùng sẽ đến.—Testimonies for the Church 6:24 (1900). LDE 208.5
 
@@ -183,7 +183,7 @@ Nhiều người sẽ phải đứng trước các tòa lập pháp; một số 
 
 ## Nhiều Tín Hữu Cơ-đốc Phục Lâm Tự Củng Cố Chống Lại Sự Sáng
 
-Sẽ có trong các hội thánh [Cơ-đốc Phục Lâm] một sự bày tỏ kỳ diệu về quyền năng của Đức Chúa Trời, nhưng nó sẽ không tác động trên những người chưa hạ mình trước mặt Chúa, và chưa mở cửa lòng bằng sự xưng tội và ăn năn. Trong sự bày tỏ quyền năng làm cho đất sáng rực bởi sự vinh hiển của Đức Chúa Trời ấy, họ sẽ chỉ thấy một điều gì đó mà trong sự mù lòa của họ, họ cho là nguy hiểm, một điều gì đó sẽ khơi dậy nỗi sợ hãi của họ, và họ sẽ tự củng cố để chống lại nó. Vì Chúa không hành động theo ý tưởng và mong đợi của họ, nên họ sẽ chống đối công việc ấy. Họ nói rằng: "Tại sao chúng ta lại không nhận biết Thánh Linh của Đức Chúa Trời, khi chúng ta đã ở trong công việc này bao nhiêu năm?"—The Review and Herald Extra, December 23, 1890. LDE 209.3
+Sẽ có trong các Hội Thánh [Cơ-đốc Phục Lâm] một sự bày tỏ kỳ diệu về quyền năng của Đức Chúa Trời, nhưng nó sẽ không tác động trên những người chưa hạ mình trước mặt Chúa, và chưa mở cửa lòng bằng sự xưng tội và ăn năn. Trong sự bày tỏ quyền năng làm cho đất sáng rực bởi sự vinh hiển của Đức Chúa Trời ấy, họ sẽ chỉ thấy một điều gì đó mà trong sự mù lòa của họ, họ cho là nguy hiểm, một điều gì đó sẽ khơi dậy nỗi sợ hãi của họ, và họ sẽ tự củng cố để chống lại nó. Vì Chúa không hành động theo ý tưởng và mong đợi của họ, nên họ sẽ chống đối công việc ấy. Họ nói rằng: "Tại sao chúng ta lại không nhận biết Thánh Linh của Đức Chúa Trời, khi chúng ta đã ở trong công việc này bao nhiêu năm?"—The Review and Herald Extra, December 23, 1890. LDE 209.3
 
 Sứ điệp của vị thiên sứ thứ ba sẽ không được hiểu, ánh sáng làm cho đất sáng rực bởi sự vinh hiển của nó sẽ bị gọi là ánh sáng giả, bởi những người từ chối bước đi trong sự vinh hiển ngày càng tăng của nó.—The Review and Herald, May 27, 1890. LDE 210.1
 
@@ -221,7 +221,7 @@ sẽ "soi sáng như đuốc trong thế gian."—Prophets and Kings, 188, 189 (
 
 ## Hàng Ngàn Người Trở Lại Đạo Trong Một Ngày
 
-Hàng ngàn người vào giờ thứ mười một sẽ nhìn thấy và thừa nhận lẽ thật.... Những sự trở lại với lẽ thật này sẽ diễn ra với một tốc độ khiến hội thánh phải kinh ngạc, và chỉ một mình danh Đức Chúa Trời sẽ được tôn vinh.—Selected Messages 2:16 (1890). LDE 212.1
+Hàng ngàn người vào giờ thứ mười một sẽ nhìn thấy và thừa nhận lẽ thật.... Những sự trở lại với lẽ thật này sẽ diễn ra với một tốc độ khiến Hội Thánh phải kinh ngạc, và chỉ một mình danh Đức Chúa Trời sẽ được tôn vinh.—Selected Messages 2:16 (1890). LDE 212.1
 
 Sẽ có hàng ngàn người trở lại với lẽ thật trong một ngày, là những người vào giờ thứ mười một nhìn thấy và thừa nhận lẽ thật cùng những hoạt động của Đức Thánh Linh.—The Ellen G. White 1888 Materials, 755 (1890). LDE 212.2
 
@@ -235,7 +235,7 @@ Chẳng bao lâu nữa, sự thử thách cuối cùng sẽ đến với tất c
 
 Mọi linh hồn thành thật thật sự sẽ đến với ánh sáng của lẽ thật.—The Great Controversy, 522 (1911). LDE 213.2
 
-Sứ điệp sẽ được truyền đi không phải bằng lý luận cho bằng sự thuyết phục sâu xa của Đức Thánh Linh. Các lý luận đã được trình bày. Hạt giống đã được gieo, và bây giờ sẽ nẩy mầm và sinh trái. Những ấn phẩm được các nhân viên truyền giáo phân phát đã phát huy ảnh hưởng của chúng, song nhiều người mà tâm trí đã được tác động lại bị ngăn trở không nắm bắt trọn vẹn lẽ thật hoặc không vâng phục. Giờ đây, các tia sáng xuyên thấu khắp nơi, lẽ thật được nhìn thấy cách rõ ràng, và những con cái thành thật của Đức Chúa Trời cắt đứt những dây ràng buộc đã giữ họ lại. Liên hệ gia đình, mối quan hệ hội thánh, không còn quyền lực ngăn cản họ nữa. Lẽ thật quý báu hơn mọi sự khác. Mặc dù có nhiều thế lực liên kết chống lại lẽ thật, một số đông người vẫn đứng về phía Chúa.—The Great Controversy, 612 (1911). LDE 213.3
+Sứ điệp sẽ được truyền đi không phải bằng lý luận cho bằng sự thuyết phục sâu xa của Đức Thánh Linh. Các lý luận đã được trình bày. Hạt giống đã được gieo, và bây giờ sẽ nẩy mầm và sinh trái. Những ấn phẩm được các nhân viên truyền giáo phân phát đã phát huy ảnh hưởng của chúng, song nhiều người mà tâm trí đã được tác động lại bị ngăn trở không nắm bắt trọn vẹn lẽ thật hoặc không vâng phục. Giờ đây, các tia sáng xuyên thấu khắp nơi, lẽ thật được nhìn thấy cách rõ ràng, và những con cái thành thật của Đức Chúa Trời cắt đứt những dây ràng buộc đã giữ họ lại. Liên hệ gia đình, mối quan hệ Hội Thánh, không còn quyền lực ngăn cản họ nữa. Lẽ thật quý báu hơn mọi sự khác. Mặc dù có nhiều thế lực liên kết chống lại lẽ thật, một số đông người vẫn đứng về phía Chúa.—The Great Controversy, 612 (1911). LDE 213.3
 
 ## Ảnh Hưởng Của Trang Sách In
 

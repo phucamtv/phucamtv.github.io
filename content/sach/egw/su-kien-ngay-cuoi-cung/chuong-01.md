@@ -112,7 +112,7 @@ Có một ngày mà Đức Chúa Trời đã chỉ định cho sự kết thúc 
 
 Lời tiên tri đang nhanh chóng được ứng nghiệm. Nhiều, nhiều hơn nữa, cần phải được nói về những đề tài hết sức quan trọng này. Ngày sắp đến gần khi vận mệnh của các linh hồn sẽ được định đoạt mãi mãi.... LDE 16.4
 
-Cần phải hết sức cẩn thận để giữ đề tài này trước mặt dân chúng. Sự thật trang nghiêm này phải được giữ không chỉ trước mặt dân chúng của thế gian mà còn trước mặt các hội thánh của chúng ta nữa, rằng ngày của Chúa sẽ đến thình lình, bất ngờ. Lời cảnh cáo đáng sợ của lời tiên tri được nói với mỗi linh hồn. Đừng ai cảm thấy mình được an toàn khỏi nguy cơ bị bất ngờ. Đừng để cho sự giải nghĩa lời tiên tri của bất cứ ai cướp đi khỏi bạn niềm xác tín về sự hiểu biết các biến cố cho thấy biến cố trọng đại này đã gần kề.—Fundamentals of Christian Education, 335, 336 (1895). LDE 16.5
+Cần phải hết sức cẩn thận để giữ đề tài này trước mặt dân chúng. Sự thật trang nghiêm này phải được giữ không chỉ trước mặt dân chúng của thế gian mà còn trước mặt các Hội Thánh của chúng ta nữa, rằng ngày của Chúa sẽ đến thình lình, bất ngờ. Lời cảnh cáo đáng sợ của lời tiên tri được nói với mỗi linh hồn. Đừng ai cảm thấy mình được an toàn khỏi nguy cơ bị bất ngờ. Đừng để cho sự giải nghĩa lời tiên tri của bất cứ ai cướp đi khỏi bạn niềm xác tín về sự hiểu biết các biến cố cho thấy biến cố trọng đại này đã gần kề.—Fundamentals of Christian Education, 335, 336 (1895). LDE 16.5
 
 ## Giữ Quan Điểm Đúng Đắn Về Những Biến Cố Tương Lai
 
@@ -122,4 +122,4 @@ Dấu của con thú đúng như những gì đã được công bố. Không ph
 
 Nhiều người sẽ rời mắt khỏi những bổn phận, sự an ủi và phước hạnh hiện tại, mà mượn lấy nỗi lo về cơn khủng hoảng tương lai. Điều này sẽ tạo ra một cơn đại nạn trước thời điểm, và chúng ta sẽ không nhận được ân điển nào cho những nỗi lo lắng đoán trước như vậy.—Selected Messages 3:383, 384 (1884). LDE 17.3
 
-Sẽ có một cơn đại nạn đến trên dân sự Đức Chúa Trời, nhưng chúng ta không nên liên tục đặt điều đó trước mắt dân sự và thúc đẩy họ phải gánh chịu cơn đại nạn trước thời điểm. Sẽ có một sự rung chuyển giữa vòng dân sự Đức Chúa Trời, nhưng đây không phải là lẽ thật hiện tại để mang đến cho các hội thánh.—Selected Messages 1:180 (1890). LDE 17.4
+Sẽ có một cơn đại nạn đến trên dân sự Đức Chúa Trời, nhưng chúng ta không nên liên tục đặt điều đó trước mắt dân sự và thúc đẩy họ phải gánh chịu cơn đại nạn trước thời điểm. Sẽ có một sự rung chuyển giữa vòng dân sự Đức Chúa Trời, nhưng đây không phải là lẽ thật hiện tại để mang đến cho các Hội Thánh.—Selected Messages 1:180 (1890). LDE 17.4

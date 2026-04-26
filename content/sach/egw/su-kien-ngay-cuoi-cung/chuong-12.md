@@ -12,35 +12,35 @@ draft: true
 
 ## Là Thành Viên Hội Thánh Không Bảo Đảm Sự Cứu Rỗi
 
-Tôi xin tuyên bố một điều nghiêm trọng cùng hội thánh, rằng cứ trong hai mươi người có tên ghi trong sổ sách của hội thánh thì không tới một người được chuẩn bị sẵn sàng để kết thúc lịch sử trần thế của mình, và họ thật sự sẽ ở trong tình trạng không có Đức Chúa Trời và không có hi vọng trong thế gian, chẳng khác chi những kẻ tội nhân thông thường.—Christian Service, 41 (1893). LDE 172.1
+Tôi xin tuyên bố một điều nghiêm trọng cùng Hội Thánh, rằng cứ trong hai mươi người có tên ghi trong sổ sách của Hội Thánh thì không tới một người được chuẩn bị sẵn sàng để kết thúc lịch sử trần thế của mình, và họ thật sự sẽ ở trong tình trạng không có Đức Chúa Trời và không có hi vọng trong thế gian, chẳng khác chi những kẻ tội nhân thông thường.—Christian Service, 41 (1893). LDE 172.1
 
-Những người đã có cơ hội nghe và tiếp nhận lẽ thật, đã liên kết với hội thánh Cơ-đốc Phục Lâm, tự xưng mình là dân giữ điều răn của Đức Chúa Trời, nhưng lại không có sức sống và sự dâng hiến cho Đức Chúa Trời nhiều hơn các giáo hội hữu danh vô thực, thì sẽ nhận lãnh các tai vạ của Đức Chúa Trời thật sự y như các giáo hội chống đối luật pháp Đức Chúa Trời vậy.—Manuscript Releases 19:176 (1898). LDE 172.2
+Những người đã có cơ hội nghe và tiếp nhận lẽ thật, đã liên kết với Hội Thánh Cơ-đốc Phục Lâm, tự xưng mình là dân giữ điều răn của Đức Chúa Trời, nhưng lại không có sức sống và sự dâng hiến cho Đức Chúa Trời nhiều hơn các giáo hội hữu danh vô thực, thì sẽ nhận lãnh các tai vạ của Đức Chúa Trời thật sự y như các giáo hội chống đối luật pháp Đức Chúa Trời vậy.—Manuscript Releases 19:176 (1898). LDE 172.2
 
 ## Trấu Bị Sàng Lọc Khỏi Lúa Mì
 
-Sự chia rẽ sẽ đến trong hội thánh. Hai phe sẽ được hình thành. Lúa mì và cỏ lùng cùng mọc lên cho đến mùa gặt.—Selected Messages 2:114 (1896). LDE 172.3
+Sự chia rẽ sẽ đến trong Hội Thánh. Hai phe sẽ được hình thành. Lúa mì và cỏ lùng cùng mọc lên cho đến mùa gặt.—Selected Messages 2:114 (1896). LDE 172.3
 
 Sẽ có sự rung sàng. Trấu phải được tách ra khỏi lúa mì đúng kỳ. Vì tội ác gia tăng, lòng yêu thương của nhiều người sẽ nguội dần. Đó chính là lúc mà những người chân thật sẽ vững mạnh nhất.—Letter 46, 1887. LDE 173.1
 
 Lịch sử về cuộc nổi loạn của Đa-than và A-bi-ram đang được lặp lại, và sẽ còn được lặp lại cho đến tận thế. Ai sẽ đứng về phía Chúa? Ai sẽ bị lừa dối, và đến lượt mình lại trở thành kẻ lừa dối?—Letter 15, 1892. LDE 173.2
 
-Chúa sắp ngự đến. Phải có một tiến trình tinh luyện, sàng lọc trong mỗi hội thánh, vì giữa vòng chúng ta có những kẻ gian ác không yêu mến lẽ thật cũng không tôn vinh Đức Chúa Trời.—The Review and Herald, March 19, 1895. LDE 173.3
+Chúa sắp ngự đến. Phải có một tiến trình tinh luyện, sàng lọc trong mỗi Hội Thánh, vì giữa vòng chúng ta có những kẻ gian ác không yêu mến lẽ thật cũng không tôn vinh Đức Chúa Trời.—The Review and Herald, March 19, 1895. LDE 173.3
 
 Chúng ta đang ở trong thời kỳ rung chuyển, thời kỳ mà mọi điều có thể bị rung chuyển sẽ bị rung chuyển. Chúa sẽ không tha thứ cho những kẻ biết lẽ thật mà không vâng theo các điều răn của Ngài bằng lời nói và việc làm.—Testimonies for the Church 6:332 (1900). LDE 173.4
 
 ## Sự Bắt Bớ Tinh Luyện Hội Thánh
 
-Sự thịnh vượng làm gia tăng đông đảo những kẻ xưng đạo. Nghịch cảnh thanh lọc họ ra khỏi hội thánh.—Testimonies for the Church 4:89 (1876). LDE 173.5
+Sự thịnh vượng làm gia tăng đông đảo những kẻ xưng đạo. Nghịch cảnh thanh lọc họ ra khỏi Hội Thánh.—Testimonies for the Church 4:89 (1876). LDE 173.5
 
-Thời điểm mà cuộc thử nghiệm đến với mỗi linh hồn không còn xa nữa. Dấu của con thú sẽ bị áp đặt trên chúng ta. Những ai đã từng bước nhượng bộ trước những đòi hỏi của thế gian và thuận theo các phong tục của thế gian sẽ không thấy khó khăn gì khi quy phục các thế lực đương quyền, thay vì chịu sự nhạo báng, sỉ nhục, đe dọa tù đày và sự chết. Cuộc tranh đấu là giữa các điều răn của Đức Chúa Trời và các điều răn của loài người. Trong thời gian này, vàng sẽ được phân tách khỏi cặn bã trong hội thánh.—Testimonies for the Church 5:81 (1882). LDE 173.6
+Thời điểm mà cuộc thử nghiệm đến với mỗi linh hồn không còn xa nữa. Dấu của con thú sẽ bị áp đặt trên chúng ta. Những ai đã từng bước nhượng bộ trước những đòi hỏi của thế gian và thuận theo các phong tục của thế gian sẽ không thấy khó khăn gì khi quy phục các thế lực đương quyền, thay vì chịu sự nhạo báng, sỉ nhục, đe dọa tù đày và sự chết. Cuộc tranh đấu là giữa các điều răn của Đức Chúa Trời và các điều răn của loài người. Trong thời gian này, vàng sẽ được phân tách khỏi cặn bã trong Hội Thánh.—Testimonies for the Church 5:81 (1882). LDE 173.6
 
 Trong lúc không có sự bắt bớ, đã có những người trôi giạt vào hàng ngũ chúng ta, những người trông có vẻ vững vàng và đức tin Cơ-đốc của họ dường như không thể nghi ngờ, nhưng nếu sự bắt bớ nổi lên, họ sẽ rời bỏ chúng ta mà đi.—Evangelism, 360 (1890). LDE 174.1
 
-Khi luật pháp Đức Chúa Trời bị vô hiệu hóa, hội thánh sẽ bị sàng sảy bởi những thử thách lửa nóng, và một tỷ lệ lớn hơn chúng ta dự đoán hiện nay sẽ nghe theo các thần lừa dối và đạo lý của ma quỷ.—Selected Messages 2:368 (1891). LDE 174.2
+Khi luật pháp Đức Chúa Trời bị vô hiệu hóa, Hội Thánh sẽ bị sàng sảy bởi những thử thách lửa nóng, và một tỷ lệ lớn hơn chúng ta dự đoán hiện nay sẽ nghe theo các thần lừa dối và đạo lý của ma quỷ.—Selected Messages 2:368 (1891). LDE 174.2
 
 ## Những Tín Đồ Hời Hợt Sẽ Chối Bỏ Đức Tin
 
-Công việc mà hội thánh đã không hoàn thành trong thời kỳ bình an và thịnh vượng, hội thánh sẽ phải thực hiện trong một cuộc khủng hoảng khủng khiếp dưới những hoàn cảnh đầy nản lòng và ngăn trở nhất. Những lời cảnh báo mà sự rập khuôn theo thế gian đã làm im lặng hoặc giữ lại phải được công bố dưới sự chống đối dữ dội nhất từ những kẻ thù của đức tin. Và vào lúc đó, hạng người hời hợt, bảo thủ [Bà Ellen White ở đây không phân biệt những người bảo thủ về thần học với những người tự do; bà đang mô tả những người đặt “sự rập khuôn theo thế gian” lên hàng đầu và sự nghiệp của Đức Chúa Trời ở hàng thứ yếu.], là những người mà ảnh hưởng của họ đã liên tục cản trở tiến trình của công việc, sẽ chối bỏ đức tin.—Testimonies for the Church 5:463 (1885). LDE 174.3
+Công việc mà Hội Thánh đã không hoàn thành trong thời kỳ bình an và thịnh vượng, Hội Thánh sẽ phải thực hiện trong một cuộc khủng hoảng khủng khiếp dưới những hoàn cảnh đầy nản lòng và ngăn trở nhất. Những lời cảnh báo mà sự rập khuôn theo thế gian đã làm im lặng hoặc giữ lại phải được công bố dưới sự chống đối dữ dội nhất từ những kẻ thù của đức tin. Và vào lúc đó, hạng người hời hợt, bảo thủ [Bà Ellen White ở đây không phân biệt những người bảo thủ về thần học với những người tự do; bà đang mô tả những người đặt “sự rập khuôn theo thế gian” lên hàng đầu và sự nghiệp của Đức Chúa Trời ở hàng thứ yếu.], là những người mà ảnh hưởng của họ đã liên tục cản trở tiến trình của công việc, sẽ chối bỏ đức tin.—Testimonies for the Church 5:463 (1885). LDE 174.3
 
 Nếu Sa-tan thấy rằng Chúa đang ban phước cho dân Ngài và chuẩn bị họ để nhận biết những sự lừa dối của nó, nó sẽ dùng quyền lực bậc thầy của mình để đưa vào sự cuồng tín ở một mặt và chủ nghĩa hình thức lạnh lẽo ở mặt khác, hầu cho nó có thể gặt hái một mùa gặt linh hồn.—Selected Messages 2:19 (1890). LDE 174.4
 
@@ -118,7 +118,7 @@ Chẳng bao lâu nữa, dân sự Đức Chúa Trời sẽ bị thử thách b�
 
 Khi tôn giáo của Đấng Christ bị khinh bỉ nhất, khi luật pháp của Ngài bị coi thường nhất, thì lòng nhiệt thành của chúng ta phải nồng nàn nhất, và sự can đảm cùng kiên định của chúng ta phải vững vàng không lay chuyển nhất. Đứng lên bảo vệ lẽ thật và sự công bình khi số đông từ bỏ chúng ta, chiến đấu trong các trận chiến của Chúa khi các chiến sĩ thưa thớt—đó sẽ là thử thách của chúng ta. Trong thời điểm này, chúng ta phải gom lấy hơi ấm từ sự lạnh lẽo của người khác, sự can đảm từ sự hèn nhát của họ, và lòng trung thành từ sự phản bội của họ.—Testimonies for the Church 5:136 (1882). LDE 180.4
 
-Hội thánh có thể dường như sắp sụp đổ, nhưng hội thánh sẽ không sụp đổ. Hội thánh vẫn đứng vững, trong khi những kẻ tội lỗi trong Si-ôn sẽ bị sàng lọc ra—trấu được tách khỏi lúa mì quý giá. Đây là một cuộc thử thách khủng khiếp, nhưng dầu vậy nó vẫn phải xảy đến.—Selected Messages 2:380 (1886). LDE 180.5
+Hội Thánh có thể dường như sắp sụp đổ, nhưng Hội Thánh sẽ không sụp đổ. Hội Thánh vẫn đứng vững, trong khi những kẻ tội lỗi trong Si-ôn sẽ bị sàng lọc ra—trấu được tách khỏi lúa mì quý giá. Đây là một cuộc thử thách khủng khiếp, nhưng dầu vậy nó vẫn phải xảy đến.—Selected Messages 2:380 (1886). LDE 180.5
 
 Khi cơn bão đến gần, một số đông những người đã tuyên xưng đức tin nơi sứ điệp của vị thiên sứ thứ ba, nhưng chưa được nên thánh qua sự vâng phục lẽ thật, sẽ từ bỏ lập trường của mình và gia nhập hàng ngũ của phe đối lập.—The Great Controversy, 608 (1911). LDE 180.6
 

@@ -21,13 +21,13 @@ Lời Đức Chúa Trời tuyên bố rằng khi điều đó phù hợp với m
 
 —Manuscript 125, 1901. LDE 155.2
 
-Vì các thần linh ấy sẽ tuyên xưng đức tin nơi Kinh Thánh và bày tỏ sự tôn trọng đối với các thể chế của hội thánh, công việc của chúng sẽ được tiếp nhận như một sự biểu lộ của quyền năng thần thượng.—The Great Controversy, 588 (1911). LDE 155.3
+Vì các thần linh ấy sẽ tuyên xưng đức tin nơi Kinh Thánh và bày tỏ sự tôn trọng đối với các thể chế của Hội Thánh, công việc của chúng sẽ được tiếp nhận như một sự biểu lộ của quyền năng thần thượng.—The Great Controversy, 588 (1911). LDE 155.3
 
 Thành lũy mạnh nhất của tội ác trong thế gian chúng ta không phải là cuộc đời gian ác của kẻ tội nhân hư hỏng hay kẻ bị ruồng bỏ thấp hèn; mà chính là cuộc đời bề ngoài có vẻ đạo đức, đáng kính và cao thượng, nhưng trong đó một tội lỗi được nuôi dưỡng, một thói xấu được dung túng.... Thiên tài, tài năng, lòng cảm thông, ngay cả những hành động rộng lượng và nhân hậu, do đó có thể trở thành mồi nhử của Sa-tan để dụ dỗ các linh hồn vượt qua bờ vực của sự diệt vong.—Education, 150 (1903). LDE 156.1
 
-## Ngay cả trong Hội thánh Cơ-đốc Phục Lâm
+## Ngay cả trong Hội Thánh Cơ-đốc Phục Lâm
 
-Chúng ta có nhiều điều phải lo sợ từ bên trong hơn là từ bên ngoài. Những trở ngại đối với sức mạnh và sự thành công đến từ chính hội thánh nhiều hơn là từ thế gian. Những người không tin có quyền mong đợi rằng những ai xưng mình giữ các điều răn của Đức Chúa Trời và đức tin của Đức Chúa Giê-su, sẽ làm nhiều hơn bất cứ tầng lớp nào khác để cổ vũ và tôn vinh, bằng đời sống nhất quán của họ, bằng tấm gương tin kính và ảnh hưởng tích cực của họ, sự nghiệp mà họ đại diện. Nhưng những kẻ xưng là người bênh vực chân lý đã bao lần tỏ ra là chướng ngại lớn nhất cho sự tiến bộ của chân lý! Sự vô tín được dung dưỡng, những nghi ngờ được bày tỏ, sự tối tăm được ấp ủ, đã khích lệ sự hiện diện của các thiên sứ ác và mở đường cho Sa-tan thực hiện các mưu chước của hắn.—Selected Messages 1:122 (1887). LDE 156.2
+Chúng ta có nhiều điều phải lo sợ từ bên trong hơn là từ bên ngoài. Những trở ngại đối với sức mạnh và sự thành công đến từ chính Hội Thánh nhiều hơn là từ thế gian. Những người không tin có quyền mong đợi rằng những ai xưng mình giữ các điều răn của Đức Chúa Trời và đức tin của Đức Chúa Giê-su, sẽ làm nhiều hơn bất cứ tầng lớp nào khác để cổ vũ và tôn vinh, bằng đời sống nhất quán của họ, bằng tấm gương tin kính và ảnh hưởng tích cực của họ, sự nghiệp mà họ đại diện. Nhưng những kẻ xưng là người bênh vực chân lý đã bao lần tỏ ra là chướng ngại lớn nhất cho sự tiến bộ của chân lý! Sự vô tín được dung dưỡng, những nghi ngờ được bày tỏ, sự tối tăm được ấp ủ, đã khích lệ sự hiện diện của các thiên sứ ác và mở đường cho Sa-tan thực hiện các mưu chước của hắn.—Selected Messages 1:122 (1887). LDE 156.2
 
 ## Các tà linh dối trá mâu thuẫn với Kinh Thánh
 
@@ -43,9 +43,9 @@ Nhưng dân sự của Đức Chúa Trời sẽ không bị lừa dối. Những
 
 ## Những Cuộc Phục Hưng Giả
 
-Tôi thấy rằng Đức Chúa Trời có những con cái trung thực ở giữa những người Cơ-đốc Phục Lâm trên danh nghĩa và trong các hội thánh sa ngã, và trước khi các tai vạ được đổ ra, các mục sư và dân chúng sẽ được kêu gọi ra khỏi những hội thánh này và sẽ vui mừng tiếp nhận lẽ thật. Sa-tan biết điều này; và trước khi tiếng kêu lớn của vị thiên sứ thứ ba được rao truyền, hắn dấy lên một sự náo động trong các tổ chức tôn giáo này, để những kẻ đã chối bỏ lẽ thật có thể tưởng rằng Đức Chúa Trời đang ở cùng họ.—Early Writings, 261 (1858). LDE 158.1
+Tôi thấy rằng Đức Chúa Trời có những con cái trung thực ở giữa những người Cơ-đốc Phục Lâm trên danh nghĩa và trong các Hội Thánh sa ngã, và trước khi các tai vạ được đổ ra, các mục sư và dân chúng sẽ được kêu gọi ra khỏi những Hội Thánh này và sẽ vui mừng tiếp nhận lẽ thật. Sa-tan biết điều này; và trước khi tiếng kêu lớn của vị thiên sứ thứ ba được rao truyền, hắn dấy lên một sự náo động trong các tổ chức tôn giáo này, để những kẻ đã chối bỏ lẽ thật có thể tưởng rằng Đức Chúa Trời đang ở cùng họ.—Early Writings, 261 (1858). LDE 158.1
 
-Trước khi sự phán xét cuối cùng của Đức Chúa Trời giáng trên đất, sẽ có giữa vòng dân sự của Chúa một cuộc phục hưng sự tin kính nguyên thủy như chưa từng được chứng kiến kể từ thời các sứ đồ.... Kẻ thù của các linh hồn muốn cản trở công việc này, và trước khi đến thời điểm cho một phong trào như thế xảy ra, hắn sẽ cố gắng ngăn chặn nó bằng cách đưa ra một sự giả mạo. Trong những hội thánh mà hắn có thể đem vào dưới quyền lực lừa dối của hắn, hắn sẽ làm cho có vẻ như phước lành đặc biệt của Đức Chúa Trời được đổ xuống; sẽ có sự bày tỏ điều được xem là sự quan tâm lớn về tôn giáo.... LDE 158.2
+Trước khi sự phán xét cuối cùng của Đức Chúa Trời giáng trên đất, sẽ có giữa vòng dân sự của Chúa một cuộc phục hưng sự tin kính nguyên thủy như chưa từng được chứng kiến kể từ thời các sứ đồ.... Kẻ thù của các linh hồn muốn cản trở công việc này, và trước khi đến thời điểm cho một phong trào như thế xảy ra, hắn sẽ cố gắng ngăn chặn nó bằng cách đưa ra một sự giả mạo. Trong những Hội Thánh mà hắn có thể đem vào dưới quyền lực lừa dối của hắn, hắn sẽ làm cho có vẻ như phước lành đặc biệt của Đức Chúa Trời được đổ xuống; sẽ có sự bày tỏ điều được xem là sự quan tâm lớn về tôn giáo.... LDE 158.2
 
 Có một sự náo động cảm xúc, một sự pha trộn giữa thật và giả, rất thích hợp để dẫn dắt sai lạc. Tuy nhiên, không ai cần phải bị lừa dối. Dưới ánh sáng của Lời Đức Chúa Trời, không khó để xác định bản chất của những phong trào này. Bất cứ nơi nào con người bỏ qua lời chứng của Kinh Thánh, quay khỏi những lẽ thật rõ ràng, thử thách linh hồn vốn đòi hỏi sự từ bỏ chính mình và từ bỏ thế gian, thì ở đó chúng ta có thể chắc chắn rằng phước lành của Đức Chúa Trời không được ban xuống.—The Great Controversy, 464 (1911). LDE 158.3
 
@@ -59,7 +59,7 @@ Chúng ta đừng để chỗ cho những thực hành kỳ lạ, là những đ
 
 ## Sự Nói Tiếng Lạ Giả Dối
 
-Sự cuồng tín, sự phấn khích giả tạo, sự nói tiếng lạ giả dối và những hành động ồn ào đã được xem là các ân tứ mà Đức Chúa Trời đặt trong hội thánh. Một số người đã bị lừa dối ở điểm này. Bông trái của tất cả những điều này đã không tốt.
+Sự cuồng tín, sự phấn khích giả tạo, sự nói tiếng lạ giả dối và những hành động ồn ào đã được xem là các ân tứ mà Đức Chúa Trời đặt trong Hội Thánh. Một số người đã bị lừa dối ở điểm này. Bông trái của tất cả những điều này đã không tốt.
 
 > "Ấy vậy, các ngươi nhờ những trái nó mà nhận biết được."
 > <cite>(Ma-thi-ơ 7:20)</cite>
@@ -98,7 +98,7 @@ Một quyền lực từ bên dưới đang hoạt động để đem đến nh�
 
 Có một giới hạn mà Sa-tan không thể vượt qua, và tại đây nó dùng đến sự lừa dối để trợ giúp và giả mạo công việc mà nó không có quyền năng thực sự để thực hiện. Trong những ngày sau rốt, nó sẽ xuất hiện theo cách khiến người ta tin rằng nó là Đấng Christ tái lâm vào thế gian. Nó quả thật sẽ biến mình thành thiên sứ sáng láng. Nhưng dù nó sẽ mang hình dáng của Đấng Christ trong mọi chi tiết, ít nhất là về vẻ bề ngoài, thì điều đó cũng sẽ chỉ lừa dối được những ai, giống như Pha-ra-ôn, đang tìm cách chống lại lẽ thật.—Testimonies for the Church 5:698 (1889). LDE 163.1
 
-Là hành động đỉnh điểm trong vở kịch lừa dối vĩ đại, chính Sa-tan sẽ đóng vai Đấng Christ. Hội thánh đã từ lâu tuyên xưng trông đợi sự tái lâm của Đấng Cứu Thế như sự thành toàn của niềm hy vọng mình. Giờ đây kẻ lừa dối lớn sẽ làm cho người ta tưởng rằng Đấng Christ đã đến. Tại các vùng khác nhau trên đất, Sa-tan sẽ tỏ mình ra giữa loài người như một đấng oai nghi với sự sáng chói lòa, giống với mô tả về Con Đức Chúa Trời mà Giăng đã ghi lại trong sách Khải Huyền.
+Là hành động đỉnh điểm trong vở kịch lừa dối vĩ đại, chính Sa-tan sẽ đóng vai Đấng Christ. Hội Thánh đã từ lâu tuyên xưng trông đợi sự tái lâm của Đấng Cứu Thế như sự thành toàn của niềm hy vọng mình. Giờ đây kẻ lừa dối lớn sẽ làm cho người ta tưởng rằng Đấng Christ đã đến. Tại các vùng khác nhau trên đất, Sa-tan sẽ tỏ mình ra giữa loài người như một đấng oai nghi với sự sáng chói lòa, giống với mô tả về Con Đức Chúa Trời mà Giăng đã ghi lại trong sách Khải Huyền.
 
 > "vừa xây lại, thấy bảy chân đèn bằng vàng, và ở giữa những chân đèn có ai giống như con người, mặc áo dài, thắt đai vàng ngang trên ngực. Đầu và tóc người trắng như lông chiên, trắng như tuyết; mắt như ngọn lửa; chân như đồng sáng đã luyện trong lò lửa, và tiếng như tiếng nước lớn."
 > <cite>(Khải-huyền 1:13-15)</cite>
@@ -154,7 +154,7 @@ Lời Đức Chúa Trời tuyên bố rằng kẻ thù nghịch sẽ hành độ
 
 ## Sa-tan Sẽ Được Tôn Lên Làm Thần
 
-Trong thời đại này, kẻ địch lại Đấng Christ sẽ xuất hiện như là Đấng Christ thật, và lúc ấy luật pháp Đức Chúa Trời sẽ bị hoàn toàn vô hiệu hóa nơi các quốc gia trong thế giới chúng ta. Sự phản nghịch chống lại luật pháp thánh của Đức Chúa Trời sẽ chín muồi hoàn toàn. Nhưng kẻ cầm đầu thật sự của tất cả sự phản nghịch này chính là Sa-tan đội lốt một thiên sứ sáng láng. Loài người sẽ bị lừa dối và sẽ tôn nó lên vị trí của Đức Chúa Trời, và tôn nó làm thần. Nhưng Đấng Toàn Năng sẽ can thiệp, và đối với các hội thánh bội đạo cùng nhau hiệp lại tôn cao Sa-tan, bản án sẽ được tuyên ra:
+Trong thời đại này, kẻ địch lại Đấng Christ sẽ xuất hiện như là Đấng Christ thật, và lúc ấy luật pháp Đức Chúa Trời sẽ bị hoàn toàn vô hiệu hóa nơi các quốc gia trong thế giới chúng ta. Sự phản nghịch chống lại luật pháp thánh của Đức Chúa Trời sẽ chín muồi hoàn toàn. Nhưng kẻ cầm đầu thật sự của tất cả sự phản nghịch này chính là Sa-tan đội lốt một thiên sứ sáng láng. Loài người sẽ bị lừa dối và sẽ tôn nó lên vị trí của Đức Chúa Trời, và tôn nó làm thần. Nhưng Đấng Toàn Năng sẽ can thiệp, và đối với các Hội Thánh bội đạo cùng nhau hiệp lại tôn cao Sa-tan, bản án sẽ được tuyên ra:
 
 > "Vậy cho nên đồng trong một ngày, những tai nạn này sẽ giáng trên nó, nào sự chết, nào sự than khóc, nào đói kém, và nó sẽ bị lửa thiêu mình đi nữa; vì Đức Chúa Trời phán xét nó là Chúa có quyền lực."
 > <cite>(Khải-huyền 18:8)</cite>

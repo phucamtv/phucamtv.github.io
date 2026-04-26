@@ -148,7 +148,7 @@ Chúng ta thường nghe nói về động đất và lốc xoáy, về sự tà
 
 ## Những Biến Cố Sắp Đến Đều Ở Trong Tay Chúa
 
-Thế giới này không phải không có Đấng cai trị. Chương trình của những biến cố sắp đến đều ở trong tay Chúa. Đấng Oai Nghi trên trời nắm giữ vận mệnh của các quốc gia cũng như các công việc của hội thánh Ngài.—Testimonies for the Church 5:753 (1889). LDE 29.1
+Thế giới này không phải không có Đấng cai trị. Chương trình của những biến cố sắp đến đều ở trong tay Chúa. Đấng Oai Nghi trên trời nắm giữ vận mệnh của các quốc gia cũng như các công việc của Hội Thánh Ngài.—Testimonies for the Church 5:753 (1889). LDE 29.1
 
 Những biểu tượng này [những con rắn lửa trong đồng vắng] phục vụ hai mục đích. Qua đó, dân sự Đức Chúa Trời không những học được rằng các lực lượng vật chất của trái đất ở dưới sự kiểm soát của Đấng Tạo Hóa, mà còn rằng dưới sự kiểm soát của Ngài có cả những phong trào tôn giáo của các quốc gia. Điều này đặc biệt đúng đối với việc cưỡng bức tuân giữ ngày Chúa Nhật.—Manuscript Releases 19:281 (1902). LDE 29.2
 

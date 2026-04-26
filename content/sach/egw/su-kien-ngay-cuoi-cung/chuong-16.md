@@ -32,9 +32,9 @@ làm một hình tượng cho con thú được mô tả trong
 
 ] Vậy thì để biết hình tượng đó như thế nào và được hình thành ra sao, chúng ta phải nghiên cứu các đặc điểm của chính con thú ấy—giáo hoàng. LDE 228.1
 
-Khi hội thánh thời kỳ đầu trở nên bại hoại do từ bỏ sự đơn sơ của tin lành và chấp nhận các nghi lễ và phong tục ngoại giáo, hội thánh đã đánh mất Đức Thánh Linh và quyền năng của Đức Chúa Trời; và để kiểm soát lương tâm của dân chúng, hội thánh đã tìm kiếm sự ủng hộ của quyền lực thế tục. Kết quả là giáo hoàng, một hội thánh kiểm soát quyền lực của nhà nước, và sử dụng nó để thúc đẩy các mục đích riêng của mình, đặc biệt là để trừng phạt "tà giáo". Để Hoa Kỳ hình thành một hình tượng của con thú, quyền lực tôn giáo phải kiểm soát chính quyền dân sự đến mức quyền lực của nhà nước cũng sẽ được hội thánh sử dụng để hoàn thành các mục đích riêng của mình.... LDE 228.2
+Khi Hội Thánh thời kỳ đầu trở nên bại hoại do từ bỏ sự đơn sơ của tin lành và chấp nhận các nghi lễ và phong tục ngoại giáo, Hội Thánh đã đánh mất Đức Thánh Linh và quyền năng của Đức Chúa Trời; và để kiểm soát lương tâm của dân chúng, Hội Thánh đã tìm kiếm sự ủng hộ của quyền lực thế tục. Kết quả là giáo hoàng, một Hội Thánh kiểm soát quyền lực của nhà nước, và sử dụng nó để thúc đẩy các mục đích riêng của mình, đặc biệt là để trừng phạt "tà giáo". Để Hoa Kỳ hình thành một hình tượng của con thú, quyền lực tôn giáo phải kiểm soát chính quyền dân sự đến mức quyền lực của nhà nước cũng sẽ được Hội Thánh sử dụng để hoàn thành các mục đích riêng của mình.... LDE 228.2
 
-"Hình tượng của con thú" tượng trưng cho hình thức của Tin Lành bội đạo sẽ phát triển khi các hội thánh Tin Lành tìm kiếm sự trợ giúp của quyền lực dân sự để thi hành các giáo điều của họ.—The Great Controversy, 443, 445 (1911). LDE 228.3
+"Hình tượng của con thú" tượng trưng cho hình thức của Tin Lành bội đạo sẽ phát triển khi các Hội Thánh Tin Lành tìm kiếm sự trợ giúp của quyền lực dân sự để thi hành các giáo điều của họ.—The Great Controversy, 443, 445 (1911). LDE 228.3
 
 ## Thời Kỳ Ân Điển Kết Thúc Khi Việc Đóng Ấn Hoàn Tất
 
@@ -84,7 +84,7 @@ Chủ nghĩa hoài nghi và những điều được gọi là khoa học đã l
 
 Khi mọi sự trong thế giới chúng ta đang bận rộn hoạt động, chìm đắm trong tham vọng ích kỷ vì lợi lộc, Đức Chúa Giê-su sẽ đến như kẻ trộm.—Manuscript 15b, 1886. LDE 232.2
 
-Khi những người xưng mình là dân của Đức Chúa Trời liên kết với thế gian, sống như chúng nó sống, và cùng dự vào những thú vui bị cấm với chúng nó; khi sự xa hoa của thế gian trở thành sự xa hoa của hội thánh; khi tiếng chuông cưới đang ngân vang, và mọi người đều trông mong nhiều năm thịnh vượng theo thế gian—thì bấy giờ, đột ngột như chớp loè từ trời, sự kết thúc của những ảo ảnh tươi sáng và những hy vọng huyễn hoặc của họ sẽ đến.—The Great Controversy, 338, 339 (1911). LDE 232.3
+Khi những người xưng mình là dân của Đức Chúa Trời liên kết với thế gian, sống như chúng nó sống, và cùng dự vào những thú vui bị cấm với chúng nó; khi sự xa hoa của thế gian trở thành sự xa hoa của Hội Thánh; khi tiếng chuông cưới đang ngân vang, và mọi người đều trông mong nhiều năm thịnh vượng theo thế gian—thì bấy giờ, đột ngột như chớp loè từ trời, sự kết thúc của những ảo ảnh tươi sáng và những hy vọng huyễn hoặc của họ sẽ đến.—The Great Controversy, 338, 339 (1911). LDE 232.3
 
 ## Loài Người Sẽ Hoàn Toàn Mải Mê Với Việc Kinh Doanh
 
@@ -117,7 +117,7 @@ Trong xứ có cơn đói khát về việc nghe Lời Đức Chúa Trời.—Ma
 
 ## Không Còn Lời Cầu Nguyện Cho Kẻ Ác
 
-Các tôi tớ của Đức Chúa Trời sẽ hoàn thành công việc cuối cùng, dâng những lời cầu nguyện cuối cùng, rơi những giọt lệ cay đắng cuối cùng cho một hội thánh phản nghịch và một dân tộc vô đạo. Lời cảnh báo trang nghiêm cuối cùng của họ đã được đưa ra. Ôi, lúc ấy nhà cửa và đất đai, những đồng tiền đã được tích trữ một cách bủn xỉn, được nâng niu và nắm chặt, sẽ được đem ra cho mau lẹ biết bao bởi những kẻ đã xưng nhận lẽ thật mà không sống theo lẽ thật, để đổi lấy một sự an ủi nào đó, để được giảng giải con đường cứu rỗi, hoặc để nghe một lời đầy hy vọng, một lời cầu nguyện hay một lời khuyên nhủ từ các tôi tớ của Đức Chúa Trời. Nhưng không, họ phải tiếp tục đói khát một cách vô ích; cơn khát của họ sẽ không bao giờ được làm dịu, không một sự an ủi nào họ có thể nhận được. Trường hợp của họ đã được quyết định và ấn định đời đời. Đó là một thời kỳ đáng sợ và kinh khiếp.—Manuscript 1, 1857. LDE 235.1
+Các tôi tớ của Đức Chúa Trời sẽ hoàn thành công việc cuối cùng, dâng những lời cầu nguyện cuối cùng, rơi những giọt lệ cay đắng cuối cùng cho một Hội Thánh phản nghịch và một dân tộc vô đạo. Lời cảnh báo trang nghiêm cuối cùng của họ đã được đưa ra. Ôi, lúc ấy nhà cửa và đất đai, những đồng tiền đã được tích trữ một cách bủn xỉn, được nâng niu và nắm chặt, sẽ được đem ra cho mau lẹ biết bao bởi những kẻ đã xưng nhận lẽ thật mà không sống theo lẽ thật, để đổi lấy một sự an ủi nào đó, để được giảng giải con đường cứu rỗi, hoặc để nghe một lời đầy hy vọng, một lời cầu nguyện hay một lời khuyên nhủ từ các tôi tớ của Đức Chúa Trời. Nhưng không, họ phải tiếp tục đói khát một cách vô ích; cơn khát của họ sẽ không bao giờ được làm dịu, không một sự an ủi nào họ có thể nhận được. Trường hợp của họ đã được quyết định và ấn định đời đời. Đó là một thời kỳ đáng sợ và kinh khiếp.—Manuscript 1, 1857. LDE 235.1
 
 Trong thời kỳ khi sự phán xét của Đức Chúa Trời giáng xuống không thương xót, ôi, kẻ ác sẽ ganh tỵ biết bao với địa vị của những người ở “trong nơi kín đáo của Đấng Chí Cao”—nơi trú ẩn mà Chúa giấu tất cả những ai đã yêu mến Ngài và đã vâng giữ các điều răn của Ngài! Số phận của người công bình quả là đáng ganh tỵ trong thời điểm như vậy đối với những kẻ đang chịu khổ vì tội lỗi mình. Nhưng cánh cửa thương xót đã đóng lại đối với kẻ ác. Không còn lời cầu nguyện nào được dâng lên cho họ sau khi thời kỳ ân điển kết thúc.—The S.D.A. Bible Commentary 3:1150 (1901). LDE 235.2
 

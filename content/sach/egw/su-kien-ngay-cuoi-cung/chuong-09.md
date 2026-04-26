@@ -104,17 +104,17 @@ Tin Lành sẽ bắt tay liên hiệp với thế lực La-mã. Bấy giờ sẽ
 
 Làm sao giáo hội La-mã có thể tự thanh minh khỏi sự cáo buộc về việc thờ hình tượng thì chúng ta không thể thấy được.... Và đây là tôn giáo mà những người Tin Lành đang bắt đầu nhìn với nhiều thiện cảm, và rốt cuộc sẽ hiệp nhất với Tin Lành. Tuy nhiên, sự hiệp nhất này sẽ không được thực hiện bởi một sự thay đổi trong Công Giáo, vì La-mã không bao giờ thay đổi. Bà ta tự xưng là không thể sai lầm. Chính Tin Lành sẽ thay đổi. Việc chấp nhận những ý tưởng phóng khoáng về phần mình sẽ đưa Tin Lành đến chỗ có thể nắm tay Công Giáo.—The Review and Herald, ngày 1 tháng 6, 1886. LDE 130.2
 
-Thế giới được xưng là Tin Lành sẽ kết liên minh với người của tội lỗi, và hội thánh cùng thế gian sẽ ở trong sự hòa hợp bại hoại.—The S.D.A. Bible Commentary 7:975 (1891). LDE 130.3
+Thế giới được xưng là Tin Lành sẽ kết liên minh với người của tội lỗi, và Hội Thánh cùng thế gian sẽ ở trong sự hòa hợp bại hoại.—The S.D.A. Bible Commentary 7:975 (1891). LDE 130.3
 
 Công Giáo La-mã ở Cựu Thế Giới, và Tin Lành bội đạo ở Tân Thế Giới, sẽ theo đuổi một đường lối tương tự đối với những ai tôn trọng mọi mạng lệnh thiêng liêng.—The Great Controversy, 616 (1911). LDE 130.4
 
 ## Luật Chúa Nhật Tôn Vinh La-mã
 
-Khi các hội thánh đứng đầu tại Hoa Kỳ liên hiệp với nhau trên những điểm giáo lý mà họ cùng nắm giữ, sẽ gây ảnh hưởng trên nhà nước để thi hành các sắc lệnh của họ và ủng hộ các định chế của họ, thì khi ấy nước Mỹ Tin Lành sẽ hình thành một hình tượng của phẩm trật La-mã, và kết quả tất yếu sẽ là việc giáng các hình phạt dân sự trên những người bất đồng chính kiến.... LDE 131.1
+Khi các Hội Thánh đứng đầu tại Hoa Kỳ liên hiệp với nhau trên những điểm giáo lý mà họ cùng nắm giữ, sẽ gây ảnh hưởng trên nhà nước để thi hành các sắc lệnh của họ và ủng hộ các định chế của họ, thì khi ấy nước Mỹ Tin Lành sẽ hình thành một hình tượng của phẩm trật La-mã, và kết quả tất yếu sẽ là việc giáng các hình phạt dân sự trên những người bất đồng chính kiến.... LDE 131.1
 
-Việc các hội thánh Tin Lành cưỡng bách giữ ngày Chúa Nhật là sự cưỡng bách tôn thờ giáo hoàng.... LDE 131.2
+Việc các Hội Thánh Tin Lành cưỡng bách giữ ngày Chúa Nhật là sự cưỡng bách tôn thờ giáo hoàng.... LDE 131.2
 
-Chính trong hành động cưỡng bách thi hành một bổn phận tôn giáo bằng quyền lực thế tục, các hội thánh sẽ tự mình hình thành một hình tượng của con thú; do đó việc cưỡng bách giữ ngày Chúa Nhật tại Hoa Kỳ sẽ là sự cưỡng bách tôn thờ con thú và hình tượng nó.—The Great Controversy, 445, 448, 449 (1911). LDE 131.3
+Chính trong hành động cưỡng bách thi hành một bổn phận tôn giáo bằng quyền lực thế tục, các Hội Thánh sẽ tự mình hình thành một hình tượng của con thú; do đó việc cưỡng bách giữ ngày Chúa Nhật tại Hoa Kỳ sẽ là sự cưỡng bách tôn thờ con thú và hình tượng nó.—The Great Controversy, 445, 448, 449 (1911). LDE 131.3
 
 Khi Tin Lành vươn tay qua vực thẳm để nắm lấy tay quyền lực La-mã, khi nó vươn qua hố sâu để bắt tay với thuyết thông linh, khi, dưới ảnh hưởng của liên minh ba bên này, đất nước chúng ta phủ nhận mọi nguyên tắc trong Hiến pháp của mình với tư cách là một chính phủ Tin Lành và cộng hòa, và sẽ ban hành những điều khoản nhằm truyền bá những điều giả dối và lừa dối của giáo hoàng, thì khi ấy chúng ta có thể biết rằng thời điểm cho công việc kỳ diệu của Sa-tan đã đến và sự kết thúc đã gần kề.—Testimonies for the Church 5:451 (1885). LDE 131.4
 
@@ -126,7 +126,7 @@ Các đạo luật cưỡng bức việc giữ Chúa Nhật làm ngày Sa-bát s
 
 Một thời kỳ tối tăm trí thức lớn đã được chỉ ra là thuận lợi cho sự thành công của giáo hoàng. Rồi đây sẽ được chứng minh rằng một thời kỳ ánh sáng trí thức lớn cũng thuận lợi không kém cho sự thành công của nó.—The Spirit of Prophecy 4:390 (1884). LDE 132.2
 
-Trong các phong trào hiện đang diễn ra tại Hoa Kỳ nhằm bảo đảm cho các thể chế và tập quán của hội thánh được nhà nước hậu thuẫn, người Tin lành đang đi theo bước chân của những người theo giáo hoàng. Không những vậy, họ còn đang mở cửa cho giáo hoàng giành lại tại nước Mỹ Tin lành quyền tối thượng mà nó đã mất tại Cựu Thế giới.—The Great Controversy, 573 (1911). LDE 132.3
+Trong các phong trào hiện đang diễn ra tại Hoa Kỳ nhằm bảo đảm cho các thể chế và tập quán của Hội Thánh được nhà nước hậu thuẫn, người Tin lành đang đi theo bước chân của những người theo giáo hoàng. Không những vậy, họ còn đang mở cửa cho giáo hoàng giành lại tại nước Mỹ Tin lành quyền tối thượng mà nó đã mất tại Cựu Thế giới.—The Great Controversy, 573 (1911). LDE 132.3
 
 ## Một Đạo Luật Chúa Nhật Quốc Gia Nghĩa Là Sự Bội Đạo Của Quốc Gia
 
@@ -148,9 +148,9 @@ Chính trong thời điểm bội đạo của quốc gia, khi hành động the
 
 Các nguyên tắc của Công Giáo La-mã sẽ được nhà nước chăm sóc và bảo vệ. Sự bội đạo của quốc gia này sẽ nhanh chóng được tiếp nối bằng sự sụp đổ của quốc gia.—The Review and Herald, ngày 15 tháng 6 năm 1897. LDE 134.2
 
-Khi các hội thánh Tin Lành liên kết với quyền lực thế tục để duy trì một tôn giáo giả—mà vì chống đối nó, tổ tiên của họ đã chịu đựng những cuộc bắt bớ khốc liệt nhất—thì ngày sa-bát của giáo hoàng sẽ được cưỡng bách bởi quyền lực kết hợp của hội thánh và nhà nước. Sẽ có một sự bội đạo của quốc gia, và điều này sẽ chỉ kết thúc bằng sự sụp đổ của quốc gia.—Evangelism, 235 (1899). LDE 134.3
+Khi các Hội Thánh Tin Lành liên kết với quyền lực thế tục để duy trì một tôn giáo giả—mà vì chống đối nó, tổ tiên của họ đã chịu đựng những cuộc bắt bớ khốc liệt nhất—thì ngày sa-bát của giáo hoàng sẽ được cưỡng bách bởi quyền lực kết hợp của Hội Thánh và nhà nước. Sẽ có một sự bội đạo của quốc gia, và điều này sẽ chỉ kết thúc bằng sự sụp đổ của quốc gia.—Evangelism, 235 (1899). LDE 134.3
 
-Khi nhà nước sẽ dùng quyền lực của mình để cưỡng bách các sắc lệnh và duy trì các thể chế của hội thánh—lúc ấy nước Mỹ Tin Lành sẽ đã tạo ra một hình tượng cho giáo hoàng, và sẽ có một sự bội đạo của quốc gia mà chỉ kết thúc bằng sự sụp đổ của quốc gia.—The S.D.A. Bible Commentary 7:976 (1910). LDE 134.4
+Khi nhà nước sẽ dùng quyền lực của mình để cưỡng bách các sắc lệnh và duy trì các thể chế của Hội Thánh—lúc ấy nước Mỹ Tin Lành sẽ đã tạo ra một hình tượng cho giáo hoàng, và sẽ có một sự bội đạo của quốc gia mà chỉ kết thúc bằng sự sụp đổ của quốc gia.—The S.D.A. Bible Commentary 7:976 (1910). LDE 134.4
 
 ## Luật Chúa Nhật Toàn Cầu
 
@@ -196,7 +196,7 @@ Khi sắc lệnh được ban hành bởi các nhà cai trị khác nhau của t
 
 ## Đừng Tỏ Thái Độ Thách Thức
 
-Những người trong các hội thánh chúng ta có những nét tính cách sẽ khiến họ, nếu không hết sức cẩn thận, cảm thấy phẫn nộ vì do sự xuyên tạc mà quyền tự do của họ liên quan đến việc làm vào ngày Chúa Nhật bị tước đoạt. Đừng nổi giận về vấn đề này, nhưng hãy đem mọi sự đến với Đức Chúa Trời trong sự cầu nguyện. Chỉ một mình Ngài mới có thể kiềm chế quyền lực của các nhà cầm quyền. Đừng hành động hấp tấp. Đừng ai khoe khoang một cách thiếu khôn ngoan về quyền tự do của mình, dùng nó làm cái màn che sự gian ác, nhưng hãy là những đầy tớ của Đức Chúa Trời, "
+Những người trong các Hội Thánh chúng ta có những nét tính cách sẽ khiến họ, nếu không hết sức cẩn thận, cảm thấy phẫn nộ vì do sự xuyên tạc mà quyền tự do của họ liên quan đến việc làm vào ngày Chúa Nhật bị tước đoạt. Đừng nổi giận về vấn đề này, nhưng hãy đem mọi sự đến với Đức Chúa Trời trong sự cầu nguyện. Chỉ một mình Ngài mới có thể kiềm chế quyền lực của các nhà cầm quyền. Đừng hành động hấp tấp. Đừng ai khoe khoang một cách thiếu khôn ngoan về quyền tự do của mình, dùng nó làm cái màn che sự gian ác, nhưng hãy là những đầy tớ của Đức Chúa Trời, "
 
 > "Hãy kính mọi người; yêu anh em; kính sợ Đức Chúa Trời; tôn trọng vua."
 > <cite>(I Phi-e-rơ 2:17)</cite>
@@ -229,7 +229,7 @@ Hãy đem các học sinh ra để tổ chức các buổi nhóm tại những n
 
 ## Vẻ Đẹp Của Lẽ Thật Được Tỏ Bày Qua Sự Chống Đối
 
-Lòng sốt sắng của những người vâng theo Chúa sẽ gia tăng khi thế gian và hội thánh liên kết với nhau để làm cho luật pháp ra vô hiệu. Mỗi sự phản đối dấy lên chống lại các điều răn của Đức Chúa Trời sẽ dọn đường cho sự tiến triển của lẽ thật và khiến những người bênh vực lẽ thật có thể trình bày giá trị của nó trước mặt loài người. Trong lẽ thật có một vẻ đẹp và một sức mạnh mà không điều gì có thể làm cho tỏ bày rõ ràng cho bằng sự chống đối và sự bắt bớ.—Manuscript Releases 13:71, 72 (1896). LDE 140.4
+Lòng sốt sắng của những người vâng theo Chúa sẽ gia tăng khi thế gian và Hội Thánh liên kết với nhau để làm cho luật pháp ra vô hiệu. Mỗi sự phản đối dấy lên chống lại các điều răn của Đức Chúa Trời sẽ dọn đường cho sự tiến triển của lẽ thật và khiến những người bênh vực lẽ thật có thể trình bày giá trị của nó trước mặt loài người. Trong lẽ thật có một vẻ đẹp và một sức mạnh mà không điều gì có thể làm cho tỏ bày rõ ràng cho bằng sự chống đối và sự bắt bớ.—Manuscript Releases 13:71, 72 (1896). LDE 140.4
 
 Thời điểm này, khi đang có một nỗ lực lớn lao như vậy để bắt buộc người ta phải giữ ngày Chúa Nhật, chính là cơ hội để trình bày cho thế gian biết về ngày Sa-bát thật trong sự tương phản với ngày Sa-bát giả. Chúa, bởi sự quan phòng của Ngài, đã đi trước chúng ta rất xa. Ngài đã cho phép vấn đề Chúa Nhật này được đẩy lên hàng đầu để ngày Sa-bát của điều răn thứ tư có thể được trình bày trước các nghị viện lập pháp. Nhờ vậy, sự chú ý của những người lãnh đạo trong quốc gia có thể được hướng đến lời chứng của Lời Đức Chúa Trời ủng hộ cho ngày Sa-bát thật.—Manuscript Releases 2:197 (1890). LDE 141.1
 
@@ -237,6 +237,6 @@ Thời điểm này, khi đang có một nỗ lực lớn lao như vậy để b
 
 Những người tuân giữ lẽ thật giờ đây được kêu gọi phải lựa chọn giữa việc xem nhẹ một đòi hỏi rõ ràng của Lời Đức Chúa Trời hoặc từ bỏ quyền tự do của mình. Nếu chúng ta nhường bước Lời Đức Chúa Trời và chấp nhận những phong tục, truyền thống của loài người, có thể chúng ta vẫn được phép sống giữa loài người, được mua bán và được tôn trọng các quyền lợi của mình. Nhưng nếu chúng ta giữ lòng trung thành với Đức Chúa Trời, thì điều ấy phải đòi hỏi sự hi sinh các quyền lợi của chúng ta giữa loài người, vì các kẻ thù của luật pháp Đức Chúa Trời đã cấu kết với nhau để dập tắt sự phán đoán độc lập trong những vấn đề thuộc về đức tin tôn giáo và kiểm soát lương tâm con người.... LDE 141.2
 
-Dân sự Đức Chúa Trời sẽ công nhận chính quyền của loài người như một định chế do Đức Chúa Trời sắp đặt, và bằng lời dạy lẫn gương mẫu sẽ dạy dỗ sự vâng phục chính quyền ấy như một bổn phận thiêng liêng chừng nào thẩm quyền của nó còn được thi hành trong phạm vi chính đáng. Nhưng khi những đòi hỏi của nó xung đột với các đòi hỏi của Đức Chúa Trời, chúng ta phải chọn vâng lời Đức Chúa Trời hơn là vâng lời loài người. Lời Đức Chúa Trời phải được công nhận và vâng theo như một thẩm quyền cao hơn mọi luật pháp của loài người. Câu "Đức Giê-hô-va phán như vầy" không thể bị gạt qua một bên để nhường chỗ cho câu "hội thánh hay nhà nước phán như vầy". Mão triều thiên của Đấng Christ phải được nâng cao trên hết thảy các vương miện của những đấng quyền thế trên đất.—The Home Missionary, ngày 1 tháng 11 năm 1893. LDE 142.1
+Dân sự Đức Chúa Trời sẽ công nhận chính quyền của loài người như một định chế do Đức Chúa Trời sắp đặt, và bằng lời dạy lẫn gương mẫu sẽ dạy dỗ sự vâng phục chính quyền ấy như một bổn phận thiêng liêng chừng nào thẩm quyền của nó còn được thi hành trong phạm vi chính đáng. Nhưng khi những đòi hỏi của nó xung đột với các đòi hỏi của Đức Chúa Trời, chúng ta phải chọn vâng lời Đức Chúa Trời hơn là vâng lời loài người. Lời Đức Chúa Trời phải được công nhận và vâng theo như một thẩm quyền cao hơn mọi luật pháp của loài người. Câu "Đức Giê-hô-va phán như vầy" không thể bị gạt qua một bên để nhường chỗ cho câu "Hội Thánh hay nhà nước phán như vầy". Mão triều thiên của Đấng Christ phải được nâng cao trên hết thảy các vương miện của những đấng quyền thế trên đất.—The Home Missionary, ngày 1 tháng 11 năm 1893. LDE 142.1
 
 Sa-tan dâng cho loài người các nước thế gian nếu họ chịu nhường cho nó quyền tối cao. Nhiều người đã làm như vậy và đánh mất thiên đàng. Thà chết còn hơn phạm tội; thà thiếu thốn còn hơn lừa gạt; thà đói khát còn hơn nói dối.—Testimonies for the Church 4:495 (1880). LDE 142.2

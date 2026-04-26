@@ -14,6 +14,7 @@ const RULES: Array<[RegExp, string]> = [
   [/đức thánh linh/g, "Đức Thánh Linh"],
   [/kinh thánh/g, "Kinh Thánh"],
   [/đức chúa giê-su/g, "Đức Chúa Giê-su"],
+  [/\b[Hh]ội [Tt]hánh\b/g, "Hội Thánh"],
 ];
 
 export function lintText(text: string): string {

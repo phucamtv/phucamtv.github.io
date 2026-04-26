@@ -30,11 +30,11 @@ Người Tin lành tại Hoa Kỳ sẽ đi đầu trong việc đưa tay qua v�
 
 Tất cả những ai không chịu cúi đầu trước sắc lệnh của các hội đồng quốc gia và tuân theo luật pháp quốc gia nhằm tôn vinh ngày sa-bát do người tội lỗi lập ra, mà coi thường ngày thánh của Đức Chúa Trời, sẽ cảm nhận được không chỉ quyền lực áp bức của giáo hoàng, mà còn của cả thế giới Tin Lành, tức hình tượng của con thú.—Selected Messages 2:380 (1886). LDE 145.1
 
-Các tổ chức tôn giáo nào từ chối lắng nghe những lời cảnh báo của Đức Chúa Trời sẽ bị lừa dối nặng nề và sẽ liên kết với quyền lực dân sự để bắt bớ các thánh đồ. Các hội thánh Tin Lành sẽ hiệp với quyền lực giáo hoàng để bắt bớ dân sự của Đức Chúa Trời, là những người tuân giữ các điều răn.... LDE 145.2
+Các tổ chức tôn giáo nào từ chối lắng nghe những lời cảnh báo của Đức Chúa Trời sẽ bị lừa dối nặng nề và sẽ liên kết với quyền lực dân sự để bắt bớ các thánh đồ. Các Hội Thánh Tin Lành sẽ hiệp với quyền lực giáo hoàng để bắt bớ dân sự của Đức Chúa Trời, là những người tuân giữ các điều răn.... LDE 145.2
 
 Quyền lực giống như chiên con này hiệp với con rồng để gây chiến với những người tuân giữ các điều răn của Đức Chúa Trời và có lời chứng của Đức Chúa Giê-su.—Manuscript Releases 14:162 (1899). LDE 145.3
 
-Hội thánh kêu gọi cánh tay mạnh mẽ của quyền lực dân sự, và trong công việc này, người Công Giáo và người Tin lành liên kết với nhau.—The Great Controversy, 607 (1911). LDE 145.4
+Hội Thánh kêu gọi cánh tay mạnh mẽ của quyền lực dân sự, và trong công việc này, người Công Giáo và người Tin lành liên kết với nhau.—The Great Controversy, 607 (1911). LDE 145.4
 
 ## Trước Các Tòa Án
 
@@ -51,7 +51,7 @@ Trong những trường hợp chúng ta bị đưa ra trước các tòa án, ch
 
 Cùng một bộ óc chủ mưu đã âm mưu chống lại những người trung tín trong các thời đại đã qua nay vẫn đang tìm cách loại bỏ khỏi mặt đất những người kính sợ Đức Chúa Trời và vâng giữ luật pháp Ngài.... LDE 146.2
 
-Của cải, tài năng, học thức sẽ liên kết lại để đổ sự khinh miệt lên họ. Các nhà cầm quyền bắt bớ, các mục sư và các tín hữu hội thánh sẽ cấu kết chống lại họ. Bằng lời nói và ngòi bút, bằng sự khoe khoang, đe dọa và chế nhạo, chúng sẽ tìm cách lật đổ đức tin của họ.—Testimonies for the Church 5:450 (1885). LDE 146.3
+Của cải, tài năng, học thức sẽ liên kết lại để đổ sự khinh miệt lên họ. Các nhà cầm quyền bắt bớ, các mục sư và các tín hữu Hội Thánh sẽ cấu kết chống lại họ. Bằng lời nói và ngòi bút, bằng sự khoe khoang, đe dọa và chế nhạo, chúng sẽ tìm cách lật đổ đức tin của họ.—Testimonies for the Church 5:450 (1885). LDE 146.3
 
 Sẽ đến một thời điểm mà, vì chúng ta bênh vực lẽ thật của Kinh Thánh, chúng ta sẽ bị đối xử như những kẻ phản bội.—Testimonies for the Church 6:394 (1900). LDE 146.4
 
@@ -67,7 +67,7 @@ Sa-tan có một ngàn khẩu đội ngụy trang sẽ được khai hỏa nhắ
 
 Chúng ta không cần phải ngạc nhiên về bất cứ điều gì có thể xảy ra hiện nay. Chúng ta không cần kinh ngạc về bất kỳ sự diễn biến kinh khủng nào. Những kẻ giày đạp dưới chân ô uế của họ luật pháp Đức Chúa Trời có cùng một tinh thần như những kẻ đã sỉ nhục và phản bội Đức Chúa Giê-su. Không một chút cắn rứt lương tâm, chúng sẽ làm những việc của ma quỷ là cha chúng.—Selected Messages 3:416 (1897). LDE 147.4
 
-Những ai muốn được tươi mới trong tâm trí và được dạy dỗ trong lẽ thật, hãy nghiên cứu lịch sử của hội thánh đầu tiên trong và ngay sau lễ Ngũ Tuần. Hãy nghiên cứu cẩn thận trong sách Công vụ những kinh nghiệm của Phao-lô và các sứ đồ khác, vì dân sự của Đức Chúa Trời trong thời đại chúng ta phải trải qua những kinh nghiệm tương tự.—The Paulson Collection of Ellen G. White Letters, 118 (1907). LDE 148.1
+Những ai muốn được tươi mới trong tâm trí và được dạy dỗ trong lẽ thật, hãy nghiên cứu lịch sử của Hội Thánh đầu tiên trong và ngay sau lễ Ngũ Tuần. Hãy nghiên cứu cẩn thận trong sách Công vụ những kinh nghiệm của Phao-lô và các sứ đồ khác, vì dân sự của Đức Chúa Trời trong thời đại chúng ta phải trải qua những kinh nghiệm tương tự.—The Paulson Collection of Ellen G. White Letters, 118 (1907). LDE 148.1
 
 ## Mọi Sự Hỗ Trợ Trần Thế Sẽ Bị Cắt Đứt
 
@@ -133,6 +133,6 @@ Trong một thời gian, những kẻ áp bức sẽ được phép đắc thắ
 
 Chẳng bao lâu nữa, hoạn nạn sẽ xảy ra khắp thế giới. Mỗi người phải tìm cách nhận biết Đức Chúa Trời. Chúng ta không có thời giờ để chần chừ.... LDE 153.3
 
-Tình yêu thương của Đức Chúa Trời dành cho hội thánh Ngài là vô hạn. Sự chăm sóc của Ngài đối với cơ nghiệp Ngài là không ngừng nghỉ. Ngài không cho phép một hoạn nạn nào đến trên hội thánh ngoại trừ những điều cần thiết cho sự thanh tẩy hội thánh, vì lợi ích hiện tại và đời đời của hội thánh. Ngài sẽ thanh tẩy hội thánh Ngài giống như Ngài đã thanh tẩy đền thờ vào lúc khởi đầu và lúc kết thúc chức vụ của Ngài trên đất. Tất cả những gì Ngài đem đến trên hội thánh qua sự thử thách và thử luyện đều đến để dân sự Ngài có thể đạt được lòng tin kính sâu sắc hơn và có thêm sức mạnh để mang sự đắc thắng của thập tự giá đến mọi nơi trên thế giới.—Testimonies for the Church 9:228 (1909). LDE 153.4
+Tình yêu thương của Đức Chúa Trời dành cho Hội Thánh Ngài là vô hạn. Sự chăm sóc của Ngài đối với cơ nghiệp Ngài là không ngừng nghỉ. Ngài không cho phép một hoạn nạn nào đến trên Hội Thánh ngoại trừ những điều cần thiết cho sự thanh tẩy Hội Thánh, vì lợi ích hiện tại và đời đời của Hội Thánh. Ngài sẽ thanh tẩy Hội Thánh Ngài giống như Ngài đã thanh tẩy đền thờ vào lúc khởi đầu và lúc kết thúc chức vụ của Ngài trên đất. Tất cả những gì Ngài đem đến trên Hội Thánh qua sự thử thách và thử luyện đều đến để dân sự Ngài có thể đạt được lòng tin kính sâu sắc hơn và có thêm sức mạnh để mang sự đắc thắng của thập tự giá đến mọi nơi trên thế giới.—Testimonies for the Church 9:228 (1909). LDE 153.4
 
 Hoạn nạn, thập tự giá, cám dỗ, nghịch cảnh, và những thử thách đa dạng của chúng ta là những người thợ của Đức Chúa Trời để tinh luyện chúng ta, thánh hóa chúng ta, và chuẩn bị chúng ta cho kho thóc thiên đàng.—Testimonies for the Church 3:115 (1872). LDE 154.1

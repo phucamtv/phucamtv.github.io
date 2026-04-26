@@ -45,15 +45,15 @@ Kẻ đại lừa dối nói rằng: ... "Mối quan tâm chủ yếu của chú
 
 Mục đích của Sa-tan là làm cho họ bị xóa sạch khỏi mặt đất, hầu cho quyền tối thượng của hắn trên thế gian không bị tranh cãi.—Testimonies to Ministers and Gospel Workers, 37 (1893). LDE 255.5
 
-Hội thánh dân sót sẽ bị đưa vào cơn thử thách và hoạn nạn lớn. Những ai giữ các điều răn của Đức Chúa Trời và đức tin nơi Đức Chúa Giê-su sẽ cảm nhận được cơn thịnh nộ của con rồng và các đạo binh của nó. Sa-tan xem thế gian là thần dân của hắn. Hắn đã giành được quyền kiểm soát các hội thánh bội đạo; nhưng đây có một nhóm nhỏ đang chống lại quyền tối thượng của hắn. Nếu hắn có thể xóa sạch họ khỏi mặt đất, chiến thắng của hắn sẽ trọn vẹn. Như hắn đã xui giục các dân ngoại bang tiêu diệt Y-sơ-ra-ên, cũng vậy trong tương lai gần, hắn sẽ khuấy động các thế lực gian ác trên đất để tiêu diệt dân sự của Đức Chúa Trời.—Testimonies for the Church 9:231 (1909). LDE 256.1
+Hội Thánh dân sót sẽ bị đưa vào cơn thử thách và hoạn nạn lớn. Những ai giữ các điều răn của Đức Chúa Trời và đức tin nơi Đức Chúa Giê-su sẽ cảm nhận được cơn thịnh nộ của con rồng và các đạo binh của nó. Sa-tan xem thế gian là thần dân của hắn. Hắn đã giành được quyền kiểm soát các Hội Thánh bội đạo; nhưng đây có một nhóm nhỏ đang chống lại quyền tối thượng của hắn. Nếu hắn có thể xóa sạch họ khỏi mặt đất, chiến thắng của hắn sẽ trọn vẹn. Như hắn đã xui giục các dân ngoại bang tiêu diệt Y-sơ-ra-ên, cũng vậy trong tương lai gần, hắn sẽ khuấy động các thế lực gian ác trên đất để tiêu diệt dân sự của Đức Chúa Trời.—Testimonies for the Church 9:231 (1909). LDE 256.1
 
 ## Những Lý Lẽ Dùng Để Chống Lại Dân Sự Của Đức Chúa Trời
 
 Tôi thấy bốn vị thiên sứ sẽ giữ bốn ngọn gió cho đến khi công việc của Đức Chúa Giê-su trong đền thánh được hoàn tất, và rồi bảy tai vạ cuối cùng sẽ đến. Những tai vạ này khiến kẻ ác nổi giận với người công bình; chúng nghĩ rằng chúng tôi đã mang sự phán xét của Đức Chúa Trời xuống trên chúng, và nếu chúng có thể trừ khử chúng tôi khỏi mặt đất, thì các tai vạ sẽ được ngăn chặn.—Early Writings, 36 (1851). LDE 256.2
 
-Khi thiên sứ của lòng thương xót xếp cánh và ra đi, Sa-tan sẽ làm những việc ác mà nó từ lâu đã muốn làm. Bão tố và giông gió, chiến tranh và đổ máu—nó vui thích trong những điều này, và như vậy nó gặt hái mùa màng của mình. Và loài người sẽ bị nó lừa dối hoàn toàn đến nỗi họ sẽ tuyên bố rằng những tai họa này là kết quả của việc xúc phạm đến ngày thứ nhất trong tuần lễ. Từ các bục giảng của những hội thánh phổ thông, người ta sẽ nghe lời tuyên bố rằng thế giới đang bị trừng phạt vì ngày Chúa Nhật không được tôn trọng như đáng phải có.—The Review and Herald, September 17, 1901. LDE 256.3
+Khi thiên sứ của lòng thương xót xếp cánh và ra đi, Sa-tan sẽ làm những việc ác mà nó từ lâu đã muốn làm. Bão tố và giông gió, chiến tranh và đổ máu—nó vui thích trong những điều này, và như vậy nó gặt hái mùa màng của mình. Và loài người sẽ bị nó lừa dối hoàn toàn đến nỗi họ sẽ tuyên bố rằng những tai họa này là kết quả của việc xúc phạm đến ngày thứ nhất trong tuần lễ. Từ các bục giảng của những Hội Thánh phổ thông, người ta sẽ nghe lời tuyên bố rằng thế giới đang bị trừng phạt vì ngày Chúa Nhật không được tôn trọng như đáng phải có.—The Review and Herald, September 17, 1901. LDE 256.3
 
-Người ta sẽ nài nỉ rằng số ít người đứng lên chống lại một định chế của hội thánh và một luật pháp của nhà nước thì không nên được dung thứ; thà để họ chịu khổ còn hơn là để cả các quốc gia bị rơi vào sự rối loạn và vô luật pháp. Cùng một lý lẽ ấy, một ngàn tám trăm năm trước, đã được “những kẻ cai trị dân” đưa ra để chống lại Đấng Christ.... Lý lẽ này sẽ tỏ ra có sức thuyết phục.—The Great Controversy, 615 (1911). LDE 257.1
+Người ta sẽ nài nỉ rằng số ít người đứng lên chống lại một định chế của Hội Thánh và một luật pháp của nhà nước thì không nên được dung thứ; thà để họ chịu khổ còn hơn là để cả các quốc gia bị rơi vào sự rối loạn và vô luật pháp. Cùng một lý lẽ ấy, một ngàn tám trăm năm trước, đã được “những kẻ cai trị dân” đưa ra để chống lại Đấng Christ.... Lý lẽ này sẽ tỏ ra có sức thuyết phục.—The Great Controversy, 615 (1911). LDE 257.1
 
 ## Sự chết dành cho tất cả những ai không tôn kính ngày Chúa Nhật
 
@@ -68,13 +68,13 @@ Các quyền lực trên đất, hiệp lại với nhau để chiến đấu ch
 > "Nó cũng khiến mọi người, nhỏ và lớn, giàu và nghèo, tự chủ và tôi mọi, đều chịu ghi dấu hoặc trên tay hữu, hoặc trên trán,"
 > <cite>(Khải-huyền 13:16)</cite>
 
-đều phải tuân theo các tập tục của hội thánh bằng việc giữ ngày sa-bát giả. Tất cả những ai từ chối tuân theo sẽ bị xử phạt theo luật dân sự, và cuối cùng sẽ bị tuyên bố là đáng phải chết.—The Great Controversy, 604 (1911). LDE 257.5
+đều phải tuân theo các tập tục của Hội Thánh bằng việc giữ ngày sa-bát giả. Tất cả những ai từ chối tuân theo sẽ bị xử phạt theo luật dân sự, và cuối cùng sẽ bị tuyên bố là đáng phải chết.—The Great Controversy, 604 (1911). LDE 257.5
 
 Đặc biệt là cơn thịnh nộ của loài người sẽ dấy lên chống lại những người tôn thánh ngày Sa-bát của điều răn thứ tư, và cuối cùng một sắc lệnh phổ quát sẽ tuyên bố rằng những người này đáng phải chết.—Prophets and Kings, 512 (c. 1914). LDE 258.1
 
 ## Sắc lệnh tử hình tương tự sắc lệnh do A-suê-ru ban hành
 
-Sắc lệnh cuối cùng được ban ra chống lại dân sót của Đức Chúa Trời sẽ rất giống với sắc lệnh mà A-suê-ru đã ban ra chống lại người Do Thái. Ngày nay, kẻ thù của hội thánh chân thật nhìn thấy ở một nhóm nhỏ những người tuân giữ điều răn về ngày Sa-bát một Mạc-đô-chê nơi cổng thành. Lòng tôn kính của dân sự Đức Chúa Trời đối với luật pháp Ngài là một lời quở trách không ngừng đối với những kẻ đã vứt bỏ sự kính sợ Chúa và đang chà đạp ngày Sa-bát của Ngài.—Prophets and Kings, 605 (c. 1914). LDE 258.2
+Sắc lệnh cuối cùng được ban ra chống lại dân sót của Đức Chúa Trời sẽ rất giống với sắc lệnh mà A-suê-ru đã ban ra chống lại người Do Thái. Ngày nay, kẻ thù của Hội Thánh chân thật nhìn thấy ở một nhóm nhỏ những người tuân giữ điều răn về ngày Sa-bát một Mạc-đô-chê nơi cổng thành. Lòng tôn kính của dân sự Đức Chúa Trời đối với luật pháp Ngài là một lời quở trách không ngừng đối với những kẻ đã vứt bỏ sự kính sợ Chúa và đang chà đạp ngày Sa-bát của Ngài.—Prophets and Kings, 605 (c. 1914). LDE 258.2
 
 Tôi thấy các nhà lãnh đạo trên đất đang bàn luận với nhau, và Sa-tan cùng các thiên sứ của nó bận rộn xung quanh họ. Tôi thấy một văn bản, các bản sao của nó được rải khắp các nơi trong xứ, ra lệnh rằng trừ khi các thánh đồ chịu từ bỏ đức tin đặc biệt của họ, từ bỏ ngày Sa-bát, và giữ ngày thứ nhất trong tuần, thì sau một thời gian nhất định, dân chúng được tự do giết họ.—Early Writings, 282, 283 (1858). LDE 258.3
 
@@ -97,7 +97,7 @@ Mặc dù một sắc lệnh chung đã ấn định thời điểm những ngư
 
 Dân sự Đức Chúa Trời lúc bấy giờ không cùng ở một nơi. Họ ở trong các nhóm khác nhau và trong khắp các phần của đất; và họ sẽ bị thử thách từng người một, chứ không phải theo nhóm. Mỗi người phải tự mình chịu đựng sự thử thách.—The S.D.A. Bible Commentary 4:1143 (1908). LDE 260.2
 
-Đức tin của từng thành viên trong hội thánh sẽ bị thử thách như thể không còn một người nào khác trên thế giới.—The S.D.A. Bible Commentary 7:983 (1890). LDE 260.3
+Đức tin của từng thành viên trong Hội Thánh sẽ bị thử thách như thể không còn một người nào khác trên thế giới.—The S.D.A. Bible Commentary 7:983 (1890). LDE 260.3
 
 ## Nhà cửa và Đất đai Sẽ Vô Ích
 
@@ -182,7 +182,7 @@ Bao lâu Sa-tan còn cai trị, chúng ta sẽ còn phải chế ngự bản ng�
 
 Chúng ta phải duy trì cuộc chiến không ngừng chống lại tâm trí xác thịt; và chúng ta phải được trợ giúp bởi ảnh hưởng tinh luyện của ân điển Đức Chúa Trời, là điều sẽ kéo tâm trí lên cao và tập cho nó thói quen suy gẫm về những điều thanh sạch và thánh khiết.—Testimonies for the Church 2:479 (1870). LDE 268.1
 
-Chúng ta có thể tạo nên một thế giới không thực trong tâm trí mình hoặc vẽ ra một hội thánh lý tưởng, nơi mà những cám dỗ của Sa-tan không còn xui giục điều ác; nhưng sự trọn vẹn chỉ tồn tại trong trí tưởng tượng của chúng ta mà thôi.—The Review and Herald, August 8, 1893. LDE 268.2
+Chúng ta có thể tạo nên một thế giới không thực trong tâm trí mình hoặc vẽ ra một Hội Thánh lý tưởng, nơi mà những cám dỗ của Sa-tan không còn xui giục điều ác; nhưng sự trọn vẹn chỉ tồn tại trong trí tưởng tượng của chúng ta mà thôi.—The Review and Herald, August 8, 1893. LDE 268.2
 
 Khi con người nhận được xác thịt thánh, họ sẽ không còn ở lại trên đất nữa, nhưng sẽ được đem lên thiên đàng. Mặc dù tội lỗi được tha thứ trong đời này, nhưng những hậu quả của nó hiện nay chưa được loại bỏ hoàn toàn. Chính vào lúc Ngài tái lâm, Đấng Christ sẽ "biến hóa thân thể hèn mạt chúng ta ra giống như thân thể vinh hiển Ngài."—Selected Messages 2:33 (1901). LDE 268.3
 

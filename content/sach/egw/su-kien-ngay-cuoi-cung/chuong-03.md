@@ -52,7 +52,7 @@ Tôi được biết rằng Anh [E. P.] Daniels đã, có thể nói, định ng
 
 Chúng ta không muốn khuấy động cảm xúc của người ta để tạo nên sự náo động, nơi tình cảm bị lay chuyển còn nguyên tắc thì không kiểm soát được. Tôi cảm thấy chúng ta cần phải đề phòng mọi mặt, vì Sa-tan đang ra sức làm hết khả năng để cài cắm những mánh khoé và mưu kế của nó hầu trở thành một thế lực gây hại. Bất cứ điều gì gây náo động, tạo nên sự kích động trên một nền tảng sai trật, đều phải đáng sợ, vì phản ứng ngược chắc chắn sẽ đến.—Letter 34, 1887. LDE 35.1
 
-Sẽ luôn có những phong trào giả dối và cuồng tín được tạo ra bởi những người trong hội thánh tự xưng là được Đức Chúa Trời dẫn dắt—những người chạy trước khi được sai đi và sẽ ấn định ngày tháng cho sự ứng nghiệm của lời tiên tri chưa được trọn. Kẻ thù lấy làm vui thích khi thấy họ làm điều này, vì những thất bại liên tiếp của họ và việc dẫn dắt vào những con đường sai lạc gây nên sự hỗn loạn và vô tín.—Selected Messages 2:84 (1897). LDE 35.2
+Sẽ luôn có những phong trào giả dối và cuồng tín được tạo ra bởi những người trong Hội Thánh tự xưng là được Đức Chúa Trời dẫn dắt—những người chạy trước khi được sai đi và sẽ ấn định ngày tháng cho sự ứng nghiệm của lời tiên tri chưa được trọn. Kẻ thù lấy làm vui thích khi thấy họ làm điều này, vì những thất bại liên tiếp của họ và việc dẫn dắt vào những con đường sai lạc gây nên sự hỗn loạn và vô tín.—Selected Messages 2:84 (1897). LDE 35.2
 
 ## Không Có Lời Tiên Tri Về Thời Gian Sau Năm 1844
 
@@ -89,7 +89,7 @@ Nếu sau cơn đại thất vọng năm 1844, những người theo phong trào
 
 Trong bốn mươi năm, sự vô tín, sự lằm bằm và sự nổi loạn đã ngăn cản dân Y-sơ-ra-ên xưa vào đất Ca-na-an. Cũng chính những tội lỗi ấy đã làm chậm trễ việc dân Y-sơ-ra-ên thời nay tiến vào Ca-na-an trên trời. Trong cả hai trường hợp, những lời hứa của Đức Chúa Trời đều không hề sai trật. Chính sự vô tín, sự thế tục, sự thiếu hiến dâng, và sự tranh chấp giữa vòng những người xưng nhận là dân của Chúa đã giữ chúng ta lại trong thế giới đầy tội lỗi và đau buồn này suốt bao nhiêu năm.—Evangelism, 695, 696 (1883). LDE 38.1
 
-Nếu hội thánh của Đấng Christ đã làm trọn công việc đã được giao phó như Chúa đã định, thì cả thế gian hẳn đã được cảnh báo từ trước, và Đức Chúa Giê-su hẳn đã đến trên đất chúng ta trong quyền năng và vinh hiển lớn lao.—The Desire of Ages, 633, 634 (1898). LDE 38.2
+Nếu Hội Thánh của Đấng Christ đã làm trọn công việc đã được giao phó như Chúa đã định, thì cả thế gian hẳn đã được cảnh báo từ trước, và Đức Chúa Giê-su hẳn đã đến trên đất chúng ta trong quyền năng và vinh hiển lớn lao.—The Desire of Ages, 633, 634 (1898). LDE 38.2
 
 ## Lời Hứa Của Đức Chúa Trời Là Có Điều Kiện
 
@@ -130,7 +130,7 @@ Chúng ta có thể phải lưu lại trong thế gian này vì sự bất tuân
 
 ## Đấng Christ Đang Chờ Đợi Điều Gì
 
-Đấng Christ đang chờ đợi với lòng khao khát tha thiết sự thể hiện chính Ngài trong hội thánh Ngài. Khi tánh hạnh của Đấng Christ được tái hiện cách trọn vẹn nơi dân sự Ngài, bấy giờ Ngài sẽ đến để nhận họ làm của riêng Ngài. LDE 39.2
+Đấng Christ đang chờ đợi với lòng khao khát tha thiết sự thể hiện chính Ngài trong Hội Thánh Ngài. Khi tánh hạnh của Đấng Christ được tái hiện cách trọn vẹn nơi dân sự Ngài, bấy giờ Ngài sẽ đến để nhận họ làm của riêng Ngài. LDE 39.2
 
 Đó là đặc ân của mỗi Cơ-đốc nhân, không chỉ trông đợi, mà còn thúc đẩy sự đến của Chúa chúng ta là Đức Chúa Giê-su. Nếu hết thảy những ai xưng nhận danh Ngài đều kết quả cho sự vinh hiển của Ngài, thì cả thế giới sẽ được gieo trồng hạt giống tin lành nhanh biết bao. Mau chóng mùa gặt lớn cuối cùng sẽ chín, và Đấng Christ sẽ đến để thâu nhóm bông trái quý giá.—Christ's Object Lessons, 69 (1900). LDE 39.3
 

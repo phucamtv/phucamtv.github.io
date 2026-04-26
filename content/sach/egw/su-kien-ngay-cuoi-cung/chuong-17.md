@@ -138,11 +138,11 @@ Luật pháp thánh khiết ấy, sự công bình của Đức Chúa Trời, đ
 
 ## Những Kẻ Hư Mất Lên Án Những Kẻ Chăn Giả Dối Của Họ
 
-Những thuộc viên hội thánh đã thấy ánh sáng và đã bị thuyết phục, nhưng lại phó thác sự cứu rỗi linh hồn mình cho mục sư, sẽ học biết trong ngày của Đức Chúa Trời rằng không có linh hồn nào khác có thể trả giá chuộc cho sự vi phạm của họ. Một tiếng kêu khủng khiếp sẽ vang lên: "Tôi bị hư mất, hư mất đời đời." Người ta sẽ cảm thấy như muốn xé tan ra từng mảnh những mục sư đã rao giảng sự dối trá và đã lên án lẽ thật.—The S.D.A. Bible Commentary 4:1157 (1900). LDE 247.2
+Những thuộc viên Hội Thánh đã thấy ánh sáng và đã bị thuyết phục, nhưng lại phó thác sự cứu rỗi linh hồn mình cho mục sư, sẽ học biết trong ngày của Đức Chúa Trời rằng không có linh hồn nào khác có thể trả giá chuộc cho sự vi phạm của họ. Một tiếng kêu khủng khiếp sẽ vang lên: "Tôi bị hư mất, hư mất đời đời." Người ta sẽ cảm thấy như muốn xé tan ra từng mảnh những mục sư đã rao giảng sự dối trá và đã lên án lẽ thật.—The S.D.A. Bible Commentary 4:1157 (1900). LDE 247.2
 
 Tất cả đều đồng lòng trút sự lên án cay đắng nhất lên các mục sư. Những người chăn bất trung đã nói tiên tri những điều êm tai; họ đã dẫn dắt thính giả của mình làm cho luật pháp Đức Chúa Trời ra vô hiệu và bắt bớ những ai muốn giữ luật pháp ấy cách thánh khiết. Bấy giờ, trong nỗi tuyệt vọng, những giáo sư này thú nhận trước thế gian công việc lừa dối của họ. Đoàn dân đông đầy giận dữ. Họ kêu lên: "Chúng tôi bị hư mất rồi! Và các ngươi là nguyên nhân của sự hủy diệt chúng tôi"; rồi họ quay lại chống lại những kẻ chăn giả dối. Chính những kẻ trước đây đã từng ngưỡng mộ họ nhiều nhất, nay sẽ tuyên bố những lời rủa sả khủng khiếp nhất trên họ. Chính những bàn tay trước đây đã từng đội mão nguyệt quế cho họ, nay sẽ giơ lên để hủy diệt họ. Những lưỡi gươm đã định để giết dân sự Đức Chúa Trời, nay được dùng để tiêu diệt những kẻ thù của họ.—The Great Controversy, 655, 656 (1911). LDE 247.3
 
-Tại đây chúng ta thấy rằng hội thánh—đền thánh của Chúa—là nơi đầu tiên cảm nhận đòn giáng của cơn thạnh nộ Đức Chúa Trời. Những kẻ già cả [
+Tại đây chúng ta thấy rằng Hội Thánh—đền thánh của Chúa—là nơi đầu tiên cảm nhận đòn giáng của cơn thạnh nộ Đức Chúa Trời. Những kẻ già cả [
 
 > "Nào già cả, nào trai trẻ, nào gái đồng trinh, nào con nít, đàn bà, hãy giết hết; nhưng chớ lại gần một kẻ nào là kẻ đã có ghi dấu; và khá bắt đầu từ nơi thánh ta. Vậy các người ấy bắt đầu từ các người già cả ở trước mặt nhà."
 > <cite>(Ê-xê-chi-ên 9:6)</cite>
