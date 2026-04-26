@@ -13,13 +13,14 @@ import { mkdirSync, existsSync } from "fs";
 import { join } from "path";
 
 import { colp } from "./books/colp";
+import { lde } from "./books/lde";
 import { fetchUrl, sleep } from "./lib/fetch";
 import { parseToc, extractPage, blocksToChapter } from "./lib/parse";
 import type { Block } from "./lib/parse";
 import type { BookConfig, ChapterEntry } from "./lib/types";
 
 const REPO_ROOT = `${import.meta.dir}/../..`;
-const BOOKS: Record<string, BookConfig> = { colp };
+const BOOKS: Record<string, BookConfig> = { colp, lde };
 
 function chapterPath(book: BookConfig, n: number, ext: "html" | "txt"): string {
   const nn = String(n).padStart(2, "0");
