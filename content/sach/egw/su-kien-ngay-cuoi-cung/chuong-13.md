@@ -12,18 +12,7 @@ draft: true
 
 ## Công Việc Của Đức Thánh Linh Được Ví Như Mưa
 
-"Hãy cầu Đức Giê-hô-va mưa về cuối mùa, thì Đức Giê-hô-va sẽ làm chớp và ban mưa xuống dồi dào." Ở phương Đông, mưa đầu mùa rơi vào thời gian gieo giống. Mưa này cần thiết để hạt giống nảy mầm. Dưới ảnh hưởng của những cơn mưa làm cho đất phì nhiêu, mầm non mọc lên. Mưa cuối mùa, rơi vào gần cuối mùa, làm chín hạt và chuẩn bị cho lưỡi liềm. Chúa dùng những hoạt động này của thiên nhiên để tiêu biểu công việc của Đức Thánh Linh. [Xem
-
-> "Hãy cầu mưa nơi Đức Giê-hô-va trong kỳ mưa cuối mùa, thì Đức Giê-hô-va sẽ làm chớp và ban mưa xuống dồi dào, cho ai nấy được rau cỏ ngoài đồng."
-> <cite>(Xa-cha-ri 10:1)</cite>
-
-> "Chúng ta khá nhìn biết Đức Giê-hô-va; chúng ta khá gắng sức nhìn biết Ngài. Sự hiện ra của Ngài là chắc chắn như sự hiện ra của mặt trời sớm mai, Ngài sẽ đến cùng chúng ta như mưa, như mưa cuối mùa tưới đất."
-> <cite>(Ô-sê 6:3)</cite>
-
-> "Hỡi con cái Si-ôn, các ngươi hãy nức lòng vui vẻ và mừng rỡ trong Giê-hô-va Đức Chúa Trời các ngươi! Vì Ngài ban mưa phải thời cho các ngươi về mùa đầu, và xuống mưa dồi dào về mùa đầu và mùa cuối cho các ngươi nơi tháng đầu tiên. Sau đó, ta sẽ đổ Thần ta trên cả loài xác thịt; con trai và con gái các ngươi sẽ nói tiên tri; những người già cả các ngươi sẽ thấy chiêm bao, những kẻ trai trẻ các ngươi sẽ xem sự hiện thấy."
-> <cite>(Giô-ên 2:23,28)</cite>
-
-] LDE 183.1
+"Hãy cầu Đức Giê-hô-va mưa về cuối mùa, thì Đức Giê-hô-va sẽ làm chớp và ban mưa xuống dồi dào." Ở phương Đông, mưa đầu mùa rơi vào thời gian gieo giống. Mưa này cần thiết để hạt giống nảy mầm. Dưới ảnh hưởng của những cơn mưa làm cho đất phì nhiêu, mầm non mọc lên. Mưa cuối mùa, rơi vào gần cuối mùa, làm chín hạt và chuẩn bị cho lưỡi liềm. Chúa dùng những hoạt động này của thiên nhiên để tiêu biểu công việc của Đức Thánh Linh. [Xem Xa-cha-ri 10:1; Ô-sê 6:3; Giô-ên 2:23, 28.] LDE 183.1
 
 Cũng như sương và mưa được ban xuống trước hết để hạt giống nảy mầm, rồi sau đó để mùa gặt chín, thì Đức Thánh Linh cũng được ban cho để đưa tiến trình tăng trưởng thuộc linh từ giai đoạn này đến giai đoạn khác. Sự chín muồi của hạt lúa tiêu biểu cho sự hoàn thành công việc ân điển của Đức Chúa Trời trong linh hồn. Bởi quyền năng của Đức Thánh Linh, hình ảnh đạo đức của Đức Chúa Trời sẽ được trở nên trọn vẹn trong tánh hạnh. Chúng ta phải được biến đổi hoàn toàn thành giống như Đấng Christ. LDE 183.2
 

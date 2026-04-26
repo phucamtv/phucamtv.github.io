@@ -60,12 +60,7 @@ Tại trại nhóm họp Jackson, tôi đã nói rõ ràng với những nhóm c
 
 Vị trí của chúng ta là một vị trí chờ đợi và canh thức, không có sự rao báo về thời gian nào xen vào giữa sự kết thúc của các thời kỳ tiên tri năm 1844 và thời điểm Chúa chúng ta tái lâm.—Manuscript Releases 10:270 (1888). LDE 36.1
 
-Dân sự sẽ không có một sứ điệp nào khác về thời gian xác định nữa. Sau khoảng thời gian này [
-
-> "Lại khi bảy tiếng sấm rền lên rồi, tôi có ý chép lấy, nhưng tôi nghe một tiếng ở từ trời đến phán rằng: Hãy đóng ấn những điều bảy tiếng sấm đã nói, và đừng chép làm chi. Bấy giờ vị thiên sứ mà tôi đã thấy đứng trên biển và trên đất, giơ tay hữu lên trời, chỉ Đấng hằng sống đời đời, là Đấng đã dựng nên trời cùng muôn vật trên trời, dựng nên đất cùng muôn vật dưới đất, dựng nên biển cùng muôn vật trong biển, mà thề rằng không còn có thì giờ nào nữa;"
-> <cite>(Khải-huyền 10:4-6)</cite>
-
-], kéo dài từ năm 1842 đến năm 1844, sẽ không có thể truy vết một cách xác định nào về thời gian tiên tri được nữa. Sự tính toán dài nhất chỉ đến mùa thu năm 1844.—The S.D.A. Bible Commentary 7:971 (1900). LDE 36.2
+Dân sự sẽ không có một sứ điệp nào khác về thời gian xác định nữa. Sau khoảng thời gian này [Khải-huyền 10:4-6], kéo dài từ năm 1842 đến năm 1844, sẽ không có thể truy vết một cách xác định nào về thời gian tiên tri được nữa. Sự tính toán dài nhất chỉ đến mùa thu năm 1844.—The S.D.A. Bible Commentary 7:971 (1900). LDE 36.2
 
 ## Bà Ellen White Mong Đợi Sự Tái Lâm Của Đấng Christ Trong Thời Của Bà
 
@@ -93,38 +88,7 @@ Nếu Hội Thánh của Đấng Christ đã làm trọn công việc đã đư�
 
 ## Lời Hứa Của Đức Chúa Trời Là Có Điều Kiện
 
-Các thiên sứ của Đức Chúa Trời trong các sứ điệp của họ gởi đến cho loài người trình bày thời gian là rất ngắn ngủi. [Xem
-
-> "Hãy ăn ở như vậy, vì biết thời kỳ đương lúc chúng ta đây: Giờ anh em từ ngủ thức dậy đã đến, bởi sự cứu hiện nay đã gần chúng ta hơn lúc chúng ta mới tin. Đêm đã khuya, ngày gần đến; vậy chúng ta hãy lột bỏ những việc tối tăm mà mặc lấy áo giáp sáng láng."
-> <cite>(Rô-ma 13:11-12)</cite>
-
-> "Hỡi anh em, vậy thì tôi bảo này: Thì giờ ngắn ngủi. Từ nay về sau, kẻ có vợ hãy nên như kẻ không có;"
-> <cite>(I Cô-rinh-tô 7:29)</cite>
-
-> "Vả, này là điều chúng tôi nhờ lời Chúa mà rao bảo cho anh em: chúng ta là kẻ sống, còn ở lại cho đến kỳ Chúa đến, thì không lên trước những người đã ngủ rồi. Kế đến chúng ta là kẻ sống, mà còn ở lại, sẽ cùng nhau đều được cất lên với những người ấy giữa đám mây, tại nơi không trung mà gặp Chúa, như vậy chúng ta sẽ ở cùng Chúa luôn luôn."
-> <cite>(I Tê-sa-lô-ni-ca 4:15,17)</cite>
-
-> "chớ bỏ sự nhóm lại như mấy kẻ quen làm, nhưng phải khuyên bảo nhau, và hễ anh em thấy ngày ấy hầu gần chừng nào, thì càng phải làm như vậy chừng nấy."
-> <cite>(Hê-bơ-rơ 10:25)</cite>
-
-> "Anh em cũng vậy hãy nhịn nhục và bền lòng; vì kỳ Chúa đến gần rồi. Hỡi anh em, chớ oán trách nhau, hầu cho khỏi bị xét đoán; kìa, Đấng xét đoán đứng trước cửa."
-> <cite>(Gia-cơ 5:8-9)</cite>
-
-> "Sự cuối cùng của muôn vật đã gần; vậy hãy khôn ngoan tỉnh thức mà cầu nguyện."
-> <cite>(I Phi-e-rơ 4:7)</cite>
-
-> "Bấy giờ thiên sứ nói với tôi rằng: Những lời này là trung tín và chân thật, Chúa là Đức Chúa Trời của thần các đấng tiên tri, đã sai thiên sứ mình đặng tỏ cùng các tôi tớ Ngài những điều kíp phải xảy ra. Kìa, ta đến mau chóng. Phước thay cho kẻ nào giữ những lời tiên tri trong sách này!"
-> <cite>(Khải-huyền 22:6-7)</cite>
-
-] Điều ấy đã luôn được trình bày cho tôi như vậy. Thật là đúng khi thời gian đã kéo dài hơn so với những gì chúng ta đã mong đợi trong những ngày đầu tiên của sứ điệp này. Đấng Cứu Thế của chúng ta đã không hiện đến sớm như chúng ta hy vọng. Nhưng có phải Lời của Chúa đã thất bại không? Không bao giờ! Cần phải nhớ rằng các lời hứa và lời đe dọa của Đức Chúa Trời đều có điều kiện như nhau. [Xem
-
-> "Trong lúc nào ta sẽ nói về một dân một nước kia đặng nhổ đi, hủy đi, diệt đi; nếu nước mà ta nói đó xây bỏ điều ác mình, thì ta sẽ đổi ý ta đã toan giáng tai họa cho nó. Cũng có lúc nào ta sẽ nói về một dân một nước kia đặng dựng nó, trồng nó; nếu nước ấy làm điều ác trước mắt ta và không nghe tiếng ta, thì ta sẽ đổi ý ta đã định xuống phước cho nó."
-> <cite>(Giê-rê-mi 18:7-10)</cite>
-
-> "Giô-na khởi đầu vào trong thành đi một ngày, thì rao giảng và nói rằng: Còn bốn mươi ngày nữa, Ni-ni-ve sẽ bị đổ xuống! Dân thành Ni-ni-ve tin Đức Chúa Trời. Họ rao ra sự kiêng ăn và mặc bao gai, từ những người rất lớn trong đám họ cho đến những kẻ rất nhỏ. Tin ấy đồn đến vua Ni-ni-ve, vua đứng dậy khỏi ngai, lột áo bào mình ra, quấn bao gai và ngồi trong tro. Đoạn vua truyền lịnh này ra trong thành Ni-ni-ve, như là lời dụ của vua cùng của các kẻ tôn trưởng: Không luận người ta hay thú vật, không luận bầy bò hay bầy chiên, đều chớ nếm chi hết. Không được để cho nó ăn, cũng không uống nước; nhưng người ta và thú vật đều phải quấn bao gai. Mọi người khá ra sức kêu cùng Đức Chúa Trời; phải, ai nấy khá bỏ đường lối xấu mình và việc hung dữ của tay mình. Ai biết rằng hoặc Đức Chúa Trời sẽ không xây lại và ăn năn, xây khỏi cơn nóng giận mình, hầu cho chúng ta khỏi chết, hay sao? Bấy giờ Đức Chúa Trời thấy việc họ làm đều đã xây bỏ đường lối xấu của mình; Đức Chúa Trời bèn ăn năn sự họa mà Ngài đã phán sẽ làm cho họ, và Ngài không làm sự đó."
-> <cite>(Giô-na 3:4-10)</cite>
-
-]... LDE 38.3
+Các thiên sứ của Đức Chúa Trời trong các sứ điệp của họ gởi đến cho loài người trình bày thời gian là rất ngắn ngủi. [Xem Rô-ma 13:11-12; I Cô-rinh-tô 7:29; I Tê-sa-lô-ni-ca 4:15, 17; Hê-bơ-rơ 10:25; Gia-cơ 5:8-9; I Phi-e-rơ 4:7; Khải-huyền 22:6-7.] Điều ấy đã luôn được trình bày cho tôi như vậy. Thật là đúng khi thời gian đã kéo dài hơn so với những gì chúng ta đã mong đợi trong những ngày đầu tiên của sứ điệp này. Đấng Cứu Thế của chúng ta đã không hiện đến sớm như chúng ta hy vọng. Nhưng có phải Lời của Chúa đã thất bại không? Không bao giờ! Cần phải nhớ rằng các lời hứa và lời đe dọa của Đức Chúa Trời đều có điều kiện như nhau. [Xem Giê-rê-mi 18:7-10; Giô-na 3:4-10.]... LDE 38.3
 
 Chúng ta có thể phải lưu lại trong thế gian này vì sự bất tuân của mình thêm nhiều năm nữa, như con cái Y-sơ-ra-ên đã từng, nhưng vì cớ Đấng Christ, dân sự của Ngài không nên chồng chất tội lỗi này lên tội lỗi khác bằng cách buộc tội Đức Chúa Trời về hậu quả của con đường hành động sai trái của chính họ.—Evangelism, 695, 696 (1901). LDE 39.1
 

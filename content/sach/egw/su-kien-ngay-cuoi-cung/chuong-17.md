@@ -142,12 +142,7 @@ Những thuộc viên Hội Thánh đã thấy ánh sáng và đã bị thuyết
 
 Tất cả đều đồng lòng trút sự lên án cay đắng nhất lên các mục sư. Những người chăn bất trung đã nói tiên tri những điều êm tai; họ đã dẫn dắt thính giả của mình làm cho luật pháp Đức Chúa Trời ra vô hiệu và bắt bớ những ai muốn giữ luật pháp ấy cách thánh khiết. Bấy giờ, trong nỗi tuyệt vọng, những giáo sư này thú nhận trước thế gian công việc lừa dối của họ. Đoàn dân đông đầy giận dữ. Họ kêu lên: "Chúng tôi bị hư mất rồi! Và các ngươi là nguyên nhân của sự hủy diệt chúng tôi"; rồi họ quay lại chống lại những kẻ chăn giả dối. Chính những kẻ trước đây đã từng ngưỡng mộ họ nhiều nhất, nay sẽ tuyên bố những lời rủa sả khủng khiếp nhất trên họ. Chính những bàn tay trước đây đã từng đội mão nguyệt quế cho họ, nay sẽ giơ lên để hủy diệt họ. Những lưỡi gươm đã định để giết dân sự Đức Chúa Trời, nay được dùng để tiêu diệt những kẻ thù của họ.—The Great Controversy, 655, 656 (1911). LDE 247.3
 
-Tại đây chúng ta thấy rằng Hội Thánh—đền thánh của Chúa—là nơi đầu tiên cảm nhận đòn giáng của cơn thạnh nộ Đức Chúa Trời. Những kẻ già cả [
-
-> "Nào già cả, nào trai trẻ, nào gái đồng trinh, nào con nít, đàn bà, hãy giết hết; nhưng chớ lại gần một kẻ nào là kẻ đã có ghi dấu; và khá bắt đầu từ nơi thánh ta. Vậy các người ấy bắt đầu từ các người già cả ở trước mặt nhà."
-> <cite>(Ê-xê-chi-ên 9:6)</cite>
-
-], những người mà Đức Chúa Trời đã ban ánh sáng lớn và đã đứng làm những kẻ canh giữ những lợi ích thiêng liêng của dân sự, đã phản bội sự tin cậy giao phó cho họ.—Testimonies for the Church 5:211 (1882). LDE 248.1
+Tại đây chúng ta thấy rằng Hội Thánh—đền thánh của Chúa—là nơi đầu tiên cảm nhận đòn giáng của cơn thạnh nộ Đức Chúa Trời. Những kẻ già cả [Ê-xê-chi-ên 9:6], những người mà Đức Chúa Trời đã ban ánh sáng lớn và đã đứng làm những kẻ canh giữ những lợi ích thiêng liêng của dân sự, đã phản bội sự tin cậy giao phó cho họ.—Testimonies for the Church 5:211 (1882). LDE 248.1
 
 Lời Đức Chúa Trời bị làm cho ra vô hiệu bởi những kẻ chăn giả dối.... Công việc của họ chẳng bao lâu sẽ phản ứng lại trên chính họ. Bấy giờ sẽ chứng kiến những cảnh tượng được mô tả trong Khải Huyền 18 khi sự phán xét của Đức Chúa Trời giáng xuống trên Ba-by-lôn huyền bí.—Manuscript 60, 1900. LDE 248.2
 

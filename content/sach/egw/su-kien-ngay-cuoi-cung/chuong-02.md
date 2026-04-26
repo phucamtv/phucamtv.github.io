@@ -119,18 +119,7 @@ Trước khi Con Người hiện ra trên các đám mây trời, mọi sự tro
 
 Sa-tan đang hoạt động trong bầu khí quyển; nó đang đầu độc bầu khí quyển, và ở đây chúng ta lệ thuộc vào Đức Chúa Trời cho sự sống của chúng ta—sự sống hiện tại và sự sống đời đời của chúng ta. Và đang ở trong tình cảnh như vậy, chúng ta cần phải hoàn toàn tỉnh thức, hoàn toàn tận hiến, hoàn toàn được biến đổi, hoàn toàn dâng mình cho Đức Chúa Trời. Nhưng dường như chúng ta cứ ngồi đó như thể bị tê liệt. Lạy Đức Chúa Trời trên trời, xin hãy đánh thức chúng con dậy!—Selected Messages 2:52 (1890). LDE 26.4
 
-Đức Chúa Trời đã không ngăn cản các thế lực của bóng tối tiến hành công việc chết chóc của chúng là làm ô nhiễm bầu không khí, một trong những nguồn của sự sống và dinh dưỡng, bằng một thứ khí độc chết người. Không chỉ đời sống thực vật bị ảnh hưởng mà con người cũng phải chịu bệnh dịch.... Những điều này là kết quả của những giọt từ các bát thạnh nộ của Đức Chúa Trời [Đức Chúa Trời chịu trách nhiệm về điều mà Ngài cho phép hoặc không ngăn cản. Xem
-
-> "Ta sẽ làm cho Pha-ra-ôn cứng lòng, và thêm nhiều dấu lạ phép kỳ của ta trong xứ Ê-díp-tô."
-> <cite>(Xuất Ê-díp-tô Ký 7:3)</cite>
-
-> "Nhưng lần này, Pha-ra-ôn lại cứng lòng nữa, không cho dân sự đi."
-> <cite>(Xuất Ê-díp-tô Ký 8:32)</cite>
-
-> "Sau-lơ biểu kẻ vác binh khí hầu mình rằng: Ngươi hãy tuốt gươm của ngươi và đâm giết ta, kẻo kẻ chẳng chịu cắt bì kia đến sỉ nhục ta. Song kẻ vác binh khí người không khứng vâng mạng, vì lấy làm sợ hãi. Sau-lơ bèn cầm lấy gươm mình cúi thúc vào ngực. Ấy vậy, vua Sau-lơ chết, vì tội lỗi mình đã phạm cùng Đức Giê-hô-va, và vì chẳng có vâng theo mạng lịnh của Ngài; lại vì đã cầu hỏi bà bóng, chẳng có cầu hỏi Đức Giê-hô-va; vậy, vì cớ ấy Ngài giết người, dời nước người cho về Đa-vít, con trai Y-sai."
-> <cite>(I Sử-ký 10:4,13,14)</cite>
-
-] được rảy trên đất, và chỉ là những hình ảnh mờ nhạt về những gì sẽ xảy ra trong tương lai gần.—Selected Messages 3:391 (1891). LDE 27.1
+Đức Chúa Trời đã không ngăn cản các thế lực của bóng tối tiến hành công việc chết chóc của chúng là làm ô nhiễm bầu không khí, một trong những nguồn của sự sống và dinh dưỡng, bằng một thứ khí độc chết người. Không chỉ đời sống thực vật bị ảnh hưởng mà con người cũng phải chịu bệnh dịch.... Những điều này là kết quả của những giọt từ các bát thạnh nộ của Đức Chúa Trời [Đức Chúa Trời chịu trách nhiệm về điều mà Ngài cho phép hoặc không ngăn cản. Xem Xuất Ê-díp-tô Ký 7:3; 8:32; I Sử-ký 10:4, 13, 14.] được rảy trên đất, và chỉ là những hình ảnh mờ nhạt về những gì sẽ xảy ra trong tương lai gần.—Selected Messages 3:391 (1891). LDE 27.1
 
 Nạn đói sẽ gia tăng. Dịch bệnh sẽ cuốn đi hàng ngàn người. Hiểm họa bao quanh chúng ta từ các thế lực bên ngoài và những hoạt động của Sa-tan ở bên trong, nhưng quyền năng kiềm chế của Đức Chúa Trời hiện đang được thi hành.—Manuscript Releases 19:382 (1897). LDE 27.2
 
@@ -154,18 +143,7 @@ Những biểu tượng này [những con rắn lửa trong đồng vắng] ph�
 
 Trong công việc bế mạc vĩ đại, chúng ta sẽ gặp những điều khó khăn mà chúng ta không biết phải đối phó thế nào, nhưng chúng ta đừng quên rằng ba Quyền Năng vĩ đại của thiên đàng đang hành động, rằng có một bàn tay thiêng liêng đang điều khiển bánh xe, và Đức Chúa Trời sẽ làm cho mục đích của Ngài được thành tựu.—Evangelism, 65 (1902). LDE 29.3
 
-Như những bánh xe phức tạp ấy được dẫn dắt bởi bàn tay bên dưới đôi cánh của các chê-ru-bim thể nào, thì sự diễn biến phức tạp của các biến cố loài người cũng nằm dưới sự kiểm soát của Đức Chúa Trời thể ấy. Giữa cuộc tranh đấu và xáo trộn của các quốc gia, Đấng ngự trên các chê-ru-bim vẫn cai quản mọi việc trên đất. [Xem
-
-> "Nầy, ta thấy có luồng gió bão đến từ phương bắc, một đám mây lớn bọc lửa giãi sáng khắp tư bề; từ giữa nó, thấy như loài kim bóng nhoáng ra từ chính giữa lửa. Bên trên vòng khung giãi trên đầu các vật sống, có hình như cái ngai, trạng nó như là bích ngọc; trên hình ngai ấy có hình như người ở trên nó."
-> <cite>(Ê-xê-chi-ên 1:4,26)</cite>
-
-> "Vả, nơi dưới cánh các chê-ru-bim có tỏ ra hình một cái tay người."
-> <cite>(Ê-xê-chi-ên 10:8)</cite>
-
-> "Án đó là bởi các đấng canh giữ đã định, và lời các thánh đã truyền, hầu cho những kẻ sống biết rằng Đấng Rất Cao cai trị trong nước của loài người; Ngài muốn ban cho ai tùy ý, và lập kẻ rất hèn hạ trong loài người lên đó. Người ta sẽ đuổi vua ra khỏi giữa loài người, và chỗ ở vua sẽ ở giữa những thú vật trong đồng. Vua sẽ bị buộc phải ăn cỏ như bò, và sẽ được thấm nhuần sương móc trên trời; bảy kỳ sẽ trải qua trên vua, cho đến khi vua nhận biết rằng Đấng Rất Cao cai trị trong nước loài người, và Ngài muốn ban cho ai tùy ý. Ngươi sẽ bị đuổi khỏi giữa loài người, sẽ ở với thú đồng; sẽ bị buộc phải ăn cỏ như bò, rồi bảy kỳ sẽ trải qua trên ngươi, cho đến khi ngươi nhận biết rằng Đấng Rất Cao cai trị trong nước của loài người, và Ngài muốn ban cho ai tùy ý."
-> <cite>(Đa-ni-ên 4:17,25,32)</cite>
-
-]—Education, 178 (1903). LDE 29.4
+Như những bánh xe phức tạp ấy được dẫn dắt bởi bàn tay bên dưới đôi cánh của các chê-ru-bim thể nào, thì sự diễn biến phức tạp của các biến cố loài người cũng nằm dưới sự kiểm soát của Đức Chúa Trời thể ấy. Giữa cuộc tranh đấu và xáo trộn của các quốc gia, Đấng ngự trên các chê-ru-bim vẫn cai quản mọi việc trên đất. [Xem Ê-xê-chi-ên 1:4, 26; 10:8; Đa-ni-ên 4:17, 25, 32.]—Education, 178 (1903). LDE 29.4
 
 Trong biên niên sử của lịch sử nhân loại, sự tăng trưởng của các quốc gia, sự thăng trầm của các đế quốc, dường như tùy thuộc vào ý chí và năng lực của con người; sự định hình của các biến cố dường như, ở một mức độ lớn, được quyết định bởi quyền lực, tham vọng hay sự thất thường của con người. Nhưng trong Lời Đức Chúa Trời, bức màn được vén lên, và chúng ta nhìn thấy, ở phía trên, phía sau, và xuyên qua mọi sự diễn biến qua lại của các lợi ích, quyền lực và cảm xúc của con người, là các tác động của Đấng Đại Từ Bi, đang âm thầm, kiên nhẫn thực hiện các ý định của ý muốn Ngài.—Prophets and Kings, 499, 500 (c. 1914). LDE 29.5
 

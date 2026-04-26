@@ -53,18 +53,7 @@ Lót đã đặt mình dưới sự bảo vệ của các sứ giả từ trời
 
 ## Đức Chúa Trời Đã Cho Chúng Ta Biết Những Điều Sẽ Xảy Ra Trong Thời Đại Của Chúng Ta
 
-Trước khi chịu đóng đinh, Đấng Cứu Thế đã giải thích cho các môn đồ rằng Ngài sẽ bị giết và sẽ sống lại từ ngôi mộ, và các thiên sứ đã hiện diện để khắc ghi lời Ngài vào tâm trí và tấm lòng họ. [Xem
-
-> "Bấy giờ, Ngài khởi sự dạy môn đồ rằng Con người phải chịu khổ nhiều, phải bị các trưởng lão, các thầy tế lễ cả, và các thầy thông giáo loại ra, phải chịu giết, sau ba ngày phải sống lại. Ngài nói tỏ tường điều đó với môn đồ. Phi-e-rơ đem Ngài riêng ra, mà can gián Ngài."
-> <cite>(Mác 8:31-32)</cite>
-
-> "Vì Ngài dạy các môn đồ rằng: Con người sẽ bị nộp trong tay người ta, họ sẽ giết đi; Ngài bị giết đã ba ngày rồi, thì sẽ sống lại."
-> <cite>(Mác 9:31)</cite>
-
-> "Đức Chúa Giê-su và môn đồ đương đi đường lên thành Giê-ru-sa-lem, Ngài thì đi trước; các môn đồ thất kinh, và những người đi theo đều sợ hãi. Ngài lại đem mười hai sứ đồ đi cùng mình ra mà phán về những việc phải xảy đến cho mình, rằng: Nầy, chúng ta lên thành Giê-ru-sa-lem, Con người sẽ bị nộp cho các thầy tế lễ cả cùng các thầy thông giáo; họ sẽ định Ngài phải bị tử hình, và giao Ngài cho dân ngoại. Người ta sẽ nhạo báng Ngài, nhổ trên Ngài, đánh đập Ngài mà giết đi; sau ba ngày, Ngài sẽ sống lại."
-> <cite>(Mác 10:32-34)</cite>
-
-] Nhưng các môn đồ đang trông đợi sự giải phóng tạm thời khỏi ách thống trị của La-mã, và họ không thể chấp nhận ý tưởng rằng Đấng mà mọi hy vọng của họ đặt nơi Ngài lại phải chịu một cái chết nhục nhã. Những lời mà họ cần ghi nhớ đã bị xóa khỏi tâm trí họ, và khi thời điểm thử thách đến, họ đã không được chuẩn bị. Cái chết của Đức Chúa Giê-su đã hoàn toàn phá hủy những hy vọng của họ như thể Ngài chưa từng cảnh báo trước cho họ vậy. LDE 13.3
+Trước khi chịu đóng đinh, Đấng Cứu Thế đã giải thích cho các môn đồ rằng Ngài sẽ bị giết và sẽ sống lại từ ngôi mộ, và các thiên sứ đã hiện diện để khắc ghi lời Ngài vào tâm trí và tấm lòng họ. [Xem Mác 8:31-32; 9:31; 10:32-34.] Nhưng các môn đồ đang trông đợi sự giải phóng tạm thời khỏi ách thống trị của La-mã, và họ không thể chấp nhận ý tưởng rằng Đấng mà mọi hy vọng của họ đặt nơi Ngài lại phải chịu một cái chết nhục nhã. Những lời mà họ cần ghi nhớ đã bị xóa khỏi tâm trí họ, và khi thời điểm thử thách đến, họ đã không được chuẩn bị. Cái chết của Đức Chúa Giê-su đã hoàn toàn phá hủy những hy vọng của họ như thể Ngài chưa từng cảnh báo trước cho họ vậy. LDE 13.3
 
 Cũng vậy, trong các lời tiên tri, tương lai được mở ra trước mắt chúng ta một cách rõ ràng như đã được mở ra cho các môn đồ qua những lời của Đấng Christ. Các biến cố liên quan đến sự kết thúc thời kỳ ân điển và công việc chuẩn bị cho cơn đại nạn được trình bày rõ ràng. Nhưng vô số người không hiểu biết về những lẽ thật quan trọng này hơn gì so với nếu chúng chưa từng được bày tỏ.—The Great Controversy, 594 (1911). LDE 14.1
 

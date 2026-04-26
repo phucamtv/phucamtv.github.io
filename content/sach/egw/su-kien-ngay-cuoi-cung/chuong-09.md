@@ -14,12 +14,7 @@ draft: true
 
 Đức Chúa Trời lên án Ba-by-lôn "vì mọi dân tộc đều uống rượu dâm loạn buông tuồng của nó."... LDE 123.1
 
-Đức Chúa Trời đã dựng nên thế gian trong sáu ngày và nghỉ vào ngày thứ bảy, biệt riêng ngày này ra thánh, tách biệt khỏi mọi ngày khác để dành riêng cho chính Ngài, để dân Ngài tuân giữ qua các thế hệ. Nhưng kẻ tội lỗi, tự tôn mình lên trên Đức Chúa Trời, ngồi trong đền thờ Đức Chúa Trời, và tự xưng mình là Đức Chúa Trời, đã nghĩ đến việc đổi thay các kỳ hạn và luật pháp. Quyền lực này, nghĩ rằng để chứng tỏ mình không những ngang hàng với Đức Chúa Trời, mà còn trên Đức Chúa Trời, đã đổi ngày nghỉ, đặt ngày thứ nhất trong tuần vào chỗ mà ngày thứ bảy phải được giữ. Và thế giới Tin Lành đã nhận đứa con này của giáo hoàng làm điều thánh. Trong Lời Đức Chúa Trời, điều này được gọi là sự dâm loạn của nó [
-
-> "Một vị thiên sứ khác, là vị thứ hai, theo sau mà rằng: Ba-by-lôn lớn kia, đã đổ rồi, đã đổ rồi, vì nó có cho các dân tộc uống rượu tà dâm thạnh nộ của nó."
-> <cite>(Khải-huyền 14:8)</cite>
-
-].—The S.D.A. Bible Commentary 7:979 (1900). LDE 123.2
+Đức Chúa Trời đã dựng nên thế gian trong sáu ngày và nghỉ vào ngày thứ bảy, biệt riêng ngày này ra thánh, tách biệt khỏi mọi ngày khác để dành riêng cho chính Ngài, để dân Ngài tuân giữ qua các thế hệ. Nhưng kẻ tội lỗi, tự tôn mình lên trên Đức Chúa Trời, ngồi trong đền thờ Đức Chúa Trời, và tự xưng mình là Đức Chúa Trời, đã nghĩ đến việc đổi thay các kỳ hạn và luật pháp. Quyền lực này, nghĩ rằng để chứng tỏ mình không những ngang hàng với Đức Chúa Trời, mà còn trên Đức Chúa Trời, đã đổi ngày nghỉ, đặt ngày thứ nhất trong tuần vào chỗ mà ngày thứ bảy phải được giữ. Và thế giới Tin Lành đã nhận đứa con này của giáo hoàng làm điều thánh. Trong Lời Đức Chúa Trời, điều này được gọi là sự dâm loạn của nó [Khải-huyền 14:8].—The S.D.A. Bible Commentary 7:979 (1900). LDE 123.2
 
 Trong thời đại Cơ-đốc Giáo, kẻ thù lớn của hạnh phúc loài người đã biến ngày Sa-bát của điều răn thứ tư thành đối tượng của cuộc tấn công đặc biệt. Sa-tan nói: "Ta sẽ làm việc trái ngược với Đức Chúa Trời. Ta sẽ ban quyền cho những kẻ theo ta để loại bỏ kỷ niệm của Đức Chúa Trời, là ngày Sa-bát thứ bảy. Như vậy ta sẽ cho thế gian thấy rằng ngày được Đức Chúa Trời biệt riêng ra thánh và ban phước đã bị đổi thay. Ngày đó sẽ không còn sống trong tâm trí của loài người. Ta sẽ xóa sạch ký ức về nó. Ta sẽ đặt vào chỗ của nó một ngày không mang dấu tín của Đức Chúa Trời, một ngày không thể là dấu hiệu giữa Đức Chúa Trời và dân Ngài. Ta sẽ dẫn dắt những kẻ chấp nhận ngày này đặt trên nó sự thánh khiết mà Đức Chúa Trời đã đặt trên ngày thứ bảy."—Prophets and Kings, 183, 184 (c. 1914). LDE 123.3
 

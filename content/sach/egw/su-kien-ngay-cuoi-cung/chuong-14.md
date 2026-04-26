@@ -40,12 +40,7 @@ Sự sa ngã của Ba-by-lôn chỉ được trọn vẹn khi tình trạng này
 
 vẫn còn ở tương lai.—The Great Controversy, 389, 390 (1911). LDE 198.4
 
-Khi nào tội lỗi của nó chất cao đến tận trời [
-
-> "Người kêu lớn tiếng rằng: Ba-by-lôn lớn đã đổ rồi, đã đổ rồi! Thành ấy đã trở nên chỗ ở của các ma quỉ, nơi hang hố của mọi tà thần, hang hố của mọi giống chim dơ dáy mà người ta gớm ghiếc, vì mọi dân tộc đều uống rượu dâm loạn buông tuồng của nó, vì các vua thế gian đã cùng nó phạm tội tà dâm, và vì các nhà buôn trên đất đã nên giàu có bởi sự quá xa hoa của nó. Tôi lại nghe một tiếng khác từ trên trời đến rằng: Hỡi dân ta, hãy ra khỏi Ba-by-lôn, kẻo các ngươi dự phần tội lỗi với nó, cũng chịu những tai họa nó nữa chăng; vì tội lỗi nó chất cao tày trời, và Đức Chúa Trời đã nhớ đến các sự gian ác nó."
-> <cite>(Khải-huyền 18:2-5)</cite>
-
-]? Khi luật pháp Đức Chúa Trời cuối cùng bị bãi bỏ bởi pháp luật.—The Signs of the Times, June 12, 1893. LDE 198.5
+Khi nào tội lỗi của nó chất cao đến tận trời [Khải-huyền 18:2-5]? Khi luật pháp Đức Chúa Trời cuối cùng bị bãi bỏ bởi pháp luật.—The Signs of the Times, June 12, 1893. LDE 198.5
 
 ## Sứ Điệp Cảnh Báo Cuối Cùng Của Đức Chúa Trời
 
@@ -58,12 +53,7 @@ Khải Huyền đoạn 18 chỉ về thời điểm mà, do hậu quả của vi
 
 Hội Thánh sẽ rơi vào tình trạng mà thiên sứ thứ hai đã báo trước, và dân sự của Đức Chúa Trời còn ở trong Ba-by-lôn sẽ được kêu gọi tách rời khỏi sự thông công với nó. Sứ điệp này là sứ điệp cuối cùng sẽ được ban cho thế gian.—The Great Controversy, 390 (1911). LDE 199.1
 
-[
-
-> "Sau điều đó, tôi thấy một vị thiên sứ khác ở trên trời xuống, người có quyền lớn, và sự vinh hiển người chiếu rực rỡ trên đất. Người kêu lớn tiếng rằng: Ba-by-lôn lớn đã đổ rồi, đã đổ rồi! Thành ấy đã trở nên chỗ ở của các ma quỉ, nơi hang hố của mọi tà thần, hang hố của mọi giống chim dơ dáy mà người ta gớm ghiếc, Tôi lại nghe một tiếng khác từ trên trời đến rằng: Hỡi dân ta, hãy ra khỏi Ba-by-lôn, kẻo các ngươi dự phần tội lỗi với nó, cũng chịu những tai họa nó nữa chăng;"
-> <cite>(Khải-huyền 18:1,2,4)</cite>
-
-được trích dẫn.] Phân đoạn Kinh Thánh này hướng về một thời điểm trong tương lai, khi lời tuyên bố về sự sụp đổ của Ba-by-lôn, đã được thiên sứ thứ hai trong Khải Huyền đoạn 14 (câu 8) loan báo, sẽ được lặp lại, kèm theo lời đề cập thêm về những sự bại hoại đã len lỏi vào các tổ chức khác nhau hợp thành Ba-by-lôn, kể từ khi sứ điệp ấy được ban ra lần đầu vào mùa hè năm 1844…. Những lời tuyên bố này, kết hợp với sứ điệp của thiên sứ thứ ba, hợp thành lời cảnh báo cuối cùng sẽ được ban cho cư dân của trái đất…. LDE 199.2
+[Khải-huyền 18:1, 2, 4, được trích dẫn.] Phân đoạn Kinh Thánh này hướng về một thời điểm trong tương lai, khi lời tuyên bố về sự sụp đổ của Ba-by-lôn, đã được thiên sứ thứ hai trong Khải Huyền đoạn 14 (câu 8) loan báo, sẽ được lặp lại, kèm theo lời đề cập thêm về những sự bại hoại đã len lỏi vào các tổ chức khác nhau hợp thành Ba-by-lôn, kể từ khi sứ điệp ấy được ban ra lần đầu vào mùa hè năm 1844…. Những lời tuyên bố này, kết hợp với sứ điệp của thiên sứ thứ ba, hợp thành lời cảnh báo cuối cùng sẽ được ban cho cư dân của trái đất…. LDE 199.2
 
 Tội lỗi của Ba-by-lôn sẽ bị phơi bày. Những hậu quả khủng khiếp của việc dùng quyền lực dân sự để cưỡng ép tuân giữ các nghi lễ của Hội Thánh, sự xâm nhập của thuyết duy linh, sự tiến triển âm thầm nhưng nhanh chóng của quyền lực giáo hoàng—tất cả sẽ bị vạch trần. Bởi những lời cảnh báo trang nghiêm này, dân chúng sẽ được đánh động. Hàng ngàn hàng vạn người chưa từng nghe những lời như thế sẽ lắng nghe.—The Great Controversy, 603, 604, 606 (1911). LDE 199.3
 
@@ -85,12 +75,7 @@ Khi sứ điệp thứ ba phát ra thành tiếng kêu lớn và khi quyền nă
 
 Khi ngày cuối cùng đến gần, chứng cớ của các tôi tớ Đức Chúa Trời sẽ trở nên dứt khoát và đầy quyền năng hơn.—Selected Messages 3:407 (1892). LDE 201.2
 
-Sứ điệp này [
-
-> "Lại một vị thiên sứ khác, là vị thứ ba, theo sau, nói lớn tiếng mà rằng: Nếu ai thờ phượng con thú cùng tượng nó, và chịu dấu nó ghi trên trán hay trên tay, thì người ấy cũng vậy, sẽ uống rượu thạnh nộ không pha của Đức Chúa Trời rót trong chén thạnh nộ Ngài; và sẽ chịu đau đớn trong lửa và diêm ở trước mặt các thiên sứ thánh và trước mặt Chiên Con. Khói của sự đau đớn chúng nó bay lên đời đời. Những kẻ thờ lạy con thú và tượng nó, cùng những kẻ chịu dấu của tên nó ghi, thì cả ngày lẫn đêm không lúc nào được yên nghỉ. Đây tỏ ra sự nhịn nhục của các thánh đồ: Chúng giữ điều răn của Đức Chúa Trời và giữ lòng tin Đức Chúa Giê-su."
-> <cite>(Khải-huyền 14:9-12)</cite>
-
-] bao hàm cả hai sứ điệp trước. Nó được mô tả là được rao truyền bằng tiếng lớn; nghĩa là, với quyền năng của Đức Thánh Linh.—The S.D.A. Bible Commentary 7:980 (1900). LDE 201.3
+Sứ điệp này [Khải-huyền 14:9-12] bao hàm cả hai sứ điệp trước. Nó được mô tả là được rao truyền bằng tiếng lớn; nghĩa là, với quyền năng của Đức Thánh Linh.—The S.D.A. Bible Commentary 7:980 (1900). LDE 201.3
 
 Khi sứ điệp của thiên sứ thứ ba phát ra thành tiếng kêu lớn, quyền năng và vinh hiển lớn lao sẽ đi kèm với sự rao truyền ấy. Khuôn mặt của dân sự Đức Chúa Trời sẽ chiếu sáng với ánh sáng của thiên đàng.—Testimonies for the Church 7:17 (1902). LDE 201.4
 
