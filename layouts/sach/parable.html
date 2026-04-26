@@ -280,7 +280,7 @@
       </aside>
 
       <section class="pb-toc-section">
-        <div class="pb-section-label">Mục Lục &mdash; {{ len .RegularPages }} Bài Học</div>
+        <div class="pb-section-label">Mục Lục &mdash; {{ len .RegularPages }} {{ with .Params.chapter_label }}{{ . | title }}{{ else }}Bài Học{{ end }}</div>
         <ol class="pb-toc-list">
           {{ range $i, $p := .RegularPages.ByWeight }}
           {{ $num := default (add $i 1) $p.Params.chapter }}
