@@ -7,7 +7,6 @@ chapter: 4
 weight: 4
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Dân Sự Đức Chúa Trời Giữ Các Điều Răn Của Ngài

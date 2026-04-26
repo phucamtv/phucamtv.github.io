@@ -7,7 +7,6 @@ chapter: 18
 weight: 18
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Cơn Đại Nạn Lớn Bắt Đầu Sau Khi Thời Kỳ Ân Điển Kết Thúc

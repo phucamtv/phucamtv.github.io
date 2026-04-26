@@ -7,7 +7,6 @@ chapter: 11
 weight: 11
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Dưới Lốt Cơ-đốc Giáo

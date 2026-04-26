@@ -7,7 +7,6 @@ chapter: 14
 weight: 14
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Đức Chúa Trời Có Những Viên Ngọc Trong Mọi Hội Thánh

@@ -7,7 +7,6 @@ chapter: 19
 weight: 19
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Tai Vạ Thứ Bảy Và Sự Sống Lại Đặc Biệt

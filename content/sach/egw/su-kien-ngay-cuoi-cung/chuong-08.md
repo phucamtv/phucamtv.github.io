@@ -7,7 +7,6 @@ chapter: 8
 weight: 8
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Những Người Xây Thành Đầu Tiên

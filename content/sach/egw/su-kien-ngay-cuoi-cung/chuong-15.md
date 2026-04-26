@@ -7,7 +7,6 @@ chapter: 15
 weight: 15
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Chỉ Có Hai Hạng Người

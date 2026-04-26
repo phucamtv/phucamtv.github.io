@@ -7,7 +7,6 @@ chapter: 12
 weight: 12
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Là Thành Viên Hội Thánh Không Bảo Đảm Sự Cứu Rỗi

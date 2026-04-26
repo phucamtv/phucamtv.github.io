@@ -7,7 +7,6 @@ chapter: 2
 weight: 2
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Lời Tiên Tri Vĩ Đại Của Chúa Chúng Ta

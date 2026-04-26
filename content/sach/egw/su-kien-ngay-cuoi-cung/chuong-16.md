@@ -7,7 +7,6 @@ chapter: 16
 weight: 16
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Không Ai Biết Khi Nào Thời Kỳ Ân Điển Sẽ Kết Thúc

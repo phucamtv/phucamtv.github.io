@@ -7,7 +7,6 @@ chapter: 1
 weight: 1
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Sự lo lắng lan rộng về tương lai

@@ -7,7 +7,6 @@ chapter: 6
 weight: 6
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Tinh Thần Phục Vụ và Hy Sinh

@@ -1,0 +1,387 @@
+{{/*
+  LDE-style celestial teaser card for /sach list.
+  A single dark "night-sky postcard" that contrasts the warm parchment cards.
+  Expected context: dict with
+    book   — book Page
+    author — author display name (string)
+*/}}
+{{ $book := .book }}
+{{ $author := .author }}
+{{ $code := default "LDE" $book.Params.book_code }}
+{{ $year := default "" $book.Params.pub_year }}
+{{ $line1 := default $book.Title $book.Params.title_line1 }}
+{{ $line2 := default "" $book.Params.title_line2 }}
+{{ $subtitle := default "" $book.Params.subtitle }}
+{{ $chapterLabel := default "chương" $book.Params.chapter_label }}
+{{ $chapterCount := len $book.RegularPages }}
+{{ $eyebrow := default "Tân bản dịch Việt ngữ" $book.Params.teaser_eyebrow }}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;1,400&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+  .ts-book-lde {
+    --lde-paper: #f5f1e8;
+    --lde-rule: rgba(245,241,232,0.35);
+    --lde-rule-soft: rgba(245,241,232,0.18);
+    --lde-dawn: #d49a5c;
+    --lde-dawn-deep: #b8763a;
+    --lde-ember: #e07a52;
+    --lde-gold: #f1d5a0;
+    --lde-mist: rgba(245,241,232,0.78);
+
+    display: block;
+    text-decoration: none;
+    color: var(--lde-paper);
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 2rem;
+    padding: 2rem 2.25rem 2.5rem;
+    background:
+      linear-gradient(180deg,
+        #0e1230 0%,
+        #161a3a 24%,
+        #20244a 50%,
+        #4a3a40 76%,
+        #8a5530 92%,
+        #b8763a 100%);
+    box-shadow:
+      0 14px 38px rgba(14,18,48,0.28),
+      0 4px 12px rgba(14,18,48,0.18),
+      inset 0 0 0 1px rgba(245,241,232,0.04);
+    transition: transform .4s ease, box-shadow .4s ease;
+    animation: tsSlide 0.75s ease both;
+  }
+  .ts-book-lde:hover {
+    transform: translateY(-3px);
+    box-shadow:
+      0 22px 54px rgba(14,18,48,0.35),
+      0 6px 16px rgba(14,18,48,0.22),
+      inset 0 0 0 1px rgba(245,241,232,0.08);
+  }
+
+  /* Stars layer */
+  .ts-book-lde .lde-stars {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+  }
+  .ts-book-lde .lde-stars span {
+    position: absolute;
+    color: var(--lde-paper);
+    opacity: 0.6;
+    text-shadow: 0 0 6px rgba(245,241,232,0.55);
+    transition: opacity .6s ease;
+  }
+  .ts-book-lde:hover .lde-stars span { opacity: 0.85; }
+  .ts-book-lde .lde-stars .a { top: 8%;  left: 10%; font-size: 8px; }
+  .ts-book-lde .lde-stars .b { top: 14%; left: 78%; font-size: 12px; }
+  .ts-book-lde .lde-stars .c { top: 22%; left: 22%; font-size: 9px; }
+  .ts-book-lde .lde-stars .d { top: 6%;  left: 56%; font-size: 10px; }
+  .ts-book-lde .lde-stars .e { top: 28%; left: 88%; font-size: 7px; }
+  .ts-book-lde .lde-stars .f { top: 36%; left: 7%;  font-size: 9px; }
+  .ts-book-lde .lde-stars .g { top: 11%; left: 38%; font-size: 8px; }
+  .ts-book-lde .lde-stars .h { top: 30%; left: 64%; font-size: 6px; }
+
+  /* Dawn glow at the bottom edge */
+  .ts-book-lde::after {
+    content: "";
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--lde-gold), var(--lde-ember), var(--lde-gold), transparent);
+    opacity: 0.7;
+    z-index: 2;
+  }
+
+  .ts-book-lde > * { position: relative; z-index: 2; }
+
+  /* Masthead */
+  .ts-lde-mast {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--lde-rule);
+  }
+  .ts-lde-mast .l, .ts-lde-mast .r {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9.5px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--lde-mist);
+  }
+  .ts-lde-mast .r { text-align: right; }
+  .ts-lde-mast .c {
+    color: var(--lde-paper);
+    font-size: 11px;
+    letter-spacing: 0.7em;
+    padding-left: 0.7em;
+    text-shadow: 0 0 10px rgba(245,241,232,0.55);
+  }
+
+  /* Subbar */
+  .ts-lde-sub {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: baseline;
+    gap: 18px;
+    padding: 10px 0 22px;
+    font-family: 'Lora', Georgia, serif;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--lde-mist);
+    border-bottom: 1px solid var(--lde-rule-soft);
+  }
+  .ts-lde-sub .pill {
+    font-style: normal;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    border: 1px solid var(--lde-rule);
+    padding: 3px 8px;
+    color: var(--lde-paper);
+  }
+  .ts-lde-sub .center { text-align: center; }
+  .ts-lde-sub .center strong {
+    font-style: normal;
+    font-weight: 500;
+    color: var(--lde-paper);
+    letter-spacing: 0.04em;
+    margin-left: 4px;
+  }
+  .ts-lde-sub .right {
+    text-align: right;
+    font-style: normal;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9.5px;
+    letter-spacing: 0.18em;
+    color: var(--lde-mist);
+  }
+
+  /* Twin morning stars */
+  .ts-lde-twinstar {
+    text-align: center;
+    color: var(--lde-paper);
+    letter-spacing: 0.6em;
+    font-size: 13px;
+    text-shadow: 0 0 14px rgba(245,241,232,0.65);
+    padding-top: 22px;
+  }
+  .ts-lde-twinstar .small {
+    font-size: 9px; opacity: 0.7; vertical-align: 3px;
+    letter-spacing: 0.32em;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /* Title */
+  .ts-lde-titleblock {
+    padding: 26px 0 16px;
+    text-align: center;
+  }
+  .ts-lde-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 500;
+    font-size: clamp(2rem, 6vw, 3.6rem);
+    line-height: 1.05;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--lde-paper);
+    margin: 0;
+    text-shadow: 0 2px 22px rgba(0,0,0,0.3);
+    text-wrap: balance;
+  }
+  .ts-lde-title .l1 { display: block; }
+  .ts-lde-title .l2 {
+    display: block;
+    font-style: italic;
+    font-weight: 400;
+    color: var(--lde-gold);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .ts-lde-original {
+    margin: 22px auto 0;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 16px;
+    max-width: 520px;
+  }
+  .ts-lde-original::before, .ts-lde-original::after {
+    content: '';
+    height: 1px;
+    background: var(--lde-rule);
+  }
+  .ts-lde-original .ot {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 16px;
+    color: #fff8e8;
+    letter-spacing: 0.03em;
+    text-shadow: 0 1px 10px rgba(0,0,0,0.3);
+  }
+
+  /* Verse */
+  .ts-lde-verse {
+    margin: 26px auto 0;
+    max-width: 600px;
+    text-align: center;
+    font-family: 'Lora', Georgia, serif;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 1.65;
+    color: rgba(245,241,232,0.94);
+    border-top: 1px solid var(--lde-rule-soft);
+    border-bottom: 1px solid var(--lde-rule-soft);
+    padding: 22px 0;
+    position: relative;
+  }
+  .ts-lde-verse::before, .ts-lde-verse::after {
+    content: '✧';
+    display: block;
+    color: var(--lde-gold);
+    font-size: 11px;
+    font-style: normal;
+    margin: 0 0 10px;
+  }
+  .ts-lde-verse::after { margin: 10px 0 0; }
+  .ts-lde-verse cite {
+    display: block;
+    margin-top: 10px;
+    font-style: normal;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--lde-gold);
+  }
+
+  /* Summary */
+  .ts-lde-summary {
+    margin: 22px auto 0;
+    max-width: 600px;
+    font-family: 'Lora', Georgia, serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: rgba(245,241,232,0.9);
+    text-align: center;
+  }
+
+  /* Foot strip */
+  .ts-lde-foot {
+    margin-top: 26px;
+    padding-top: 18px;
+    border-top: 1px solid var(--lde-rule-soft);
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 16px;
+  }
+  .ts-lde-stat {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--lde-mist);
+  }
+  .ts-lde-stat .num {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 26px;
+    color: var(--lde-paper);
+    letter-spacing: -0.01em;
+    font-variant-numeric: oldstyle-nums;
+    margin-right: 6px;
+    vertical-align: -2px;
+  }
+  .ts-lde-cta {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 500;
+    color: var(--lde-gold);
+    letter-spacing: 0.04em;
+    text-align: center;
+  }
+  .ts-lde-arrow {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 26px;
+    color: var(--lde-gold);
+    text-align: right;
+    transition: transform .35s ease, color .35s ease;
+  }
+  .ts-book-lde:hover .ts-lde-arrow {
+    color: var(--lde-paper);
+    transform: translateX(6px);
+  }
+
+  @media (max-width: 600px) {
+    .ts-book-lde { padding: 1.5rem 1.25rem 1.75rem; }
+    .ts-lde-mast { grid-template-columns: 1fr 1fr; }
+    .ts-lde-mast .r { display: none; }
+    .ts-lde-sub { grid-template-columns: auto 1fr; gap: 10px; }
+    .ts-lde-sub .right { display: none; }
+    .ts-lde-foot { grid-template-columns: 1fr; gap: 10px; text-align: center; }
+    .ts-lde-arrow { text-align: center; }
+  }
+</style>
+
+<a class="ts-book-lde" href="{{ $book.RelPermalink }}">
+  <div class="lde-stars" aria-hidden="true">
+    <span class="a">✦</span><span class="b">✧</span><span class="c">✦</span><span class="d">✧</span>
+    <span class="e">·</span><span class="f">✦</span><span class="g">·</span><span class="h">✧</span>
+  </div>
+
+  <div class="ts-lde-mast">
+    <div class="l">{{ $eyebrow }}</div>
+    <div class="c">✧&nbsp;&nbsp;&nbsp;✧</div>
+    <div class="r">tác phẩm của {{ $author }}</div>
+  </div>
+
+  <div class="ts-lde-sub">
+    <span class="pill">{{ $code }}{{ with $year }} · {{ . }}{{ end }}</span>
+    <span class="center">một biên soạn từ tác phẩm của <strong>{{ default $author $book.Params.author_full }}</strong></span>
+    <span class="right">{{ default "MMXXVI" $book.Params.pub_year_roman }}</span>
+  </div>
+
+  <div class="ts-lde-twinstar">✧&nbsp;&nbsp;<span class="small">đêm khuya → bình minh</span>&nbsp;&nbsp;✧</div>
+
+  <div class="ts-lde-titleblock">
+    <h2 class="ts-lde-title">
+      <span class="l1">{{ $line1 }}</span>
+      {{ with $line2 }}<span class="l2">{{ . }}</span>{{ end }}
+    </h2>
+    {{ with $subtitle }}
+    <div class="ts-lde-original">
+      <span class="ot">{{ . }}</span>
+    </div>
+    {{ end }}
+  </div>
+
+  {{ with $book.Params.teaser_quote }}
+  <div class="ts-lde-verse">
+    {{ . | safeHTML }}
+    {{ with $book.Params.teaser_quote_cite }}<cite>{{ . }}</cite>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with $book.Params.summary }}<p class="ts-lde-summary">{{ . }}</p>{{ end }}
+
+  <div class="ts-lde-foot">
+    {{ if $chapterCount }}
+    <div class="ts-lde-stat">
+      <span class="num">{{ printf "%02d" $chapterCount }}</span>{{ $chapterLabel }}{{ with $book.Params.toc_note }} <span style="color:var(--lde-gold)">+ {{ . }}</span>{{ end }}
+    </div>
+    {{ else }}
+    <div class="ts-lde-stat"></div>
+    {{ end }}
+    <div class="ts-lde-cta">Đọc sách</div>
+    <div class="ts-lde-arrow">→</div>
+  </div>
+</a>

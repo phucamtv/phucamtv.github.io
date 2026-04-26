@@ -7,7 +7,6 @@ chapter: 10
 weight: 10
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Một Thời Kỳ Hoạn Nạn Trước Khi Thời Kỳ Ân Điển Kết Thúc

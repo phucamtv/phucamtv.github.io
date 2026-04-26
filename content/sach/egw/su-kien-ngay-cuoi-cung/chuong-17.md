@@ -7,7 +7,6 @@ chapter: 17
 weight: 17
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Các Bát Thạnh Nộ Của Đức Chúa Trời Sẽ Được Đổ Ra

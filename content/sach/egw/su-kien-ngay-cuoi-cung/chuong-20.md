@@ -7,7 +7,6 @@ chapter: 20
 weight: 20
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 [Những cảnh tượng về thiên đàng và trái đất mới được trình bày cho bà Ellen White là những hình ảnh đại diện cho các thực tại đời đời. Bà được cho thấy những điều thuộc về thiên đàng qua những khái niệm của con người. Vì sự hạn chế trong khả năng hiểu biết và ngôn ngữ của con người, chúng ta không thể biết đầy đủ diện mạo thực sự của những cảnh tượng được miêu tả.

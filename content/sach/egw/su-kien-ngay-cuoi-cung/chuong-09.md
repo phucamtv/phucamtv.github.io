@@ -7,7 +7,6 @@ chapter: 9
 weight: 9
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Sa-tan Thách Thức Quyền Tối Cao Của Đức Chúa Trời

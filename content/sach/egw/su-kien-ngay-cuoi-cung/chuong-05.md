@@ -7,7 +7,6 @@ chapter: 5
 weight: 5
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Một đời sống hai mặt

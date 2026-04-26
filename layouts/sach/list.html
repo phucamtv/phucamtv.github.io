@@ -482,6 +482,8 @@
           {{ range $book := $section.Sections }}
             {{ if eq $book.Params.teaser_style "parable" }}
               {{ partial "sach/teaser-parable.html" (dict "book" $book "author" $section.Title) }}
+            {{ else if eq $book.Params.teaser_style "lde" }}
+              {{ partial "sach/teaser-lde.html" (dict "book" $book "author" $section.Title) }}
             {{ else }}
               <a href="{{ $book.RelPermalink }}" class="ts-book">
                 <div class="ts-book-eyebrow">một tác phẩm của</div>
@@ -506,6 +508,8 @@
         {{/* Direct book at this level */}}
           {{ if eq $section.Params.teaser_style "parable" }}
             {{ partial "sach/teaser-parable.html" (dict "book" $section "author" $.Title) }}
+          {{ else if eq $section.Params.teaser_style "lde" }}
+            {{ partial "sach/teaser-lde.html" (dict "book" $section "author" $.Title) }}
           {{ else }}
             <a href="{{ $section.RelPermalink }}" class="ts-book">
               <div class="ts-book-eyebrow">một tác phẩm của</div>

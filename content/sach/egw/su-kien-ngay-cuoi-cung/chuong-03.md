@@ -7,7 +7,6 @@ chapter: 3
 weight: 3
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Các Môn Đồ Hỏi Đấng Christ Về Sự Tái Lâm Của Ngài

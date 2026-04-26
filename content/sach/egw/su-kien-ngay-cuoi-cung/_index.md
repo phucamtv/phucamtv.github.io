@@ -22,7 +22,7 @@ toc_subheading: "Sự mở ra dần — từ những dấu hiệu hiện tại �
 hero_quote: '&ldquo;Vậy hãy tỉnh thức, vì các ngươi không biết ngày nào Chúa mình sẽ đến.&rdquo;'
 hero_quote_cite: "Ma-thi-ơ 24:42"
 foot_quote: "&ldquo;Nầy, ta đến mau chóng&hellip;&rdquo;<br>Khải Huyền 22:12"
-teaser_style: "parable"
+teaser_style: "lde"
 teaser_eyebrow: "Tân bản dịch Việt ngữ"
 teaser_quote: "&ldquo;Vậy hãy tỉnh thức, vì các ngươi không biết ngày nào Chúa mình sẽ đến.&rdquo;"
 teaser_quote_cite: "Ma-thi-ơ 24:42"

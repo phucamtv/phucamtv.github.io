@@ -7,7 +7,6 @@ chapter: 13
 weight: 13
 date: 2026-04-26
 summary: ""
-draft: true
 ---
 
 ## Công Việc Của Đức Thánh Linh Được Ví Như Mưa
