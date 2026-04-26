@@ -39,10 +39,10 @@ Qua chi tiết này, bài học quan trọng cho chúng ta là: **đừng hứa 
 **Ba cuộc hành trình truyền giáo của Phao-lô:**
 - **Lần 1** (khoảng 46-48 SCN): Công-vụ 13-14 — cùng Banaba qua đảo Sip và vùng phía nam Tiểu Á.
 - **Lần 2** (khoảng 49-52 SCN): Công-vụ 15:36-18:23 — qua Ma-xê-đô-ni và Hy-lạp, gồm Phi-líp, Tê-sa-lô-ni-ca, Bê-rê, A-thên, Cô-rinh-tô.
-- **Lần 3** (khoảng 53-57 SCN): Công-vụ 18:23 trở đi — tập trung tại Ê-phê-sô, thăm lại các hội thánh ở Tiểu Á và Hy-lạp.
-- **Hành trình cuối** (khoảng 59-62 SCN): Bị bắt, đưa đến La-mã, nhưng ngay trong khi bị giam lỏng, Phao-lô vẫn tiếp tục rao giảng và gây dựng hội thánh.
+- **Lần 3** (khoảng 53-57 SCN): Công-vụ 18:23 trở đi — tập trung tại Ê-phê-sô, thăm lại các Hội Thánh ở Tiểu Á và Hy-lạp.
+- **Hành trình cuối** (khoảng 59-62 SCN): Bị bắt, đưa đến La-mã, nhưng ngay trong khi bị giam lỏng, Phao-lô vẫn tiếp tục rao giảng và gây dựng Hội Thánh.
 
-Đáng chú ý là Phao-lô không chỉ gây dựng hội thánh rồi bỏ đi, mà ông **quay trở lại thăm viếng và khích lệ** để anh em vững lòng. Trồng cây đã khó, nhưng chăm bón mới là thử thách lâu dài. Trong lãnh vực thuộc linh cũng vậy — xây dựng là quan trọng, nhưng duy trì còn quan trọng hơn.
+Đáng chú ý là Phao-lô không chỉ gây dựng Hội Thánh rồi bỏ đi, mà ông **quay trở lại thăm viếng và khích lệ** để anh em vững lòng. Trồng cây đã khó, nhưng chăm bón mới là thử thách lâu dài. Trong lãnh vực thuộc linh cũng vậy — xây dựng là quan trọng, nhưng duy trì còn quan trọng hơn.
 
 Và chữ **"đạo Chúa"** — tiếng Hán-Nôm có nghĩa là *đường đi*, không phải lý thuyết suông. Đức Chúa Giê-su phán: *"Ta là đường đi, lẽ thật và sự sống."* Đạo Chúa chính là con đường cụ thể dẫn đến sự cứu rỗi và nước thiên đàng.
 

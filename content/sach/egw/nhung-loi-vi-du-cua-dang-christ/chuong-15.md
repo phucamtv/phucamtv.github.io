@@ -94,9 +94,9 @@ Và Đấng Christ phán, "Như Cha đã sai Con trong thế gian, thì Con cũn
 > "Như Cha đã sai Con trong thế gian, thì Con cũng sai họ trong thế gian."
 > <cite>(Giăng 17:18)</cite>
 
-)—để "làm cho đầy đủ trong xác thịt tôi những sự còn lại trong các điều đau khổ của Đấng Christ, ... vì Hội thánh, tức là thân thể Ngài."
+)—để "làm cho đầy đủ trong xác thịt tôi những sự còn lại trong các điều đau khổ của Đấng Christ, ... vì Hội Thánh, tức là thân thể Ngài."
 
-> "Nay tôi lấy làm vui về sự tôi đã chịu khổ sở vì anh em, tôi lại vì thân thể Đấng Cơ-đốc, là Hội thánh, mà đem xác thịt mình chịu hết các điều còn lại trong sự thương khó của Ngài."
+> "Nay tôi lấy làm vui về sự tôi đã chịu khổ sở vì anh em, tôi lại vì thân thể Đấng Cơ-đốc, là Hội Thánh, mà đem xác thịt mình chịu hết các điều còn lại trong sự thương khó của Ngài."
 > <cite>(Cô-lô-se 1:24)</cite>
 
 Mọi linh hồn mà Đấng Christ đã giải cứu đều được kêu gọi làm việc trong danh Ngài để cứu lấy những kẻ hư mất. Công việc này đã bị lơ là trong Y-sơ-ra-ên. Ngày nay, há công việc ấy cũng không bị lơ là bởi những kẻ tự xưng là môn đồ của Đấng Christ sao? COL 191.1

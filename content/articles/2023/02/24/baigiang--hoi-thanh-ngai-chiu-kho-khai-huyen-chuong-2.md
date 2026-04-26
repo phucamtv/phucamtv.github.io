@@ -17,9 +17,9 @@ draft: false
 
 ## Giới Thiệu
 
-Trong loạt bài giảng về sách Khải Huyền, Mục Sư Đặng Thanh Phong tiếp tục dẫn dắt hội chúng đến với bức thư thứ hai trong bảy thư Chúa gởi cho bảy hội thánh — đó là hội thánh Si-mạc-na. Bài giảng căn cứ vào Khải Huyền chương 2, câu 8–11, với chủ đề trọng tâm: **"Hội Thánh Ngại Chịu Khổ"**.
+Trong loạt bài giảng về sách Khải Huyền, Mục Sư Đặng Thanh Phong tiếp tục dẫn dắt hội chúng đến với bức thư thứ hai trong bảy thư Chúa gởi cho bảy Hội Thánh — đó là Hội Thánh Si-mạc-na. Bài giảng căn cứ vào Khải Huyền chương 2, câu 8–11, với chủ đề trọng tâm: **"Hội Thánh Ngại Chịu Khổ"**.
 
-Trước đó, bài học về hội thánh Ê-phê-sô đã nói đến việc đánh mất tình yêu ban đầu. Nối tiếp theo đó, khi tình yêu với Chúa phai nhạt, con người dễ rơi vào tình trạng sợ khổ, ngại chịu khổ — và đây chính là căn bệnh của hội thánh Si-mạc-na mà cũng là hình ảnh của nhiều tín nhân ngày nay.
+Trước đó, bài học về Hội Thánh Ê-phê-sô đã nói đến việc đánh mất tình yêu ban đầu. Nối tiếp theo đó, khi tình yêu với Chúa phai nhạt, con người dễ rơi vào tình trạng sợ khổ, ngại chịu khổ — và đây chính là căn bệnh của Hội Thánh Si-mạc-na mà cũng là hình ảnh của nhiều tín nhân ngày nay.
 
 ---
 
@@ -35,7 +35,7 @@ Người ta thường nói: *"Đời là bể khổ"* — và đúng thật, kh�
 
 ### 1. Khổ Vì Nghèo Túng Vật Chất
 
-Câu 9 chép: *"Ta biết sự khốn khó, nghèo khổ của ngươi."* Hội thánh Si-mạc-na chịu thiếu thốn vật chất — họ bị người chung quanh nhìn bằng ánh mắt coi thường, chê bai: "Anh theo Chúa mà sao nghèo vậy?"
+Câu 9 chép: *"Ta biết sự khốn khó, nghèo khổ của ngươi."* Hội Thánh Si-mạc-na chịu thiếu thốn vật chất — họ bị người chung quanh nhìn bằng ánh mắt coi thường, chê bai: "Anh theo Chúa mà sao nghèo vậy?"
 
 Tuy nhiên, Mục Sư nhấn mạnh rằng Đức Chúa Trời không bao giờ để con cái Ngài nghèo đói đến mức chết. Ngài trích Ma-thi-ơ 6:24–34, đoạn Kinh Thánh quen thuộc về sự lo lắng: chim trời không gieo gặt nhưng Cha trên trời nuôi chúng; hoa huệ ngoài đồng không kéo chỉ nhưng còn đẹp hơn áo của vua Sa-lô-môn. Chúa biết chúng ta cần gì. Điều Ngài kêu gọi là: *"Trước hết hãy tìm kiếm nước Đức Chúa Trời và sự công bình của Ngài, thì Ngài sẽ cho thêm mọi điều ấy nữa."*
 
@@ -43,7 +43,7 @@ Nghèo về vật chất là khổ, nhưng nghèo về tâm linh mới là đi�
 
 ### 2. Khổ Vì Lời Dèm Pha
 
-Câu 9 tiếp tục: *"Và những lời dèm pha của kẻ xưng mình là người Giu-đa mà kỳ thực không phải."* Hội thánh bị chính những người tự xưng tin Chúa chế nhạo, chỉ trích, phỉ nhổ.
+Câu 9 tiếp tục: *"Và những lời dèm pha của kẻ xưng mình là người Giu-đa mà kỳ thực không phải."* Hội Thánh bị chính những người tự xưng tin Chúa chế nhạo, chỉ trích, phỉ nhổ.
 
 Lời nói là vũ khí nguy hiểm. Ma quỷ đã dùng lời nói để lừa dối A-đam và Ê-va trong vườn Ê-đen, và nó cũng dùng lời để dụ dỗ một phần ba thiên sứ bỏ Đức Chúa Trời mà theo nó. Ngày nay, với mạng xã hội và internet, lời nói dèm pha còn lan rộng và phức tạp hơn bao giờ hết.
 
@@ -79,6 +79,6 @@ Chịu khổ là bằng chứng của lòng trung thành với Chúa. Đó là l
 
 ## Kết Luận
 
-Hội thánh Si-mạc-na — và mỗi tín nhân ngày nay — được Chúa kêu gọi đừng ngại chịu khổ. Khổ về vật chất: hãy tin vào sự cung cấp của Cha Thiên Thượng. Khổ về lời dèm pha: hãy lọc tai, tập trung vào Lời Chúa. Khổ vì thử thách: hãy nhịn nhục và giữ đức tin cho đến cùng.
+Hội Thánh Si-mạc-na — và mỗi tín nhân ngày nay — được Chúa kêu gọi đừng ngại chịu khổ. Khổ về vật chất: hãy tin vào sự cung cấp của Cha Thiên Thượng. Khổ về lời dèm pha: hãy lọc tai, tập trung vào Lời Chúa. Khổ vì thử thách: hãy nhịn nhục và giữ đức tin cho đến cùng.
 
-*"Người chớ ngại điều mình sẽ chịu khổ"* — đây là lời Chúa phán với hội thánh xưa và cũng là lời Ngài phán với chúng ta hôm nay.
+*"Người chớ ngại điều mình sẽ chịu khổ"* — đây là lời Chúa phán với Hội Thánh xưa và cũng là lời Ngài phán với chúng ta hôm nay.

@@ -54,7 +54,7 @@ Những người có Kinh Thánh **không bị bất ngờ** bởi những sự 
 
 > *"Lại vì cớ tội ác sẽ thêm nhiều thì lòng yêu mến của phần nhiều người sẽ nguội lạnh. Nhưng kẻ nào bền chí cho đến cuối cùng thì sẽ được cứu."*
 
-Đây là lời cảnh báo đáng sợ cho chính những người tin Chúa. Không phải hội thánh sẽ ngày càng mạnh, tình yêu thương ngày càng tăng — mà Đức Chúa Giê-su cảnh báo rằng ngay giữa anh em con cái Chúa sẽ có sự phản nghịch, ghen ghét lẫn nhau. Ma quỷ sẽ dỗ dành chính những người đang chờ đợi Chúa trở lại.
+Đây là lời cảnh báo đáng sợ cho chính những người tin Chúa. Không phải Hội Thánh sẽ ngày càng mạnh, tình yêu thương ngày càng tăng — mà Đức Chúa Giê-su cảnh báo rằng ngay giữa anh em con cái Chúa sẽ có sự phản nghịch, ghen ghét lẫn nhau. Ma quỷ sẽ dỗ dành chính những người đang chờ đợi Chúa trở lại.
 
 II Ti-mô-thê 3:1-5 liệt kê bản thống kê tội ác của thời kỳ cuối: *tự kỷ, tham lam, khoe khoang, xấc xược, hay nói xấu, nghịch cha mẹ, bội bạc, không tin kính, vô tình, khó hòa thuận, không tiết độ, dữ tợn, thù người lành, phản bạn, nóng giận, kiêu ngạo, ưa thích sự vui chơi hơn yêu mến Đức Chúa Trời, đạo đức giả.* Đọc danh sách này, chúng ta không chỉ thấy thế giới — chúng ta cũng thấy chính mình trong đó.
 

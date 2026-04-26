@@ -28,7 +28,7 @@ Trong đời sống Cơ-đốc nhân cũng vậy. Khi chúng ta tiếp nhận Ch
 
 ## Hội Chứng Peter Pan Trong Đời Sống Thuộc Linh
 
-Ngày nay, người ta nhắc đến "hội chứng Peter Pan" — những người đã trưởng thành về tuổi tác nhưng tư duy và hành xử vẫn như trẻ con, không chịu lớn. Điều đáng suy nghĩ là hội chứng này không chỉ tồn tại trong đời sống xã hội, mà còn hiện diện ngay trong hội thánh.
+Ngày nay, người ta nhắc đến "hội chứng Peter Pan" — những người đã trưởng thành về tuổi tác nhưng tư duy và hành xử vẫn như trẻ con, không chịu lớn. Điều đáng suy nghĩ là hội chứng này không chỉ tồn tại trong đời sống xã hội, mà còn hiện diện ngay trong Hội Thánh.
 
 Có những người đã tin Chúa nhiều năm, đã dự nhóm đều đặn, đọc Kinh Thánh và cầu nguyện — nhưng sự trưởng thành thuộc linh chỉ dừng lại ở một mức độ nào đó mà không tiến lên. Thời gian đứng trong Chúa không đồng nghĩa với sự trưởng thành đức tin.
 
@@ -58,12 +58,12 @@ Không có nền tảng Kinh Thánh, chúng ta dễ bị lôi cuốn bởi nhữ
 
 ## Quan Tâm Đến Anh Em Trong Hội Thánh
 
-Một dấu hiệu không thể thiếu của sự trưởng thành đức tin là sự quan tâm đến anh chị em cùng đức tin. I Tê-sa-lô-ni-ca 1:3 cho thấy sứ đồ Phao-lô cảm tạ Chúa vì hội thánh Tê-sa-lô-ni-ca: *"Đức tin anh em rất tấn tới, và lòng yêu thương của mỗi người trong hết thảy anh em đối với nhau càng ngày càng thêm."*
+Một dấu hiệu không thể thiếu của sự trưởng thành đức tin là sự quan tâm đến anh chị em cùng đức tin. I Tê-sa-lô-ni-ca 1:3 cho thấy sứ đồ Phao-lô cảm tạ Chúa vì Hội Thánh Tê-sa-lô-ni-ca: *"Đức tin anh em rất tấn tới, và lòng yêu thương của mỗi người trong hết thảy anh em đối với nhau càng ngày càng thêm."*
 
-Một hội thánh mà các chi thể quan tâm đến nhau, yêu thương nhau ngày càng thêm — đó là một hội thánh được ơn phước. Mỗi Cơ-đốc nhân trưởng thành đều góp phần xây dựng hội thánh mạnh mẽ hơn, vì khi từng chi thể vững mạnh thì cả thân thể sẽ vững mạnh.
+Một Hội Thánh mà các chi thể quan tâm đến nhau, yêu thương nhau ngày càng thêm — đó là một Hội Thánh được ơn phước. Mỗi Cơ-đốc nhân trưởng thành đều góp phần xây dựng Hội Thánh mạnh mẽ hơn, vì khi từng chi thể vững mạnh thì cả thân thể sẽ vững mạnh.
 
 ## Trưởng Thành Là Một Hành Trình
 
 Sự trưởng thành trong Chúa không phải là điều chúng ta đạt được một cách trọn vẹn rồi dừng lại. Đây là một hành trình mỗi ngày một hơn, đòi hỏi sự luyện tập, sự học hỏi và sự gắn bó với lời Chúa. Hê-bơ-rơ 5:14 nói: *"Đồ ăn đặc là để cho kẻ thành nhân, cho kẻ hay dùng tâm trí luyện tập mà phân biệt điều lành và dữ."*
 
-Hãy suy ngẫm lại đời sống đức tin của mình: Chúng ta đang nuôi dưỡng tâm linh như thế nào? Chúng ta có đang lớn lên mỗi ngày trong sự hiểu biết về Chúa, trong sự yêu thương anh em, trong trách nhiệm với hội thánh? Đó là những câu hỏi mà mỗi Cơ-đốc nhân cần thường xuyên đặt ra cho mình để không rơi vào hội chứng đức tin ngừng lớn.
+Hãy suy ngẫm lại đời sống đức tin của mình: Chúng ta đang nuôi dưỡng tâm linh như thế nào? Chúng ta có đang lớn lên mỗi ngày trong sự hiểu biết về Chúa, trong sự yêu thương anh em, trong trách nhiệm với Hội Thánh? Đó là những câu hỏi mà mỗi Cơ-đốc nhân cần thường xuyên đặt ra cho mình để không rơi vào hội chứng đức tin ngừng lớn.

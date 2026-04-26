@@ -58,4 +58,4 @@ Nhiều người đặt sai thứ tự khi nghĩ rằng chỉ cần hòa giải 
 
 ## Lời Kêu Gọi
 
-Sự hiệp nhất trong Chúa Cứu Thế không đến từ việc ép người khác giống mình, mà đến từ việc cả hai bên cùng hướng về Chúa, cùng được biến đổi thành con người mới. Đừng để những rào cản do con người tự đặt ra — hệ phái, giáo phái, tổ chức, nghi thức — trở thành bức tường ngăn cách giữa những người cùng yêu mến Đức Chúa Trời. Hội Thánh thật của Chúa là hội thánh vô hình, không thuộc về bảng hiệu hay danh xưng nào, mà thuộc về tất cả những ai tin nhận Chúa Cứu Thế làm Cứu Chúa cho đời mình.
+Sự hiệp nhất trong Chúa Cứu Thế không đến từ việc ép người khác giống mình, mà đến từ việc cả hai bên cùng hướng về Chúa, cùng được biến đổi thành con người mới. Đừng để những rào cản do con người tự đặt ra — hệ phái, giáo phái, tổ chức, nghi thức — trở thành bức tường ngăn cách giữa những người cùng yêu mến Đức Chúa Trời. Hội Thánh thật của Chúa là Hội Thánh vô hình, không thuộc về bảng hiệu hay danh xưng nào, mà thuộc về tất cả những ai tin nhận Chúa Cứu Thế làm Cứu Chúa cho đời mình.

@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu: Tại Sao Cần Thêm Khải Huyền 18?
 
-Mục sư Đặng Thanh Phong dẫn dắt hội thánh tiếp tục hành trình qua Sách Khải Huyền, lần này đến chương 18 — một chương mà nhiều người có thể thắc mắc: tại sao cần thiết? Chương 17 đã nhận diện rõ Babylon, bảy bát thạnh nộ đã đổ xuống — vậy Chúa còn thêm 24 câu ở chương 18 để làm gì?
+Mục sư Đặng Thanh Phong dẫn dắt Hội Thánh tiếp tục hành trình qua Sách Khải Huyền, lần này đến chương 18 — một chương mà nhiều người có thể thắc mắc: tại sao cần thiết? Chương 17 đã nhận diện rõ Babylon, bảy bát thạnh nộ đã đổ xuống — vậy Chúa còn thêm 24 câu ở chương 18 để làm gì?
 
 Câu trả lời nằm ở tấm lòng của Chúa. Đây không phải là sự lặp lại vô nghĩa, mà là một lời kêu gọi tha thiết, nhẫn nại, và đầy tình yêu thương — như lời của người Cha gọi con trở về trước khi cơn phán xét ập xuống không thể tránh khỏi.
 
@@ -24,9 +24,9 @@ Câu trả lời nằm ở tấm lòng của Chúa. Đây không phải là sự
 
 Câu 4 của chương 18 là trung tâm của toàn bài: *"Hỡi dân ta, hãy ra khỏi Babylon, kẻo các ngươi dự phần tội lỗi với nó, cũng chịu những tai họa nó nữa chăng."*
 
-Lời kêu gọi này tiết lộ một sự thật đáng suy ngẫm: **trong Babylon có dân sự của Chúa**. Nếu Babylon chỉ toàn kẻ thù của Chúa, Ngài đã không cần lên tiếng kêu gọi "dân ta". Thực tế là có những người thật lòng tin Chúa, nhưng đang ở sai chỗ — trong các tổ chức, hội thánh hoặc hệ thống tôn giáo sai lầm mà vẫn mang danh thờ phượng Chúa.
+Lời kêu gọi này tiết lộ một sự thật đáng suy ngẫm: **trong Babylon có dân sự của Chúa**. Nếu Babylon chỉ toàn kẻ thù của Chúa, Ngài đã không cần lên tiếng kêu gọi "dân ta". Thực tế là có những người thật lòng tin Chúa, nhưng đang ở sai chỗ — trong các tổ chức, Hội Thánh hoặc hệ thống tôn giáo sai lầm mà vẫn mang danh thờ phượng Chúa.
 
-Mục sư nhấn mạnh: đừng lầm tưởng rằng hội thánh nào cũng thờ phượng Chúa một cách đúng đắn, hoặc "hội thánh nào cũng có chỗ tốt chỗ xấu, nên ở đâu cũng được." Đó là quan điểm sai lầm hoàn toàn. Đức Chúa Giê-su phán trong Giăng 10:16: *"Ta còn có chiên khác chẳng thuộc về chuồng này... sẽ chỉ có một bầy và một người chăn mà thôi."* Chúa có một bầy nhất định — và Ngài muốn những chiên lạc lối trong Babylon phải tìm về đúng bầy ấy.
+Mục sư nhấn mạnh: đừng lầm tưởng rằng Hội Thánh nào cũng thờ phượng Chúa một cách đúng đắn, hoặc "Hội Thánh nào cũng có chỗ tốt chỗ xấu, nên ở đâu cũng được." Đó là quan điểm sai lầm hoàn toàn. Đức Chúa Giê-su phán trong Giăng 10:16: *"Ta còn có chiên khác chẳng thuộc về chuồng này... sẽ chỉ có một bầy và một người chăn mà thôi."* Chúa có một bầy nhất định — và Ngài muốn những chiên lạc lối trong Babylon phải tìm về đúng bầy ấy.
 
 Lời kêu gọi "hỡi dân ta, hãy ra khỏi Babylon" không phải là lệnh truyền lạnh lùng, mà là tiếng lòng của Cha gọi con — tha thiết, khẩn thiết, và đầy yêu thương.
 
@@ -40,7 +40,7 @@ Có người nghĩ: "Tôi chỉ là con chiên bình thường, những sai lầ
 
 Đây là bài học về trách nhiệm thuộc linh. Chúa không hỏi: "Con đi theo ai?" Ngài sẽ hỏi: "Tại sao con đi theo Ta mà không làm theo lời Ta? Tại sao con biết Ta qua người này người kia mà không chịu đến với lời Ta?"
 
-Đi theo Chúa không phải là đi theo một hội thánh, một mục sư, hay một linh mục. Đi theo Chúa là đi theo **lời của Chúa** — và để làm được điều đó, mỗi người phải tự mình tra cứu Kinh Thánh, nhận biết tiếng Chúa, và chịu trách nhiệm cho chính linh hồn mình. Kẻ mù dẫn kẻ mù thì cả hai cùng té xuống hố — không phải là cái cớ để đổ lỗi, mà là lời cảnh báo phải tỉnh thức từ trước.
+Đi theo Chúa không phải là đi theo một Hội Thánh, một mục sư, hay một linh mục. Đi theo Chúa là đi theo **lời của Chúa** — và để làm được điều đó, mỗi người phải tự mình tra cứu Kinh Thánh, nhận biết tiếng Chúa, và chịu trách nhiệm cho chính linh hồn mình. Kẻ mù dẫn kẻ mù thì cả hai cùng té xuống hố — không phải là cái cớ để đổ lỗi, mà là lời cảnh báo phải tỉnh thức từ trước.
 
 Mục sư cũng nhắc đến tấm lòng nhẫn nại của Chúa: Ngài đã kiên trì chờ đợi dân sự ra khỏi Babylon, giống như Ngài đã chờ 120 năm trong thời Nô-ê, hay còn cơ hội ăn năn trước khi Sô-đôm và Gô-mô-rơ bị thiêu hủy. Chúa không muốn một người nào hư mất — nhưng quyền lựa chọn là của mỗi người.
 

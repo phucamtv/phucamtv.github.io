@@ -42,7 +42,7 @@ Năm lý do này cũng chính là năm yếu tố khiến đời sống thuộc 
 
 Có người tin Chúa một cách **vội vàng** — vì áp lực gia đình, vì muốn kết hôn với người tin Chúa — nên làm báp-têm cho nhanh mà chưa có nền tảng đức tin thật sự.
 
-Có người đến với Chúa bằng **mục đích gian dối** — vì một lợi ích nào đó, muốn trở thành thuộc viên hội thánh với động cơ không ngay thẳng.
+Có người đến với Chúa bằng **mục đích gian dối** — vì một lợi ích nào đó, muốn trở thành thuộc viên Hội Thánh với động cơ không ngay thẳng.
 
 Có người tin Chúa một cách **chủ quan** — cha ông nội cả dòng họ đều tin Chúa, từ nhỏ đã thuộc mười điều răn, tưởng rằng như vậy là đủ. Ê-sai 5:21 cảnh cáo: "Khốn thay cho kẻ tự coi mình là khôn ngoan, tự xét đoán mình là thông sáng."
 

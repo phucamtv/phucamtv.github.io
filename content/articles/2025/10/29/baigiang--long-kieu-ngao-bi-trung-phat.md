@@ -2,7 +2,7 @@
 title: "Lòng Kiêu Ngạo Bị Trừng Phạt"
 date: 2025-10-29
 url: /baigiang/long-kieu-ngao-bi-trung-phat/
-description: "Bài giảng từ Công-vụ 12:20-25 và 13:1-12 về sự kiêu ngạo của vua Hê-rốt khi không nhường vinh hiển cho Đức Chúa Trời, cùng với bài học về sự hiệp nhất trong hội thánh và quyền năng Chúa qua chức vụ truyền giáo của Phao-lô và Ba-na-ba."
+description: "Bài giảng từ Công-vụ 12:20-25 và 13:1-12 về sự kiêu ngạo của vua Hê-rốt khi không nhường vinh hiển cho Đức Chúa Trời, cùng với bài học về sự hiệp nhất trong Hội Thánh và quyền năng Chúa qua chức vụ truyền giáo của Phao-lô và Ba-na-ba."
 tags: ["Kiêu Ngạo", "Công-vụ các Sứ-đồ", "Hê-rốt", "Trừng Phạt", "Vinh Hiển Đức Chúa Trời", "Truyền Giáo", "Phao-lô", "Ba-na-ba"]
 authors:
   - "duong-quang-thoai"
@@ -35,13 +35,13 @@ Bài học quan trọng dành cho mọi tín hữu, đặc biệt là những ng
 
 ## Đức Thánh Linh sai các môn đồ ra đi (Công-vụ 13:1-3)
 
-Chuyển sang phần thứ hai của bài giảng, Công-vụ đoạn 13 bắt đầu giai đoạn tin lành được giảng ra cho dân ngoại. Trong hội thánh tại An-ti-ốt có năm người tiên tri và giáo sư: Ba-na-ba, Si-mê-ôn, Lu-si-út, Ma-na-hem và Sau-lơ. Các nhà nghiên cứu Kinh Thánh phát hiện rằng năm người này có quê quán khác nhau, nền giáo dục khác nhau, hoàn toàn xa lạ với nhau, nhưng được Thánh Linh kết hợp lại để cùng làm một công việc truyền giảng.
+Chuyển sang phần thứ hai của bài giảng, Công-vụ đoạn 13 bắt đầu giai đoạn tin lành được giảng ra cho dân ngoại. Trong Hội Thánh tại An-ti-ốt có năm người tiên tri và giáo sư: Ba-na-ba, Si-mê-ôn, Lu-si-út, Ma-na-hem và Sau-lơ. Các nhà nghiên cứu Kinh Thánh phát hiện rằng năm người này có quê quán khác nhau, nền giáo dục khác nhau, hoàn toàn xa lạ với nhau, nhưng được Thánh Linh kết hợp lại để cùng làm một công việc truyền giảng.
 
-Hai bài học quan trọng từ phân đoạn này: Thứ nhất, mối liên hệ khắng khít với Chúa giúp các môn đồ nhận biết rõ ý muốn của Ngài qua sự cầu nguyện và thông công với Thánh Linh. Thứ hai, hội thánh ban đầu không tự ý làm những gì mình muốn mà luôn luôn làm những gì Chúa muốn họ làm -- đó chính là bí quyết để hội thánh được ơn.
+Hai bài học quan trọng từ phân đoạn này: Thứ nhất, mối liên hệ khắng khít với Chúa giúp các môn đồ nhận biết rõ ý muốn của Ngài qua sự cầu nguyện và thông công với Thánh Linh. Thứ hai, Hội Thánh ban đầu không tự ý làm những gì mình muốn mà luôn luôn làm những gì Chúa muốn họ làm -- đó chính là bí quyết để Hội Thánh được ơn.
 
-## Sự hiệp nhất trong hội thánh
+## Sự hiệp nhất trong Hội Thánh
 
-Hình ảnh năm con người từ những địa phương khác nhau, lớn lên với nền giáo dục khác nhau, nhưng được hiệp nhất bởi cùng một Thánh Linh để mang chung một sứ mạng, cho thấy sự hiệp nhất trong hội thánh là điều vô cùng quan trọng. Dù chúng ta khác nhau về văn hóa, học vấn, đẳng cấp xã hội, nhưng tất cả được kết hợp thành hội thánh của Đức Chúa Trời để rao truyền phúc âm.
+Hình ảnh năm con người từ những địa phương khác nhau, lớn lên với nền giáo dục khác nhau, nhưng được hiệp nhất bởi cùng một Thánh Linh để mang chung một sứ mạng, cho thấy sự hiệp nhất trong Hội Thánh là điều vô cùng quan trọng. Dù chúng ta khác nhau về văn hóa, học vấn, đẳng cấp xã hội, nhưng tất cả được kết hợp thành Hội Thánh của Đức Chúa Trời để rao truyền phúc âm.
 
 ## Phao-lô và Ba-na-ba tại đảo Chíp-rơ (Công-vụ 13:4-12)
 

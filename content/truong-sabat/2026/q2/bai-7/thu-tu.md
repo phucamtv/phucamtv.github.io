@@ -5,7 +5,7 @@ dayLabel: "Thứ Tư"
 weight: 5
 ---
 
-Giống như Đức Chúa Giê-su đã dạy chúng ta cách cầu nguyện, chúng ta cũng có thể làm theo một cấu trúc đơn giản này khi đến cùng Đức Chúa Trời trong sự cầu nguyện riêng tư, với gia đình, hoặc cùng hội thánh, nhớ rằng cầu nguyện chính là trò chuyện với Đức Chúa Trời như với một người bạn. Nhiều khi lời cầu nguyện của chúng ta chỉ đầy những sự nài xin, trong khi Đức Chúa Giê-su đã dạy chúng ta cầu nguyện cho nhiều điều hơn thế nữa!
+Giống như Đức Chúa Giê-su đã dạy chúng ta cách cầu nguyện, chúng ta cũng có thể làm theo một cấu trúc đơn giản này khi đến cùng Đức Chúa Trời trong sự cầu nguyện riêng tư, với gia đình, hoặc cùng Hội Thánh, nhớ rằng cầu nguyện chính là trò chuyện với Đức Chúa Trời như với một người bạn. Nhiều khi lời cầu nguyện của chúng ta chỉ đầy những sự nài xin, trong khi Đức Chúa Giê-su đã dạy chúng ta cầu nguyện cho nhiều điều hơn thế nữa!
 
 `Hãy đọc lời cầu nguyện của Đa-ni-ên trong Đa-ni-ên 9:4–19 và tìm xem những phần khác nhau trong lời cầu nguyện của ông. Hãy xem bạn có thể đưa những yếu tố sau vào lời cầu nguyện của mình:`
 

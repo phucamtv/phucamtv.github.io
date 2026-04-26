@@ -60,7 +60,7 @@ Phần thứ hai của đoạn Kinh Thánh nói đến việc các tín hữu *"
 
 Trước khi người ta bán nhà cửa, ruộng vườn để góp chung, trong Hội Thánh đã có những người thiếu thốn. Chính sự thiếu thốn của anh em đã thúc đẩy những người có của cải không thể ngồi yên. Một người có tình yêu thương thật sẽ không thể chịu đựng nổi khi thấy anh em thiếu thốn mà mình thì dư dật.
 
-Điều quan trọng cần nhấn mạnh: **không có một luật lệ nào quy định** rằng phải bán hết tài sản và góp chung. Đây không phải là chủ nghĩa cộng sản hay quy định của hội thánh. Đây là kết quả tự nhiên của tình yêu thương thật sự — tình yêu đặt ra những điều mà không luật pháp nào dám đặt ra, bởi vì nó xuất phát từ tấm lòng, không phải từ ép buộc.
+Điều quan trọng cần nhấn mạnh: **không có một luật lệ nào quy định** rằng phải bán hết tài sản và góp chung. Đây không phải là chủ nghĩa cộng sản hay quy định của Hội Thánh. Đây là kết quả tự nhiên của tình yêu thương thật sự — tình yêu đặt ra những điều mà không luật pháp nào dám đặt ra, bởi vì nó xuất phát từ tấm lòng, không phải từ ép buộc.
 
 ---
 
@@ -82,4 +82,4 @@ Bài học từ Công-vụ 4:23-37 nhắc nhở chúng ta về ba điều:
 
 3. **Tình yêu thương thật dẫn đến hành động thật** — Không dừng lại ở lòng trắc ẩn hay sự thương hại, nhưng hành động cụ thể để đáp ứng nhu cầu của anh em xung quanh.
 
-Hội Thánh ban đầu là hội thánh đầy ơn Chúa, tập trung rao giảng Tin Lành — vậy mà họ vẫn quan tâm đến đời sống thuộc thể của nhau. Đó là mô hình mà Chúa muốn Hội Thánh ngày nay noi theo.
+Hội Thánh ban đầu là Hội Thánh đầy ơn Chúa, tập trung rao giảng Tin Lành — vậy mà họ vẫn quan tâm đến đời sống thuộc thể của nhau. Đó là mô hình mà Chúa muốn Hội Thánh ngày nay noi theo.

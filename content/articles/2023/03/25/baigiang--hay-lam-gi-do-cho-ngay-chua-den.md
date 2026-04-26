@@ -34,7 +34,7 @@ Sự ích kỷ là một ngăn trở lớn. Chúng ta hay viện cớ bận rộ
 
 ## Ngày Chúa Tái Lâm Tùy Thuộc Vào Chúng Ta
 
-Ma-thi-ơ 24:14 chép rằng Tin Lành về nước Đức Chúa Trời sẽ được giảng ra khắp đất để làm chứng cho muôn dân, rồi sự cuối cùng sẽ đến. Điều này có nghĩa ngày Chúa tái lâm phụ thuộc vào nỗ lực rao truyền Phúc Âm của hội thánh. Khi nào cả thế giới đã nghe về Phúc Âm, khi đó Chúa mới trở lại.
+Ma-thi-ơ 24:14 chép rằng Tin Lành về nước Đức Chúa Trời sẽ được giảng ra khắp đất để làm chứng cho muôn dân, rồi sự cuối cùng sẽ đến. Điều này có nghĩa ngày Chúa tái lâm phụ thuộc vào nỗ lực rao truyền Phúc Âm của Hội Thánh. Khi nào cả thế giới đã nghe về Phúc Âm, khi đó Chúa mới trở lại.
 
 Sứ đồ Phao-lô đặt câu hỏi: nếu không ai nói, làm sao người ta nghe? Chưa nghe thì sao tin? Chưa tin thì sao cầu nguyện? Chưa cầu nguyện thì sao được cứu? Chuỗi logic đó đặt trách nhiệm trực tiếp lên vai mỗi tín hữu. Trong vòng bà con, hàng xóm, đồng nghiệp của chúng ta, còn bao nhiêu người chưa nghe Phúc Âm? Họ tin hay không là việc giữa họ với Thượng Đế — nhưng họ có cơ hội nghe hay không, đó là việc của chúng ta.
 

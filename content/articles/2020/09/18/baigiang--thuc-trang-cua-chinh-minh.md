@@ -27,7 +27,7 @@ Câu chuyện tưởng chừng đơn giản nhưng phản ánh một thực tr�
 
 Sách Khải Huyền đoạn 3 câu 17 ghi lại lời Chúa phán với Hội Thánh Lao-đi-xê: *"Vả, ngươi nói: Ta giàu, ta nên giàu có rồi, không cần chi nữa; song ngươi không biết rằng mình khổ sở, khốn khó, nghèo ngặt, đui mù và lõa lồ."*
 
-Đây là một bức tranh đáng lo ngại về tình trạng của một hội thánh trong thời kỳ cuối cùng. Họ tự đánh giá mình là giàu có, đầy đủ, không thiếu thốn gì. Nhưng trong mắt Chúa, họ lại ở trong tình trạng hoàn toàn trái ngược: khổ sở, khốn khó, nghèo ngặt, đui mù và lõa lồ. Khoảng cách giữa sự tự nhận thức và thực tế thuộc linh thật sự quá lớn.
+Đây là một bức tranh đáng lo ngại về tình trạng của một Hội Thánh trong thời kỳ cuối cùng. Họ tự đánh giá mình là giàu có, đầy đủ, không thiếu thốn gì. Nhưng trong mắt Chúa, họ lại ở trong tình trạng hoàn toàn trái ngược: khổ sở, khốn khó, nghèo ngặt, đui mù và lõa lồ. Khoảng cách giữa sự tự nhận thức và thực tế thuộc linh thật sự quá lớn.
 
 Lạc mà không biết mình lạc. Dại mà cứ tưởng mình khôn. Rách rưới và mù lòa mà cho rằng mình giàu có và tinh anh. Đó chính là thực trạng đáng báo động nhất – không phải vì tội lỗi quá nặng nề, mà vì sự mù quáng về chính tình trạng của mình.
 

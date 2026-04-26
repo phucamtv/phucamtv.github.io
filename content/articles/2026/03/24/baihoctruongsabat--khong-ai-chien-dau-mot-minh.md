@@ -18,7 +18,7 @@ Có lẽ đây là bài học sâu sắc nhất mà Cô-lô-se chương 4 dạy 
 
 ![Không Ai Chiến Đấu Một Mình](/images/khong-ai-chien-dau-mot-minh.webp)
 
-Phao-lô đang ở trong tù. Ông không thể đi đâu, không thể đứng trước đám đông giảng dạy, không thể đặt chân lên con đường truyền giáo quen thuộc. Nhưng từ trong xiềng xích, ông vẫn kết nối, vẫn gửi người đi, vẫn viết thư, vẫn cầu nguyện. Ông hiểu rằng giới hạn của mình không phải là giới hạn của Đức Chúa Trời. Ty-chi-cơ sẽ là đôi chân của ông. Ô-nê-sim sẽ là bằng chứng sống của phúc âm biến đổi. Ê-pháp-ra sẽ quỳ gối cầu thay cho những hội thánh mà Phao-lô chưa bao giờ đặt chân đến.
+Phao-lô đang ở trong tù. Ông không thể đi đâu, không thể đứng trước đám đông giảng dạy, không thể đặt chân lên con đường truyền giáo quen thuộc. Nhưng từ trong xiềng xích, ông vẫn kết nối, vẫn gửi người đi, vẫn viết thư, vẫn cầu nguyện. Ông hiểu rằng giới hạn của mình không phải là giới hạn của Đức Chúa Trời. Ty-chi-cơ sẽ là đôi chân của ông. Ô-nê-sim sẽ là bằng chứng sống của phúc âm biến đổi. Ê-pháp-ra sẽ quỳ gối cầu thay cho những Hội Thánh mà Phao-lô chưa bao giờ đặt chân đến.
 
 Điều đáng suy ngẫm là danh sách của Phao-lô bao gồm cả người Do Thái lẫn người Ngoại bang, cả người tự do lẫn người từng là nô lệ. A-ri-tạc — người bạn tù kiên trung. Mác — người trẻ từng bỏ cuộc giữa chừng nhưng được cho cơ hội thứ hai và giờ đây là nguồn an ủi cho Phao-lô. Ô-nê-sim — từ thân phận nô lệ trốn chạy trở thành "anh em yêu dấu" trong Đấng Christ. Phúc âm không chỉ cứu linh hồn — phúc âm phá vỡ mọi bức tường ngăn cách giữa con người với nhau.
 

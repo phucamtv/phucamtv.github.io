@@ -29,7 +29,7 @@ Nhưng sau khi Môi-se và Giô-suê qua đời, dân Israel đã phá bỏ hàn
 
 ## Sai lầm thứ hai: đứng quá xa
 
-Khi Sa-tan tiếp cận Ê-va, A-đam ở đâu? Ê-va đã rời xa chồng mình để đứng ngắm nhìn cây biết điều thiện điều ác. Chính khoảng cách ấy tạo cơ hội cho ma quỷ cám dỗ. Khi chúng ta đứng quá xa Chúa, quá xa hội thánh, quá xa lời Chúa và sự cầu nguyện, chúng ta trở thành mồi ngon cho kẻ thù.
+Khi Sa-tan tiếp cận Ê-va, A-đam ở đâu? Ê-va đã rời xa chồng mình để đứng ngắm nhìn cây biết điều thiện điều ác. Chính khoảng cách ấy tạo cơ hội cho ma quỷ cám dỗ. Khi chúng ta đứng quá xa Chúa, quá xa Hội Thánh, quá xa lời Chúa và sự cầu nguyện, chúng ta trở thành mồi ngon cho kẻ thù.
 
 Giống như con chiên non rời khỏi bầy, tưởng rằng mình tìm được tự do, nhưng đó chính là lúc sói rình rập. Nhiều người nghĩ rằng nghỉ đi nhà thờ vài tháng không sao, nhưng rồi một dự án mới lại kéo đến và khoảng cách với Chúa ngày càng xa hơn. Phục Truyền 13:10 cảnh cáo rằng kẻ nào làm cho dân sự Chúa xa cách Chúa thì phải bị xử phạt nặng nề.
 

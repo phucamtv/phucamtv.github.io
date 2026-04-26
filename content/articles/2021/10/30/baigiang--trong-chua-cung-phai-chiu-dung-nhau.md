@@ -29,7 +29,7 @@ Và điều răn này còn mang một ý nghĩa chứng đạo không thể thay
 
 Rô-ma 12:10 dạy: *"Hãy lấy lòng yêu thương mềm mại mà yêu nhau như anh em; hãy lấy lẽ kính nhường nhau."* Câu hỏi đặt ra: làm thế nào để kính nhường một người không xứng đáng để được kính?
 
-Kinh Thánh thừa nhận rằng không phải mọi người lãnh đạo hội thánh đều hoàn hảo. II Sử-ký 10 ghi lại sự kiêu ngạo của Rô-bô-am – người nghe lời đám bạn trẻ hơn là cố vấn lão thành, dẫn đến sự phân rã vương quốc. Đó là hậu quả của những người chăn coi quyền lợi bản thân hơn đoàn chiên.
+Kinh Thánh thừa nhận rằng không phải mọi người lãnh đạo Hội Thánh đều hoàn hảo. II Sử-ký 10 ghi lại sự kiêu ngạo của Rô-bô-am – người nghe lời đám bạn trẻ hơn là cố vấn lão thành, dẫn đến sự phân rã vương quốc. Đó là hậu quả của những người chăn coi quyền lợi bản thân hơn đoàn chiên.
 
 Tuy nhiên, Hê-bơ-rơ 13:17 vẫn kêu gọi: *"Hãy vâng lời kẻ dắt dẫn anh em và chịu phục các người ấy, bởi các người ấy tỉnh thức về linh hồn anh em... hầu cho các người ấy lấy lòng vui mừng mà làm xong chức vụ mình."* I Ti-mô-thê 4:12, 16 nhắc người chăn phải làm gương qua lời nói, nết làm, sự yêu thương và đức tin. Khi người chăn sống đúng với cương vị mình, tín đồ có nền tảng để kính phục và chịu đựng.
 
@@ -45,9 +45,9 @@ Dân-số ký 20 ghi lại cảnh dân Israel dấy loạn vì không có nướ
 
 Ê-phê-sô 4:1-3 ghi: *"Phải khiêm nhường đến điều, mềm mại đến điều, phải nhịn nhục, lấy lòng thương yêu mà chìu nhau, dùng dây hòa bình mà giữ gìn sự hiệp một của Thánh Linh."*
 
-Hội thánh là nơi quy tụ những con người đến từ những gia đình khác nhau, nền giáo dục khác nhau, xã hội khác nhau và quan điểm khác nhau. Mỗi cá tính khi bộc lộ ra đều có thể tạo nên ma sát. I Cô-rinh-tô 11:17-22 ghi lại cảnh hội thánh Cô-rinh-tô nhóm lại mà sinh ra phân rẽ, chia bè đảng – đến mức Phao-lô nói thẳng: *"Khi anh em nhóm nhau lại một chỗ, ấy chẳng còn phải là Tiệc thánh của Chúa mà anh em ăn."*
+Hội Thánh là nơi quy tụ những con người đến từ những gia đình khác nhau, nền giáo dục khác nhau, xã hội khác nhau và quan điểm khác nhau. Mỗi cá tính khi bộc lộ ra đều có thể tạo nên ma sát. I Cô-rinh-tô 11:17-22 ghi lại cảnh Hội Thánh Cô-rinh-tô nhóm lại mà sinh ra phân rẽ, chia bè đảng – đến mức Phao-lô nói thẳng: *"Khi anh em nhóm nhau lại một chỗ, ấy chẳng còn phải là Tiệc thánh của Chúa mà anh em ăn."*
 
-Ma quỉ phá hội thánh bằng cách tạo bất hòa. Khi chúng ta không chịu đựng nhau, không nhường nhịn nhau, chúng ta đang tự tay xé nát thân thể của Đấng Christ.
+Ma quỉ phá Hội Thánh bằng cách tạo bất hòa. Khi chúng ta không chịu đựng nhau, không nhường nhịn nhau, chúng ta đang tự tay xé nát thân thể của Đấng Christ.
 
 ## Kết Luận
 

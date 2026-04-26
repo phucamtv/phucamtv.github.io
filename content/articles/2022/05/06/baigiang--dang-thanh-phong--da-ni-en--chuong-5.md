@@ -46,7 +46,7 @@ Luca 18:18-23 kể về một người trẻ tuổi giàu có, làm quan, giữ 
 
 Người trẻ tuổi ấy nghe xong thì buồn rầu bỏ đi. Không phải ông thiếu sự hiểu biết, thiếu đạo đức, hay thiếu lòng tốt — ông thiếu điều quan trọng nhất: đặt Đức Chúa Giê-su lên ngai của lòng mình. Của cải đang ngồi trên ngai ấy. Ông không dám bỏ điều đó. Mục sư Đặng Thanh Phong nhận xét: điều đang làm chủ cuộc đời của một người — đó mới là chủ thật sự của người ấy.
 
-Cảnh báo này dành đặc biệt cho những người đã tin Chúa. Có thể giữ nhiều điều răn, hiểu nhiều lời Kinh Thánh, tham gia nhiều sinh hoạt hội thánh — nhưng trong lòng vẫn đang đặt một điều khác lên trên Chúa. Chúa nhìn thấy điều đó. Và Ngài sẽ chỉ ra: "Con còn thiếu một điều."
+Cảnh báo này dành đặc biệt cho những người đã tin Chúa. Có thể giữ nhiều điều răn, hiểu nhiều lời Kinh Thánh, tham gia nhiều sinh hoạt Hội Thánh — nhưng trong lòng vẫn đang đặt một điều khác lên trên Chúa. Chúa nhìn thấy điều đó. Và Ngài sẽ chỉ ra: "Con còn thiếu một điều."
 
 ---
 

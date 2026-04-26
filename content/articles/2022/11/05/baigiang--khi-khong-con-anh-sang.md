@@ -32,7 +32,7 @@ Ba câu chuyện này cho thấy rằng khi động lực phục vụ Chúa bị
 
 ## Khi Lòng Tự Phụ Che Khuất Ánh Sáng
 
-Khải Huyền 3:17-20 mô tả hội thánh Lao-đi-xê với thái độ tự mãn đáng sợ: "Ta giàu, ta nên giàu có rồi, không cần chi nữa." Nhưng Chúa vạch trần thực trạng của họ qua năm điều: khổ sở, khốn khó, nghèo ngặt, đui mù và lõa lồ. Họ tưởng mình đầy đủ nhưng thực ra trống rỗng. Họ nghĩ mình giàu có nhưng lại nghèo đến cùng cực.
+Khải Huyền 3:17-20 mô tả Hội Thánh Lao-đi-xê với thái độ tự mãn đáng sợ: "Ta giàu, ta nên giàu có rồi, không cần chi nữa." Nhưng Chúa vạch trần thực trạng của họ qua năm điều: khổ sở, khốn khó, nghèo ngặt, đui mù và lõa lồ. Họ tưởng mình đầy đủ nhưng thực ra trống rỗng. Họ nghĩ mình giàu có nhưng lại nghèo đến cùng cực.
 
 Điều đặc biệt trong cách Chúa xử lý là Ngài không ép buộc. Ngài khuyên — "Ta khuyên ngươi hãy mua vàng thử lửa, hãy mua áo trắng, hãy mua thuốc xức mắt." Lời khuyên chỉ có hiệu lực khi bản thân người nghe ý thức được tình trạng thật sự của mình. Giống như người đui mù đi lõa lồ ngoài đường — người khác thấy nhưng chính người ấy không thấy, nên không biết xấu hổ. Chỉ khi mắt được mở ra, người ấy mới nhận ra mình cần che thân.
 

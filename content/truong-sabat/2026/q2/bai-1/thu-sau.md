@@ -17,12 +17,12 @@ Cứ ở trong Đấng Christ nghĩa là liên tục nhận lãnh Thánh Linh c�
 
 **Câu hỏi thảo luận:**
 
-`Nhìn lại cuộc đời của bạn. Bạn có nhận ra sự kiện nào trong cuộc đời khiến bạn rơi vào tình trạng tâm linh như hội thánh Lao-đi-xê? Những biến cố nào đã kéo bạn đến gần Đức Chúa Trời hơn?`
+`Nhìn lại cuộc đời của bạn. Bạn có nhận ra sự kiện nào trong cuộc đời khiến bạn rơi vào tình trạng tâm linh như Hội Thánh Lao-đi-xê? Những biến cố nào đã kéo bạn đến gần Đức Chúa Trời hơn?`
 
 `Ellen G. White nói về việc "liên tục nhận lãnh Đức Thánh Linh của Ngài". Bạn có thường cầu nguyện cho việc nhận lãnh Thánh Linh không? Điều gì có thể thay đổi nếu bạn nhận lãnh Thánh Linh mỗi ngày?`
 
-`Điều gì sẽ thay đối nếu chúng ta, như là một hội thánh, cầu nguyện tha thiết hơn và thường xuyên hơn để được nhận lãnh Thánh Linh?`
+`Điều gì sẽ thay đối nếu chúng ta, như là một Hội Thánh, cầu nguyện tha thiết hơn và thường xuyên hơn để được nhận lãnh Thánh Linh?`
 
 `Hãy hết sức thành thực, thậm chí có thể khiến bạn đau lòng, khi nhìn lại mối quan hệ của chính bạn với Đức Chúa Trời. Bạn cần đưa ra những quyết định có ý thức nào để được gần gũi với Ngài, điều mà Ngài mong muốn nhưng bạn lại đang ngăn trở?`
 
-**Tóm lược:** Trước khi chúng ta có thể bắt đầu phát triển mối quan hệ với Đức Chúa Trời, thì điều đầu tiên chúng ta phải làm là: dừng lại, xem xét mối quan hệ hiện tại của mình với Ngài như thế nào. Nếu đó là tình trạng giống như hội thánh Lao-đi-xê, hoặc nếu các nhánh của chúng ta không sinh sôi tươi tốt, thì Đức Chúa Giê-su là giải pháp hoàn hảo cho tình trạng tâm linh của chúng ta: hãy cứ ở trong Ngài.
+**Tóm lược:** Trước khi chúng ta có thể bắt đầu phát triển mối quan hệ với Đức Chúa Trời, thì điều đầu tiên chúng ta phải làm là: dừng lại, xem xét mối quan hệ hiện tại của mình với Ngài như thế nào. Nếu đó là tình trạng giống như Hội Thánh Lao-đi-xê, hoặc nếu các nhánh của chúng ta không sinh sôi tươi tốt, thì Đức Chúa Giê-su là giải pháp hoàn hảo cho tình trạng tâm linh của chúng ta: hãy cứ ở trong Ngài.

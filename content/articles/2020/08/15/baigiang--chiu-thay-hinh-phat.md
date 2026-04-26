@@ -44,4 +44,4 @@ Nếu Chúa đã đối xử với chúng ta bằng tình yêu thương hy sinh 
 
 Sự thay đổi thực sự không đến từ sự sợ hãi trước hình phạt, mà đến từ sự cảm nhận được tình yêu thương chân thật. Jastun thay đổi không phải vì sợ roi vọt, mà vì lần đầu tiên nó thấy có người sẵn sàng chịu đau vì mình. Cũng vậy, khi chúng ta thật sự nhận ra Đức Chúa Giê-su đã chịu thay hình phạt cho mình trên thập tự giá, đời sống chúng ta sẽ được biến đổi từ bên trong.
 
-Hãy để tình yêu thương của Chúa trở thành động lực cho mọi mối quan hệ trong cuộc sống — trong gia đình, trong hội thánh và ngoài xã hội. Khi chúng ta sống với tinh thần hy sinh và tha thứ, chúng ta đang phản chiếu hình ảnh của Đấng đã chịu thay hình phạt cho cả nhân loại.
+Hãy để tình yêu thương của Chúa trở thành động lực cho mọi mối quan hệ trong cuộc sống — trong gia đình, trong Hội Thánh và ngoài xã hội. Khi chúng ta sống với tinh thần hy sinh và tha thứ, chúng ta đang phản chiếu hình ảnh của Đấng đã chịu thay hình phạt cho cả nhân loại.

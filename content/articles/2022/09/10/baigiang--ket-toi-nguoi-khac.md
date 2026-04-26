@@ -14,7 +14,7 @@ draft: false
 
 ## Đặt Vấn Đề: Kết Tội — Một Thói Quen Nguy Hiểm
 
-Trong đời sống Cơ-đốc, có một hiện tượng thường xảy ra giữa gia đình, hội thánh, và giữa các hệ phái với nhau: đó là sự kết tội. Đôi khi chúng ta dùng chính giáo lý Kinh Thánh để lên án những niềm tin khác, những hệ phái khác, thậm chí tuyên bố ai được cứu, ai không. Nhưng sự cứu rỗi là sự cứu rỗi cá nhân — đức tin của cha không cứu được con, đức tin của chồng không cứu được vợ. Giữa mỗi người và Đức Chúa Trời không có bóng dáng của hệ phái hay giáo phái nào.
+Trong đời sống Cơ-đốc, có một hiện tượng thường xảy ra giữa gia đình, Hội Thánh, và giữa các hệ phái với nhau: đó là sự kết tội. Đôi khi chúng ta dùng chính giáo lý Kinh Thánh để lên án những niềm tin khác, những hệ phái khác, thậm chí tuyên bố ai được cứu, ai không. Nhưng sự cứu rỗi là sự cứu rỗi cá nhân — đức tin của cha không cứu được con, đức tin của chồng không cứu được vợ. Giữa mỗi người và Đức Chúa Trời không có bóng dáng của hệ phái hay giáo phái nào.
 
 Bài giảng chia sẻ năm điểm quan trọng từ Kinh Thánh về vấn đề kết tội người khác.
 
@@ -28,7 +28,7 @@ Việc trình bày quan điểm giáo lý là quyền của mỗi người, như
 
 Câu chuyện Na-a-man trong II Vua 5:18-19 cho thấy một chân lý sâu sắc. Sau khi được chữa lành bệnh phung, Na-a-man thưa với Ê-li-sê rằng vì nhiệm vụ hầu cận vua Sy-ri, ông phải quỳ gối trong đền thờ thần Rim-môn, dù lòng ông chỉ thờ phượng một mình Đức Chúa Trời. Ê-li-sê đáp: "Hãy đi bình yên" — ngầm chấp nhận, vì chỉ Chúa biết tấm lòng thực sự của Na-a-man.
 
-Có một câu chuyện minh họa thấm thía: một chấp sự hội thánh bị nhìn thấy để gói thuốc lá trong túi áo, khiến người khác khinh dể. Nhưng sự thật là ông mua thuốc cho anh vợ nghiện thuốc. Nếu sự thật không lộ ra, mãi mãi người ta sẽ đánh giá sai ông. Một câu chuyện khác: nhìn từ xa thấy người nông dân ngồi gặt lúa tưởng lười biếng, lại gần mới biết anh bị cụt hai chân — ngồi trên ghế, dời ghế đi cắt lúa. Bề ngoài nhìn xa khác, lại gần khác, mà trong lòng người thì làm sao ta thấy được?
+Có một câu chuyện minh họa thấm thía: một chấp sự Hội Thánh bị nhìn thấy để gói thuốc lá trong túi áo, khiến người khác khinh dể. Nhưng sự thật là ông mua thuốc cho anh vợ nghiện thuốc. Nếu sự thật không lộ ra, mãi mãi người ta sẽ đánh giá sai ông. Một câu chuyện khác: nhìn từ xa thấy người nông dân ngồi gặt lúa tưởng lười biếng, lại gần mới biết anh bị cụt hai chân — ngồi trên ghế, dời ghế đi cắt lúa. Bề ngoài nhìn xa khác, lại gần khác, mà trong lòng người thì làm sao ta thấy được?
 
 ## 3. Chúa Nhân Từ Nhưng Không Kể Kẻ Có Tội Là Vô Tội
 
@@ -48,4 +48,4 @@ I Cô-rinh-tô 4:5 dặn: "Chớ xét đoán sớm quá, hãy đợi Chúa đế
 
 Gia-cơ 4:12 khẳng định: "Chỉ có một Đấng lập ra luật pháp và một Đấng xét đoán... Nhưng ngươi là ai, mà dám xét đoán kẻ lân cận mình?" Chúa lập luật, Chúa xét đoán, Chúa cứu được và diệt được. Chúng ta không có bất kỳ thẩm quyền nào để kết tội ai.
 
-Giăng 10:16 mở rộng tầm nhìn: "Ta còn có chiên khác chẳng thuộc về chuồng nầy; ta cũng phải dẫn nó về nữa." Hội thánh của Chúa là hội thánh vô hình, rộng lớn hơn bất kỳ hệ phái nào. Thay vì diệt trừ nhau, kết tội nhau, hãy lo phần thuộc linh của chính mình, khích lệ nhau giữ đức tin, và để quyền phán xét thuộc về Đấng duy nhất có thẩm quyền ấy.
+Giăng 10:16 mở rộng tầm nhìn: "Ta còn có chiên khác chẳng thuộc về chuồng nầy; ta cũng phải dẫn nó về nữa." Hội Thánh của Chúa là Hội Thánh vô hình, rộng lớn hơn bất kỳ hệ phái nào. Thay vì diệt trừ nhau, kết tội nhau, hãy lo phần thuộc linh của chính mình, khích lệ nhau giữ đức tin, và để quyền phán xét thuộc về Đấng duy nhất có thẩm quyền ấy.

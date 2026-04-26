@@ -28,11 +28,11 @@ Hình ảnh cây vả mà Đức Chúa Giê-su đi ngang qua minh họa rõ ràn
 
 Phao-lô khuyên dạy rằng chớ dự vào công việc vô ích của sự tối tăm, thà quở trách chúng nó thì hơn. Khi thấy điều xấu mà im lặng, đứng giữa một cách vô cảm, bàng quan — đó là thái độ vô trách nhiệm. Kinh Thánh dạy rằng nếu thấy việc xấu mà làm thinh thì không được, phải lên tiếng.
 
-Đức Chúa Giê-su cũng dạy cách xử lý khi biết anh em mình sai phạm: trước hết một mình đến khuyên nhủ, nếu không nghe thì rủ thêm vài người, rồi mới đến hội thánh. Qua ba lần mà không được thì mới dùng kỷ luật. Đó là cách ánh sáng phơi bày và thanh tẩy những điều xấu xa. Khi điều ác được đưa ra ánh sáng, bản thân nó trở thành một tấm gương, một bài học cho người khác.
+Đức Chúa Giê-su cũng dạy cách xử lý khi biết anh em mình sai phạm: trước hết một mình đến khuyên nhủ, nếu không nghe thì rủ thêm vài người, rồi mới đến Hội Thánh. Qua ba lần mà không được thì mới dùng kỷ luật. Đó là cách ánh sáng phơi bày và thanh tẩy những điều xấu xa. Khi điều ác được đưa ra ánh sáng, bản thân nó trở thành một tấm gương, một bài học cho người khác.
 
 ## Đừng sợ quá khứ
 
-Quá khứ của chúng ta có thể không tốt đẹp, thậm chí xấu xa, nhưng nó là quá khứ. Chúa đã chữa lành quá khứ và đem chúng ta đến ngày hôm nay. Giô-na đã trốn chạy chức vụ, Phao-lô từng bách hại hội thánh, Phi-e-rơ đã chối Chúa ba lần. Nếu cứ mang mặc cảm tự ti về quá khứ, chúng ta sẽ không ngóc đầu lên nổi. Khi chấp nhận quá khứ tối tăm, nhưng biết rằng ánh sáng đã chữa lành và tái tạo, chúng ta có thể tiếp tục làm sáng danh Chúa.
+Quá khứ của chúng ta có thể không tốt đẹp, thậm chí xấu xa, nhưng nó là quá khứ. Chúa đã chữa lành quá khứ và đem chúng ta đến ngày hôm nay. Giô-na đã trốn chạy chức vụ, Phao-lô từng bách hại Hội Thánh, Phi-e-rơ đã chối Chúa ba lần. Nếu cứ mang mặc cảm tự ti về quá khứ, chúng ta sẽ không ngóc đầu lên nổi. Khi chấp nhận quá khứ tối tăm, nhưng biết rằng ánh sáng đã chữa lành và tái tạo, chúng ta có thể tiếp tục làm sáng danh Chúa.
 
 ## Khôn ngoan và dại dột
 

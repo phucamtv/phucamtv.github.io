@@ -14,7 +14,7 @@ draft: false
 
 ## Chủ Đề Của Tuần Lễ Cầu Nguyện Cuối Năm 2025
 
-Đây là bài giảng bồi linh mở đầu cho tuần lễ cầu nguyện cuối năm 2025, với chủ đề xuyên suốt: *"Tôi sẽ đi và rao truyền sự tái lâm của Đấng Cơ-đốc."* Mục sư Dương Quang Thoại mở ra sứ điệp với lời cầu nguyện xin Chúa giúp hội thánh quay lại với Kinh Thánh — để lòng được đốt nóng trở lại, và tấm lòng được chuẩn bị cho ngày Đức Chúa Giê-su trở lại.
+Đây là bài giảng bồi linh mở đầu cho tuần lễ cầu nguyện cuối năm 2025, với chủ đề xuyên suốt: *"Tôi sẽ đi và rao truyền sự tái lâm của Đấng Cơ-đốc."* Mục sư Dương Quang Thoại mở ra sứ điệp với lời cầu nguyện xin Chúa giúp Hội Thánh quay lại với Kinh Thánh — để lòng được đốt nóng trở lại, và tấm lòng được chuẩn bị cho ngày Đức Chúa Giê-su trở lại.
 
 ---
 

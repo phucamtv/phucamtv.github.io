@@ -20,7 +20,7 @@ Mục sư Dương Quang Thoại dùng hình ảnh rất gần gũi để minh h�
 
 ## Nhiều Cơ-Đốc Nhân Không Trưởng Thành Như Chúa Mong Muốn
 
-Sứ đồ Phao-lô trong I Cô-rinh-tô 3:1-2 đã viết cho hội thánh Cô-rinh-tô bằng những lời rất mạnh mẽ: ông không thể nói với họ như những người thiêng liêng mà phải nói như với người xác thịt, như với các con đỏ trong Đấng Christ. Ông phải dùng sữa nuôi họ chứ không thể cho đồ ăn cứng vì họ không chịu nổi.
+Sứ đồ Phao-lô trong I Cô-rinh-tô 3:1-2 đã viết cho Hội Thánh Cô-rinh-tô bằng những lời rất mạnh mẽ: ông không thể nói với họ như những người thiêng liêng mà phải nói như với người xác thịt, như với các con đỏ trong Đấng Christ. Ông phải dùng sữa nuôi họ chứ không thể cho đồ ăn cứng vì họ không chịu nổi.
 
 Hê-bơ-rơ 5:12, 14 cũng cảnh cáo rằng có những tín hữu đáng lẽ đã phải ăn đồ ăn đặc nhưng vẫn cần ăn sữa. Đồ ăn đặc dành cho kẻ thành nhân — những người biết dùng tâm tư luyện tập mà phân biệt điều lành và điều dữ. Mục sư minh họa bằng hình ảnh dễ hiểu: một đứa bé sinh ra thì bú sữa, rồi ăn cháo, rồi mới ăn cơm và những đồ ăn cứng hơn. Nhưng nếu năm bảy tuổi mà vẫn chỉ uống sữa thì chắc chắn sẽ suy dinh dưỡng. Đời sống thuộc linh cũng vậy — không thể mãi ở giai đoạn sơ sinh.
 

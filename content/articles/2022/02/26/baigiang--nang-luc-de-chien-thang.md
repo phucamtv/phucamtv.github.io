@@ -14,7 +14,7 @@ draft: false
 
 ## Đôi Tay Làm Nên Chiến Thắng
 
-Mục sư Dương Quang Thoại mở đầu bài giảng với một hình ảnh thú vị từ thế giới thể thao: những vận động viên nổi tiếng đã mua bảo hiểm cho các bộ phận cơ thể là "vũ khí" giúp họ chiến thắng. Lionel Messi bảo hiểm đôi chân với giá 750 triệu Euro, Cristiano Ronaldo bảo hiểm đôi chân với 103 triệu Euro, còn game thủ số một thế giới Faker bảo hiểm bàn tay phải với 800.000 đô la. Từ đó, mục sư dẫn dắt hội thánh đến với một câu chuyện về đôi tay làm nên chiến thắng kỳ diệu hơn nhiều — đôi tay của Môi-se trong trận chiến tại Rê-phi-đim (Xuất Ê-díp-tô ký 17:8–16).
+Mục sư Dương Quang Thoại mở đầu bài giảng với một hình ảnh thú vị từ thế giới thể thao: những vận động viên nổi tiếng đã mua bảo hiểm cho các bộ phận cơ thể là "vũ khí" giúp họ chiến thắng. Lionel Messi bảo hiểm đôi chân với giá 750 triệu Euro, Cristiano Ronaldo bảo hiểm đôi chân với 103 triệu Euro, còn game thủ số một thế giới Faker bảo hiểm bàn tay phải với 800.000 đô la. Từ đó, mục sư dẫn dắt Hội Thánh đến với một câu chuyện về đôi tay làm nên chiến thắng kỳ diệu hơn nhiều — đôi tay của Môi-se trong trận chiến tại Rê-phi-đim (Xuất Ê-díp-tô ký 17:8–16).
 
 ## Chiến Thắng Đến Bởi Điều Siêu Nhiên
 
@@ -22,7 +22,7 @@ Trong trận chiến giữa Y-sơ-ra-ên và A-ma-léc, Đức Chúa Trời khô
 
 Mục sư nhấn mạnh rằng chiến thắng của dân sự Chúa không chỉ đến từ sự chiến đấu của quân đội dưới đất, mà đến từ đôi tay biết tiếp nhận quyền lực từ nơi Đức Chúa Trời. Đây là bài học sâu sắc: sự kết hợp giữa nỗ lực của con người và sự nương cậy vào quyền năng của Đức Chúa Trời mới tạo nên chiến thắng trọn vẹn.
 
-Câu chuyện này cũng dạy về tầm quan trọng của tổ chức và kỷ luật trong hội thánh. Dù Đức Chúa Trời chiến đấu, Ngài vẫn đòi hỏi phải có những tráng sĩ được rèn luyện, phải có Giô-suê là tướng chỉ huy. Hội thánh của Đức Chúa Trời là hội thánh có trật tự — cần có thứ bậc, có người lãnh đạo, có khuôn khổ và quy định.
+Câu chuyện này cũng dạy về tầm quan trọng của tổ chức và kỷ luật trong Hội Thánh. Dù Đức Chúa Trời chiến đấu, Ngài vẫn đòi hỏi phải có những tráng sĩ được rèn luyện, phải có Giô-suê là tướng chỉ huy. Hội Thánh của Đức Chúa Trời là Hội Thánh có trật tự — cần có thứ bậc, có người lãnh đạo, có khuôn khổ và quy định.
 
 ## Sức Mạnh Đến Từ Đôi Cánh Tay Biết Giơ Lên
 
@@ -38,7 +38,7 @@ Bài học quan trọng: khi chúng ta quên đi nguồn gốc của sức mạn
 
 ## Ngày Nào Còn Giơ Tay Lên, Ngày Đó Còn Nhận Sức Mạnh
 
-Mục sư khích lệ hội thánh với sự thật rằng chính trong lúc yếu đuối nhất, sức mạnh của Đức Chúa Trời lại được bày tỏ trọn vẹn. **II Cô-rinh-tô 12:9–10**: "Ân điển ta đủ cho ngươi rồi, vì sức mạnh của ta nên trọn vẹn trong sự yếu đuối... vì khi tôi yếu đuối, ấy là lúc tôi mạnh mẽ."
+Mục sư khích lệ Hội Thánh với sự thật rằng chính trong lúc yếu đuối nhất, sức mạnh của Đức Chúa Trời lại được bày tỏ trọn vẹn. **II Cô-rinh-tô 12:9–10**: "Ân điển ta đủ cho ngươi rồi, vì sức mạnh của ta nên trọn vẹn trong sự yếu đuối... vì khi tôi yếu đuối, ấy là lúc tôi mạnh mẽ."
 
 Ngài cũng đề cập đến sứ đồ Phao-lô trong **II Cô-rinh-tô 10:4**: "Những khí giới mà chúng tôi dùng để chiến tranh là không phải thuộc về xác thịt đâu, bèn là bởi quyền năng của Đức Chúa Trời." Tiên tri Ê-li, tuy là con người yếu đuối như chúng ta, đã cầu nguyện và Đức Chúa Trời đáp lời — ba năm rưỡi không có mưa (Gia-cơ 5:17).
 
@@ -58,4 +58,4 @@ Bài giảng "Năng Lực Để Chiến Thắng" của Mục sư Dương Quang T
 2. **Sức mạnh đến từ đôi cánh tay biết giơ lên** — liên tục nương cậy Chúa, không quên nguồn gốc của mọi ơn phước.
 3. **Ngày nào còn giơ tay lên, ngày đó còn nhận sức mạnh** — sự kiên trì trong đức tin, kể cả khi mệt mỏi, sẽ đem lại chiến thắng.
 
-Hội thánh được nhắc nhở: chúng ta đang ở trong một cuộc chiến thuộc linh thực sự, cần sự hỗ trợ lẫn nhau như A-rôn và Hu-rơ nâng tay Môi-se, và cần một sự kết hợp hài hòa giữa nỗ lực con người và sự nương cậy vào Đức Thánh Linh.
+Hội Thánh được nhắc nhở: chúng ta đang ở trong một cuộc chiến thuộc linh thực sự, cần sự hỗ trợ lẫn nhau như A-rôn và Hu-rơ nâng tay Môi-se, và cần một sự kết hợp hài hòa giữa nỗ lực con người và sự nương cậy vào Đức Thánh Linh.

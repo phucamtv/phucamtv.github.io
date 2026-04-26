@@ -45,14 +45,14 @@ Khải Huyền 5:5 giới thiệu Chiên Con là "sư tử của chi phái Giu-�
 
 Đức Chúa Giê-su tự xưng mình là Đấng Trước Hết và Đấng Sau Cùng. Ngài đã chết nhưng nay sống đời đời. Cái ý "Đấng Trước Hết" trùng khớp hoàn toàn với "trước đã có" trong Khải Huyền 4:8.
 
-## Đức Chúa Giê-su bày tỏ Ngài là Đấng Hằng Hữu cho từng hội thánh
+## Đức Chúa Giê-su bày tỏ Ngài là Đấng Hằng Hữu cho từng Hội Thánh
 
-Trong Khải Huyền, khi Đức Chúa Giê-su gửi thông điệp cho bảy hội thánh, Ngài bày tỏ chính mình theo nhu cầu của từng hội thánh:
+Trong Khải Huyền, khi Đức Chúa Giê-su gửi thông điệp cho bảy Hội Thánh, Ngài bày tỏ chính mình theo nhu cầu của từng Hội Thánh:
 
-- **Hội thánh Ê-phê-sô** (thiếu tình yêu thương): Chúa bày tỏ Ngài là Đấng cầm bảy ngôi sao trong tay hữu, đi chính giữa bảy chân đèn vàng
-- **Hội thánh Si-miệt-nơ** (chịu khổ): Chúa bày tỏ Ngài là Đấng Trước Hết và Đấng Sau Cùng, Đấng chết rồi mà đã sống lại
-- **Hội thánh Bẹt-gam** (bị đạo giả tấn công): Chúa bày tỏ Ngài là Đấng có thanh gươm nhọn hai lưỡi
-- **Hội thánh Thi-a-ti-rơ** (dung túng điều ác): Chúa bày tỏ Ngài là Con Đức Chúa Trời, có mắt như ngọn lửa
+- **Hội Thánh Ê-phê-sô** (thiếu tình yêu thương): Chúa bày tỏ Ngài là Đấng cầm bảy ngôi sao trong tay hữu, đi chính giữa bảy chân đèn vàng
+- **Hội Thánh Si-miệt-nơ** (chịu khổ): Chúa bày tỏ Ngài là Đấng Trước Hết và Đấng Sau Cùng, Đấng chết rồi mà đã sống lại
+- **Hội Thánh Bẹt-gam** (bị đạo giả tấn công): Chúa bày tỏ Ngài là Đấng có thanh gươm nhọn hai lưỡi
+- **Hội Thánh Thi-a-ti-rơ** (dung túng điều ác): Chúa bày tỏ Ngài là Con Đức Chúa Trời, có mắt như ngọn lửa
 
 Trong mọi hoàn cảnh, Chúa là giải pháp. Ngài là **"Ta Là"** -- Đấng tự hữu, đáp ứng mọi nhu cầu của dân sự Ngài.
 
@@ -64,9 +64,9 @@ Khải Huyền 19:11-16 cho thấy Đức Chúa Giê-su trong sự vinh quang tr
 
 Tất cả mọi vị cai trị, dù cao cấp đến đâu, Đức Chúa Giê-su vẫn ở hàng cao hơn. Ngài là Đấng tự có và hằng có đời đời.
 
-## Hội thánh Đức Chúa Trời Toàn Năng và bài học phân biệt
+## Hội Thánh Đức Chúa Trời Toàn Năng và bài học phân biệt
 
-Gần đây có một nhánh giáo phái tự xưng là "Hội thánh Đức Chúa Trời Toàn Năng" (còn gọi là Hội Chúa Mẹ), giới thiệu hai con người phàm từ Hàn Quốc là thiên chúa. Tại sao giáo phái này bị tẩy chay? Không phải vì họ giữ ngày Sa-bát hay lễ Vượt Qua, mà vì họ giới thiệu một thiên chúa xa lạ, xa rời Thánh Kinh.
+Gần đây có một nhánh giáo phái tự xưng là "Hội Thánh Đức Chúa Trời Toàn Năng" (còn gọi là Hội Chúa Mẹ), giới thiệu hai con người phàm từ Hàn Quốc là thiên chúa. Tại sao giáo phái này bị tẩy chay? Không phải vì họ giữ ngày Sa-bát hay lễ Vượt Qua, mà vì họ giới thiệu một thiên chúa xa lạ, xa rời Thánh Kinh.
 
 Đây là bài học quan trọng: trong bất kỳ tôn giáo nào, điều quan trọng nhất là xác định Đấng mà chúng ta thờ phượng. Chúng ta chỉ có Thánh Kinh làm nền tảng, và Thánh Kinh bày tỏ Thiên Chúa Hằng Hữu -- không phải bất kỳ con người phàm nào.
 

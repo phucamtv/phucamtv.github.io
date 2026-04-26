@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu: Hành Trình Vào Đất Hứa
 
-Nhân dịp đầu năm mới Tân Sửu 2021, Mục sư Dương Quang Thoại mời hội thánh cùng suy ngẫm về đề tài "Chúa là nơi nương náu tôi" — dựa trên câu chuyện dân Y-sơ-ra-ên rời Ai-cập, trải qua 40 năm trong đồng vắng, và cuối cùng đến được Đất Hứa Ca-na-an.
+Nhân dịp đầu năm mới Tân Sửu 2021, Mục sư Dương Quang Thoại mời Hội Thánh cùng suy ngẫm về đề tài "Chúa là nơi nương náu tôi" — dựa trên câu chuyện dân Y-sơ-ra-ên rời Ai-cập, trải qua 40 năm trong đồng vắng, và cuối cùng đến được Đất Hứa Ca-na-an.
 
 Trong Phục Truyền Luật Lệ Ký 29:5, Môi-se nhắc lại: *"Ta đã dẫn dắt các ngươi bốn mươi năm trong đồng vắng, áo xống không cũ trên mình ngươi, giày không mòn dưới chân ngươi."* Đoàn dân hơn 600.000 người — có cả cụ già, phụ nữ mang thai, trẻ nhỏ — bước đi mỗi ngày trên sa mạc suốt gần hai thế hệ, không có nhà máy sản xuất, không gieo trồng. Đó thật sự là một điều kỳ diệu của sự dẫn dắt thiên thượng.
 

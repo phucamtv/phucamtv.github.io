@@ -27,7 +27,7 @@ Sau đó, ông quay sang hỏi viên sĩ quan vì sao không cùng làm với bi
 
 Câu chuyện trên phản ánh một thực trạng phổ biến trong xã hội: những người có quyền lực thường chỉ muốn ra lệnh và được phục dịch. Giai cấp thống trị thì hưởng thụ, giai cấp bị trị thì phục vụ. Đây là trật tự mà con người đã thiết lập từ ngàn xưa và vẫn còn tồn tại cho đến ngày nay.
 
-Thói quen "chỉ tay năm ngón" không chỉ xuất hiện trong quân đội hay chính trị mà còn len lỏi vào mọi lĩnh vực của cuộc sống. Trong gia đình, nơi làm việc, thậm chí trong hội thánh, chúng ta vẫn thấy những người chỉ biết sai khiến mà không bao giờ tự mình hành động. Họ đứng ngoài cuộc, phán xét và chỉ trích, trong khi người khác phải gánh vác mọi trọng trách.
+Thói quen "chỉ tay năm ngón" không chỉ xuất hiện trong quân đội hay chính trị mà còn len lỏi vào mọi lĩnh vực của cuộc sống. Trong gia đình, nơi làm việc, thậm chí trong Hội Thánh, chúng ta vẫn thấy những người chỉ biết sai khiến mà không bao giờ tự mình hành động. Họ đứng ngoài cuộc, phán xét và chỉ trích, trong khi người khác phải gánh vác mọi trọng trách.
 
 ## Đức Chúa Giê-su Đảo Lộn Trật Tự
 
@@ -43,6 +43,6 @@ Sứ đồ Phao-lô cũng nhắc nhở trong Ga-la-ti 6:2 rằng hãy mang lấy
 
 ## Bài Học Cho Đời Sống Đức Tin
 
-Câu chuyện về Washington và lời dạy của Đức Chúa Giê-su đều hướng đến cùng một bài học: người thật sự vĩ đại là người dám hạ mình để phục vụ. Trong đời sống hội thánh, chúng ta được kêu gọi không phải để tranh giành chức vụ hay quyền lực, mà để phục vụ lẫn nhau trong tình yêu thương.
+Câu chuyện về Washington và lời dạy của Đức Chúa Giê-su đều hướng đến cùng một bài học: người thật sự vĩ đại là người dám hạ mình để phục vụ. Trong đời sống Hội Thánh, chúng ta được kêu gọi không phải để tranh giành chức vụ hay quyền lực, mà để phục vụ lẫn nhau trong tình yêu thương.
 
 Mỗi ngày, chúng ta hãy tự hỏi: mình đang là người chỉ tay năm ngón hay là người sẵn sàng ghé vai gánh vác cùng anh chị em? Mình đang đòi hỏi người khác phục vụ mình hay đang tìm cách phục vụ người khác? Tinh thần khiêm nhường và phục vụ chính là dấu hiệu của một người lãnh đạo thật sự theo gương Chúa, và cũng là cách chúng ta làm trọn luật pháp yêu thương mà Đấng Christ đã truyền dạy.

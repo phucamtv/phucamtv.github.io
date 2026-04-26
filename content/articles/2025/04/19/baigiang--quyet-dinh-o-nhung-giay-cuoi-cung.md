@@ -30,7 +30,7 @@ Suốt 120 năm, Nô-ê đứng bên công trình đóng tàu để kêu gọi m
 
 Câu chuyện Lót tại Sô-đôm càng đau xót hơn. Dù thiên sứ đã đến tận nhà cảnh báo, Lót vẫn "lần lửa" — lừng khừng, nửa muốn đi nửa muốn ở. Cái giá phải trả: hai con rể tưởng ông nói chơi nên kẹt lại trong thành bị hủy diệt; vợ ông quay đầu nhìn lại và hóa thành tượng muối; hai con gái ông sau đó phạm tội loạn luân.
 
-Đây là thái độ mà Đức Chúa Giê-su cảnh cáo hội thánh Lao-đi-xê: không nóng cũng không lạnh. Không bỏ Chúa nhưng cũng không yêu Chúa đủ để giao trọn cuộc đời mình cho Ngài. Vẫn có mặt trong buổi thờ phượng nhưng trong mọi sinh hoạt vẫn tự mình làm chủ thay vì để Chúa làm chủ.
+Đây là thái độ mà Đức Chúa Giê-su cảnh cáo Hội Thánh Lao-đi-xê: không nóng cũng không lạnh. Không bỏ Chúa nhưng cũng không yêu Chúa đủ để giao trọn cuộc đời mình cho Ngài. Vẫn có mặt trong buổi thờ phượng nhưng trong mọi sinh hoạt vẫn tự mình làm chủ thay vì để Chúa làm chủ.
 
 ## Bài Học Từ Giô-na: Sự Ăn Năn Thay Đổi Số Phận
 

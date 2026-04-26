@@ -26,7 +26,7 @@ Cũng vậy, dân Israel mong đợi Đấng Mê-si ngồi trên ngai vàng vớ
 
 Phần trọng tâm của bài giảng nằm ở Ma-thi-ơ 17:14-20, câu chuyện Chúa chữa lành đứa trẻ bị quỷ ám. Một người cha đưa con trai đến cho các môn đồ, nhưng họ không đuổi được quỷ. Thay vì nản lòng, người cha kiên trì tìm đến chính Đức Chúa Giê-su. Đây là tấm gương đáng để chúng ta noi theo.
 
-Ngày nay, có những người thất vọng về hội thánh, thất vọng về mục sư, về trưởng lão, về cách tổ chức. Nhưng hãy theo gương người cha trong câu chuyện này: các môn đồ thất bại, nhưng ông không bỏ cuộc mà tiếp tục tìm đến Đấng cao hơn. Chúng ta không tìm được sự hoàn hảo trong bất kỳ tổ chức nào của con người, vậy hãy tìm sự hoàn hảo trong Chúa.
+Ngày nay, có những người thất vọng về Hội Thánh, thất vọng về mục sư, về trưởng lão, về cách tổ chức. Nhưng hãy theo gương người cha trong câu chuyện này: các môn đồ thất bại, nhưng ông không bỏ cuộc mà tiếp tục tìm đến Đấng cao hơn. Chúng ta không tìm được sự hoàn hảo trong bất kỳ tổ chức nào của con người, vậy hãy tìm sự hoàn hảo trong Chúa.
 
 Khi Đức Chúa Giê-su quở trách và đuổi quỷ ra khỏi đứa trẻ, các môn đồ hỏi riêng tại sao họ không làm được. Ngài đáp rằng vì họ ít đức tin. Rồi Ngài phán một lời đầy quyền năng: nếu có đức tin bằng hạt cải, có thể khiến núi dời đi nơi khác. Theo các nhà nghiên cứu Kinh Thánh, đây là một thành ngữ quen thuộc của người Israel, ám chỉ việc giải quyết được điều tưởng chừng không thể. Khi Chúa ở cùng chúng ta và chúng ta có đức tin mạnh mẽ, bất cứ việc gì cũng có giải pháp.
 

@@ -2,7 +2,7 @@
 title: "Cổng Của Địa Ngục | Hội Thánh Được Gọi Để Tấn Công, Không Phải Phòng Thủ"
 date: 2025-05-04
 url: /baigiang/cong-cua-dia-nguc/
-description: "Bài giảng tại hội thánh Cơ-đốc Phục Lâm Mt Gravatt từ Ma-thi-ơ 16:18 — 'Các cổng âm phủ chẳng thắng được hội đó.' 99,9% Cơ-đốc nhân hiểu sai câu này. Cổng không phải là vũ khí tấn công — cổng là công trình phòng thủ. Đức Chúa Giê-su không bảo hội thánh Ngài phòng thủ sau bức tường, mà đang phát động một cuộc xâm lăng vào vương quốc của sự chết. Hội thánh có chìa khóa, và hội thánh phải ra đi giải cứu."
+description: "Bài giảng tại Hội Thánh Cơ-đốc Phục Lâm Mt Gravatt từ Ma-thi-ơ 16:18 — 'Các cổng âm phủ chẳng thắng được hội đó.' 99,9% Cơ-đốc nhân hiểu sai câu này. Cổng không phải là vũ khí tấn công — cổng là công trình phòng thủ. Đức Chúa Giê-su không bảo Hội Thánh Ngài phòng thủ sau bức tường, mà đang phát động một cuộc xâm lăng vào vương quốc của sự chết. Hội Thánh có chìa khóa, và Hội Thánh phải ra đi giải cứu."
 tags: ["Ma-thi-ơ 16", "Khải Huyền 12", "Sự Tranh Chiến Vĩ Đại", "Hội Thánh", "Truyền Giáo", "Truyền Giảng", "Cơ-đốc Phục Lâm"]
 authors: ["robbie-berghan"]
 plugins: [youtube]
@@ -14,11 +14,11 @@ draft: false
 
 ## Một Chân Lý Kinh Thánh Mà 99,9% Cơ-đốc Nhân Hiểu Sai
 
-Có một câu Kinh Thánh mà hầu như mọi Cơ-đốc nhân đều đã nghe qua. Một câu nằm trên bảng hiệu hội thánh, trong các bài giảng, trong sách vở — và gần như luôn luôn được giải thích ngược lại với ý nghĩa thật của nó.
+Có một câu Kinh Thánh mà hầu như mọi Cơ-đốc nhân đều đã nghe qua. Một câu nằm trên bảng hiệu Hội Thánh, trong các bài giảng, trong sách vở — và gần như luôn luôn được giải thích ngược lại với ý nghĩa thật của nó.
 
-> *"Còn ta, ta bảo ngươi rằng: Ngươi là Phi-e-rơ, ta sẽ lập Hội thánh ta trên đá nầy, **các cổng âm phủ chẳng thắng được hội đó.**"* (Ma-thi-ơ 16:18)
+> *"Còn ta, ta bảo ngươi rằng: Ngươi là Phi-e-rơ, ta sẽ lập Hội Thánh ta trên đá nầy, **các cổng âm phủ chẳng thắng được hội đó.**"* (Ma-thi-ơ 16:18)
 
-Trong bài giảng này tại hội thánh Cơ-đốc Phục Lâm Mt Gravatt (Brisbane, Úc) ngày 4/5/2025, diễn giả mở ra một cách hiểu hoàn toàn khác — và đặt ra một lời thách thức mạnh mẽ cho hội thánh hôm nay.
+Trong bài giảng này tại Hội Thánh Cơ-đốc Phục Lâm Mt Gravatt (Brisbane, Úc) ngày 4/5/2025, diễn giả mở ra một cách hiểu hoàn toàn khác — và đặt ra một lời thách thức mạnh mẽ cho Hội Thánh hôm nay.
 
 ---
 
@@ -30,7 +30,7 @@ Khải Huyền 12:7-17 mở ra chiến trận đó theo ba giai đoạn:
 
 **1. Chiến trận bắt đầu trên trời.** *"Bấy giờ có một cuộc chiến đấu trên trời: Mi-chen và các sứ người tranh chiến cùng con rồng…"* Trước khi có vườn Ê-đen, trước khi có cây, trước khi có loài người, đã có một cuộc xung đột — và nó chưa bao giờ kết thúc.
 
-**2. Chiến trường chuyển xuống đất.** *"Khi con rồng thấy mình bị quăng xuống đất, bèn đuổi theo người đờn bà đã sanh con trai."* Mục tiêu chuyển từ Mi-chen sang **người đờn bà** — hội thánh của Đức Chúa Trời.
+**2. Chiến trường chuyển xuống đất.** *"Khi con rồng thấy mình bị quăng xuống đất, bèn đuổi theo người đờn bà đã sanh con trai."* Mục tiêu chuyển từ Mi-chen sang **người đờn bà** — Hội Thánh của Đức Chúa Trời.
 
 **3. Cuối cùng tập trung vào dân sót.** *"Con rồng giận người đờn bà, bèn đi tranh chiến cùng con cái khác của người, là những kẻ vâng giữ các điều răn của Đức Chúa Trời và giữ lời chứng của Đức Chúa Giê-su."*
 
@@ -47,7 +47,7 @@ Khi bị đánh, có hai phản ứng thông thường:
 1. **Đánh trả**
 2. **Chạy, tìm chỗ nấp**
 
-Nhưng đây không phải là hai lựa chọn mà Đức Chúa Giê-su đưa ra cho hội thánh Ngài.
+Nhưng đây không phải là hai lựa chọn mà Đức Chúa Giê-su đưa ra cho Hội Thánh Ngài.
 
 ---
 
@@ -55,15 +55,15 @@ Nhưng đây không phải là hai lựa chọn mà Đức Chúa Giê-su đưa r
 
 Trong Ma-thi-ơ 16, sau khi Phi-e-rơ xưng nhận *"Thầy là Đấng Christ"*, Đức Chúa Giê-su đáp:
 
-> *"Ngươi là Phi-e-rơ (Petros — **viên đá nhỏ**), ta sẽ lập Hội thánh ta trên đá nầy (Petra — **tảng đá**), các cổng âm phủ chẳng thắng được hội đó."*
+> *"Ngươi là Phi-e-rơ (Petros — **viên đá nhỏ**), ta sẽ lập Hội Thánh ta trên đá nầy (Petra — **tảng đá**), các cổng âm phủ chẳng thắng được hội đó."*
 
-Hội thánh đứng vững trên **Tảng Đá**, tức chính Đức Chúa Giê-su. Điểm đó ai cũng hiểu. Vấn đề nằm ở phần sau: **"các cổng âm phủ chẳng thắng được hội đó."**
+Hội Thánh đứng vững trên **Tảng Đá**, tức chính Đức Chúa Giê-su. Điểm đó ai cũng hiểu. Vấn đề nằm ở phần sau: **"các cổng âm phủ chẳng thắng được hội đó."**
 
-Cách hiểu truyền thống: *"Âm phủ sẽ tấn công hội thánh, nhưng không thắng được."* — Hội thánh ở thế phòng thủ, âm phủ ở thế tấn công.
+Cách hiểu truyền thống: *"Âm phủ sẽ tấn công Hội Thánh, nhưng không thắng được."* — Hội Thánh ở thế phòng thủ, âm phủ ở thế tấn công.
 
 **Đó hoàn toàn sai.**
 
-Hãy đọc lại câu Kinh Thánh cẩn thận. Chủ ngữ là ai? **Hội thánh.** Hội thánh đứng trên Tảng Đá. Và điều gì không thắng được **hội thánh**? **Các cổng của âm phủ.**
+Hãy đọc lại câu Kinh Thánh cẩn thận. Chủ ngữ là ai? **Hội Thánh.** Hội Thánh đứng trên Tảng Đá. Và điều gì không thắng được **Hội Thánh**? **Các cổng của âm phủ.**
 
 Nhưng đây mới là câu hỏi then chốt: **Cổng thuộc về cái gì?** Thuộc về **bức tường**. Và mục đích của một bức tường là gì trong thời cổ đại? **Phòng thủ.**
 
@@ -71,7 +71,7 @@ Cổng không phải là vũ khí tấn công. **Cổng là công trình phòng 
 
 Vậy cổng của âm phủ đang bảo vệ cái gì? **Sự chết. Những linh hồn bị cầm tù trong tội lỗi.** Và Đức Chúa Giê-su đang nói điều ngược lại hoàn toàn với cách chúng ta vẫn hiểu:
 
-> **Hội thánh của Ta sẽ tiến đến tấn công các cổng của âm phủ — và cổng đó không đủ sức chống cự lại Hội thánh Ta. Hội thánh sẽ phá vỡ cổng và giải cứu những người đang bị cầm tù bên trong.**
+> **Hội Thánh của Ta sẽ tiến đến tấn công các cổng của âm phủ — và cổng đó không đủ sức chống cự lại Hội Thánh Ta. Hội Thánh sẽ phá vỡ cổng và giải cứu những người đang bị cầm tù bên trong.**
 
 Đây không phải lệnh phòng thủ. **Đây là lệnh tấn công.**
 
@@ -87,7 +87,7 @@ Trong sách *Truyền Đạo* (Evangelism) trang 18, Ellen White viết:
 
 **Trồng ngọn cờ.** Đây là ngôn ngữ của sự chiếm lĩnh lãnh thổ. Khi người Mỹ đặt chân lên mặt trăng, họ cắm cờ và nói: *"Chúng tôi đã chiếm lãnh thổ này."* Khi các nhà thám hiểm thời xưa đặt chân đến một vùng đất mới, họ cắm cờ của Anh, của Bồ Đào Nha, của Pháp.
 
-Trang 19 nói tiếp: *"Công việc truyền giáo phúc âm phải tiếp tục vươn ra và **sáp nhập** lãnh thổ."* Sáp nhập (annex) — cắt lấy lãnh thổ vốn không thuộc về mình. Hội thánh phải tiến vào các vùng đất chưa thuộc về hội thánh, cắm ngọn cờ lẽ thật, và sáp nhập lãnh thổ đó từ **vương quốc của Sa-tan**.
+Trang 19 nói tiếp: *"Công việc truyền giáo phúc âm phải tiếp tục vươn ra và **sáp nhập** lãnh thổ."* Sáp nhập (annex) — cắt lấy lãnh thổ vốn không thuộc về mình. Hội Thánh phải tiến vào các vùng đất chưa thuộc về Hội Thánh, cắm ngọn cờ lẽ thật, và sáp nhập lãnh thổ đó từ **vương quốc của Sa-tan**.
 
 Trang 20: *"Được trang bị bằng năng lực thiêng liêng, phúc âm sẽ chặt đường xuyên qua những **rào cản mạnh nhất** và sẽ chiến thắng mọi trở ngại."*
 
@@ -125,7 +125,7 @@ Rồi sau khi phục sinh, Ngài ban Mệnh Lệnh Lớn:
 
 > *"Hết cả quyền phép ở trên trời và dưới đất đã giao cho ta. Vậy, hãy đi dạy dỗ muôn dân, hãy nhơn danh Đức Cha, Đức Con và Đức Thánh Linh mà làm phép báp-têm cho họ…"* (Ma-thi-ơ 28:18-20)
 
-**"Hãy đi."** Đức Chúa Giê-su muốn hội thánh Ngài ra đi. **Ngài muốn bạn ra đi.**
+**"Hãy đi."** Đức Chúa Giê-su muốn Hội Thánh Ngài ra đi. **Ngài muốn bạn ra đi.**
 
 ---
 

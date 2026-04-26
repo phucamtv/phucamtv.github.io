@@ -29,11 +29,11 @@ Từ câu 17-18 và câu 21, có thể nhận ra ba lãnh vực thử thách mà
 
 Câu 17-18 cho biết: các môn đồ sẽ bị nộp trước tòa án, bị đánh đòn, bị giải đến trước mặt quan tổng đốc và các vua. Kinh Thánh dạy rằng chúng ta phải vâng phục nhà cầm quyền, vì mọi quyền lực đều do Đức Chúa Trời cho phép. Tuy nhiên, khi chính quyền đòi hỏi những điều đi ngược lại niềm tin, thì ngay cả những công dân hiền lành nhất cũng không thể đáp ứng.
 
-Trong lịch sử hội thánh ban đầu, có nhiều lý do khiến chính quyền La Mã bắt bớ tín đồ: lời dạy của Chúa bị xuyên tạc, sự bình đẳng trong hội thánh khiến giới chủ nô lo sợ nô lệ nổi loạn, và việc từ bỏ thờ hình tượng đụng chạm đến lợi ích kinh tế của nhiều người.
+Trong lịch sử Hội Thánh ban đầu, có nhiều lý do khiến chính quyền La Mã bắt bớ tín đồ: lời dạy của Chúa bị xuyên tạc, sự bình đẳng trong Hội Thánh khiến giới chủ nô lo sợ nô lệ nổi loạn, và việc từ bỏ thờ hình tượng đụng chạm đến lợi ích kinh tế của nhiều người.
 
 ### 2. Giáo Quyền -- Bị Bắt Bớ Ngay Trong Nhà Hội
 
-Điều đáng suy ngẫm là Chúa cảnh báo các môn đồ sẽ bị "đánh đòn trong nhà hội" -- chính nơi thờ phượng Chúa lại trở thành nơi bắt bớ. Giáo hội là một tổ chức, và tổ chức nào cũng muốn vận hành suôn sẻ. Khi có người lên tiếng góp ý hay chỉ ra những điều chưa đúng, thay vì lắng nghe, giáo hội đôi khi lại xem đó là kẻ phá đám. Người có lòng sốt sắng muốn hoàn thiện hội thánh có thể bị trừng phạt, bị tẩy chay, thậm chí bị vu khống để loại bỏ. Đây là lời cảnh cáo vẫn còn giá trị cho đến hôm nay.
+Điều đáng suy ngẫm là Chúa cảnh báo các môn đồ sẽ bị "đánh đòn trong nhà hội" -- chính nơi thờ phượng Chúa lại trở thành nơi bắt bớ. Giáo hội là một tổ chức, và tổ chức nào cũng muốn vận hành suôn sẻ. Khi có người lên tiếng góp ý hay chỉ ra những điều chưa đúng, thay vì lắng nghe, giáo hội đôi khi lại xem đó là kẻ phá đám. Người có lòng sốt sắng muốn hoàn thiện Hội Thánh có thể bị trừng phạt, bị tẩy chay, thậm chí bị vu khống để loại bỏ. Đây là lời cảnh cáo vẫn còn giá trị cho đến hôm nay.
 
 ### 3. Gia Đình -- Thử Thách Đau Đớn Nhất
 

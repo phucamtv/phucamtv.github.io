@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Phục-truyền Luật-lệ Ký 7:6, Giê-rê-mi 1:4-5
 
-Bài giảng mang chủ đề "Ta Đã Chọn Con" xoay quanh một lẽ thật trọng đại: Đức Chúa Trời đã chủ động chọn lựa mỗi chúng ta giữa muôn dân, muôn người trên mặt đất để làm dân thuộc riêng về Ngài. Mục sư Dương Quang Thoại dẫn dắt hội thánh qua năm điểm chính, từ niềm vinh dự được chọn cho đến trách nhiệm sống trung tín với sự kêu gọi thiêng liêng ấy.
+Bài giảng mang chủ đề "Ta Đã Chọn Con" xoay quanh một lẽ thật trọng đại: Đức Chúa Trời đã chủ động chọn lựa mỗi chúng ta giữa muôn dân, muôn người trên mặt đất để làm dân thuộc riêng về Ngài. Mục sư Dương Quang Thoại dẫn dắt Hội Thánh qua năm điểm chính, từ niềm vinh dự được chọn cho đến trách nhiệm sống trung tín với sự kêu gọi thiêng liêng ấy.
 
 ---
 

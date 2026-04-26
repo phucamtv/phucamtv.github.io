@@ -17,7 +17,7 @@ draft: false
 
 ## Sự Thờ Phượng Chân Chính Trong Thời Kỳ Khó Khăn
 
-Trong giai đoạn đại dịch, nhiều hội thánh không thể nhóm lại tập trung, sự thờ phượng trở nên phân tán và khó khăn hơn bao giờ hết. Chính trong bối cảnh ấy, Đức Chúa Giê-su đã dạy trong Giăng 4:24 rằng những kẻ thờ phượng Ngài phải thờ phượng bằng tâm thần và lẽ thật. Hai yếu tố này – tâm thần và lẽ thật – đứng song song nhau, thiếu một trong hai thì sự thờ phượng sẽ không trọn vẹn.
+Trong giai đoạn đại dịch, nhiều Hội Thánh không thể nhóm lại tập trung, sự thờ phượng trở nên phân tán và khó khăn hơn bao giờ hết. Chính trong bối cảnh ấy, Đức Chúa Giê-su đã dạy trong Giăng 4:24 rằng những kẻ thờ phượng Ngài phải thờ phượng bằng tâm thần và lẽ thật. Hai yếu tố này – tâm thần và lẽ thật – đứng song song nhau, thiếu một trong hai thì sự thờ phượng sẽ không trọn vẹn.
 
 Tâm thần tức là lòng yêu mến Chúa, sự nhiệt thành và khao khát trong mỗi lần đến với Ngài. Dịch bệnh kéo dài có thể làm chai lòng, khiến con người quen với thói quen ở nhà hơn là thói quen đến nhà thờ. Giống như học sinh ở nhà quá lâu sẽ không còn muốn đến trường, người tin Chúa xa cách hội chúng quá lâu dễ đánh mất cái sự tha thiết thuở ban đầu. Vì vậy, nuôi dưỡng một tâm thần hầu việc Chúa, một lòng khao khát thờ phượng, là điều không thể xem nhẹ.
 

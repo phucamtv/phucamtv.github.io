@@ -58,13 +58,13 @@ Tại sao Đức Chúa Giê-su lại rủa một cây vả dù biết rằng kh�
 
 Ngài đã dùng nhiều hình ảnh để mô tả đời sống Cơ-đốc nhân phải hữu dụng: **muối** phải có vị mặn, **ánh sáng** phải chiếu soi — tất cả đều mang tính hữu dụng. Một Cơ-đốc nhân không hữu dụng là điều mâu thuẫn ngay trong bản chất, vì chính Đức Chúa Giê-su đã phán: *"Ta đến không phải để người ta hầu việc Ta, nhưng để Ta hầu việc người ta."*
 
-Cái tội nặng nhất không phải là yếu đuối hay thất bại, mà là **tạo ra sự hứa hẹn giả dối**. Một hội thánh quảng bá rằng mình đầy tình yêu thương, đầy tinh thần phục vụ, nhưng khi người ta bước vào thì thất vọng vì thực tế không như những gì được hứa hẹn — điều đó còn nguy hại hơn là không có lời mời nào cả. Sự thất vọng sau khi đặt kỳ vọng lớn sẽ sâu sắc hơn nhiều.
+Cái tội nặng nhất không phải là yếu đuối hay thất bại, mà là **tạo ra sự hứa hẹn giả dối**. Một Hội Thánh quảng bá rằng mình đầy tình yêu thương, đầy tinh thần phục vụ, nhưng khi người ta bước vào thì thất vọng vì thực tế không như những gì được hứa hẹn — điều đó còn nguy hại hơn là không có lời mời nào cả. Sự thất vọng sau khi đặt kỳ vọng lớn sẽ sâu sắc hơn nhiều.
 
 ---
 
 ## Lời Nói Phải Đi Đôi Với Việc Làm
 
-Kết luận bài học rất thực tế: **đời sống của mỗi Cơ-đốc nhân, cũng như các hoạt động của hội thánh, phải đem lại sự hữu dụng thật sự — lời nói phải đi đôi với việc làm.**
+Kết luận bài học rất thực tế: **đời sống của mỗi Cơ-đốc nhân, cũng như các hoạt động của Hội Thánh, phải đem lại sự hữu dụng thật sự — lời nói phải đi đôi với việc làm.**
 
 Chúng ta dễ rơi vào tình trạng cây vả nhiều lá mà không có trái — nói hay nhưng không làm, hứa hẹn nhiều mà không thực hiện, giữ vẻ bề ngoài đạo đức thánh thiện mà bên trong thì trống rỗng và vô ích cho người chung quanh.
 

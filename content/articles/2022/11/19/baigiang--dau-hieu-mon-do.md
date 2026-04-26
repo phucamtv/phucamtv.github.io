@@ -20,7 +20,7 @@ Câu Kinh Thánh tuy ngắn gọn nhưng gói trọn ba chiều của tình yêu
 
 ## Trở Nên Giống Như Thầy
 
-Ê-phê-sô 5:1 dạy rằng hãy trở nên kẻ bắt chước Đức Chúa Trời như con cái rất yêu dấu của Ngài. Khi một người ngưỡng mộ ai đó, họ luôn muốn trở nên giống người đó — giới trẻ bắt chước thần tượng từ cách ăn mặc đến nói năng. Phao-lô cũng kêu gọi hội thánh bắt chước ông, nhưng ông không phải là tiêu chuẩn; ông bắt chước Đấng Christ và kêu gọi người khác nhìn vào đời sống mẫu mực của các tôi tớ Chúa mà noi theo.
+Ê-phê-sô 5:1 dạy rằng hãy trở nên kẻ bắt chước Đức Chúa Trời như con cái rất yêu dấu của Ngài. Khi một người ngưỡng mộ ai đó, họ luôn muốn trở nên giống người đó — giới trẻ bắt chước thần tượng từ cách ăn mặc đến nói năng. Phao-lô cũng kêu gọi Hội Thánh bắt chước ông, nhưng ông không phải là tiêu chuẩn; ông bắt chước Đấng Christ và kêu gọi người khác nhìn vào đời sống mẫu mực của các tôi tớ Chúa mà noi theo.
 
 Một trong những điều tối kỵ nhất là nói mà không làm. Đức Chúa Giê-su đã thấy điều này nhan nhản trong giới lãnh đạo tôn giáo và cảnh cáo trong Ma-thi-ơ 23:3: hãy làm theo mọi điều họ dạy, nhưng đừng bắt chước việc làm của họ, vì họ nói mà không làm. Dù ở bất kỳ vị trí nào — thầy giáo, người hầu việc Chúa, cha mẹ — chúng ta đều phải gương mẫu. Nếu không, lời nói của chúng ta mất hết sức mạnh.
 

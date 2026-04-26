@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu: Chứng Nhân Cho Ngài
 
-Đây là bài thứ ba trong chương trình cầu nguyện cuối năm của hội thánh, với đề tài chung là *"Chứng Nhân Cho Ngài"*. Hai nhân vật trước đã được khảo sát là Áp-ra-ham — chứng nhân trong gia đình và ngoài xã hội — và Giô-sép — chứng nhân trong cuộc chiến đời tư. Tối nay, nhân vật thứ ba là Đa-ni-ên: một chứng nhân của Đức Chúa Trời ở giữa những hoàn cảnh xã hội, giữa những thể chế chính trị đối nghịch, giữa ranh giới căng thẳng của chính trị và tôn giáo.
+Đây là bài thứ ba trong chương trình cầu nguyện cuối năm của Hội Thánh, với đề tài chung là *"Chứng Nhân Cho Ngài"*. Hai nhân vật trước đã được khảo sát là Áp-ra-ham — chứng nhân trong gia đình và ngoài xã hội — và Giô-sép — chứng nhân trong cuộc chiến đời tư. Tối nay, nhân vật thứ ba là Đa-ni-ên: một chứng nhân của Đức Chúa Trời ở giữa những hoàn cảnh xã hội, giữa những thể chế chính trị đối nghịch, giữa ranh giới căng thẳng của chính trị và tôn giáo.
 
 ---
 

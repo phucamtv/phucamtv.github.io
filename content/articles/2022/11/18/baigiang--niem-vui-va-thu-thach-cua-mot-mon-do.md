@@ -52,7 +52,7 @@ Sứ đồ Phao-lô khẳng định trong Phi-líp 3:8 rằng ông xem mọi s�
 
 ## 3. Nhiệm Kỳ Của Một Môn Đồ: Trọn Đời
 
-Nhiệm kỳ tổng thống là bốn năm, viên chức là năm năm, ban trị sự hội thánh là một hai năm. Vậy nhiệm kỳ của môn đồ là mấy năm? Câu trả lời: **không có nhiệm kỳ**. Môn đồ của Chúa Cứu Thế phải sống đời sống môn đồ cho đến giây phút cuối cùng, hít thở không khí của một môn đồ cho đến hơi thở cuối cùng.
+Nhiệm kỳ tổng thống là bốn năm, viên chức là năm năm, ban trị sự Hội Thánh là một hai năm. Vậy nhiệm kỳ của môn đồ là mấy năm? Câu trả lời: **không có nhiệm kỳ**. Môn đồ của Chúa Cứu Thế phải sống đời sống môn đồ cho đến giây phút cuối cùng, hít thở không khí của một môn đồ cho đến hơi thở cuối cùng.
 
 Đời sống môn đồ đòi hỏi sự trung tín liên tục, không đứt quãng — giống như dòng điện ổn định. Nếu điện cứ chập chờn, tất cả thiết bị trong nhà sẽ hư hỏng. Đời sống môn đồ cũng vậy: lúc thì siêng năng nhiệt tình, lúc lại bỏ bê vài tuần vài tháng rồi quay lại — đó là sống kiểu chập chờn, không phải đời sống trung tín.
 

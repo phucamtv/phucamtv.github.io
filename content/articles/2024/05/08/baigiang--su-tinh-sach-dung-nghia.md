@@ -37,7 +37,7 @@ Ngài không có ý khuyến khích ăn uống bừa bãi hay coi thường vệ
 
 Sau khi các môn đồ báo lại rằng người Pha-ri-si nghe lời Chúa mà phiền giận, Đức Chúa Giê-su phán: cây nào mà Cha Ta trên trời không trồng thì phải nhổ đi. Hãy để vậy đó, là những kẻ mù làm người dẫn đường. Nếu kẻ mù dẫn đường người mù thì cả hai sẽ cùng té xuống hố. Đây là lời cảnh cáo nghiêm khắc dành cho những lãnh đạo tôn giáo khi Kinh Thánh đã chỉ ra sai lầm mà họ vẫn giận dỗi, cố chấp. Ngày nay cũng có những lãnh đạo thuộc linh rơi vào tình trạng tương tự: khi chân lý Kinh Thánh chiếu sáng mà họ phản ứng bằng sự giận dữ thay vì khiêm nhường sửa đổi.
 
-## Bài học cho hội thánh ngày nay
+## Bài học cho Hội Thánh ngày nay
 
 Sứ điệp của phân đoạn này không chỉ là chuyện rửa tay ngày xưa. Ngày nay vẫn tồn tại những quan niệm tương tự: thờ phượng phải ở thánh đường mới đúng nghĩa, phải có mục sư được bổ nhiệm mới có thể cử hành lễ, phải có đàn ca chương trình bài bản mới là thờ phượng thật. Những quan niệm đó, nếu được đặt lên trên yếu tố cốt lõi, có thể biến thành những lời truyền khẩu hiện đại, cản trở mối quan hệ thật sự giữa con người và Đức Chúa Trời.
 

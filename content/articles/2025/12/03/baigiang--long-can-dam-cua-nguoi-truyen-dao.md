@@ -2,7 +2,7 @@
 title: "Lòng Can Đảm Của Người Truyền Đạo"
 date: 2025-12-03
 url: /baigiang/long-can-dam-cua-nguoi-truyen-dao/
-description: "Từ Công Vụ 14:19-28, Mục sư Dương Quang Thoại chia sẻ về lòng can đảm phi thường của Phao-lô khi bị ném đá gần chết nhưng vẫn quay lại thành phố đối diện với kẻ thù, đồng thời bàn về cách các sứ đồ củng cố hội thánh và luôn xác định mình chỉ là công cụ trong tay Đức Chúa Trời."
+description: "Từ Công Vụ 14:19-28, Mục sư Dương Quang Thoại chia sẻ về lòng can đảm phi thường của Phao-lô khi bị ném đá gần chết nhưng vẫn quay lại thành phố đối diện với kẻ thù, đồng thời bàn về cách các sứ đồ củng cố Hội Thánh và luôn xác định mình chỉ là công cụ trong tay Đức Chúa Trời."
 tags: ["Công Vụ", "Phao-lô", "Can Đảm", "Đức Tin", "Hội Thánh", "Truyền Giáo", "Trưởng Lão"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -16,7 +16,7 @@ draft: false
 
 Công Vụ 14:19-20 tường thuật một biến cố kinh hoàng: những người Do Thái từ An-ti-ốt và Y-cô-ni đã theo dõi Phao-lô đến tận Lít-trơ, xúi giục dân chúng ném đá ông. Họ không chỉ sỉ nhục hay đe dọa — họ quyết tâm giết Phao-lô. Chính sự thành công trong chức vụ truyền giáo của ông, khi nhiều người tin Chúa tại mỗi thành phố ông đi qua, đã khiến lòng ganh tị và tự ái dân tộc Do Thái bùng phát dữ dội.
 
-Đây là cách ma quỷ hành động: luôn theo dõi và tìm cách phá hoại khi công việc Chúa phát triển. Nếu hội thánh cứ im lìm, không tăng trưởng, kẻ thù sẽ để yên. Nhưng khi có người được kéo ra khỏi vương quốc tối tăm, Satan trở nên hung hãn. Và phương cách quen thuộc của nó là dùng người khác ra tay — giấu mặt đứng phía sau, như câu người Việt nói "ném đá giấu tay."
+Đây là cách ma quỷ hành động: luôn theo dõi và tìm cách phá hoại khi công việc Chúa phát triển. Nếu Hội Thánh cứ im lìm, không tăng trưởng, kẻ thù sẽ để yên. Nhưng khi có người được kéo ra khỏi vương quốc tối tăm, Satan trở nên hung hãn. Và phương cách quen thuộc của nó là dùng người khác ra tay — giấu mặt đứng phía sau, như câu người Việt nói "ném đá giấu tay."
 
 ---
 
@@ -36,7 +36,7 @@ Phao-lô và Ba-na-ba sau đó quay trở lại các thành Lít-trơ, Y-cô-ni 
 
 Đây là sự thành thật đáng quý — theo gương Đức Chúa Giê-su khi Ngài nói sai môn đồ đi khác nào chiên giữa bầy muông sói. Các sứ đồ không chiêu dụ người ta bằng lời hứa hẹn dễ dãi rằng tin Chúa sẽ hết bệnh, hết nghèo, hết khó khăn. Chúa không đến để làm con đường dễ đi hơn, mà để làm cho con người trở nên mạnh mẽ hơn để vượt qua gian nan.
 
-Các sứ đồ cũng lựa chọn trưởng lão trong mỗi hội thánh, kiêng ăn cầu nguyện rồi giao phó họ cho Chúa. Bất kỳ nhóm người nào cũng cần tổ chức — trưởng lão không phải để áp đặt quyền hành trên tín đồ, mà là những người được xác nhận về đức tin, đạo đức và tài năng, sống tại địa phương để chăm sóc hội thánh khi các sứ đồ phải tiếp tục di chuyển.
+Các sứ đồ cũng lựa chọn trưởng lão trong mỗi Hội Thánh, kiêng ăn cầu nguyện rồi giao phó họ cho Chúa. Bất kỳ nhóm người nào cũng cần tổ chức — trưởng lão không phải để áp đặt quyền hành trên tín đồ, mà là những người được xác nhận về đức tin, đạo đức và tài năng, sống tại địa phương để chăm sóc Hội Thánh khi các sứ đồ phải tiếp tục di chuyển.
 
 ---
 

@@ -40,7 +40,7 @@ Mục sư đặt câu hỏi thẳng thắn: *"Liệu những người đang ở 
 
 Có thể chúng ta ăn mặc tươm tất, nở nụ cười nhân hậu, đến nhà thờ đều đặn — nhưng khi người chung quanh thật sự cần sự trợ giúp, cần sự an ủi, cần sự chia sẻ — chúng ta thu mình lại, ích kỷ, không đáp ứng. Đó chính là cây vả chỉ có lá.
 
-Một hội thánh nhìn từ xa tưởng yêu thương lắm, nhưng đến gần thì ganh tỵ, tham lam, ích kỷ — đó cũng là cây vả chỉ có lá.
+Một Hội Thánh nhìn từ xa tưởng yêu thương lắm, nhưng đến gần thì ganh tỵ, tham lam, ích kỷ — đó cũng là cây vả chỉ có lá.
 
 ---
 

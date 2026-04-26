@@ -25,7 +25,7 @@ Và khủng khiếp nhất là Đức Chúa Giê-su. Suốt ba năm rưỡi, cá
 
 ## Chính chúng ta cũng có thể trở thành người vu khống
 
-Gia-cơ 1:26 cảnh tỉnh rằng: ai tưởng mình là tin đạo mà không cầm giữ lưỡi mình thì sự tin đạo ấy là vô ích. Lời cảnh báo này không dành cho người ngoài mà dành cho chính những người tin Chúa. Khi chúng ta ghét ai đó, chúng ta dễ dàng "thêm mắm dặm muối" vào câu chuyện, biến sự thật thành điều sai lệch. Một mục sư, một trưởng lão, một tín hữu mà không cầm giữ miệng mình thì sự tin đạo là vô ích. Đây là lời cảnh báo nghiêm khắc cho mỗi người trong hội thánh.
+Gia-cơ 1:26 cảnh tỉnh rằng: ai tưởng mình là tin đạo mà không cầm giữ lưỡi mình thì sự tin đạo ấy là vô ích. Lời cảnh báo này không dành cho người ngoài mà dành cho chính những người tin Chúa. Khi chúng ta ghét ai đó, chúng ta dễ dàng "thêm mắm dặm muối" vào câu chuyện, biến sự thật thành điều sai lệch. Một mục sư, một trưởng lão, một tín hữu mà không cầm giữ miệng mình thì sự tin đạo là vô ích. Đây là lời cảnh báo nghiêm khắc cho mỗi người trong Hội Thánh.
 
 ## Bị ghen ghét và vu khống vì danh Chúa
 

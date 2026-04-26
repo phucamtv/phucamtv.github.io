@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 7:1-5
 
-Trong bài giảng trên núi, Đức Chúa Giê-su đưa ra một mệnh lệnh rõ ràng và nghiêm túc: *"Các ngươi đừng đoán xét ai, để mình khỏi bị đoán xét."* Mục sư Dương Quang Thoại dẫn dắt hội thánh đi sâu vào năm câu Kinh Thánh ngắn nhưng chứa đựng nguyên tắc sống vô cùng quan trọng cho đời sống Cơ-đốc nhân.
+Trong bài giảng trên núi, Đức Chúa Giê-su đưa ra một mệnh lệnh rõ ràng và nghiêm túc: *"Các ngươi đừng đoán xét ai, để mình khỏi bị đoán xét."* Mục sư Dương Quang Thoại dẫn dắt Hội Thánh đi sâu vào năm câu Kinh Thánh ngắn nhưng chứa đựng nguyên tắc sống vô cùng quan trọng cho đời sống Cơ-đốc nhân.
 
 ---
 
@@ -62,6 +62,6 @@ Những người đòi ném đá không phạm tội tà dâm, nhưng họ phạ
 
 Đức Chúa Giê-su không cấm hoàn toàn việc góp ý hay phê bình, nhưng Ngài đặt điều kiện tiên quyết: hãy lấy cây đà ra khỏi mắt mình trước. Khi mắt đã sáng, chúng ta mới thật sự có khả năng giúp anh em. Còn nếu cây đà vẫn còn — tức là sự tự hào, tự mãn, tự cho mình giỏi và tốt đẹp — thì mọi nỗ lực "giúp đỡ" chỉ khiến tình hình tồi tệ hơn.
 
-Nguyên tắc này áp dụng trong mọi mối quan hệ: gia đình, bạn bè, nơi làm việc, và đặc biệt trong hội thánh. Khi sự đoán xét tồn tại trong hội thánh, nó phá vỡ sự hiệp nhất — phá vỡ chính gia đình của Đức Chúa Trời. Thay vì tìm kiếm điểm xấu của người khác, hãy nỗ lực tìm kiếm điểm tốt của họ, nhân lên và khen ngợi — như vậy chúng ta góp phần làm cho thế giới này tốt đẹp hơn.
+Nguyên tắc này áp dụng trong mọi mối quan hệ: gia đình, bạn bè, nơi làm việc, và đặc biệt trong Hội Thánh. Khi sự đoán xét tồn tại trong Hội Thánh, nó phá vỡ sự hiệp nhất — phá vỡ chính gia đình của Đức Chúa Trời. Thay vì tìm kiếm điểm xấu của người khác, hãy nỗ lực tìm kiếm điểm tốt của họ, nhân lên và khen ngợi — như vậy chúng ta góp phần làm cho thế giới này tốt đẹp hơn.
 
 Bài học hôm nay mời gọi mỗi chúng ta có một quyết định: trước khi mở miệng đoán xét ai, hãy nhớ ba điều — chúng ta chưa biết hết sự việc, chúng ta không thể vô tư, và không ai đủ tốt để kết tội người khác. Sự đoán xét thuộc về Đức Chúa Trời, bởi vì chỉ Ngài là Đấng Thánh và Công Bình.

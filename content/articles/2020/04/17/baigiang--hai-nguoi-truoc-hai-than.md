@@ -2,7 +2,7 @@
 title: "Hại Người, Trước Hại Thân"
 date: 2020-04-17
 url: /baigiang/hai-nguoi-truoc-hai-than/
-description: "Câu chuyện thổ dân tẩm độc móng tay và bài học từ Ha-man trong sách Ê-xơ-tê — kẻ hại người cuối cùng tự hại chính mình, đặc biệt qua thói quen nói xấu trong đời sống Hội thánh."
+description: "Câu chuyện thổ dân tẩm độc móng tay và bài học từ Ha-man trong sách Ê-xơ-tê — kẻ hại người cuối cùng tự hại chính mình, đặc biệt qua thói quen nói xấu trong đời sống Hội Thánh."
 tags: ["Nói Xấu", "Hại Người", "Ha-man", "Ê-xơ-tê", "Chắp Cánh Bay Cao", "Tĩnh Nguyện"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -34,9 +34,9 @@ Bà Ellen White đã viết rằng nói xấu là sự rủa sả cho cả hai p
 
 ## Phong Trào "Không Nói Xấu"
 
-Ngày nay, nhiều Hội thánh gặp nan đề không phải vì thiếu giáo lý hay thiếu chương trình, mà vì trong vòng tín hữu có quá nhiều người nói xấu lẫn nhau. Sự hiệp một bị phá vỡ, tình yêu thương bị xói mòn, và danh Chúa bị ảnh hưởng — tất cả chỉ vì những lời lẽ thiếu kiểm soát.
+Ngày nay, nhiều Hội Thánh gặp nan đề không phải vì thiếu giáo lý hay thiếu chương trình, mà vì trong vòng tín hữu có quá nhiều người nói xấu lẫn nhau. Sự hiệp một bị phá vỡ, tình yêu thương bị xói mòn, và danh Chúa bị ảnh hưởng — tất cả chỉ vì những lời lẽ thiếu kiểm soát.
 
-Lời kêu gọi ở đây là hãy cổ động một phong trào "Không Nói Xấu" trong Hội thánh. Đây không phải ý tưởng mới mẻ, nhưng ở nhiều nơi đã áp dụng, kết quả thật đáng kinh ngạc — Hội thánh được phục hưng, anh chị em yêu thương nhau hơn, và công việc Chúa được mở rộng.
+Lời kêu gọi ở đây là hãy cổ động một phong trào "Không Nói Xấu" trong Hội Thánh. Đây không phải ý tưởng mới mẻ, nhưng ở nhiều nơi đã áp dụng, kết quả thật đáng kinh ngạc — Hội Thánh được phục hưng, anh chị em yêu thương nhau hơn, và công việc Chúa được mở rộng.
 
 ## Lời Cảnh Báo Từ Kinh Thánh
 

@@ -30,7 +30,7 @@ Phép lạ đầu tiên không được thực hiện tại một nơi hoành tr
 
 Khảo sát nhiều phép lạ trong Kinh Thánh, chúng ta thấy sự đơn giản của Đức Chúa Trời. Ngài chữa bệnh cho bà gia Phi-e-rơ ngay trong nhà, tiên tri Ê-li làm phép lạ cho bà góa Sa-rép-ta ngay trong nhà bếp với chút bột và chút dầu, tiên tri Ê-li-sê làm phép lạ hóa nhiều dầu cũng tại nhà bếp của một người phụ nữ nghèo. Đức Chúa Trời có thể thực hiện những điều kỳ diệu ở những nơi rất tầm thường, miễn là ở đó có đức tin và sự dâng hiến.
 
-Qua đó, Chúa truyền cho chúng ta một thông điệp quan trọng: gia đình là nơi đáng được quý trọng nhất. Nền tảng của hội thánh cần đặt trên gia đình. I Ti-mô-thê 5:8 cảnh báo rằng ai không chăm sóc đến người nhà mình thì xấu hơn người không tin. Đôi khi chúng ta lịch sự với người ngoài nhưng lại thiếu tôn trọng trong chính gia đình mình.
+Qua đó, Chúa truyền cho chúng ta một thông điệp quan trọng: gia đình là nơi đáng được quý trọng nhất. Nền tảng của Hội Thánh cần đặt trên gia đình. I Ti-mô-thê 5:8 cảnh báo rằng ai không chăm sóc đến người nhà mình thì xấu hơn người không tin. Đôi khi chúng ta lịch sự với người ngoài nhưng lại thiếu tôn trọng trong chính gia đình mình.
 
 ## Vì Sao Phép Lạ Được Thực Hiện
 

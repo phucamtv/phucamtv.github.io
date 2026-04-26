@@ -22,7 +22,7 @@ Cách chữa trị dần dần này mang tính khoa học rất cao. Đôi mắt
 
 Phép lạ này cho chúng ta hình ảnh về hai loại nên thánh. Loại thứ nhất là sự tái sanh -- đột biến, ngay lập tức, như đứa bé được sinh ra. Loại thứ hai là sự nên thánh dần dần -- sự trưởng thành mỗi ngày, giống như đứa bé phải lớn lên từ sữa rồi mới ăn đồ ăn đặc.
 
-Chúng ta cần tự hỏi: mình có đang bị mù lòa về tâm linh không? Trong thư gửi cho hội thánh Lao-đi-xê (Khải Huyền 3), Chúa nói rằng họ tưởng mình sáng mắt nhưng thật ra là mù lòa, và kêu gọi họ mua thuốc xức mắt của Ngài. Điều khó khăn nhất trên hành trình theo Chúa chính là thấy được chính mình.
+Chúng ta cần tự hỏi: mình có đang bị mù lòa về tâm linh không? Trong thư gửi cho Hội Thánh Lao-đi-xê (Khải Huyền 3), Chúa nói rằng họ tưởng mình sáng mắt nhưng thật ra là mù lòa, và kêu gọi họ mua thuốc xức mắt của Ngài. Điều khó khăn nhất trên hành trình theo Chúa chính là thấy được chính mình.
 
 ## "Người ta nói Ta là ai?" (Mác 8:27-30)
 

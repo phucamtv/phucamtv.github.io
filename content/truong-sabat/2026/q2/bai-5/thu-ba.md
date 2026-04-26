@@ -23,6 +23,6 @@ Ngay cả khi bạn không phải là một học giả, bạn vẫn có thể h
 6. Cầu nguyện cho những ý tưởng này hầu cho chúng có thể tác động lên mối tương giao của bạn với Đức Chúa Trời.
 7. Suy xét xem bạn có thể chia sẻ điều này với ai hôm nay.
 
-“Bất cứ khi nào dân sự Đức Chúa Trời tăng trưởng trong ân điển, họ sẽ không ngừng đạt được sự hiểu biết rõ ràng hơn về lời Ngài. Họ sẽ nhận ra ánh sáng và vẻ tươi mới trong những lẽ thật thiêng liêng của Kinh Thánh. Điều này đã đúng trong lịch sử của hội thánh qua mọi thời đại và nó sẽ tiếp tục như vậy cho đến cuối cùng.”, Ellen G. White, Tư vấn cho các Tác giả và Biên tập viên, trang 38, 39.
+“Bất cứ khi nào dân sự Đức Chúa Trời tăng trưởng trong ân điển, họ sẽ không ngừng đạt được sự hiểu biết rõ ràng hơn về lời Ngài. Họ sẽ nhận ra ánh sáng và vẻ tươi mới trong những lẽ thật thiêng liêng của Kinh Thánh. Điều này đã đúng trong lịch sử của Hội Thánh qua mọi thời đại và nó sẽ tiếp tục như vậy cho đến cuối cùng.”, Ellen G. White, Tư vấn cho các Tác giả và Biên tập viên, trang 38, 39.
 
 `Bạn thấy sứ điệp trong câu trích dẫn trên đúng với bạn như thế nào? Xem thêm Thi-thiên 119:105.`

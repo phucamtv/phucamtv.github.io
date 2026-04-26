@@ -33,7 +33,7 @@ Trong thế giới ngày nay, để trục lợi phi pháp, người ta không n
 Kinh Thánh cảnh báo rõ ràng về những điều giả mạo trong lĩnh vực đức tin:
 
 - **Kẻ đạo đức giả** — những người bề ngoài trông có vẻ tin kính nhưng lòng trống rỗng
-- **Tín đồ giả** — vào hội thánh nhưng không thực sự thuộc về Đấng Christ
+- **Tín đồ giả** — vào Hội Thánh nhưng không thực sự thuộc về Đấng Christ
 - **Tiên tri giả, giáo sư giả, người chăn giả, mục sư giả** — Ma-thi-ơ 24:24 cảnh báo ma quỷ sẽ dấy lên những kẻ này
 - **Đức Chúa Giê-su giả** — những kẻ mạo nhận danh Ngài để lừa dối
 - **Đạo giả và những cuộc tái lâm giả** — Lu-ca 17:23 ghi lại lời Chúa: đừng chạy theo những kẻ nói "Ngài ở đây" hay "Ngài ở đó"

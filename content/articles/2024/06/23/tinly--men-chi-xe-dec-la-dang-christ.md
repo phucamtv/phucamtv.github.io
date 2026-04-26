@@ -15,7 +15,7 @@ part_of_series: true
 
 ## Giới thiệu vấn đề
 
-Trong loạt bài tìm hiểu về Thiên Chúa Ba Thân Vị, câu hỏi "Mên-chi-xê-đéc có phải là Đấng Christ hay không?" là một chủ đề đáng suy ngẫm. Đây không phải là vấn đề tranh luận phổ biến trong hội thánh, nhưng đối với những người nghiên cứu Thánh Kinh, đây là điều cần được xem xét kỹ lưỡng.
+Trong loạt bài tìm hiểu về Thiên Chúa Ba Thân Vị, câu hỏi "Mên-chi-xê-đéc có phải là Đấng Christ hay không?" là một chủ đề đáng suy ngẫm. Đây không phải là vấn đề tranh luận phổ biến trong Hội Thánh, nhưng đối với những người nghiên cứu Thánh Kinh, đây là điều cần được xem xét kỹ lưỡng.
 
 Điều quan trọng cần nhấn mạnh: dù hiểu Mên-chi-xê-đéc có phải là Đấng Christ hay không, điều này không ảnh hưởng đến sự cứu rỗi hay đức tin cơ bản của chúng ta. Chúng ta cùng bàn luận, đưa ra lập luận dựa trên Thánh Kinh, và để Đức Thánh Linh làm việc trong lòng mỗi người.
 
@@ -76,4 +76,4 @@ Dựa trên các lập luận từ Thánh Kinh:
 3. Văn phong và cách nói chuyện của Mên-chi-xê-đéc khác biệt với các lần Đức Chúa Giê-su hiện ra trong Cựu Ước.
 4. Mên-chi-xê-đéc nhân danh Đức Chúa Trời Chí Cao để chúc phước, cho thấy ông không tự mình hành động như Đấng tối cao.
 
-Dù quan điểm khác nhau về vấn đề này, điều quan trọng là chúng ta không để nó gây chia rẽ hội thánh. Hãy cùng nhau tìm hiểu Thánh Kinh và để Đức Thánh Linh dẫn dắt mỗi người đến với lẽ thật.
+Dù quan điểm khác nhau về vấn đề này, điều quan trọng là chúng ta không để nó gây chia rẽ Hội Thánh. Hãy cùng nhau tìm hiểu Thánh Kinh và để Đức Thánh Linh dẫn dắt mỗi người đến với lẽ thật.

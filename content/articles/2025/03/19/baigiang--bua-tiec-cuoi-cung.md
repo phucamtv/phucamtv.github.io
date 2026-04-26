@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 26:17-19, 26-30
 
-Bài giảng tập trung vào bữa tiệc cuối cùng của Đức Chúa Giê-su với các môn đồ trước khi Ngài bị bắt — khi Ngài biến Lễ Vượt Qua của người Do Thái thành Lễ Tiệc Thánh mà Hội Thánh ngày nay vẫn tuân giữ. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi qua hai phân đoạn: sự chuẩn bị Lễ Vượt Qua (câu 17-19) và sự thiết lập Lễ Tiệc Thánh (câu 26-30).
+Bài giảng tập trung vào bữa tiệc cuối cùng của Đức Chúa Giê-su với các môn đồ trước khi Ngài bị bắt — khi Ngài biến Lễ Vượt Qua của người Do Thái thành Lễ Tiệc Thánh mà Hội Thánh ngày nay vẫn tuân giữ. Mục sư Dương Quang Thoại dẫn dắt Hội Thánh đi qua hai phân đoạn: sự chuẩn bị Lễ Vượt Qua (câu 17-19) và sự thiết lập Lễ Tiệc Thánh (câu 26-30).
 
 ---
 

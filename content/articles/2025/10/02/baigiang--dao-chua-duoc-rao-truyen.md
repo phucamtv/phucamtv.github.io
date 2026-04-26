@@ -2,7 +2,7 @@
 title: "Đạo Chúa Được Rao Truyền | Công Vụ 11:1-26"
 date: 2025-10-02
 url: /baigiang/dao-chua-duoc-rao-truyen/
-description: "Công Vụ 11:1-26 ghi lại bốn bức tranh về sự lan rộng của Tin Lành: Phi-e-rơ biện hộ tại Giê-ru-sa-lem, hội thánh chấp nhận người ngoại, những tín đồ vô danh gieo hạt giống tại An-ti-ốt, và sự khôn ngoan của Ba-na-ba khi ông được sai đến để củng cố hội thánh mới — tất cả cùng minh chứng rằng Đức Chúa Trời dùng nhiều cách để Đạo Ngài được rao truyền khắp nơi."
+description: "Công Vụ 11:1-26 ghi lại bốn bức tranh về sự lan rộng của Tin Lành: Phi-e-rơ biện hộ tại Giê-ru-sa-lem, Hội Thánh chấp nhận người ngoại, những tín đồ vô danh gieo hạt giống tại An-ti-ốt, và sự khôn ngoan của Ba-na-ba khi ông được sai đến để củng cố Hội Thánh mới — tất cả cùng minh chứng rằng Đức Chúa Trời dùng nhiều cách để Đạo Ngài được rao truyền khắp nơi."
 tags: ["Công Vụ", "Phi-e-rơ", "Ba-na-ba", "An-ti-ốt", "Hội Thánh", "Rao Giảng", "Đức Thánh Linh", "Cơ-đốc Nhân"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -30,7 +30,7 @@ Phao-lô đã khuyên Ti-mô-thê là không nên cải cãi nhất là những 
 
 ## Lòng Mềm Mại: Dấu Hiệu Của Thánh Linh
 
-Điều đáng chú ý trong câu 12 là Phi-e-rơ không đến nhà Cọt-nây một mình — ông đem theo sáu người anh em làm chứng. Đây là nguyên tắc quan trọng trong công việc hội thánh: bất kỳ việc gì có nhiều người cùng biết, cùng làm chứng, thì điều đó được xác thực và có trọng lượng hơn.
+Điều đáng chú ý trong câu 12 là Phi-e-rơ không đến nhà Cọt-nây một mình — ông đem theo sáu người anh em làm chứng. Đây là nguyên tắc quan trọng trong công việc Hội Thánh: bất kỳ việc gì có nhiều người cùng biết, cùng làm chứng, thì điều đó được xác thực và có trọng lượng hơn.
 
 Sau khi nghe Phi-e-rơ trình bày đầy đủ từ câu 1 đến câu 18, những người vừa mới trách móc ông đã hoàn toàn thay đổi. Câu 18 ghi: "Tín đồ nghe bấy nhiêu lời xong đều thỏa thuận và ngợi khen Đức Chúa Trời rằng: Vậy Đức Chúa Trời cũng đã ban sự ăn năn cho người ngoại để họ được sự sống."
 
@@ -40,7 +40,7 @@ Sau khi nghe Phi-e-rơ trình bày đầy đủ từ câu 1 đến câu 18, nh�
 
 ## Những Tín Đồ Vô Danh Và Sự Lan Rộng Tại An-ti-ốt
 
-Câu 19–21 thuật lại sự kiện đặc biệt: sau khi Ê-tiên bị ném đá và hội thánh bị bắt bớ dữ dội, những tín đồ tản lạc đi khắp nơi. Điều tưởng như tai họa — phải bỏ nhà bỏ quê, chạy trốn trong sợ hãi — lại trở thành phương tiện Đức Chúa Trời dùng để gieo Tin Lành đến các dân tộc mới.
+Câu 19–21 thuật lại sự kiện đặc biệt: sau khi Ê-tiên bị ném đá và Hội Thánh bị bắt bớ dữ dội, những tín đồ tản lạc đi khắp nơi. Điều tưởng như tai họa — phải bỏ nhà bỏ quê, chạy trốn trong sợ hãi — lại trở thành phương tiện Đức Chúa Trời dùng để gieo Tin Lành đến các dân tộc mới.
 
 Chúng ta thấy ba bước kế tiếp: giảng cho người Do Thái thuần túy, rồi đến người lai Do Thái, rồi đến người Hy Lạp. Đây là mô hình mở rộng tự nhiên — từ người thân thiết, gần gũi, bạn bè, đến bạn của bạn, rồi đến những người xa lạ.
 
@@ -52,11 +52,11 @@ Chúng ta thấy ba bước kế tiếp: giảng cho người Do Thái thuần t
 
 ## Sự Khôn Ngoan Của Ba-na-ba
 
-Khi tin đồn về sự phát triển của hội thánh tại An-ti-ốt đến tai ban lãnh đạo Giê-ru-sa-lem, họ sai Ba-na-ba đến. Đây là một lựa chọn vô cùng chính xác, bởi Kinh Thánh mô tả Ba-na-ba qua ba phẩm chất: ông là người lành, đầy dãy Thánh Linh, và có đức tin vững mạnh.
+Khi tin đồn về sự phát triển của Hội Thánh tại An-ti-ốt đến tai ban lãnh đạo Giê-ru-sa-lem, họ sai Ba-na-ba đến. Đây là một lựa chọn vô cùng chính xác, bởi Kinh Thánh mô tả Ba-na-ba qua ba phẩm chất: ông là người lành, đầy dãy Thánh Linh, và có đức tin vững mạnh.
 
-Nếu họ sai một người cực đoan, bảo thủ, khó khăn đến An-ti-ốt, hội thánh đó có lẽ đã không phát triển như những ngày sau đó. Ba-na-ba — người trước đó đã bênh vực Sau-lơ khi cả hội thánh nghi ngờ và muốn tẩy chay ông — là người có tấm lòng rộng mở, sẵn sàng đón nhận.
+Nếu họ sai một người cực đoan, bảo thủ, khó khăn đến An-ti-ốt, Hội Thánh đó có lẽ đã không phát triển như những ngày sau đó. Ba-na-ba — người trước đó đã bênh vực Sau-lơ khi cả Hội Thánh nghi ngờ và muốn tẩy chay ông — là người có tấm lòng rộng mở, sẵn sàng đón nhận.
 
-Khi đến nơi và thấy ơn Đức Chúa Trời, Ba-na-ba vui mừng và khuyên mọi người phải cứ vững lòng theo Chúa. Rồi ông còn đi thêm một bước nữa: tìm Sau-lơ tại Tạc-sơ và đưa ông đến An-ti-ốt. Trọn một năm, hai người cùng nhóm với hội thánh và dạy dỗ nhiều người.
+Khi đến nơi và thấy ơn Đức Chúa Trời, Ba-na-ba vui mừng và khuyên mọi người phải cứ vững lòng theo Chúa. Rồi ông còn đi thêm một bước nữa: tìm Sau-lơ tại Tạc-sơ và đưa ông đến An-ti-ốt. Trọn một năm, hai người cùng nhóm với Hội Thánh và dạy dỗ nhiều người.
 
 Bài học cho người lãnh đạo là phải biết giao đúng người cho đúng việc — cần cầu nguyện Chúa soi sáng để biết ai phù hợp với công việc nào. Và bài học cho người được sai đi là phải đặt ba điều lên trên: là người lành, đầu phục sự dẫn dắt của Thánh Linh, và có đức tin mạnh mẽ.
 

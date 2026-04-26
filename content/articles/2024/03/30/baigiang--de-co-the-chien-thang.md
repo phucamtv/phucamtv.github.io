@@ -54,7 +54,7 @@ Vào ngày 4 tháng 7 năm 1952, vận động viên bơi lội Florence Chadwic
 
 Đây chính là hình ảnh của nhiều tín hữu: không phải thiếu sức, nhưng thiếu tầm nhìn về đích đến. Khi chúng ta không nhìn rõ Đức Chúa Giê-su là điểm đến và nền tảng, chúng ta dễ bị xao lãng bởi con người, hoàn cảnh, hay những thất vọng trong cộng đồng.
 
-Sứ đồ Phao-lô viết cho hội thánh Phi-líp: *"Tôi cứ làm một điều: quên lửng sự ở đằng sau mà bương theo sự ở đằng trước, tôi nhắm mục đích mà chạy…"* (Phi-líp 3:13–14). Không phải nhìn theo người khác — dù là mục sư, lãnh đạo, hay bạn đồng hành — mà chỉ nhìn về một mình Chúa Cứu Thế.
+Sứ đồ Phao-lô viết cho Hội Thánh Phi-líp: *"Tôi cứ làm một điều: quên lửng sự ở đằng sau mà bương theo sự ở đằng trước, tôi nhắm mục đích mà chạy…"* (Phi-líp 3:13–14). Không phải nhìn theo người khác — dù là mục sư, lãnh đạo, hay bạn đồng hành — mà chỉ nhìn về một mình Chúa Cứu Thế.
 
 ## Lời kết: Cuộc đua xứng đáng để chạy
 

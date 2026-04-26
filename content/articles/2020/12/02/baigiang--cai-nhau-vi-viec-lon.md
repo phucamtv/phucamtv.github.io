@@ -2,7 +2,7 @@
 title: "Cãi Nhau Vì \"Việc Lớn\""
 date: 2020-12-02
 url: /baigiang/cai-nhau-vi-viec-lon/
-description: "Câu chuyện người bán cá tranh cãi về số quân của Tào Tháo là gương soi để nhắc nhở chúng ta: người khôn ngoan biết phân biệt việc gì đáng bàn và việc gì nên bỏ qua, nhất là trong hội thánh và đời sống đức tin."
+description: "Câu chuyện người bán cá tranh cãi về số quân của Tào Tháo là gương soi để nhắc nhở chúng ta: người khôn ngoan biết phân biệt việc gì đáng bàn và việc gì nên bỏ qua, nhất là trong Hội Thánh và đời sống đức tin."
 tags: ["Lời Nói", "Sự Khôn Ngoan", "Hội Thánh", "Quan Hệ", "I Ti-mô-thê"]
 authors:
   - duong-quang-thoai
@@ -25,9 +25,9 @@ Câu chuyện hài hước này trở thành tấm gương phản chiếu cho m�
 
 ## Người Sáng Dạ Biết Phân Định
 
-Ở bất kỳ môi trường nào — gia đình, hội thánh, nơi làm việc — đều có những chuyện vặt vãnh dễ tạo nên bất đồng. Người sáng dạ là người biết phân định: việc gì là "lớn" đáng tranh luận, việc gì là "nhỏ" đáng bỏ qua.
+Ở bất kỳ môi trường nào — gia đình, Hội Thánh, nơi làm việc — đều có những chuyện vặt vãnh dễ tạo nên bất đồng. Người sáng dạ là người biết phân định: việc gì là "lớn" đáng tranh luận, việc gì là "nhỏ" đáng bỏ qua.
 
-Chấp nhất mãi những chuyện không đâu không phải là tính cách của người hiểu biết. Trong hội thánh, có biết bao những điều tiểu tiết không đáng lưu tâm, nhưng lại được thổi phồng lên đến nỗi làm hỏng những mối quan hệ thiêng liêng, làm hư những việc trọng đại. Một cách sắp xếp bàn ghế, một quyết định nhỏ trong buổi nhóm, một câu nói bị hiểu lầm — những điều này không đáng trở thành đề tài tranh cãi kéo dài.
+Chấp nhất mãi những chuyện không đâu không phải là tính cách của người hiểu biết. Trong Hội Thánh, có biết bao những điều tiểu tiết không đáng lưu tâm, nhưng lại được thổi phồng lên đến nỗi làm hỏng những mối quan hệ thiêng liêng, làm hư những việc trọng đại. Một cách sắp xếp bàn ghế, một quyết định nhỏ trong buổi nhóm, một câu nói bị hiểu lầm — những điều này không đáng trở thành đề tài tranh cãi kéo dài.
 
 Tranh cãi những chuyện cỏn con để giành lấy phần đúng cho mình thường không mang lại lợi ích bao nhiêu. Dù có phân định được đúng sai, thì tình cảm cũng đã bị làm tổn thương. Cái giá phải trả — mối quan hệ rạn nứt, niềm tin sứt mẻ — thường cao hơn rất nhiều so với giá trị của điều đang được tranh cãi.
 
@@ -49,6 +49,6 @@ Sứ đồ Phao-lô căn dặn Ti-mô-thê: *"Những lời hư ngụy phàm t�
 
 Sứ điệp của bài học hôm nay không phải là giữ im lặng tuyệt đối. Có những lúc chúng ta cần lên tiếng — bảo vệ sự thật, chống lại điều sai trái, nâng đỡ người yếu đuối. Những việc đó là "việc lớn" thực sự, xứng đáng được tranh luận và bảo vệ.
 
-Nhưng hãy tự hỏi trước mỗi cuộc tranh luận: Điều này có phải là "việc lớn" thực sự không? Hay mình đang giống người bán cá — bỏ gánh cá ươn để cãi nhau về con số 73 hay 83 vạn quân? Tình cảm anh em, sự hiệp nhất trong hội thánh, mối quan hệ gia đình — những thứ đó quý giá hơn nhiều so với việc giành được phần đúng trong một cuộc tranh cãi nhỏ.
+Nhưng hãy tự hỏi trước mỗi cuộc tranh luận: Điều này có phải là "việc lớn" thực sự không? Hay mình đang giống người bán cá — bỏ gánh cá ươn để cãi nhau về con số 73 hay 83 vạn quân? Tình cảm anh em, sự hiệp nhất trong Hội Thánh, mối quan hệ gia đình — những thứ đó quý giá hơn nhiều so với việc giành được phần đúng trong một cuộc tranh cãi nhỏ.
 
 Người có lòng tin kính biết giữ lưỡi, biết chọn lời, biết khi nào nên nói và khi nào nên im lặng. Đó chính là dấu hiệu của một tâm hồn đã được Lời Chúa biến đổi từ bên trong.

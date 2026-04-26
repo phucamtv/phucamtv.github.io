@@ -12,15 +12,15 @@ draft: false
 
 {{< youtube "_mahxzjuf_M" >}}
 
-Cô-lô-se 2:16-17 là một trong những câu Kinh Thánh thường bị trích dẫn để lập luận rằng ngày Sa-bát đã bị bãi bỏ. Nhiều hội thánh căn cứ vào câu này để kết luận rằng Cơ-đốc nhân ngày nay không còn cần giữ ngày Sa-bát nữa. Nhưng kết luận ấy có thật sự đúng với ý nghĩa mà sứ đồ Phao-lô muốn truyền đạt không? Bài giảng này đi sâu vào bối cảnh trọn vẹn của sách Cô-lô-se để tìm câu trả lời rõ ràng từ chính lời Chúa.
+Cô-lô-se 2:16-17 là một trong những câu Kinh Thánh thường bị trích dẫn để lập luận rằng ngày Sa-bát đã bị bãi bỏ. Nhiều Hội Thánh căn cứ vào câu này để kết luận rằng Cơ-đốc nhân ngày nay không còn cần giữ ngày Sa-bát nữa. Nhưng kết luận ấy có thật sự đúng với ý nghĩa mà sứ đồ Phao-lô muốn truyền đạt không? Bài giảng này đi sâu vào bối cảnh trọn vẹn của sách Cô-lô-se để tìm câu trả lời rõ ràng từ chính lời Chúa.
 
 ## Nan Đề Của Hội Thánh Cô-lô-se
 
-Để hiểu đúng Cô-lô-se 2:16-17, trước hết phải nắm rõ trọng tâm vấn đề mà hội thánh Cô-lô-se đang gặp phải. Từ Cô-lô-se 1:9, sứ đồ Phao-lô cho biết ông nhận được tin tức về tình hình hội thánh và cầu nguyện không thôi, xin Đức Chúa Trời ban cho họ sự hiểu biết về ý muốn của Ngài với mọi thứ khôn ngoan thiêng liêng.
+Để hiểu đúng Cô-lô-se 2:16-17, trước hết phải nắm rõ trọng tâm vấn đề mà Hội Thánh Cô-lô-se đang gặp phải. Từ Cô-lô-se 1:9, sứ đồ Phao-lô cho biết ông nhận được tin tức về tình hình Hội Thánh và cầu nguyện không thôi, xin Đức Chúa Trời ban cho họ sự hiểu biết về ý muốn của Ngài với mọi thứ khôn ngoan thiêng liêng.
 
 Cô-lô-se 2:4 nói rõ hơn: có những kẻ dùng lời dỗ dành mà lừa dối anh em. Câu 8 cảnh báo: hãy giữ chừng kẻ lấy triết học và lời hư không, theo lời truyền khẩu của loài người, theo sơ học của thế gian, mà không theo Đấng Christ bắt anh em phục. Câu 18 tiếp tục: chớ để ai cướp lấy phần thưởng, là kẻ giả đò khiêm nhượng mà thờ lạy các thiên sứ.
 
-Như vậy, nan đề chính tại Cô-lô-se là có giáo sư giả xâm nhập hội thánh, đưa ra những triết lý sai lầm. Họ dùng triết học, sơ học thế gian, các quyền cai trị và thế lực, kể cả nghi lễ tôn giáo làm phương tiện để đến với Đức Chúa Trời mà không qua Đức Chúa Giê-su. Họ còn ép xác, tu khổ hạnh, nghĩ rằng bằng nỗ lực con người có thể đạt được sự cứu rỗi.
+Như vậy, nan đề chính tại Cô-lô-se là có giáo sư giả xâm nhập Hội Thánh, đưa ra những triết lý sai lầm. Họ dùng triết học, sơ học thế gian, các quyền cai trị và thế lực, kể cả nghi lễ tôn giáo làm phương tiện để đến với Đức Chúa Trời mà không qua Đức Chúa Giê-su. Họ còn ép xác, tu khổ hạnh, nghĩ rằng bằng nỗ lực con người có thể đạt được sự cứu rỗi.
 
 ## Đức Chúa Giê-su Là Phương Tiện Cứu Rỗi Duy Nhất
 

@@ -39,7 +39,7 @@ Khi kết hợp với tính từ *akeratos*, *katharos* chỉ rượu hoặc s�
 
 ## Cám Dỗ Của Bản Ngã
 
-Khi thực hiện những việc tốt đẹp, phục vụ Chúa, hay hầu việc trong hội thánh, chúng ta rất dễ để bản ngã len lỏi vào. Một mục sư giảng xong bài hay, nghe người ta khen liền cảm thấy tự đắc. Một ca sĩ hát xong bài thánh ca, được người nghe tán thưởng thì lòng bỗng nhiên vui sướng vì mình. Đây là cám dỗ nhẹ nhàng, không to tát như cướp của giết người, nhưng lại rất nguy hiểm vì nó pha trộn vào những hành vi thánh thiện.
+Khi thực hiện những việc tốt đẹp, phục vụ Chúa, hay hầu việc trong Hội Thánh, chúng ta rất dễ để bản ngã len lỏi vào. Một mục sư giảng xong bài hay, nghe người ta khen liền cảm thấy tự đắc. Một ca sĩ hát xong bài thánh ca, được người nghe tán thưởng thì lòng bỗng nhiên vui sướng vì mình. Đây là cám dỗ nhẹ nhàng, không to tát như cướp của giết người, nhưng lại rất nguy hiểm vì nó pha trộn vào những hành vi thánh thiện.
 
 Câu hỏi cần đặt ra là: Khi chúng ta giảng, hát, làm việc phước thiện, hay phục vụ Chúa — động lực của mình là gì? Là vì Chúa, hay có chút gì để mình được tôn vinh, được khen ngợi, được công nhận?
 

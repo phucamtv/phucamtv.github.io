@@ -24,7 +24,7 @@ Skutnik mặc một bộ đồ màu sậm, ngồi tại hàng ghế danh dự v�
 
 Cơ-đốc giáo gắn liền với tinh thần phục vụ con người. Chúa Cứu Thế đã mang hình ảnh của những kẻ đói, khát, trần truồng, bệnh tật và tù đày để làm hiện thân cho chính Ngài. Khước từ sự giúp đỡ họ tức là khước từ giúp đỡ Chúa. Thế nhưng chúng ta thường ít khi nhận ra Chúa trong những hình hài bi thảm ấy.
 
-Chúng ta cứ nghĩ rằng hầu việc Chúa là phải làm những gì to tát, vĩ đại — giảng đạo trên bục cao, lãnh đạo một hội thánh lớn, hay thực hiện những dự án truyền giáo tầm cỡ. Trong khi đó, chúng ta lại lãng quên sự phục vụ những kẻ khốn cùng ngay trong thế giới quanh ta: người hàng xóm ốm đau không ai thăm viếng, đứa trẻ lang thang không ai đoái hoài, người già neo đơn không ai nhớ đến.
+Chúng ta cứ nghĩ rằng hầu việc Chúa là phải làm những gì to tát, vĩ đại — giảng đạo trên bục cao, lãnh đạo một Hội Thánh lớn, hay thực hiện những dự án truyền giáo tầm cỡ. Trong khi đó, chúng ta lại lãng quên sự phục vụ những kẻ khốn cùng ngay trong thế giới quanh ta: người hàng xóm ốm đau không ai thăm viếng, đứa trẻ lang thang không ai đoái hoài, người già neo đơn không ai nhớ đến.
 
 Skutnik không nghĩ mình đang làm điều gì anh hùng. Anh chỉ thấy một con người đang chết đuối trong dòng sông băng giá, và anh không thể đứng nhìn. Đó chính là bản năng của tình thương — một tình thương không cân nhắc thiệt hơn, không tính toán phần thưởng. Và rốt cuộc, phần thưởng đã đến với anh theo cách không ai ngờ tới.
 

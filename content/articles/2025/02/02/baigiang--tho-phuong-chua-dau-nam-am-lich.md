@@ -2,7 +2,7 @@
 title: "Thờ Phượng Chúa Đầu Năm Âm Lịch | Mục sư Dương Quang Thoại"
 date: 2025-02-02
 url: /baigiang/tho-phuong-chua-dau-nam-am-lich/
-description: "Buổi thờ phượng đầu năm Âm lịch Ất Tỵ 2025 tại Hội Thánh Phúc Âm. Mục sư Dương Quang Thoại cùng hội thánh tạ ơn Chúa về một năm gìn giữ, dâng lời cầu nguyện đầu năm mới, và suy gẫm lời Kinh Thánh trong Phục Truyền Luật Lệ Ký đoạn 28 về phước lành dành cho người vâng theo Chúa."
+description: "Buổi thờ phượng đầu năm Âm lịch Ất Tỵ 2025 tại Hội Thánh Phúc Âm. Mục sư Dương Quang Thoại cùng Hội Thánh tạ ơn Chúa về một năm gìn giữ, dâng lời cầu nguyện đầu năm mới, và suy gẫm lời Kinh Thánh trong Phục Truyền Luật Lệ Ký đoạn 28 về phước lành dành cho người vâng theo Chúa."
 tags: ["Năm Mới", "Thờ Phượng", "Tạ Ơn", "Phước Lành", "Phục Truyền Luật Lệ Ký", "Cầu Nguyện", "Hội Thánh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -22,7 +22,7 @@ Buổi thờ phượng mở đầu bằng lời Kinh Thánh trong sách Phục T
 
 ## Tạ Ơn Chúa Về Sự Gìn Giữ
 
-Tác giả Thi Thiên nhắc nhở chúng ta: chớ quên các ân huệ của Ngài. Trong buổi thờ phượng đầu năm, hội thánh đã cùng nhau bày tỏ lòng biết ơn về sự gìn giữ của Chúa trên đời sống của tất cả mọi người. Dù trong suốt một năm qua, có những lúc rơi vào hoàn cảnh khó khăn, thử thách, nhưng chính những lúc đó, con cái Chúa càng nhận ra mình cần có Chúa nhiều hơn.
+Tác giả Thi Thiên nhắc nhở chúng ta: chớ quên các ân huệ của Ngài. Trong buổi thờ phượng đầu năm, Hội Thánh đã cùng nhau bày tỏ lòng biết ơn về sự gìn giữ của Chúa trên đời sống của tất cả mọi người. Dù trong suốt một năm qua, có những lúc rơi vào hoàn cảnh khó khăn, thử thách, nhưng chính những lúc đó, con cái Chúa càng nhận ra mình cần có Chúa nhiều hơn.
 
 Sự tạ ơn không chỉ dừng lại ở lời nói mà còn thể hiện qua sự dâng hiến rộng rãi. Khi chúng ta nhìn lại một năm đã qua và nhận ra bàn tay gìn giữ của Đức Chúa Trời trong mọi hoàn cảnh, lòng biết ơn tự nhiên tuôn tràn. Từ sức khỏe được bảo toàn, gia đình được bình an, đến công việc được Chúa ban phước — tất cả đều là ân điển từ trên cao.
 
@@ -30,9 +30,9 @@ Sự tạ ơn không chỉ dừng lại ở lời nói mà còn thể hiện qua
 
 ## Lời Cầu Nguyện Đầu Năm
 
-Lời cầu nguyện đầu năm mang một ý nghĩa đặc biệt. Mục sư đã dẫn dắt hội thánh trong lời cầu nguyện, dâng trọn hội thánh, các gia đình, và những người thân lên cho Chúa. Lời cầu xin Chúa ban phước, chăm gìn, và bảo vệ trong một năm mới vang lên từ tấm lòng thành kính.
+Lời cầu nguyện đầu năm mang một ý nghĩa đặc biệt. Mục sư đã dẫn dắt Hội Thánh trong lời cầu nguyện, dâng trọn Hội Thánh, các gia đình, và những người thân lên cho Chúa. Lời cầu xin Chúa ban phước, chăm gìn, và bảo vệ trong một năm mới vang lên từ tấm lòng thành kính.
 
-Đặc biệt, các bậc trung niên và cao niên trong hội thánh đã được tôn vinh và cầu nguyện cho sức khỏe, sự bình an, và niềm vui cho đến ngày Chúa trở lại. Hội thánh cũng dâng các cháu nhỏ lên cho Chúa, cầu xin Ngài ban phước và hướng dẫn thế hệ tương lai trong đường lối của Ngài. Đây là hình ảnh đẹp của một cộng đồng đức tin, nơi mọi thế hệ cùng hiệp một trong sự thờ phượng.
+Đặc biệt, các bậc trung niên và cao niên trong Hội Thánh đã được tôn vinh và cầu nguyện cho sức khỏe, sự bình an, và niềm vui cho đến ngày Chúa trở lại. Hội Thánh cũng dâng các cháu nhỏ lên cho Chúa, cầu xin Ngài ban phước và hướng dẫn thế hệ tương lai trong đường lối của Ngài. Đây là hình ảnh đẹp của một cộng đồng đức tin, nơi mọi thế hệ cùng hiệp một trong sự thờ phượng.
 
 ---
 
@@ -46,16 +46,16 @@ Phước lành được mô tả ở đây không phải là điều mơ hồ ha
 
 ## Tình Thân Ái Trong Hội Thánh
 
-Một nét đẹp trong buổi thờ phượng đầu năm là sự chúc mừng lẫn nhau giữa anh chị em trong hội thánh. Quý bà và quý cô chúc mừng quý ông và quý anh, rồi cả hội thánh cùng bắt tay nhau, chúc mừng năm mới cho những người chung quanh — phía trước, phía sau, bên phải, bên trái. Mỗi người chúc ít nhất bốn người, tạo nên một bầu không khí yêu thương và ấm cúng.
+Một nét đẹp trong buổi thờ phượng đầu năm là sự chúc mừng lẫn nhau giữa anh chị em trong Hội Thánh. Quý bà và quý cô chúc mừng quý ông và quý anh, rồi cả Hội Thánh cùng bắt tay nhau, chúc mừng năm mới cho những người chung quanh — phía trước, phía sau, bên phải, bên trái. Mỗi người chúc ít nhất bốn người, tạo nên một bầu không khí yêu thương và ấm cúng.
 
-Hội thánh cũng nhận được những phần quà đặc biệt trong dịp đầu năm, trong đó có những đoàn bánh tét — món ăn truyền thống của Tết Nguyên Đán. Sự chia sẻ này phản ánh tình thân ái và sự quan tâm lẫn nhau trong cộng đồng đức tin.
+Hội Thánh cũng nhận được những phần quà đặc biệt trong dịp đầu năm, trong đó có những đoàn bánh tét — món ăn truyền thống của Tết Nguyên Đán. Sự chia sẻ này phản ánh tình thân ái và sự quan tâm lẫn nhau trong cộng đồng đức tin.
 
 ---
 
 ## Hướng Về Tương Lai Với Đức Tin
 
-Bước vào năm Ất Tỵ, hội thánh không chỉ nhìn lại quá khứ để tạ ơn mà còn hướng về phía trước với lòng tin cậy nơi Chúa. Như lời bài Thánh ca vang lên trong buổi thờ phượng: Chúa là ánh sáng soi đường, nên con không sợ gì. Ngày đêm Chúa bên luôn, Ngài đưa bước chân con.
+Bước vào năm Ất Tỵ, Hội Thánh không chỉ nhìn lại quá khứ để tạ ơn mà còn hướng về phía trước với lòng tin cậy nơi Chúa. Như lời bài Thánh ca vang lên trong buổi thờ phượng: Chúa là ánh sáng soi đường, nên con không sợ gì. Ngày đêm Chúa bên luôn, Ngài đưa bước chân con.
 
 Dù tương lai phía trước có thể còn nhiều thử thách và khó khăn, nhưng với lời hứa từ Phục Truyền Luật Lệ Ký đoạn 28 làm nền tảng, con cái Chúa có thể an tâm bước đi. Đức Chúa Trời đã gìn giữ trong năm qua, và Ngài sẽ tiếp tục chăm sóc trong năm mới. Điều quan trọng là mỗi người hãy giữ vững đức tin, vâng theo lời Chúa, và luôn đặt Ngài ở vị trí trung tâm trong cuộc sống.
 
-Buổi thờ phượng khép lại với lời nhắc nhở về lễ kỷ niệm sắp tới của hội thánh vào ngày 9 tháng 3, và lời cầu chúc Chúa ở cùng với tất cả ông bà anh chị trong năm mới đầy phước hạnh.
+Buổi thờ phượng khép lại với lời nhắc nhở về lễ kỷ niệm sắp tới của Hội Thánh vào ngày 9 tháng 3, và lời cầu chúc Chúa ở cùng với tất cả ông bà anh chị trong năm mới đầy phước hạnh.

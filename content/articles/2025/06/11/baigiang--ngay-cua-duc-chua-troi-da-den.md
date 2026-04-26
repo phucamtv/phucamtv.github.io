@@ -18,9 +18,9 @@ Sau khi các môn đồ nhận được Đức Thánh Linh trong ngày Lễ Ngũ
 
 ## Lời Tiên Tri Giô-ên Được Ứng Nghiệm
 
-Phi-e-rơ trích dẫn lời tiên tri của Giô-ên đoạn 2, câu 28 đến 32, về việc Đức Chúa Trời sẽ đổ Thần Ngài trên mọi loài xác thịt: con trai, con gái, người trẻ, người già đều sẽ nói lời tiên tri và thấy điềm lạ. Các nhà nghiên cứu Kinh Thánh thường cho rằng Lễ Ngũ Tuần là cơn mưa đầu mùa, khi Thánh Linh giáng xuống cách đầy dẫy trên hội thánh để khởi đầu việc truyền bá phúc âm. Và trước ngày cuối cùng, Chúa sẽ đổ cơn mưa cuối mùa, ban đầy dẫy ân tứ cho hội thánh để kết thúc chương trình cứu rỗi, chuẩn bị cho ngày Chúa Giêsu tái lâm.
+Phi-e-rơ trích dẫn lời tiên tri của Giô-ên đoạn 2, câu 28 đến 32, về việc Đức Chúa Trời sẽ đổ Thần Ngài trên mọi loài xác thịt: con trai, con gái, người trẻ, người già đều sẽ nói lời tiên tri và thấy điềm lạ. Các nhà nghiên cứu Kinh Thánh thường cho rằng Lễ Ngũ Tuần là cơn mưa đầu mùa, khi Thánh Linh giáng xuống cách đầy dẫy trên Hội Thánh để khởi đầu việc truyền bá phúc âm. Và trước ngày cuối cùng, Chúa sẽ đổ cơn mưa cuối mùa, ban đầy dẫy ân tứ cho Hội Thánh để kết thúc chương trình cứu rỗi, chuẩn bị cho ngày Chúa Giêsu tái lâm.
 
-Tuy nhiên, trong thời kỳ cuối cùng cũng sẽ có tiên tri giả, giáo sư giả và thầy giảng giả. Vì vậy, Kinh Thánh chính là nền tảng duy nhất để chúng ta trắc nghiệm: những gì người ấy nói có phù hợp với Kinh Thánh không, có ích lợi cho sự phát triển hội thánh không, và đời sống người đó có bông trái của Thánh Linh hay không.
+Tuy nhiên, trong thời kỳ cuối cùng cũng sẽ có tiên tri giả, giáo sư giả và thầy giảng giả. Vì vậy, Kinh Thánh chính là nền tảng duy nhất để chúng ta trắc nghiệm: những gì người ấy nói có phù hợp với Kinh Thánh không, có ích lợi cho sự phát triển Hội Thánh không, và đời sống người đó có bông trái của Thánh Linh hay không.
 
 ## Chúa Giêsu Chính Là Đấng Mê-si
 
@@ -32,10 +32,10 @@ Dân Israel thời bấy giờ và cho đến ngày nay vẫn có nhiều ngư�
 
 ## Sự Phục Sinh Là Nền Tảng Của Hội Thánh
 
-Phi-e-rơ và các sứ đồ làm chứng cách mạnh mẽ về sự sống lại của Chúa Giêsu vì chính họ đã tận mắt chứng kiến. Họ đã ở với Chúa, thấy Ngài bị chôn, thấy Ngài sống lại, ở với Ngài một thời gian rồi chứng kiến Ngài về trời. Nếu Chúa Giêsu không phục sinh thì hội thánh hoàn toàn vô nghĩa, không có lý do gì để tồn tại.
+Phi-e-rơ và các sứ đồ làm chứng cách mạnh mẽ về sự sống lại của Chúa Giêsu vì chính họ đã tận mắt chứng kiến. Họ đã ở với Chúa, thấy Ngài bị chôn, thấy Ngài sống lại, ở với Ngài một thời gian rồi chứng kiến Ngài về trời. Nếu Chúa Giêsu không phục sinh thì Hội Thánh hoàn toàn vô nghĩa, không có lý do gì để tồn tại.
 
 ## Lời Kêu Gọi Hối Cải
 
 Sau bài giảng, người nghe cảm động trong lòng và hỏi rằng: chúng tôi phải làm chi? Khi con người nhận ra mối liên hệ giữa tội lỗi mình với cái chết của Chúa trên thập tự giá, lòng họ được đánh động. Nhưng cảm xúc mà không dẫn đến hành động thì hoàn toàn vô nghĩa, chỉ giữ lại trong phạm vi ích kỷ của mình.
 
-Phi-e-rơ đưa ra bốn bước: hối cải, chịu phép báp-têm nhân danh Đức Chúa Giêsu, được tha tội, và nhận lãnh Đức Thánh Linh. Chữ hối cải trong nguyên ngữ có nghĩa là suy nghĩ lại, thay đổi ý kiến, và khi đã thay đổi ý kiến thì phải thay đổi hành động. Kết quả là trong ngày ấy có khoảng ba ngàn người tin nhận Chúa và thêm vào hội thánh, một con số đáng kinh ngạc cho thấy quyền phép của Đức Thánh Linh qua bài giảng đầu tiên của hội thánh.
+Phi-e-rơ đưa ra bốn bước: hối cải, chịu phép báp-têm nhân danh Đức Chúa Giêsu, được tha tội, và nhận lãnh Đức Thánh Linh. Chữ hối cải trong nguyên ngữ có nghĩa là suy nghĩ lại, thay đổi ý kiến, và khi đã thay đổi ý kiến thì phải thay đổi hành động. Kết quả là trong ngày ấy có khoảng ba ngàn người tin nhận Chúa và thêm vào Hội Thánh, một con số đáng kinh ngạc cho thấy quyền phép của Đức Thánh Linh qua bài giảng đầu tiên của Hội Thánh.

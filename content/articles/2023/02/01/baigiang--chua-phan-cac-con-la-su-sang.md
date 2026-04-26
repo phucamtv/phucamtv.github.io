@@ -24,7 +24,7 @@ Tuy nhiên, Chúa không đòi hỏi chúng ta phải tự tạo ra ánh sáng. 
 
 Đức Chúa Giê-su dùng hình ảnh rất cụ thể: một cái thành ở trên núi thì không thể bị khuất, và không ai thắp đèn mà lại lấy thùng úp lên. Ở Palestine thời đó, nhà cửa chỉ có cửa sổ nhỏ đường kính khoảng bốn đến năm tấc, nên trong nhà rất tối. Đèn dầu được giữ cháy liên tục vì việc nhóm lại lửa rất khó khăn. Vì thế, đèn luôn được đặt trên cao để soi sáng cho mọi người trong nhà.
 
-Cũng vậy, ánh sáng của Cơ-đốc nhân không thể chỉ chiếu sáng trong nội bộ nhà thờ. Nếu chỉ sáng trong hội thánh mà ra bên ngoài lại sống như người không có Chúa, thì chẳng khác nào lấy thùng úp đèn lại. Người xưa nói rằng không có môn đồ bí mật — nếu thật sự là môn đồ của Chúa thì tư cách ấy phải được bày tỏ qua mọi sinh hoạt hàng ngày: cách ăn nói, đi đứng, giao tiếp, đối xử trong gia đình lẫn ngoài xã hội.
+Cũng vậy, ánh sáng của Cơ-đốc nhân không thể chỉ chiếu sáng trong nội bộ nhà thờ. Nếu chỉ sáng trong Hội Thánh mà ra bên ngoài lại sống như người không có Chúa, thì chẳng khác nào lấy thùng úp đèn lại. Người xưa nói rằng không có môn đồ bí mật — nếu thật sự là môn đồ của Chúa thì tư cách ấy phải được bày tỏ qua mọi sinh hoạt hàng ngày: cách ăn nói, đi đứng, giao tiếp, đối xử trong gia đình lẫn ngoài xã hội.
 
 Một thực trạng đau lòng là nhiều tín đồ sống hai con người: ở nhà thờ thì tin kính, yêu thương, nhã nhặn, nhưng về nhà hay ra ngoài thì hoàn toàn khác. Chúa không phán rằng chúng ta là ánh sáng của nhà thờ, mà là ánh sáng của thế gian.
 
@@ -38,11 +38,11 @@ Vạn vật cần ánh sáng để tồn tại. Trong tuần lễ tạo thế, �
 
 ### 2. Ánh Sáng Để Soi Đường
 
-Nếu đường phố không có đèn, cửa biển không có hải đăng, việc di chuyển sẽ vô cùng nguy hiểm. Cơ-đốc nhân được kêu gọi soi đường cho người khác, dẫn họ đến chân lý. Soi đường đồng nghĩa với làm gương — Chúa muốn chúng ta phải đi trước bằng chính đời sống mình, không chỉ trong hội thánh mà ra giữa thế gian, nơi nhiều người không phân biệt được đúng sai vì không có lời Chúa.
+Nếu đường phố không có đèn, cửa biển không có hải đăng, việc di chuyển sẽ vô cùng nguy hiểm. Cơ-đốc nhân được kêu gọi soi đường cho người khác, dẫn họ đến chân lý. Soi đường đồng nghĩa với làm gương — Chúa muốn chúng ta phải đi trước bằng chính đời sống mình, không chỉ trong Hội Thánh mà ra giữa thế gian, nơi nhiều người không phân biệt được đúng sai vì không có lời Chúa.
 
 ### 3. Ánh Sáng Để Sưởi Ấm
 
-Thế gian này lạnh lẽo vì tội lỗi, đẩy con người vào cô đơn và mặc cảm. Hội thánh và mỗi Cơ-đốc nhân phải là nguồn ấm áp từ tình yêu của Chúa. Câu chuyện về hai nữ tu đến thăm một phạm nhân nữ trong tù minh họa rõ điều này: chính một cái ôm trong sáng từ người có Chúa đã chạm đến tâm hồn tội lỗi và mở ra cánh cửa thay đổi.
+Thế gian này lạnh lẽo vì tội lỗi, đẩy con người vào cô đơn và mặc cảm. Hội Thánh và mỗi Cơ-đốc nhân phải là nguồn ấm áp từ tình yêu của Chúa. Câu chuyện về hai nữ tu đến thăm một phạm nhân nữ trong tù minh họa rõ điều này: chính một cái ôm trong sáng từ người có Chúa đã chạm đến tâm hồn tội lỗi và mở ra cánh cửa thay đổi.
 
 ### 4. Ánh Sáng Để Thanh Tẩy
 

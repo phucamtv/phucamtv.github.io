@@ -18,15 +18,15 @@ notion_id: 9587d108-6b1c-4e5d-9b5d-ab9818809055
 
 Nhiều người nghĩ đến Khải Huyền là nghĩ ngay đến con thú, trận chiến Ha-ma-ghê-đôn, hay quyền lực Babylon trong thời cuối cùng. Nhưng Mục sư Đặng Thanh Phong chỉ ra rằng chương 1 — chương mở đầu của toàn bộ sách — lại tập trung hoàn toàn vào Đức Chúa Giê-su. Đây không phải là sự ngẫu nhiên.
 
-Đức Chúa Trời biết rõ những giáo lý sai lầm nào sẽ nổi lên trong những ngày cuối cùng. Trước khi dẫn dắt hội thánh qua các thị tượng và tiên tri về tình trạng thế giới, Ngài đặt nền tảng bằng ba hình ảnh đặc biệt về Đức Chúa Giê-su — để dân sự Ngài không bị lầm lạc về Đấng mình đang thờ phượng và tin cậy.
+Đức Chúa Trời biết rõ những giáo lý sai lầm nào sẽ nổi lên trong những ngày cuối cùng. Trước khi dẫn dắt Hội Thánh qua các thị tượng và tiên tri về tình trạng thế giới, Ngài đặt nền tảng bằng ba hình ảnh đặc biệt về Đức Chúa Giê-su — để dân sự Ngài không bị lầm lạc về Đấng mình đang thờ phượng và tin cậy.
 
 ---
 
 ## Hình Ảnh Thứ Nhất: Đức Chúa Giê-su Là Đức Chúa Trời
 
-Một giáo lý ngày càng lan rộng trong hội thánh là quan điểm cho rằng Đức Chúa Giê-su không ngang bằng Đức Chúa Trời — rằng Ngài chỉ là một tạo vật cao cấp do Đức Chúa Cha sinh ra. Khải Huyền chương 1 bác bỏ điều này một cách rõ ràng.
+Một giáo lý ngày càng lan rộng trong Hội Thánh là quan điểm cho rằng Đức Chúa Giê-su không ngang bằng Đức Chúa Trời — rằng Ngài chỉ là một tạo vật cao cấp do Đức Chúa Cha sinh ra. Khải Huyền chương 1 bác bỏ điều này một cách rõ ràng.
 
-Câu 4-5 ghi lại lời chào thăm gửi cho bảy hội thánh, với ân điển và sự bình an ban đến từ ba nguồn: Đức Chúa Cha, bảy vị thần (tức Đức Thánh Linh), và Đức Chúa Giê-su. Ba Đấng cùng đứng ngang hàng làm nguồn gốc của ân điển — điều này cho thấy sự bình đẳng, không phải thứ bậc. Ở câu 8, Đức Chúa Trời tuyên bố: "Ta là Alpha và Omega." Đến câu 17-18, chính Đức Chúa Giê-su cũng tuyên bố: "Ta là Đấng Trước hết và là Đấng Sau cùng, là Đấng đang sống." Cùng một danh xưng, cùng một tuyên bố về bản thể — đây không phải là sự phạm thượng, mà là sự xác nhận Ngài chính là Đức Chúa Trời trở thành con người.
+Câu 4-5 ghi lại lời chào thăm gửi cho bảy Hội Thánh, với ân điển và sự bình an ban đến từ ba nguồn: Đức Chúa Cha, bảy vị thần (tức Đức Thánh Linh), và Đức Chúa Giê-su. Ba Đấng cùng đứng ngang hàng làm nguồn gốc của ân điển — điều này cho thấy sự bình đẳng, không phải thứ bậc. Ở câu 8, Đức Chúa Trời tuyên bố: "Ta là Alpha và Omega." Đến câu 17-18, chính Đức Chúa Giê-su cũng tuyên bố: "Ta là Đấng Trước hết và là Đấng Sau cùng, là Đấng đang sống." Cùng một danh xưng, cùng một tuyên bố về bản thể — đây không phải là sự phạm thượng, mà là sự xác nhận Ngài chính là Đức Chúa Trời trở thành con người.
 
 Khải Huyền 4-5 càng khẳng định thêm điều này: Đức Chúa Cha ngồi trên ngôi và được thờ phượng với ba điều ngợi khen; Đức Chúa Giê-su cũng ngồi chính giữa ngôi và được thờ phượng với bảy điều ngợi khen, cùng với thiên sứ vây quanh. Nếu Ngài không phải là Đức Chúa Trời, làm sao có thể được thờ phượng và ngồi ngay trên ngôi cùng với Đức Chúa Cha?
 
@@ -46,7 +46,7 @@ Tình yêu của Đức Chúa Trời không phải là tình yêu chiều chuộ
 
 Khải Huyền 1:7 tuyên bố: "Kìa, Ngài đến giữa những đám mây, mọi mắt sẽ trông thấy." Không có chỗ nào để hiểu đây là sự đến âm thầm hay bí mật. Ngay cả những kẻ đã đâm Ngài — đã chết từ lâu — cũng sẽ được sống lại để nhìn thấy sự Tái Lâm của Ngài.
 
-Một số hội thánh ngày nay rao giảng rằng Đức Chúa Giê-su sẽ tái lâm hai lần: lần đầu đến âm thầm bí mật để "cất" hội thánh đi, lần sau mới đến công khai. Kinh Thánh không dạy điều này. I Tê-sa-lô-ni-ca 4:13-17 mô tả rõ: Chúa giáng xuống với tiếng kêu lớn, tiếng của thiên sứ, và tiếng kèn của Đức Chúa Trời — kẻ chết trong Ngài sống lại, rồi những người còn sống được đem lên cùng. Đây không phải cảnh âm thầm bí mật.
+Một số Hội Thánh ngày nay rao giảng rằng Đức Chúa Giê-su sẽ tái lâm hai lần: lần đầu đến âm thầm bí mật để "cất" Hội Thánh đi, lần sau mới đến công khai. Kinh Thánh không dạy điều này. I Tê-sa-lô-ni-ca 4:13-17 mô tả rõ: Chúa giáng xuống với tiếng kêu lớn, tiếng của thiên sứ, và tiếng kèn của Đức Chúa Trời — kẻ chết trong Ngài sống lại, rồi những người còn sống được đem lên cùng. Đây không phải cảnh âm thầm bí mật.
 
 Ma-thi-ơ 24:23-27 cảnh báo rõ ràng: nếu có ai nói Đấng Christ ở đây hay ở kia, đừng tin. Sự Tái Lâm thật của Đức Chúa Giê-su sẽ như chớp phát ra từ phương Đông đến phương Tây — toàn thế giới nhìn thấy, không thể bỏ lỡ. II Tê-sa-lô-ni-ca 2 còn cảnh báo thêm: trước đó sẽ có một sự tái lâm giả — kẻ nghịch cùng luật pháp hiện ra, dùng quyền phép ma quỷ để lừa dối. Những ai không vững trong lẽ thật sẽ bị đánh lừa.
 
@@ -54,6 +54,6 @@ Ma-thi-ơ 24:23-27 cảnh báo rõ ràng: nếu có ai nói Đấng Christ ở �
 
 ## Nền Tảng Giáo Lý Cho Thời Cuối Cùng
 
-Ba hình ảnh mở đầu Sách Khải Huyền không phải là lý thuyết thần học xa vời. Đây là những nền tảng mà dân sự Đức Chúa Trời cần nắm vững để đứng vững trong thời kỳ cuối cùng, khi nhiều giáo lý sai lầm tấn công vào hội thánh từ nhiều phía.
+Ba hình ảnh mở đầu Sách Khải Huyền không phải là lý thuyết thần học xa vời. Đây là những nền tảng mà dân sự Đức Chúa Trời cần nắm vững để đứng vững trong thời kỳ cuối cùng, khi nhiều giáo lý sai lầm tấn công vào Hội Thánh từ nhiều phía.
 
 Đức Chúa Giê-su là Đức Chúa Trời — bác bỏ mọi giáo lý hạ thấp thần tính của Ngài. Đức Chúa Giê-su cứu rỗi trọn vẹn — không chỉ tha tội mà còn biến đổi và ủy thác. Đức Chúa Giê-su Tái Lâm một lần duy nhất, vinh hiển và công khai — không có chỗ cho thuyết "cất lên bí mật." Những ai hiểu đúng về Đấng mình tin thờ sẽ không bị lừa dối bởi những giáo lý giả mà ma quỷ sẽ tung ra trong những ngày cuối cùng.

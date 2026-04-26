@@ -2,7 +2,7 @@
 title: "Hình Pháp Không Nghiêm"
 date: 2020-12-16
 url: /baigiang/hinh-phap-khong-nghiem/
-description: "Qua câu chuyện Tề Hoàn Công và Ngu Công, bài học nhắc nhở rằng kỷ cương và phép tắc là nền tảng để duy trì trật tự — dù trong quốc gia, hội thánh hay gia đình. Khi người lãnh đạo không nghiêm minh, kẻ gian lộng hành và người ngay phải chịu thiệt thòi."
+description: "Qua câu chuyện Tề Hoàn Công và Ngu Công, bài học nhắc nhở rằng kỷ cương và phép tắc là nền tảng để duy trì trật tự — dù trong quốc gia, Hội Thánh hay gia đình. Khi người lãnh đạo không nghiêm minh, kẻ gian lộng hành và người ngay phải chịu thiệt thòi."
 tags: ["Kỷ Cương", "Lãnh Đạo", "Hội Thánh", "Gia Đình", "Chắp Cánh Bay Cao"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -26,15 +26,15 @@ Nhận ra điều đó, Tề Hoàn Công và Quản Trọng lập tức lo chỉ
 
 ## Thượng Bất Chính, Hạ Tất Loạn
 
-Câu ngạn ngữ xưa dạy rằng: trên không ngay thẳng thì dưới ắt phải rối loạn. Nguyên tắc này áp dụng cho mọi cấp độ trong xã hội — từ quốc gia đến hội thánh, từ tổ chức đến gia đình. Khi người đứng đầu không giữ kỷ cương, không duy trì phép tắc, thì người dưới sẽ tùy tiện, kẻ gian sẽ lộng hành, và người lương thiện phải gánh chịu thiệt thòi.
+Câu ngạn ngữ xưa dạy rằng: trên không ngay thẳng thì dưới ắt phải rối loạn. Nguyên tắc này áp dụng cho mọi cấp độ trong xã hội — từ quốc gia đến Hội Thánh, từ tổ chức đến gia đình. Khi người đứng đầu không giữ kỷ cương, không duy trì phép tắc, thì người dưới sẽ tùy tiện, kẻ gian sẽ lộng hành, và người lương thiện phải gánh chịu thiệt thòi.
 
-Hội thánh cần có kỷ cương của hội thánh. Gia đình cần có phép tắc của gia đình. Những quy định, nguyên tắc được đặt ra không phải để gò bó hay áp bức, mà để bảo vệ sự công bằng, giữ gìn trật tự và mang lại sự bình an cho mọi người. Khi những nguyên tắc ấy không được duy trì, sự bình yên cũng sẽ không còn.
+Hội Thánh cần có kỷ cương của Hội Thánh. Gia đình cần có phép tắc của gia đình. Những quy định, nguyên tắc được đặt ra không phải để gò bó hay áp bức, mà để bảo vệ sự công bằng, giữ gìn trật tự và mang lại sự bình an cho mọi người. Khi những nguyên tắc ấy không được duy trì, sự bình yên cũng sẽ không còn.
 
 ## Bài Học Về Sự Phục Thiện
 
 Điều đáng quý trong câu chuyện Tề Hoàn Công không chỉ là việc nhận ra vấn đề, mà còn là thái độ phục thiện — sẵn sàng thừa nhận sai lầm và nhanh chóng hành động sửa đổi. Ban đầu vua cười chê Ngu Công là ngu, nhưng khi được Quản Trọng chỉ ra bản chất thật sự của vấn đề, vua đã không biện minh, không chối bỏ trách nhiệm, mà lập tức cùng tể tướng lo chỉnh đốn hình pháp.
 
-Trong đời sống đức tin, tinh thần phục thiện là điều Chúa đẹp lòng. Nếu nơi nào — dù là quốc gia, hội thánh hay gia đình — cũng biết điều hành với tinh thần sẵn sàng lắng nghe, nhận lỗi và sửa đổi như Tề Hoàn Công, thì thật phước hạnh vô cùng.
+Trong đời sống đức tin, tinh thần phục thiện là điều Chúa đẹp lòng. Nếu nơi nào — dù là quốc gia, Hội Thánh hay gia đình — cũng biết điều hành với tinh thần sẵn sàng lắng nghe, nhận lỗi và sửa đổi như Tề Hoàn Công, thì thật phước hạnh vô cùng.
 
 ## Mọi Sự Phải Phép Và Theo Thứ Tự
 

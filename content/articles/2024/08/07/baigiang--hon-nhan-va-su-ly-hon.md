@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 19:1-9
 
-Bài giảng này đi sâu vào một đề tài vừa nhạy cảm vừa thiết thực trong đời sống đức tin — vấn đề hôn nhân và ly hôn dưới ánh sáng lời Đức Chúa Giê-su dạy trong Ma-thi-ơ 19:1-9. Mục sư Dương Quang Thoại dẫn dắt hội thánh từ bối cảnh lịch sử Do Thái cho đến những nguyên tắc thiêng liêng mà Đức Chúa Trời đã thiết lập cho hôn nhân ngay từ thuở ban đầu.
+Bài giảng này đi sâu vào một đề tài vừa nhạy cảm vừa thiết thực trong đời sống đức tin — vấn đề hôn nhân và ly hôn dưới ánh sáng lời Đức Chúa Giê-su dạy trong Ma-thi-ơ 19:1-9. Mục sư Dương Quang Thoại dẫn dắt Hội Thánh từ bối cảnh lịch sử Do Thái cho đến những nguyên tắc thiêng liêng mà Đức Chúa Trời đã thiết lập cho hôn nhân ngay từ thuở ban đầu.
 
 ---
 
@@ -60,8 +60,8 @@ Nhiều cuộc hôn nhân đổ vỡ vì sự tìm hiểu chưa đến nơi đ�
 
 ## Thực Trạng Và Lòng Thương Xót
 
-Trong thực tế mục vụ suốt gần bốn mươi năm, Mục sư chia sẻ rằng luôn đặt nền tảng trên Kinh Thánh để khuyên các cặp vợ chồng chịu đựng lẫn nhau, nếu không thể thì ly thân và cầu nguyện chờ Chúa hành động. Tuy nhiên, cũng có những trường hợp mà cuộc hôn nhân trở thành địa ngục trần gian dù không có ngoại tình — và đó là thực tế mà hội thánh cần đối diện với lòng thương xót.
+Trong thực tế mục vụ suốt gần bốn mươi năm, Mục sư chia sẻ rằng luôn đặt nền tảng trên Kinh Thánh để khuyên các cặp vợ chồng chịu đựng lẫn nhau, nếu không thể thì ly thân và cầu nguyện chờ Chúa hành động. Tuy nhiên, cũng có những trường hợp mà cuộc hôn nhân trở thành địa ngục trần gian dù không có ngoại tình — và đó là thực tế mà Hội Thánh cần đối diện với lòng thương xót.
 
-Các hội thánh ngày nay có quan điểm rất khác nhau: có nơi dứt phép thông công cả hai khi ly hôn, có nơi cho ly hôn nhưng không làm lễ tái hôn trong nhà thờ, có nơi chấp nhận hoàn toàn. Tất cả đều cho thấy đây là vấn đề phức tạp và tế nhị mà mỗi hội thánh phải cân nhắc giữa nguyên tắc Kinh Thánh và thực tế đời sống.
+Các Hội Thánh ngày nay có quan điểm rất khác nhau: có nơi dứt phép thông công cả hai khi ly hôn, có nơi cho ly hôn nhưng không làm lễ tái hôn trong nhà thờ, có nơi chấp nhận hoàn toàn. Tất cả đều cho thấy đây là vấn đề phức tạp và tế nhị mà mỗi Hội Thánh phải cân nhắc giữa nguyên tắc Kinh Thánh và thực tế đời sống.
 
 Điều quan trọng nhất mà Đức Chúa Giê-su muốn nhấn mạnh: hãy bằng mọi cách xây dựng cuộc hôn nhân theo lý tưởng mà Đức Chúa Trời mong muốn — một sự kết hợp thiêng liêng, trọn vẹn, được dâng hiến cho Chúa và cho nhau.

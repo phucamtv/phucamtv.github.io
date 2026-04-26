@@ -45,8 +45,8 @@ Ngài còn hứa ban cho chiên "sự sống dư dật" – không phải sự s
 
 ## Rồi Sẽ Chỉ Có Một Bầy Và Một Người Chăn
 
-Câu 16 kết lại toàn bộ sứ điệp: "Rồi sẽ chỉ có một bầy và một người chăn mà thôi." Một chuồng, một cửa, một người chăn. Lời tiên tri này cho thấy Chúa đã nhìn xa để thấy hội thánh ngày nay chia rẽ thành hàng ngàn giáo hội, hệ phái. Mỗi nơi tự mở một cánh cửa riêng, mỗi người tự xưng là người chăn.
+Câu 16 kết lại toàn bộ sứ điệp: "Rồi sẽ chỉ có một bầy và một người chăn mà thôi." Một chuồng, một cửa, một người chăn. Lời tiên tri này cho thấy Chúa đã nhìn xa để thấy Hội Thánh ngày nay chia rẽ thành hàng ngàn giáo hội, hệ phái. Mỗi nơi tự mở một cánh cửa riêng, mỗi người tự xưng là người chăn.
 
-Sứ đồ Phao-lô cũng từng đau đớn khi thấy hội thánh Cô-rinh-tô phân rẽ: người thì nói mình thuộc Phao-lô, người thuộc A-bô-lô, người thuộc Sê-pha. Ông phải nhắc nhở rằng có phải Phao-lô chịu đóng đinh vì anh em đâu? Hai ngàn năm trước điều này đã xảy ra và đến nay vẫn tiếp diễn trên quy mô toàn cầu.
+Sứ đồ Phao-lô cũng từng đau đớn khi thấy Hội Thánh Cô-rinh-tô phân rẽ: người thì nói mình thuộc Phao-lô, người thuộc A-bô-lô, người thuộc Sê-pha. Ông phải nhắc nhở rằng có phải Phao-lô chịu đóng đinh vì anh em đâu? Hai ngàn năm trước điều này đã xảy ra và đến nay vẫn tiếp diễn trên quy mô toàn cầu.
 
-Lời kêu gọi cuối cùng từ I Phi-e-rơ 2:24 nhắc nhở: "Vì anh em vốn giống như con chiên lạc, mà bây giờ đã trở về cùng Đấng chăn chiên và Giám mục của linh hồn mình." Đừng dừng lại ở hội thánh hữu hình, đừng dừng lại ở một giáo hội hay hệ phái. Hãy vươn lên để bước vào chuồng chiên thật của Đức Chúa Trời, nơi chỉ có một bầy và một Người Chăn duy nhất – Chúa Cứu Thế Giê-su.
+Lời kêu gọi cuối cùng từ I Phi-e-rơ 2:24 nhắc nhở: "Vì anh em vốn giống như con chiên lạc, mà bây giờ đã trở về cùng Đấng chăn chiên và Giám mục của linh hồn mình." Đừng dừng lại ở Hội Thánh hữu hình, đừng dừng lại ở một giáo hội hay hệ phái. Hãy vươn lên để bước vào chuồng chiên thật của Đức Chúa Trời, nơi chỉ có một bầy và một Người Chăn duy nhất – Chúa Cứu Thế Giê-su.

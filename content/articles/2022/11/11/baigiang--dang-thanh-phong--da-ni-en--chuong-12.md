@@ -28,9 +28,9 @@ Khải Huyền 22:12 ghi lại lời Chúa: "Ta đến mau chóng, và đem ph�
 
 Vấn đề nằm ở chỗ: được ghi tên không có nghĩa là tên đó sẽ ở đó mãi mãi. Trong Lu-ca 10:17-20, khi các môn đồ vui mừng vì quỷ phục họ, Đức Chúa Giê-su dạy rằng đừng mừng vì quyền năng đuổi quỷ, mà hãy mừng vì tên mình được ghi trên thiên đàng — đó mới là điều quan trọng nhất.
 
-Nhưng Khải Huyền 3:5 cảnh báo rõ ràng: kẻ nào thắng sẽ được mặc áo trắng và Chúa sẽ không xóa tên người khỏi sách sự sống. Điều ngược lại cũng đúng: nếu không thắng, Chúa có quyền xóa tên. Bảy bức thư gửi cho bảy hội thánh trong Khải Huyền cho thấy Chúa kêu gọi ăn năn, nhận biết tội lỗi, và sống đắc thắng. Hội thánh Sạt-đe bị trách vì hâm hẩm — không nóng, không lạnh — và Chúa cảnh cáo sẽ mửa ra.
+Nhưng Khải Huyền 3:5 cảnh báo rõ ràng: kẻ nào thắng sẽ được mặc áo trắng và Chúa sẽ không xóa tên người khỏi sách sự sống. Điều ngược lại cũng đúng: nếu không thắng, Chúa có quyền xóa tên. Bảy bức thư gửi cho bảy Hội Thánh trong Khải Huyền cho thấy Chúa kêu gọi ăn năn, nhận biết tội lỗi, và sống đắc thắng. Hội Thánh Sạt-đe bị trách vì hâm hẩm — không nóng, không lạnh — và Chúa cảnh cáo sẽ mửa ra.
 
-Khải Huyền 13:8 cũng cho biết trong ngày cuối cùng sẽ có một hệ thống tôn giáo toàn cầu gọi là Ba-by-lôn. Những ai gia nhập và thờ lạy quyền lực chống Chúa sẽ không có tên ghi trong sách sự sống. Điều này nhắc nhở rằng tin Chúa không chỉ là tuyên xưng bằng miệng, mà phải biết phân biệt đâu là hội thánh thật và đâu là Ba-by-lôn giả dối.
+Khải Huyền 13:8 cũng cho biết trong ngày cuối cùng sẽ có một hệ thống tôn giáo toàn cầu gọi là Ba-by-lôn. Những ai gia nhập và thờ lạy quyền lực chống Chúa sẽ không có tên ghi trong sách sự sống. Điều này nhắc nhở rằng tin Chúa không chỉ là tuyên xưng bằng miệng, mà phải biết phân biệt đâu là Hội Thánh thật và đâu là Ba-by-lôn giả dối.
 
 Khải Huyền 14:12 mô tả thánh đồ cuối cùng là những người nhịn nhục giữ các điều răn của Đức Chúa Trời và giữ lòng tin Đức Chúa Giê-su. Đây chính là tiêu chuẩn mà Chúa đòi hỏi.
 
@@ -38,7 +38,7 @@ Khải Huyền 14:12 mô tả thánh đồ cuối cùng là những người nh�
 
 ## Điều Thứ Hai: Cứu Linh Và Dưỡng Linh
 
-Đa-ni-ên 12:3 nêu lên hai nhóm người nhận phần thưởng đặc biệt. Thứ nhất là những người khôn sáng — tức những người hiểu rõ lời Chúa và dạy dỗ dân sự, nuôi dưỡng thuộc linh cho hội thánh. Họ sẽ sáng rực như vòng khung trên trời. Thứ hai là những người dắt đem nhiều người về sự công bình — tức những người đi ra cứu linh, làm chứng, đưa người chưa biết Chúa đến với Ngài. Họ sẽ sáng láng như các ngôi sao đời đời.
+Đa-ni-ên 12:3 nêu lên hai nhóm người nhận phần thưởng đặc biệt. Thứ nhất là những người khôn sáng — tức những người hiểu rõ lời Chúa và dạy dỗ dân sự, nuôi dưỡng thuộc linh cho Hội Thánh. Họ sẽ sáng rực như vòng khung trên trời. Thứ hai là những người dắt đem nhiều người về sự công bình — tức những người đi ra cứu linh, làm chứng, đưa người chưa biết Chúa đến với Ngài. Họ sẽ sáng láng như các ngôi sao đời đời.
 
 Đa-ni-ên 11:32-33 giải thích thêm: dân sự biết Đức Chúa Trời sẽ mạnh mẽ mà làm, và những người khôn sáng sẽ dạy dỗ nhiều người. Chúa không ban thưởng theo chức vụ — không phải mục sư, hội trưởng hay trưởng lão tự động được phần thưởng lớn hơn. Chúa ban thưởng theo công việc thực tế: ai dưỡng linh và ai cứu linh.
 

@@ -30,7 +30,7 @@ Một trong những đóng góp đáng chú ý nhất của bài giảng là vi�
 
 ## Kỹ Nữ — Tôn Giáo Bội Đạo Kiểm Soát Nhà Nước
 
-Nhân vật trung tâm của chương 17 không phải con thú hay mười sừng, mà là người nữ kỹ nữ. Trong ngôn ngữ tiên tri Kinh Thánh, người nữ tượng trưng cho hội thánh; một kỹ nữ tượng trưng cho hội thánh đã bội đạo — giống như Đức Chúa Trời từng gọi dân Y-sơ-ra-ên xưa là kỹ nữ khi họ quay lưng lại với Ngài (Ê-xê-chi-ên 16:15-16). Tội lớn nhất của người nữ này là phạm tội tà dâm với các vua thế gian — tức liên kết giáo hội với quyền lực chính trị, dùng nhà nước để cưỡng ép điều mà chỉ Đức Chúa Giê-su mới có quyền làm trong lòng con người. Bà mặc áo tím và đỏ tượng trưng cho vương quyền, tay cầm chén vàng đầy rượu — biểu tượng của sự giàu có xa hoa. Khải Huyền 17:18 xác nhận: người nữ này là thành lớn cai trị các vua thế gian.
+Nhân vật trung tâm của chương 17 không phải con thú hay mười sừng, mà là người nữ kỹ nữ. Trong ngôn ngữ tiên tri Kinh Thánh, người nữ tượng trưng cho Hội Thánh; một kỹ nữ tượng trưng cho Hội Thánh đã bội đạo — giống như Đức Chúa Trời từng gọi dân Y-sơ-ra-ên xưa là kỹ nữ khi họ quay lưng lại với Ngài (Ê-xê-chi-ên 16:15-16). Tội lớn nhất của người nữ này là phạm tội tà dâm với các vua thế gian — tức liên kết giáo hội với quyền lực chính trị, dùng nhà nước để cưỡng ép điều mà chỉ Đức Chúa Giê-su mới có quyền làm trong lòng con người. Bà mặc áo tím và đỏ tượng trưng cho vương quyền, tay cầm chén vàng đầy rượu — biểu tượng của sự giàu có xa hoa. Khải Huyền 17:18 xác nhận: người nữ này là thành lớn cai trị các vua thế gian.
 
 ---
 

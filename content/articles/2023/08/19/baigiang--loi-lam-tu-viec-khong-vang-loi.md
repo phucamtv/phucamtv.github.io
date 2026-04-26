@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: I Sa-mu-ên 13:8-14; 15:9-23; 28:5-10
 
-Bài giảng hôm nay xoay quanh ba lỗi lầm nghiêm trọng của vua Sau-lơ — vị vua đầu tiên của Y-sơ-ra-ên sau thời kỳ thần quyền trực tiếp. Mục sư Dương Quang Thoại dẫn dắt hội thánh suy gẫm về từng lỗi lầm, để qua đó mỗi người nhận ra bóng dáng chính mình trong những sai trật của Sau-lơ, và rút ra những bài học quý giá cho đời sống tâm linh.
+Bài giảng hôm nay xoay quanh ba lỗi lầm nghiêm trọng của vua Sau-lơ — vị vua đầu tiên của Y-sơ-ra-ên sau thời kỳ thần quyền trực tiếp. Mục sư Dương Quang Thoại dẫn dắt Hội Thánh suy gẫm về từng lỗi lầm, để qua đó mỗi người nhận ra bóng dáng chính mình trong những sai trật của Sau-lơ, và rút ra những bài học quý giá cho đời sống tâm linh.
 
 ---
 

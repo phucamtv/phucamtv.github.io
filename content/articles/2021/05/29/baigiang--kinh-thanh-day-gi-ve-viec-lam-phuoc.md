@@ -24,7 +24,7 @@ Kinh Thánh dạy hoàn toàn khác: sự cứu rỗi của Cơ-đốc nhân kh�
 
 ## Bài Học Từ Phao-lô: Nghệ Thuật Kêu Gọi Dâng Hiến
 
-Trong II Cô-rinh-tô 9:1-14, Phao-lô viết thư cho hội thánh Cô-rinh-tô về việc chuẩn bị của lễ để giúp đỡ các thánh đồ khó khăn. Ông đã khen ngợi người Ma-xê-đoan trước hội thánh Cô-rinh-tô, và cũng đã khoe về lòng nhiệt thành của người Cô-rinh-tô với người Ma-xê-đoan. Điều thú vị là Phao-lô dùng cả đoạn 8 và 9 — tổng cộng hơn hai chục câu — để nói quanh co về việc quyên tiền, mặc dù câu đầu tiên ông đã nói "không cần viết thêm cho anh em nữa."
+Trong II Cô-rinh-tô 9:1-14, Phao-lô viết thư cho Hội Thánh Cô-rinh-tô về việc chuẩn bị của lễ để giúp đỡ các thánh đồ khó khăn. Ông đã khen ngợi người Ma-xê-đoan trước Hội Thánh Cô-rinh-tô, và cũng đã khoe về lòng nhiệt thành của người Cô-rinh-tô với người Ma-xê-đoan. Điều thú vị là Phao-lô dùng cả đoạn 8 và 9 — tổng cộng hơn hai chục câu — để nói quanh co về việc quyên tiền, mặc dù câu đầu tiên ông đã nói "không cần viết thêm cho anh em nữa."
 
 Từ cách Phao-lô tiếp cận, có thể rút ra sáu nguyên tắc khi kêu gọi sự đóng góp:
 

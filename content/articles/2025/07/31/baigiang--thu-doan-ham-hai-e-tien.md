@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu
 
-Tiếp nối loạt bài học Công vụ các Sứ đồ, Mục sư Dương Quang Thoại dẫn hội thánh đi vào một trong những đoạn đầy kịch tính nhất: Ê-tiên — chấp sự đầy ơn, đầy quyền và làm dấu kỳ phép lạ lớn trong dân — bị bắt bớ bởi chính những người không thể tranh luận thắng ông trong chân lý.
+Tiếp nối loạt bài học Công vụ các Sứ đồ, Mục sư Dương Quang Thoại dẫn Hội Thánh đi vào một trong những đoạn đầy kịch tính nhất: Ê-tiên — chấp sự đầy ơn, đầy quyền và làm dấu kỳ phép lạ lớn trong dân — bị bắt bớ bởi chính những người không thể tranh luận thắng ông trong chân lý.
 
 ---
 
@@ -32,7 +32,7 @@ Cái đinh vu khống nhắm vào Ê-tiên là hai điều thiêng liêng nhất
 
 Bài giảng đi sâu vào gốc rễ của sự xung đột: dân Do Thái đã hiểu sai về việc Đức Chúa Trời tuyển chọn họ. Ngài tuyển chọn họ để trở thành công cụ phục vụ, kéo người ngoại đến với Chúa. Thế nhưng họ lại hiểu tuyển chọn là đặc quyền — rằng chỉ họ xứng đáng, còn dân ngoại là rác rưởi hoặc đối tượng để nô dịch.
 
-Mục sư thu hẹp áp dụng này ngay vào trong Hội thánh: khi một mục sư, truyền đạo, trưởng lão hay chấp sự hiểu sai về sự lựa chọn của Chúa — rằng chức vụ là đặc ân thay vì trách nhiệm phục vụ — thì tất cả sẽ sai. Thái độ coi thường người khác, lạm dụng quyền hạn, xây dựng vây cánh để duy trì quyền lực, là biểu hiện của chính sự sai lầm mà dân Israel đã mắc phải. Đức Chúa Giê-su đã nói rõ: chính Ngài đến để phục vụ, thì môn đệ Ngài cũng phải phục vụ.
+Mục sư thu hẹp áp dụng này ngay vào trong Hội Thánh: khi một mục sư, truyền đạo, trưởng lão hay chấp sự hiểu sai về sự lựa chọn của Chúa — rằng chức vụ là đặc ân thay vì trách nhiệm phục vụ — thì tất cả sẽ sai. Thái độ coi thường người khác, lạm dụng quyền hạn, xây dựng vây cánh để duy trì quyền lực, là biểu hiện của chính sự sai lầm mà dân Israel đã mắc phải. Đức Chúa Giê-su đã nói rõ: chính Ngài đến để phục vụ, thì môn đệ Ngài cũng phải phục vụ.
 
 ---
 

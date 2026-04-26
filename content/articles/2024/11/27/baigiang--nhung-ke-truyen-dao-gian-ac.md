@@ -26,7 +26,7 @@ Vấn đề nằm ở **mục đích** và **điểm đến** của sự truyề
 
 ### Cạm Bẫy Của Tôn Giáo Hình Thức
 
-Mục sư dẫn ra một bài học sâu sắc từ tài liệu của Mục sư William Barclay — nhà giải thích Kinh Thánh uyên bác không nghiêng lệch theo bất kỳ hệ phái nào. Bài học đó là: nếu một người đi truyền đạo chỉ với mục đích đưa người ta vào hội thánh mình, làm cho hội thánh đông người hơn, thu được nguồn lợi từ sự đóng góp, mà quên mất điều cốt lõi là **đưa người ta đến với Chúa Cứu Thế**, thì người đó đang đặt sai mục đích.
+Mục sư dẫn ra một bài học sâu sắc từ tài liệu của Mục sư William Barclay — nhà giải thích Kinh Thánh uyên bác không nghiêng lệch theo bất kỳ hệ phái nào. Bài học đó là: nếu một người đi truyền đạo chỉ với mục đích đưa người ta vào Hội Thánh mình, làm cho Hội Thánh đông người hơn, thu được nguồn lợi từ sự đóng góp, mà quên mất điều cốt lõi là **đưa người ta đến với Chúa Cứu Thế**, thì người đó đang đặt sai mục đích.
 
 Mục sư Thoại thẳng thắn tự kiểm:
 
@@ -79,7 +79,7 @@ Qua Ma-thi-ơ 23:15–22, Mục sư Dương Quang Thoại đúc kết những b�
 
 1. **Kiểm tra động lực truyền giảng**: Mục tiêu thực sự là đưa người đến với Đức Chúa Trời, không phải tăng số lượng thành viên hay củng cố thế lực của tổ chức.
 
-2. **Cảnh giác với tôn giáo hình thức**: Hội thánh đông người, nhiều chương trình, thu được nhiều tiền — không nhất thiết là bằng chứng của ân điển Chúa. Điều quan trọng là người ta có thật sự được dẫn đến sự cứu rỗi hay không.
+2. **Cảnh giác với tôn giáo hình thức**: Hội Thánh đông người, nhiều chương trình, thu được nhiều tiền — không nhất thiết là bằng chứng của ân điển Chúa. Điều quan trọng là người ta có thật sự được dẫn đến sự cứu rỗi hay không.
 
 3. **Sống trong sự chân thật**: Không cần công cụ pháp lý của lời thề nếu bản thân đã là người chính trực. Lời nói phải phản ánh đúng lòng mình.
 

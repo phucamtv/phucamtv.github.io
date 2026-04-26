@@ -31,11 +31,11 @@ Trên thiên đàng, cảnh tượng diễn ra là tiệc cưới Chiên Con. Ha
 
 ## Ý Nghĩa Của "Vợ Chiên Con"
 
-Một số người hiểu câu 7 theo nghĩa đen và cho rằng Đức Chúa Giê-su có vợ. Mục Sư Đặng Thanh Phong phân tích rõ: Kinh Thánh dùng nhiều hình ảnh khác nhau để mô tả mối quan hệ giữa Chúa và hội thánh.
+Một số người hiểu câu 7 theo nghĩa đen và cho rằng Đức Chúa Giê-su có vợ. Mục Sư Đặng Thanh Phong phân tích rõ: Kinh Thánh dùng nhiều hình ảnh khác nhau để mô tả mối quan hệ giữa Chúa và Hội Thánh.
 
 Trong Giăng 15, Chúa ví mình là gốc nho, còn chúng ta là nhánh nho — chẳng lẽ điều đó có nghĩa Chúa thực sự là một cây nho? Trong Ê-phê-sô 5, Phao-lô viết rằng chồng là đầu vợ "khác nào Đấng Đức Chúa Giê-su là đầu Hội Thánh." Ngài là chồng, Hội Thánh là vợ — đây là hình ảnh chỉ về mối liên hệ đặc biệt giữa Chúa với dân sự Ngài, không phải ý nghĩa đen của việc Chúa có vợ bằng xương bằng thịt.
 
-Giê-rê-mi 31:31-33 cũng xác nhận điều này: "Ta làm chồng chúng nó" — Đức Giê-hô-va dùng hình ảnh vợ chồng để nói về giao ước mới với dân Ngài. Đây là cách Kinh Thánh diễn đạt mối quan hệ yêu thương, trung tín, và gắn bó không thể tách rời giữa Chúa và hội thánh Ngài.
+Giê-rê-mi 31:31-33 cũng xác nhận điều này: "Ta làm chồng chúng nó" — Đức Giê-hô-va dùng hình ảnh vợ chồng để nói về giao ước mới với dân Ngài. Đây là cách Kinh Thánh diễn đạt mối quan hệ yêu thương, trung tín, và gắn bó không thể tách rời giữa Chúa và Hội Thánh Ngài.
 
 Mục sư nhắc nhở: chúng ta không thể lấy tư duy của mình mà suy diễn ra bụng Chúa. "Các từng trời cao hơn đất bao nhiêu, thì ý tưởng và đường lối của Chúa cao hơn ý tưởng đường lối con người bấy nhiêu."
 

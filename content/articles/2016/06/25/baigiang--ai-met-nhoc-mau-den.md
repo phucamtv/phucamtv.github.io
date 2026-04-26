@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 11:28
 
-Bài giảng được chia sẻ trong buổi lễ Báp-têm cho tám ứng viên tại Hội Thánh Cơ-đốc Phục Lâm Cần Thơ. Mục sư Dương Quang Thoại lấy câu gốc từ Ma-thi-ơ 11:28 — *"Hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các con được yên nghỉ"* — để dẫn dắt hội thánh qua ba ý nghĩa sâu sắc trong lời mời gọi của Đức Chúa Giê-su.
+Bài giảng được chia sẻ trong buổi lễ Báp-têm cho tám ứng viên tại Hội Thánh Cơ-đốc Phục Lâm Cần Thơ. Mục sư Dương Quang Thoại lấy câu gốc từ Ma-thi-ơ 11:28 — *"Hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các con được yên nghỉ"* — để dẫn dắt Hội Thánh qua ba ý nghĩa sâu sắc trong lời mời gọi của Đức Chúa Giê-su.
 
 ---
 

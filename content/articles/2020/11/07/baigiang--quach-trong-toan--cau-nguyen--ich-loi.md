@@ -44,7 +44,7 @@ Các chất như oxytocin và serotonin — được gọi là "hormone hạnh p
 
 Gia-cơ 1:5 hứa: "Trong anh em có ai kém khôn ngoan thì hãy cầu xin Đức Chúa Trời, là Đấng ban cho mọi người một cách rộng rãi không trách móc, thì kẻ ấy sẽ được ban cho." Câu chuyện vua Đa-vít trong I Sa-mu-ên 23 minh họa điều này rõ ràng: trước khi hành động, Đa-vít cầu vấn Đức Chúa Trời và nhận được sự dẫn dắt cụ thể — kể cả lời cảnh báo về dân Ki-la sẽ phản bội ông.
 
-Phao-lô cũng cầu nguyện cho hội thánh Cô-lô-se: "Xin cho anh em được đầy dẫy sự hiểu biết về ý muốn của Chúa với mọi thứ khôn ngoan cùng sự hiểu biết thiêng liêng" (Cô-lô-se 1:9). Sự cầu nguyện không chỉ xin cho bản thân mà còn có thể cầu thay cho những người mình yêu thương, để họ cũng được Đức Chúa Trời mở trí và ban cho sự khôn ngoan cần thiết trong hoàn cảnh khó khăn.
+Phao-lô cũng cầu nguyện cho Hội Thánh Cô-lô-se: "Xin cho anh em được đầy dẫy sự hiểu biết về ý muốn của Chúa với mọi thứ khôn ngoan cùng sự hiểu biết thiêng liêng" (Cô-lô-se 1:9). Sự cầu nguyện không chỉ xin cho bản thân mà còn có thể cầu thay cho những người mình yêu thương, để họ cũng được Đức Chúa Trời mở trí và ban cho sự khôn ngoan cần thiết trong hoàn cảnh khó khăn.
 
 ---
 

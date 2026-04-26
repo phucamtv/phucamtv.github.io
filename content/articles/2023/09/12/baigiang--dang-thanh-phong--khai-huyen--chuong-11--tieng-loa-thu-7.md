@@ -27,7 +27,7 @@ Chúa đã hứa: *"Ta đi, Ta sẽ trở lại."* Lời hứa đó chắc chắ
 
 Trong bốn sách Phúc Âm — Ma-thi-ơ, Mác, Lu-ca, Giăng — Đức Chúa Giê-su đề cập tổng quát về những dấu hiệu trước khi tái lâm: động đất, đói kém, tiên tri giả, chiến tranh, bách hại. Nhưng những điều đó chỉ là đại cương, chung chung.
 
-Sách Khải Huyền cho chúng ta **chi tiết cụ thể hơn** về tình hình chính trị, kinh tế, tôn giáo trên thế giới trong ngày cuối cùng. Đặc biệt, Khải Huyền phân biệt rõ ràng giữa **hội thánh tinh sạch** — người đàn bà tinh sạch — và **Babylon tà dâm** — hệ thống tôn giáo giả mạo mà ma quỷ dựng lên để lừa dối thế giới.
+Sách Khải Huyền cho chúng ta **chi tiết cụ thể hơn** về tình hình chính trị, kinh tế, tôn giáo trên thế giới trong ngày cuối cùng. Đặc biệt, Khải Huyền phân biệt rõ ràng giữa **Hội Thánh tinh sạch** — người đàn bà tinh sạch — và **Babylon tà dâm** — hệ thống tôn giáo giả mạo mà ma quỷ dựng lên để lừa dối thế giới.
 
 Vì vậy, ai chưa biết Sách Khải Huyền sẽ còn rất mơ hồ về những gì sắp xảy ra, dễ bị lừa dối, dễ đi theo đường sai. Sách này không phải để làm người ta sợ hãi mà để trang bị sự hiểu biết, giúp con dân Chúa không bị mắc bẫy.
 
@@ -39,7 +39,7 @@ Vì vậy, ai chưa biết Sách Khải Huyền sẽ còn rất mơ hồ về nh
 
 Câu 18 ghi: *"Các dân tộc vốn giận dữ."* Đây không phải chuyện một quốc gia — mà là **nhiều dân tộc**, cả thế gian bị kích động. Khải Huyền 12:17 cho thấy rõ nguyên nhân: con rồng giận người đàn bà, đi tranh chiến cùng con cái còn sót lại — những người vẫn giữ các điều răn của Đức Chúa Trời và lời chứng của Đức Chúa Giê-su.
 
-Sang đến Khải Huyền 13, Satan kêu gọi hai quyền lực — một từ biển, một từ đất — để hợp sức tấn công hội thánh còn sót lại. Cả thế gian sẽ lấy làm lạ mà đi theo con thú. Kết quả: một cuộc **chiến tranh tôn giáo** sẽ nổ ra trong ngày cuối cùng, nhắm thẳng vào những người trung thành với lời Chúa.
+Sang đến Khải Huyền 13, Satan kêu gọi hai quyền lực — một từ biển, một từ đất — để hợp sức tấn công Hội Thánh còn sót lại. Cả thế gian sẽ lấy làm lạ mà đi theo con thú. Kết quả: một cuộc **chiến tranh tôn giáo** sẽ nổ ra trong ngày cuối cùng, nhắm thẳng vào những người trung thành với lời Chúa.
 
 Satan giận dữ vì nhiều lý do. Nó đã thua nhiều lần. Quan trọng hơn, nó biết thì giờ mình không còn bao nhiêu. Khải Huyền 12:12 ghi: *"Ma quỷ biết thì giờ mình chẳng còn bao nhiêu nên giận hoảng mà đến."* Vì vậy, chưa có cuộc chiến tranh tôn giáo này, Chúa chưa tái lâm.
 
@@ -77,7 +77,7 @@ Ngày nay, chúng ta không hướng về Giê-ru-sa-lem trên đất vì Đền
 
 Nhiều người rao truyền ngày giờ Chúa tái lâm — tháng này, năm nọ. Kinh Thánh khẳng định rõ: *"Ngày giờ đó không ai biết."* Những ai tự nhận biết ngày Chúa tái lâm đều là sai trật.
 
-Điều chúng ta cần làm không phải là đoán ngày, mà là **hiểu những dấu hiệu** đang xảy ra xung quanh. Khi nào cuộc chiến tranh tôn giáo cuối cùng bắt đầu — khi nào hội thánh còn sót lại bị các dân tộc cùng nhau tấn công vì giữ các điều răn — thì biết rằng Chúa sắp tái lâm.
+Điều chúng ta cần làm không phải là đoán ngày, mà là **hiểu những dấu hiệu** đang xảy ra xung quanh. Khi nào cuộc chiến tranh tôn giáo cuối cùng bắt đầu — khi nào Hội Thánh còn sót lại bị các dân tộc cùng nhau tấn công vì giữ các điều răn — thì biết rằng Chúa sắp tái lâm.
 
 Cho đến lúc đó, nhiệm vụ của con dân Chúa là rao truyền sứ điệp ba thiên sứ, sống trung thành với Lời Ngài, và không để bất kỳ ai — dù mục sư, linh mục, hay người hầu việc Chúa — lừa dối mình bằng những lời không có nền tảng Kinh Thánh.
 

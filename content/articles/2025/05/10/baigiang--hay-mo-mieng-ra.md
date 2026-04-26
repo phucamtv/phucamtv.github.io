@@ -62,6 +62,6 @@ Rô-ma 10:14-15 đặt ra một chuỗi câu hỏi: làm sao tin nếu chưa ngh
 
 ## Kết luận
 
-Thánh Phaolô cầu xin hội thánh Ê-phê-sô cầu nguyện cho ông: *"Để khi tôi mở miệng ra, Chúa ban cho tôi tự do mọi bề, bày tỏ lẽ mầu nhiệm của đạo Tin Lành"* (Ê-phê-sô 6:19). Ngay cả sứ đồ Phaolô cũng cần được cầu nguyện để mở miệng!
+Thánh Phaolô cầu xin Hội Thánh Ê-phê-sô cầu nguyện cho ông: *"Để khi tôi mở miệng ra, Chúa ban cho tôi tự do mọi bề, bày tỏ lẽ mầu nhiệm của đạo Tin Lành"* (Ê-phê-sô 6:19). Ngay cả sứ đồ Phaolô cũng cần được cầu nguyện để mở miệng!
 
 Chúa đang phán với mỗi chúng ta: *"Ép-pha-ta — Hãy mở ra!"* Hãy nỗ lực nhờ Chúa mở miệng chúng ta, thánh hóa môi miệng chúng ta, đặt lời Ngài trong miệng chúng ta — để chúng ta có thể là nhân chứng trung thành của Ngài trong thời gian còn lại trên đất.

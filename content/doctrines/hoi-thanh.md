@@ -6,7 +6,7 @@ weight: 12
 
 ## Câu gốc
 
-“Vì chồng là đầu vợ, khác nào Đấng Christ là đầu Hội thánh, Hội thánh là thân thể Ngài và Ngài là Cứu Chúa của Hội thánh.” (Ê-phê-sô 5:23)
+“Vì chồng là đầu vợ, khác nào Đấng Christ là đầu Hội Thánh, Hội Thánh là thân thể Ngài và Ngài là Cứu Chúa của Hội Thánh.” (Ê-phê-sô 5:23)
 
 Hội Thánh là một cộng đồng gồm những người tin Đức Chúa Giê-su là Đấng Cứu Thế, là Chúa của đời họ. Hội Thánh là một sự nối tiếp của dân lựa chọn trong thời Cựu Ước, được kêu gọi ra khỏi thế gian, để cùng thờ phượng, cùng thông công, cùng học hỏi Lời Chúa, cùng tham dự Lễ Tiệc thánh, cùng phục vụ nhân loại và cùng rao giảng tin lành ra khắp thế giới.
 

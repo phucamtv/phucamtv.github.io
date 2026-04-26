@@ -16,7 +16,7 @@ teaser_quote_cite: "Ma-thi-ơ 24:42"
 chapter_label: "chương"
 cascade:
   layout: "chapter"
-summary: "Tuyển tập những lời chỉ dẫn của bà Ellen G. White về các sự kiện trong ngày cuối cùng — từ những dấu hiệu Đức Chúa Giê-su tái lâm, hội thánh ngày sau rốt, sự rung chuyển và mưa cuối mùa, cho đến tiếng kêu lớn, ấn của Đức Chúa Trời và sự kết thúc thời kỳ ân điển."
+summary: "Tuyển tập những lời chỉ dẫn của bà Ellen G. White về các sự kiện trong ngày cuối cùng — từ những dấu hiệu Đức Chúa Giê-su tái lâm, Hội Thánh ngày sau rốt, sự rung chuyển và mưa cuối mùa, cho đến tiếng kêu lớn, ấn của Đức Chúa Trời và sự kết thúc thời kỳ ân điển."
 ---
 
-*Sự Kiện Ngày Cuối Cùng* (nguyên tác: *Last Day Events*) là tuyển tập những lời chỉ dẫn của bà Ellen G. White về các biến cố cuối cùng của thế giới: dấu hiệu Đức Chúa Giê-su tái lâm, đời sống của hội thánh ngày sau rốt, sự rung chuyển, mưa cuối mùa, tiếng kêu lớn, ấn của Đức Chúa Trời và bảy tai vạ cuối cùng. Bản dịch này được dịch từ ấn bản Anh ngữ công cộng và các trích dẫn Kinh Thánh lấy từ bản Truyền Thống 1934.
+*Sự Kiện Ngày Cuối Cùng* (nguyên tác: *Last Day Events*) là tuyển tập những lời chỉ dẫn của bà Ellen G. White về các biến cố cuối cùng của thế giới: dấu hiệu Đức Chúa Giê-su tái lâm, đời sống của Hội Thánh ngày sau rốt, sự rung chuyển, mưa cuối mùa, tiếng kêu lớn, ấn của Đức Chúa Trời và bảy tai vạ cuối cùng. Bản dịch này được dịch từ ấn bản Anh ngữ công cộng và các trích dẫn Kinh Thánh lấy từ bản Truyền Thống 1934.

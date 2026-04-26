@@ -24,7 +24,7 @@ Tính tranh luận mà ông từng dùng để chống đạo, nay Đức Chúa 
 
 ## Total Onslaught Ra Đời Như Thế Nào
 
-Khi được mời sang Đức giảng lần đầu, ông nói về khoa học, thuyết tiến hóa, thông điệp sức khỏe, và đặc biệt là hai bài về ảnh hưởng của thế giới huyền bí trên tôn giáo. Chính hai bài này đã gây nên "vụ nổ hạt nhân". Ban lãnh đạo hội thánh ở Đức yêu cầu ông im lặng vì cho rằng ông không có bằng chứng, không trích dẫn nguồn, và có thể gây rắc rối với chính quyền.
+Khi được mời sang Đức giảng lần đầu, ông nói về khoa học, thuyết tiến hóa, thông điệp sức khỏe, và đặc biệt là hai bài về ảnh hưởng của thế giới huyền bí trên tôn giáo. Chính hai bài này đã gây nên "vụ nổ hạt nhân". Ban lãnh đạo Hội Thánh ở Đức yêu cầu ông im lặng vì cho rằng ông không có bằng chứng, không trích dẫn nguồn, và có thể gây rắc rối với chính quyền.
 
 Trở về Nam Phi, ông đứng trước hai lựa chọn: hoặc câm miệng, hoặc trưng ra nhiều trích dẫn đến mức đối phương phải chết chìm trong chúng. Ông chọn phương án thứ hai. Hai bài giảng ban đầu đã nở ra thành ba mươi sáu bài giảng với hàng trăm hàng trăm trích dẫn từ chính nguồn gốc. Khi có người bắt đầu kiểm tra lại, họ buộc phải thừa nhận: "Tôi không thể tin nổi, nhưng nó thật sự nói như vậy." Đó là khởi đầu của Total Onslaught.
 

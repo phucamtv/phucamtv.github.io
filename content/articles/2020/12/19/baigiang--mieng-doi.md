@@ -26,9 +26,9 @@ Rô-ma 1:28-32 mô tả tình trạng tội ác của con người, trong đó c
 
 ## 2. Miệng người trong Chúa
 
-Đau đớn hơn miệng người đời chính là miệng của anh em đồng đức tin. Nhiều người khi mới vào hội thánh, nhìn ai cũng như thiên thần; nhưng chỉ sau một thời gian, họ thất vọng cùng cực vì gặp phải sự phê phán, gièm chê ngay trong nhà Chúa.
+Đau đớn hơn miệng người đời chính là miệng của anh em đồng đức tin. Nhiều người khi mới vào Hội Thánh, nhìn ai cũng như thiên thần; nhưng chỉ sau một thời gian, họ thất vọng cùng cực vì gặp phải sự phê phán, gièm chê ngay trong nhà Chúa.
 
-I Ti-mô-thê 6:4-5 cho biết trong hội thánh sẽ có những người "có bệnh" hay gạn hỏi, cãi lẫy, ghen ghét, tranh cạnh, gièm chê. Phao-lô dùng chữ "có bệnh" — nghĩa là nó đã ăn sâu vào bản chất, gặp gì cũng chê, chuyện gì cũng bới móc. Những lời như thế phá hoại mối tương giao tốt đẹp giữa anh em với nhau.
+I Ti-mô-thê 6:4-5 cho biết trong Hội Thánh sẽ có những người "có bệnh" hay gạn hỏi, cãi lẫy, ghen ghét, tranh cạnh, gièm chê. Phao-lô dùng chữ "có bệnh" — nghĩa là nó đã ăn sâu vào bản chất, gặp gì cũng chê, chuyện gì cũng bới móc. Những lời như thế phá hoại mối tương giao tốt đẹp giữa anh em với nhau.
 
 Chính Đức Chúa Giê-su cũng luôn bị rình rập bởi những người Pha-ri-si và thầy thông giáo — những người lãnh đạo tôn giáo. Họ gièm chê Ngài ăn uống với người thu thuế (Lu-ca 5:30), thậm chí vu khống Ngài nhờ chúa quỷ mà trừ quỷ (Ma-thi-ơ 12:24).
 
@@ -54,4 +54,4 @@ Sau khi nói về miệng người khác, điều quan trọng không kém là g
 - **Gia-cơ 1:26** — Ai tưởng mình tin đạo mà không cầm giữ lưỡi mình, sự tin đạo ấy là vô ích.
 - **I Phi-e-rơ 3:10** — Ai muốn yêu sự sống và thấy ngày tốt lành, phải giữ gìn miệng lưỡi, đừng nói điều ác và lời gian giảo.
 
-Lời Chúa kêu gọi chúng ta sống với nhau trong sự hòa bình, yêu thương, và đừng nói một lời nào có thể làm tổn thương hoặc xua đẩy anh em ra khỏi hội thánh.
+Lời Chúa kêu gọi chúng ta sống với nhau trong sự hòa bình, yêu thương, và đừng nói một lời nào có thể làm tổn thương hoặc xua đẩy anh em ra khỏi Hội Thánh.

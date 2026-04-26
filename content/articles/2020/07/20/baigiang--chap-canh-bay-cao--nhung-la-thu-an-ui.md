@@ -20,7 +20,7 @@ Kết quả, mỗi ngày em nhận được khoảng 10.000 lá thư hoặc thi�
 
 Cuộc giải phẫu đã thâu gặt kết quả rất mỹ mãn. Em Craig Shergold đã được cứu sống. Năm 1994, em đã được 14 tuổi. Chỉ trong vòng 5 năm, bé Craig Shergold đã nhận được tất cả 27 triệu lá thư và thiệp khắp năm Châu gởi đến, một kỷ lục chưa từng thấy trong mối quan tâm của con người đối với một đứa trẻ đáng thương.
 
-Có thể ai đó trong chúng ta chưa cảm nhận được, khi một người ở trong tâm trạng sợ hãi, họ cần sự an ủi và khích lệ thế nào! Có lẽ Hội thánh bạn đang có những người như thế. Trong vòng bè bạn, láng giềng, thậm chí có thể ngay trong gia đình bạn đang có người cần một lời khích lệ nào đó, thế nhưng đôi khi chúng ta sống dửng dưng trước tâm trạng của người khác!
+Có thể ai đó trong chúng ta chưa cảm nhận được, khi một người ở trong tâm trạng sợ hãi, họ cần sự an ủi và khích lệ thế nào! Có lẽ Hội Thánh bạn đang có những người như thế. Trong vòng bè bạn, láng giềng, thậm chí có thể ngay trong gia đình bạn đang có người cần một lời khích lệ nào đó, thế nhưng đôi khi chúng ta sống dửng dưng trước tâm trạng của người khác!
 
 Hãy chịu khó hơn một chút để lưu tâm đến nhu cầu của những người sống quanh ta, hãy làm những gì có thể làm được. Sẻ chia tâm trạng với người khác và khích lệ họ, tức là bạn đang tiếp nối công việc của Chúa chúng ta.
 

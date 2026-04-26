@@ -82,7 +82,7 @@ Nhưng Đấng Christ là viên ngọc quý giá, và đặc ân của chúng ta
 
 Họ đã thấy Ngài được bao bọc bởi vinh quang thiên đàng, với những kho báu vô hạn trong tay Ngài để ban cho tất cả những ai sẽ từ bỏ sự phản loạn của mình. Khi các sứ đồ trình bày về vinh quang của Con Một của Đức Chúa Cha, ba ngàn linh hồn đã bị cáo trách. Họ được cho thấy chính mình thật sự là kẻ tội lỗi và ô uế, và Đấng Christ là bạn và Đấng Cứu Chuộc của họ. Đấng Christ đã được tôn cao, Đấng Christ đã được vinh hiển, qua quyền năng của Đức Thánh Linh ngự trên con người. Bởi đức tin, những tín hữu này đã thấy Ngài là Đấng đã chịu sỉ nhục, đau khổ và chết để họ không bị hư mất mà được sự sống đời đời. Sự mặc khải của Đấng Christ bởi Đức Thánh Linh đã đem đến cho họ một cảm nhận rõ ràng về quyền năng và sự oai nghi của Ngài, và họ đã giơ tay ra với Ngài bởi đức tin, nói rằng: "Tôi tin." COL 118.3
 
-Rồi tin mừng về một Đấng Cứu Thế đã sống lại được đem đi đến tận cùng trái đất có người ở. Hội thánh thấy những người trở lại đạo tuôn đến với mình từ khắp mọi phía. Những tín hữu được tái cải đạo. Những tội nhân hiệp cùng các Cơ-đốc nhân tìm kiếm viên ngọc quý giá. Lời tiên tri đã được ứng nghiệm, kẻ yếu đuối sẽ "như Đa-vít," và nhà Đa-vít "như thiên sứ của Đức Giê-hô-va."
+Rồi tin mừng về một Đấng Cứu Thế đã sống lại được đem đi đến tận cùng trái đất có người ở. Hội Thánh thấy những người trở lại đạo tuôn đến với mình từ khắp mọi phía. Những tín hữu được tái cải đạo. Những tội nhân hiệp cùng các Cơ-đốc nhân tìm kiếm viên ngọc quý giá. Lời tiên tri đã được ứng nghiệm, kẻ yếu đuối sẽ "như Đa-vít," và nhà Đa-vít "như thiên sứ của Đức Giê-hô-va."
 
 > "Trong ngày đó, Đức Giê-hô-va sẽ làm Đấng bảo hộ của dân cư Giê-ru-sa-lem, và trong ngày đó kẻ rất yếu trong chúng nó sẽ như Đa-vít, nhà Đa-vít sẽ như Đức Chúa Trời, sẽ như thiên sứ của Đức Giê-hô-va ở trước mặt chúng nó."
 > <cite>(Xa-cha-ri 12:8)</cite>
@@ -92,9 +92,9 @@ Mỗi Cơ-đốc nhân thấy nơi anh em mình hình ảnh thiêng liêng của
 > "Vả, người tin theo đông lắm, cứ một lòng một ý cùng nhau. Chẳng ai kể của mình là của riêng; nhưng kể mọi vật là của chung cho nhau. Các sứ đồ lại lấy quyền phép rất lớn mà làm chứng về sự sống lại của Đức Chúa Giê-su Cơ-đốc; và hết thảy đều được phước lớn."
 > <cite>(Công-vụ các Sứ-đồ 4:32,33)</cite>
 
-"Mỗi ngày Chúa lấy những kẻ được cứu thêm vào Hội thánh."
+"Mỗi ngày Chúa lấy những kẻ được cứu thêm vào Hội Thánh."
 
-> "ngợi khen Đức Chúa Trời và được đẹp lòng cả dân chúng. Mỗi ngày Chúa lấy những kẻ được cứu thêm vào Hội thánh."
+> "ngợi khen Đức Chúa Trời và được đẹp lòng cả dân chúng. Mỗi ngày Chúa lấy những kẻ được cứu thêm vào Hội Thánh."
 > <cite>(Công-vụ các Sứ-đồ 2:47)</cite>
 
 Thần của Đấng Christ làm sinh động cả hội chúng; vì họ đã tìm được viên ngọc quý giá. COL 120.1

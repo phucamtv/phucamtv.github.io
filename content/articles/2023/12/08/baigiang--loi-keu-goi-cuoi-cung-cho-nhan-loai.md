@@ -18,7 +18,7 @@ Khải Huyền chương 14 ghi lại hình ảnh một thiên sứ bay giữa tr
 
 > *"Hãy kính sợ Đức Chúa Trời và tôn vinh Ngài, vì giờ phán xét của Ngài đã đến; hãy thờ phượng Đấng đã dựng nên trời đất, biển và các suối nước."* (Khải Huyền 14:7)
 
-Đây không phải là những thiên sứ theo nghĩa đen — trong tiếng Hi-lạp, *angelos* có nghĩa là "sứ giả". Trước khi Đấng Christ trở lại, Chúa sẽ dấy lên một hội thánh còn sót lại để rao truyền sứ điệp cuối cùng này cho toàn thể nhân loại. Sứ điệp đó bao gồm ba lời kêu gọi thiết yếu.
+Đây không phải là những thiên sứ theo nghĩa đen — trong tiếng Hi-lạp, *angelos* có nghĩa là "sứ giả". Trước khi Đấng Christ trở lại, Chúa sẽ dấy lên một Hội Thánh còn sót lại để rao truyền sứ điệp cuối cùng này cho toàn thể nhân loại. Sứ điệp đó bao gồm ba lời kêu gọi thiết yếu.
 
 ---
 

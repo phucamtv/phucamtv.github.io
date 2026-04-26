@@ -14,7 +14,7 @@ draft: false
 
 ## Lời Mở Đầu Trong Ngày Lễ Báp-têm
 
-Bài giảng được chia sẻ trong dịp Lễ Báp-têm, khi hội thánh đón nhận năm anh chị em mới. Ban đầu có bảy ứng viên, nhưng sau hơn ba tháng học giáo lý, hai người đã quyết định không làm Báp-têm vì nhận ra con đường theo Chúa quá khó khăn. Mục sư Dương Quang Thoại thẳng thắn nhắc nhở rằng hội thánh không được quyền nói dối — không thể hứa hẹn rằng tin Chúa thì sẽ giàu có, bệnh tật sẽ được chữa lành, mọi sự đều tốt đẹp theo ý mình. Kinh Thánh không bao giờ dạy như vậy. Từ đó, ông đưa ra năm điều cần ghi nhớ trên con đường theo Chúa.
+Bài giảng được chia sẻ trong dịp Lễ Báp-têm, khi Hội Thánh đón nhận năm anh chị em mới. Ban đầu có bảy ứng viên, nhưng sau hơn ba tháng học giáo lý, hai người đã quyết định không làm Báp-têm vì nhận ra con đường theo Chúa quá khó khăn. Mục sư Dương Quang Thoại thẳng thắn nhắc nhở rằng Hội Thánh không được quyền nói dối — không thể hứa hẹn rằng tin Chúa thì sẽ giàu có, bệnh tật sẽ được chữa lành, mọi sự đều tốt đẹp theo ý mình. Kinh Thánh không bao giờ dạy như vậy. Từ đó, ông đưa ra năm điều cần ghi nhớ trên con đường theo Chúa.
 
 ---
 
@@ -42,7 +42,7 @@ Phao-lô khuyên Ti-mô-thê hãy chịu khổ như một người lính giỏi 
 
 ## 4. Con Đường Hạ Mình Và Phục Vụ
 
-Đức Chúa Giê-su đã đến không phải để người ta hầu việc mình, nhưng để mình hầu việc người ta, và phó sự sống mình làm giá chuộc nhiều người (Ma-thi-ơ 20:28). Ngài đã hạ mình rửa chân cho các môn đồ, kể cả Giu-đa là kẻ phản Ngài (Giăng 13). Điều khó nhất là hạ mình phục vụ khi biết mình hơn người khác, nhưng đó chính là điều Chúa muốn. Trong Khải-huyền 2:19, Chúa khen ngợi hội thánh vì công việc sau rốt còn nhiều hơn công việc ban đầu — sự phục vụ phải ngày càng gia tăng chứ không giảm sút.
+Đức Chúa Giê-su đã đến không phải để người ta hầu việc mình, nhưng để mình hầu việc người ta, và phó sự sống mình làm giá chuộc nhiều người (Ma-thi-ơ 20:28). Ngài đã hạ mình rửa chân cho các môn đồ, kể cả Giu-đa là kẻ phản Ngài (Giăng 13). Điều khó nhất là hạ mình phục vụ khi biết mình hơn người khác, nhưng đó chính là điều Chúa muốn. Trong Khải-huyền 2:19, Chúa khen ngợi Hội Thánh vì công việc sau rốt còn nhiều hơn công việc ban đầu — sự phục vụ phải ngày càng gia tăng chứ không giảm sút.
 
 ---
 

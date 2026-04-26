@@ -2,7 +2,7 @@
 title: "Mối Phước Thật — Niềm Vui Không Ai Cướp Được | Lu-ca 6:20-49"
 date: 2020-04-18
 url: /baigiang/moi-phuoc-that-macarios/
-description: "Bài giảng của TS. Ranko Stefanović tại hội thánh Cơ-đốc Phục Lâm Mt Gravatt giữa đại dịch COVID-19, khai triển ý nghĩa nguyên ngữ Hy Lạp của từ 'makarios' trong Các Mối Phước. Vì sao Đức Chúa Giê-su gọi người nghèo, người đói, người than khóc là 'có phước'? Sự khác biệt giữa hai phiên bản Bài Giảng Trên Núi (Ma-thi-ơ 5-7) và Bài Giảng Trên Đồng Bằng (Lu-ca 6). Cơ-đốc nhân trở thành muối và ánh sáng như thế nào khi bóng tối càng dày đặc?"
+description: "Bài giảng của TS. Ranko Stefanović tại Hội Thánh Cơ-đốc Phục Lâm Mt Gravatt giữa đại dịch COVID-19, khai triển ý nghĩa nguyên ngữ Hy Lạp của từ 'makarios' trong Các Mối Phước. Vì sao Đức Chúa Giê-su gọi người nghèo, người đói, người than khóc là 'có phước'? Sự khác biệt giữa hai phiên bản Bài Giảng Trên Núi (Ma-thi-ơ 5-7) và Bài Giảng Trên Đồng Bằng (Lu-ca 6). Cơ-đốc nhân trở thành muối và ánh sáng như thế nào khi bóng tối càng dày đặc?"
 tags: ["Các Mối Phước", "Bài Giảng Trên Núi", "Ma-thi-ơ", "Lu-ca", "Niềm Vui", "Đại Dịch", "Muối Và Ánh Sáng", "Cơ-đốc Phục Lâm"]
 authors: ["ranko-stefanovic"]
 plugins: [youtube]
@@ -14,7 +14,7 @@ draft: false
 
 ## Một Bài Giảng, Hai Phiên Bản
 
-Giữa những tuần đầu của đại dịch COVID-19 năm 2020, TS. Ranko Stefanović — giáo sư Tân Ước tại Đại học Andrews — được Mục sư Zeny Vidacak mời giảng trực tuyến cho hội thánh Cơ-đốc Phục Lâm Mt Gravatt tại Brisbane. Chủ đề ông chọn là phần giáo huấn nổi tiếng nhất của Đức Chúa Giê-su: Bài Giảng Trên Núi — không chỉ vì tính phổ biến, mà vì chính đoạn Kinh Thánh này đã từng thay đổi cách ông nhìn cuộc đời.
+Giữa những tuần đầu của đại dịch COVID-19 năm 2020, TS. Ranko Stefanović — giáo sư Tân Ước tại Đại học Andrews — được Mục sư Zeny Vidacak mời giảng trực tuyến cho Hội Thánh Cơ-đốc Phục Lâm Mt Gravatt tại Brisbane. Chủ đề ông chọn là phần giáo huấn nổi tiếng nhất của Đức Chúa Giê-su: Bài Giảng Trên Núi — không chỉ vì tính phổ biến, mà vì chính đoạn Kinh Thánh này đã từng thay đổi cách ông nhìn cuộc đời.
 
 Mahatma Gandhi từng nói ông không có vấn đề gì với Đức Chúa Giê-su, vấn đề của ông là với những người tự nhận là môn đồ của Đức Chúa Giê-su nhưng không làm theo lời Ngài dạy. Câu nói ấy nhắc chúng ta rằng nội dung Bài Giảng Trên Núi không phải là lý thuyết để đồng tình, mà là đời sống phải được sống.
 

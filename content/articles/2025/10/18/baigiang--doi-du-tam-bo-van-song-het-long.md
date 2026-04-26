@@ -35,7 +35,7 @@ Truyền-đạo 12:14 nhắc nhở rằng Đức Chúa Trời sẽ đem đoán x
 
 ## Hãy giữ điều quan trọng nhất: đức tin
 
-Đức tin là nền tảng cho tất cả. Giống như một ngôi nhà cần nền móng vững chắc, đời sống tâm linh phải được xây trên đức tin, không phải trên sở thích cá nhân như thích ca đoàn hát hay, thích mục sư giảng thực tiễn, hay vì bạn bè sinh hoạt tại hội thánh.
+Đức tin là nền tảng cho tất cả. Giống như một ngôi nhà cần nền móng vững chắc, đời sống tâm linh phải được xây trên đức tin, không phải trên sở thích cá nhân như thích ca đoàn hát hay, thích mục sư giảng thực tiễn, hay vì bạn bè sinh hoạt tại Hội Thánh.
 
 Lu-ca 18:8 ghi lại lời cảnh báo của Chúa Giêsu: khi Con Người đến, liệu có thấy đức tin trên mặt đất chăng? Đây là lời cảnh tỉnh nghiêm trọng cho những ai nghĩ rằng chỉ cần nói tin Chúa là đủ.
 

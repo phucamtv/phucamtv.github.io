@@ -47,4 +47,4 @@ Gia-cơ, Giăng cùng mười sứ đồ còn lại cuối cùng đều tử vì
 
 ## Bài Học Cho Đời Sống Theo Chúa
 
-Bài giảng hôm nay nhắc nhở mỗi chúng ta hãy học theo Chúa sống khiêm nhường hơn, nhân từ hơn. Hãy xác định rằng chúng ta là đầy tớ của mọi người, sẵn sàng đứng đó mà phục vụ chứ không ngồi mà hưởng thụ. Nếu được giao một chức vụ nào đó trong Hội thánh, hãy noi gương Chúa để trở thành đầy tớ, trở thành người hầu việc. Chúng ta chấp nhận trả giá bằng những thống khổ ngày hôm nay để có được vinh quang với Chúa trong nước Ngài đời đời.
+Bài giảng hôm nay nhắc nhở mỗi chúng ta hãy học theo Chúa sống khiêm nhường hơn, nhân từ hơn. Hãy xác định rằng chúng ta là đầy tớ của mọi người, sẵn sàng đứng đó mà phục vụ chứ không ngồi mà hưởng thụ. Nếu được giao một chức vụ nào đó trong Hội Thánh, hãy noi gương Chúa để trở thành đầy tớ, trở thành người hầu việc. Chúng ta chấp nhận trả giá bằng những thống khổ ngày hôm nay để có được vinh quang với Chúa trong nước Ngài đời đời.

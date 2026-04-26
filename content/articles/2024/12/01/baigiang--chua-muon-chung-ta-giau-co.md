@@ -14,7 +14,7 @@ draft: false
 
 ## Đức Chúa Trời Có Muốn Con Cái Ngài Nghèo Không?
 
-Trưởng lão Trần Vinh Hải mở đầu bài giảng bằng một quan sát thực tế: hầu hết tín hữu trong hội thánh đều là người nghèo hoặc cận nghèo. Điều này dẫn đến một thắc mắc rất thật — nếu Đức Chúa Giê-su từng phán rằng người giàu muốn vào nước thiên đàng còn khó hơn con lạc đà chui qua lỗ kim, phải chăng Chúa muốn con cái Ngài ở trong cảnh nghèo khổ?
+Trưởng lão Trần Vinh Hải mở đầu bài giảng bằng một quan sát thực tế: hầu hết tín hữu trong Hội Thánh đều là người nghèo hoặc cận nghèo. Điều này dẫn đến một thắc mắc rất thật — nếu Đức Chúa Giê-su từng phán rằng người giàu muốn vào nước thiên đàng còn khó hơn con lạc đà chui qua lỗ kim, phải chăng Chúa muốn con cái Ngài ở trong cảnh nghèo khổ?
 
 Câu trả lời dứt khoát: **Không.** Đó là suy nghĩ vội vàng và nông cạn. Đức Chúa Trời không hề muốn con cái Ngài sống trong gian khổ. Ngài muốn chúng ta giàu có — nhưng là sự giàu có đúng nghĩa, trong đường lối và tình yêu thương của Ngài, không phải sự giàu có tầm thường mà thế gian hằng theo đuổi.
 

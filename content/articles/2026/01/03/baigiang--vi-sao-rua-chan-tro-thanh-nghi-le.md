@@ -2,7 +2,7 @@
 title: "Vì Sao Rửa Chân Trở Thành Nghi Lễ?"
 date: 2026-01-03
 url: /baigiang/vi-sao-rua-chan-tro-thanh-nghi-le/
-description: "Từ Giăng 13:1-17, Mục sư Dương Quang Thoại giải thích tại sao lễ rửa chân không đơn thuần là tập tục Do Thái mà đã được Đức Chúa Giê-su thiết lập thành nghi lễ của hội thánh. Bài giảng rút ra bốn bài học quý giá: sự hạ mình, tinh thần phục vụ, trách nhiệm chăm sóc anh em, và sự tẩy sạch lẫn nhau."
+description: "Từ Giăng 13:1-17, Mục sư Dương Quang Thoại giải thích tại sao lễ rửa chân không đơn thuần là tập tục Do Thái mà đã được Đức Chúa Giê-su thiết lập thành nghi lễ của Hội Thánh. Bài giảng rút ra bốn bài học quý giá: sự hạ mình, tinh thần phục vụ, trách nhiệm chăm sóc anh em, và sự tẩy sạch lẫn nhau."
 tags: ["Giăng", "Rửa Chân", "Khiêm Nhường", "Phục Vụ", "Tiệc Thánh", "Phi-e-rơ", "Tẩy Sạch"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,9 +14,9 @@ draft: false
 
 ## Rửa Chân — Từ Tập Tục Đến Nghi Lễ
 
-Nhiều người thắc mắc tại sao hội thánh thực hiện lễ rửa chân. Có ý kiến cho rằng Kinh Thánh chỉ dạy về lễ báp-tem, còn những nghi lễ khác thuộc về người Do Thái và không cần thiết. Một số giáo hội xem việc rửa chân quá phức tạp — phải có thau chậu, khăn lau, mất thời gian — nên bỏ qua. Nhưng khi Đức Chúa Giê-su đã thiết lập một mệnh lệnh, chúng ta không được phép đơn giản hóa điều Ngài truyền dạy.
+Nhiều người thắc mắc tại sao Hội Thánh thực hiện lễ rửa chân. Có ý kiến cho rằng Kinh Thánh chỉ dạy về lễ báp-tem, còn những nghi lễ khác thuộc về người Do Thái và không cần thiết. Một số giáo hội xem việc rửa chân quá phức tạp — phải có thau chậu, khăn lau, mất thời gian — nên bỏ qua. Nhưng khi Đức Chúa Giê-su đã thiết lập một mệnh lệnh, chúng ta không được phép đơn giản hóa điều Ngài truyền dạy.
 
-Giăng đoạn 13, câu 1-17 cho thấy rõ rằng Đức Chúa Giê-su đã biến lễ rửa chân từ một tập tục sinh hoạt hàng ngày của người Do Thái thành nghi lễ chính thức của hội thánh. Ba câu Kinh Thánh then chốt xác nhận điều này: câu 14 — "các ngươi cũng nên rửa chân lẫn cho nhau"; câu 15 — "các ngươi cũng làm như ta đã làm cho các ngươi"; và câu 17 — "ví bằng các ngươi biết những sự này thì có phước, miễn là các ngươi làm theo." Đây là lời truyền phán rõ ràng, không chỉ là một hành động mang tính biểu tượng nhất thời.
+Giăng đoạn 13, câu 1-17 cho thấy rõ rằng Đức Chúa Giê-su đã biến lễ rửa chân từ một tập tục sinh hoạt hàng ngày của người Do Thái thành nghi lễ chính thức của Hội Thánh. Ba câu Kinh Thánh then chốt xác nhận điều này: câu 14 — "các ngươi cũng nên rửa chân lẫn cho nhau"; câu 15 — "các ngươi cũng làm như ta đã làm cho các ngươi"; và câu 17 — "ví bằng các ngươi biết những sự này thì có phước, miễn là các ngươi làm theo." Đây là lời truyền phán rõ ràng, không chỉ là một hành động mang tính biểu tượng nhất thời.
 
 ---
 

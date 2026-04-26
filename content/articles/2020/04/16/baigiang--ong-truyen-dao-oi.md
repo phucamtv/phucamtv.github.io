@@ -17,9 +17,9 @@ draft: false
 
 ## Bức Thư Gửi Người Truyền Đạo
 
-Mục sư Layne khi mới về nhận nhiệm sở tại một nhà thờ nhỏ đã nhận được một bức thư đặc biệt từ một tín hữu. Bức thư ấy không phải là lời chào mừng hay những kỳ vọng thông thường. Thay vào đó, nó chứa đựng một thông điệp sâu sắc về điều mà hội thánh thật sự cần nơi người chăn bầy.
+Mục sư Layne khi mới về nhận nhiệm sở tại một nhà thờ nhỏ đã nhận được một bức thư đặc biệt từ một tín hữu. Bức thư ấy không phải là lời chào mừng hay những kỳ vọng thông thường. Thay vào đó, nó chứa đựng một thông điệp sâu sắc về điều mà Hội Thánh thật sự cần nơi người chăn bầy.
 
-Người viết thư bày tỏ rằng họ muốn thấy một bài giảng sống động hơn là chỉ nghe một bài giảng bằng lời. Họ muốn người truyền đạo cùng đồng hành trên con đường đức tin, chứ không chỉ đứng từ xa mà chỉ đường. Đây là tiếng lòng chân thật của biết bao tín hữu trong các hội thánh ngày nay.
+Người viết thư bày tỏ rằng họ muốn thấy một bài giảng sống động hơn là chỉ nghe một bài giảng bằng lời. Họ muốn người truyền đạo cùng đồng hành trên con đường đức tin, chứ không chỉ đứng từ xa mà chỉ đường. Đây là tiếng lòng chân thật của biết bao tín hữu trong các Hội Thánh ngày nay.
 
 ## Con Mắt Là Học Trò Giỏi Hơn Lỗ Tai
 
@@ -37,7 +37,7 @@ Người ta e ngại những người nói nhiều, nói hay mà không làm đ�
 
 ## Hội Thánh Sống Động Hay Thiếu Sinh Khí?
 
-Một hội thánh sống động hay thiếu sinh khí phần lớn tùy thuộc vào người lãnh đạo có thực thi những gì mình rao giảng hay không. Khi người lãnh đạo sống đúng với lời mình nói, cả hội thánh được khích lệ và noi theo. Ngược lại, khi có sự khác biệt giữa lời nói và hành động, đức tin của tín hữu sẽ bị lung lay.
+Một Hội Thánh sống động hay thiếu sinh khí phần lớn tùy thuộc vào người lãnh đạo có thực thi những gì mình rao giảng hay không. Khi người lãnh đạo sống đúng với lời mình nói, cả Hội Thánh được khích lệ và noi theo. Ngược lại, khi có sự khác biệt giữa lời nói và hành động, đức tin của tín hữu sẽ bị lung lay.
 
 Nếu bạn đang trên hành trình tìm hiểu và theo Chúa, thì bức thư của người tín hữu gửi cho Mục sư Layne cũng chính là lời nhắc nhở dành cho mỗi chúng ta. Không chỉ người lãnh đạo, mà mỗi Cơ-đốc nhân đều được kêu gọi sống gương mẫu trong đức tin.
 

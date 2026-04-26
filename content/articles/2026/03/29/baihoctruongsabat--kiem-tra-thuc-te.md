@@ -30,7 +30,7 @@ Trong Khải Huyền 3:14-22, Chúa Giê-su xưng mình là *"Đấng Chứng Nh
 
 Và điều Ngài nói về dân Ngài trong thời kỳ cuối là: **không nóng cũng không lạnh.** Những ngày tuần cứ trôi qua, chúng ta dành chút ít thời gian với Đức Chúa Trời đây đó, và nghĩ vậy là đủ. Nhưng thật ra không phải vậy. Chúng ta đang cần Ngài còn hơn mình tưởng rất nhiều.
 
-Điều nguy hiểm nhất không phải là kẻ thù tấn công từ bên ngoài — mà là sự **tự mãn yên lặng** từ bên trong. Hội thánh Lao-đi-xê đã tự đánh giá mình là giàu có, không thiếu gì. Nhưng Chúa Giê-su thấy họ là *"khốn khổ, đáng thương, nghèo nàn, mù quáng và trần truồng"* (Khải Huyền 3:17).
+Điều nguy hiểm nhất không phải là kẻ thù tấn công từ bên ngoài — mà là sự **tự mãn yên lặng** từ bên trong. Hội Thánh Lao-đi-xê đã tự đánh giá mình là giàu có, không thiếu gì. Nhưng Chúa Giê-su thấy họ là *"khốn khổ, đáng thương, nghèo nàn, mù quáng và trần truồng"* (Khải Huyền 3:17).
 
 Sự mâu thuẫn đó chính là cạm bẫy nguy hiểm nhất trong đời sống thuộc linh — tưởng mình ổn trong khi thực ra đang thiếu thốn trầm trọng.
 

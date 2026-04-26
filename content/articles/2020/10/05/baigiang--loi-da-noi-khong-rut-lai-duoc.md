@@ -17,7 +17,7 @@ draft: false
 
 ## Câu Chuyện Về Những Chiếc Lông Vịt
 
-Trong một hội thánh nọ, có một người phụ nữ nổi tiếng vì thói quen nói xấu người khác. Biết bao nhiêu rắc rối, xung đột đã xảy ra chỉ vì những lời nói độc địa của bà. Thậm chí vị mục sư chủ tọa trước đó đã phải từ nhiệm và ra đi vì những lời thêm mắm dặm muối mà bà thêu dệt nên. Đây không phải là một trường hợp cá biệt, mà là thực trạng đau lòng trong nhiều cộng đồng đức tin.
+Trong một Hội Thánh nọ, có một người phụ nữ nổi tiếng vì thói quen nói xấu người khác. Biết bao nhiêu rắc rối, xung đột đã xảy ra chỉ vì những lời nói độc địa của bà. Thậm chí vị mục sư chủ tọa trước đó đã phải từ nhiệm và ra đi vì những lời thêm mắm dặm muối mà bà thêu dệt nên. Đây không phải là một trường hợp cá biệt, mà là thực trạng đau lòng trong nhiều cộng đồng đức tin.
 
 Khi một vị mục sư mới đến nhậm chức, ông đã đặc biệt cầu nguyện cho người phụ nữ này. Rồi một ngày, ông mời bà đến thánh đường. Sau khi cùng nhau đọc Lời Chúa và cầu nguyện, mục sư mời bà lên tháp chuông nhà thờ, mang theo một chiếc gối lông vịt.
 

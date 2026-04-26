@@ -28,7 +28,7 @@ Tại sao? Vì Đức Chúa Giêsu đã có một viễn cảnh rõ ràng và tr
 
 Giăng 4:35 chép lời Chúa Giêsu: *"Hãy ngước mắt lên và xem đồng ruộng đã vàng sẵn cho mùa gặt."*
 
-Mục sư Thoại nhấn mạnh cái từ *ngước* trong bản dịch Việt ngữ — rất đắt giá. Nếu cứ cúi gầm mặt xuống, chúng ta không thấy gì. Chúng ta có thể hàng tuần đến nhà thờ, dâng tiền, hát tôn vinh, phục vụ Chúa — nhưng nếu chỉ cúi mặt nhìn nhau trong hội thánh mà không chịu ngước lên nhìn thấy cánh đồng lúa chín đang chờ, thì chúng ta đã bỏ mất sứ mạng lớn nhất của đời mình.
+Mục sư Thoại nhấn mạnh cái từ *ngước* trong bản dịch Việt ngữ — rất đắt giá. Nếu cứ cúi gầm mặt xuống, chúng ta không thấy gì. Chúng ta có thể hàng tuần đến nhà thờ, dâng tiền, hát tôn vinh, phục vụ Chúa — nhưng nếu chỉ cúi mặt nhìn nhau trong Hội Thánh mà không chịu ngước lên nhìn thấy cánh đồng lúa chín đang chờ, thì chúng ta đã bỏ mất sứ mạng lớn nhất của đời mình.
 
 ## Viễn Cảnh Phải Đi Kèm Hành Động Cụ Thể
 

@@ -18,7 +18,7 @@ Cha mẹ thường dặn con cái mỗi khi ra đường: "Coi chừng đi lạc
 
 Ca-in và A-bên cùng dâng của lễ cho Đức Chúa Trời. A-bên dâng đúng theo ý muốn của Chúa, còn Ca-in thì không. Đáng chú ý là Ca-in đi lạc ngay trong lúc thờ phượng — không phải khi ra ngoài trộm cắp hay làm điều gian ác, mà ngay khi đứng trước mặt Đức Chúa Trời.
 
-Lu-ca 15 kể về ba sự lạc mất quen thuộc: con chiên đi lạc, đồng bạc bị mất, và người con trai hoang đàng. Nhưng có thể còn một sự lạc mất thứ tư ít được nhắc đến — đó là người anh cả. Anh ta ở trong nhà cha mình suốt nhưng không hề có mối tương giao thật sự với cha. Cuộc đối đáp giữa người anh cả và cha cho thấy anh hoàn toàn không hiểu lòng cha. Anh lạc mất mà không hề rời khỏi nhà. Đồng bạc cũng vậy — nó lạc mất ngay trong nhà người đàn bà, không phải ngoài đường. Chúng ta vẫn có thể lạc mất ngay trong hội thánh của Đức Chúa Trời.
+Lu-ca 15 kể về ba sự lạc mất quen thuộc: con chiên đi lạc, đồng bạc bị mất, và người con trai hoang đàng. Nhưng có thể còn một sự lạc mất thứ tư ít được nhắc đến — đó là người anh cả. Anh ta ở trong nhà cha mình suốt nhưng không hề có mối tương giao thật sự với cha. Cuộc đối đáp giữa người anh cả và cha cho thấy anh hoàn toàn không hiểu lòng cha. Anh lạc mất mà không hề rời khỏi nhà. Đồng bạc cũng vậy — nó lạc mất ngay trong nhà người đàn bà, không phải ngoài đường. Chúng ta vẫn có thể lạc mất ngay trong Hội Thánh của Đức Chúa Trời.
 
 Ê-sai 53:6 khẳng định: "Chúng ta thảy đều như chiên đi lạc, ai theo đường nấy; Đức Giê-hô-va đã làm cho tội lỗi của hết thảy chúng ta đều chất trên Ngài." Cả nhân loại đều có xu hướng đi lạc — đó là bản chất tự nhiên của con người sa ngã.
 

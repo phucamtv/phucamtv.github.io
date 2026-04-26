@@ -60,4 +60,4 @@ Khi nhận biết như vậy, thập tự giá không còn là biểu tượng x
 
 1 Ti-mô-thê 1:15 chép rằng: *"Đức Chúa Giê-su Christ đã đến trong thế gian để cứu vớt kẻ có tội — ấy là lời chắc chắn, đáng đem lòng tin trọn vẹn mà nhận lấy. Trong những kẻ có tội đó, ta là đầu."*
 
-Sứ đồ Phao-lô đã nhận ra điều này một cách sâu sắc — ông không chỉ biết về Đấng Christ, mà nhận ra rằng sự cứu rỗi đó liên quan trực tiếp đến chính bản thân ông, dù ông từng là kẻ bắt bớ Hội thánh. Đây là lời mời gọi cho mỗi chúng ta hôm nay: hãy nhìn lên thập tự giá và nhận ra rằng Ngài đã làm điều đó — vì bạn.
+Sứ đồ Phao-lô đã nhận ra điều này một cách sâu sắc — ông không chỉ biết về Đấng Christ, mà nhận ra rằng sự cứu rỗi đó liên quan trực tiếp đến chính bản thân ông, dù ông từng là kẻ bắt bớ Hội Thánh. Đây là lời mời gọi cho mỗi chúng ta hôm nay: hãy nhìn lên thập tự giá và nhận ra rằng Ngài đã làm điều đó — vì bạn.

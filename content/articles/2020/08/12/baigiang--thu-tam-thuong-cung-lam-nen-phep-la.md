@@ -24,13 +24,13 @@ Lời dạy ấy chạm đến một nguyên tắc quan trọng cho mọi ngư�
 
 Khi thuyền vừa cập bờ, đoàn dân đã chạy đến trước đông nghẹt. Đức Chúa Giê-su có thể bỏ họ mà đi nghỉ theo dự định ban đầu. Nhưng Ngài "động lòng thương xót, vì họ như chiên không có người chăn." Ngài dừng lại sự nghỉ ngơi của mình để phục vụ.
 
-Hình ảnh chiên không có người chăn gợi lên ba nhu cầu: không ai dẫn dắt nên không biết đi đâu, không có thức ăn nên bị đói khát, và không được bảo vệ nên dễ làm mồi cho thú dữ. Đó cũng là trách nhiệm của người lãnh đạo hội thánh: dẫn dắt bằng Lời Chúa, nuôi dưỡng bằng Kinh Thánh, và bảo vệ bầy chiên bằng quyền năng của Đức Thánh Linh. Người chăn thật khác hẳn kẻ chăn thuê — kẻ chăn thuê không yêu chiên, chỉ đòi hỏi mà không chăm sóc, bóp méo lời Chúa vì tư lợi.
+Hình ảnh chiên không có người chăn gợi lên ba nhu cầu: không ai dẫn dắt nên không biết đi đâu, không có thức ăn nên bị đói khát, và không được bảo vệ nên dễ làm mồi cho thú dữ. Đó cũng là trách nhiệm của người lãnh đạo Hội Thánh: dẫn dắt bằng Lời Chúa, nuôi dưỡng bằng Kinh Thánh, và bảo vệ bầy chiên bằng quyền năng của Đức Thánh Linh. Người chăn thật khác hẳn kẻ chăn thuê — kẻ chăn thuê không yêu chiên, chỉ đòi hỏi mà không chăm sóc, bóp méo lời Chúa vì tư lợi.
 
 ## Phản Ứng Của Con Người Trước Nhu Cầu Lớn
 
 Khi trời đã chiều, các môn đồ thấy rõ nhu cầu: 5.000 người đói giữa đồng vắng. Nhưng phản ứng tự nhiên của họ là đẩy trách nhiệm đi — "Xin cho dân chúng về để họ tự mua đồ ăn." Họ thấy nhu cầu nhưng cho rằng nó quá lớn, không thuộc trách nhiệm của mình. Tính ra phải đến 200 đơ-ni-ê mới đủ mua bánh, một số tiền mà các môn đồ không hề có.
 
-Đức Chúa Giê-su phản ứng hoàn toàn ngược lại: "Chính các ngươi hãy cho họ ăn." Câu nói ấy khiến môn đồ bối rối. Cũng vậy ngày nay, khi đối diện với những nhu cầu lớn lao trong xã hội hay trong hội thánh, chúng ta dễ dàng nản lòng vì thấy mình quá nhỏ bé, tài nguyên quá ít ỏi. Nhưng Chúa không nhìn bằng con mắt xác thịt — Ngài nhìn bằng cái nhìn thuộc linh, thấy tiềm năng ẩn giấu trong những điều tưởng chừng vô giá trị.
+Đức Chúa Giê-su phản ứng hoàn toàn ngược lại: "Chính các ngươi hãy cho họ ăn." Câu nói ấy khiến môn đồ bối rối. Cũng vậy ngày nay, khi đối diện với những nhu cầu lớn lao trong xã hội hay trong Hội Thánh, chúng ta dễ dàng nản lòng vì thấy mình quá nhỏ bé, tài nguyên quá ít ỏi. Nhưng Chúa không nhìn bằng con mắt xác thịt — Ngài nhìn bằng cái nhìn thuộc linh, thấy tiềm năng ẩn giấu trong những điều tưởng chừng vô giá trị.
 
 ## Dâng Những Gì Mình Đang Có
 
@@ -44,6 +44,6 @@ Nhưng đây chính là nguyên tắc xuyên suốt của phép lạ: Chúa luô
 
 Phép lạ hóa bánh ra nhiều là phép lạ duy nhất được ghi lại trong cả bốn sách Phúc Âm, cho thấy tầm quan trọng đặc biệt của sứ điệp này. Chúa muốn mỗi người chúng ta nhận ra rằng: đừng bao giờ xem thường những gì mình đang có, dù nó tầm thường đến mấy.
 
-Trong hội thánh, mỗi người đều được Chúa ban cho những ân tứ thuộc linh khác nhau. Việc quan trọng là phải khám phá ra mình có gì để dâng hiến phục vụ. Nếu cứ nghĩ rằng mình không có gì, rằng những gì mình có quá nhỏ bé không đáng kể, thì phép lạ sẽ không bao giờ xảy ra, đoàn dân sẽ cứ mãi đói, và công việc Chúa sẽ không thể phát triển.
+Trong Hội Thánh, mỗi người đều được Chúa ban cho những ân tứ thuộc linh khác nhau. Việc quan trọng là phải khám phá ra mình có gì để dâng hiến phục vụ. Nếu cứ nghĩ rằng mình không có gì, rằng những gì mình có quá nhỏ bé không đáng kể, thì phép lạ sẽ không bao giờ xảy ra, đoàn dân sẽ cứ mãi đói, và công việc Chúa sẽ không thể phát triển.
 
 Hãy nhớ: Chúa không cần những thứ vĩ đại để làm nên phép lạ. Ngài chỉ cần bạn dâng những gì bạn đang có — dù tầm thường — với tấm lòng biết ơn và khiêm nhường. Từ đó, Ngài sẽ nhân lên thành điều phi thường.

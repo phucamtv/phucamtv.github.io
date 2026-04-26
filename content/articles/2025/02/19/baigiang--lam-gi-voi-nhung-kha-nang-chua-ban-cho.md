@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 25:14-30
 
-Ẩn dụ về các ta-lâng là một trong những câu chuyện quen thuộc nhất của Đức Chúa Giê-su, liên quan đến ngày tái lâm của Ngài. Một người chủ trước khi đi xa đã giao của cải cho ba đầy tớ: người thứ nhất năm ta-lâng, người thứ hai hai ta-lâng, và người thứ ba một ta-lâng — tùy theo khả năng mỗi người. Khi chủ trở về tín sổ, hai người đầu được khen thưởng, còn người cuối bị trừng phạt nặng nề. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi sâu vào từng chi tiết để rút ra những bài học sống động cho đời sống đức tin.
+Ẩn dụ về các ta-lâng là một trong những câu chuyện quen thuộc nhất của Đức Chúa Giê-su, liên quan đến ngày tái lâm của Ngài. Một người chủ trước khi đi xa đã giao của cải cho ba đầy tớ: người thứ nhất năm ta-lâng, người thứ hai hai ta-lâng, và người thứ ba một ta-lâng — tùy theo khả năng mỗi người. Khi chủ trở về tín sổ, hai người đầu được khen thưởng, còn người cuối bị trừng phạt nặng nề. Mục sư Dương Quang Thoại dẫn dắt Hội Thánh đi sâu vào từng chi tiết để rút ra những bài học sống động cho đời sống đức tin.
 
 ---
 
@@ -42,7 +42,7 @@ Câu 19 ghi: *"Cách lâu ngày, chủ của những đầy tớ ấy trở về
 
 Người chủ giao năm, hai, và một ta-lâng tùy theo tài năng từng người. Đức Chúa Trời khôn ngoan không bao giờ buộc chúng ta đối diện với những điều vượt ngoài khả năng. Khi gặp việc tưởng chừng quá lớn, hãy quay lại với lẽ thật Kinh Thánh: Chúa biết rõ sở trường, sở đoản của mỗi người và giao nhiệm vụ phù hợp.
 
-Điều này cũng có nghĩa: đừng bao giờ phân bì, so sánh với người khác. Trong hội thánh, mỗi người sinh ra khác nhau — giàu nghèo, học thức hay bình dân, thành công hay thất bại — nhưng Chúa sử dụng mỗi người như một người thợ sử dụng các loại gỗ cho những sản phẩm khác nhau.
+Điều này cũng có nghĩa: đừng bao giờ phân bì, so sánh với người khác. Trong Hội Thánh, mỗi người sinh ra khác nhau — giàu nghèo, học thức hay bình dân, thành công hay thất bại — nhưng Chúa sử dụng mỗi người như một người thợ sử dụng các loại gỗ cho những sản phẩm khác nhau.
 
 ---
 

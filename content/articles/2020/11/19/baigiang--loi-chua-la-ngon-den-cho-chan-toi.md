@@ -2,7 +2,7 @@
 title: "Lời Chúa Là Ngọn Đèn Cho Chân Tôi"
 date: 2020-11-19
 url: /baigiang/loi-chua-la-ngon-den-cho-chan-toi/
-description: "Từ Thi Thiên 119:105, Mục sư Dương Quang Thoại nhắc nhở hội thánh về giá trị không thể thay thế của Lời Chúa — vừa là ngọn đèn soi đường, vừa là lương thực nuôi linh hồn, vừa là quyền năng biến đổi toàn diện con người. Bài giảng cảnh báo về cơn đói Lời Chúa mà A-mốt đã tiên tri, và kêu gọi đặt việc đọc Kinh Thánh, cầu nguyện làm ưu tiên hàng đầu mỗi ngày."
+description: "Từ Thi Thiên 119:105, Mục sư Dương Quang Thoại nhắc nhở Hội Thánh về giá trị không thể thay thế của Lời Chúa — vừa là ngọn đèn soi đường, vừa là lương thực nuôi linh hồn, vừa là quyền năng biến đổi toàn diện con người. Bài giảng cảnh báo về cơn đói Lời Chúa mà A-mốt đã tiên tri, và kêu gọi đặt việc đọc Kinh Thánh, cầu nguyện làm ưu tiên hàng đầu mỗi ngày."
 tags: ["Kinh Thánh", "Lời Chúa", "Thi Thiên", "A-mốt", "Cầu Nguyện", "Biến Đổi", "Sa-tan", "Lương Thực Thuộc Linh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]

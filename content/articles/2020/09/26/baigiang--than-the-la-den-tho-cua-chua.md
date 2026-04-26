@@ -22,7 +22,7 @@ Câu Kinh Thánh này được chia ra làm bốn phần để cùng nhau suy g�
 
 ## 1. Anh em há chẳng biết rằng thân thể mình là đền thờ?
 
-Sứ đồ Phao-lô đặt một câu hỏi cho Hội Thánh Cô-rinh-tô — không phải một câu xác định nhẹ nhàng, mà là một câu hỏi mang tính nhắc nhở mạnh mẽ. Hội Thánh Cô-rinh-tô là hội thánh bị Phao-lô quở trách nhiều nhất vì có rất nhiều điều tồi tệ cần được điều chỉnh.
+Sứ đồ Phao-lô đặt một câu hỏi cho Hội Thánh Cô-rinh-tô — không phải một câu xác định nhẹ nhàng, mà là một câu hỏi mang tính nhắc nhở mạnh mẽ. Hội Thánh Cô-rinh-tô là Hội Thánh bị Phao-lô quở trách nhiều nhất vì có rất nhiều điều tồi tệ cần được điều chỉnh.
 
 Thân thể chúng ta bây giờ không phải là một thân thể bình thường nữa, mà đã biến thành một thánh đường — nơi Chúa ngự. Trong thời kỳ Cựu Ước, đền thờ là biểu tượng của niềm tin, là nơi có sự hiện diện của Đức Chúa Trời. Nhưng trong thời kỳ ân điển, thân thể chúng ta chính là đền thờ, là nơi Chúa ngự.
 

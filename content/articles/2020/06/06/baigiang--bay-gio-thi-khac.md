@@ -34,6 +34,6 @@ Con đường theo Chúa không phải là con đường trải đầy hoa thơm
 
 ## Lời Nhắc Nhở
 
-Sứ đồ Phao-lô đã khuyên hội thánh tại Cô-rinh-tô rằng: "Hãy tỉnh thức, hãy vững vàng trong đức tin, hãy dốc chí trượng phu và mạnh mẽ" (1 Cô-rinh-tô 16:13). Đây là lời kêu gọi mỗi người tin Chúa hãy xây dựng đời sống đức tin trên nền tảng vững chắc, không dựa vào hoàn cảnh hay cảm xúc nhất thời.
+Sứ đồ Phao-lô đã khuyên Hội Thánh tại Cô-rinh-tô rằng: "Hãy tỉnh thức, hãy vững vàng trong đức tin, hãy dốc chí trượng phu và mạnh mẽ" (1 Cô-rinh-tô 16:13). Đây là lời kêu gọi mỗi người tin Chúa hãy xây dựng đời sống đức tin trên nền tảng vững chắc, không dựa vào hoàn cảnh hay cảm xúc nhất thời.
 
 Động lực thật sự để phục vụ Chúa phải đến từ tình yêu chân thành dành cho Ngài, từ sự biết ơn về ân điển cứu rỗi, và từ khải tượng về sứ mạng mà Ngài đã giao phó. Khi ấy, dù hoàn cảnh có thay đổi, dù bão tố có ập đến, chúng ta vẫn kiên trì bước đi trên con đường mà Chúa đã vạch ra cho mình.

@@ -136,7 +136,7 @@ Người giàu dù được vây quanh bởi mọi sự xa hoa của cuộc đ�
 
 ## Trong những ngày sau rốt
 
-Những cảnh cuối cùng của lịch sử trái đất này được miêu tả trong đoạn kết của câu chuyện về người giàu. Người giàu tuyên bố mình là con cháu của Áp-ra-ham, nhưng ông bị ngăn cách với Áp-ra-ham bởi một vực sâu không thể vượt qua — một tính cách được phát triển sai lầm. Áp-ra-ham phục vụ Đức Chúa Trời, vâng theo lời Ngài trong đức tin và sự vâng phục. Nhưng người giàu thì không quan tâm đến Đức Chúa Trời cũng như đến nhu cầu của nhân loại đang đau khổ. Vực sâu lớn được đặt cố định giữa ông và Áp-ra-ham chính là vực sâu của sự bất tuân. Ngày nay có nhiều người đang đi theo cùng một con đường. Dù là thành viên của hội thánh, họ vẫn chưa được hoán cải. Họ có thể tham dự các buổi nhóm của hội thánh, họ có thể hát thánh vịnh:
+Những cảnh cuối cùng của lịch sử trái đất này được miêu tả trong đoạn kết của câu chuyện về người giàu. Người giàu tuyên bố mình là con cháu của Áp-ra-ham, nhưng ông bị ngăn cách với Áp-ra-ham bởi một vực sâu không thể vượt qua — một tính cách được phát triển sai lầm. Áp-ra-ham phục vụ Đức Chúa Trời, vâng theo lời Ngài trong đức tin và sự vâng phục. Nhưng người giàu thì không quan tâm đến Đức Chúa Trời cũng như đến nhu cầu của nhân loại đang đau khổ. Vực sâu lớn được đặt cố định giữa ông và Áp-ra-ham chính là vực sâu của sự bất tuân. Ngày nay có nhiều người đang đi theo cùng một con đường. Dù là thành viên của Hội Thánh, họ vẫn chưa được hoán cải. Họ có thể tham dự các buổi nhóm của Hội Thánh, họ có thể hát thánh vịnh:
 
 > "Đức Chúa Trời ôi! linh hồn tôi mơ ước Chúa, Như con nai cái thèm khát khe nước."
 > <cite>(Thi-thiên 42:1)</cite>

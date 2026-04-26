@@ -46,7 +46,7 @@ Sự kiện thứ ba là lời chứng của thầy đội La Mã và những ng
 
 Sự kiện thứ tư là những người phụ nữ đứng nhìn từ xa. Họ đã theo Chúa suốt ba năm rưỡi từ Ga-li-lê xuống Giê-ru-sa-lem, âm thầm lo liệu phần ăn uống, nấu nướng, giặt giũ cho cả đoàn thầy trò. Khi tất cả các môn đồ bỏ chạy, họ vẫn ở đó — dù bị cắm lại xa xa, họ vẫn tiến đến gần nhất có thể.
 
-Lòng trung thành của họ không cần ai biết đến. Họ không cần được kể tên, không cần được công nhận. Họ phục vụ Chúa vì tình yêu, vì đức tin, vì lòng can đảm vượt qua sợ hãi. Đây là tấm gương cho những người hầu việc Chúa âm thầm trong mọi hội thánh.
+Lòng trung thành của họ không cần ai biết đến. Họ không cần được kể tên, không cần được công nhận. Họ phục vụ Chúa vì tình yêu, vì đức tin, vì lòng can đảm vượt qua sợ hãi. Đây là tấm gương cho những người hầu việc Chúa âm thầm trong mọi Hội Thánh.
 
 ---
 

@@ -34,7 +34,7 @@ Sự chủ quan khiến ta đánh mất khả năng tự xét mình. Khi lòng t
 
 ## Lời Khuyên Từ Kinh Thánh
 
-Lời Chúa trong sách Khải Huyền đã cảnh tỉnh Hội Thánh Lao-đi-xê — một hội thánh tự cho mình là giàu có, đầy đủ, không thiếu thốn gì, nhưng thực chất lại khốn khổ, đáng thương, nghèo ngặt, đui mù và lõa lồ.
+Lời Chúa trong sách Khải Huyền đã cảnh tỉnh Hội Thánh Lao-đi-xê — một Hội Thánh tự cho mình là giàu có, đầy đủ, không thiếu thốn gì, nhưng thực chất lại khốn khổ, đáng thương, nghèo ngặt, đui mù và lõa lồ.
 
 Đức Chúa Giê-su phán: "Ta khuyên ngươi hãy mua những áo trắng, hầu cho ngươi được mặc vào và điều xấu hổ về sự trần truồng ngươi khỏi lộ ra; lại mua thuốc xức mắt đặng thoa mắt ngươi, hầu cho ngươi thấy được" (Khải Huyền 3:18).
 

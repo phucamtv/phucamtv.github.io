@@ -36,7 +36,7 @@ Những bậc cha mẹ tin kính Chúa không chỉ dừng lại ở việc dạ
 
 Không thể dạy con cầu nguyện nếu cha mẹ không cầu nguyện. Không thể dạy con yêu thương nếu trong gia đình đầy sự cãi vã. Không thể dạy con trung thực nếu cha mẹ thường xuyên gian dối. Con cái nhìn vào đời sống thực tế của cha mẹ, chứ không nhìn vào những bài giảng đạo đức mà cha mẹ rao giảng cho chúng.
 
-Sứ đồ Phao-lô đã viết trong thư gửi cho Hội thánh Ê-phê-sô: *"Hỡi các người làm cha, chớ chọc cho con cái mình giận dữ, hãy dùng sự sửa phạt khuyên bảo của Chúa mà nuôi nấng chúng nó"* (Ê-phê-sô 6:4). Câu Kinh Thánh này nhấn mạnh hai điều: thứ nhất, đừng khiến con cái tức giận bởi sự bất công hay thiếu gương mẫu; thứ hai, hãy nuôi dạy chúng trong khuôn khổ giáo huấn của Chúa.
+Sứ đồ Phao-lô đã viết trong thư gửi cho Hội Thánh Ê-phê-sô: *"Hỡi các người làm cha, chớ chọc cho con cái mình giận dữ, hãy dùng sự sửa phạt khuyên bảo của Chúa mà nuôi nấng chúng nó"* (Ê-phê-sô 6:4). Câu Kinh Thánh này nhấn mạnh hai điều: thứ nhất, đừng khiến con cái tức giận bởi sự bất công hay thiếu gương mẫu; thứ hai, hãy nuôi dạy chúng trong khuôn khổ giáo huấn của Chúa.
 
 ---
 

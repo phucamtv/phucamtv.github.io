@@ -34,7 +34,7 @@ Chúng ta phải suy xét mình đang nghĩ gì, đang hướng lòng đến nh�
 
 Ê-phê-sô 4:31 chỉ rõ những gì con cái Chúa cần phải bỏ đi: *"Phải bỏ khỏi anh em những sự cay đắng, buồn giận, tức mình, kêu rêu, mắng nhiếc, cùng mọi điều hung ác."*
 
-Sự cay đắng đối với những điều xảy đến trong cuộc sống thường đưa đến bực bội, hoài nghi, lạnh lùng và tàn nhẫn. Tất cả những điều này đi ngược lại với đời sống của một con cái Chúa. Hê-bơ-rơ 12:15 cũng cảnh báo: hãy coi chừng kẻo rễ đắng mọc ra, có thể ngăn trở và làm ô uế phần nhiều trong hội thánh. Nếu những rễ đắng đó phát triển, chúng sẽ ngăn trở phước hạnh và ân điển của Đức Chúa Trời trên đời sống mỗi chúng ta.
+Sự cay đắng đối với những điều xảy đến trong cuộc sống thường đưa đến bực bội, hoài nghi, lạnh lùng và tàn nhẫn. Tất cả những điều này đi ngược lại với đời sống của một con cái Chúa. Hê-bơ-rơ 12:15 cũng cảnh báo: hãy coi chừng kẻo rễ đắng mọc ra, có thể ngăn trở và làm ô uế phần nhiều trong Hội Thánh. Nếu những rễ đắng đó phát triển, chúng sẽ ngăn trở phước hạnh và ân điển của Đức Chúa Trời trên đời sống mỗi chúng ta.
 
 ---
 

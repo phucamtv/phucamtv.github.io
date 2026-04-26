@@ -1,7 +1,7 @@
 ---
 title: "Thiện-Ác đấu tranh"
 date: 2020-04-04
-description: "Mục sư Đặng Thanh Phong dẫn dắt hội thánh xuyên suốt Kinh Thánh — từ Sáng Thế Ký 3, Ê-sai 14 đến Giăng 3:16 — để phân tích nguồn gốc cuộc chiến thiện-ác, mục đích cám dỗ của Sa-tan, và cách Đức Chúa Trời giải quyết tội lỗi mà vẫn giữ trọn sự công bình lẫn tình yêu thương."
+description: "Mục sư Đặng Thanh Phong dẫn dắt Hội Thánh xuyên suốt Kinh Thánh — từ Sáng Thế Ký 3, Ê-sai 14 đến Giăng 3:16 — để phân tích nguồn gốc cuộc chiến thiện-ác, mục đích cám dỗ của Sa-tan, và cách Đức Chúa Trời giải quyết tội lỗi mà vẫn giữ trọn sự công bình lẫn tình yêu thương."
 tags: ["Thiện Ác", "Sa-tan", "Sáng Thế Ký", "Tội Lỗi", "Sự Cứu Rỗi", "Đức Chúa Giê-su", "Thập Tự Giá"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]

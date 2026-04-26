@@ -83,7 +83,7 @@ Lời Đức Chúa Trời phải là đối tượng nghiên cứu của chúng 
 
 Đấng Christ là lẽ thật. Lời của Ngài là lẽ thật, và chúng có ý nghĩa sâu sắc hơn những gì hiện ra trên bề mặt. Tất cả những lời của Đấng Christ đều có giá trị vượt trên vẻ ngoài khiêm nhường của chúng. Những tâm trí được Đức Thánh Linh thức tỉnh sẽ nhận ra giá trị của những lời này. Họ sẽ nhận ra những viên ngọc quý của lẽ thật, dù chúng có thể là những kho báu bị chôn giấu. COL 110.1
 
-Các lý thuyết và suy đoán của loài người sẽ không bao giờ dẫn đến sự hiểu biết Lời Đức Chúa Trời. Những người cho rằng mình hiểu triết học nghĩ rằng những lời giải thích của họ là cần thiết để mở khóa kho tàng tri thức và ngăn ngừa tà giáo xâm nhập vào hội thánh. Nhưng chính những lời giải thích này đã đem đến các lý thuyết sai lầm và tà giáo. Người ta đã nỗ lực tuyệt vọng để giải thích những gì họ nghĩ là các đoạn Kinh Thánh phức tạp; nhưng quá thường xuyên, những nỗ lực của họ chỉ làm tối tăm điều mà họ đang cố gắng làm sáng tỏ. COL 110.2
+Các lý thuyết và suy đoán của loài người sẽ không bao giờ dẫn đến sự hiểu biết Lời Đức Chúa Trời. Những người cho rằng mình hiểu triết học nghĩ rằng những lời giải thích của họ là cần thiết để mở khóa kho tàng tri thức và ngăn ngừa tà giáo xâm nhập vào Hội Thánh. Nhưng chính những lời giải thích này đã đem đến các lý thuyết sai lầm và tà giáo. Người ta đã nỗ lực tuyệt vọng để giải thích những gì họ nghĩ là các đoạn Kinh Thánh phức tạp; nhưng quá thường xuyên, những nỗ lực của họ chỉ làm tối tăm điều mà họ đang cố gắng làm sáng tỏ. COL 110.2
 
 Các thầy tế lễ và người Pha-ri-si nghĩ rằng họ đang làm những việc lớn lao với tư cách là thầy dạy khi đưa ra cách giải thích riêng của mình về Lời Đức Chúa Trời, nhưng Đấng Christ phán về họ:
 
@@ -97,7 +97,7 @@ Ngài buộc tội họ là có tội trong việc
 
 Dù họ là những thầy dạy về các sấm ngôn của Đức Chúa Trời, dù họ được cho là hiểu Lời Ngài, họ không phải là người làm theo Lời. Sa-tan đã làm mù mắt họ để họ không thể thấy ý nghĩa thật của Lời. COL 110.3
 
-Đây là công việc của nhiều người trong thời đại chúng ta. Nhiều hội thánh phạm tội này. Có một sự nguy hiểm, nguy hiểm lớn, rằng những người được cho là khôn ngoan ngày nay sẽ lặp lại kinh nghiệm của các thầy dạy Do Thái. Họ giải thích sai các sấm ngôn thiêng liêng, và các linh hồn bị đem vào bối rối và bao phủ trong bóng tối vì sự hiểu sai của họ về lẽ thật thiêng liêng. COL 110.4
+Đây là công việc của nhiều người trong thời đại chúng ta. Nhiều Hội Thánh phạm tội này. Có một sự nguy hiểm, nguy hiểm lớn, rằng những người được cho là khôn ngoan ngày nay sẽ lặp lại kinh nghiệm của các thầy dạy Do Thái. Họ giải thích sai các sấm ngôn thiêng liêng, và các linh hồn bị đem vào bối rối và bao phủ trong bóng tối vì sự hiểu sai của họ về lẽ thật thiêng liêng. COL 110.4
 
 Kinh Thánh không cần phải được đọc dưới ánh sáng lờ mờ của truyền thống hay suy đoán của loài người. Cố giải thích Kinh Thánh bằng truyền thống hay tưởng tượng của loài người cũng giống như cố gắng dùng ngọn đuốc để chiếu sáng mặt trời. Lời thánh của Đức Chúa Trời không cần ánh sáng lập loè của ngọn đuốc trần gian để làm cho sự vinh hiển của nó có thể được phân biệt. Tự nó là ánh sáng—là vinh quang của Đức Chúa Trời được bày tỏ, và so với nó, mọi ánh sáng khác đều lu mờ. COL 111.1
 

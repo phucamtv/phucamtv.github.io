@@ -55,7 +55,7 @@ Lu-ca ghi lại một nhận xét đáng chú ý về người Bê-rê: họ *"h
 
 ### Bài Học Cho Thời Đại Ngày Nay
 
-Đây là một bài học sâu sắc về cách tiếp nhận sự dạy dỗ. Nhiều người nghe giảng rồi tin theo mà không đối chiếu với Kinh Thánh — chỉ dựa vào uy tín của người truyền đạo hoặc tình cảm với hội thánh quen thuộc. Khi ai đó nói "hội thánh đó là tà giáo," người nghe tin ngay mà không tự mình kiểm tra.
+Đây là một bài học sâu sắc về cách tiếp nhận sự dạy dỗ. Nhiều người nghe giảng rồi tin theo mà không đối chiếu với Kinh Thánh — chỉ dựa vào uy tín của người truyền đạo hoặc tình cảm với Hội Thánh quen thuộc. Khi ai đó nói "Hội Thánh đó là tà giáo," người nghe tin ngay mà không tự mình kiểm tra.
 
 Nguyên tắc của người Bê-rê rất rõ ràng: **mọi lời giảng đều phải được đối chiếu với Kinh Thánh**. Mỗi Cơ-đốc nhân đều có Kinh Thánh và Đức Thánh Linh soi sáng — đủ để phân biệt lẽ thật khi đọc Lời Chúa với tấm lòng thành khẩn, không thiên vị, không kiêu ngạo.
 

@@ -16,7 +16,7 @@ notion_id: a3248ceb-05ed-41bc-bd9c-a11fd1bcbbc0
 
 ## Bối Cảnh: Đa-ni-ên Và Âm Mưu Của Kẻ Thù
 
-Sách Đa-ni-ên được chia thành hai phần: sáu chương đầu ghi lại cách sống của con dân Chúa trong thời cuối cùng, còn từ chương bảy trở đi mô tả những diễn biến trên thế giới liên quan đến hội thánh. Chương sáu là chương kết thúc phần thứ nhất — và chủ đề trung tâm là: *như thế nào là nhờ cậy nơi Đức Chúa Trời.*
+Sách Đa-ni-ên được chia thành hai phần: sáu chương đầu ghi lại cách sống của con dân Chúa trong thời cuối cùng, còn từ chương bảy trở đi mô tả những diễn biến trên thế giới liên quan đến Hội Thánh. Chương sáu là chương kết thúc phần thứ nhất — và chủ đề trung tâm là: *như thế nào là nhờ cậy nơi Đức Chúa Trời.*
 
 Vua Đa-ri-út đặt Đa-ni-ên lên trên hàng trăm quan trấn thủ khắp cả nước, vì người có linh tính tốt lành hơn ai hết. Những kẻ ghen tị tìm mọi cách để cáo tội ông, nhưng không tìm được một lỗi nào trong công việc hay đời sống. Họ đành thừa nhận: nếu muốn hại Đa-ni-ên, chỉ có thể tìm lỗi trong sự thuộc về luật pháp của Đức Chúa Trời ông. Vì thế, họ xúi vua ký một cấm lệnh: trong ba mươi ngày, ai cầu nguyện với bất kỳ thần nào hay người nào ngoài vua thì sẽ bị ném vào hang sư tử.
 

@@ -2,7 +2,7 @@
 title: "Kinh Hòa Bình"
 date: 2016-01-16
 url: /baigiang/kinh-hoa-binh/
-description: "Bài giảng về Kinh Hòa Bình — lời cầu nguyện nổi tiếng của Thánh Francisco. Mục sư Dương Quang Thoại dẫn dắt hội thánh suy gẫm về hòa bình trong gia đình, hội thánh và thế giới, kêu gọi sống phục vụ, tha thứ và quên mình theo gương Đức Chúa Giê-su."
+description: "Bài giảng về Kinh Hòa Bình — lời cầu nguyện nổi tiếng của Thánh Francisco. Mục sư Dương Quang Thoại dẫn dắt Hội Thánh suy gẫm về hòa bình trong gia đình, Hội Thánh và thế giới, kêu gọi sống phục vụ, tha thứ và quên mình theo gương Đức Chúa Giê-su."
 tags: ["Hòa Bình", "Phục Vụ", "Tha Thứ", "Quên Mình", "Gia Đình", "Thập Tự Giá"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]

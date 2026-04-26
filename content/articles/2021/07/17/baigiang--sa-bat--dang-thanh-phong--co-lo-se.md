@@ -16,7 +16,7 @@ notion_id: e831b621-67b7-4e7b-927e-0ea8e5436973
 
 ## Câu Hỏi Trung Tâm: Cô-lô-se 2:16 Có Xóa Bỏ Ngày Sa-bát Không?
 
-Cô-lô-se 2:16-17 là đoạn Kinh Thánh thường được dẫn ra để lập luận rằng hội thánh ngày nay không còn cần giữ ngày Sa-bát nữa: *"Vì vậy, chớ có ai đoán xét anh em về của ăn uống, hoặc ngày lễ, hoặc ngày trăng mới, hoặc ngày Sa-bát — ấy đều chỉ là bóng của các việc sẽ tới, còn hình thì ở trong Đấng Christ."* Kết luận vội vàng từ câu này dẫn nhiều người đến chỗ cho rằng sứ đồ Phao-lô đã tuyên bố chấm dứt điều răn thứ tư.
+Cô-lô-se 2:16-17 là đoạn Kinh Thánh thường được dẫn ra để lập luận rằng Hội Thánh ngày nay không còn cần giữ ngày Sa-bát nữa: *"Vì vậy, chớ có ai đoán xét anh em về của ăn uống, hoặc ngày lễ, hoặc ngày trăng mới, hoặc ngày Sa-bát — ấy đều chỉ là bóng của các việc sẽ tới, còn hình thì ở trong Đấng Christ."* Kết luận vội vàng từ câu này dẫn nhiều người đến chỗ cho rằng sứ đồ Phao-lô đã tuyên bố chấm dứt điều răn thứ tư.
 
 Tuy nhiên, muốn hiểu đúng một câu Kinh Thánh, cần phải đặt câu đó vào bối cảnh toàn bộ cuốn sách. Bài giảng này mời gọi hội chúng trở lại từ đầu sách Cô-lô-se để tìm câu trả lời rõ ràng từ chính lời Chúa, không từ suy luận riêng.
 
@@ -24,11 +24,11 @@ Tuy nhiên, muốn hiểu đúng một câu Kinh Thánh, cần phải đặt câ
 
 ## Vấn Đề Thực Sự Mà Hội Thánh Cô-lô-se Đang Gặp Phải
 
-Khi sứ đồ Phao-lô nhận được tin tức về hội thánh Cô-lô-se (Cô-lô-se 1:9), ông lập tức cầu nguyện để Đức Chúa Trời ban cho họ sự hiểu biết về ý muốn Ngài với đầy đủ khôn ngoan và thông sáng. Điều này cho thấy vấn đề mà hội thánh Cô-lô-se đang đối mặt không phải là vấn đề đạo đức thông thường, mà là vấn đề về nền tảng nhận thức tâm linh.
+Khi sứ đồ Phao-lô nhận được tin tức về Hội Thánh Cô-lô-se (Cô-lô-se 1:9), ông lập tức cầu nguyện để Đức Chúa Trời ban cho họ sự hiểu biết về ý muốn Ngài với đầy đủ khôn ngoan và thông sáng. Điều này cho thấy vấn đề mà Hội Thánh Cô-lô-se đang đối mặt không phải là vấn đề đạo đức thông thường, mà là vấn đề về nền tảng nhận thức tâm linh.
 
-Cô-lô-se 2:4 cho thấy rõ hơn: Phao-lô lo ngại có kẻ dùng lời khéo léo dỗ dành để lừa dối hội thánh. Câu 8 cảnh báo về triết học và lời hư không theo lời truyền khẩu của loài người và sơ học của thế gian. Câu 18 mô tả những kẻ giả đò khiêm nhượng mà môn thờ lạy các thiên sứ. Câu 20-23 phê phán những người ép xác, khổ hạnh, kiêng cữ theo quy tắc và đạo lý của loài người.
+Cô-lô-se 2:4 cho thấy rõ hơn: Phao-lô lo ngại có kẻ dùng lời khéo léo dỗ dành để lừa dối Hội Thánh. Câu 8 cảnh báo về triết học và lời hư không theo lời truyền khẩu của loài người và sơ học của thế gian. Câu 18 mô tả những kẻ giả đò khiêm nhượng mà môn thờ lạy các thiên sứ. Câu 20-23 phê phán những người ép xác, khổ hạnh, kiêng cữ theo quy tắc và đạo lý của loài người.
 
-Như vậy, vấn đề cốt lõi ở Cô-lô-se là: có những giáo sư giả đang xâm nhập hội thánh, đưa ra những triết lý, các thế lực tâm linh, và các nghi lễ tôn giáo như những phương tiện để đạt đến sự khôn ngoan của Đức Chúa Trời và sự cứu rỗi — mà không cần qua Đức Chúa Giê-su.
+Như vậy, vấn đề cốt lõi ở Cô-lô-se là: có những giáo sư giả đang xâm nhập Hội Thánh, đưa ra những triết lý, các thế lực tâm linh, và các nghi lễ tôn giáo như những phương tiện để đạt đến sự khôn ngoan của Đức Chúa Trời và sự cứu rỗi — mà không cần qua Đức Chúa Giê-su.
 
 ---
 

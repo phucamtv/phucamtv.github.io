@@ -2,7 +2,7 @@
 title: "Sự Vâng Lời"
 date: 2021-04-24
 url: /baigiang/su-vang-loi/
-description: "Tại sao chúng ta dễ dàng nghe theo lời người đời mà lại khó vâng lời Chúa? Bài giảng của Chấp sự Nguyễn Tuấn dẫn dắt Hội thánh suy gẫm về ý nghĩa và giá trị của sự vâng phục Đức Chúa Trời qua các tấm gương trong Kinh Thánh."
+description: "Tại sao chúng ta dễ dàng nghe theo lời người đời mà lại khó vâng lời Chúa? Bài giảng của Chấp sự Nguyễn Tuấn dẫn dắt Hội Thánh suy gẫm về ý nghĩa và giá trị của sự vâng phục Đức Chúa Trời qua các tấm gương trong Kinh Thánh."
 tags: ["Vâng Lời", "Đức Tin", "Ma-thi-ơ", "Thánh Linh", "Nô-ê", "Áp-ra-ham"]
 authors:
   - nguyen-tuan
@@ -19,7 +19,7 @@ draft: false
 
 Chấp sự Nguyễn Tuấn mở đầu bài giảng bằng một câu chuyện thời sự: trong những ngày lễ Vượt Qua năm 2021, một sàn giao dịch thương mại điện tử tại TP. Hồ Chí Minh đột ngột sập, khiến hàng trăm người mất trắng số tiền đầu tư lên đến hàng trăm tỷ đồng. Người ta đổ xô vào sàn này vì lời hứa hấp dẫn: chỉ cần bỏ ra vài trăm triệu, mỗi ngày dành 15 phút, dự đoán giá Bitcoin hay vàng lên hay xuống là có thể kiếm 200–300 ngàn mỗi ngày, và đặc biệt là tiền vốn được bảo hiểm toàn phần.
 
-Câu hỏi mà người giảng đặt ra cho Hội thánh rất đáng suy ngẫm: tại sao những cái bẫy như thế này lại thu hút được quá nhiều người đến vậy? Câu trả lời nằm ở chỗ người ta nghe vì thấy *lợi trước mắt*. Khi ai đó đến với ta bằng những lời ngọt ngào, hứa hẹn lợi nhuận, chúng ta dễ dàng đặt niềm tin mà không cần kiểm chứng.
+Câu hỏi mà người giảng đặt ra cho Hội Thánh rất đáng suy ngẫm: tại sao những cái bẫy như thế này lại thu hút được quá nhiều người đến vậy? Câu trả lời nằm ở chỗ người ta nghe vì thấy *lợi trước mắt*. Khi ai đó đến với ta bằng những lời ngọt ngào, hứa hẹn lợi nhuận, chúng ta dễ dàng đặt niềm tin mà không cần kiểm chứng.
 
 ## Nghe và làm theo — nền tảng của đời sống Cơ-đốc
 

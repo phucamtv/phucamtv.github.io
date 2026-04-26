@@ -2,7 +2,7 @@
 title: "Đức Chúa Trời Của Giao Ước | Giê-rê-mi 31:31-34"
 date: 2026-04-05
 url: /baigiang/duc-chua-troi-cua-giao-uoc/
-description: "Bài giảng từ hội thánh Cơ-đốc Phục Lâm Mount Gravatt phân tích Giê-rê-mi 31:31-34 về Đức Chúa Trời của giao ước. Vì sao cần một giao ước mới? Mối quan hệ với Đức Chúa Trời là có điều kiện hay vô điều kiện? Đức Chúa Giê-su đã giải quyết câu đố này như thế nào trên thập tự giá."
+description: "Bài giảng từ Hội Thánh Cơ-đốc Phục Lâm Mount Gravatt phân tích Giê-rê-mi 31:31-34 về Đức Chúa Trời của giao ước. Vì sao cần một giao ước mới? Mối quan hệ với Đức Chúa Trời là có điều kiện hay vô điều kiện? Đức Chúa Giê-su đã giải quyết câu đố này như thế nào trên thập tự giá."
 tags: ["Giao Ước", "Giê-rê-mi", "Luật Pháp", "Ân Điển", "Tin Lành", "Cơ-đốc Phục Lâm", "Thập Tự Giá"]
 authors: ["zeny-vidacak"]
 plugins: [youtube]

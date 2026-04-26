@@ -30,7 +30,7 @@ Tình yêu đã chắp cánh cho ông bay lên. Tình yêu đã mở ra những 
 
 Câu chuyện của John Englehart khiến chúng ta phải suy nghĩ: có biết bao nhiêu tâm hồn đang khép kín ngay chung quanh chúng ta? Họ đang chờ đợi — chờ đợi sự nhẫn nại và dịu dàng mà một Cơ-đốc nhân phải có — để có thể thổ lộ những uẩn khúc sâu kín trong lòng. Thế nhưng, họ thà lặng câm vĩnh viễn còn hơn trải rộng tâm tình với những ai mà họ biết rõ là không thật sự yêu thương.
 
-Đây là một thực tế đau lòng trong nhiều hội thánh và cộng đồng đức tin. Chúng ta nói về tình yêu thương, nhưng đôi khi thiếu đi sự kiên nhẫn thật sự để lắng nghe, thiếu sự dịu dàng để đến gần, và thiếu sự chân thành để người khác dám mở lòng. Anne Watts không phải là một nhà tâm lý học lỗi lạc, cũng không có phương pháp chữa trị đặc biệt nào — cô chỉ đơn giản yêu thương và kiên nhẫn.
+Đây là một thực tế đau lòng trong nhiều Hội Thánh và cộng đồng đức tin. Chúng ta nói về tình yêu thương, nhưng đôi khi thiếu đi sự kiên nhẫn thật sự để lắng nghe, thiếu sự dịu dàng để đến gần, và thiếu sự chân thành để người khác dám mở lòng. Anne Watts không phải là một nhà tâm lý học lỗi lạc, cũng không có phương pháp chữa trị đặc biệt nào — cô chỉ đơn giản yêu thương và kiên nhẫn.
 
 ## Quyền Năng Của Tình Yêu Chân Thật
 

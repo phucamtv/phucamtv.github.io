@@ -5,7 +5,7 @@ dayLabel: "Thứ Tư"
 weight: 5
 ---
 
-Khi đối diện với những quyết định quan trọng, những nan đề trong công việc hoặc thử thách trong cuộc sống, nếu bạn tìm đến Kinh Thánh, thì sẽ có những biến đổi gì trong gia đình bạn? Có thể thấy những thay đổi như thế nào tại nơi làm việc hoặc trong hội thánh của bạn, nếu như lời Kinh Thánh thực sự trở thành lăng kính để mọi người nhận biết thế gian và lựa chọn sống theo lời Kinh Thánh?
+Khi đối diện với những quyết định quan trọng, những nan đề trong công việc hoặc thử thách trong cuộc sống, nếu bạn tìm đến Kinh Thánh, thì sẽ có những biến đổi gì trong gia đình bạn? Có thể thấy những thay đổi như thế nào tại nơi làm việc hoặc trong Hội Thánh của bạn, nếu như lời Kinh Thánh thực sự trở thành lăng kính để mọi người nhận biết thế gian và lựa chọn sống theo lời Kinh Thánh?
 
 Những người viết Kinh Thánh hiểu rất rõ giá trị của Lời Đức Chúa Trời. Không có bất cứ quyển sách nào khác có thể soi dẫn đời sống của bạn như Lời Chúa. Lời Kinh Thánh có thể chỉ nằm yên trên các trang giấy, nhưng làm thế nào để bạn có thể khắc ghi vào lòng mình?
 

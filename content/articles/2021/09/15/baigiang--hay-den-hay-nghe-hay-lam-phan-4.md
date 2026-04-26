@@ -60,7 +60,7 @@ Hê-bơ-rơ 4:12 mô tả sức mạnh phi thường của Lời Chúa: "Vì l�
 
 ## Ai Có Tai Hãy Nghe Lời Đức Thánh Linh Phán
 
-Đức Chúa Giê-su kết thúc mỗi bức thư gửi bảy hội thánh trong sách Khải-huyền bằng câu: "Ai có tai hãy nghe lời Đức Thánh Linh phán cùng các hội thánh!" Đây là lời kêu gọi sống động, không chỉ là lời lịch sử.
+Đức Chúa Giê-su kết thúc mỗi bức thư gửi bảy Hội Thánh trong sách Khải-huyền bằng câu: "Ai có tai hãy nghe lời Đức Thánh Linh phán cùng các Hội Thánh!" Đây là lời kêu gọi sống động, không chỉ là lời lịch sử.
 
 Giăng 10:27 ghi: "Chiên ta nghe tiếng ta, ta quen nó, và nó theo ta." Người thuộc về Chúa thì nhận ra tiếng Ngài. Không nhận ra tiếng Chúa, không lắng nghe Ngài — đó là dấu hiệu của mối quan hệ đã nguội lạnh hay còn xa cách.
 

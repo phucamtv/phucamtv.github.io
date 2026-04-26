@@ -30,7 +30,7 @@ Hình ảnh người lính rất sát hợp: khi bước vào quân ngũ, anh ta
 
 ## Lời Cảnh Báo: Kẻ Đầu Nên Rốt
 
-Câu 30 — "Song có nhiều kẻ ở đầu sẽ nên rốt, và nhiều kẻ ở rốt sẽ nên đầu" — là lời cảnh báo sắc bén. Trong hội thánh, không hiếm tình trạng người tin Chúa lâu năm coi thường tín hữu mới, hoặc người có chức vụ ăn hiếp kẻ yếu thế. Chúa nhắc rằng đừng ai tự mãn vì bề dày thâm niên hay thành tích đóng góp, vì chính lúc ngủ quên trên chiến thắng là lúc kẻ thù tấn công. Ngay cả sứ đồ Phao-lô cũng nói: "Tôi đãi thân thể tôi cách nghiêm khắc, e rằng khi tôi giảng cho người khác mà chính mình phải bị bỏ."
+Câu 30 — "Song có nhiều kẻ ở đầu sẽ nên rốt, và nhiều kẻ ở rốt sẽ nên đầu" — là lời cảnh báo sắc bén. Trong Hội Thánh, không hiếm tình trạng người tin Chúa lâu năm coi thường tín hữu mới, hoặc người có chức vụ ăn hiếp kẻ yếu thế. Chúa nhắc rằng đừng ai tự mãn vì bề dày thâm niên hay thành tích đóng góp, vì chính lúc ngủ quên trên chiến thắng là lúc kẻ thù tấn công. Ngay cả sứ đồ Phao-lô cũng nói: "Tôi đãi thân thể tôi cách nghiêm khắc, e rằng khi tôi giảng cho người khác mà chính mình phải bị bỏ."
 
 ---
 
@@ -52,6 +52,6 @@ Câu 30 — "Song có nhiều kẻ ở đầu sẽ nên rốt, và nhiều kẻ 
 
 ## Hầu Việc Bằng Tình Yêu, Không Phải Lợi Tức
 
-Những người được thuê từ giờ thứ chín đến giờ thứ mười một không hề có thỏa thuận tiền công — họ làm việc đơn giản vì biết ơn đã được chủ thuê. Có lẽ chính vì vậy mà họ làm hết sức, hết lòng, với tất cả sự hân hoan. Ngày nay, khi hầu việc Chúa, chúng ta cũng nên hầu việc bằng tình yêu và lòng biết ơn — chứ không phải để được hội thánh ca ngợi, tôn trọng, hay yêu mến. Những thứ đó cũng là một dạng "lợi tức" mà Chúa muốn chúng ta buông bỏ.
+Những người được thuê từ giờ thứ chín đến giờ thứ mười một không hề có thỏa thuận tiền công — họ làm việc đơn giản vì biết ơn đã được chủ thuê. Có lẽ chính vì vậy mà họ làm hết sức, hết lòng, với tất cả sự hân hoan. Ngày nay, khi hầu việc Chúa, chúng ta cũng nên hầu việc bằng tình yêu và lòng biết ơn — chứ không phải để được Hội Thánh ca ngợi, tôn trọng, hay yêu mến. Những thứ đó cũng là một dạng "lợi tức" mà Chúa muốn chúng ta buông bỏ.
 
 Phần thưởng thật sự sẽ đến — gấp bội phần hơn — khi Đức Chúa Giê-su trở lại đón tiếp những kẻ đi theo Ngài.

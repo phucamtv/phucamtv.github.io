@@ -18,7 +18,7 @@ notion_id: b2219820-9c10-4e9d-a67c-16b8e58dd9dd
 
 Trong suốt hành trình làm người, dù ở phương Đông hay phương Tây, dù văn minh hay mộc mạc, con người đều đối diện với ba câu hỏi lớn mà không ai tự tìm được câu trả lời thỏa đáng. Câu hỏi thứ nhất: chúng ta từ đâu mà đến — tự nhiên mà có, hay có một Đấng dựng nên? Câu hỏi thứ hai: ý nghĩa thực sự của đời người là gì — sự bình an thật sự có hay không? Câu hỏi thứ ba: chết rồi có phải là hết không — hay còn một thế giới khác?
 
-Mục sư Đặng Thanh Phong dẫn hội thánh vào Kinh Thánh, đặc biệt Ê-phê-sô đoạn 1 câu 3–14, để tìm câu trả lời cho cả ba câu hỏi đó.
+Mục sư Đặng Thanh Phong dẫn Hội Thánh vào Kinh Thánh, đặc biệt Ê-phê-sô đoạn 1 câu 3–14, để tìm câu trả lời cho cả ba câu hỏi đó.
 
 ---
 

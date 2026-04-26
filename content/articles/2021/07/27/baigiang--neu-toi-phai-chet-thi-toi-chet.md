@@ -38,7 +38,7 @@ Khi Ê-xơ-tê ngần ngại vì luật cấm tự ý yết kiến vua, Mạc-đ
 
 Ba ý quan trọng trong lời Mạc-đô-chê: Thứ nhất, đừng tưởng ở trong cung vua mà được bình yên — khi bị phát hiện là người Giu-đa, Ê-xơ-tê cũng sẽ không thoát. Thứ hai, Đức Chúa Trời có thể dùng cách khác để giải cứu dân sự — nếu Ê-xơ-tê từ chối, Ngài vẫn có người khác. Thứ ba, biết đâu chính vì cơ hội này mà Ê-xơ-tê được làm hoàng hậu.
 
-Đây cũng là thông điệp cho mỗi chúng ta: khi hội thánh cần, khi được mời tham gia phục vụ, đó chính là lời mời của Đức Chúa Trời. Nếu chúng ta từ chối, công việc Chúa vẫn tiếp tục — nhưng chúng ta mất đi cơ hội và phước hạnh.
+Đây cũng là thông điệp cho mỗi chúng ta: khi Hội Thánh cần, khi được mời tham gia phục vụ, đó chính là lời mời của Đức Chúa Trời. Nếu chúng ta từ chối, công việc Chúa vẫn tiếp tục — nhưng chúng ta mất đi cơ hội và phước hạnh.
 
 ## Quyết định đức tin của Ê-xơ-tê
 

@@ -42,7 +42,7 @@ Châm-ngôn 12:20 dạy rằng sự vui vẻ thuộc về người khuyên lơn 
 
 ### 5. Niềm Vui Khi Quan Tâm Đến Anh Em
 
-I Cô-rinh-tô 12:26 dạy rằng trong thân thể Đấng Christ, khi một chi thể đau đớn thì các chi thể khác cùng chịu, và khi một chi thể được tôn trọng thì các chi thể khác cùng vui mừng. Hội thánh là một thân thể, chúng ta cần vượt qua sự ganh tị để thật sự quan tâm và chia sẻ với nhau.
+I Cô-rinh-tô 12:26 dạy rằng trong thân thể Đấng Christ, khi một chi thể đau đớn thì các chi thể khác cùng chịu, và khi một chi thể được tôn trọng thì các chi thể khác cùng vui mừng. Hội Thánh là một thân thể, chúng ta cần vượt qua sự ganh tị để thật sự quan tâm và chia sẻ với nhau.
 
 ### 6. Niềm Vui Khi Người Khác Phục Thiện
 

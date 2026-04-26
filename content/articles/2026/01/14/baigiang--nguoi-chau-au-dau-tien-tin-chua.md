@@ -88,7 +88,7 @@ Sau khi tiếp nhận sứ điệp Tin Lành, Li-đi cùng cả nhà bà đượ
 
 Ngay sau phép báp-têm, Li-đi *"nài ép mọi người rằng: Nếu anh em đã nhận tôi là người tin Chúa, hãy vào nhà tôi mà nghỉ."* Đây không phải lịch sự xã giao thông thường — đây là sự hiếu khách từ tấm lòng vừa được biến đổi.
 
-Căn nhà của Li-đi trở thành nơi Hội Thánh Phi-líp nhóm lại — hội thánh đầu tiên trên đất châu Âu, trong một căn nhà của một người phụ nữ buôn bán vải điều bên bờ sông.
+Căn nhà của Li-đi trở thành nơi Hội Thánh Phi-líp nhóm lại — Hội Thánh đầu tiên trên đất châu Âu, trong một căn nhà của một người phụ nữ buôn bán vải điều bên bờ sông.
 
 ---
 

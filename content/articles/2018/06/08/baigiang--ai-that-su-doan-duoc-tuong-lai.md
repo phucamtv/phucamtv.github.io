@@ -2,7 +2,7 @@
 title: "Ai Thật Sự Đoán Được Tương Lai? | Lời Tiên Tri Về Ai Cập Và Ty-rơ"
 date: 2018-06-08
 url: /baigiang/ai-that-su-doan-duoc-tuong-lai/
-description: "Bài giảng truyền giảng của Mục sư Gary Kent (The Incredible Journey) tại hội thánh Cơ-đốc Phục Lâm Mt Gravatt trong loạt Hope For Today. Lời tiên tri Maya về ngày tận thế 21/12/2012 đã thất bại — còn lời tiên tri Kinh Thánh thì sao? Từ các Pha-ra-ôn Ai Cập biến mất đến cây papyrus tuyệt chủng, từ các thần tượng Memphis bị đập nát đến sự sụp đổ chi tiết kinh ngạc của thành Ty-rơ dưới tay Nê-bu-cát-nết-sa và Alexander Đại đế — Ê-xê-chi-ên và Ê-sai đã nói trúng từng chi tiết hàng trăm năm trước."
+description: "Bài giảng truyền giảng của Mục sư Gary Kent (The Incredible Journey) tại Hội Thánh Cơ-đốc Phục Lâm Mt Gravatt trong loạt Hope For Today. Lời tiên tri Maya về ngày tận thế 21/12/2012 đã thất bại — còn lời tiên tri Kinh Thánh thì sao? Từ các Pha-ra-ôn Ai Cập biến mất đến cây papyrus tuyệt chủng, từ các thần tượng Memphis bị đập nát đến sự sụp đổ chi tiết kinh ngạc của thành Ty-rơ dưới tay Nê-bu-cát-nết-sa và Alexander Đại đế — Ê-xê-chi-ên và Ê-sai đã nói trúng từng chi tiết hàng trăm năm trước."
 tags: ["Tiên Tri", "Ai Cập", "Ty-rơ", "Ê-xê-chi-ên", "Ê-sai", "Maya", "Truyền Giảng", "Hope For Today", "The Incredible Journey", "Cơ-đốc Phục Lâm"]
 authors: ["gary-kent"]
 plugins: [youtube]
@@ -22,7 +22,7 @@ Theo lịch Maya, ngày 21 tháng 12 năm 2012 sẽ là ngày kết thúc của 
 
 Nhưng chúng ta đang ngồi đây. Họ đã sai.
 
-Đây là bài giảng thứ hai trong loạt *Hope For Today* (Niềm Hy Vọng Cho Hôm Nay), được Mục sư Gary Kent giảng tại hội thánh Cơ-đốc Phục Lâm Mt Gravatt tối thứ Sáu ngày 8/6/2018. Và câu hỏi ông muốn chúng ta cùng nhìn lại là một câu hỏi mà mọi thế hệ đều muốn hỏi:
+Đây là bài giảng thứ hai trong loạt *Hope For Today* (Niềm Hy Vọng Cho Hôm Nay), được Mục sư Gary Kent giảng tại Hội Thánh Cơ-đốc Phục Lâm Mt Gravatt tối thứ Sáu ngày 8/6/2018. Và câu hỏi ông muốn chúng ta cùng nhìn lại là một câu hỏi mà mọi thế hệ đều muốn hỏi:
 
 **Ai thật sự có thể đoán được tương lai?**
 

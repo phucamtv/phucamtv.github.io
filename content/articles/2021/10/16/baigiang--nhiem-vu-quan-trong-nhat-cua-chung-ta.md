@@ -2,7 +2,7 @@
 title: "Nhiệm Vụ Quan Trọng Nhất Của Chúng Ta | Rô-ma 10:13-17"
 date: 2021-10-16
 url: /baigiang/nhiem-vu-quan-trong-nhat-cua-chung-ta/
-description: "Rô-ma 10:13-17 cho thấy chuỗi liên kết ngược từ sự cứu rỗi đến việc kêu cầu, từ kêu cầu đến đức tin, từ đức tin đến sự nghe, và từ sự nghe đến người rao giảng — khẳng định rằng nhiệm vụ quan trọng nhất của mỗi Cơ-đốc nhân không phải là điều hành hội thánh hay dâng hiến đều đặn, mà là mở miệng nói về Chúa Cứu Thế cho người chưa biết Ngài."
+description: "Rô-ma 10:13-17 cho thấy chuỗi liên kết ngược từ sự cứu rỗi đến việc kêu cầu, từ kêu cầu đến đức tin, từ đức tin đến sự nghe, và từ sự nghe đến người rao giảng — khẳng định rằng nhiệm vụ quan trọng nhất của mỗi Cơ-đốc nhân không phải là điều hành Hội Thánh hay dâng hiến đều đặn, mà là mở miệng nói về Chúa Cứu Thế cho người chưa biết Ngài."
 tags: ["Rao Giảng", "Cứu Rỗi", "Rô-ma", "Cơ-đốc Nhân", "Làm Chứng", "Truyền Giáo"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]

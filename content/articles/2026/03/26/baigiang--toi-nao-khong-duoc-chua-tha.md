@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 12:22-37
 
-Bài giảng tối nay đi vào một chủ đề vô cùng nghiêm trọng mà chính Đức Chúa Giê-su đã phán dạy: có một tội mà dù đời này hay đời sau cũng không được tha. Mục sư Đặng Thanh Phong dẫn dắt hội thánh đi qua Ma-thi-ơ 12:22-37, kết hợp với Giăng I 5:16-17, Giu-đe, Gia-cơ 3 và Ma-thi-ơ 5:21-22 để phân tích toàn diện về tội phạm thượng đến Đức Thánh Linh.
+Bài giảng tối nay đi vào một chủ đề vô cùng nghiêm trọng mà chính Đức Chúa Giê-su đã phán dạy: có một tội mà dù đời này hay đời sau cũng không được tha. Mục sư Đặng Thanh Phong dẫn dắt Hội Thánh đi qua Ma-thi-ơ 12:22-37, kết hợp với Giăng I 5:16-17, Giu-đe, Gia-cơ 3 và Ma-thi-ơ 5:21-22 để phân tích toàn diện về tội phạm thượng đến Đức Thánh Linh.
 
 ---
 
@@ -38,11 +38,11 @@ Câu chuyện bắt đầu khi Đức Chúa Giê-su chữa lành một người 
 
 ## Cảnh Báo Cho Người Tin Chúa Ngày Nay
 
-Mục sư Đặng Thanh Phong nhấn mạnh rằng tình trạng này đang xảy ra rất phổ biến ngày nay. Nhiều người nhân danh mục sư, giáo sư, đứng lên kết luận hội thánh này hay người kia thuộc về ma quỷ — chỉ vì khác hệ phái, khác quan điểm. Khi một hội thánh đang làm theo lời Chúa mà bị gán cho là tà giáo, thuộc về ma quỷ, thì người nói lời đó cần phải hết sức cẩn thận.
+Mục sư Đặng Thanh Phong nhấn mạnh rằng tình trạng này đang xảy ra rất phổ biến ngày nay. Nhiều người nhân danh mục sư, giáo sư, đứng lên kết luận Hội Thánh này hay người kia thuộc về ma quỷ — chỉ vì khác hệ phái, khác quan điểm. Khi một Hội Thánh đang làm theo lời Chúa mà bị gán cho là tà giáo, thuộc về ma quỷ, thì người nói lời đó cần phải hết sức cẩn thận.
 
 Sách Giu-đe cảnh báo về những kẻ khinh dễ quyền phép rất cao và nói hỗn các đấng tôn trọng. Chính thiên sứ trưởng Mi-chen khi tranh chiến với ma quỷ về xác Môi-se cũng không dám lấy lời nhiếc móc mà đoán phạt, mà chỉ nói: cầu Chúa phạt ngươi. Nếu thiên sứ trưởng còn giữ sự tôn trọng đến vậy, thì con người phàm xác thịt lại dám mở miệng kết tội anh em mình thuộc về ma quỷ sao?
 
-Xúc phạm người thuộc về Chúa chính là xúc phạm Chúa. Khi Sau-lơ bắt bớ hội thánh, Chúa hiện ra hỏi: sao ngươi bắt bớ ta? Sau-lơ không trực tiếp bắt bớ Chúa, nhưng bắt bớ người tin Chúa tức là bắt bớ chính Chúa.
+Xúc phạm người thuộc về Chúa chính là xúc phạm Chúa. Khi Sau-lơ bắt bớ Hội Thánh, Chúa hiện ra hỏi: sao ngươi bắt bớ ta? Sau-lơ không trực tiếp bắt bớ Chúa, nhưng bắt bớ người tin Chúa tức là bắt bớ chính Chúa.
 
 ---
 

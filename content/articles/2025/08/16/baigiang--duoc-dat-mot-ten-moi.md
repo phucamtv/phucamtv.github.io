@@ -14,7 +14,7 @@ draft: false
 
 ## Lời Hứa Dành Cho Kẻ Chiến Thắng
 
-Khải Huyền 2:17 ghi lại lời Chúa phán cùng hội thánh: kẻ nào thắng sẽ được ban cho ma-na đương giấu kín, một hòn sỏi trắng, và trên đó có viết một tên mới mà ngoài kẻ nhận lấy không ai biết đến. Đây là một trong những lời hứa quý báu nhất dành cho người tin Chúa.
+Khải Huyền 2:17 ghi lại lời Chúa phán cùng Hội Thánh: kẻ nào thắng sẽ được ban cho ma-na đương giấu kín, một hòn sỏi trắng, và trên đó có viết một tên mới mà ngoài kẻ nhận lấy không ai biết đến. Đây là một trong những lời hứa quý báu nhất dành cho người tin Chúa.
 
 Điều đáng suy gẫm trước hết là cụm từ "kẻ nào thắng." Muốn nghĩ đến chiến thắng, chúng ta phải nhận ra mình đang ở trong một cuộc chiến đấu. Kinh Thánh không bao giờ miêu tả con đường theo Chúa là nhẹ nhàng và dễ dàng. Đó luôn là một cuộc chiến đấu với ma quỷ, với điều ác, để duy trì đức tin nơi Đức Chúa Trời. Chỉ kẻ nào thắng mới nhận được phần thưởng.
 

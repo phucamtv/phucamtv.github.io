@@ -16,7 +16,7 @@ draft: false
 
 Cái chết là một chủ đề mà hầu hết mọi người, đặc biệt là người Á Đông, đều muốn tránh né. Chúng ta thích nói về những điều vui vẻ, những ước mơ tươi sáng, nhưng lại ngại ngùng khi phải đối diện với thực tế rằng mỗi cuộc đời rồi sẽ kết thúc. Tuy nhiên, Kinh Thánh không né tránh vấn đề này. Trái lại, Lời Chúa dành rất nhiều phần để trình bày về sự chết, bởi vì hiểu đúng về cái chết sẽ giúp chúng ta sống đúng cách.
 
-Mục sư nhắc lại rằng chỉ trong hai tháng trước đó, hội thánh đã trải qua tám đám tang — một con số chưa từng có. Hai tín hữu qua đời cùng một ngày, được đưa tang cùng lúc. Cái chết không từ chối bất kỳ ai: già hay trẻ, giàu hay nghèo, có học vị hay không.
+Mục sư nhắc lại rằng chỉ trong hai tháng trước đó, Hội Thánh đã trải qua tám đám tang — một con số chưa từng có. Hai tín hữu qua đời cùng một ngày, được đưa tang cùng lúc. Cái chết không từ chối bất kỳ ai: già hay trẻ, giàu hay nghèo, có học vị hay không.
 
 ---
 

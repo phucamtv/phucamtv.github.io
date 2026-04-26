@@ -2,7 +2,7 @@
 title: "Ai Sẽ Cai Trị Thế Giới? | Đa-ni-ên 2"
 date: 2018-06-11
 url: /baigiang/ai-se-cai-tri-the-gioi/
-description: "Bài giảng truyền giảng của Mục sư Gary Kent (The Incredible Journey) tại hội thánh Cơ-đốc Phục Lâm Mt Gravatt trong loạt Hope For Today. Lời tiên tri kinh ngạc trong Đa-ni-ên 2 đã dự báo chính xác dòng lịch sử từ Ba-by-lôn đến châu Âu hiện đại — và đã được xác nhận qua Charlemagne, Napoléon, Kaiser Wilhelm, Adolf Hitler. Ai sẽ là đế chế thế giới cuối cùng? Câu chuyện có thật về người lính Pháp cuối cùng tử trận Thế Chiến II và người lính Đức tin vào Đa-ni-ên đã sống sót trên mặt trận Nga."
+description: "Bài giảng truyền giảng của Mục sư Gary Kent (The Incredible Journey) tại Hội Thánh Cơ-đốc Phục Lâm Mt Gravatt trong loạt Hope For Today. Lời tiên tri kinh ngạc trong Đa-ni-ên 2 đã dự báo chính xác dòng lịch sử từ Ba-by-lôn đến châu Âu hiện đại — và đã được xác nhận qua Charlemagne, Napoléon, Kaiser Wilhelm, Adolf Hitler. Ai sẽ là đế chế thế giới cuối cùng? Câu chuyện có thật về người lính Pháp cuối cùng tử trận Thế Chiến II và người lính Đức tin vào Đa-ni-ên đã sống sót trên mặt trận Nga."
 tags: ["Đa-ni-ên", "Tiên Tri", "Lịch Sử Thế Giới", "Sự Tái Lâm", "Truyền Giảng", "Hope For Today", "The Incredible Journey", "Cơ-đốc Phục Lâm"]
 authors: ["gary-kent"]
 plugins: [youtube]
@@ -14,7 +14,7 @@ draft: false
 
 ## Ai Sẽ Nắm Quyền Kiểm Soát Thế Giới?
 
-Khi Mục sư Gary Kent đứng giảng tại hội thánh Cơ-đốc Phục Lâm Mt Gravatt (Brisbane) tối ngày 11 tháng 6 năm 2018, cả thế giới đang dõi theo hai sự kiện lớn. Hội nghị G7 vừa kết thúc ở Canada trong hỗn loạn — Tổng thống Trump rời sớm để bay sang Singapore gặp Kim Jong-un vào hôm sau (12/6). Cùng lúc, Trung Quốc đang quân sự hóa các đảo nhân tạo ở Biển Đông. Câu hỏi ám ảnh cả nhân loại: **Ai sẽ thật sự kiểm soát thế giới?**
+Khi Mục sư Gary Kent đứng giảng tại Hội Thánh Cơ-đốc Phục Lâm Mt Gravatt (Brisbane) tối ngày 11 tháng 6 năm 2018, cả thế giới đang dõi theo hai sự kiện lớn. Hội nghị G7 vừa kết thúc ở Canada trong hỗn loạn — Tổng thống Trump rời sớm để bay sang Singapore gặp Kim Jong-un vào hôm sau (12/6). Cùng lúc, Trung Quốc đang quân sự hóa các đảo nhân tạo ở Biển Đông. Câu hỏi ám ảnh cả nhân loại: **Ai sẽ thật sự kiểm soát thế giới?**
 
 Đây không phải là câu hỏi mới. Cách đây 2.600 năm, một vị vua quyền lực nhất thế giới đã trằn trọc giữa đêm với đúng câu hỏi đó — và Đức Chúa Trời đã trả lời cho ông qua một giấc chiêm bao kỳ lạ được ghi lại trong Đa-ni-ên chương 2.
 

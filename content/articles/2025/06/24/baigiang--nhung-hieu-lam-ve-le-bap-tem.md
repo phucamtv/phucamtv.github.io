@@ -54,7 +54,7 @@ Ma-thi-ơ 3:16 ghi rõ: Đức Chúa Giê-su vừa chịu phép báp têm rồi 
 
 Một hiểu lầm phổ biến là sau khi báp têm bằng nước, cần phải có mục sư đặt tay làm "báp têm Thánh Linh" thì mới nhận được Đức Thánh Linh. Mục sư Đặng Thanh Phong phân tích hai trường hợp trong sách Công Vụ mà người ta thường viện dẫn. Trường hợp tại Sa-ma-ri (Công Vụ 8:14-17) có lý do đặc biệt: Phi-líp chưa được giáo hội ủy thác, và Chúa muốn duy trì sự liên hệ với Giê-ru-sa-lem. Trường hợp tại Ê-phê-sô (Công Vụ 19:1-7) là vì những người đó chỉ chịu phép báp têm của Giăng về sự ăn năn, chưa phải phép báp têm nhân danh Đức Chúa Giê-su.
 
-Ngược lại, Công Vụ 10:44 cho thấy khi Phi-e-rơ đang giảng cho nhà Cọt-nây, Đức Thánh Linh giáng xuống trên mọi người nghe đạo trước khi họ làm lễ báp têm, không cần ai đặt tay cả. Và trong Công Vụ 4:31, hội thánh cầu nguyện thì Đức Thánh Linh đầy dẫy trên mọi người, cũng không qua nghi thức đặt tay nào. Điều này cho thấy Đức Thánh Linh hành động tùy theo hoàn cảnh và ý muốn của Chúa, không bị giới hạn trong bất kỳ công thức nào do con người đặt ra.
+Ngược lại, Công Vụ 10:44 cho thấy khi Phi-e-rơ đang giảng cho nhà Cọt-nây, Đức Thánh Linh giáng xuống trên mọi người nghe đạo trước khi họ làm lễ báp têm, không cần ai đặt tay cả. Và trong Công Vụ 4:31, Hội Thánh cầu nguyện thì Đức Thánh Linh đầy dẫy trên mọi người, cũng không qua nghi thức đặt tay nào. Điều này cho thấy Đức Thánh Linh hành động tùy theo hoàn cảnh và ý muốn của Chúa, không bị giới hạn trong bất kỳ công thức nào do con người đặt ra.
 
 ---
 

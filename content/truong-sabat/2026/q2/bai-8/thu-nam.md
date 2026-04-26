@@ -9,7 +9,7 @@ Khi thế giới này đang đến hồi kết thúc, một phần trong ba sứ
 
 `Đọc Khải-huyền 14:12. “Đức tin của Đức Chúa Giê-su” có nghĩa gì?`
 
-Nếu bạn nghiên cứu cách Hội Thánh Cơ-đốc Phục Lâm hiểu về sự xưng công bình bởi đức tin, bạn sẽ thấy rằng vào những năm 1890, sự hiểu biết về “đức tin của Đức Chúa Giê-su” và “sứ điệp ba thiên sứ” đã được làm rõ và hợp nhất trong hội thánh. Trước đó, Hội Thánh đã nhấn mạnh rất nhiều đến luật pháp, nhưng lại thiếu sự nhấn mạnh về Phúc Âm. Ellen G. White đã tóm lược điều này cách súc tích: “Các điều răn của Đức Chúa Trời đã được rao giảng, nhưng đức tin của Đức Chúa Giê-su Christ chưa được các tín hữu Cơ-đốc Phục Lâm ngày thứ Bảy rao giảng như là điều quan trọng ngang bằng; luật pháp và Phúc Âm phải đồng hành cùng nhau.”, Selected Messages, quyển 3, tr. 172
+Nếu bạn nghiên cứu cách Hội Thánh Cơ-đốc Phục Lâm hiểu về sự xưng công bình bởi đức tin, bạn sẽ thấy rằng vào những năm 1890, sự hiểu biết về “đức tin của Đức Chúa Giê-su” và “sứ điệp ba thiên sứ” đã được làm rõ và hợp nhất trong Hội Thánh. Trước đó, Hội Thánh đã nhấn mạnh rất nhiều đến luật pháp, nhưng lại thiếu sự nhấn mạnh về Phúc Âm. Ellen G. White đã tóm lược điều này cách súc tích: “Các điều răn của Đức Chúa Trời đã được rao giảng, nhưng đức tin của Đức Chúa Giê-su Christ chưa được các tín hữu Cơ-đốc Phục Lâm ngày thứ Bảy rao giảng như là điều quan trọng ngang bằng; luật pháp và Phúc Âm phải đồng hành cùng nhau.”, Selected Messages, quyển 3, tr. 172
 
 Mặc dù Hê-bơ-rơ 11 liệt kê nhiều người kính sợ Đức Chúa Trời với đức tin mạnh mẽ, nhưng không ai có đức tin có thể sánh với đức tin của Đức Chúa Giê-su.
 

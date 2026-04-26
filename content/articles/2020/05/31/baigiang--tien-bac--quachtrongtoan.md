@@ -16,7 +16,7 @@ description: "Mục sư Quách Trọng Toàn phân tích bản chất trung tín
 
 ## Tiền Bạc Là Gì? Hiểu Đúng Trước Khi Phán Xét
 
-Trong hội thánh Cơ-đốc thường tồn tại hai thái cực thiếu cân bằng về đồng tiền: một bên tôn cao tiền bạc đến mức bỏ qua gia đình, sức khỏe và đời sống thuộc linh; bên kia coi tiền bạc là xấu xa, phù du, không đáng theo đuổi. Cả hai đều xa rời sự dạy dỗ của Kinh Thánh.
+Trong Hội Thánh Cơ-đốc thường tồn tại hai thái cực thiếu cân bằng về đồng tiền: một bên tôn cao tiền bạc đến mức bỏ qua gia đình, sức khỏe và đời sống thuộc linh; bên kia coi tiền bạc là xấu xa, phù du, không đáng theo đuổi. Cả hai đều xa rời sự dạy dỗ của Kinh Thánh.
 
 Theo kinh tế học, tiền chỉ đơn giản là một đơn vị trung gian để trao đổi hàng hóa và dịch vụ, một thước đo định giá và phương tiện tích lũy. Bản thân đồng tiền không tốt, không xấu, không công bình, không ác độc — nó trung tính. Tiền giống như một chất kích thích, không tạo ra bản chất con người nhưng bộc lộ rõ những gì vốn có trong lòng họ. Đưa tiền cho người đạo đức, họ sẽ dùng để làm điều lành; đưa tiền cho người tham lam, sự hư hại càng thêm lớn.
 

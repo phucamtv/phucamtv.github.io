@@ -2,7 +2,7 @@
 title: "Hội Thánh Bị Ảo Giác | Khải Huyền Chương 3"
 date: 2023-05-16
 url: /baigiang/hoi-thanh-bi-ao-giac/
-description: "Bài giảng phân tích thư gửi Hội Thánh Lao-đi-xê trong Khải Huyền 3:14–22 — một hội thánh tự cho mình giàu có nhưng thực chất nghèo ngặt, đui mù và lõa lồ trước mặt Chúa. Ba điều Chúa đòi hỏi: vàng thử lửa (đức tin), áo trắng (sự công bình), và thuốc xức mắt (Đức Thánh Linh)."
+description: "Bài giảng phân tích thư gửi Hội Thánh Lao-đi-xê trong Khải Huyền 3:14–22 — một Hội Thánh tự cho mình giàu có nhưng thực chất nghèo ngặt, đui mù và lõa lồ trước mặt Chúa. Ba điều Chúa đòi hỏi: vàng thử lửa (đức tin), áo trắng (sự công bình), và thuốc xức mắt (Đức Thánh Linh)."
 tags: ["Khải Huyền", "Lao-đi-xê", "Đức Tin", "Sự Công Bình", "Đức Thánh Linh", "Ảo Tưởng"]
 authors:
   - "dang-thanh-phong"
@@ -17,7 +17,7 @@ draft: false
 
 ## Giới Thiệu: Bức Thư Cuối Cùng Trong Bảy Bức Thư
 
-Khải Huyền chương 3, từ câu 14 đến câu 22, ghi lại bức thư cuối cùng trong bảy bức thư mà Chúa gửi cho bảy hội thánh — đó là thư gửi cho Hội Thánh Lao-đi-xê. Khác với những hội thánh trước, Lao-đi-xê là hội thánh mà Chúa không có lời khen nào. Thay vào đó, Chúa phán rằng hội thánh này "hâm hâm" — không nóng cũng không lạnh. Chúa thà họ nóng hoặc lạnh hẳn đi, chứ cái trạng thái hâm hâm ấy khiến Ngài muốn nhả họ ra khỏi miệng.
+Khải Huyền chương 3, từ câu 14 đến câu 22, ghi lại bức thư cuối cùng trong bảy bức thư mà Chúa gửi cho bảy Hội Thánh — đó là thư gửi cho Hội Thánh Lao-đi-xê. Khác với những Hội Thánh trước, Lao-đi-xê là Hội Thánh mà Chúa không có lời khen nào. Thay vào đó, Chúa phán rằng Hội Thánh này "hâm hâm" — không nóng cũng không lạnh. Chúa thà họ nóng hoặc lạnh hẳn đi, chứ cái trạng thái hâm hâm ấy khiến Ngài muốn nhả họ ra khỏi miệng.
 
 Đề tài của bức thư này chính là: Hội Thánh bị ảo giác — họ sống trong ảo tưởng về sự giàu có và đầy đủ, trong khi thực tế trước mặt Chúa là hoàn toàn ngược lại.
 
@@ -25,7 +25,7 @@ Khải Huyền chương 3, từ câu 14 đến câu 22, ghi lại bức thư cu�
 
 ## Ảo Giác Của Sự Giàu Có
 
-Câu 17 ghi lại lời Chúa phán: hội thánh này tự nói rằng mình giàu có, nên giàu có rồi, không cần chi nữa. Có thể họ đông tín hữu, dâng hiến nhiều, có nhà thờ to lớn, cơ sở vật chất đầy đủ, tổ chức hùng mạnh. Những điều ấy không sai — nhưng vấn đề là họ ỷ lại vào đó và cho rằng mình không còn cần gì thêm.
+Câu 17 ghi lại lời Chúa phán: Hội Thánh này tự nói rằng mình giàu có, nên giàu có rồi, không cần chi nữa. Có thể họ đông tín hữu, dâng hiến nhiều, có nhà thờ to lớn, cơ sở vật chất đầy đủ, tổ chức hùng mạnh. Những điều ấy không sai — nhưng vấn đề là họ ỷ lại vào đó và cho rằng mình không còn cần gì thêm.
 
 Trong khi đó, Chúa nhìn thấy họ khổ sở, khốn khó, nghèo ngặt, đui mù và lõa lồ. Khoảng cách giữa cái họ nghĩ về mình và cái Chúa thấy nơi họ là một vực thẳm. Đây chính là bệnh ảo giác nguy hiểm nhất: tưởng mình đầy đủ trong khi thực sự trống rỗng.
 
@@ -33,7 +33,7 @@ Trong khi đó, Chúa nhìn thấy họ khổ sở, khốn khó, nghèo ngặt, 
 
 ## Ba Điều Chúa Đòi Hỏi Phải Mua
 
-Chúa khuyên hội thánh phải mua ba thứ để chữa trị tình trạng thuộc linh suy sụp này:
+Chúa khuyên Hội Thánh phải mua ba thứ để chữa trị tình trạng thuộc linh suy sụp này:
 
 ### 1. Vàng Thử Lửa — Đức Tin
 

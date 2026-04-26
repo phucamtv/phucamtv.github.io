@@ -80,7 +80,7 @@ Những tranh luận đang sôi sục trong Hội Thánh Cơ-đốc Phục Lâm 
 
 Những cuộc tấn công gián tiếp vào luật pháp bao gồm: phủ nhận khả năng sống đắc thắng tội lỗi nhờ Đức Thánh Linh; tranh luận về bản tánh của Đức Chúa Giê-su theo hướng tách Ngài khỏi con người sa ngã; cổ xúy việc giữ các lễ hội Do Thái Giáo để lấn át ngày Sa-bát; thuyết cho rằng Đức Chúa Giê-su chịu đóng đinh hôm thứ Tư và sống lại ngày Sa-bát; quan điểm rằng sừng nhỏ là Hồi giáo thay vì giáo quyền đã đổi luật pháp; kịch bản tiên tri tập trung vào Trung Đông; công kích giáo lý Ba Ngôi; giữ Sa-bát theo giờ Giê-ru-sa-lem hay theo lịch mặt trăng; thuyết tiến hóa tiệm tiến phá hủy ý nghĩa của sáu ngày sáng tạo và Sa-bát; những công kích vào giáo lý đền thánh — vốn liên quan trực tiếp đến việc thắng hơn tội lỗi, tức sự vi phạm luật pháp.
 
-Song song đó là những công kích vào ân tứ tiên tri qua Ellen White: từ sách của Walter Rea, Ronald Numbers, đến Dale Ratzlaff với tạp chí *Proclamation* nhắm thẳng vào luật pháp, Sa-bát, thần của lời tiên tri, các nguyên tắc sức khỏe, đền thánh và tình trạng người chết. Mọi tranh cãi về lối sống — trang sức, âm nhạc, hội thánh tự trị, phương pháp phê bình lịch sử — đều quay trở về cùng một gốc rễ.
+Song song đó là những công kích vào ân tứ tiên tri qua Ellen White: từ sách của Walter Rea, Ronald Numbers, đến Dale Ratzlaff với tạp chí *Proclamation* nhắm thẳng vào luật pháp, Sa-bát, thần của lời tiên tri, các nguyên tắc sức khỏe, đền thánh và tình trạng người chết. Mọi tranh cãi về lối sống — trang sức, âm nhạc, Hội Thánh tự trị, phương pháp phê bình lịch sử — đều quay trở về cùng một gốc rễ.
 
 Ellen White trong *Great Controversy* trang 608 đã báo trước: khi cơn bão đến gần, một số đông những người từng tuyên xưng đức tin nơi sứ điệp thiên sứ thứ ba nhưng không được thánh hóa qua sự vâng phục lẽ thật, sẽ từ bỏ vị trí của mình và gia nhập hàng ngũ chống đối. Họ trở thành kẻ thù cay đắng nhất đối với các anh em cũ của mình — như Giu-đa trong trại.
 
@@ -88,7 +88,7 @@ Ellen White trong *Great Controversy* trang 608 đã báo trước: khi cơn bã
 
 ## Lời Kêu Gọi Đứng Vững
 
-Năm 1978, trong bài diễn văn cuối cùng trước Tổng Hội, chủ tịch Robert Pearson đã cảnh báo rằng một giáo phái thường trải qua bốn thế hệ để biến thành một hội thánh thế tục: thế hệ đầu hăng nồng và bị bách hại; thế hệ thứ hai tổ chức hóa và giàu có; thế hệ thứ ba hạ thấp tiêu chuẩn; thế hệ thứ tư hòa nhập hoàn toàn với thế gian. Ông tha thiết cầu xin rằng điều đó không bao giờ được xảy ra cho Hội Thánh Cơ-đốc Phục Lâm.
+Năm 1978, trong bài diễn văn cuối cùng trước Tổng Hội, chủ tịch Robert Pearson đã cảnh báo rằng một giáo phái thường trải qua bốn thế hệ để biến thành một Hội Thánh thế tục: thế hệ đầu hăng nồng và bị bách hại; thế hệ thứ hai tổ chức hóa và giàu có; thế hệ thứ ba hạ thấp tiêu chuẩn; thế hệ thứ tư hòa nhập hoàn toàn với thế gian. Ông tha thiết cầu xin rằng điều đó không bao giờ được xảy ra cho Hội Thánh Cơ-đốc Phục Lâm.
 
 Chúng ta đang sống trong thời kỳ rúng động. Ellen White cho biết có ba tác nhân gây nên sự rúng động: sự rập khuôn theo tiêu chuẩn thế gian, các giáo lý và giảng dạy sai lạc, và cuối cùng là bách hại. Khi sự rúng động qua đi, chỉ những ai đã nghe lời Đức Chúa Trời và vâng theo — tức luật pháp và lời chứng — sẽ được tìm thấy trung tín.
 

@@ -91,7 +91,7 @@ Không thể có sự tăng trưởng hay kết quả trong đời sống lấy 
 
 Bông trái này không bao giờ hư mất, nhưng sẽ sinh sản theo loại của nó một mùa gặt dẫn đến sự sống đời đời. COL 68.1
 
-"Khi trái đã chín, người ấy liền tra lưỡi hái vào, vì mùa gặt đã đến." Đấng Christ đang trông đợi với lòng khao khát sự bày tỏ chính Ngài trong hội thánh của Ngài. Khi tính cách của Đấng Christ được tái hiện một cách trọn vẹn trong dân sự Ngài, bấy giờ Ngài sẽ đến để nhận họ làm của riêng mình. COL 69.1
+"Khi trái đã chín, người ấy liền tra lưỡi hái vào, vì mùa gặt đã đến." Đấng Christ đang trông đợi với lòng khao khát sự bày tỏ chính Ngài trong Hội Thánh của Ngài. Khi tính cách của Đấng Christ được tái hiện một cách trọn vẹn trong dân sự Ngài, bấy giờ Ngài sẽ đến để nhận họ làm của riêng mình. COL 69.1
 
 Đó là đặc ân của mỗi Cơ-đốc nhân không chỉ trông đợi mà còn thúc đẩy sự tái lâm của Đức Chúa Giê-su Christ chúng ta (
 

@@ -22,7 +22,7 @@ Hai người con rể không chịu đi. Vợ Lót quay nhìn lại phía sau v�
 
 ## Đức Chúa Trời Luôn Chọn Gia Đình
 
-Xuyên suốt lịch sử Kinh Thánh, Đức Chúa Trời luôn chọn gia đình làm nền tảng để xây dựng hội thánh của Ngài. Từ gia đình Nô-ê được cứu qua cơn lụt, đến gia đình Áp-ra-ham được gọi ra khỏi quê hương, rồi từ Y-sác, Gia-cốp cho đến mười hai chi phái Y-sơ-ra-ên — Ngài luôn chọn gia đình làm cơ sở để thực hiện chương trình cứu chuộc của Ngài.
+Xuyên suốt lịch sử Kinh Thánh, Đức Chúa Trời luôn chọn gia đình làm nền tảng để xây dựng Hội Thánh của Ngài. Từ gia đình Nô-ê được cứu qua cơn lụt, đến gia đình Áp-ra-ham được gọi ra khỏi quê hương, rồi từ Y-sác, Gia-cốp cho đến mười hai chi phái Y-sơ-ra-ên — Ngài luôn chọn gia đình làm cơ sở để thực hiện chương trình cứu chuộc của Ngài.
 
 Chính vì gia đình là điều Đức Chúa Trời lựa chọn, nên gia đình cũng là tiêu đích đầu tiên mà ma quỷ tấn công. Khi mới chỉ có A-đam, Ê-va, Ca-in và A-bên — chỉ bốn người trên đất — thì Ca-in đã giết A-bên. Gia cốp bị cha vợ là La-ban lừa gạt, phải cưới Lê-a trước Ra-chên. Các anh của Giô-sép tìm cách giết em ruột. Gia đình là nơi Chúa muốn bảo vệ, nhưng cũng là nơi kẻ thù dốc sức phá phách.
 

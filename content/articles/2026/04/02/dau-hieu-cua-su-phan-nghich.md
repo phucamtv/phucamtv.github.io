@@ -78,7 +78,7 @@ Hầu hết các tôn giáo cổ đều có một "nữ vương trên trời": �
 
 Hai diễn giả nhấn mạnh họ không công kích cá nhân nào. Hàng triệu tín hữu Công giáo thành thật yêu mến Đức Chúa Giê-su và không hề biết nguồn gốc ngoại giáo của những biểu tượng quanh mình. Kinh Thánh nói Đức Chúa Trời nhìn qua những thời kỳ ngu muội ấy, và Ngài sẽ xét đoán mỗi người theo ánh sáng người đó đã nhận được.
 
-Nhưng khi lẽ thật được bày tỏ, lời kêu gọi trở nên khẩn thiết: "Hỡi dân Ta, hãy ra khỏi Ba-by-lôn." Ba-by-lôn không phải chỉ là một thành phố cổ hay một giáo hội cụ thể — đó là cả một hệ thống được thừa kế từ Nim-rốt, từ Cain, từ chính Lu-xi-phe, đã thấm vào văn hóa, chính trị, giải trí, và cả trong nhiều hội thánh tự xưng là Tin Lành. Hệ thống ấy bao vây chúng ta như đạo quân La Mã của Cestius từng bao vây Giê-ru-sa-lem — và giống như các Cơ-đốc nhân năm 66 đã chạy trốn khi Cestius bất ngờ rút lui, chúng ta hôm nay vẫn còn cơ hội bước ra.
+Nhưng khi lẽ thật được bày tỏ, lời kêu gọi trở nên khẩn thiết: "Hỡi dân Ta, hãy ra khỏi Ba-by-lôn." Ba-by-lôn không phải chỉ là một thành phố cổ hay một giáo hội cụ thể — đó là cả một hệ thống được thừa kế từ Nim-rốt, từ Cain, từ chính Lu-xi-phe, đã thấm vào văn hóa, chính trị, giải trí, và cả trong nhiều Hội Thánh tự xưng là Tin Lành. Hệ thống ấy bao vây chúng ta như đạo quân La Mã của Cestius từng bao vây Giê-ru-sa-lem — và giống như các Cơ-đốc nhân năm 66 đã chạy trốn khi Cestius bất ngờ rút lui, chúng ta hôm nay vẫn còn cơ hội bước ra.
 
 ---
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Dân-số Ký 16:29-30, Ê-phê-sô 2:5, Giăng 14:19
 
-Bài giảng nhân mùa Phục Sinh xoay quanh hai nghịch lý đầy ý nghĩa: những con người đang sống mà đi vào cõi chết, và những con người đang chết mà được ban cho sự sống. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi từ câu chuyện Cô-rê, Đa-than, A-bi-ram trong Dân-số Ký đến niềm hy vọng phục sinh trong Tân Ước.
+Bài giảng nhân mùa Phục Sinh xoay quanh hai nghịch lý đầy ý nghĩa: những con người đang sống mà đi vào cõi chết, và những con người đang chết mà được ban cho sự sống. Mục sư Dương Quang Thoại dẫn dắt Hội Thánh đi từ câu chuyện Cô-rê, Đa-than, A-bi-ram trong Dân-số Ký đến niềm hy vọng phục sinh trong Tân Ước.
 
 ---
 

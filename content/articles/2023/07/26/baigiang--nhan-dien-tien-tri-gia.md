@@ -2,7 +2,7 @@
 title: "Nhận Diện Tiên Tri Giả"
 date: 2023-07-26
 url: /baigiang/nhan-dien-tien-tri-gia/
-description: "Bài giảng của Mục sư Dương Quang Thoại về Ma-thi-ơ 7:15-20 — Đức Chúa Giê-su cảnh báo hội thánh về tiên tri giả: những kẻ đội lốt chiên nhưng bề trong là muông sói. Làm thế nào nhận diện tiên tri thật và tiên tri giả? Câu trả lời nằm ở trái — kết quả của sự dạy dỗ theo thời gian."
+description: "Bài giảng của Mục sư Dương Quang Thoại về Ma-thi-ơ 7:15-20 — Đức Chúa Giê-su cảnh báo Hội Thánh về tiên tri giả: những kẻ đội lốt chiên nhưng bề trong là muông sói. Làm thế nào nhận diện tiên tri thật và tiên tri giả? Câu trả lời nằm ở trái — kết quả của sự dạy dỗ theo thời gian."
 tags: ["Tiên Tri Giả", "Ma-thi-ơ 7", "Lời Cảnh Báo", "Hội Thánh", "Dạy Dỗ", "Phân Biệt"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,11 +14,11 @@ draft: false
 
 ## Lời Cảnh Báo Của Đức Chúa Giê-su Về Tiên Tri Giả
 
-Ma-thi-ơ 7:15–20 là đoạn Kinh Thánh mà Đức Chúa Giê-su trực tiếp cảnh báo hội thánh: *"Hãy coi chừng tiên tri giả, là những kẻ mang lốt chiên đến cùng các ngươi, song bề trong thật là muông sói hay cắn xé."* Đây không chỉ là lời cảnh báo trong thời Chúa tại thế, mà còn là lời cảnh báo cho toàn bộ thời gian về sau — càng về ngày cuối cùng, càng có rất nhiều tiên tri giả xuất hiện.
+Ma-thi-ơ 7:15–20 là đoạn Kinh Thánh mà Đức Chúa Giê-su trực tiếp cảnh báo Hội Thánh: *"Hãy coi chừng tiên tri giả, là những kẻ mang lốt chiên đến cùng các ngươi, song bề trong thật là muông sói hay cắn xé."* Đây không chỉ là lời cảnh báo trong thời Chúa tại thế, mà còn là lời cảnh báo cho toàn bộ thời gian về sau — càng về ngày cuối cùng, càng có rất nhiều tiên tri giả xuất hiện.
 
 Người Do Thái vốn đã hiểu rõ và có kinh nghiệm sâu sắc về vấn đề tiên tri giả, bởi suốt giai đoạn dân Israel làm phu tù dưới tay Babylon, Syria, đã có những tiên tri thật của Đức Chúa Trời đồng thời xuất hiện rất nhiều tiên tri giả. Giê-rê-mi 6:14 và 8:11, Ê-xê-chiên 22:27, Sô-phô-ni 3:3–4 đều ghi lại lời cảnh báo về những kẻ giả dối này.
 
-Sang đến Tân Ước, Phao-lô cũng cảnh báo hội thánh Ê-phê-sô (Công Vụ 20:29–30): sau khi ông đi, sẽ có muông sói dữ tợn xen vào, không tiếc bầy; và ngay trong nội bộ hội thánh cũng sẽ có những người nổi lên nói lời hung ác, ráng sức lôi kéo môn đồ theo họ.
+Sang đến Tân Ước, Phao-lô cũng cảnh báo Hội Thánh Ê-phê-sô (Công Vụ 20:29–30): sau khi ông đi, sẽ có muông sói dữ tợn xen vào, không tiếc bầy; và ngay trong nội bộ Hội Thánh cũng sẽ có những người nổi lên nói lời hung ác, ráng sức lôi kéo môn đồ theo họ.
 
 ---
 
@@ -48,15 +48,15 @@ Câu 16 ghi lời Chúa: *"Các ngươi nhờ những trái nó mà nhận biế
 
 Khi tiên tri giả dạy dỗ sai lạc, hậu quả sẽ biểu hiện qua năm dạng:
 
-**Thứ nhất**, hình thành hội thánh chỉ có nghi thức bề ngoài — nhầm lẫn giữa đạo Chúa thật sự (tâm hồn gắn bó với Chúa và với mọi người) với sự thực hành nghi lễ tôn giáo đơn thuần.
+**Thứ nhất**, hình thành Hội Thánh chỉ có nghi thức bề ngoài — nhầm lẫn giữa đạo Chúa thật sự (tâm hồn gắn bó với Chúa và với mọi người) với sự thực hành nghi lễ tôn giáo đơn thuần.
 
-**Thứ hai**, xây dựng một hội thánh chỉ toàn cấm đoán mà không có thực hành tích cực — đây không phải tôn giáo thật.
+**Thứ hai**, xây dựng một Hội Thánh chỉ toàn cấm đoán mà không có thực hành tích cực — đây không phải tôn giáo thật.
 
-**Thứ ba**, tạo ra hội thánh lạm dụng ân điển, sống dễ dãi — quan điểm sai lầm rằng đã được cứu một lần thì dù phạm tội thể nào cũng đều được tha. Chính Kinh Thánh phản bác điều này, và sự lạm dụng ân điển là một sự sỉ nhục đối với thập tự giá.
+**Thứ ba**, tạo ra Hội Thánh lạm dụng ân điển, sống dễ dãi — quan điểm sai lầm rằng đã được cứu một lần thì dù phạm tội thể nào cũng đều được tha. Chính Kinh Thánh phản bác điều này, và sự lạm dụng ân điển là một sự sỉ nhục đối với thập tự giá.
 
-**Thứ tư**, dẫn đến hội thánh tách rời khỏi đời sống xã hội. Kinh Thánh không bao giờ dạy chúng ta phải tách rời thế gian. Đức Chúa Giê-su đã nhập thể và nhập thế — Ngài vào trong thế gian, và Ngài sai chúng ta vào trong thế gian để kết nối với con người, bày tỏ tình yêu của Ngài.
+**Thứ tư**, dẫn đến Hội Thánh tách rời khỏi đời sống xã hội. Kinh Thánh không bao giờ dạy chúng ta phải tách rời thế gian. Đức Chúa Giê-su đã nhập thể và nhập thế — Ngài vào trong thế gian, và Ngài sai chúng ta vào trong thế gian để kết nối với con người, bày tỏ tình yêu của Ngài.
 
-**Thứ năm**, tạo nên hội thánh ngạo mạn và biệt lập — cho rằng chỉ có mình là đúng, còn tất cả bên ngoài đều là sai. Đây là tư tưởng ngạo mạn, vì ân điển của Đức Chúa Trời ban ra cho mọi người vô điều kiện, không ai được độc quyền sở hữu sự cứu rỗi.
+**Thứ năm**, tạo nên Hội Thánh ngạo mạn và biệt lập — cho rằng chỉ có mình là đúng, còn tất cả bên ngoài đều là sai. Đây là tư tưởng ngạo mạn, vì ân điển của Đức Chúa Trời ban ra cho mọi người vô điều kiện, không ai được độc quyền sở hữu sự cứu rỗi.
 
 ---
 
@@ -64,7 +64,7 @@ Khi tiên tri giả dạy dỗ sai lạc, hậu quả sẽ biểu hiện qua nă
 
 Chúa Cứu Thế đã đến để phá đổ bức tường ngăn cách — giữa người Do Thái và người ngoại, giữa Đức Chúa Trời và con người, giữa các dân tộc, màu da, ngôn ngữ, nam nữ. Ngài bảo trong Giăng 10:16: *"Ta còn có chiên khác chẳng thuộc về chuồng này, ta cũng phải dẫn nó về... rồi sẽ chỉ có một bầy và một người chăn."*
 
-Thế mà đôi khi những bài giảng, lối sống, và hội thánh của chúng ta lại tìm cách xây lên những bức tường ngăn cách — chê trách người này, chỉ trích người kia, cho người này là sai người nọ là tà. Trách nhiệm của hội thánh là cùng với Chúa Cứu Thế phá đổ tất cả những bức tường ấy, chứ không phải xây thêm.
+Thế mà đôi khi những bài giảng, lối sống, và Hội Thánh của chúng ta lại tìm cách xây lên những bức tường ngăn cách — chê trách người này, chỉ trích người kia, cho người này là sai người nọ là tà. Trách nhiệm của Hội Thánh là cùng với Chúa Cứu Thế phá đổ tất cả những bức tường ấy, chứ không phải xây thêm.
 
 ---
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu: Sứ Giả Và Những Đau Khổ Của Vua
 
-Trong Ma-thi-ơ 10:24-33, Mục sư Dương Quang Thoại dẫn hội thánh đi qua ba phần của bài giảng: sứ giả và những đau khổ của Vua (câu 24-25), ba điều "đừng sợ" mà Đức Chúa Giê-su phán với các môn đồ (câu 26-31), và sự trung tín cùng phần thưởng (câu 32-33).
+Trong Ma-thi-ơ 10:24-33, Mục sư Dương Quang Thoại dẫn Hội Thánh đi qua ba phần của bài giảng: sứ giả và những đau khổ của Vua (câu 24-25), ba điều "đừng sợ" mà Đức Chúa Giê-su phán với các môn đồ (câu 26-31), và sự trung tín cùng phần thưởng (câu 32-33).
 
 Đức Chúa Giê-su khẳng định một nguyên tắc nền tảng: *"Môn đồ không hơn thầy, tôi tớ không hơn chủ."* Điều này có nghĩa là những gì đã xảy đến cho Chúa cũng sẽ xảy đến cho những kẻ theo Ngài — không nhất thiết giống hệt về hình thức, nhưng tương đồng về áp lực và sự chịu đựng. Những ai muốn chia sẻ vinh quang chiến thắng với Chúa thì phải chấp nhận cùng chịu khổ với Ngài trong hành trình theo Ngài.
 

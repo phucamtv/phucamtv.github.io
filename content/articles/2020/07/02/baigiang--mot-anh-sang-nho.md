@@ -24,7 +24,7 @@ Vị mục sư quản nhiệm vẫn quyết định đi lên thánh đường, d
 
 ## Một Mình Trong Đêm Mưa
 
-Đến nơi, vị mục sư mở cửa nhà thờ, thắp sáng các ngọn đèn, rồi ngồi chờ đợi. Không có một ai đến cả. Ông nghĩ thầm: mưa lớn quá, không thể trách tín đồ được. Thế là ông quỳ xuống, một mình cầu nguyện cho mọi người trong Hội thánh, rồi lặng lẽ đóng cửa nhà thờ trở về nhà.
+Đến nơi, vị mục sư mở cửa nhà thờ, thắp sáng các ngọn đèn, rồi ngồi chờ đợi. Không có một ai đến cả. Ông nghĩ thầm: mưa lớn quá, không thể trách tín đồ được. Thế là ông quỳ xuống, một mình cầu nguyện cho mọi người trong Hội Thánh, rồi lặng lẽ đóng cửa nhà thờ trở về nhà.
 
 Tưởng chừng đêm ấy chỉ là một buổi nhóm thất bại, không có ai đến, không có bài giảng nào được rao ra. Nhưng câu chuyện đã không kết thúc ở đó.
 

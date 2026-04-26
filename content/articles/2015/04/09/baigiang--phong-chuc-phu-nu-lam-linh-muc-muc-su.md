@@ -14,7 +14,7 @@ draft: false
 
 ## "Phương Án Thứ Ba" Là Gì?
 
-Mục sư Stephen Bohr mở đầu bằng việc phân tích một đoạn video ngắn trên trang Light Bearers đề xuất cái gọi là "phương án thứ ba" cho vấn đề phong chức phụ nữ. Phương án này cho rằng việc phong chức phụ nữ không đúng cũng không sai — tùy thuộc vào nơi bạn sống và thời đại bạn đang ở. Theo quan điểm này, Đức Chúa Trời đã ban cho dân Ngài những luật luân lý bất biến (như Mười Điều Răn) và những hướng dẫn tổ chức có thể thay đổi theo văn hóa. Việc lãnh đạo nam giới trong hội thánh được xếp vào loại thứ hai — chỉ là quy chuẩn tổ chức, không phải luật luân lý.
+Mục sư Stephen Bohr mở đầu bằng việc phân tích một đoạn video ngắn trên trang Light Bearers đề xuất cái gọi là "phương án thứ ba" cho vấn đề phong chức phụ nữ. Phương án này cho rằng việc phong chức phụ nữ không đúng cũng không sai — tùy thuộc vào nơi bạn sống và thời đại bạn đang ở. Theo quan điểm này, Đức Chúa Trời đã ban cho dân Ngài những luật luân lý bất biến (như Mười Điều Răn) và những hướng dẫn tổ chức có thể thay đổi theo văn hóa. Việc lãnh đạo nam giới trong Hội Thánh được xếp vào loại thứ hai — chỉ là quy chuẩn tổ chức, không phải luật luân lý.
 
 Mục sư Bohr phản bác rằng không có bằng chứng nào trong Kinh Thánh cho thấy Đức Chúa Trời đã từng thay đổi lý tưởng tổ chức về sự lãnh đạo nam giới. Ông trích dẫn Ellen White: Đức Chúa Trời vẫn đặc biệt như xưa, và Ngài muốn chúng ta học bài học về trật tự và tổ chức từ hệ thống hoàn hảo được thiết lập trong thời Môi-se.
 
@@ -34,7 +34,7 @@ Câu chuyện Y-sơ-ra-ên đòi lập vua (1 Sa-mu-ên 8) được phương án
 
 Hậu quả của quyết định này: các vua cưới vợ ngoại bang, thờ thần tượng, vi phạm điều răn thứ nhất, thứ hai và thứ bảy. Vương quốc chia đôi, dân bị lưu đày sang A-si-ri và Ba-by-lôn. Ngay cả Sa-lô-môn, người khôn ngoan nhất, cũng sa ngã vì các liên minh chính trị. Ellen White nhận xét rằng Đức Chúa Trời đã ban cho họ vua trong cơn giận (Ô-sê 13:11).
 
-Vậy tại sao hội thánh ngày nay lại muốn áp dụng một "kế hoạch B" khi lịch sử Y-sơ-ra-ên đã chứng minh nó thất bại?
+Vậy tại sao Hội Thánh ngày nay lại muốn áp dụng một "kế hoạch B" khi lịch sử Y-sơ-ra-ên đã chứng minh nó thất bại?
 
 ---
 
@@ -66,7 +66,7 @@ Mục sư Bohr cho thấy thực tế có đúng mười thế hệ giữa khi l
 
 Mục sư Bohr liệt kê bằng chứng xuyên suốt Kinh Thánh: A-đam là người lãnh đạo trong vườn Ê-đen; sau khi phạm tội, con trai đầu lòng trở thành người lãnh đạo; người Lê-vi, thầy tế lễ, bảy mươi trưởng lão Môi-se chọn, các vua Y-sơ-ra-ên, mười hai sứ đồ, bảy mươi môn đệ Đức Chúa Giê-su sai đi, người thay thế Giu-đa, các chấp sự, Phao-lô và Ba-na-ba — tất cả đều là nam giới. Trưởng lão và giám mục phải là chồng của một vợ (1 Ti-mô-thê 3:1-7, Tít 1:5-9).
 
-Suốt lịch sử hội thánh Cơ-đốc cho đến phong trào nữ quyền cuối thế kỷ 19, chỉ nam giới giữ các chức vụ này. Trong đời Ellen White, chỉ nam giới được phong chức.
+Suốt lịch sử Hội Thánh Cơ-đốc cho đến phong trào nữ quyền cuối thế kỷ 19, chỉ nam giới giữ các chức vụ này. Trong đời Ellen White, chỉ nam giới được phong chức.
 
 ---
 

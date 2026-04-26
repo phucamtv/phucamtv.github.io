@@ -28,7 +28,7 @@ Trong khung đó, câu hỏi cần đặt cho Iran không phải "ai đúng, ai 
 
 Một phần lớn của buổi nói chuyện xoay quanh biểu tượng. Đồng xu mười cent và đồng tiền vàng kỷ niệm 250 năm lập quốc Hoa Kỳ không còn cành ô-liu của hòa bình — chỉ còn những mũi tên. "Hòa bình qua sức mạnh" đã chuyển thành thuần túy *sức mạnh*. Khuôn mặt trên đồng tiền đội chiếc mũ Phrygian, chiếc mũ mà Veith truy ngược tới thần Pan, thần Mithra, và rốt cuộc tới sự thờ lạy Lu-xi-phe qua Hội Tam Điểm.
 
-Albert Pike trong *Morals and Dogma* viết rằng Hội Đền Thánh có hai giáo lý: một công khai theo kiểu Công giáo La Mã, và một bí truyền gọi là Johannism — tôn vinh chiến thắng của Sa-tan trên Giăng Báp-tít, kẻ báo trước Đấng Christ. Veith nối kết: Giăng bị chém đầu vì một nhà thờ (Hê-rô-đia) đang ở trong mối liên hệ bất chính với nhà nước (Hê-rốt), qua bàn tay của cô con gái nhảy múa trước vua. Giáo hoàng Ratzinger đã tuyên bố các hội thánh Tin Lành là "con gái" của La Mã — và những người con gái ấy đang nhảy múa trước các vua thế gian hôm nay.
+Albert Pike trong *Morals and Dogma* viết rằng Hội Đền Thánh có hai giáo lý: một công khai theo kiểu Công giáo La Mã, và một bí truyền gọi là Johannism — tôn vinh chiến thắng của Sa-tan trên Giăng Báp-tít, kẻ báo trước Đấng Christ. Veith nối kết: Giăng bị chém đầu vì một nhà thờ (Hê-rô-đia) đang ở trong mối liên hệ bất chính với nhà nước (Hê-rốt), qua bàn tay của cô con gái nhảy múa trước vua. Giáo hoàng Ratzinger đã tuyên bố các Hội Thánh Tin Lành là "con gái" của La Mã — và những người con gái ấy đang nhảy múa trước các vua thế gian hôm nay.
 
 ---
 

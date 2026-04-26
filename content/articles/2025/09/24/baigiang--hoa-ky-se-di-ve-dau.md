@@ -16,7 +16,7 @@ Bài giảng của Mục Sư Đặng Thanh Phong dựa trên sách Khải Huyề
 
 ## Sự ra đời của Hoa Kỳ trong lời tiên tri
 
-Mục Sư trình bày bốn trận chiến lớn trong sách Khải Huyền chương 12 và 13: trận chiến Lucifer nổi loạn trên thiên đàng, trận chiến Sa-tan tấn công Đức Chúa Giê-su, trận chiến bách hại hội thánh trong 1260 năm đêm trường Trung Cổ tại Châu Âu, và trận chiến cuối cùng trước khi Chúa tái lâm.
+Mục Sư trình bày bốn trận chiến lớn trong sách Khải Huyền chương 12 và 13: trận chiến Lucifer nổi loạn trên thiên đàng, trận chiến Sa-tan tấn công Đức Chúa Giê-su, trận chiến bách hại Hội Thánh trong 1260 năm đêm trường Trung Cổ tại Châu Âu, và trận chiến cuối cùng trước khi Chúa tái lâm.
 
 Khi con cái Chúa bị bắt bớ tại Châu Âu, họ chạy sang vùng đất mới và lập nên nước Mỹ -- ứng nghiệm lời tiên tri về người đàn bà chạy trốn vào đồng vắng. Hoa Kỳ được xây dựng trên nền tảng đức tin vào Đức Chúa Trời, với thể chế tam quyền phân lập bảo vệ quyền tự do tín ngưỡng.
 

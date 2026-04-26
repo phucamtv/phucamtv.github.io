@@ -2,7 +2,7 @@
 title: "Hành Động Tuyệt Đẹp Dành Cho Chúa | Ma-thi-ơ 26:1-16"
 date: 2025-03-05
 url: /baigiang/hanh-dong-tuyet-dep-danh-cho-chua/
-description: "Qua Ma-thi-ơ 26:1-16, Mục sư Dương Quang Thoại dẫn dắt hội thánh suy gẫm về ba bức tranh tương phản: âm mưu giết Chúa của các thầy tế lễ, hành động xức dầu đầy yêu thương của người đàn bà tại Bê-tha-ni, và sự phản bội của Giu-đa — để nhận ra tình yêu thật dành cho Chúa không bao giờ tính toán."
+description: "Qua Ma-thi-ơ 26:1-16, Mục sư Dương Quang Thoại dẫn dắt Hội Thánh suy gẫm về ba bức tranh tương phản: âm mưu giết Chúa của các thầy tế lễ, hành động xức dầu đầy yêu thương của người đàn bà tại Bê-tha-ni, và sự phản bội của Giu-đa — để nhận ra tình yêu thật dành cho Chúa không bao giờ tính toán."
 tags: ["Ma-thi-ơ", "Thập Tự Giá", "Tình Yêu Chúa", "Lễ Vượt Qua", "Giu-đa", "Xức Dầu", "Bê-tha-ni", "Sự Phản Bội"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]

@@ -18,7 +18,7 @@ notion_id: 2b2cfc36-50d9-436c-9e10-41c07efc643d
 
 Đa-ni-ên đoạn 7 tiếp nối lời tiên tri đã mở đầu trong đoạn 2, nơi Đức Chúa Trời dùng hình ảnh pho tượng để tóm lược dòng lịch sử từ Babylon cho đến thời kỳ ra đời Âu châu. Đến đoạn 7, Ngài lại mặc khải cùng một dòng lịch sử đó qua một hình ảnh khác — bốn con thú xuất hiện từ biển lớn trong khải tượng ban đêm của Đa-ni-ên. Phương pháp lặp đi lặp lại với hình thức khác nhau chính là cách Đức Chúa Trời giáo dục dân sự Ngài, để những sự kiện quan trọng được khắc sâu mà không trở nên nhàm chán.
 
-Mục sư Đặng Thanh Phong dẫn hội thánh đi qua từng chi tiết của đoạn Kinh Thánh này, đối chiếu lời tiên tri với lịch sử đã được ghi lại, để cho thấy sự chính xác tuyệt đối của lời Đức Chúa Trời.
+Mục sư Đặng Thanh Phong dẫn Hội Thánh đi qua từng chi tiết của đoạn Kinh Thánh này, đối chiếu lời tiên tri với lịch sử đã được ghi lại, để cho thấy sự chính xác tuyệt đối của lời Đức Chúa Trời.
 
 ---
 
@@ -66,7 +66,7 @@ Không có quyền lực nào trên thế giới hội đủ cả chín đặc �
 
 Công giáo La Mã xuất phát từ La Mã — đó là lý do tên gọi của họ gắn với thành phố đó. Giáo hội này ra đời sau khi Âu châu đã hình thành. Đây là một thực thể độc nhất vô nhị: vừa là quốc gia có chính phủ, ngoại giao và đại sứ, vừa là tổ chức tôn giáo — khác hoàn toàn với mười vương quốc chính trị trước đó.
 
-Về việc loại bỏ ba sừng: năm 538, sau khi hoàng đế Justinian tuyên bố Giáo hoàng La Mã là đứng đầu mọi hội thánh, người Công giáo đã tiêu diệt ba dân tộc Os-trô-goth, Van-đan và Hê-ru-li — ba nhóm đã bắt bớ người Công giáo chính thống.
+Về việc loại bỏ ba sừng: năm 538, sau khi hoàng đế Justinian tuyên bố Giáo hoàng La Mã là đứng đầu mọi Hội Thánh, người Công giáo đã tiêu diệt ba dân tộc Os-trô-goth, Van-đan và Hê-ru-li — ba nhóm đã bắt bớ người Công giáo chính thống.
 
 Về sự phạm thượng: Giáo hoàng Innocent III tuyên bố người kế nghiệp Phi-e-rơ là "người thay thế Đấng Cứu Thế," là trung gian giữa Đức Chúa Trời và loài người, tự đặt mình "thấp hơn Đức Chúa Trời nhưng cao hơn loài người." Giáo hoàng John Phaolô II tuyên bố không có sự tha thứ trực tiếp từ Đức Chúa Trời — người ta phải xưng tội với linh mục. Trong khi đó, Kinh Thánh tuyên bố chỉ có một Đấng Trung Bảo duy nhất giữa Đức Chúa Trời và loài người, đó là Đức Chúa Giê-su (I Ti-mô-thê 2:5).
 

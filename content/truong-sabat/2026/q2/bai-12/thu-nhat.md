@@ -7,15 +7,15 @@ weight: 2
 
 `Đọc Đại Mệnh Lệnh trong Ma-thi-ơ 28:18–20. Viết xuống những sứ điệp khác nhau của Đức Chúa Giê-su khi Ngài phán “hết cả” hoặc “luôn luôn” (trong tiếng Hy Lạp là cùng một từ “pas”).`
 
-Đức Chúa Giê-su đã giao cho chúng ta sứ mệnh chia sẻ sứ điệp của Ngài với thế gian: “Vậy, hãy đi dạy dỗ muôn dân”. Sứ mệnh của Hội thánh Cơ-đốc Phục Lâm là đào tạo môn đồ, rồi những người này sẽ đào tạo thêm những môn đồ khác. Bằng cách đó, tất cả chúng ta đang rao truyền phúc âm vĩnh cửu và sứ điệp của ba thiên sứ (Khải-huyền 14:6–12) để chuẩn bị cho thế gian trước sự tái lâm của Đức Chúa Giê-su.
+Đức Chúa Giê-su đã giao cho chúng ta sứ mệnh chia sẻ sứ điệp của Ngài với thế gian: “Vậy, hãy đi dạy dỗ muôn dân”. Sứ mệnh của Hội Thánh Cơ-đốc Phục Lâm là đào tạo môn đồ, rồi những người này sẽ đào tạo thêm những môn đồ khác. Bằng cách đó, tất cả chúng ta đang rao truyền phúc âm vĩnh cửu và sứ điệp của ba thiên sứ (Khải-huyền 14:6–12) để chuẩn bị cho thế gian trước sự tái lâm của Đức Chúa Giê-su.
 
 Bất cứ ai đã nhận sự sống mới trong Đấng Christ đều được kêu gọi làm chứng cho danh Ngài. Tuy nhiên, nhiều khi, mọi người lại nghĩ làm chứng là điều họ không thể làm hoặc không muốn làm. Bạn có thể tưởng tượng mình đang rao giảng ở một góc phố hoặc giảng một đoạn Kinh Thánh phức tạp, và rồi bạn lắc đầu: “Không thể là tôi! Không đời nào! Tôi là người hướng nội; làm chứng không phải là việc dễ dàng cho tôi.”.
 
 Tuy nhiên, làm chứng chân thật là kết quả của việc tận mắt nhìn thấy những gì Chúa đang làm trong đời sống của chúng ta, nhìn biết những gì Ngài đang dạy dỗ chúng ta; khi chúng ta trưởng thành trong Ngài, đơn giản là chúng ta chia sẻ kinh nghiệm của bản thân với người khác.
 
-Chúa là tốt lành, những điều Ngài đã làm cho chúng ta là tin tốt nhất mà thế giới này cần được nghe. Chúng ta không thể và không nên im lặng! Ngài đã cứu chuộc chúng ta; Ngài đã gọi đích danh chúng ta, và chúng ta thuộc về Ngài. Còn có tin tức nào tốt hơn cho mọi người ở khắp nơi không? Chúng ta có thể học hỏi từ các sứ đồ ở hội thánh đầu tiên, mặc dù họ không được học hành hay có tài hùng biện tốt.
+Chúa là tốt lành, những điều Ngài đã làm cho chúng ta là tin tốt nhất mà thế giới này cần được nghe. Chúng ta không thể và không nên im lặng! Ngài đã cứu chuộc chúng ta; Ngài đã gọi đích danh chúng ta, và chúng ta thuộc về Ngài. Còn có tin tức nào tốt hơn cho mọi người ở khắp nơi không? Chúng ta có thể học hỏi từ các sứ đồ ở Hội Thánh đầu tiên, mặc dù họ không được học hành hay có tài hùng biện tốt.
 
-`Đọc Công Vụ 1:8 và Công Vụ 4:13. Hội thánh sơ khai đã làm chứng như thế nào? Phi-e-rơ và Giăng đã có ảnh hưởng như thế nào đến những người nghe họ làm chứng?`
+`Đọc Công Vụ 1:8 và Công Vụ 4:13. Hội Thánh sơ khai đã làm chứng như thế nào? Phi-e-rơ và Giăng đã có ảnh hưởng như thế nào đến những người nghe họ làm chứng?`
 
 Phi-e-rơ và Giăng tiếp tục tuyên bố: “Vì, về phần chúng tôi, không có thể chẳng nói về những điều mình đã thấy và nghe” (Công-vụ 4:20); “Hai người từng ở với Ðức Đức Chúa Giê-su” (Công vụ 4:13) và lòng họ được thôi thúc phải chia sẻ. Đức Thánh Linh đã ban cho họ sự dạn dĩ và sức mạnh thuyết phục trong lời nói.
 

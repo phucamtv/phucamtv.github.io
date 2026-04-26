@@ -17,7 +17,7 @@ draft: false
 
 ## Giới Thiệu
 
-Trong bối cảnh hậu đại dịch, sự thờ phượng Chúa tại nhiều nơi đang đi xuống — các buổi nhóm thưa vắng, đức tin nguội lạnh, và nhiều hội thánh rơi vào tình trạng khô khan. Mục Sư Dương Quang Thoại mở đầu bài giảng với lời cảnh tỉnh: đây không phải điều bất ngờ, vì chính Đức Chúa Giê-su đã báo trước rằng khi Ngài tái lâm, đức tin trên mặt đất sẽ rất hiếm hoi.
+Trong bối cảnh hậu đại dịch, sự thờ phượng Chúa tại nhiều nơi đang đi xuống — các buổi nhóm thưa vắng, đức tin nguội lạnh, và nhiều Hội Thánh rơi vào tình trạng khô khan. Mục Sư Dương Quang Thoại mở đầu bài giảng với lời cảnh tỉnh: đây không phải điều bất ngờ, vì chính Đức Chúa Giê-su đã báo trước rằng khi Ngài tái lâm, đức tin trên mặt đất sẽ rất hiếm hoi.
 
 Giữa thời buổi nhiễu nhương về niềm tin, Sa-tan đang ra sức làm lệch lạc sự thờ phượng — dùng mê tín dị đoan, các điều huyền bí, và những "thần" khác để dẫn dắt con người ra khỏi Đấng Tạo Hóa. Vì thế, bài giảng hướng đến ba câu hỏi nền tảng: **Thờ phượng Ai? Thờ phượng Ở đâu? Thờ phượng Như thế nào?**
 

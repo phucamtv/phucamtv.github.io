@@ -17,7 +17,7 @@ description: "Khải Huyền chương 12 cho thấy chiến tranh không bắt n
 
 Khải Huyền chương 12 mở đầu bằng một dấu lớn trên trời: một người đàn bà có mặt trời bao bọc, dưới chân có mặt trăng, trên đầu có mão triều thiên bằng mười hai ngôi sao. Đoạn Kinh Thánh này trình bày bốn hình ảnh quan trọng mà người học cần nắm vững.
 
-Thứ nhất, **người đàn bà** tượng trưng cho hội thánh tinh sạch của Chúa — hội thánh làm theo lời Chúa. Kinh Thánh nhiều lần dùng hình ảnh người nữ để chỉ về hội thánh: cô dâu trong tiệc cưới, trinh nữ tinh sạch trong thư Cô-rinh-tô, và người nữ trong sách Nhã Ca. Thứ hai, **con rồng** lớn sắc đỏ có bảy đầu mười sừng chính là Satan; đuôi nó kéo một phần ba các ngôi sao — tức một phần ba thiên sứ đã nổi loạn theo nó. Thứ ba, **con trai** mà người đàn bà sinh ra, Đấng sẽ dùng gậy sắt cai trị mọi dân tộc, chính là Đức Chúa Giê-su. Thứ tư, **con cái còn sót lại** của người đàn bà — những người vẫn giữ các điều răn của Đức Chúa Trời và lời chứng của Đức Chúa Giê-su.
+Thứ nhất, **người đàn bà** tượng trưng cho Hội Thánh tinh sạch của Chúa — Hội Thánh làm theo lời Chúa. Kinh Thánh nhiều lần dùng hình ảnh người nữ để chỉ về Hội Thánh: cô dâu trong tiệc cưới, trinh nữ tinh sạch trong thư Cô-rinh-tô, và người nữ trong sách Nhã Ca. Thứ hai, **con rồng** lớn sắc đỏ có bảy đầu mười sừng chính là Satan; đuôi nó kéo một phần ba các ngôi sao — tức một phần ba thiên sứ đã nổi loạn theo nó. Thứ ba, **con trai** mà người đàn bà sinh ra, Đấng sẽ dùng gậy sắt cai trị mọi dân tộc, chính là Đức Chúa Giê-su. Thứ tư, **con cái còn sót lại** của người đàn bà — những người vẫn giữ các điều răn của Đức Chúa Trời và lời chứng của Đức Chúa Giê-su.
 
 ---
 
@@ -33,7 +33,7 @@ Câu hỏi trọng tâm của bài giảng: chiến tranh bắt đầu từ đâ
 
 **Trận chiến thứ hai** xảy ra khi Satan bị quăng xuống đất. Nó cám dỗ A-đam và Ê-va trong vườn Ê-đen, kéo loài người vào tội lỗi. Khi Đức Chúa Giê-su giáng thế để thực hiện chương trình cứu rỗi, Satan tìm mọi cách ngăn cản — từ việc xúi giục vua Hê-rốt giết trẻ em, cám dỗ Chúa bốn mươi ngày trong đồng vắng, cho đến kích động dân chúng đòi đóng đinh Ngài. Nhưng Chúa đã chết đúng thời điểm tiên tri, sống lại và chiến thắng sự chết. Satan một lần nữa thất bại.
 
-**Trận chiến thứ ba** diễn ra khi Satan quay sang tấn công hội thánh. Người đàn bà phải trốn vào đồng vắng 1.260 ngày tiên tri, ứng nghiệm trong lịch sử là 1.260 năm thời kỳ trung cổ (538–1798) — giai đoạn mà những người làm theo lời Chúa bị bách hại tàn khốc. Tuy nhiên, Chúa đã dự bị một nơi ẩn náu: miền đất mới — nước Mỹ, nơi những người tin Chúa bị bách hại tại Âu châu chạy đến và lập nên quốc gia trên nền tảng Kinh Thánh.
+**Trận chiến thứ ba** diễn ra khi Satan quay sang tấn công Hội Thánh. Người đàn bà phải trốn vào đồng vắng 1.260 ngày tiên tri, ứng nghiệm trong lịch sử là 1.260 năm thời kỳ trung cổ (538–1798) — giai đoạn mà những người làm theo lời Chúa bị bách hại tàn khốc. Tuy nhiên, Chúa đã dự bị một nơi ẩn náu: miền đất mới — nước Mỹ, nơi những người tin Chúa bị bách hại tại Âu châu chạy đến và lập nên quốc gia trên nền tảng Kinh Thánh.
 
 **Trận chiến thứ tư** được mô tả ở câu 17: con rồng giận người đàn bà, đi tranh chiến cùng con cái còn sót lại — những người vẫn giữ các điều răn của Đức Chúa Trời và lời chứng của Đức Chúa Giê-su. Trận chiến này chưa xảy ra, nhưng sẽ rất tàn khốc vì Satan biết thì giờ mình chẳng còn bao nhiêu nên giận hoảng mà đến.
 

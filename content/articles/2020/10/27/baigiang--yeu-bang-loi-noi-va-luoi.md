@@ -14,7 +14,7 @@ draft: false
 
 ## Khi Lời Nói Không Đi Đôi Với Việc Làm
 
-Một nhà truyền đạo lão thành của Hội Thánh Methodist đã lặn lội từ phương xa đến giảng cho một hội thánh. Ông khắc khổ, mệt nhọc, và còn phải đi tiếp một đoạn đường rất xa đến hội thánh khác. Thế nhưng, những người tại hội thánh ấy thật lạnh nhạt — không ai lo cho ông một bữa ăn lót dạ. Vậy mà, khi chia tay, họ lại nói rất ngọt ngào: "Xin Chúa ban phước cho ông! Chắc chắn Chúa sẽ ghi nhận những gì ông đã làm, đến kỳ sống lại Chúa sẽ ban thưởng cho ông."
+Một nhà truyền đạo lão thành của Hội Thánh Methodist đã lặn lội từ phương xa đến giảng cho một Hội Thánh. Ông khắc khổ, mệt nhọc, và còn phải đi tiếp một đoạn đường rất xa đến Hội Thánh khác. Thế nhưng, những người tại Hội Thánh ấy thật lạnh nhạt — không ai lo cho ông một bữa ăn lót dạ. Vậy mà, khi chia tay, họ lại nói rất ngọt ngào: "Xin Chúa ban phước cho ông! Chắc chắn Chúa sẽ ghi nhận những gì ông đã làm, đến kỳ sống lại Chúa sẽ ban thưởng cho ông."
 
 Người truyền đạo ngán ngẩm trước cách nói đầy vẻ đạo đức bên ngoài mà không kèm theo một hành động cụ thể nào. Ông đáp lại thật thâm thúy: "Tôi cảm ơn anh em vì lời chúc tụng cho kỳ sống lại đó. Những lời ấy rất tốt cho tôi, nhưng không tốt cho con ngựa của tôi — vì nó sẽ không sống lại. Xin anh em cho nó ăn trước kỳ sống lại!"
 

@@ -14,7 +14,7 @@ draft: false
 
 ## Sách Nê-hê-mi
 
-Bài giảng đi qua toàn bộ 13 đoạn sách Nê-hê-mi, rút ra sáu bài học quan trọng cho hành trình phục hưng tâm linh của mỗi cá nhân, gia đình và hội thánh.
+Bài giảng đi qua toàn bộ 13 đoạn sách Nê-hê-mi, rút ra sáu bài học quan trọng cho hành trình phục hưng tâm linh của mỗi cá nhân, gia đình và Hội Thánh.
 
 ### 1. Bài cầu nguyện của Nê-hê-mi -- Nhận thức thực trạng (Đoạn 1)
 
@@ -22,7 +22,7 @@ Khi Nê-hê-mi nghe tin thành Giê-ru-sa-lem đổ nát, vách thành hư nát,
 
 Ngay tại nhà thờ, chúng ta cảm thấy mình thánh thiện, nhưng khi trở về cuộc sống, lập tức nói những lời không xứng đáng, có những suy nghĩ không xứng đáng. Ma quỷ đánh lừa khiến chúng ta tự mãn, nghĩ rằng mình đã đủ tốt. Giống như uống cà phê tạo cảm giác no nhưng thực chất dạ dày trống rỗng, ma quỷ cho chúng ta cảm giác đời sống tâm linh ổn trong khi nó đang sụp đổ.
 
-Điều quan trọng nhất để được phục hưng là nhận thức được thực trạng. Nếu chúng ta chỉ thỏa mãn với hiện tại, không bao giờ cá nhân, gia đình và hội thánh được phục hưng.
+Điều quan trọng nhất để được phục hưng là nhận thức được thực trạng. Nếu chúng ta chỉ thỏa mãn với hiện tại, không bao giờ cá nhân, gia đình và Hội Thánh được phục hưng.
 
 ### 2. Xây lại vách thành -- Quyết định hành động dù có ngăn trở (Đoạn 4)
 
@@ -50,4 +50,4 @@ Nê-hê-mi dứt khoát trả lại nơi thánh cho Đức Chúa Trời khi quă
 
 ### Lời kết
 
-Rô-ma 13:12 nhắc nhở: đêm đã khuya, ngày gần đến, hãy lột bỏ những việc tối tăm mà mặc lấy áo giáp sáng láng. Ô-sê 6:3 khích lệ: hãy gắng sức nhìn biết Đức Giê-hô-va, Ngài sẽ đến như mưa cuối mùa tưới đất. Hãy xây lại vách thành tâm linh của mình, chỉnh đốn sự thờ phượng, trừ bỏ tệ nạn, tìm kiếm sự phục hưng cho cá nhân, gia đình và hội thánh.
+Rô-ma 13:12 nhắc nhở: đêm đã khuya, ngày gần đến, hãy lột bỏ những việc tối tăm mà mặc lấy áo giáp sáng láng. Ô-sê 6:3 khích lệ: hãy gắng sức nhìn biết Đức Giê-hô-va, Ngài sẽ đến như mưa cuối mùa tưới đất. Hãy xây lại vách thành tâm linh của mình, chỉnh đốn sự thờ phượng, trừ bỏ tệ nạn, tìm kiếm sự phục hưng cho cá nhân, gia đình và Hội Thánh.

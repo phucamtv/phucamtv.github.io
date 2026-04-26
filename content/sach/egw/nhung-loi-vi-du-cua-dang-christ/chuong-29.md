@@ -21,7 +21,7 @@ Lảng vảng gần nhà cô dâu là mười thiếu nữ mặc áo trắng. M�
 
 Đang khi họ đi mua dầu, đoàn rước đi qua, bỏ họ lại phía sau. Năm người có đèn đang cháy sáng đã nhập vào đoàn người và bước vào nhà cùng đoàn rước dâu, rồi cửa đóng lại. Khi các thiếu nữ dại đến phòng tiệc, họ nhận được một sự từ chối bất ngờ. Chủ tiệc tuyên bố: "Ta không biết các ngươi." Họ bị bỏ lại đứng bên ngoài, giữa con đường trống vắng, trong bóng đêm đen tối. COL 406.1
 
-Khi Đấng Christ ngồi nhìn nhóm người đang chờ đợi chú rể, Ngài đã kể cho các môn đồ câu chuyện về mười thiếu nữ, qua kinh nghiệm của họ để minh họa kinh nghiệm của hội thánh sẽ sống ngay trước sự tái lâm của Ngài. COL 406.2
+Khi Đấng Christ ngồi nhìn nhóm người đang chờ đợi chú rể, Ngài đã kể cho các môn đồ câu chuyện về mười thiếu nữ, qua kinh nghiệm của họ để minh họa kinh nghiệm của Hội Thánh sẽ sống ngay trước sự tái lâm của Ngài. COL 406.2
 
 Hai hạng người chờ đợi tiêu biểu cho hai hạng người xưng mình đang chờ đợi Chúa của họ. Họ được gọi là các thiếu nữ đồng trinh bởi vì họ xưng nhận một đức tin thuần khiết. Các ngọn đèn tiêu biểu cho Lời Đức Chúa Trời. Tác giả Thi Thiên nói:
 
@@ -38,7 +38,7 @@ Từ hai cây ô-li-ve, dầu vàng được rót qua các ống vàng vào ch�
 > "Người đáp lại rằng: Đây là lời của Đức Giê-hô-va phán cho Xô-rô-ba-bên, rằng: Ấy chẳng phải là bởi quyền thế, cũng chẳng phải là bởi năng lực, bèn là bởi Thần ta, Đức Giê-hô-va vạn quân phán vậy."
 > <cite>(Xa-cha-ri 4:6)</cite> COL 408.1
 
-Trong ngụ ngôn, cả mười thiếu nữ đều ra đi đón chú rể. Tất cả đều có đèn và bình đựng dầu. Trong một thời gian, không thấy có sự khác biệt nào giữa họ. Hội thánh sống ngay trước sự tái lâm của Đấng Christ cũng vậy. Tất cả đều có sự hiểu biết về Kinh Thánh. Tất cả đều đã nghe sứ điệp về sự đến gần của Đấng Christ, và mong đợi cách tin tưởng vào sự hiện ra của Ngài. Nhưng như trong ngụ ngôn, ngày nay cũng vậy. Một thời gian chờ đợi xen vào, đức tin bị thử thách; và khi tiếng kêu được nghe: "Kìa, Chàng Rể đến, hãy đi ra rước Người!", thì nhiều người chưa sẵn sàng. Họ không có dầu trong bình cùng với đèn của mình. Họ thiếu Đức Thánh Linh. COL 408.2
+Trong ngụ ngôn, cả mười thiếu nữ đều ra đi đón chú rể. Tất cả đều có đèn và bình đựng dầu. Trong một thời gian, không thấy có sự khác biệt nào giữa họ. Hội Thánh sống ngay trước sự tái lâm của Đấng Christ cũng vậy. Tất cả đều có sự hiểu biết về Kinh Thánh. Tất cả đều đã nghe sứ điệp về sự đến gần của Đấng Christ, và mong đợi cách tin tưởng vào sự hiện ra của Ngài. Nhưng như trong ngụ ngôn, ngày nay cũng vậy. Một thời gian chờ đợi xen vào, đức tin bị thử thách; và khi tiếng kêu được nghe: "Kìa, Chàng Rể đến, hãy đi ra rước Người!", thì nhiều người chưa sẵn sàng. Họ không có dầu trong bình cùng với đèn của mình. Họ thiếu Đức Thánh Linh. COL 408.2
 
 Không có Đức Thánh Linh của Đức Chúa Trời, thì sự hiểu biết Lời Ngài chẳng ích gì. Lý thuyết về lẽ thật, nếu không có Đức Thánh Linh đi kèm, thì không thể làm tâm hồn sống động hoặc thánh hóa tấm lòng. Một người có thể thông thạo các điều răn và lời hứa trong Kinh Thánh; nhưng trừ khi Đức Thánh Linh đưa lẽ thật vào lòng, tánh hạnh sẽ không được biến đổi. Không có sự soi sáng của Đức Thánh Linh, con người sẽ không thể phân biệt được lẽ thật với điều sai lầm, và họ sẽ sa ngã trước những cám dỗ khôn khéo của Sa-tan. COL 408.3
 
@@ -95,7 +95,7 @@ Sự đến của chàng rể là vào lúc nửa đêm—giờ tối tăm nhứ
 > "Kẻ đó sẽ lấy quyền của quỉ Sa-tan mà hiện đến, làm đủ mọi thứ phép lạ, dấu dị và việc kỳ dối giả; dùng mọi cách phỉnh dỗ không công bình mà dỗ những kẻ hư mất, vì chúng nó đã không nhận lãnh sự yêu thương của lẽ thật để được cứu rỗi."
 > <cite>(II Tê-sa-lô-ni-ca 2:9-10)</cite>
 
-Hoạt động của nó được tỏ rõ qua bóng tối đang gia tăng nhanh chóng, vô số sai lầm, tà giáo, và ảo tưởng của những ngày sau rốt này. Sa-tan không chỉ dẫn dắt thế gian vào vòng nô lệ, mà những sự lừa dối của nó còn đang làm dậy men các hội thánh xưng danh Chúa chúng ta là Đức Chúa Giê-su. Sự bội đạo lớn sẽ phát triển thành bóng tối dày đặc như nửa đêm, không thể xuyên thấu như vải gai. Đối với dân sự Đức Chúa Trời, đó sẽ là một đêm thử thách, một đêm khóc lóc, một đêm bị bắt bớ vì cớ lẽ thật. Nhưng từ đêm tối tăm ấy, ánh sáng của Đức Chúa Trời sẽ chiếu ra. COL 414.3
+Hoạt động của nó được tỏ rõ qua bóng tối đang gia tăng nhanh chóng, vô số sai lầm, tà giáo, và ảo tưởng của những ngày sau rốt này. Sa-tan không chỉ dẫn dắt thế gian vào vòng nô lệ, mà những sự lừa dối của nó còn đang làm dậy men các Hội Thánh xưng danh Chúa chúng ta là Đức Chúa Giê-su. Sự bội đạo lớn sẽ phát triển thành bóng tối dày đặc như nửa đêm, không thể xuyên thấu như vải gai. Đối với dân sự Đức Chúa Trời, đó sẽ là một đêm thử thách, một đêm khóc lóc, một đêm bị bắt bớ vì cớ lẽ thật. Nhưng từ đêm tối tăm ấy, ánh sáng của Đức Chúa Trời sẽ chiếu ra. COL 414.3
 
 Ngài khiến "sự sáng soi từ trong sự tối tăm."
 
@@ -148,7 +148,7 @@ Trong nhà hội tại Na-xa-rét Ngài phán, "Thần của Chúa ngự trên t
 > "Há chẳng phải là chia bánh cho kẻ đói, đem những kẻ nghèo khổ đã bị đuổi đi về nhà mình, khi thấy kẻ trần truồng thì mặc cho, và chớ hề trớ trinh những kẻ cốt nhục mình, hay sao? Bấy giờ sự sáng ngươi sẽ hừng lên như sự ban mai, ngươi sẽ được chữa lành lập tức; sự công bình ngươi đi trước mặt ngươi, sự vinh hiển của Đức Giê-hô-va sẽ gìn giữ sau ngươi."
 > <cite>(Ê-sai 58:7-8)</cite> COL 417.1
 
-Như vậy, trong đêm tối tăm thuộc linh, vinh quang của Đức Chúa Trời phải chiếu ra qua hội thánh Ngài trong việc nâng đỡ những kẻ bị đè xuống và an ủi những kẻ than khóc. COL 417.2
+Như vậy, trong đêm tối tăm thuộc linh, vinh quang của Đức Chúa Trời phải chiếu ra qua Hội Thánh Ngài trong việc nâng đỡ những kẻ bị đè xuống và an ủi những kẻ than khóc. COL 417.2
 
 Xung quanh chúng ta, khắp nơi đều nghe tiếng than khóc của một thế giới đau buồn. Khắp nơi đều có những người thiếu thốn và cùng khổ. Chúng ta có bổn phận giúp đỡ để làm vơi đi và xoa dịu những nỗi cực nhọc và đau khổ của cuộc đời. COL 417.3
 
@@ -168,7 +168,7 @@ Trong ân tứ lớn lao và vô hạn lượng của Đức Thánh Linh chứa 
 
 Đó là đặc ân của mỗi linh hồn được trở nên một kênh sống mà qua đó Đức Chúa Trời có thể truyền đạt cho thế gian những kho báu của ân điển Ngài, sự phong phú khôn dò của Đấng Christ. Không có gì mà Đấng Christ ao ước bằng những người đại diện cho thế gian biết về Thánh Linh và tánh tình của Ngài. Không có gì mà thế gian cần bằng sự bày tỏ qua con người tình yêu thương của Đấng Cứu Thế. Cả thiên đàng đang chờ đợi những kênh mà qua đó có thể đổ xuống dầu thánh để trở nên niềm vui và phước lành cho tấm lòng con người. COL 419.2
 
-Đấng Christ đã chuẩn bị mọi điều để hội thánh Ngài trở nên một thân thể được biến đổi, được chiếu sáng bởi Ánh Sáng của thế gian, sở hữu vinh quang của Em-ma-nu-ên. Ấy là mục đích của Ngài rằng mỗi Cơ-đốc nhân được bao quanh bởi một bầu không khí thuộc linh của ánh sáng và bình an. Ngài mong muốn chúng ta bày tỏ niềm vui của chính Ngài trong cuộc sống của chúng ta. COL 419.3
+Đấng Christ đã chuẩn bị mọi điều để Hội Thánh Ngài trở nên một thân thể được biến đổi, được chiếu sáng bởi Ánh Sáng của thế gian, sở hữu vinh quang của Em-ma-nu-ên. Ấy là mục đích của Ngài rằng mỗi Cơ-đốc nhân được bao quanh bởi một bầu không khí thuộc linh của ánh sáng và bình an. Ngài mong muốn chúng ta bày tỏ niềm vui của chính Ngài trong cuộc sống của chúng ta. COL 419.3
 
 Sự ngự trị của Thánh Linh sẽ được bày tỏ qua sự tuôn chảy ra của tình yêu thương thiêng liêng. Sự đầy trọn của Đức Chúa Trời sẽ tuôn chảy qua tôi tớ loài người được biệt riêng, để được ban ra cho những người khác. COL 419.4
 

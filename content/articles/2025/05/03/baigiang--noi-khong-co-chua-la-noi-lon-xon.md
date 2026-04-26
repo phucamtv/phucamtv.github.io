@@ -26,7 +26,7 @@ Cả thiên hạ lúc đó đều có một giọng nói và một thứ tiếng
 
 ## Cám dỗ tự rạng danh mình
 
-Mục đích chính của việc xây tháp Ba-bên là để "rạng danh." Đây cũng là sự cám dỗ lớn nhất trong đời sống phục vụ Chúa: khi giảng dạy, khi ca hát, khi tổ chức chương trình — tất cả là để rạng danh ai? Nếu để rạng danh mình, chúng ta đang trở thành cư dân của Ba-bên, và Đức Chúa Trời sẽ hủy phá công việc đó. Ê-sai 14:12-15 cho thấy chính Lu-ci-phe, đang khi phục vụ Chúa, đã nổi lên lòng kiêu ngạo muốn bằng Đức Chúa Trời. Sự cám dỗ này có thể len lỏi vào bất cứ ai, kể cả mục sư, tín hữu, và toàn thể hội thánh.
+Mục đích chính của việc xây tháp Ba-bên là để "rạng danh." Đây cũng là sự cám dỗ lớn nhất trong đời sống phục vụ Chúa: khi giảng dạy, khi ca hát, khi tổ chức chương trình — tất cả là để rạng danh ai? Nếu để rạng danh mình, chúng ta đang trở thành cư dân của Ba-bên, và Đức Chúa Trời sẽ hủy phá công việc đó. Ê-sai 14:12-15 cho thấy chính Lu-ci-phe, đang khi phục vụ Chúa, đã nổi lên lòng kiêu ngạo muốn bằng Đức Chúa Trời. Sự cám dỗ này có thể len lỏi vào bất cứ ai, kể cả mục sư, tín hữu, và toàn thể Hội Thánh.
 
 ## Không tin vào lời hứa của Đức Chúa Trời
 
@@ -36,10 +36,10 @@ Sau cơn nước lụt, Đức Chúa Trời đã lập giao ước với Nô-ê 
 
 Khi kẻ ác đã quyết tâm tiến hành, dường như không gì có thể ngăn cản. Nhưng Đức Chúa Trời không hủy diệt họ — Ngài chỉ làm lộn xộn tiếng nói để công trình ác bất thành. Đây là hành động của tình thương: Ngài phá hủy công trình kiêu ngạo nhưng vẫn bảo tồn con người, và từ đó tách riêng một dòng dõi thuộc về Ngài.
 
-## Ba-by-lôn thuộc linh — lời cảnh báo cho hội thánh
+## Ba-by-lôn thuộc linh — lời cảnh báo cho Hội Thánh
 
 Kinh Thánh cảnh báo về một Ba-by-lôn thuộc linh — sự pha trộn giữa lẽ thật của Chúa và tập quán thế gian. Khải Huyền 14:8 nói Ba-by-lôn cho các dân tộc uống rượu tà dâm — tức là sự pha chế giữa đạo Chúa và phong tục đời. Khải Huyền 18:4 kêu gọi dân Chúa ra khỏi Ba-by-lôn để không dự phần tội lỗi và tai họa. Gia-cơ 3:16 cũng khẳng định: nơi nào có ghen tương tranh cạnh, nơi đó có sự lộn lạo và đủ mọi thứ ác.
 
 ## Kết luận
 
-Nơi nào không có Chúa, nơi đó là nơi lộn xộn. Tấm lòng nào không có Chúa là tấm lòng hoảng loạn, rối rắm. Gia đình nào không có Chúa là gia đình thiếu yêu thương, nhẫn nhịn, tha thứ. Hội thánh nào không có Chúa là hội thánh lộn xộn. Ê-sai 29:13 cảnh báo về những người miệng gần Chúa mà lòng cách xa Chúa. Nguyện xin Chúa giúp chúng ta thờ phượng Ngài bằng tấm lòng thật, sống thuần khiết theo lời Ngài, để không trở thành cư dân của Ba-by-lôn thuộc linh.
+Nơi nào không có Chúa, nơi đó là nơi lộn xộn. Tấm lòng nào không có Chúa là tấm lòng hoảng loạn, rối rắm. Gia đình nào không có Chúa là gia đình thiếu yêu thương, nhẫn nhịn, tha thứ. Hội Thánh nào không có Chúa là Hội Thánh lộn xộn. Ê-sai 29:13 cảnh báo về những người miệng gần Chúa mà lòng cách xa Chúa. Nguyện xin Chúa giúp chúng ta thờ phượng Ngài bằng tấm lòng thật, sống thuần khiết theo lời Ngài, để không trở thành cư dân của Ba-by-lôn thuộc linh.

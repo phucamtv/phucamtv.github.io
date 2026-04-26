@@ -50,13 +50,13 @@ Nước thiên đàng giống như người kia gieo giống tốt trong ruộng
 
 **Thứ nhất, luôn có lực lượng thù địch.** Ma quỷ và các quỷ sứ vẫn hoạt động từ khi cám dỗ A-đam, Ê-va đến nay. Chưa một quỷ sứ nào bị tiêu diệt, và chúng ngày càng nhiều kinh nghiệm hơn trong việc cám dỗ con người.
 
-**Thứ hai, rất khó phân biệt thật giả.** Cỏ lùng và lúa mì ở Israel giống nhau đến nỗi ngay cả người sành sỏi cũng có thể nhầm lẫn. Chỉ khi trổ bông mới phân biệt được. Cũng vậy, trong hội thánh ta không thể đánh giá ai là tín đồ thật, ai là giả, vì chỉ nhìn được bề ngoài.
+**Thứ hai, rất khó phân biệt thật giả.** Cỏ lùng và lúa mì ở Israel giống nhau đến nỗi ngay cả người sành sỏi cũng có thể nhầm lẫn. Chỉ khi trổ bông mới phân biệt được. Cũng vậy, trong Hội Thánh ta không thể đánh giá ai là tín đồ thật, ai là giả, vì chỉ nhìn được bề ngoài.
 
 **Thứ ba, đừng vội phán xét.** Khi không có khả năng phân biệt thật giả, chúng ta không nên tự cho mình quyền khẳng định ai đúng ai sai, ai chánh đạo ai tà đạo. Làm vậy là phô bày sự hạn chế của chính mình.
 
 **Thứ tư, sẽ có ngày phân minh.** Đến mùa gặt — ngày tận thế — mọi thứ sẽ lộ rõ. Trắng ra trắng, đen ra đen, thật ra thật, giả ra giả.
 
-**Thứ năm, hãy nhường quyền phán xét cho Chúa.** Loại bỏ người khác khỏi hội thánh chỉ vì họ có ý kiến khác biệt, hay thanh trừng để giữ "bình yên," thực chất là tội ác — là tước quyền phán xét của Đức Chúa Trời. Hội thánh là nơi tập hợp những người tội lỗi cần sự tha thứ, không phải nơi chỉ dành cho những người hoàn hảo.
+**Thứ năm, hãy nhường quyền phán xét cho Chúa.** Loại bỏ người khác khỏi Hội Thánh chỉ vì họ có ý kiến khác biệt, hay thanh trừng để giữ "bình yên," thực chất là tội ác — là tước quyền phán xét của Đức Chúa Trời. Hội Thánh là nơi tập hợp những người tội lỗi cần sự tha thứ, không phải nơi chỉ dành cho những người hoàn hảo.
 
 ---
 

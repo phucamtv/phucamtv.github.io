@@ -48,7 +48,7 @@ Chữ "rờ" thường gợi đến hành động chạm vào vật chất — r
 
 Thi Thiên 55:22 kêu gọi: hãy trao gánh nặng cho Đức Giê-hô-va, Ngài sẽ nâng đỡ, Ngài chẳng hề cho người công bình bị rúng động. Mục sư kể lại câu chuyện một người phụ nữ đến nhà thờ trong nước mắt — bị chồng đánh đuổi ra khỏi nhà, phải ngủ ngoài công viên suốt đêm, rồi sáng về nhà lại bị con chửi mắng. Cuộc sống đau khổ đến mức không nói nên lời.
 
-Nhiều người trong hội thánh cũng đã hoặc đang trải qua những nỗi đau tương tự. Nhưng điểm khác biệt là chúng ta biết Ngài — Đấng hiểu mọi tâm trạng, biết mọi điều đang xảy ra, và mời gọi chúng ta trao gánh nặng cho Ngài thay vì tự mình gánh chịu.
+Nhiều người trong Hội Thánh cũng đã hoặc đang trải qua những nỗi đau tương tự. Nhưng điểm khác biệt là chúng ta biết Ngài — Đấng hiểu mọi tâm trạng, biết mọi điều đang xảy ra, và mời gọi chúng ta trao gánh nặng cho Ngài thay vì tự mình gánh chịu.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Bầu Không Khí Tràn Ngập Thánh Linh"
 date: 2025-05-04
-description: "Bài giảng Công Vụ 2:1-13 về sự kiện Thánh Linh giáng xuống trong ngày lễ Ngũ Tuần, vai trò của Đức Thánh Linh trong hội thánh đầu tiên, và ý nghĩa của lưỡi bằng lửa đối với đời sống người tin Chúa."
+description: "Bài giảng Công Vụ 2:1-13 về sự kiện Thánh Linh giáng xuống trong ngày lễ Ngũ Tuần, vai trò của Đức Thánh Linh trong Hội Thánh đầu tiên, và ý nghĩa của lưỡi bằng lửa đối với đời sống người tin Chúa."
 tags: ["Đức Thánh Linh", "Công Vụ Các Sứ Đồ", "Lễ Ngũ Tuần", "Hội Thánh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,11 +14,11 @@ draft: false
 
 ## Giới thiệu
 
-Bài giảng dựa trên Công Vụ Các Sứ Đồ 2:1-13, trình bày về sự kiện Đức Thánh Linh giáng xuống trên các môn đồ trong ngày lễ Ngũ Tuần — một sự kiện vô cùng quan trọng đánh dấu sự hình thành hội thánh đầu tiên của Đức Chúa Trời.
+Bài giảng dựa trên Công Vụ Các Sứ Đồ 2:1-13, trình bày về sự kiện Đức Thánh Linh giáng xuống trên các môn đồ trong ngày lễ Ngũ Tuần — một sự kiện vô cùng quan trọng đánh dấu sự hình thành Hội Thánh đầu tiên của Đức Chúa Trời.
 
 ## Thánh Linh đã hiện diện từ trước
 
-Chúng ta dễ hiểu lầm rằng Thánh Linh chỉ mới giáng xuống vào ngày lễ Ngũ Tuần. Thật ra, Thánh Linh đã có từ buổi sáng thế (Sáng Thế Ký 1:2), đã hành động trong con người từ trước thời kỳ nước lụt. Tuy nhiên, lễ Ngũ Tuần là một dấu ấn đặc biệt khi Thánh Linh tuôn đổ một cách đầy dẫy, dư dật để chuẩn bị cho hội thánh có đầy đủ năng quyền phát triển.
+Chúng ta dễ hiểu lầm rằng Thánh Linh chỉ mới giáng xuống vào ngày lễ Ngũ Tuần. Thật ra, Thánh Linh đã có từ buổi sáng thế (Sáng Thế Ký 1:2), đã hành động trong con người từ trước thời kỳ nước lụt. Tuy nhiên, lễ Ngũ Tuần là một dấu ấn đặc biệt khi Thánh Linh tuôn đổ một cách đầy dẫy, dư dật để chuẩn bị cho Hội Thánh có đầy đủ năng quyền phát triển.
 
 ## Công tác của Đức Thánh Linh trong sách Công Vụ
 
@@ -46,7 +46,7 @@ Lễ Ngũ Tuần là một trong ba lễ lớn của người Do Thái (cùng v�
 
 ### Tại sao là lưỡi?
 
-Sứ mạng của hội thánh là nói — nói về Chúa cho mọi người, mở miệng làm chứng để người khác tin Chúa mà được cứu. Giống như trường hợp tiên tri Ê-sai được thanh tẩy môi miệng (Ê-sai 6), lưỡi bằng lửa của Thánh Linh thanh tẩy để lưỡi của các môn đồ được Thánh Linh kiểm soát.
+Sứ mạng của Hội Thánh là nói — nói về Chúa cho mọi người, mở miệng làm chứng để người khác tin Chúa mà được cứu. Giống như trường hợp tiên tri Ê-sai được thanh tẩy môi miệng (Ê-sai 6), lưỡi bằng lửa của Thánh Linh thanh tẩy để lưỡi của các môn đồ được Thánh Linh kiểm soát.
 
 ### Bốn công dụng của lửa
 
@@ -64,4 +64,4 @@ Kinh Thánh nói đến hai dạng nói tiếng lạ:
 
 ## Kết luận
 
-Hội thánh đầu tiên là một hội thánh của Thánh Linh — hoạt động bởi Thánh Linh, có năng lực từ Thánh Linh. Nhờ đó họ yêu thương, hiệp nhất và sẵn sàng hy sinh cho nhau. Mỗi chúng ta khi đã tin Chúa cần để Thánh Linh làm chủ cuộc đời, kiểm soát lời nói, để có thể sống và làm chứng xứng đáng cho Ngài.
+Hội Thánh đầu tiên là một Hội Thánh của Thánh Linh — hoạt động bởi Thánh Linh, có năng lực từ Thánh Linh. Nhờ đó họ yêu thương, hiệp nhất và sẵn sàng hy sinh cho nhau. Mỗi chúng ta khi đã tin Chúa cần để Thánh Linh làm chủ cuộc đời, kiểm soát lời nói, để có thể sống và làm chứng xứng đáng cho Ngài.

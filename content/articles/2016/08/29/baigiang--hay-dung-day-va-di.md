@@ -32,7 +32,7 @@ Nếu chúng ta có niềm tin vào sự chữa lành của Đức Chúa Trời 
 
 Đức Chúa Giê-su hỏi người bại liệt một câu tưởng chừng thừa thãi: "Ngươi có muốn được lành không?" Ai nằm đây mà chẳng muốn được lành? Nhưng Chúa không hỏi lạc lẽo. Ngài muốn xác định lại sự khao khát thật sự trong lòng người đàn ông ấy.
 
-Đôi khi chúng ta nghĩ rằng mình muốn, nhưng chưa thật sự muốn. Những lời cầu nguyện của chúng ta đôi khi chỉ là những câu trên cửa miệng — xin cho hội thánh phát triển, nhưng không nỗ lực cụ thể nào. Phi-líp 2:13 nhắc nhở: Đức Chúa Trời cảm động lòng anh em vừa muốn vừa làm theo ý tốt của Ngài. Sự mong muốn phải đi đôi với nỗ lực thật sự.
+Đôi khi chúng ta nghĩ rằng mình muốn, nhưng chưa thật sự muốn. Những lời cầu nguyện của chúng ta đôi khi chỉ là những câu trên cửa miệng — xin cho Hội Thánh phát triển, nhưng không nỗ lực cụ thể nào. Phi-líp 2:13 nhắc nhở: Đức Chúa Trời cảm động lòng anh em vừa muốn vừa làm theo ý tốt của Ngài. Sự mong muốn phải đi đôi với nỗ lực thật sự.
 
 ---
 

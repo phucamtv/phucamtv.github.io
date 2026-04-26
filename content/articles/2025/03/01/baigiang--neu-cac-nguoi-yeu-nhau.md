@@ -25,7 +25,7 @@ Phần đầu tiên của bài giảng đặt ra vấn đề: nếu chúng ta kh
 
 **Dễ dàng ghen ghét nhau.** Theo Ma-thi-ơ đoạn 24 câu 10, Sa-tan không bao giờ muốn chúng ta trở thành con cái yêu dấu và môn đồ của Chúa. Nó luôn tìm đủ mọi cách, mọi thủ đoạn để lôi kéo chúng ta xa vào bẫy trước cám dỗ. Nó làm cho người này tự phụ, người kia kiêu căng, sinh ra phản nghịch và ghen ghét lẫn nhau.
 
-**Gây ra rầy rà, bất hòa trong hội thánh.** Sứ đồ Phao-lô trong 2 Cô-rinh-tô đoạn 12 câu 20 cũng cảnh báo về những sự rầy rà, ghen ghét, nóng giận, bất hòa, nói hành nói xấu, kiêu căng và hỗn loạn trong hội thánh. Phao-lô không hề ngán ngại đối đầu với kẻ ác bên ngoài, nhưng ông lo lắng nhất khi nhìn thấy anh em trong hội thánh đối xử tệ bạc với nhau, bởi Sa-tan sẽ nhân cơ hội đó để lôi kéo chúng ta xa rời hội thánh và từ bỏ Chúa.
+**Gây ra rầy rà, bất hòa trong Hội Thánh.** Sứ đồ Phao-lô trong 2 Cô-rinh-tô đoạn 12 câu 20 cũng cảnh báo về những sự rầy rà, ghen ghét, nóng giận, bất hòa, nói hành nói xấu, kiêu căng và hỗn loạn trong Hội Thánh. Phao-lô không hề ngán ngại đối đầu với kẻ ác bên ngoài, nhưng ông lo lắng nhất khi nhìn thấy anh em trong Hội Thánh đối xử tệ bạc với nhau, bởi Sa-tan sẽ nhân cơ hội đó để lôi kéo chúng ta xa rời Hội Thánh và từ bỏ Chúa.
 
 **Dẫn đến tham muốn và tranh cạnh.** Sứ đồ Gia-cơ trong đoạn 4 câu 2 nhắc nhở rằng anh em tham muốn mà chẳng được chi, giết người và ghen ghét mà chẳng được việc gì. Khi ghen ghét anh em mình, chúng ta có thể làm ngơ trước sự nguy hiểm của họ, và điều đó chẳng khác nào phạm tội giết người.
 
@@ -39,7 +39,7 @@ Phần đầu tiên của bài giảng đặt ra vấn đề: nếu chúng ta kh
 
 **Được cảm hóa bởi tình yêu thương của Đấng Christ.** Sứ đồ Phao-lô đã xúc động thốt lên trong 2 Cô-rinh-tô đoạn 5 câu 14 rằng tình yêu thương của Đấng Christ đã cảm động ông. Chính Phao-lô trước kia là Sau-lơ, một người bắt bớ và sát hại con cái Chúa, nhưng đã được Chúa tha thứ và biến đổi thành một môn đồ kiệt xuất nhờ tình yêu thương bao la của Ngài.
 
-**Mắc nợ về tình yêu thương.** Rô-ma đoạn 13 câu 8 khuyên rằng đừng mắc nợ ai chi hết, chỉ mắc nợ sự yêu thương nhau mà thôi. Mắc nợ tình yêu thương thì trả bằng tình yêu thương, trả tới trả lui cũng bằng tình yêu thương. Điều này sẽ đem lại sức mạnh cho hội thánh và xây đắp một cuộc đời hạnh phúc cho bản thân, gia đình và hội thánh.
+**Mắc nợ về tình yêu thương.** Rô-ma đoạn 13 câu 8 khuyên rằng đừng mắc nợ ai chi hết, chỉ mắc nợ sự yêu thương nhau mà thôi. Mắc nợ tình yêu thương thì trả bằng tình yêu thương, trả tới trả lui cũng bằng tình yêu thương. Điều này sẽ đem lại sức mạnh cho Hội Thánh và xây đắp một cuộc đời hạnh phúc cho bản thân, gia đình và Hội Thánh.
 
 ## Làm gì để giữ tình yêu thương bền vững?
 

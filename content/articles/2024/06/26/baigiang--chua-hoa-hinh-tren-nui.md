@@ -33,9 +33,9 @@ Chúa biến hóa trước mặt các môn đồ -- mặt Ngài sáng lòa như 
 
 ## Tại sao Chúa chọn ba môn đồ
 
-Có người đặt vấn đề: phải chăng Chúa thiên vị khi luôn đem Phi-e-rơ, Gia-cơ và Giăng theo bên mình? Câu trả lời nằm ở sự công bằng đúng nghĩa. Công bằng không có nghĩa là mọi người đều được đối xử y hệt nhau. Ngay cả trên thiên đàng, phần thưởng cũng tùy theo việc mỗi người làm. Chúa thấy nơi ba môn đồ này những tố chất lãnh đạo để có thể dẫn dắt hội thánh trong giai đoạn ban đầu.
+Có người đặt vấn đề: phải chăng Chúa thiên vị khi luôn đem Phi-e-rơ, Gia-cơ và Giăng theo bên mình? Câu trả lời nằm ở sự công bằng đúng nghĩa. Công bằng không có nghĩa là mọi người đều được đối xử y hệt nhau. Ngay cả trên thiên đàng, phần thưởng cũng tùy theo việc mỗi người làm. Chúa thấy nơi ba môn đồ này những tố chất lãnh đạo để có thể dẫn dắt Hội Thánh trong giai đoạn ban đầu.
 
-Tuy nhiên, điều này không cho phép chúng ta lạm dụng để chia phe phái trong hội thánh. Chúng ta không được bè đảng với mục đích chèn ép hay tìm lợi ích riêng, nhưng trong tình cảm tự nhiên, việc thân thiết với một số người hơn là điều bình thường.
+Tuy nhiên, điều này không cho phép chúng ta lạm dụng để chia phe phái trong Hội Thánh. Chúng ta không được bè đảng với mục đích chèn ép hay tìm lợi ích riêng, nhưng trong tình cảm tự nhiên, việc thân thiết với một số người hơn là điều bình thường.
 
 ## Môi-se và Ê-li xuất hiện
 

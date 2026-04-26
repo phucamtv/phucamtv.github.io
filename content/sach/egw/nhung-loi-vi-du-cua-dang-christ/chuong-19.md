@@ -80,10 +80,10 @@ Và viết cho Tít, ông nói: "Vả, có nhiều người nhất là trong nh�
 
 Đức Chúa Giê-su phán:
 
-> "Nếu anh em ngươi phạm tội cùng ngươi, thì hãy trách người khi chỉ có ngươi với một mình người; như người nghe lời, thì ngươi được anh em lại. Ví bằng không nghe, hãy mời một hai người đi với ngươi, hầu cứ lời hai ba người làm chứng mà mọi việc được chắc chắn. Nếu người không chịu nghe các người đó, thì hãy cáo cùng Hội thánh, lại nếu người không chịu nghe Hội thánh, thì hãy coi người như kẻ ngoại và kẻ thâu thuế vậy."
+> "Nếu anh em ngươi phạm tội cùng ngươi, thì hãy trách người khi chỉ có ngươi với một mình người; như người nghe lời, thì ngươi được anh em lại. Ví bằng không nghe, hãy mời một hai người đi với ngươi, hầu cứ lời hai ba người làm chứng mà mọi việc được chắc chắn. Nếu người không chịu nghe các người đó, thì hãy cáo cùng Hội Thánh, lại nếu người không chịu nghe Hội Thánh, thì hãy coi người như kẻ ngoại và kẻ thâu thuế vậy."
 > <cite>(Ma-thi-ơ 18:15-17)</cite> COL 248.4
 
-Chúa chúng ta dạy rằng những vấn đề khó khăn giữa các Cơ-đốc nhân phải được giải quyết trong hội thánh. Chúng không nên được phơi bày trước những người không kính sợ Đức Chúa Trời. Nếu một Cơ-đốc nhân bị anh em mình làm điều sai trái, thì đừng kiện lên những kẻ chẳng tin tại tòa án. Hãy làm theo lời chỉ dẫn mà Đấng Christ đã ban. Thay vì tìm cách trả thù, hãy tìm cách cứu anh em mình. Đức Chúa Trời sẽ bảo vệ quyền lợi của những ai yêu mến và kính sợ Ngài, và chúng ta có thể tin cậy giao phó trường hợp mình cho Đấng phán xét công bình. COL 248.5
+Chúa chúng ta dạy rằng những vấn đề khó khăn giữa các Cơ-đốc nhân phải được giải quyết trong Hội Thánh. Chúng không nên được phơi bày trước những người không kính sợ Đức Chúa Trời. Nếu một Cơ-đốc nhân bị anh em mình làm điều sai trái, thì đừng kiện lên những kẻ chẳng tin tại tòa án. Hãy làm theo lời chỉ dẫn mà Đấng Christ đã ban. Thay vì tìm cách trả thù, hãy tìm cách cứu anh em mình. Đức Chúa Trời sẽ bảo vệ quyền lợi của những ai yêu mến và kính sợ Ngài, và chúng ta có thể tin cậy giao phó trường hợp mình cho Đấng phán xét công bình. COL 248.5
 
 Rất nhiều khi sai trái cứ được lặp đi lặp lại, và người phạm lỗi thú nhận lỗi lầm của mình, thì người bị xúc phạm trở nên mệt mỏi, và nghĩ rằng mình đã tha thứ khá đủ rồi. Nhưng Đấng Cứu Thế đã nói rõ với chúng ta cách đối xử với những người lầm lạc:
 

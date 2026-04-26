@@ -44,4 +44,4 @@ Thói quen là con dao hai lưỡi: thói quen tốt giúp chúng ta hành độ
 
 ## Ngày nay chúng ta phải làm gì?
 
-Giê-rê-mi 26:13 kêu gọi: bây giờ các ngươi hãy sửa lại đường lối và việc làm của mình, hãy vâng theo tiếng của Giê-hô-va Đức Chúa Trời. Nê-hê-mi đã chấn chỉnh Israel. Ngày nay, mỗi chúng ta cần chấn chỉnh đời sống cá nhân, gia đình và hội thánh — bắt đầu từ việc trở lại với Lời Chúa, sống phân rẽ khỏi thế gian, trung tín trong sự dâng hiến, giữ ngày thánh và xây dựng gia đình trong đường lối của Ngài.
+Giê-rê-mi 26:13 kêu gọi: bây giờ các ngươi hãy sửa lại đường lối và việc làm của mình, hãy vâng theo tiếng của Giê-hô-va Đức Chúa Trời. Nê-hê-mi đã chấn chỉnh Israel. Ngày nay, mỗi chúng ta cần chấn chỉnh đời sống cá nhân, gia đình và Hội Thánh — bắt đầu từ việc trở lại với Lời Chúa, sống phân rẽ khỏi thế gian, trung tín trong sự dâng hiến, giữ ngày thánh và xây dựng gia đình trong đường lối của Ngài.

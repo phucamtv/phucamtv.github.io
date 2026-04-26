@@ -1,7 +1,7 @@
 ---
 title: "Bẹt-găm - Hội Thánh dung túng tội lỗi"
 date: 2023-03-09
-description: "Mục sư Đặng Thanh Phong giảng về thư gửi hội thánh Bẹt-găm trong Khải Huyền 2:12-17 — hội thánh đứng vững giữa ngôi quỷ Sa-tan nhưng lại dung túng đạo Ba-la-am và đạo Ni-cô-la, dẫn đến sự hòa đồng với thế gian và mất quyền năng của Đức Chúa Trời."
+description: "Mục sư Đặng Thanh Phong giảng về thư gửi Hội Thánh Bẹt-găm trong Khải Huyền 2:12-17 — Hội Thánh đứng vững giữa ngôi quỷ Sa-tan nhưng lại dung túng đạo Ba-la-am và đạo Ni-cô-la, dẫn đến sự hòa đồng với thế gian và mất quyền năng của Đức Chúa Trời."
 tags: ["Khải Huyền", "Tiên Tri", "Đức Chúa Giê-su Christ", "Ba-la-am", "Hội Thánh", "Tội Lỗi"]
 authors: ["dang-thanh-phong"]
 plugins: [youtube]
@@ -16,9 +16,9 @@ notion_id: 16af2c21-2b04-49ba-8e91-9773a0130547
 
 ## Bẹt-găm: Hội Thánh Đứng Vững Giữa Ngôi Quỷ Sa-tan
 
-Trong chuỗi bài giảng về bảy bức thư gửi cho bảy hội thánh trong Khải Huyền chương 2 và 3, Mục sư Đặng Thanh Phong dẫn dắt hội thánh đến với bức thư thứ ba — thư gửi cho hội thánh Bẹt-găm (Khải Huyền 2:12-17). Đây là hội thánh có một địa danh đặc biệt đến mức Đức Chúa Giê-su tự mô tả nó là "ngôi của quỷ Sa-tan" — trung tâm của quyền lực tối tăm.
+Trong chuỗi bài giảng về bảy bức thư gửi cho bảy Hội Thánh trong Khải Huyền chương 2 và 3, Mục sư Đặng Thanh Phong dẫn dắt Hội Thánh đến với bức thư thứ ba — thư gửi cho Hội Thánh Bẹt-găm (Khải Huyền 2:12-17). Đây là Hội Thánh có một địa danh đặc biệt đến mức Đức Chúa Giê-su tự mô tả nó là "ngôi của quỷ Sa-tan" — trung tâm của quyền lực tối tăm.
 
-Dù vậy, Chúa vẫn khen ngợi hội thánh Bẹt-găm vì đã đứng vững trong hoàn cảnh vô cùng khó khăn đó. Họ vững lòng tôn danh Chúa, không chối đạo — ngay cả khi An-ti-ba, người làm chứng trung thành, đã bị giết ngay tại đó. Đứng vững giữa ngôi của quỷ Sa-tan mà không bị nuốt mất là một thành tích đáng kể, nhưng câu chuyện không dừng lại ở đó.
+Dù vậy, Chúa vẫn khen ngợi Hội Thánh Bẹt-găm vì đã đứng vững trong hoàn cảnh vô cùng khó khăn đó. Họ vững lòng tôn danh Chúa, không chối đạo — ngay cả khi An-ti-ba, người làm chứng trung thành, đã bị giết ngay tại đó. Đứng vững giữa ngôi của quỷ Sa-tan mà không bị nuốt mất là một thành tích đáng kể, nhưng câu chuyện không dừng lại ở đó.
 
 ---
 
@@ -32,7 +32,7 @@ Khi Đức Chúa Giê-su đến thế gian, Sa-tan đã đề nghị dâng cho N
 
 ## Đạo Ba-la-am: Mưu Kế Hòa Đồng Với Thế Gian
 
-Điều Chúa trách hội thánh Bẹt-găm là có người theo "đạo Ba-la-am" — một mưu kế đã thành công từ thời Cựu Ước. Câu chuyện được ghi lại trong Dân Số Ký chương 22-25 và 31. Ba-lát, vua Mô-áp, đã thuê Ba-la-am đến rủa sả dân Y-sơ-ra-ên. Dù Đức Chúa Trời ngăn không cho Ba-la-am mở miệng rủa sả — thậm chí biến những lời rủa sả thành lời ban phước — nhưng Ba-la-am vẫn bày ra một mưu kế thâm độc hơn cho Ba-lát.
+Điều Chúa trách Hội Thánh Bẹt-găm là có người theo "đạo Ba-la-am" — một mưu kế đã thành công từ thời Cựu Ước. Câu chuyện được ghi lại trong Dân Số Ký chương 22-25 và 31. Ba-lát, vua Mô-áp, đã thuê Ba-la-am đến rủa sả dân Y-sơ-ra-ên. Dù Đức Chúa Trời ngăn không cho Ba-la-am mở miệng rủa sả — thậm chí biến những lời rủa sả thành lời ban phước — nhưng Ba-la-am vẫn bày ra một mưu kế thâm độc hơn cho Ba-lát.
 
 Mưu kế đó là: tuyển chọn các cô gái người Ca-na-an đóng trại gần dân Y-sơ-ra-ên để dụ dỗ họ vào tội tà dâm và thờ cúng thần tượng. Kết quả là dân sự của Chúa tự mình phạm tội, Đức Chúa Trời nổi giận, và chính Ngài phải xử phạt dân Ngài. Kẻ thù không cần đánh trực tiếp — dân sự tự diệt. Đây là chiến lược "con rắn": thay vì tấn công trực tiện như "sư tử", Sa-tan dùng sự quyến rũ và hòa đồng để dẫn con cái Chúa vào con đường phạm tội.
 
@@ -40,9 +40,9 @@ Mưu kế đó là: tuyển chọn các cô gái người Ca-na-an đóng trại
 
 ## Hội Thánh Dung Túng Tội Lỗi
 
-Đến thời hội thánh Bẹt-găm, chiến lược Ba-la-am không còn là việc của một cá nhân mà đã trở thành cả một "đạo" — một phong trào có tổ chức, có đường lối, có mục đích rõ ràng: biến đạo Chúa trở nên hòa đồng với thế gian. Hội thánh không còn tách biệt với thế gian; họ dung túng những người ăn thịt cúng thần tượng và sống như người ngoại đạo ngay trong lòng hội thánh.
+Đến thời Hội Thánh Bẹt-găm, chiến lược Ba-la-am không còn là việc của một cá nhân mà đã trở thành cả một "đạo" — một phong trào có tổ chức, có đường lối, có mục đích rõ ràng: biến đạo Chúa trở nên hòa đồng với thế gian. Hội Thánh không còn tách biệt với thế gian; họ dung túng những người ăn thịt cúng thần tượng và sống như người ngoại đạo ngay trong lòng Hội Thánh.
 
-Hội thánh cũng có những người theo đạo Ni-cô-la — một đường lối khác cũng nghịch lại với Chúa. Chúa cảnh báo rất nghiêm: "Hãy ăn năn đi, bằng chẳng vậy, ta sẽ đến mau kiếm cùng ngươi, lấy thanh gươm ở miệng ta mà giao chiến cùng chúng nó." Sự dung túng tội lỗi trong hội thánh không phải là tình yêu thương — đó là sự phản bội đối với Đấng đã mua chuộc hội thánh bằng huyết Ngài. Khải Huyền 18:4 vang lên lời kêu gọi: "Hỡi dân ta, hãy ra khỏi Babylon, kẻo các ngươi dự phần tội lỗi của nó."
+Hội Thánh cũng có những người theo đạo Ni-cô-la — một đường lối khác cũng nghịch lại với Chúa. Chúa cảnh báo rất nghiêm: "Hãy ăn năn đi, bằng chẳng vậy, ta sẽ đến mau kiếm cùng ngươi, lấy thanh gươm ở miệng ta mà giao chiến cùng chúng nó." Sự dung túng tội lỗi trong Hội Thánh không phải là tình yêu thương — đó là sự phản bội đối với Đấng đã mua chuộc Hội Thánh bằng huyết Ngài. Khải Huyền 18:4 vang lên lời kêu gọi: "Hỡi dân ta, hãy ra khỏi Babylon, kẻo các ngươi dự phần tội lỗi của nó."
 
 ---
 
@@ -50,7 +50,7 @@ Hội thánh cũng có những người theo đạo Ni-cô-la — một đườn
 
 Đức Chúa Giê-su tự giới thiệu trong bức thư này là "Đấng có thanh gươm nhọn hai lưỡi" — hình ảnh ám chỉ Lời của Đức Chúa Trời, được mô tả trong Hê-bơ-rơ 4:12 là "sống và linh nghiệm, sắc hơn gươm hai lưỡi." Lời Chúa không bao giờ trở về vô hiệu: ai tiếp nhận thì trở nên tốt hơn, ai chống lại thì trở nên xấu hơn — không có trạng thái trung gian.
 
-Để chống lại quyền lực tối tăm đang lan tràn ngày càng rộng, con cái Chúa không có vũ khí nào hữu hiệu hơn là Lời của Đức Chúa Trời. Mục sư nhấn mạnh: hội thánh cần bám sát Kinh Thánh, rao giảng Lời Chúa ra, và tích cực phân phát Kinh Thánh cho người chưa biết Chúa thay vì đầu tư vào những sách vở không có giá trị bằng chính Lời Chúa. Chỉ có Lời Chúa mới tiêu diệt được những giáo lý sai lầm và bảo vệ hội thánh trong thời kỳ cuối cùng.
+Để chống lại quyền lực tối tăm đang lan tràn ngày càng rộng, con cái Chúa không có vũ khí nào hữu hiệu hơn là Lời của Đức Chúa Trời. Mục sư nhấn mạnh: Hội Thánh cần bám sát Kinh Thánh, rao giảng Lời Chúa ra, và tích cực phân phát Kinh Thánh cho người chưa biết Chúa thay vì đầu tư vào những sách vở không có giá trị bằng chính Lời Chúa. Chỉ có Lời Chúa mới tiêu diệt được những giáo lý sai lầm và bảo vệ Hội Thánh trong thời kỳ cuối cùng.
 
 ---
 

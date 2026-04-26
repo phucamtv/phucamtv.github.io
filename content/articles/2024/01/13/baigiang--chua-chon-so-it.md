@@ -60,4 +60,4 @@ Giăng 10:27 chép: chiên ta nghe tiếng ta, ta quen nó và nó theo ta. Gi�
 
 ## Kết Luận
 
-Bài giảng khích lệ mỗi tín hữu — dù thuộc nhóm nhỏ hay hội thánh lớn — rằng Đức Chúa Trời chọn số ít không phải vì yếu kém, mà vì tình yêu. Điều Ngài muốn ở chúng ta là rèn luyện tư chất đặc biệt giống Ngài, sống trong tình yêu của Ngài, và vâng giữ trọn vẹn điều răn Ngài. Hãy vững tin: dù ít người, nhưng nếu ở trên cùng tần số với Chúa, chúng ta sẽ kinh nghiệm quyền năng và sự chiến thắng vĩ đại mà Ngài dành sẵn.
+Bài giảng khích lệ mỗi tín hữu — dù thuộc nhóm nhỏ hay Hội Thánh lớn — rằng Đức Chúa Trời chọn số ít không phải vì yếu kém, mà vì tình yêu. Điều Ngài muốn ở chúng ta là rèn luyện tư chất đặc biệt giống Ngài, sống trong tình yêu của Ngài, và vâng giữ trọn vẹn điều răn Ngài. Hãy vững tin: dù ít người, nhưng nếu ở trên cùng tần số với Chúa, chúng ta sẽ kinh nghiệm quyền năng và sự chiến thắng vĩ đại mà Ngài dành sẵn.

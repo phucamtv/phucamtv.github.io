@@ -2,7 +2,7 @@
 title: "Sự Tà Dâm Ô Uế Của Ba-by-lôn — Khi Hội Thánh Ngoại Tình Với Chính Trị"
 date: 2014-05-11
 url: /baigiang/su-ta-dam-o-ue-cua-ba-by-lon/
-description: "Mục sư Stephen Bohr phân tích ý nghĩa sự tà dâm của Ba-by-lôn trong Khải Huyền 17 — sự liên minh bất chính giữa hội thánh bội đạo và quyền lực chính trị — qua lăng kính phiên tòa xét xử Đức Chúa Giê-su và bài học cho thời kỳ cuối cùng."
+description: "Mục sư Stephen Bohr phân tích ý nghĩa sự tà dâm của Ba-by-lôn trong Khải Huyền 17 — sự liên minh bất chính giữa Hội Thánh bội đạo và quyền lực chính trị — qua lăng kính phiên tòa xét xử Đức Chúa Giê-su và bài học cho thời kỳ cuối cùng."
 tags: ["Stephen Bohr", "Ba-by-lôn", "Khải Huyền 17", "Sự Tà Dâm", "Tách Biệt Giáo Hội Và Nhà Nước", "Phiên Tòa Của Đức Chúa Giê-su", "Lời Tiên Tri", "Bách Hại"]
 authors: ["stephen-bohr"]
 plugins: [youtube]
@@ -12,7 +12,7 @@ draft: false
 
 {{< youtube "RvSSc5hx6t4" >}}
 
-Trong loạt bài giảng về Ba-by-lôn, mục sư Stephen Bohr đã lần lượt phân tích danh tính và rượu giáo lý giả của Ba-by-lôn. Bài giảng này đi vào chủ đề thứ ba: sự tà dâm — tức mối liên hệ bất chính giữa hội thánh bội đạo và các vua trên đất. Khải Huyền 17:1-2 mô tả một kỵ nữ ngồi trên nhiều dòng nước, và các vua trên đất đã phạm tội tà dâm với nàng. Mục sư Bohr lập luận rằng "tà dâm" trong ngôn ngữ tiên tri chính là việc hội thánh sử dụng quyền lực nhà nước để cưỡng ép lương tâm con người — và khuôn mẫu này đã xuất hiện ngay từ phiên tòa xét xử Đức Chúa Giê-su.
+Trong loạt bài giảng về Ba-by-lôn, mục sư Stephen Bohr đã lần lượt phân tích danh tính và rượu giáo lý giả của Ba-by-lôn. Bài giảng này đi vào chủ đề thứ ba: sự tà dâm — tức mối liên hệ bất chính giữa Hội Thánh bội đạo và các vua trên đất. Khải Huyền 17:1-2 mô tả một kỵ nữ ngồi trên nhiều dòng nước, và các vua trên đất đã phạm tội tà dâm với nàng. Mục sư Bohr lập luận rằng "tà dâm" trong ngôn ngữ tiên tri chính là việc Hội Thánh sử dụng quyền lực nhà nước để cưỡng ép lương tâm con người — và khuôn mẫu này đã xuất hiện ngay từ phiên tòa xét xử Đức Chúa Giê-su.
 
 ---
 
@@ -42,10 +42,10 @@ Phi-lát hiểu rõ ranh giới giữa hai vương quốc hơn cả chính các 
 
 ## Hai Thanh Gươm — Của Hội Thánh Và Của Nhà Nước
 
-Kinh Thánh đề cập đến hai thanh gươm với hai mục đích hoàn toàn khác nhau. Gươm của Hội Thánh là gươm của Đức Thánh Linh, tức Lời Đức Chúa Trời (Ê-phê-sô 6:17) — được sử dụng qua sự rao giảng để thay đổi lòng người. Gươm của nhà nước là quyền lực cưỡng chế để duy trì trật tự dân sự (Rô-ma 13:1-5) — trừng phạt kẻ làm ác và bảo vệ người lương thiện. Mục sư Bohr nhấn mạnh rằng vấn đề phát sinh khi hội thánh mượn gươm của nhà nước — tức dùng quyền lực chính trị để ép buộc tín ngưỡng. Đó chính là định nghĩa của sự tà dâm trong Kinh Thánh. Đức Chúa Giê-su đã quở trách Phi-e-rơ khi ông rút gươm chém đứt tai tên đầy tớ của thầy tế lễ thượng phẩm: hãy nắp gươm lại, vì ai dùng gươm sẽ chết vì gươm (Ma-thi-ơ 26:52). Sứ mạng của Hội Thánh là làm chứng bằng lẽ thật, không phải cưỡng ép bằng bạo lực.
+Kinh Thánh đề cập đến hai thanh gươm với hai mục đích hoàn toàn khác nhau. Gươm của Hội Thánh là gươm của Đức Thánh Linh, tức Lời Đức Chúa Trời (Ê-phê-sô 6:17) — được sử dụng qua sự rao giảng để thay đổi lòng người. Gươm của nhà nước là quyền lực cưỡng chế để duy trì trật tự dân sự (Rô-ma 13:1-5) — trừng phạt kẻ làm ác và bảo vệ người lương thiện. Mục sư Bohr nhấn mạnh rằng vấn đề phát sinh khi Hội Thánh mượn gươm của nhà nước — tức dùng quyền lực chính trị để ép buộc tín ngưỡng. Đó chính là định nghĩa của sự tà dâm trong Kinh Thánh. Đức Chúa Giê-su đã quở trách Phi-e-rơ khi ông rút gươm chém đứt tai tên đầy tớ của thầy tế lễ thượng phẩm: hãy nắp gươm lại, vì ai dùng gươm sẽ chết vì gươm (Ma-thi-ơ 26:52). Sứ mạng của Hội Thánh là làm chứng bằng lẽ thật, không phải cưỡng ép bằng bạo lực.
 
 ---
 
 ## Bài Học Lịch Sử Và Lời Cảnh Báo Cho Tương Lai
 
-Mục sư Bohr kết luận bằng việc chỉ ra rằng khuôn mẫu này đã lặp lại xuyên suốt lịch sử. Ngay trong sách Công Vụ, hội thánh Do Thái bội đạo tiếp tục xúi giục chính quyền La Mã bách hại các Cơ-đốc nhân — vua Hê-rốt giết Gia-cơ bằng gươm vì điều đó đẹp lòng người Do Thái (Công Vụ 12:1-3). Trong suốt thời Trung Cổ, hội thánh đã sa ngã trở thành kỵ nữ, liên minh với nhà nước để bách hại những người bất đồng tín ngưỡng — lặp lại y hệt quy trình tại phiên tòa Đức Chúa Giê-su: giáo hội xét xử, giáo hội tuyên án, rồi giao cho nhà nước thi hành. Theo lời tiên tri Kinh Thánh, hai trăm năm yên ổn gần đây chỉ là một giai đoạn tạm nghỉ, và những cảnh tượng tương tự sẽ tái diễn vào thời kỳ cuối cùng (Giăng 16:1-3). Lời kêu gọi của mục sư Bohr là hãy cảnh tỉnh các nhà lãnh đạo chính trị đừng lặp lại sai lầm của Phi-lát, và hãy chọn đứng về phía vương quốc thuộc linh của Đức Chúa Trời thay vì chiều theo áp lực của đám đông.
+Mục sư Bohr kết luận bằng việc chỉ ra rằng khuôn mẫu này đã lặp lại xuyên suốt lịch sử. Ngay trong sách Công Vụ, Hội Thánh Do Thái bội đạo tiếp tục xúi giục chính quyền La Mã bách hại các Cơ-đốc nhân — vua Hê-rốt giết Gia-cơ bằng gươm vì điều đó đẹp lòng người Do Thái (Công Vụ 12:1-3). Trong suốt thời Trung Cổ, Hội Thánh đã sa ngã trở thành kỵ nữ, liên minh với nhà nước để bách hại những người bất đồng tín ngưỡng — lặp lại y hệt quy trình tại phiên tòa Đức Chúa Giê-su: giáo hội xét xử, giáo hội tuyên án, rồi giao cho nhà nước thi hành. Theo lời tiên tri Kinh Thánh, hai trăm năm yên ổn gần đây chỉ là một giai đoạn tạm nghỉ, và những cảnh tượng tương tự sẽ tái diễn vào thời kỳ cuối cùng (Giăng 16:1-3). Lời kêu gọi của mục sư Bohr là hãy cảnh tỉnh các nhà lãnh đạo chính trị đừng lặp lại sai lầm của Phi-lát, và hãy chọn đứng về phía vương quốc thuộc linh của Đức Chúa Trời thay vì chiều theo áp lực của đám đông.

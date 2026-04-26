@@ -20,7 +20,7 @@ Khi nói đến người hầu việc Chúa, chúng ta thường nghĩ ngay đ�
 
 ## 1. Sự Siêng Năng
 
-Lười biếng không chỉ là một tật xấu mà còn là tội lỗi, đặc biệt khi chúng ta đang hầu việc Đức Chúa Trời. Trong Ma-thi-ơ 25:26-30, Chúa gọi đầy tớ trung tín đến khen thưởng, nhưng gọi kẻ lười biếng là "đầy tớ dữ và biếng nhác," rồi quăng ra nơi tối tăm. Kẻ lười biếng trong chức vụ là kẻ chấp nhận để hội thánh rơi vào tay ma quỷ, chấp nhận để linh hồn con người bị cướp mất.
+Lười biếng không chỉ là một tật xấu mà còn là tội lỗi, đặc biệt khi chúng ta đang hầu việc Đức Chúa Trời. Trong Ma-thi-ơ 25:26-30, Chúa gọi đầy tớ trung tín đến khen thưởng, nhưng gọi kẻ lười biếng là "đầy tớ dữ và biếng nhác," rồi quăng ra nơi tối tăm. Kẻ lười biếng trong chức vụ là kẻ chấp nhận để Hội Thánh rơi vào tay ma quỷ, chấp nhận để linh hồn con người bị cướp mất.
 
 Sự lười biếng ngăn chặn sự phát triển tài năng và khả năng mà Chúa đã ban cho. Trong khi ma quỷ siêng năng lôi kéo con người vào đau khổ, thì nhiều tôi tớ Chúa lại trở nên biếng nhác trong việc giúp cho thế giới bớt đau khổ. Rô-ma 12:11 dạy rằng: "Hãy siêng năng mà chớ làm biếng, phải có lòng sốt sắn, phải hầu việc Chúa." Siêng năng gần như là một đức tính bắt buộc, không thể thiếu đối với người hầu việc Chúa.
 
@@ -38,7 +38,7 @@ Lòng nhiệt thành giống như ngọn lửa có thể sưởi ấm tâm hồn
 
 Chính trực là lòng ngay thẳng — ngay thẳng với Đức Chúa Trời, ngay thẳng với người khác, và ngay thẳng với chính mình. Người chính trực không để những tác động khách quan làm lệch đi quan điểm của mình, không "ba phải," không bóp méo sự thật vì thương hay ghét.
 
-Câu chuyện về Kỳ Hoàng Dương tiến cử chính kẻ thù của mình là Giải Hồ làm huyện lệnh, rồi tiến cử con trai mình là Kỳ Ngọ vào chức quân úy, cho thấy một tấm lòng chính trực tuyệt đối: chỉ xét năng lực, không xét tình cảm cá nhân. Ngày nay, có quá nhiều người hầu việc Chúa để lòng riêng chi phối mọi quyết định — thương ai thì cất nhắc, ghét ai thì trù dập. Điều quan trọng nhất mà Chúa Cứu Thế cần ở hội thánh là sự hiệp nhất, và sự hiệp nhất chỉ có thể thực hiện được khi tấm lòng mỗi người chính trực, ngay thẳng (I Cô-rinh-tô 16:13).
+Câu chuyện về Kỳ Hoàng Dương tiến cử chính kẻ thù của mình là Giải Hồ làm huyện lệnh, rồi tiến cử con trai mình là Kỳ Ngọ vào chức quân úy, cho thấy một tấm lòng chính trực tuyệt đối: chỉ xét năng lực, không xét tình cảm cá nhân. Ngày nay, có quá nhiều người hầu việc Chúa để lòng riêng chi phối mọi quyết định — thương ai thì cất nhắc, ghét ai thì trù dập. Điều quan trọng nhất mà Chúa Cứu Thế cần ở Hội Thánh là sự hiệp nhất, và sự hiệp nhất chỉ có thể thực hiện được khi tấm lòng mỗi người chính trực, ngay thẳng (I Cô-rinh-tô 16:13).
 
 ---
 

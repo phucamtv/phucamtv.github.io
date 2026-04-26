@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: Ma-thi-ơ 26:31-35, 57-58, 69-75
 
-Bài giảng hôm nay xoay quanh một trong những câu chuyện xúc động và đau lòng nhất trong Tân Ước — sự kiện Phi-e-rơ chối Chúa ba lần trong đêm Đức Chúa Giê-su bị bắt. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi qua ba phân đoạn chính trong Ma-thi-ơ 26: lời cảnh báo trước của Đức Chúa Giê-su (câu 31-35), cảnh Phi-e-rơ theo Chúa từ xa (câu 57-58), và ba lần chối Chúa trong sân nhà thầy cả thượng phẩm (câu 69-75).
+Bài giảng hôm nay xoay quanh một trong những câu chuyện xúc động và đau lòng nhất trong Tân Ước — sự kiện Phi-e-rơ chối Chúa ba lần trong đêm Đức Chúa Giê-su bị bắt. Mục sư Dương Quang Thoại dẫn dắt Hội Thánh đi qua ba phân đoạn chính trong Ma-thi-ơ 26: lời cảnh báo trước của Đức Chúa Giê-su (câu 31-35), cảnh Phi-e-rơ theo Chúa từ xa (câu 57-58), và ba lần chối Chúa trong sân nhà thầy cả thượng phẩm (câu 69-75).
 
 ---
 

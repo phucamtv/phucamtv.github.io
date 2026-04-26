@@ -90,7 +90,7 @@ Với triết học duy vật của người Hy Lạp, thân xác sau khi chết
 
 ## Phao-lô Tại Cô-rinh-tô — Công-vụ 18:1-11
 
-Sau A-thên, Phao-lô đến Cô-rinh-tô — một thành phố cảng nhộn nhịp với đủ loại tệ nạn và đa dạng tôn giáo. Đây là nơi ông sẽ lập hội thánh quan trọng nhất trong hành trình truyền giáo của mình.
+Sau A-thên, Phao-lô đến Cô-rinh-tô — một thành phố cảng nhộn nhịp với đủ loại tệ nạn và đa dạng tôn giáo. Đây là nơi ông sẽ lập Hội Thánh quan trọng nhất trong hành trình truyền giáo của mình.
 
 ### Nghề Làm Lều Và Tình Bạn Đồng Nghiệp
 

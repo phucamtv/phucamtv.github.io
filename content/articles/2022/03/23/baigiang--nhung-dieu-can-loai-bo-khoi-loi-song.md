@@ -14,7 +14,7 @@ draft: false
 
 ## Cởi Bỏ Chiếc Áo Cũ Dơ Bẩn
 
-Trong phần trước của thư Ê-phê-sô đoạn 4, sứ đồ Phao-lô đã kêu gọi tín hữu hãy mặc lấy người mới trong Chúa. Hình ảnh ông sử dụng rất gần gũi: muốn mặc một bộ quần áo mới thì trước hết phải cởi bỏ bộ quần áo cũ dơ bẩn. Từ câu 25 đến 32, Phao-lô liệt kê cụ thể sáu điều cần phải loại bỏ khỏi lối sống, và bên cạnh mỗi điều cần bỏ, ông đều gợi ý điều tích cực để thay thế. Mục sư Dương Quang Thoại dẫn dắt hội thánh đi qua từng điều một cách thực tiễn và sâu sắc.
+Trong phần trước của thư Ê-phê-sô đoạn 4, sứ đồ Phao-lô đã kêu gọi tín hữu hãy mặc lấy người mới trong Chúa. Hình ảnh ông sử dụng rất gần gũi: muốn mặc một bộ quần áo mới thì trước hết phải cởi bỏ bộ quần áo cũ dơ bẩn. Từ câu 25 đến 32, Phao-lô liệt kê cụ thể sáu điều cần phải loại bỏ khỏi lối sống, và bên cạnh mỗi điều cần bỏ, ông đều gợi ý điều tích cực để thay thế. Mục sư Dương Quang Thoại dẫn dắt Hội Thánh đi qua từng điều một cách thực tiễn và sâu sắc.
 
 ## Chừa Bỏ Sự Nói Dối — Hãy Nói Thật
 

@@ -2,7 +2,7 @@
 title: "Hội Thánh Bị Tàn Hại | Công Vụ 7:54 – 8:13"
 date: 2025-08-13
 url: /baigiang/hoi-thanh-bi-tan-hai/
-description: "Qua Công Vụ 7:54 – 8:13, Mục sư Dương Quang Thoại phân tích ba sự kiện nối tiếp nhau: Ê-tiên tử vì đạo với sự can đảm phi thường, Sau-lơ tàn hại hội thánh khiến tín đồ tản lạc, và Phi-líp rao giảng tại Sa-ma-ri — tất cả cho thấy kế hoạch của Đức Chúa Trời biến sự bắt bớ thành phương tiện để Tin Lành lan rộng."
+description: "Qua Công Vụ 7:54 – 8:13, Mục sư Dương Quang Thoại phân tích ba sự kiện nối tiếp nhau: Ê-tiên tử vì đạo với sự can đảm phi thường, Sau-lơ tàn hại Hội Thánh khiến tín đồ tản lạc, và Phi-líp rao giảng tại Sa-ma-ri — tất cả cho thấy kế hoạch của Đức Chúa Trời biến sự bắt bớ thành phương tiện để Tin Lành lan rộng."
 tags: ["Công Vụ", "Ê-tiên", "Sau-lơ", "Phi-líp", "Sa-ma-ri", "Tử Vì Đạo", "Bắt Bớ", "Hội Thánh"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -38,7 +38,7 @@ Về mặt luật pháp, Tòa Công Luận không có quyền xử tử hình d�
 
 ## Sau-lơ Xuất Hiện Và Hội Thánh Bị Tàn Phá
 
-Một nhân vật mới xuất hiện rất mờ nhạt trong câu chuyện: Sau-lơ — một người trẻ tuổi mà những kẻ ném đá Ê-tiên đã để áo sống dưới chân ông. Đoạn 8 câu 1 ghi rằng Sau-lơ ưng thuận về việc Ê-tiên bị giết, và ngay sau đó ông trực tiếp bắt bớ hội thánh. Kinh Thánh mô tả: Sau-lơ sấn vào các nhà, dùng sức mạnh bắt đàn ông đàn bà bỏ tù.
+Một nhân vật mới xuất hiện rất mờ nhạt trong câu chuyện: Sau-lơ — một người trẻ tuổi mà những kẻ ném đá Ê-tiên đã để áo sống dưới chân ông. Đoạn 8 câu 1 ghi rằng Sau-lơ ưng thuận về việc Ê-tiên bị giết, và ngay sau đó ông trực tiếp bắt bớ Hội Thánh. Kinh Thánh mô tả: Sau-lơ sấn vào các nhà, dùng sức mạnh bắt đàn ông đàn bà bỏ tù.
 
 Chữ "tàn hại" trong nguyên ngữ thường được dùng để mô tả một con heo rừng phá nát vườn nho — xông vào với sức mạnh tàn khốc, ủi đổ mọi thứ cho đến khi không còn gì. Hình ảnh ấy cho thấy mức độ khốc liệt của cuộc bắt bớ mà Sau-lơ gây ra. Tất cả tín đồ phải bỏ nhà bỏ cửa, tản lạc khắp các miền Giu-đê và Sa-ma-ri, ngoại trừ các sứ đồ — những người hoặc được kẻ thù nể sợ, hoặc đã chọn đứng vững đương đầu với nghĩa khí của người lãnh đạo.
 

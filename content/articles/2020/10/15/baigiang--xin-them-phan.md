@@ -14,7 +14,7 @@ draft: false
 
 ## Câu Chuyện Giấc Mơ Và Cục Phấn
 
-Một buổi sáng đầu năm, ở làng nọ, người tín đồ gặp ông mục sư phụ trách nhà thờ. Anh ta là một người đã bao nhiêu năm gây phiền hà, rối loạn cho hội thánh, và thường xuyên trêu chọc chính mục sư. Thấy anh đến, mục sư không kềm được bực dọc mà nói thẳng: *"Ma quỷ sao cứ ám anh mãi vậy? Sao anh không chịu đi nhà thờ học Lời Chúa? Suốt ngày cứ bê tha như thế, làm sao được cứu rỗi?"*
+Một buổi sáng đầu năm, ở làng nọ, người tín đồ gặp ông mục sư phụ trách nhà thờ. Anh ta là một người đã bao nhiêu năm gây phiền hà, rối loạn cho Hội Thánh, và thường xuyên trêu chọc chính mục sư. Thấy anh đến, mục sư không kềm được bực dọc mà nói thẳng: *"Ma quỷ sao cứ ám anh mãi vậy? Sao anh không chịu đi nhà thờ học Lời Chúa? Suốt ngày cứ bê tha như thế, làm sao được cứu rỗi?"*
 
 Người tín đồ bình thản đáp: *"Thưa Mục sư, đêm qua con mơ thấy những điều về ông."*
 

@@ -30,7 +30,7 @@ Trong Hy ngữ, chữ "hòa thuận" còn mang nghĩa "bình an" — nhưng khô
 
 Chúa không chỉ kêu gọi chúng ta yêu hòa bình mà phải tích cực làm cho người hòa thuận. Ai cũng có thể nói "tôi yêu hòa bình" giống như các thí sinh hoa hậu, nhưng đôi khi chính chúng ta lại tạo nên chiến tranh — vì bảo thủ ý kiến, vì muốn tẩy chay người mình không thích, vì muốn chiếm lấy quyền kiểm soát. Hãy tự xét xem mình có phải là ngòi nổ của những cuộc tranh cãi, bất hòa, hay là người đem lại sự hòa giải.
 
-Như Abraham Lincoln đã nói: hãy nhổ cỏ và trồng hoa vào chỗ đó. Đừng để trống sau khi loại bỏ điều xấu, vì điều xấu tự nó sẽ phát triển trở lại. Hãy bắt đầu từ gia đình mình, rồi lan tỏa đến hội thánh và xã hội.
+Như Abraham Lincoln đã nói: hãy nhổ cỏ và trồng hoa vào chỗ đó. Đừng để trống sau khi loại bỏ điều xấu, vì điều xấu tự nó sẽ phát triển trở lại. Hãy bắt đầu từ gia đình mình, rồi lan tỏa đến Hội Thánh và xã hội.
 
 Đặc biệt, trong tám phước lành, chỉ riêng phước thứ bảy này mang phần thưởng: được gọi là con Đức Chúa Trời. Đây là vị trí vinh dự nhất, vì chính Con Đức Chúa Trời — Đức Chúa Giê-su — là Đấng làm cho Đức Chúa Trời hòa thuận với loài người và loài người hòa thuận với nhau. Ai làm cho người hòa thuận là đang bước theo chính con đường của Chúa Cứu Thế.
 

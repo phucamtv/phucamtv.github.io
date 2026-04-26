@@ -34,7 +34,7 @@ Hôn nhân là một thử thách lớn về sự bền bỉ, tình yêu, đức
 
 Phần thứ hai của bài giảng bước vào Ma-thi-ơ 19:13-15 — một đoạn Kinh Thánh ngắn nhưng vô cùng đáng yêu. Giữa đám đông hàng ngàn người lớn vây quanh Đức Chúa Giê-su, có những bà mẹ bồng con nhỏ len lỏi đến, mong Ngài đặt tay và cầu nguyện cho con mình. Họ không chỉ ái mộ Chúa, mà tin rằng bàn tay đã chữa lành bao người bệnh tật ấy có thể truyền ơn phước cho những đứa trẻ của họ.
 
-Câu hỏi đặt ra cho mỗi bậc cha mẹ ngày nay: chúng ta có muốn đưa con cái mình đến gần Chúa không? Không phải sự chạm vật lý, nhưng là cho con chạm lấy đức tin, chạm lấy hội thánh, chạm lấy Kinh Thánh, chạm lấy lời cầu nguyện từ khi còn nhỏ. Thực tế đáng buồn là nhiều gia đình tín hữu không đưa con đến nhà thờ, để rồi khi con lớn lên, chúng hoàn toàn xa rời Chúa — thậm chí khi cha mẹ qua đời, con cái không báo cho hội thánh mà tự tổ chức tang lễ theo cách khác.
+Câu hỏi đặt ra cho mỗi bậc cha mẹ ngày nay: chúng ta có muốn đưa con cái mình đến gần Chúa không? Không phải sự chạm vật lý, nhưng là cho con chạm lấy đức tin, chạm lấy Hội Thánh, chạm lấy Kinh Thánh, chạm lấy lời cầu nguyện từ khi còn nhỏ. Thực tế đáng buồn là nhiều gia đình tín hữu không đưa con đến nhà thờ, để rồi khi con lớn lên, chúng hoàn toàn xa rời Chúa — thậm chí khi cha mẹ qua đời, con cái không báo cho Hội Thánh mà tự tổ chức tang lễ theo cách khác.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Chắp Cánh Bay Cao - Nguyên Nhân Tin Chúa"
 date: 2020-09-08
-description: "Điều gì thật sự dẫn dắt một người đến quyết định tin Chúa? Bài suy gẫm từ 1 Cô-rinh-tô 8:1-2 nhắc nhở người lãnh đạo hội thánh về sự khiêm tốn — rằng Đức Chúa Trời dùng nhiều phương thức và nhiều người khác nhau để thực hiện công việc nước Ngài."
+description: "Điều gì thật sự dẫn dắt một người đến quyết định tin Chúa? Bài suy gẫm từ 1 Cô-rinh-tô 8:1-2 nhắc nhở người lãnh đạo Hội Thánh về sự khiêm tốn — rằng Đức Chúa Trời dùng nhiều phương thức và nhiều người khác nhau để thực hiện công việc nước Ngài."
 tags: ["Chắp Cánh Bay Cao", "Khiêm Tốn", "1 Cô-rinh-tô", "Lãnh Đạo", "Truyền Giảng"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -22,7 +22,7 @@ Mục sư George Kelly cảm thấy thẹn với những suy nghĩ trước đó
 
 ## Bài Học Về Sự Khiêm Tốn Trong Chức Vụ
 
-Câu chuyện này mang đến một bài học sâu sắc cho tất cả những ai đang phục vụ trong hội thánh, đặc biệt là người lãnh đạo. Khi Hội thánh hoàn thành một công việc, người lãnh đạo thường dễ bị cám dỗ bởi suy nghĩ rằng thành công ấy là nhờ tài năng và nỗ lực của chính mình. Lắm người lãnh đạo cứ tưởng, nếu không có mình, chắc chẳng ai làm được việc gì.
+Câu chuyện này mang đến một bài học sâu sắc cho tất cả những ai đang phục vụ trong Hội Thánh, đặc biệt là người lãnh đạo. Khi Hội Thánh hoàn thành một công việc, người lãnh đạo thường dễ bị cám dỗ bởi suy nghĩ rằng thành công ấy là nhờ tài năng và nỗ lực của chính mình. Lắm người lãnh đạo cứ tưởng, nếu không có mình, chắc chẳng ai làm được việc gì.
 
 Họ nuôi dưỡng lòng tự tôn đến nỗi tạo ra một thông lệ — ấy là bất cứ kết quả nào cũng đều phải có họ nhúng tay vào mới được. Nếu sự thành công là do một người khác, thì lòng họ trở nên buồn phiền và ganh tị. Tính cách ấy cần được loại bỏ càng sớm càng tốt khỏi đức hạnh của người lãnh đạo.
 
@@ -34,7 +34,7 @@ Vì thế, người hầu việc Chúa cần nhận biết điều này một c�
 
 ## Nguy Cơ Của Sự Hay Biết Mà Thiếu Tình Yêu
 
-Sứ đồ Phao-lô trong thư thứ nhất gửi cho hội thánh Cô-rinh-tô đã nói đến một nguy cơ tinh tế hơn — đó là sự kiêu căng đến từ sự hay biết. Ông viết trong đoạn 8 câu 1-2:
+Sứ đồ Phao-lô trong thư thứ nhất gửi cho Hội Thánh Cô-rinh-tô đã nói đến một nguy cơ tinh tế hơn — đó là sự kiêu căng đến từ sự hay biết. Ông viết trong đoạn 8 câu 1-2:
 
 > "...Song, sự hay biết sanh kiêu căng, còn sự yêu thương làm gương tốt. Nếu có ai tưởng mình biết điều gì, thật người ấy chưa biết như mình nên biết." (I Cô-rinh-tô 8:1b, 2)
 
@@ -42,7 +42,7 @@ Tri thức và sự hiểu biết thuộc linh là điều quý giá, nhưng n�
 
 ## Trân Trọng Sự Góp Phần Của Mỗi Người
 
-Bài học từ Mục sư George Kelly nhắc nhở chúng ta rằng công việc của Chúa là công việc tập thể. Không ai có thể một mình gánh vác hay một mình quyết định tất cả. Người dẫn chương trình, người ca hát, người cầu nguyện thầm lặng, người lo việc hậu cần — mỗi người đều có phần quan trọng riêng trong bức tranh chung của hội thánh.
+Bài học từ Mục sư George Kelly nhắc nhở chúng ta rằng công việc của Chúa là công việc tập thể. Không ai có thể một mình gánh vác hay một mình quyết định tất cả. Người dẫn chương trình, người ca hát, người cầu nguyện thầm lặng, người lo việc hậu cần — mỗi người đều có phần quan trọng riêng trong bức tranh chung của Hội Thánh.
 
 Khi chúng ta nhận ra điều này, chúng ta sẽ học được cách trân trọng sự đóng góp của từng người, dù nhỏ hay lớn, dù nổi bật hay âm thầm. Lòng biết ơn và sự trân trọng lẫn nhau sẽ tạo ra một môi trường lành mạnh, nơi Đức Thánh Linh có thể tự do hành động và công việc Chúa được tiến hành cách êm thấm.
 

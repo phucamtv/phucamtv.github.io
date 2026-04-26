@@ -34,7 +34,7 @@ Vợ Lót không phải người sống trong mù tối thuộc linh. Bà sống
 
 Thế nhưng tất cả những điều kiện thuận lợi đó không tự động đem lại sự cứu rỗi cho bà. Môi trường tốt, gia đình tin kính, người chồng công bình — không điều nào trong số đó thay thế được sự lựa chọn cá nhân của chính bà.
 
-Chúng ta hôm nay cũng có những đặc quyền tương tự: gia đình tin Chúa, hội thánh, Kinh Thánh trong tay, tự do thờ phượng. Những điều này là phước hạnh — nhưng chúng không *bảo đảm* sự cứu rỗi của chúng ta nếu chính chúng ta quyết định sai lầm. Ga-ha-xi, đầy tớ thân cận của tiên tri Ê-li-sê, ở cạnh tiên tri mà vẫn hư mất. Giu-đa là môn đệ của Chúa mà vẫn phản bội. Đặc quyền không thay thế được đức tin cá nhân.
+Chúng ta hôm nay cũng có những đặc quyền tương tự: gia đình tin Chúa, Hội Thánh, Kinh Thánh trong tay, tự do thờ phượng. Những điều này là phước hạnh — nhưng chúng không *bảo đảm* sự cứu rỗi của chúng ta nếu chính chúng ta quyết định sai lầm. Ga-ha-xi, đầy tớ thân cận của tiên tri Ê-li-sê, ở cạnh tiên tri mà vẫn hư mất. Giu-đa là môn đệ của Chúa mà vẫn phản bội. Đặc quyền không thay thế được đức tin cá nhân.
 
 ### 2. Nhớ Đến Sự Cầu Nguyện Của Người Thân Dành Cho Bà
 

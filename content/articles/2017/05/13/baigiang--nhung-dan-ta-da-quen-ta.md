@@ -1,7 +1,7 @@
 ---
 title: "Nhưng Dân Ta Đã Quên Ta"
 date: 2017-05-13
-description: "Bài giảng về sự lãng quên Đức Chúa Trời — khi tình yêu ban đầu phai nhạt theo năm tháng, con người dần xa rời Ngài mà không hay biết. Qua Giê-rê-mi đoạn 2, Mục sư Dương Quang Thoại kêu gọi hội thánh nhìn lại đức tin và trở về với tình yêu đầu tiên."
+description: "Bài giảng về sự lãng quên Đức Chúa Trời — khi tình yêu ban đầu phai nhạt theo năm tháng, con người dần xa rời Ngài mà không hay biết. Qua Giê-rê-mi đoạn 2, Mục sư Dương Quang Thoại kêu gọi Hội Thánh nhìn lại đức tin và trở về với tình yêu đầu tiên."
 tags: ["Tình Yêu Ban Đầu", "Ăn Năn", "Trở Về", "Đức Tin", "Lãng Quên"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -26,7 +26,7 @@ Câu 2 ghi lời Đức Giê-hô-va: *"Ta còn nhớ về ngươi lòng nhân t�
 
 Tất cả những cuộc tình, mọi mối quan hệ tình cảm — khi mới bắt đầu bao giờ cũng đẹp, cũng sâu sắc và đậm đà. Nhưng rồi thời gian qua đi, những xung đột và biến cố làm cho tình yêu ban đầu phai mờ dần. Đời sống tâm linh của chúng ta cũng không ngoại lệ.
 
-Đức Chúa Giê-su cảnh tỉnh hội thánh cuối cùng trong Khải-huyền 2:4: *"Nhưng điều Ta trách ngươi, là ngươi đã bỏ lòng kính mến ban đầu."* Câu 5 tiếp: *"Vậy hãy nhớ lại ngươi đã sa sút từ đâu, hãy ăn năn và làm lại những công việc ban đầu của mình."*
+Đức Chúa Giê-su cảnh tỉnh Hội Thánh cuối cùng trong Khải-huyền 2:4: *"Nhưng điều Ta trách ngươi, là ngươi đã bỏ lòng kính mến ban đầu."* Câu 5 tiếp: *"Vậy hãy nhớ lại ngươi đã sa sút từ đâu, hãy ăn năn và làm lại những công việc ban đầu của mình."*
 
 Ngày chúng ta mới tiếp nhận Chúa, lòng dạt dào và nồng nàn biết bao. Chúng ta hớn hở như vừa tìm được điều may mắn lớn nhất đời. Nhưng rồi cái tình cảm lúc ban đầu đó — đã phai lợt từ lúc nào không hay.
 

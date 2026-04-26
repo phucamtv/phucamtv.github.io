@@ -24,7 +24,7 @@ Là Cơ-đốc nhân, chúng ta không sợ chết, vì Kinh Thánh dùng chữ 
 
 Một trong những tiếc nuối lớn nhất mà nhiều người mang theo là chưa kịp tha thứ, chưa kịp giảng hòa, chưa kịp nói lời xin lỗi trước khi người thân trút hơi thở cuối cùng. Ma-thi-ơ 6:12 dạy chúng ta cầu nguyện xin Chúa tha tội, như chúng ta cũng tha cho kẻ phạm tội nghịch cùng mình. Và câu 14 nhấn mạnh: nếu các ngươi tha lỗi cho người ta, thì Cha trên trời cũng sẽ tha thứ các ngươi.
 
-Hội thánh là một gia đình, và trong gia đình luôn luôn cần sự tha thứ. Nếu hôm nay là ngày cuối cùng, liệu chúng ta đã được Chúa tha thứ chưa và có sẵn sàng tha thứ cho anh em mình không?
+Hội Thánh là một gia đình, và trong gia đình luôn luôn cần sự tha thứ. Nếu hôm nay là ngày cuối cùng, liệu chúng ta đã được Chúa tha thứ chưa và có sẵn sàng tha thứ cho anh em mình không?
 
 ## Đã Sống Hết Lòng Với Chúa Và Với Người Khác Chưa?
 

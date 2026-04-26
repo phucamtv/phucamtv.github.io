@@ -36,7 +36,7 @@ Hệ quả thứ hai: Chúa gọi đó là giả hình. Chữ "giả hình" tron
 
 Thứ nhất, họ đóng cửa nước thiên đàng trước mặt người ta — mình không vào mà ai muốn vào thì ngăn cản. Thứ hai, họ đi khắp nơi khuyên người ta theo đạo của mình, rồi làm cho người ấy trở nên con của địa ngục gấp đôi. Thứ ba, họ nộp phần mười kỹ lưỡng đến từng cây rau bạc hà, rau hồi hương, nhưng bỏ qua điều hệ trọng hơn là sự công bình, lòng thương xót và sự trung tín. Thứ tư, họ rửa bề ngoài chén và mâm cho sạch nhưng bên trong đầy sự tham lam và quá độ. Thứ năm, họ giống mồ mả tô trắng bên ngoài cho đẹp mà bên trong đầy xương người chết.
 
-Đặc biệt, ở Lu-ca 12:1, Đức Chúa Giê-su cảnh báo: "Hãy giữ mình về men của người Pha-ri-si, là sự giả hình." Sự giả hình giống như men — chỉ cần một ít bột nổi có thể làm nở cả cục bột lớn. Tại nhà thờ, mọi người bên ngoài đều tốt đẹp, nhưng ra khỏi đó thì lời nguyền rủa, chửi thề lại tràn ngập. Đây chính là men giả hình đang lây lan trong hội thánh.
+Đặc biệt, ở Lu-ca 12:1, Đức Chúa Giê-su cảnh báo: "Hãy giữ mình về men của người Pha-ri-si, là sự giả hình." Sự giả hình giống như men — chỉ cần một ít bột nổi có thể làm nở cả cục bột lớn. Tại nhà thờ, mọi người bên ngoài đều tốt đẹp, nhưng ra khỏi đó thì lời nguyền rủa, chửi thề lại tràn ngập. Đây chính là men giả hình đang lây lan trong Hội Thánh.
 
 ---
 

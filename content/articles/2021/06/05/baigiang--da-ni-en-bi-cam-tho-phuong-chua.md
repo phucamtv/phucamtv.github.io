@@ -20,7 +20,7 @@ draft: false
 
 ## Lòng Ganh Ghét Dẫn Đến Hãm Hại Người Tốt
 
-Điều đầu tiên rút ra từ câu 1-4: lòng ganh ghét là nguồn gốc của sự hãm hại. Thi Thiên 37:12 viết rằng kẻ ác lập mưu nghịch người công bình. Đa-ni-ên không làm gì sai, Kinh Thánh xác nhận trong ông không có điều lỗi hay sự xấu nào. Nhưng chính sự trổi hơn của ông khiến người khác ganh tị. Đây cũng là lời cảnh tỉnh cho mỗi con dân Chúa: đôi khi ngay trong hội thánh, chúng ta cũng có thể nuôi ác tưởng muốn hãm hại người mình không thích. Hãy loại bỏ sự tị hiềm, biết vui với người được tôn quý, và bước từng bước trên con đường nên thánh.
+Điều đầu tiên rút ra từ câu 1-4: lòng ganh ghét là nguồn gốc của sự hãm hại. Thi Thiên 37:12 viết rằng kẻ ác lập mưu nghịch người công bình. Đa-ni-ên không làm gì sai, Kinh Thánh xác nhận trong ông không có điều lỗi hay sự xấu nào. Nhưng chính sự trổi hơn của ông khiến người khác ganh tị. Đây cũng là lời cảnh tỉnh cho mỗi con dân Chúa: đôi khi ngay trong Hội Thánh, chúng ta cũng có thể nuôi ác tưởng muốn hãm hại người mình không thích. Hãy loại bỏ sự tị hiềm, biết vui với người được tôn quý, và bước từng bước trên con đường nên thánh.
 
 ## Kẻ Hãm Hại Tìm Kẽ Hở Trong Niềm Tin
 

@@ -17,7 +17,7 @@ draft: false
 
 ## Chuyến bay mang tên 2017
 
-Mỗi khi ngồi trên máy bay, chúng ta đều nghe lời chào quen thuộc từ cơ trưởng và phi hành đoàn. Trong buổi nhóm đầu năm dương lịch 2017, Mục sư Dương Quang Thoại đã mượn hình ảnh lời thông báo trước chuyến bay để gửi gắm một sứ điệp đầy ý nghĩa cho hội thánh. Chuyến bay mang số hiệu 2017 với hành trình kéo dài 12 tháng, hành khách được nhắc nhở chỉ nên mang theo những kỷ niệm tốt đẹp, bỏ lại những điều tệ hại vào thùng rác, thắt chặt dây an toàn, và thưởng thức thực đơn gồm tình bạn, sức khỏe, niềm vui, hạnh phúc.
+Mỗi khi ngồi trên máy bay, chúng ta đều nghe lời chào quen thuộc từ cơ trưởng và phi hành đoàn. Trong buổi nhóm đầu năm dương lịch 2017, Mục sư Dương Quang Thoại đã mượn hình ảnh lời thông báo trước chuyến bay để gửi gắm một sứ điệp đầy ý nghĩa cho Hội Thánh. Chuyến bay mang số hiệu 2017 với hành trình kéo dài 12 tháng, hành khách được nhắc nhở chỉ nên mang theo những kỷ niệm tốt đẹp, bỏ lại những điều tệ hại vào thùng rác, thắt chặt dây an toàn, và thưởng thức thực đơn gồm tình bạn, sức khỏe, niềm vui, hạnh phúc.
 
 Từ hình ảnh sinh động ấy, bài giảng đúc kết bốn bài học quan trọng cho cuộc hành trình đức tin của mỗi người.
 

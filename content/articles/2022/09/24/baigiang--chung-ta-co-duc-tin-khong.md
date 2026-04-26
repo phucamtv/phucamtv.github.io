@@ -24,7 +24,7 @@ Trớ trêu thay, một viên thầy đội người La Mã — người ngoại
 
 Hê-bơ-rơ 11:6 khẳng định: không có đức tin thì chẳng hề có thể nào ở cho đẹp ý Ngài. Kẻ đến gần Đức Chúa Trời phải tin rằng có Ngài, và Ngài là Đấng ban thưởng cho kẻ tìm kiếm Ngài.
 
-Nhiều người trong chúng ta có thể đang sống đức tin dựa trên thói quen — đức tin của ông bà cha mẹ, của vợ chồng con cái, chứ không phải đức tin cá nhân nhận biết Đức Chúa Trời. Chúng ta đi nhà thờ, đọc Kinh Thánh, phục vụ trong hội thánh, rồi tưởng rằng như vậy là đủ. Nhưng Hê-bơ-rơ 11:1 định nghĩa đức tin là sự biết chắc vững vàng của những điều mình đang trông mong, là bằng cớ của những điều mình chẳng xem thấy. Đức tin vượt ra ngoài mọi logic thông thường của thế giới này.
+Nhiều người trong chúng ta có thể đang sống đức tin dựa trên thói quen — đức tin của ông bà cha mẹ, của vợ chồng con cái, chứ không phải đức tin cá nhân nhận biết Đức Chúa Trời. Chúng ta đi nhà thờ, đọc Kinh Thánh, phục vụ trong Hội Thánh, rồi tưởng rằng như vậy là đủ. Nhưng Hê-bơ-rơ 11:1 định nghĩa đức tin là sự biết chắc vững vàng của những điều mình đang trông mong, là bằng cớ của những điều mình chẳng xem thấy. Đức tin vượt ra ngoài mọi logic thông thường của thế giới này.
 
 ## Bốn Bài Học Từ Các Tổ Phụ
 
@@ -36,7 +36,7 @@ Qua các câu chuyện Kinh Thánh, có bốn điều cần ghi nhớ: (1) Nhữ
 
 **Môi-se** — người từng có quyền thừa kế ngai vàng Ai Cập — được Chúa sai giải phóng gần hai triệu nô lệ. Khi hỏi ông có gì trong tay, Môi-se chỉ có một cây gậy chăn cừu. Nhưng cây gậy tầm thường ấy trở thành công cụ thể hiện quyền năng của Đức Chúa Trời.
 
-**Trận Giê-ri-cô** — thành có tường kiên cố đến mức xe ngựa bốn ngựa có thể chạy trên đỉnh tường. Chúa không truyền tấn công mà bảo dân sự mỗi ngày đi một vòng quanh thành trong im lặng, đến ngày thứ bảy đi bảy vòng rồi la lớn lên. Chiến thuật quân sự nào lại như vậy? Nếu chuyện này xảy ra trong hội thánh ngày nay, chúng ta sẽ mở bao nhiêu cuộc họp để đề nghị Chúa xét lại kế hoạch. Càng ít đức tin thì càng nhiều lý luận, càng nhiều hoài nghi.
+**Trận Giê-ri-cô** — thành có tường kiên cố đến mức xe ngựa bốn ngựa có thể chạy trên đỉnh tường. Chúa không truyền tấn công mà bảo dân sự mỗi ngày đi một vòng quanh thành trong im lặng, đến ngày thứ bảy đi bảy vòng rồi la lớn lên. Chiến thuật quân sự nào lại như vậy? Nếu chuyện này xảy ra trong Hội Thánh ngày nay, chúng ta sẽ mở bao nhiêu cuộc họp để đề nghị Chúa xét lại kế hoạch. Càng ít đức tin thì càng nhiều lý luận, càng nhiều hoài nghi.
 
 ## Đức Tin Thật Là Đức Tin Vâng Lời
 

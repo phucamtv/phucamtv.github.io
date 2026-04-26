@@ -2,7 +2,7 @@
 title: "Thế Giới Sẽ Kết Thúc Như Thế Nào? | Năm Dấu Hiệu Không Ai Có Thể Giả Mạo"
 date: 2018-06-14
 url: /baigiang/the-gioi-se-ket-thuc-nhu-the-nao/
-description: "Bài giảng truyền giảng của Mục sư Gary Kent (The Incredible Journey) tại hội thánh Cơ-đốc Phục Lâm Mt Gravatt trong loạt Hope For Today. Từ câu chuyện có thật của Ernest Shackleton — người đã giữ lời hứa quay lại cứu 22 người lính bị mắc kẹt ở đảo Elephant suốt 497 ngày — đến năm dấu hiệu Kinh Thánh về sự tái lâm của Đức Chúa Giê-su mà không một kẻ giả mạo nào có thể làm được. Làm sao để không bị lừa dối trong những ngày cuối cùng?"
+description: "Bài giảng truyền giảng của Mục sư Gary Kent (The Incredible Journey) tại Hội Thánh Cơ-đốc Phục Lâm Mt Gravatt trong loạt Hope For Today. Từ câu chuyện có thật của Ernest Shackleton — người đã giữ lời hứa quay lại cứu 22 người lính bị mắc kẹt ở đảo Elephant suốt 497 ngày — đến năm dấu hiệu Kinh Thánh về sự tái lâm của Đức Chúa Giê-su mà không một kẻ giả mạo nào có thể làm được. Làm sao để không bị lừa dối trong những ngày cuối cùng?"
 tags: ["Sự Tái Lâm", "Tiên Tri", "Ma-thi-ơ 24", "Tê-sa-lô-ni-ca", "Khải Huyền", "Lừa Dối Thời Kỳ Cuối", "Truyền Giảng", "Hope For Today", "The Incredible Journey", "Cơ-đốc Phục Lâm"]
 authors: ["gary-kent"]
 plugins: [youtube]
@@ -14,7 +14,7 @@ draft: false
 
 ## Thế Giới Có Sắp Kết Thúc Không?
 
-Vào tháng 6 năm 2018, khi Mục sư Gary Kent bước lên bục giảng tại hội thánh Cơ-đốc Phục Lâm Mt Gravatt, cả thế giới đang theo dõi một sự kiện chưa từng có ở Singapore — Tổng thống Hoa Kỳ gặp mặt trực tiếp lãnh đạo Bắc Triều Tiên. Không lâu trước đó hai người này còn đe dọa sẽ cho nổ tung nhau, và cả thế giới lo sợ: **Liệu đây có phải là khởi đầu của ngày tận thế?**
+Vào tháng 6 năm 2018, khi Mục sư Gary Kent bước lên bục giảng tại Hội Thánh Cơ-đốc Phục Lâm Mt Gravatt, cả thế giới đang theo dõi một sự kiện chưa từng có ở Singapore — Tổng thống Hoa Kỳ gặp mặt trực tiếp lãnh đạo Bắc Triều Tiên. Không lâu trước đó hai người này còn đe dọa sẽ cho nổ tung nhau, và cả thế giới lo sợ: **Liệu đây có phải là khởi đầu của ngày tận thế?**
 
 Đây là bài giảng thứ tư trong loạt *Hope For Today* (Niềm Hy Vọng Cho Hôm Nay), tối thứ Năm ngày 14/6/2018. Và chủ đề hôm nay là câu hỏi mà có lẽ mọi người ở mọi thời đại đều muốn hỏi:
 

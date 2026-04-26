@@ -27,7 +27,7 @@ Những điều quý giá nhất thì cần phải được bảo vệ. Người
 
 I Phi-e-rơ 5:8 cảnh báo rằng kẻ thù nghịch của chúng ta là ma quỷ như sư tử rống đi rình mò chung quanh, tìm kiếm người nào nó có thể nuốt được. Sư tử khi no thì nằm ngủ -- sư tử rống là sư tử đang đói. Niềm tin của chúng ta có thể bị lãng quên, bị cướp đoạt nếu chúng ta không cảnh giác.
 
-Khải Huyền 12:17 cho thấy trong thời kỳ cuối cùng, Sa-tan giận hội thánh thật của Đức Chúa Trời và đi tranh chiến với con cái của Ngài -- những người giữ điều răn của Đức Chúa Trời và lời chứng của Đức Chúa Giê-su. Càng gần ngày tái lâm, cuộc tấn công của ma quỷ càng dữ dội hơn.
+Khải Huyền 12:17 cho thấy trong thời kỳ cuối cùng, Sa-tan giận Hội Thánh thật của Đức Chúa Trời và đi tranh chiến với con cái của Ngài -- những người giữ điều răn của Đức Chúa Trời và lời chứng của Đức Chúa Giê-su. Càng gần ngày tái lâm, cuộc tấn công của ma quỷ càng dữ dội hơn.
 
 ## Lời cảnh báo về sự hâm hẩm
 

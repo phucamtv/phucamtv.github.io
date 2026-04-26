@@ -45,7 +45,7 @@ Một Cơ-đốc nhân càng cần phải cẩn trọng hơn trong cách giao ti
 
 Một lời nhắc nhở quan trọng dành cho mỗi chúng ta: Đức Chúa Giê-su đang lắng nghe mọi điều chúng ta nói. Mỗi lời nói ra từ miệng đều được Ngài ghi nhận. Vì vậy, hãy chỉ nói những gì làm đẹp lòng Chúa và gây dựng cho người nghe.
 
-Sứ đồ Phao-lô đã khuyên dạy hội thánh Ê-phê-sô rằng hãy tránh xa những lời tục tĩu, giễu cợt và giả ngộ tầm phào, vì đó là những điều không xứng đáng với người thuộc về Đấng Christ. Thay vào đó, hãy để miệng lưỡi mình trở thành công cụ gây dựng, an ủi và khích lệ anh chị em trong đức tin.
+Sứ đồ Phao-lô đã khuyên dạy Hội Thánh Ê-phê-sô rằng hãy tránh xa những lời tục tĩu, giễu cợt và giả ngộ tầm phào, vì đó là những điều không xứng đáng với người thuộc về Đấng Christ. Thay vào đó, hãy để miệng lưỡi mình trở thành công cụ gây dựng, an ủi và khích lệ anh chị em trong đức tin.
 
 ## Lời Kết
 

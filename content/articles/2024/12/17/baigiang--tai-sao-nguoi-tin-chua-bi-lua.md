@@ -26,7 +26,7 @@ Trước khi Đức Chúa Giê-su tái lâm, Kinh Thánh cho biết phải có s
 
 Biểu hiện của sự bỏ đạo thể hiện qua nhiều hình thức. Thứ nhất, người tin Chúa đặt niềm tin vào tổ chức và người lãnh đạo hơn Lời Chúa. Người lãnh đạo nói sao, họ nghe vậy, mà không tra xét Kinh Thánh để kiểm chứng. Sứ đồ Phao-lô từng khen Hội Thánh Bê-rê vì họ nghe lời giảng nhưng tra xem Kinh Thánh mỗi ngày để xem có thật đúng không (Công Vụ 17:11). Đó mới là thái độ đúng đắn.
 
-Thứ hai, có những hội thánh ngày nay loại bỏ Cựu Ước, chỉ giữ lại Tân Ước, làm mất đi sự trọn vẹn của Lời Đức Chúa Trời. Thứ ba, có những giáo hội diễn giải lại Kinh Thánh theo ý riêng, thậm chí sửa đổi bản dịch, khiến người tin Chúa mất đi lòng tin tuyệt đối vào Lời Chúa.
+Thứ hai, có những Hội Thánh ngày nay loại bỏ Cựu Ước, chỉ giữ lại Tân Ước, làm mất đi sự trọn vẹn của Lời Đức Chúa Trời. Thứ ba, có những giáo hội diễn giải lại Kinh Thánh theo ý riêng, thậm chí sửa đổi bản dịch, khiến người tin Chúa mất đi lòng tin tuyệt đối vào Lời Chúa.
 
 Đức Chúa Giê-su đã phán trong Giăng 8:31-32: nếu các ngươi hằng ở trong đạo Ta thì thật là môn đồ Ta, và các ngươi sẽ biết lẽ thật, lẽ thật sẽ buông tha các ngươi. Tin Chúa chưa đủ — phải sống bằng Lời Chúa, ở trong Lời Chúa, mới thật là môn đồ Ngài.
 

@@ -2,7 +2,7 @@
 title: "Rắc Rối Trong Hội-Thánh"
 date: 2025-07-16
 url: /baigiang/rac-roi-trong-hoi-thanh/
-description: "Qua câu chuyện A-na-nia và Sa-phi-ra trong Công-vụ 5:1-32, chúng ta thấy rằng ngay giữa hội thánh đầy ơn vẫn có thể phát sinh rắc rối vì sự gian dối, sĩ diện và thiếu tình yêu thật. Bài học cũng cho thấy sự can đảm, nguyên tắc sống và mục đích rõ ràng của các sứ đồ khi đối diện bắt bớ."
+description: "Qua câu chuyện A-na-nia và Sa-phi-ra trong Công-vụ 5:1-32, chúng ta thấy rằng ngay giữa Hội Thánh đầy ơn vẫn có thể phát sinh rắc rối vì sự gian dối, sĩ diện và thiếu tình yêu thật. Bài học cũng cho thấy sự can đảm, nguyên tắc sống và mục đích rõ ràng của các sứ đồ khi đối diện bắt bớ."
 tags: ["Hội Thánh", "Gian Dối", "A-na-nia", "Sa-phi-ra", "Sứ Đồ", "Can Đảm", "Nguyên Tắc Sống", "Công Vụ"]
 authors: ["duong-quang-thoai"]
 plugins: [youtube]
@@ -14,9 +14,9 @@ draft: false
 
 ## Hội Thánh Đầy Ơn Nhưng Vẫn Có Rắc Rối
 
-Từ đoạn 2 đến đoạn 4 của sách Công Vụ, chúng ta thấy hình ảnh một hội thánh tràn ngập tình thương và sự quan tâm lẫn nhau. Thánh Linh tuôn đổ trên họ, khiến họ sống đến mức bán hết tài sản, gom góp tiền giao cho các sứ đồ để phân phát cho mọi người theo nhu cầu. Việc cộng chung tài sản như vậy đòi hỏi phải loại bỏ sự ích kỷ, tham lam và ganh tỵ.
+Từ đoạn 2 đến đoạn 4 của sách Công Vụ, chúng ta thấy hình ảnh một Hội Thánh tràn ngập tình thương và sự quan tâm lẫn nhau. Thánh Linh tuôn đổ trên họ, khiến họ sống đến mức bán hết tài sản, gom góp tiền giao cho các sứ đồ để phân phát cho mọi người theo nhu cầu. Việc cộng chung tài sản như vậy đòi hỏi phải loại bỏ sự ích kỷ, tham lam và ganh tỵ.
 
-Tuy nhiên, bước sang Công Vụ đoạn 5, rắc rối bắt đầu phát sinh. Điều này cho thấy: bất cứ nơi nào có con người, nơi đó vẫn có thể sản sinh ra những điều tội lỗi — dù đang ở trong giai đoạn đầy ơn nhất của hội thánh.
+Tuy nhiên, bước sang Công Vụ đoạn 5, rắc rối bắt đầu phát sinh. Điều này cho thấy: bất cứ nơi nào có con người, nơi đó vẫn có thể sản sinh ra những điều tội lỗi — dù đang ở trong giai đoạn đầy ơn nhất của Hội Thánh.
 
 ---
 
@@ -34,9 +34,9 @@ Kinh Thánh ghi lại cả những câu chuyện xấu xí như vậy chính là
 
 Công Vụ 5:12-16 ghi lại rằng nhiều phép lạ được làm bởi tay các sứ đồ. Quyền năng Thánh Linh trên Phi-e-rơ mạnh mẽ đến nỗi chỉ cần bóng ông đi ngang qua, người bệnh cũng được chữa lành. Dân chúng từ các thành lân cận kéo đến, đem theo người đau ốm và kẻ bị quỷ hại, tất cả đều được chữa lành.
 
-Điều đặc biệt là nhiều người tin nhưng không dám gia nhập hội thánh — vì công việc, vì sợ bắt bớ, hoặc vì những lý do riêng. Tuy vậy, họ vẫn ngợi khen hội thánh. Đây là bài học quý: khi hội thánh sống đúng, ngay cả người ngoài cũng tôn trọng và khen ngợi, dù chưa gia nhập.
+Điều đặc biệt là nhiều người tin nhưng không dám gia nhập Hội Thánh — vì công việc, vì sợ bắt bớ, hoặc vì những lý do riêng. Tuy vậy, họ vẫn ngợi khen Hội Thánh. Đây là bài học quý: khi Hội Thánh sống đúng, ngay cả người ngoài cũng tôn trọng và khen ngợi, dù chưa gia nhập.
 
-Sứ mạng của hội thánh không chỉ là rao giảng phúc âm mà còn phải chăm sóc đời sống thuộc thể của con người, như chính Đức Chúa Giê-su đã làm trong ba năm rưỡi thi hành chức vụ.
+Sứ mạng của Hội Thánh không chỉ là rao giảng phúc âm mà còn phải chăm sóc đời sống thuộc thể của con người, như chính Đức Chúa Giê-su đã làm trong ba năm rưỡi thi hành chức vụ.
 
 ---
 
@@ -56,4 +56,4 @@ Từ phân đoạn này, chúng ta rút ra ba bài học:
 
 ## Kết Luận
 
-Câu chuyện Công Vụ đoạn 5 dạy chúng ta nhiều điều: sự gian dối dù nhỏ vẫn nghiêm trọng trước mặt Chúa; hội thánh dù đầy ơn vẫn có thể gặp rắc rối; nhưng khi sống can đảm, giữ nguyên tắc và hiểu rõ mục đích đời mình, chúng ta sẽ vượt qua mọi khó khăn bắt bớ. Mỗi Cơ-đốc nhân đều được kêu gọi trở thành nhân chứng cho Đức Chúa Giê-su — đó chính là mục đích cao quý nhất của cuộc đời.
+Câu chuyện Công Vụ đoạn 5 dạy chúng ta nhiều điều: sự gian dối dù nhỏ vẫn nghiêm trọng trước mặt Chúa; Hội Thánh dù đầy ơn vẫn có thể gặp rắc rối; nhưng khi sống can đảm, giữ nguyên tắc và hiểu rõ mục đích đời mình, chúng ta sẽ vượt qua mọi khó khăn bắt bớ. Mỗi Cơ-đốc nhân đều được kêu gọi trở thành nhân chứng cho Đức Chúa Giê-su — đó chính là mục đích cao quý nhất của cuộc đời.

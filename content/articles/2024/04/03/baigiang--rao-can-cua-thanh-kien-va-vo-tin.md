@@ -24,13 +24,13 @@ Ma-thi-ơ đoạn 13 là chương chứa đựng một loạt các ẩn dụ mà
 
 Mục sư giải thích rằng cách lưới mà Chúa đề cập là kiểu lưới kéo — một hoặc hai chiếc thuyền căng lưới và cào đi, thu vào tất cả mọi thứ trên đường đi: cá lớn, cá nhỏ, tép tôm, rác lá, rễ cây — không phân biệt.
 
-Hình ảnh này mang đến hai bài học cốt lõi cho hội thánh.
+Hình ảnh này mang đến hai bài học cốt lõi cho Hội Thánh.
 
-**Thứ nhất**, Phúc Âm của Chúa dành cho tất cả mọi người, không có ngoại lệ. Hội thánh cần mở rộng cửa đón nhận mọi người đến tìm kiếm Chúa, dù họ đến với lý do gì, dù quá khứ của họ như thế nào. Chúng ta không có thẩm quyền loại trừ bất kỳ ai. Người ăn trộm đóng đinh cùng Chúa trên thập tự giá — kẻ bị kết án tử hình vì tội phản loạn và cướp bóc — cũng được Chúa đón nhận vào giờ phút cuối đời chỉ vì một lời ăn năng thật lòng.
+**Thứ nhất**, Phúc Âm của Chúa dành cho tất cả mọi người, không có ngoại lệ. Hội Thánh cần mở rộng cửa đón nhận mọi người đến tìm kiếm Chúa, dù họ đến với lý do gì, dù quá khứ của họ như thế nào. Chúng ta không có thẩm quyền loại trừ bất kỳ ai. Người ăn trộm đóng đinh cùng Chúa trên thập tự giá — kẻ bị kết án tử hình vì tội phản loạn và cướp bóc — cũng được Chúa đón nhận vào giờ phút cuối đời chỉ vì một lời ăn năng thật lòng.
 
 **Thứ hai**, quyền phán xét không thuộc về con người. Chúng ta không được xét đoán nhau trong giai đoạn hiện tại. Khi lưới còn đang kéo, cả cá tốt lẫn cá xấu cùng ở trong đó — đến mùa gặt mới là lúc tách lọc. Điều này nhất quán với ẩn dụ về cỏ lùng và lúa mì trước đó: "phải chấp nhận cho cả hai cùng lớn lên cho đến mùa gặt."
 
-Hội thánh ngày nay thường rơi vào một trong hai thái cực: hoặc là **quan điểm tách biệt** — chỉ muốn nhóm họp với những người "tốt", loại bỏ những ai có vẻ xấu xa hay gây rắc rối; hoặc là **quan điểm dung nạp** — đón nhận tất cả mọi người và nhờ ân điển của Chúa biến đổi con người đó. Chân lý Chúa muốn truyền đạt ở đây nghiêng về phía thứ hai: tiếp nhận hết, để Chúa phán xét vào ngày sau rốt.
+Hội Thánh ngày nay thường rơi vào một trong hai thái cực: hoặc là **quan điểm tách biệt** — chỉ muốn nhóm họp với những người "tốt", loại bỏ những ai có vẻ xấu xa hay gây rắc rối; hoặc là **quan điểm dung nạp** — đón nhận tất cả mọi người và nhờ ân điển của Chúa biến đổi con người đó. Chân lý Chúa muốn truyền đạt ở đây nghiêng về phía thứ hai: tiếp nhận hết, để Chúa phán xét vào ngày sau rốt.
 
 ---
 
@@ -64,7 +64,7 @@ Mục sư cũng nhắc rằng đây là thực tế phổ biến trong đời s�
 
 Ba phần của Ma-thi-ơ 13:47-58 kết nối chặt chẽ thành một thông điệp nhất quán:
 
-- Hội thánh phải rộng mở như tay lưới, đón nhận mọi người mà không phán xét sớm, vì quyền chọn lọc cuối cùng là của Chúa vào ngày tận thế.
+- Hội Thánh phải rộng mở như tay lưới, đón nhận mọi người mà không phán xét sớm, vì quyền chọn lọc cuối cùng là của Chúa vào ngày tận thế.
 - Người tin Chúa không cần xóa sạch quá khứ — hãy giữ những gì còn tốt, bỏ những gì không phù hợp, và để ánh sáng mới của Lời Chúa soi sáng cả đồ cũ lẫn đồ mới.
 - Thành kiến và sự vô tín là những rào cản nguy hiểm nhất. Chúng không chỉ đóng lại con đường tiếp nhận chân lý — chúng còn ngăn không cho quyền năng của Chúa được bày tỏ trọn vẹn trong đời sống chúng ta.
 

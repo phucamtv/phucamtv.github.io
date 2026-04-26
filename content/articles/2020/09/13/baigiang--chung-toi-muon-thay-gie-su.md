@@ -14,7 +14,7 @@ draft: false
 
 ## Câu Chuyện Vị Mục Sư Trẻ
 
-Một sinh viên mới tốt nghiệp trường Thần học được mời làm Mục sư cho một Hội thánh nhỏ. Tín đồ nơi ấy là những người yêu mến lẽ thật, nên có yêu cầu rất cao đối với những bài giảng.
+Một sinh viên mới tốt nghiệp trường Thần học được mời làm Mục sư cho một Hội Thánh nhỏ. Tín đồ nơi ấy là những người yêu mến lẽ thật, nên có yêu cầu rất cao đối với những bài giảng.
 
 Trong những tháng đầu, vị mục sư trẻ đã ra công vận dụng tri thức mà mình đã học được, đứng trên tòa giảng, giảng vang dội như tiếng chuông ngân, với những bài vô cùng hấp dẫn, đầy những điều mới lạ, gây bất ngờ cho tín hữu. Nhiều người khâm phục tài diễn thuyết và vốn liếng kiến thức của mục sư.
 

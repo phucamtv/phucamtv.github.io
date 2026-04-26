@@ -2,7 +2,7 @@
 title: "Năm Mới, Hãy Trở Nên Mới | 2 Cô-rinh-tô 5:17, Cô-lô-se 3:5-10"
 date: 2025-01-25
 url: /baigiang/nam-moi-hay-tro-nen-moi/
-description: "Trưởng lão Nguyễn Tuấn nhắc nhở hội thánh rằng bước vào năm mới không chỉ là thay đổi lịch, mà phải là sự đổi mới từ bên trong — lột bỏ con người cũ, mặc lấy con người mới trong Đấng Christ, và sống theo sự dẫn dắt của Thánh Linh."
+description: "Trưởng lão Nguyễn Tuấn nhắc nhở Hội Thánh rằng bước vào năm mới không chỉ là thay đổi lịch, mà phải là sự đổi mới từ bên trong — lột bỏ con người cũ, mặc lấy con người mới trong Đấng Christ, và sống theo sự dẫn dắt của Thánh Linh."
 tags: ["Năm Mới", "Đổi Mới", "Con Người Mới", "Thánh Linh", "Phước Hạnh", "Đức Tin", "Thánh Hóa"]
 authors: ["nguyen-tuan"]
 plugins: [youtube]
@@ -14,7 +14,7 @@ draft: false
 
 ## Phần Kinh Thánh: 2 Cô-rinh-tô 5:17, Cô-lô-se 3:5-10, Ê-phê-sô 5:8, Phi-líp 3:14, Thi Thiên 1:1-3
 
-Nhân dịp cuối năm âm lịch, Trưởng lão Nguyễn Tuấn chia sẻ với hội thánh về ý nghĩa thật sự của việc bước vào năm mới đối với người tin Chúa. Thay vì chỉ trao đổi những lời chúc tốt đẹp hay hy vọng suông vào hoàn cảnh sẽ thay đổi, mỗi cơ đốc nhân cần nhìn lại mối tương giao với Chúa và quyết tâm đổi mới đời sống từ bên trong.
+Nhân dịp cuối năm âm lịch, Trưởng lão Nguyễn Tuấn chia sẻ với Hội Thánh về ý nghĩa thật sự của việc bước vào năm mới đối với người tin Chúa. Thay vì chỉ trao đổi những lời chúc tốt đẹp hay hy vọng suông vào hoàn cảnh sẽ thay đổi, mỗi cơ đốc nhân cần nhìn lại mối tương giao với Chúa và quyết tâm đổi mới đời sống từ bên trong.
 
 ---
 

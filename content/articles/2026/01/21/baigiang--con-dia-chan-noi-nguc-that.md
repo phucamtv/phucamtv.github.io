@@ -100,7 +100,7 @@ Trong đêm đó, người cai ngục rửa vết thương cho hai người, và
 
 Sáng hôm sau, các quan lớn sai người thả Phao-lô và Si-la *lén lút*. Phao-lô không chấp nhận. Ông nói thẳng: *"Chúng ta vốn là quốc dân La Mã; khi chưa định tội đã đánh đòn chúng ta giữa thiên hạ rồi bỏ vào ngục, nay họ lại thả lén chúng ta ư? Điều đó không được. Chính các quan phải tới đây mà thả chúng ta mới phải."*
 
-Đây không phải kiêu ngạo — đây là nguyên tắc. Phao-lô đòi quyền lợi hợp pháp không phải cho bản thân, mà để bảo vệ những Cơ-đốc nhân còn lại ở Phi-líp. Nếu hai ông bước ra lặng lẽ, chính quyền sẽ tiếp tục tùy tiện đối xử với những người theo Chúa. Bằng cách buộc các quan phải đến tận nơi xin lỗi và thả ra chính thức, Phao-lô tạo một tiền lệ bảo vệ hội thánh địa phương.
+Đây không phải kiêu ngạo — đây là nguyên tắc. Phao-lô đòi quyền lợi hợp pháp không phải cho bản thân, mà để bảo vệ những Cơ-đốc nhân còn lại ở Phi-líp. Nếu hai ông bước ra lặng lẽ, chính quyền sẽ tiếp tục tùy tiện đối xử với những người theo Chúa. Bằng cách buộc các quan phải đến tận nơi xin lỗi và thả ra chính thức, Phao-lô tạo một tiền lệ bảo vệ Hội Thánh địa phương.
 
 ---
 

@@ -35,7 +35,7 @@ Chúa truyền các sứ giả đừng đem vàng, bạc, tiền, bao đi đư�
 
 ### Người Làm Việc Đáng Được Đồ Ăn
 
-Tuy nhiên, cần phân biệt rõ: không trục lợi từ chức vụ khác với trách nhiệm của hội thánh trong việc chu cấp cho người hầu việc Chúa. Sứ đồ Phao-lô rất nghiêm khắc về điều này khi ông nói rằng không ai khớp miệng con bò trong khi nó đạp lúa. Kế hoạch tài chánh của Đức Chúa Trời đã có từ thời Cựu Ước: mười một chi phái dâng một phần mười để chu cấp cho chi phái Lê-vi, những người được biệt riêng lo việc thờ phượng. Ngày nay, hội thánh cũng có trách nhiệm tương tự đối với những người toàn thời gian hầu việc Chúa.
+Tuy nhiên, cần phân biệt rõ: không trục lợi từ chức vụ khác với trách nhiệm của Hội Thánh trong việc chu cấp cho người hầu việc Chúa. Sứ đồ Phao-lô rất nghiêm khắc về điều này khi ông nói rằng không ai khớp miệng con bò trong khi nó đạp lúa. Kế hoạch tài chánh của Đức Chúa Trời đã có từ thời Cựu Ước: mười một chi phái dâng một phần mười để chu cấp cho chi phái Lê-vi, những người được biệt riêng lo việc thờ phượng. Ngày nay, Hội Thánh cũng có trách nhiệm tương tự đối với những người toàn thời gian hầu việc Chúa.
 
 ## Tác Phong Của Sứ Giả (Ma-thi-ơ 10:11-15)
 

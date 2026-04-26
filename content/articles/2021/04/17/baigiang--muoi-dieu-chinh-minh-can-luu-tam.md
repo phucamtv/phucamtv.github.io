@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu: Mười Điều Liên Quan Đến Chính Mình
 
-Trong đời sống đức tin, chúng ta thường hướng ra bên ngoài — lo cho người khác, lo cho công việc Chúa, lo cho hội thánh — nhưng đôi khi lại quên mất chính bản thân mình. Mục sư Dương Quang Thoại trong bài giảng này đã tổng hợp mười điều Kinh Thánh dạy liên quan trực tiếp đến "chính mình," giúp mỗi tín hữu nhìn lại nội tâm, điều chỉnh lối sống và tiếp tục tăng trưởng trong Chúa.
+Trong đời sống đức tin, chúng ta thường hướng ra bên ngoài — lo cho người khác, lo cho công việc Chúa, lo cho Hội Thánh — nhưng đôi khi lại quên mất chính bản thân mình. Mục sư Dương Quang Thoại trong bài giảng này đã tổng hợp mười điều Kinh Thánh dạy liên quan trực tiếp đến "chính mình," giúp mỗi tín hữu nhìn lại nội tâm, điều chỉnh lối sống và tiếp tục tăng trưởng trong Chúa.
 
 ---
 

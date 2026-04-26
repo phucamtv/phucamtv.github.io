@@ -20,7 +20,7 @@ Kinh Thánh cho chúng ta thấy một bức tranh tương tự qua câu chuyệ
 
 Dù được Chúa cảnh báo trực tiếp như vậy, Giu-đa vẫn không dừng lại. Sau bữa ăn, ông rời khỏi phòng, điểm chỉ cho lính đến bắt Chúa tại vườn Ghết-sê-ma-nê. Cái dấu hiệu mà Giu-đa đưa ra để nhận diện Chúa lại chính là một nụ hôn — một biểu tượng của tình yêu bị biến thành công cụ phản bội. Khi tội lỗi đã hình thành và lớn mạnh trong lòng, không có gì có thể ngăn cản được nó.
 
-Gia-cơ 3:5 cũng nhắc nhở: *"Cái lưỡi là một quan thể nhỏ, mà khoe được những việc lớn. Thử xem cái rừng lớn chừng nào mà một chút lửa có thể đốt cháy lên!"* Chỉ một chút lửa nhỏ có thể thiêu rụi cả khu rừng nguyên sinh hàng trăm năm tuổi. Cũng vậy, chỉ một tội lỗi nhỏ có thể tàn phá cả cuộc đời, gia đình và hội thánh.
+Gia-cơ 3:5 cũng nhắc nhở: *"Cái lưỡi là một quan thể nhỏ, mà khoe được những việc lớn. Thử xem cái rừng lớn chừng nào mà một chút lửa có thể đốt cháy lên!"* Chỉ một chút lửa nhỏ có thể thiêu rụi cả khu rừng nguyên sinh hàng trăm năm tuổi. Cũng vậy, chỉ một tội lỗi nhỏ có thể tàn phá cả cuộc đời, gia đình và Hội Thánh.
 
 Câu chuyện về cách người Eskimo săn sói minh họa rõ điều này: họ nhúng con dao vào máu động vật rồi để đóng băng từng lớp. Con sói đánh hơi máu, đến liếm lớp băng một cách say sưa, cho đến khi chạm vào lưỡi dao sắc bén mà không hay biết. Máu của chính nó chảy ra, nó tiếp tục liếm vì tưởng là máu của con thú khác, cho đến khi kiệt sức. Nhiều phạm nhân khi đứng trước tòa cũng thú nhận rằng họ không hiểu tại sao mình lại phạm tội — cứ như bị một sức mạnh nào đó điều khiển mà không thể dừng lại.
 

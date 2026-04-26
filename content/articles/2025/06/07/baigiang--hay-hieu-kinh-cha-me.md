@@ -14,7 +14,7 @@ draft: false
 
 ## Nghĩa Mẹ Tình Cha
 
-Trong dịp Lễ Tri Ân Phụ Mẫu, Hội thánh cùng nhau suy gẫm về công ơn sinh thành dưỡng dục của cha mẹ qua lời Kinh Thánh. Dù mỗi quốc gia có những ngày khác nhau để tưởng nhớ công ơn cha mẹ, nhưng lời Chúa luôn nhắc nhở chúng ta về bổn phận hiếu kính đối với bậc sinh thành.
+Trong dịp Lễ Tri Ân Phụ Mẫu, Hội Thánh cùng nhau suy gẫm về công ơn sinh thành dưỡng dục của cha mẹ qua lời Kinh Thánh. Dù mỗi quốc gia có những ngày khác nhau để tưởng nhớ công ơn cha mẹ, nhưng lời Chúa luôn nhắc nhở chúng ta về bổn phận hiếu kính đối với bậc sinh thành.
 
 Về tình mẹ, câu chuyện trong I Các Vua 3:16-28 kể lại vụ án hai người phụ nữ tranh giành một đứa trẻ trước mặt vua Sa-lô-môn. Không có nhân chứng, không có vật chứng, vua đã đưa ra phán quyết bất ngờ: lấy gươm chẻ đứa bé làm đôi. Bà mẹ thật lập tức từ bỏ quyền tranh giành, miễn sao con mình được sống. Đây là cái bẫy mà chỉ tình mẫu tử chân thật mới có thể vượt qua, vì kẻ xảo trá dù khôn khéo đến đâu cũng không thể che giấu lòng ích kỷ. Ê-sai 49:15 khẳng định rằng người mẹ không bao giờ quên đứa con mình đang cho bú.
 

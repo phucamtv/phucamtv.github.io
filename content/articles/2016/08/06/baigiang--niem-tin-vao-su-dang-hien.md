@@ -24,7 +24,7 @@ Trước hết, chúng ta cần nhận biết bản tính của Đức Chúa Tr�
 
 Bản chất của việc dâng hiến chính là mối tương giao giữa chúng ta với Đức Chúa Trời, giống như khi chúng ta tặng quà cho ai đó, điều ấy thể hiện mối quan hệ giữa hai bên. Có năm khía cạnh quan trọng cần nhận biết:
 
-**Thứ nhất**, dâng hiến là bày tỏ cụ thể từ cam kết với Đức Chúa Trời. Khi trở thành thuộc viên hội thánh, chúng ta đã cam kết góp phần bằng công sức, thời gian, tiền bạc để xây dựng công việc Chúa.
+**Thứ nhất**, dâng hiến là bày tỏ cụ thể từ cam kết với Đức Chúa Trời. Khi trở thành thuộc viên Hội Thánh, chúng ta đã cam kết góp phần bằng công sức, thời gian, tiền bạc để xây dựng công việc Chúa.
 
 **Thứ hai**, những gì chúng ta cho đi luôn có giá trị và ý nghĩa. Sự dâng hiến đòi hỏi chúng ta trả một cái giá, chuẩn bị bằng tấm lòng trân trọng chứ không qua loa chiếu lệ. Câu chuyện người đàn bà góa chỉ dâng hai đồng xu, nhưng Chúa đánh giá bà đã dâng nhiều hơn tất cả, bởi bà dâng tất cả những gì mình có.
 

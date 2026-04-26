@@ -52,7 +52,7 @@ Thứ năm, nó tự làm mình lớn cho đến Tướng Cơ Binh — tức là
 
 Không có quyền lực nào trên lịch sử hội đủ cả mười một đặc điểm trên ngoài Giáo hội Công giáo La Mã. Giáo hội đó xuất phát từ La Mã, bành trướng khắp châu Âu và vùng Đông Địa Trung Hải, giết hàng triệu triệu người Cơ-đốc nhân trung thành với lời Chúa trong suốt thời trung cổ. Giáo hoàng Gioan Phaolô II đã chính thức xin lỗi về các cuộc Thập Tự Chinh và tra tấn do Tòa án Dị Giáo gây ra.
 
-Về mặt thuộc linh, Giáo hội Công giáo đã thay thế vai trò cầu thay trực tiếp của Đức Chúa Giê-su bằng các linh mục nhận lời xưng tội; đặt giáo hoàng làm đầu hội thánh thay vì Đấng Christ; thờ tượng và xưng tụng các thánh; bỏ điều răn thứ hai cấm làm hình tượng; đổi ngày Sa-bát thứ bảy sang ngày thứ nhất; thêm vào những giáo điều không có căn cứ Kinh Thánh như cầu nguyện cho người chết, luyện ngục, và độc thân bắt buộc của tu sĩ. Tất cả những điều này đều là sự "ném bỏ lẽ thật xuống đất" mà Đa-ni-ên 8:12 mô tả.
+Về mặt thuộc linh, Giáo hội Công giáo đã thay thế vai trò cầu thay trực tiếp của Đức Chúa Giê-su bằng các linh mục nhận lời xưng tội; đặt giáo hoàng làm đầu Hội Thánh thay vì Đấng Christ; thờ tượng và xưng tụng các thánh; bỏ điều răn thứ hai cấm làm hình tượng; đổi ngày Sa-bát thứ bảy sang ngày thứ nhất; thêm vào những giáo điều không có căn cứ Kinh Thánh như cầu nguyện cho người chết, luyện ngục, và độc thân bắt buộc của tu sĩ. Tất cả những điều này đều là sự "ném bỏ lẽ thật xuống đất" mà Đa-ni-ên 8:12 mô tả.
 
 ---
 

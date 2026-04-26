@@ -42,7 +42,7 @@ Nhiều trường hợp các bạn trẻ tự tử để lại thư tuyệt mệ
 
 II Ti-mô-thê 3:3 tiên báo về thời kỳ cuối cùng: con người sẽ tư kỷ, tham tiền, khoe khoang — và đặc biệt là "vô tình." Vô tình, vô cảm, làm lơ trước sự bất hạnh của người khác — đó là một tội trước mặt Đức Chúa Trời. Rô-ma 1:31 cũng liệt kê "không có lòng thương xót" trong danh sách những tội lỗi của thời đại.
 
-Khi khảo sát lý do đến với hội thánh, hơn 40 phần trăm tín đồ cho biết họ đến không phải vì bài giảng hay, không phải vì chương trình hoành tráng — mà chỉ vì một câu hỏi thăm chân thành từ một người tín hữu. Chính sự quan tâm nhỏ nhặt nhất có thể thu phục lòng người.
+Khi khảo sát lý do đến với Hội Thánh, hơn 40 phần trăm tín đồ cho biết họ đến không phải vì bài giảng hay, không phải vì chương trình hoành tráng — mà chỉ vì một câu hỏi thăm chân thành từ một người tín hữu. Chính sự quan tâm nhỏ nhặt nhất có thể thu phục lòng người.
 
 ---
 

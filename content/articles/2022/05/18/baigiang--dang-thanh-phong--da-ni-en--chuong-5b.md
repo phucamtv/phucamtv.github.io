@@ -9,7 +9,7 @@ url: /baigiang/dang-thanh-phong/da-ni-en/chuong-5b/index.html
 draft: false
 part_of_series: true
 notion_id: 0b3e7ba7-1b90-48e7-b89c-c654727136f6
-description: "Qua Đa-ni-ên chương 5, Mục Sư Đặng Thanh Phong phân tích hai điều xúc phạm Chúa mà vua Bên-xát-sa đã phạm: tục hóa những vật dụng thánh của Chúa và thờ phượng các thần tượng bằng vàng bạc thay vì Đấng Tạo Hóa. Đây là bài học cảnh tỉnh cho hội thánh ngày nay."
+description: "Qua Đa-ni-ên chương 5, Mục Sư Đặng Thanh Phong phân tích hai điều xúc phạm Chúa mà vua Bên-xát-sa đã phạm: tục hóa những vật dụng thánh của Chúa và thờ phượng các thần tượng bằng vàng bạc thay vì Đấng Tạo Hóa. Đây là bài học cảnh tỉnh cho Hội Thánh ngày nay."
 ---
 
 {{< youtube "BuxAQstggvs" >}}
@@ -52,9 +52,9 @@ Rô-ma 1:18-25 mô tả chính xác tình trạng này: con người dù biết 
 
 ### Thờ Phượng Sai Lệch Trong Hội Thánh
 
-Ngay cả trong hội thánh, điều xúc phạm này vẫn xảy ra dưới nhiều hình thức: phong thánh các tôi tớ Chúa rồi thờ lạy họ, trong khi chính những người đó đã từ chối sự tôn thờ. Sứ đồ Phi-e-rơ khi thấy người ta quỳ trước mặt ông đã nói rằng mình cũng chỉ là người. Thiên sứ trong Khải Huyền cũng cản ngăn Giăng đừng thờ lạy, vì thiên sứ cũng chỉ là vật thọ tạo.
+Ngay cả trong Hội Thánh, điều xúc phạm này vẫn xảy ra dưới nhiều hình thức: phong thánh các tôi tớ Chúa rồi thờ lạy họ, trong khi chính những người đó đã từ chối sự tôn thờ. Sứ đồ Phi-e-rơ khi thấy người ta quỳ trước mặt ông đã nói rằng mình cũng chỉ là người. Thiên sứ trong Khải Huyền cũng cản ngăn Giăng đừng thờ lạy, vì thiên sứ cũng chỉ là vật thọ tạo.
 
-Một số người thần thánh hóa lễ báp-têm, cho rằng chỉ có mục sư nào đó làm lễ thì mới được cứu — trong khi chính Đức Chúa Giê-su là Đấng cứu con người, không phải con người cứu con người. Mục sư làm lễ báp-têm chỉ là làm thay mặt cho hội thánh, giống như mục sư làm lễ cưới không quyết định hạnh phúc của đôi vợ chồng.
+Một số người thần thánh hóa lễ báp-têm, cho rằng chỉ có mục sư nào đó làm lễ thì mới được cứu — trong khi chính Đức Chúa Giê-su là Đấng cứu con người, không phải con người cứu con người. Mục sư làm lễ báp-têm chỉ là làm thay mặt cho Hội Thánh, giống như mục sư làm lễ cưới không quyết định hạnh phúc của đôi vợ chồng.
 
 ---
 

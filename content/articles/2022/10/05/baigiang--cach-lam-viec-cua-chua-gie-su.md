@@ -31,7 +31,7 @@ Có câu hỏi được đặt ra: Chúa chữa lành rồi cuối cùng họ c�
 
 Trong số hàng ngàn người theo Chúa mỗi ngày, chắc chắn có người thật tâm, có kẻ lợi dụng, thậm chí có những người ghét Ngài trà trộn vào, rình rập bắt bẻ lời Ngài. Nhưng Chúa không hề lọc lựa -- Ngài đón nhận tất cả, chữa lành tất cả. Chính Ngài dạy rằng hãy yêu kẻ thù nghịch, hãy giống như Cha trên trời ban mưa cho kẻ công bình lẫn kẻ độc ác.
 
-Hội thánh ngày nay cũng cần mở rộng đón tiếp mọi người, dù họ đến với bất kỳ lý do nào. Đừng để lòng trắc ẩn bị chai cứng bởi những sự lừa gạt bên ngoài, vì biết đâu có người đến với ý xấu nhưng cuối cùng Chúa hành động để họ tiếp nhận Ngài cách chân thật.
+Hội Thánh ngày nay cũng cần mở rộng đón tiếp mọi người, dù họ đến với bất kỳ lý do nào. Đừng để lòng trắc ẩn bị chai cứng bởi những sự lừa gạt bên ngoài, vì biết đâu có người đến với ý xấu nhưng cuối cùng Chúa hành động để họ tiếp nhận Ngài cách chân thật.
 
 ## Kết hợp chữa lành tâm linh và thể xác
 

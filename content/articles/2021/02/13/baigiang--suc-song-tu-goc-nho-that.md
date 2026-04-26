@@ -14,7 +14,7 @@ draft: false
 
 ## Mối Liên Kết Đặc Biệt: Người Trồng Nho, Gốc Nho Và Nhánh Nho
 
-Giăng 15:1-6 là sứ điệp Đức Chúa Giê-su gửi gắm đến các môn đệ thân yêu — và qua đó, gửi đến toàn thể hội thánh của Ngài qua mọi thời đại:
+Giăng 15:1-6 là sứ điệp Đức Chúa Giê-su gửi gắm đến các môn đệ thân yêu — và qua đó, gửi đến toàn thể Hội Thánh của Ngài qua mọi thời đại:
 
 > *"Ta là gốc nho thật, Cha ta là người trồng nho... Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong ta và ta trong họ thì sinh ra lắm trái; vì ngoài ta, các ngươi chẳng làm chi được."*
 

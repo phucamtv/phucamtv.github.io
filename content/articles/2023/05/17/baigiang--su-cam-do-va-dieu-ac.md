@@ -43,6 +43,6 @@ Tất cả mọi người đều bị cám dỗ, nhưng Sa-tan chỉ thắng đ�
 
 ## Phương cách phòng vệ
 
-Để chống lại sự cám dỗ, có bốn điều gợi ý. Một là lòng tự trọng và thể diện -- nghĩ đến danh dự của mình với tư cách người tin Chúa mà kìm hãm hành động sai trái. Hai là nghĩ đến tập thể, gia tộc và hội thánh mà mình thuộc về, vì hành động của cá nhân ảnh hưởng đến cả cộng đồng. Ba là vì những người mình yêu thương -- nghĩ đến cha mẹ, con cháu sẽ đau khổ hay mang tiếng nếu mình phạm tội. Bốn là luôn ý thức sự hiện diện của Đức Chúa Giê-su trong cuộc đời mình: nếu Ngài đang ở bên cạnh, liệu mình có nói hay làm điều đó không?
+Để chống lại sự cám dỗ, có bốn điều gợi ý. Một là lòng tự trọng và thể diện -- nghĩ đến danh dự của mình với tư cách người tin Chúa mà kìm hãm hành động sai trái. Hai là nghĩ đến tập thể, gia tộc và Hội Thánh mà mình thuộc về, vì hành động của cá nhân ảnh hưởng đến cả cộng đồng. Ba là vì những người mình yêu thương -- nghĩ đến cha mẹ, con cháu sẽ đau khổ hay mang tiếng nếu mình phạm tội. Bốn là luôn ý thức sự hiện diện của Đức Chúa Giê-su trong cuộc đời mình: nếu Ngài đang ở bên cạnh, liệu mình có nói hay làm điều đó không?
 
 Trên hết, lời Chúa ở trong lòng là sức mạnh lớn nhất giúp chúng ta chiến thắng: "Tôi đã giấu lời Chúa trong lòng tôi, để tôi không phạm tội cùng Chúa" (Thi Thiên 119:11).

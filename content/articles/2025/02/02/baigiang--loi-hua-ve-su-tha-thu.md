@@ -66,4 +66,4 @@ Câu chuyện người đầy tớ không biết thương xót (Ma-thi-ơ 18:23-
 
 Chúng ta có thể không coi mình là "kẻ ác", nhưng ai trong chúng ta cũng đã có lúc nuôi dưỡng ác tưởng — lòng thù hận, tham lam, ích kỷ — dù chưa thể hiện ra bằng hành động. Đức Chúa Trời mời gọi chúng ta từ bỏ con đường đó và quay trở về với Ngài, vì Ngài thương xót và sẵn lòng tha thứ dồi dào.
 
-Nếu gia đình bạn đang chìm trong oán giận và thiếu sự tha thứ — đó là ngục tù. Nếu hội thánh không có sự tha thứ — đó cũng là ngục tù. Nhưng khi chúng ta tiếp nhận sự tha thứ của Đức Chúa Trời qua Đấng Cứu Thế Giê-su, và học cách tha thứ cho nhau như Giô-sép đã làm, chúng ta sẽ được giải phóng khỏi ngục tù đó để sống trong tự do và bình an thực sự.
+Nếu gia đình bạn đang chìm trong oán giận và thiếu sự tha thứ — đó là ngục tù. Nếu Hội Thánh không có sự tha thứ — đó cũng là ngục tù. Nhưng khi chúng ta tiếp nhận sự tha thứ của Đức Chúa Trời qua Đấng Cứu Thế Giê-su, và học cách tha thứ cho nhau như Giô-sép đã làm, chúng ta sẽ được giải phóng khỏi ngục tù đó để sống trong tự do và bình an thực sự.

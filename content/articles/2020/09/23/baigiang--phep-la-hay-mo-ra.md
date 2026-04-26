@@ -28,7 +28,7 @@ Chi tiết đầu tiên đáng chú ý là người câm điếc không tự mì
 
 Thay vì chữa lành ngay giữa đám đông như những lần trước, Đức Chúa Giê-su kéo riêng người câm điếc ra khỏi đám đông. Điều này dạy cho chúng ta bài học quan trọng: sự chữa lành thật sự thường đến từ mối tương giao riêng tư với Chúa.
 
-Trước mặt hội thánh, chúng ta có thể cầu nguyện hàng giờ, nói về Chúa cách dạn dĩ và mạnh mẽ. Nhưng khi về riêng một mình, chúng ta có thật sự ở riêng với Chúa không? Có cầu nguyện sâu sắc không? Có hát ca ngợi Ngài bằng cả tấm lòng không? Có đọc Lời Ngài không? Sự chữa lành thuộc linh phải đến từ sự riêng tư đó, xa khỏi những bận rộn và ồn ào của cuộc sống.
+Trước mặt Hội Thánh, chúng ta có thể cầu nguyện hàng giờ, nói về Chúa cách dạn dĩ và mạnh mẽ. Nhưng khi về riêng một mình, chúng ta có thật sự ở riêng với Chúa không? Có cầu nguyện sâu sắc không? Có hát ca ngợi Ngài bằng cả tấm lòng không? Có đọc Lời Ngài không? Sự chữa lành thuộc linh phải đến từ sự riêng tư đó, xa khỏi những bận rộn và ồn ào của cuộc sống.
 
 ## Cách Chữa Trị Khác Thường
 

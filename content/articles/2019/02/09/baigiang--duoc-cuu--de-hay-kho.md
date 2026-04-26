@@ -14,7 +14,7 @@ draft: false
 
 ## Được Cứu — Dễ Hay Khó?
 
-Đây là câu hỏi mà Mục sư Dương Quang Thoại đặt ra cho cả hội thánh vào buổi nhóm sáng mùng 5 Tết Kỷ Hợi, ngày 9 tháng 2 năm 2019. Khi hỏi ai cho rằng được cứu là dễ, không ai giơ tay. Khi hỏi ai cho rằng được cứu là khó, hầu hết đều giơ tay. Nhưng khi hỏi ai tin mình được cứu, nhiều người vẫn giơ tay lên.
+Đây là câu hỏi mà Mục sư Dương Quang Thoại đặt ra cho cả Hội Thánh vào buổi nhóm sáng mùng 5 Tết Kỷ Hợi, ngày 9 tháng 2 năm 2019. Khi hỏi ai cho rằng được cứu là dễ, không ai giơ tay. Khi hỏi ai cho rằng được cứu là khó, hầu hết đều giơ tay. Nhưng khi hỏi ai tin mình được cứu, nhiều người vẫn giơ tay lên.
 
 Đó là một nghịch lý thú vị. Sự cứu rỗi vừa khó vừa dễ — dễ mà khó, khó mà dễ — không phải là ba phải, nhưng là một chân lý cần hiểu đúng để sống đúng.
 

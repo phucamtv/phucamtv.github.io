@@ -71,7 +71,7 @@ Người lính Pháp không thể quyết định việc mất cánh tay, nhưng
 Chúng ta cũng vậy. Mỗi ngày đều có cơ hội để **chuyển đổi tư duy** — từ "tôi đang mất" sang "tôi đang dâng". Đó có thể là:
 - Dâng thì giờ buổi sáng để cầu nguyện và đọc Lời Chúa.
 - Dâng một phần thu nhập với lòng vui mừng, không miễn cưỡng.
-- Dâng tài năng và sức lực để phục vụ hội thánh và tha nhân.
+- Dâng tài năng và sức lực để phục vụ Hội Thánh và tha nhân.
 - Dâng những lo lắng, gánh nặng lên bàn thờ của Đức Chúa Trời.
 
 ---

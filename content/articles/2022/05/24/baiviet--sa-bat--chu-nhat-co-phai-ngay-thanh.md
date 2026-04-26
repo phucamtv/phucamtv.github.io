@@ -85,7 +85,7 @@ Giáo hội Công Giáo trả lời:
 
 > “Phao-lô… theo thói quen mình, trong ba ngày Sa-bát…” (Công vụ 17:2)
 
-*(Sau khi Chúa thăng thiên, nếu có sự thay đổi từ ngày Thứ Bảy qua ngày Thứ Nhất thì Phao-lô và các sứ đồ đã truyền cho Hội thánh rồi! – Rõ ràng không hề có sự thay đổi nào về ****Ngày Thờ Phượng****, nếu có, thì đó là một chấn động đối với thói quen giữ ngày Sa-bát của người Do Thái.)*
+*(Sau khi Chúa thăng thiên, nếu có sự thay đổi từ ngày Thứ Bảy qua ngày Thứ Nhất thì Phao-lô và các sứ đồ đã truyền cho Hội Thánh rồi! – Rõ ràng không hề có sự thay đổi nào về ****Ngày Thờ Phượng****, nếu có, thì đó là một chấn động đối với thói quen giữ ngày Sa-bát của người Do Thái.)*
 
 **Nếu giữ ngày chủ nhật là sai, thì sao đa số Giáo hội thờ Chúa đều giữ ngày chủ nhật? Chẳng lẽ đa số lại là sai, còn một ít người giữ ngày thứ bảy lại là đúng sao?**
 
@@ -519,7 +519,7 @@ Chúa truyền phải tuyệt diệt dân A-ma-léc, giết tất cả người 
 
 Sự vâng lời Đức Chúa Trời là điều trên hết mà Ngài đòi hỏi, không thể thay thế bằng bất kỳ một điều nào khác.
 
-Người ta tưởng có thể làm vừa lòng Chúa bởi việc xây cất nhiều nhà thờ, tăng thêm số tín hữu, hội thánh cầu nguyện và dâng hiến sốt sắng… để thay cho việc chối bỏ ngày Sa-bát! Đức Chúa Trời chẳng phải là loài người, Ngài không nhận những của lễ như thế nếu không đi kèm với sự vâng lời. Không giữ điều răn nói chung và điều răn thứ tư nói riêng, mọi nỗ lực của chúng ta để làm vui lòng Chúa đều trở nên vô ích.
+Người ta tưởng có thể làm vừa lòng Chúa bởi việc xây cất nhiều nhà thờ, tăng thêm số tín hữu, Hội Thánh cầu nguyện và dâng hiến sốt sắng… để thay cho việc chối bỏ ngày Sa-bát! Đức Chúa Trời chẳng phải là loài người, Ngài không nhận những của lễ như thế nếu không đi kèm với sự vâng lời. Không giữ điều răn nói chung và điều răn thứ tư nói riêng, mọi nỗ lực của chúng ta để làm vui lòng Chúa đều trở nên vô ích.
 
 > “Sự vâng lời tốt hơn của tế lễ,… sự cố chấp giống như tội trọng cúng lạy hình tượng…” (I Sa-mu-ên 15:22,23)
 

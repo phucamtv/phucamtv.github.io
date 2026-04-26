@@ -14,7 +14,7 @@ draft: false
 
 ## Giới Thiệu: Sau Khi Người Trai Trẻ Giàu Có Ra Đi
 
-Bài giảng này tiếp nối phần học trước về người trai trẻ giàu có buồn bã quay đi vì không thể từ bỏ tài sản. Mục sư Dương Quang Thoại dẫn hội thánh đi sâu vào Mác 10:23-31 — đoạn Kinh Thánh Chúa Giêsu giải thích cho các môn đồ đang bối rối: nếu người giàu mà còn khó vào nước Đức Chúa Trời, thì ai được cứu?
+Bài giảng này tiếp nối phần học trước về người trai trẻ giàu có buồn bã quay đi vì không thể từ bỏ tài sản. Mục sư Dương Quang Thoại dẫn Hội Thánh đi sâu vào Mác 10:23-31 — đoạn Kinh Thánh Chúa Giêsu giải thích cho các môn đồ đang bối rối: nếu người giàu mà còn khó vào nước Đức Chúa Trời, thì ai được cứu?
 
 ---
 
@@ -32,7 +32,7 @@ Chúa Giêsu không lên án người giàu có, nhưng Ngài chỉ rõ hai nguy
 
 **Thứ nhất**, của cải vật chất có khuynh hướng gắn chặt lòng người với đời này. Khi mọi sự tiện nghi, an toàn và tương lai đều được đảm bảo bằng tiền bạc, người ta dần dần không còn cảm thấy cần đến Đức Chúa Trời nữa.
 
-**Thứ hai**, quan tâm đến vật chất khiến con người định giá mọi thứ theo quan niệm vật chất. Ngay cả trong hội thánh, người giàu đóng góp nhiều thường được ưu tiên, được lắng nghe, thậm chí được phép chi phối công việc Chúa. Mục sư nhắc thẳng: thực trạng này không khác gì quan niệm của các môn đồ ngày xưa — và nó trái ngược hoàn toàn với tinh thần Nước Trời.
+**Thứ hai**, quan tâm đến vật chất khiến con người định giá mọi thứ theo quan niệm vật chất. Ngay cả trong Hội Thánh, người giàu đóng góp nhiều thường được ưu tiên, được lắng nghe, thậm chí được phép chi phối công việc Chúa. Mục sư nhắc thẳng: thực trạng này không khác gì quan niệm của các môn đồ ngày xưa — và nó trái ngược hoàn toàn với tinh thần Nước Trời.
 
 Của cải là phép thử cho lòng người: thâu góp bằng cách nào và sử dụng ra sao. Ai trông cậy vào của cải chẳng bao giờ nhận được sự cứu rỗi — vì sự cứu rỗi hoàn toàn tùy thuộc vào Đức Chúa Trời, không phải vào khả năng con người.
 
@@ -64,6 +64,6 @@ Mục sư giải thích lời hứa "trăm lần hơn" theo nghĩa cụ thể: m
 
 Chúa Giêsu khép lại với lời cảnh báo nghiêm túc: *"Nhưng có nhiều kẻ đầu sẽ nên rốt; có kẻ rốt sẽ nên đầu."* (Mác 10:31)
 
-Tiêu chuẩn phán xét của Đức Chúa Trời khác hoàn toàn với tiêu chuẩn của con người. Người được xã hội và hội thánh tôn trọng vì tài sản, địa vị, hay công trạng bề ngoài — chưa chắc đứng đầu trước mặt Chúa. Ngược lại, những người âm thầm theo Ngài, chịu thiệt thòi vì đức tin, sẵn sàng từ bỏ mọi sự — họ có thể là những người nhận phần thưởng lớn nhất trong Nước Trời.
+Tiêu chuẩn phán xét của Đức Chúa Trời khác hoàn toàn với tiêu chuẩn của con người. Người được xã hội và Hội Thánh tôn trọng vì tài sản, địa vị, hay công trạng bề ngoài — chưa chắc đứng đầu trước mặt Chúa. Ngược lại, những người âm thầm theo Ngài, chịu thiệt thòi vì đức tin, sẵn sàng từ bỏ mọi sự — họ có thể là những người nhận phần thưởng lớn nhất trong Nước Trời.
 
 Câu hỏi cuối cùng mà bài giảng đặt ra cho mỗi người: *Tôi đang theo Chúa với mục đích gì? Tôi đang cậy vào điều gì để được cứu?* Sự cứu rỗi và phần thưởng đời đời đến từ một mình Đức Chúa Trời — không phải từ của cải, công trạng, hay bất cứ điều gì con người có thể dâng lên.

@@ -18,7 +18,7 @@ notion_id: 3509e853-b61e-4d50-898a-77919df879f0
 
 Tiên tri Ê-li là một trong những nhân vật phi thường nhất trong Kinh Thánh. Ông đã cầu nguyện và trời đóng lại không mưa trong ba năm rưỡi; ông đối đầu một mình với 850 tiên tri Ba-anh và A-sê-ra trên núi Cạt-mên; ông được Đức Chúa Trời cất thẳng lên trời mà không trải qua sự chết. Thế nhưng, ngay sau chiến thắng vĩ đại nhất trong cuộc đời, ông đã sụp đổ hoàn toàn về tinh thần.
 
-I Các Vua 19 ghi lại rằng sau khi Hoàng hậu Giê-sa-bên đe dọa giết ông, Ê-li đã bỏ trốn vào đồng vắng, ngồi dưới cây giêng-đào và cầu xin được chết: "Lạy Đức Giê-hô-va, đủ rồi! Hãy cất lấy mạng sống tôi, vì tôi không hơn gì các tổ phụ tôi." Bài giảng này dẫn dắt hội thánh qua bảy nguyên tắc Đức Chúa Trời đã dùng để đưa Ê-li ra khỏi vực thẳm của sự khủng hoảng tinh thần.
+I Các Vua 19 ghi lại rằng sau khi Hoàng hậu Giê-sa-bên đe dọa giết ông, Ê-li đã bỏ trốn vào đồng vắng, ngồi dưới cây giêng-đào và cầu xin được chết: "Lạy Đức Giê-hô-va, đủ rồi! Hãy cất lấy mạng sống tôi, vì tôi không hơn gì các tổ phụ tôi." Bài giảng này dẫn dắt Hội Thánh qua bảy nguyên tắc Đức Chúa Trời đã dùng để đưa Ê-li ra khỏi vực thẳm của sự khủng hoảng tinh thần.
 
 ---
 

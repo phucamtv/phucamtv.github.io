@@ -15,7 +15,7 @@ part_of_series: false
 
 ## Sự Kêu Gọi Thiêng Liêng Dành Cho Tất Cả
 
-Ma-thi-ơ 28:18-20 là câu Kinh Thánh quen thuộc mà lâu nay nhiều người vẫn nghĩ chỉ dành riêng cho các mục sư, truyền đạo — những người dấn thân trọn đời. Lý do là vì câu này có nhắc đến việc làm phép báp-têm, nên người ta mặc định rằng chỉ có mục sư mới thi hành được. Nhưng định kiến đó cần phải được xóa bỏ. Đại Mạng Lệnh của Đức Chúa Giê-su là dành cho tất cả những ai theo Ngài, không phân biệt chức vụ hay vai trò trong hội thánh.
+Ma-thi-ơ 28:18-20 là câu Kinh Thánh quen thuộc mà lâu nay nhiều người vẫn nghĩ chỉ dành riêng cho các mục sư, truyền đạo — những người dấn thân trọn đời. Lý do là vì câu này có nhắc đến việc làm phép báp-têm, nên người ta mặc định rằng chỉ có mục sư mới thi hành được. Nhưng định kiến đó cần phải được xóa bỏ. Đại Mạng Lệnh của Đức Chúa Giê-su là dành cho tất cả những ai theo Ngài, không phân biệt chức vụ hay vai trò trong Hội Thánh.
 
 Hai chữ "đặc ân" cho thấy rằng người đón nhận hoàn toàn không xứng đáng. Chúng ta không đáng để nhận sự cứu rỗi, và cũng không xứng đáng khi được Chúa gọi trở thành môn đồ. Nhưng Đấng ban cho đã dành cho chúng ta ân huệ đặc biệt đó. Khi nhận ra điều này, chúng ta cần trân trọng sự kêu gọi thay vì xem thường nó.
 
@@ -37,7 +37,7 @@ Công Vụ 17:26-27 cho biết Đức Chúa Trời đã ấn định nơi chốn
 
 Lý thuyết và thực hành là hai điều hoàn toàn khác nhau, và kết quả của chúng đương nhiên cũng khác nhau. Giống như việc tập thể hình: nếu chỉ ngồi nghe huấn luyện viên giảng về lý thuyết mà không bao giờ cầm tạ, cơ bắp sẽ không bao giờ thay đổi. Đời sống thuộc linh cũng vậy — nếu chỉ đọc Kinh Thánh, thuộc lòng giáo lý mà không thực hành, thì cơ bắp thuộc linh sẽ không có chuyển biến nào.
 
-Gia-cơ 1:22 dạy rằng: "Hãy làm theo lời, chớ lấy nghe làm đủ mà lừa dối mình." Đừng để lý thuyết thần học đánh lừa chúng ta tưởng rằng mình đang trưởng thành trong khi thực chất chưa sống giống Chúa. Phục vụ hội thánh — lo âm thanh, ánh sáng, ca hát, mời người đi dự truyền giảng — tất cả đều tốt, nhưng đó chưa phải là bản chất của việc làm môn đồ.
+Gia-cơ 1:22 dạy rằng: "Hãy làm theo lời, chớ lấy nghe làm đủ mà lừa dối mình." Đừng để lý thuyết thần học đánh lừa chúng ta tưởng rằng mình đang trưởng thành trong khi thực chất chưa sống giống Chúa. Phục vụ Hội Thánh — lo âm thanh, ánh sáng, ca hát, mời người đi dự truyền giảng — tất cả đều tốt, nhưng đó chưa phải là bản chất của việc làm môn đồ.
 
 Giăng 13:15 ghi lại lời Chúa: "Vì Ta đã làm gương cho các ngươi, để các ngươi cũng làm như Ta đã làm cho các ngươi." Từ "môn đồ" (mathetes) trong tiếng Hy Lạp có gốc từ động từ mang nghĩa "học hỏi." Sống đời sống môn đồ là một đời sống học hỏi liên tục từ Đức Chúa Giê-su, quan sát Ngài để bắt chước và sống giống Ngài — giống như người học nghề quan sát thầy mình để làm đúng theo.
 

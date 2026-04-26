@@ -47,4 +47,4 @@ Chúng ta cần giao phó cuộc đời mình cho Chúa với niềm tin rằng 
 
 Tất cả được sắp xếp như một kế hoạch bí mật, chính xác từng chi tiết, để không tạo ra rắc rối hay lộ thân phận. Điều này cho thấy Đức Chúa Giê-su không bao giờ để nước đến chân mới nhảy.
 
-**Bài học về sự chuẩn bị:** Từ công việc gia đình, hội thánh cho đến mọi sinh hoạt, chúng ta cần có sự chuẩn bị trước, chu đáo và tỉ mỉ. Đặc biệt trong việc thờ phượng Đức Chúa Trời, chúng ta càng cần sự trang trọng và trân trọng, vì Chúa là Chúa của trật tự chứ không phải của sự lộn xộn. Sự chuẩn bị chu đáo làm sáng danh Chúa trước mặt mọi người.
+**Bài học về sự chuẩn bị:** Từ công việc gia đình, Hội Thánh cho đến mọi sinh hoạt, chúng ta cần có sự chuẩn bị trước, chu đáo và tỉ mỉ. Đặc biệt trong việc thờ phượng Đức Chúa Trời, chúng ta càng cần sự trang trọng và trân trọng, vì Chúa là Chúa của trật tự chứ không phải của sự lộn xộn. Sự chuẩn bị chu đáo làm sáng danh Chúa trước mặt mọi người.
