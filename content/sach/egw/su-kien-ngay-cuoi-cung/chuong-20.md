@@ -10,246 +10,296 @@ summary: ""
 draft: true
 ---
 
-[The various views of heaven and the new earth presented to Ellen White were representations of eternal realities. She was shown heavenly things in terms of human concepts. Because of the limits of our human comprehension and language, we cannot fully know the actual appearance of the scenes depicted. “Now we see through a glass, darkly; but then face to face: Now I know in part; but then shall I know even as also I am known” (1 Corinthians 13:12).]
+[Những cảnh tượng về thiên đàng và trái đất mới được trình bày cho bà Ellen White là những hình ảnh đại diện cho các thực tại đời đời. Bà được cho thấy những điều thuộc về thiên đàng qua những khái niệm của con người. Vì sự hạn chế trong khả năng hiểu biết và ngôn ngữ của con người, chúng ta không thể biết đầy đủ diện mạo thực sự của những cảnh tượng được miêu tả.
 
-## A Gift From the Lord
+> "Ngày nay chúng ta xem như trong một cái gương, cách mập mờ: Đến bấy giờ chúng ta sẽ thấy hai mặt đối nhau; ngày nay tôi biết chưa hết: Đến bấy giờ tôi sẽ biết như Chúa đã biết tôi vậy."
+> <cite>(I Cô-rinh-tô 13:12)</cite>
 
-Christ, only Christ and His righteousness, will obtain for us a passport into heaven.—Letter 6b, 1890. LDE 283.1
+]
 
-The proud heart strives to earn salvation, but both our title to heaven and our fitness for it are found in the righteousness of Christ.—The Desire of Ages, 300 (1898). LDE 283.2
+## Một Món Quà Từ Chúa
 
-That we might become members of the heavenly family, He became a member of the earthly family.—The Desire of Ages, 638 (1898). LDE 283.3
+Đấng Christ, chỉ duy Đấng Christ và sự công bình của Ngài, sẽ giành được cho chúng ta tấm hộ chiếu vào thiên đàng.—Letter 6b, 1890. LDE 283.1
 
-Better than a title to the noblest palace on earth is a title to the mansions our Lord has gone to prepare. And better than all the words of earthly praise, will be the Saviour’s words to His faithful servants, “Come, ye blessed of My Father, inherit the kingdom prepared for you from the foundation of the world.”—Christ’s Object Lessons, 374 (1900). LDE 283.4
+Tấm lòng kiêu ngạo cố sức để giành lấy sự cứu rỗi, nhưng cả quyền vào thiên đàng lẫn sự xứng đáng của chúng ta cho nơi đó đều được tìm thấy trong sự công bình của Đấng Christ.—The Desire of Ages, 300 (1898). LDE 283.2
 
-## Why We Should Think About the Future World
+Để chúng ta có thể trở nên những thành viên của gia đình thiên thượng, Ngài đã trở nên một thành viên của gia đình trần thế.—The Desire of Ages, 638 (1898). LDE 283.3
 
-Jesus has brought heaven to view, and presents its glory to our eyes in order that eternity may not be dropped out of our reckoning.—The Signs of the Times, April 4, 1895. LDE 284.1
+Tốt hơn quyền sở hữu cung điện cao quý nhất trên đất là quyền vào những chỗ ở mà Chúa chúng ta đã đi để sắm sẵn. Và tốt hơn mọi lời ca tụng của trần gian, sẽ là những lời của Đấng Cứu Thế phán cùng các tôi tớ trung tín của Ngài:
 
-With eternal realities in view we will habitually cultivate thoughts of the presence of God. This will be a shield against the incoming of the enemy; it will give strength and assurance, and lift the soul above fear. Breathing in the atmosphere of heaven, we will not be breathing the malaria of the world.... LDE 284.2
+> "Bấy giờ, vua sẽ phán cùng những kẻ ở bên hữu rằng: Hỡi các ngươi được Cha ta ban phước, hãy đến mà nhận lấy nước thiên đàng đã sắm sẵn cho các ngươi từ khi dựng nên trời đất."
+> <cite>(Ma-thi-ơ 25:34)</cite>
 
-Jesus comes to present the advantages and beautiful imagery of the heavenly, that the attractions of heaven shall become familiar to the thoughts, and memory’s hall be hung with pictures of celestial and eternal loveliness.... LDE 284.3
+—Christ's Object Lessons, 374 (1900). LDE 283.4
 
-The great Teacher gives man a view of the future world. He brings it, with its attractive possessions, within the range of his vision.... If He can fasten the mind upon the future life and its blessedness, in comparison with the temporal concerns of this world, the striking contrast is deeply impressed upon the mind, absorbing the heart and soul and the whole being.—Our High Calling, 285, 286 (1890). LDE 284.4
+## Tại Sao Chúng Ta Nên Suy Nghĩ Về Thế Giới Tương Lai
 
-## The Christian’s Motives
+Đức Chúa Giê-su đã đem thiên đàng vào tầm nhìn, và trình bày sự vinh hiển của nó trước mắt chúng ta để cõi đời đời không bị bỏ ra khỏi sự tính toán của chúng ta.—The Signs of the Times, ngày 4 tháng 4 năm 1895. LDE 284.1
 
-Motives stronger, and agencies more powerful, could never be brought into operation; the exceeding rewards for right-doing, the enjoyment of heaven, the society of the angels, the communion and love of God and His Son, the elevation and extension of all our powers throughout eternal ages—are these not mighty incentives and encouragements to urge us to give the heart’s loving service to our Creator and Redeemer?—Steps to Christ, 21, 22 (1892). LDE 285.1
+Với cõi đời đời trong tầm nhìn, chúng ta sẽ thường xuyên nuôi dưỡng những ý tưởng về sự hiện diện của Đức Chúa Trời. Điều này sẽ là một tấm khiên chống lại sự xâm nhập của kẻ thù; nó sẽ ban cho sức mạnh và sự bảo đảm, và nâng linh hồn lên trên nỗi sợ hãi. Hít thở bầu không khí của thiên đàng, chúng ta sẽ không hít thở khí độc của thế gian này... LDE 284.2
 
-If we can meet Jesus in peace and be saved, forever saved, we shall be the happiest of beings. Oh, to be at home at last where the wicked cease from troubling and the weary are at rest!—Letter 113, 1886. LDE 285.2
+Đức Chúa Giê-su đến để trình bày những lợi ích và những hình ảnh tươi đẹp của thiên đàng, để những điều hấp dẫn của thiên đàng trở nên quen thuộc với tư tưởng, và sảnh đường ký ức được trang hoàng bằng những bức tranh về vẻ đẹp thiên thượng và đời đời... LDE 284.3
 
-I love to see everything that is beautiful in nature in this world. I think I would be perfectly satisfied with this earth, surrounded with the good things of God, if it were not blighted with the curse of sin. But we shall have new heavens and a new earth. John saw this in holy vision and said, “I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people, and God Himself shall be with them and be their God” [Revelation 21:3]. Oh, blessed hope, glorious prospect!—Letter 62, 1886. LDE 285.3
+Vị Thầy vĩ đại ban cho con người một cái nhìn về thế giới tương lai. Ngài đem nó, với những sở hữu hấp dẫn của nó, vào trong tầm nhìn của con người... Nếu Ngài có thể giữ chặt tâm trí vào sự sống tương lai và sự phước hạnh của nó, so với những mối bận tâm tạm thời của thế gian này, thì sự tương phản rõ rệt đó sẽ in sâu vào tâm trí, thu hút lấy tấm lòng, linh hồn và toàn bộ con người.—Our High Calling, 285, 286 (1890). LDE 284.4
 
-## A Real and Tangible Place
+## Động Cơ Của Cơ-đốc Nhân
 
-What a source of joy to the disciples to know that they had such a Friend in heaven to plead in their behalf! Through the visible ascension of Christ all their views and contemplation of heaven are changed. Their minds had formerly dwelt upon it as a region of unlimited space, tenanted by spirits without substance. Now heaven was connected with the thought of Jesus, whom they had loved and reverenced above all others, with whom they had conversed and journeyed, whom they had handled, even in His resurrected body.... LDE 285.4
+Không thể nào đem vào hành động những động cơ mạnh mẽ hơn và những tác nhân có quyền năng hơn nữa; phần thưởng vô cùng lớn lao cho việc làm điều ngay lành, sự hưởng thụ thiên đàng, sự đồng hành với các thiên sứ, sự tương giao và tình yêu thương của Đức Chúa Trời và Con Ngài, sự nâng cao và mở rộng mọi năng lực của chúng ta xuyên suốt các thời đại đời đời—chẳng phải đây là những sự khích lệ và động viên mạnh mẽ thúc giục chúng ta dâng sự phục vụ đầy yêu thương của tấm lòng cho Đấng Tạo Hóa và Đấng Cứu Chuộc của chúng ta sao?—Steps to Christ, 21, 22 (1892). LDE 285.1
 
-Heaven could no longer appear to them as an indefinite, incomprehensible space, filled with intangible spirits. They now looked upon it as their future home, where mansions were being prepared for them by their loving Redeemer.—The Spirit of Prophecy 3:262 (1878). LDE 286.1
+Nếu chúng ta có thể gặp Đức Chúa Giê-su trong sự bình an và được cứu, được cứu mãi mãi, chúng ta sẽ là những con người hạnh phúc nhất. Ôi, được trở về nhà cuối cùng, nơi kẻ ác thôi quấy rối và những kẻ mệt mỏi được nghỉ ngơi!—Letter 113, 1886. LDE 285.2
 
-A fear of making the future inheritance seem too material has led many to spiritualize away the very truths which lead us to look upon it as our home. Christ assured His disciples that He went to prepare mansions for them in the Father’s house.—The Great Controversy, 674, 675 (1911). LDE 286.2
+Tôi yêu thích nhìn ngắm mọi điều đẹp đẽ trong thiên nhiên ở thế giới này. Tôi nghĩ rằng tôi sẽ hoàn toàn thỏa lòng với trái đất này, được bao quanh bởi những điều tốt lành của Đức Chúa Trời, nếu nó không bị tàn phá bởi rủa sả của tội lỗi. Nhưng chúng ta sẽ có trời mới và đất mới. Giăng đã thấy điều này trong khải tượng thánh và nói rằng,
 
-In the earth made new, the redeemed will engage in the occupations and pleasures that brought happiness to Adam and Eve in the beginning. The Eden life will be lived, the life in garden and field.—Prophets and Kings, 730, 731 (c. 1914). LDE 286.3
+> "Tôi nghe một tiếng lớn từ nơi ngai mà đến, nói rằng: Này, đền tạm của Đức Chúa Trời ở giữa loài người! Ngài sẽ ở với chúng, và chúng sẽ làm dân Ngài; chính Đức Chúa Trời sẽ ở với chúng."
+> <cite>(Khải-huyền 21:3)</cite>
 
-## Glory Indescribable
+Ôi, hy vọng phước hạnh, viễn cảnh vinh hiển!—Letter 62, 1886. LDE 285.3
 
-I saw the exceeding loveliness and glory of Jesus. His countenance was brighter than the sun at noonday. His robe was whiter than the whitest white. How can I ... describe to you the glories of heaven, and the lovely angels singing and playing upon their harps of ten strings!—Letter 3, 1851. LDE 286.4
+## Một Nơi Thật Và Hữu Hình
 
-The wonderful things I there saw I cannot describe. Oh, that I could talk in the language of Canaan, then could I tell a little of the glory of the better world.—Early Writings, 19 (1851). LDE 287.1
+Thật là nguồn vui cho các môn đồ khi biết rằng họ có một Người Bạn như vậy ở trên trời để biện hộ cho họ! Qua sự thăng thiên hữu hình của Đấng Christ, tất cả những quan điểm và suy ngẫm của họ về thiên đàng đều đã thay đổi. Trước đây, tâm trí họ đã hình dung thiên đàng như một khu vực không gian vô hạn, nơi cư ngụ của những thần linh không có thể chất. Giờ đây, thiên đàng được gắn liền với ý tưởng về Đức Chúa Giê-su, Đấng mà họ đã yêu mến và tôn kính hơn tất cả mọi người, Đấng mà họ đã trò chuyện và đồng hành, Đấng mà họ đã chạm đến, ngay cả trong thân thể phục sinh của Ngài.... LDE 285.4
 
-Language is altogether too feeble to attempt a description of heaven. As the scene rises before me, I am lost in amazement. Carried away with the surpassing splendor and excellent glory, I lay down the pen and exclaim, “Oh, what love! what wondrous love!” The most exalted language fails to describe the glory of heaven or the matchless depths of a Saviour’s love.—Early Writings, 289 (1858). LDE 287.2
+Thiên đàng không còn có thể hiện ra với họ như một không gian mơ hồ, không thể hiểu được, đầy dẫy những thần linh vô hình. Giờ đây họ nhìn thiên đàng như ngôi nhà tương lai của mình, nơi mà những chỗ ở đang được Đấng Cứu Chuộc yêu dấu chuẩn bị cho họ.—The Spirit of Prophecy 3:262 (1878). LDE 286.1
 
-Human language is inadequate to describe the reward of the righteous. It will be known only to those who behold it. No finite mind can comprehend the glory of the Paradise of God.—The Great Controversy, 675 (1911). LDE 287.3
+Nỗi sợ làm cho cơ nghiệp tương lai trở nên quá vật chất đã khiến nhiều người thuộc linh hóa chính những lẽ thật dẫn dắt chúng ta xem nơi đó như ngôi nhà của mình. Đấng Christ đã đảm bảo với các môn đồ rằng Ngài đi để chuẩn bị những chỗ ở cho họ trong nhà của Đức Chúa Cha.—The Great Controversy, 674, 675 (1911). LDE 286.2
 
-If we could have but one view of the celestial city, we would never wish to dwell on earth again.—The Signs of the Times, April 8, 1889. LDE 287.4
+Trong trái đất được dựng nên mới, những người được cứu chuộc sẽ tham gia vào những công việc và những niềm vui đã đem lại hạnh phúc cho A-đam và Ê-va lúc ban đầu. Đời sống nơi Ê-đen sẽ được sống lại, đời sống trong vườn và nơi đồng ruộng.—Prophets and Kings, 730, 731 (c. 1914). LDE 286.3
 
-## Streams, Hills, and Trees
+## Vinh Quang Khôn Tả
 
-Here we saw the tree of life and the throne of God. Out of the throne came a pure river of water, and on either side of the river was the tree of life. On one side of the river was a trunk of a tree, and a trunk on the other side of the river, both of pure, transparent gold. At first I thought I saw two trees. I looked again, and saw that they were united at the top in one tree. So it was the tree of life on either side of the river of life. Its branches bowed to the place where we stood, and the fruit was glorious; it looked like gold mixed with silver.—Early Writings, 17 (1851). LDE 287.5
+Tôi đã thấy sự đáng yêu và vinh quang vô hạn của Đức Chúa Giê-su. Diện mạo Ngài sáng hơn mặt trời lúc giữa trưa. Áo Ngài trắng hơn cả màu trắng tinh khiết nhất. Làm sao tôi có thể... mô tả cho các bạn về vinh quang của thiên đàng, và các thiên sứ đáng yêu đang ca hát và gảy trên đàn cầm mười dây của họ!—Letter 3, 1851. LDE 286.4
 
-There are ever-flowing streams, clear as crystal, and beside them waving trees cast their shadows upon the paths prepared for the ransomed of the Lord. There the wide-spreading plains swell into hills of beauty, and the mountains of God rear their lofty summits. On those peaceful plains, beside those living streams, God’s people, so long pilgrims and wanderers, shall find a home.—The Great Controversy, 675 (1911). LDE 288.1
+Những điều kỳ diệu mà tôi đã thấy ở đó, tôi không thể nào mô tả được. Ôi, ước gì tôi có thể nói được tiếng Ca-na-an, thì khi ấy tôi có thể kể được đôi chút về vinh quang của thế giới tốt đẹp hơn.—Early Writings, 19 (1851). LDE 287.1
 
-## Flowers, Fruit, and Animals
+Ngôn ngữ hoàn toàn quá yếu ớt để cố gắng mô tả thiên đàng. Khi cảnh tượng hiện ra trước mắt tôi, tôi sững sờ kinh ngạc. Bị cuốn đi bởi sự huy hoàng vượt trội và vinh quang tuyệt diệu, tôi đặt bút xuống và thốt lên: "Ôi, tình yêu thương nào! Tình yêu thương kỳ diệu biết bao!" Ngôn ngữ cao cả nhất cũng không thể mô tả được vinh quang của thiên đàng hay những chiều sâu vô song của tình yêu thương Đấng Cứu Thế.—Early Writings, 289 (1858). LDE 287.2
 
-I saw another field full of all kinds of flowers, and as I plucked them, I cried out, “They will never fade.” Next I saw a field of tall grass, most glorious to behold; it was living green and had a reflection of silver and gold, as it waved proudly to the glory of King Jesus. Then we entered a field full of all kinds of beasts—the lion, the lamb, the leopard, and the wolf, all together in perfect union. We passed through the midst of them, and they followed on peaceably after. LDE 288.2
+Ngôn ngữ loài người không đủ để mô tả phần thưởng của người công bình. Chỉ những ai được chiêm ngưỡng nó mới biết được. Không một trí óc hữu hạn nào có thể hiểu thấu vinh quang của Thiên Đàng của Đức Chúa Trời.—The Great Controversy, 675 (1911). LDE 287.3
 
-Then we entered a wood, not like the dark woods we have here; no, no; but light, and all over glorious; the branches of the trees moved to and fro, and we all cried out, “We will dwell safely in the wilderness and sleep in the woods.” We passed through the woods, for we were on our way to Mount Zion.... LDE 288.3
+Nếu chúng ta chỉ có thể nhìn thoáng qua thành phố thiên thượng một lần, chúng ta sẽ không bao giờ còn muốn ở lại trên đất này nữa.—The Signs of the Times, April 8, 1889. LDE 287.4
 
-On the mount was a glorious temple.... There were all kinds of trees around the temple to beautify the place: the box, the pine, the fir, the oil, the myrtle, the pomegranate, and the fig tree bowed down with the weight of its timely figs—these made the place all over glorious.... LDE 289.1
+## Suối, Đồi, và Cây
 
-And I saw a table of pure silver; it was many miles in length, yet our eyes could extend over it. I saw the fruit of the tree of life, the manna, almonds, figs, pomegranates, grapes, and many other kinds of fruit. I asked Jesus to let me eat of the fruit.—Early Writings, 18, 19 (1851). LDE 289.2
+Tại đây chúng tôi thấy cây sự sống và ngôi của Đức Chúa Trời. Từ ngôi tuôn ra một dòng sông nước trong suốt, và ở mỗi bên bờ sông có cây sự sống. Một bên bờ sông có một thân cây, và bên kia bờ sông cũng có một thân cây, cả hai đều bằng vàng ròng trong suốt. Lúc đầu tôi tưởng tôi thấy hai cây. Tôi nhìn lại, và thấy rằng chúng kết hợp với nhau ở phần ngọn thành một cây duy nhất. Vậy nên đó là cây sự sống ở cả hai bên bờ sông sự sống. Các nhánh của nó cúi xuống nơi chúng tôi đứng, và trái thì rực rỡ vinh quang; trông như vàng pha trộn với bạc.—Early Writings, 17 (1851). LDE 287.5
 
-## The Vigor of Eternal Youth
+Có những dòng suối chảy không ngừng, trong vắt như pha lê, và bên cạnh chúng những hàng cây đong đưa tỏa bóng trên những lối đi được sắm sẵn cho những người được Chúa cứu chuộc. Tại đó những đồng bằng bát ngát nhấp nhô thành những ngọn đồi xinh đẹp, và những núi của Đức Chúa Trời vươn cao những đỉnh cao chót vót. Trên những đồng bằng yên bình ấy, bên cạnh những dòng suối sự sống ấy, dân sự của Đức Chúa Trời, là những người đã bao lâu lữ hành và phiêu bạt, sẽ tìm được một mái nhà.—The Great Controversy, 675 (1911). LDE 288.1
 
-All come forth from their graves the same in stature as when they entered the tomb. Adam, who stands among the risen throng, is of lofty height and majestic form, in stature but little below the Son of God. He presents a marked contrast to the people of later generations; in this one respect is shown the great degeneracy of the race. But all arise with the freshness and vigor of eternal youth.... Restored to the tree of life in the long-lost Eden, the redeemed will “grow up” (Malachi 4:2) to the full stature of a race in its primeval glory.—The Great Controversy, 644, 645 (1911). LDE 289.3
+## Hoa, Trái Cây, và Muông Thú
 
-If Adam, at his creation, had not been endowed with twenty times as much vital force as men now have, the race, with their present habits of living in violation of natural law, would have become extinct.—Testimonies for the Church 3:138 (1872). LDE 289.4
+Tôi thấy một cánh đồng khác đầy dẫy đủ loại hoa, và khi tôi hái chúng, tôi kêu lên: "Chúng sẽ không bao giờ tàn úa." Tiếp đó tôi thấy một cánh đồng cỏ cao, đẹp tuyệt vời để chiêm ngưỡng; nó xanh tươi sống động và có ánh phản chiếu của bạc và vàng, khi nó đong đưa cách kiêu hãnh để tôn vinh Vua Đức Chúa Giê-su. Rồi chúng tôi bước vào một cánh đồng đầy đủ loại muông thú — sư tử, chiên con, beo, và sói, tất cả cùng nhau trong sự hiệp nhất hoàn hảo. Chúng tôi đi ngang qua giữa chúng, và chúng bình an đi theo sau. LDE 288.2
 
-None will need or desire repose. There will be no weariness in doing the will of God and offering praise to His name. We shall ever feel the freshness of the morning, and shall ever be far from its close.... The acquirement of knowledge will not weary the mind or exhaust the energies.—The Great Controversy, 676, 677 (1911). LDE 290.1
+Rồi chúng tôi bước vào một khu rừng, không giống như những khu rừng tối tăm chúng ta có ở đây; không, không; nhưng sáng láng và rực rỡ vinh hiển khắp nơi; các cành cây đong đưa qua lại, và tất cả chúng tôi kêu lên: "Chúng ta sẽ ở yên ổn trong đồng vắng và ngủ trong rừng." Chúng tôi đi xuyên qua khu rừng, vì chúng tôi đang trên đường đến Núi Si-ôn... LDE 288.3
 
-Heaven is all health.—Testimonies for the Church 3:172 (1872). LDE 290.2
+Trên núi có một đền thờ vinh hiển... Có đủ loại cây xung quanh đền thờ để làm đẹp nơi này: cây hoàng dương, cây thông, cây tùng, cây dầu, cây sim, cây lựu, và cây vả oằn xuống với sức nặng của những trái vả đúng mùa — những cây này làm cho cả nơi đó rực rỡ vinh hiển... LDE 289.1
 
-## Happiness Guaranteed
+Và tôi thấy một cái bàn bằng bạc ròng; nó dài nhiều dặm, nhưng mắt chúng tôi có thể nhìn xuyên suốt nó. Tôi thấy trái của cây sự sống, ma-na, hạnh nhân, vả, lựu, nho, và nhiều loại trái cây khác. Tôi xin Đức Chúa Giê-su cho phép tôi ăn trái cây ấy. — Early Writings, 18, 19 (1851). LDE 289.2
 
-Jesus lifted the veil from the future life. “In the resurrection,” He said, “they neither marry, nor are given in marriage, but are as the angels of God in heaven” [Matthew 22:30].—The Desire of Ages, 605 (1898). LDE 290.3
+## Sức Sống Của Tuổi Trẻ Đời Đời
 
-There are men today who express their belief that there will be marriages and births in the new earth, but those who believe the Scriptures cannot accept such doctrines. The doctrine that children will be born in the new earth is not a part of the “sure word of prophecy”.... LDE 290.4
+Mọi người sẽ ra khỏi mồ mả với cùng vóc dáng như khi họ được đặt vào trong đó. A-đam, đứng giữa đoàn người sống lại, có thân hình cao lớn và oai vệ, tầm vóc chỉ kém Con Đức Chúa Trời một chút. Ông tương phản rõ rệt với những người thuộc các thế hệ sau; chỉ riêng điểm này thôi cũng cho thấy sự suy thoái lớn lao của loài người. Nhưng tất cả đều sống lại với vẻ tươi mới và sức sống của tuổi trẻ đời đời.... Được phục hồi để đến bên cây sự sống trong vườn Ê-đen đã mất từ lâu, những người được cứu chuộc sẽ "lớn lên"
 
-It is presumption to indulge in suppositions and theories regarding matters that God has not made known to us in His Word. We need not enter into speculation regarding our future state.—Selected Messages 1:172, 173 (1904). LDE 290.5
+> "Nhưng về phần các ngươi là kẻ kính sợ danh ta, thì mặt trời công bình sẽ mọc lên cho, trong cánh nó có sự chữa bịnh; các ngươi sẽ đi ra và nhảy nhót như bò tơ của chuồng."
+> <cite>(Ma-la-chi 4:2)</cite>
 
-Workers for God should not spend time speculating as to what conditions will prevail in the new earth. It is presumption to indulge in suppositions and theories regarding matters that the Lord has not revealed. He has made every provision for our happiness in the future life, and we are not to speculate regarding His plans for us. Neither are we to measure the conditions of the future life by the conditions of this life.—Gospel Workers, 314 (1904). LDE 290.6
+đạt đến tầm vóc trọn vẹn của loài người trong vinh quang nguyên thủy.—The Great Controversy, 644, 645 (1911). LDE 289.3
 
-## Identity of the Redeemed Preserved
+Nếu A-đam, khi được sáng tạo, không được ban cho sinh lực gấp hai mươi lần loài người ngày nay, thì với những thói quen sống vi phạm luật tự nhiên hiện tại, loài người chắc đã bị tuyệt chủng.—Testimonies for the Church 3:138 (1872). LDE 289.4
 
-The resurrection of Jesus was a type of the final resurrection of all who sleep in Him. The countenance of the risen Saviour, His manner, His speech, were all familiar to His disciples. As Jesus arose from the dead, so those who sleep in Him are to rise again. We shall know our friends, even as the disciples knew Jesus. They may have been deformed, diseased, or disfigured in this mortal life, and they rise in perfect health and symmetry, yet in the glorified body their identity will be perfectly preserved.—The Desire of Ages, 804 (1898). LDE 291.1
+Không ai sẽ cần hay mong muốn nghỉ ngơi. Sẽ không có sự mệt mỏi khi làm theo ý muốn của Đức Chúa Trời và dâng lời ca ngợi danh Ngài. Chúng ta sẽ luôn cảm nhận được sự tươi mới của buổi sáng, và sẽ luôn ở rất xa lúc kết thúc của nó.... Việc thu thập kiến thức sẽ không làm mỏi mệt tâm trí hay làm cạn kiệt năng lực.—The Great Controversy, 676, 677 (1911). LDE 290.1
 
-The same form will come forth, but it will be free from disease and every defect. It lives again, bearing the same individuality of features, so that friend will recognize friend.—The S.D.A. Bible Commentary 6:1093 (1900). LDE 291.2
+Thiên đàng hoàn toàn là sức khỏe.—Testimonies for the Church 3:172 (1872). LDE 290.2
 
-There we shall know even as also we are known. There the loves and sympathies that God has planted in the soul will find truest and sweetest exercise.—Education, 306 (1903). LDE 291.3
+## Hạnh Phúc Được Bảo Đảm
 
-## A Ruddy Complexion and a Robe of Light
+Đức Chúa Giê-su đã vén bức màn che cuộc sống tương lai. Ngài phán:
 
-As Adam came forth from the hand of his Creator, he was of noble height, and of beautiful symmetry. He was more than twice as tall as men now living upon earth, and was well proportioned. His features were perfect and beautiful. His complexion was neither white, nor sallow, but ruddy, glowing with the rich tint of health. Eve was not quite as tall as Adam. Her head reached a little above his shoulders. She, too, was noble—perfect in symmetry, and very beautiful.—Spiritual Gifts 3:34 (1864). LDE 291.4
+> "Vì đến khi sống lại, người ta không cưới vợ, cũng không lấy chồng, song những kẻ sống lại là như thiên sứ trên trời vậy."
+> <cite>(Ma-thi-ơ 22:30)</cite>
 
-The sinless pair wore no artificial garments; they were clothed with a covering of light and glory, such as the angels wear. So long as they lived in obedience to God, this robe of light continued to enshroud them.—Patriarchs and Prophets, 45 (1890). LDE 292.1
+—The Desire of Ages, 605 (1898). LDE 290.3
 
-## The Joy of Seeing Our Family in Heaven
+Ngày nay có những người bày tỏ niềm tin rằng sẽ có hôn nhân và sinh sản trong trái đất mới, nhưng những ai tin Kinh Thánh thì không thể chấp nhận những giáo lý như vậy. Giáo lý cho rằng trẻ con sẽ được sinh ra trong trái đất mới không phải là một phần của "lời tiên tri chắc chắn"…. LDE 290.4
 
-We see a retinue of angels on either side of the gate, and as we pass in Jesus speaks, “Come, ye blessed of My Father, inherit the kingdom that is prepared for you from the foundation of the world.” Here He tells you to be a partaker of His joy, and what is that? It is the joy of seeing of the travail of your soul, fathers. It is the joy of seeing that your efforts, mothers, are rewarded. Here are your children; the crown of life is upon their heads.—Child Guidance, 567, 568 (1895). LDE 292.2
+Thật là cả gan khi đắm mình vào những giả định và lý thuyết về những vấn đề mà Đức Chúa Trời chưa cho chúng ta biết trong Lời Ngài. Chúng ta không cần phải suy đoán về tình trạng tương lai của mình.—Selected Messages 1:172, 173 (1904). LDE 290.5
 
-God’s greatest gift is Christ, whose life is ours, given for us. He died for us, and was raised for us, that we might come forth from the tomb to a glorious companionship with heavenly angels, to meet our loved ones and to recognize their faces, for the Christlikeness does not destroy their image, but transforms it into His glorious image. Every saint connected in family relationship here will know each other there.—Selected Messages 3:316 (1898). LDE 292.3
+Những người làm công cho Đức Chúa Trời không nên dành thời gian suy đoán về những điều kiện sẽ thịnh hành trong trái đất mới. Thật là cả gan khi đắm mình vào những giả định và lý thuyết về những vấn đề mà Chúa chưa bày tỏ. Ngài đã sắm sẵn mọi điều cho hạnh phúc của chúng ta trong cuộc sống tương lai, và chúng ta không nên suy đoán về những kế hoạch của Ngài dành cho chúng ta. Chúng ta cũng không nên đo lường những điều kiện của cuộc sống tương lai bằng những điều kiện của cuộc sống hiện tại.—Gospel Workers, 314 (1904). LDE 290.6
 
-## The Salvation of Infants and Imbeciles
+## Đặc Tính Của Những Người Được Cứu Chuộc Sẽ Được Bảo Tồn
 
-As the little infants come forth immortal from their dusty beds, they immediately wing their way to their mother’s arms. They meet again nevermore to part. But many of the little ones have no mother there. We listen in vain for the rapturous song of triumph from the mother. The angels receive the motherless infants and conduct them to the tree of life.—Selected Messages 2:260 (1858). LDE 293.1
+Sự phục sinh của Đức Chúa Giê-su là một hình bóng cho sự sống lại sau cùng của tất cả những ai an giấc trong Ngài. Diện mạo của Đấng Cứu Thế phục sinh, cử chỉ, lời nói của Ngài, tất cả đều quen thuộc với các môn đồ. Cũng như Đức Chúa Giê-su đã từ kẻ chết sống lại, những ai an giấc trong Ngài cũng sẽ sống lại như vậy. Chúng ta sẽ nhận ra bạn bè của mình, giống như các môn đồ đã nhận ra Đức Chúa Giê-su. Trong cuộc đời hay chết này, họ có thể đã bị dị tật, bệnh tật hay biến dạng, nhưng họ sẽ sống lại trong sức khỏe và sự cân đối hoàn hảo, song trong thân thể vinh hiển ấy, đặc tính của họ vẫn sẽ được bảo tồn cách trọn vẹn.—The Desire of Ages, 804 (1898). LDE 291.1
 
-Some questioned whether the little children of even believing parents should be saved, because they have had no test of character and all must be tested and their character determined by trial. The question is asked, “How can little children have this test and trial?” I answer that the faith of the believing parents covers the children, as when God sent His judgments upon the first-born of the Egyptians.... LDE 293.2
+Cùng một hình hài ấy sẽ bước ra, nhưng được giải thoát khỏi bệnh tật và mọi khiếm khuyết. Thân thể ấy sống lại, mang cùng những nét đặc trưng riêng biệt, để bạn hữu có thể nhận ra bạn hữu.—The S.D.A. Bible Commentary 6:1093 (1900). LDE 291.2
 
-Whether all the children of unbelieving parents will be saved we cannot tell, because God has not made known His purpose in regard to this matter, and we had better leave it where God has left it and dwell upon subjects made plain in His Word.—Selected Messages 3:313-315 (1885). LDE 293.3
+Tại đó, chúng ta sẽ biết như chúng ta đã được biết vậy. Tại đó, tình yêu thương và sự cảm thông mà Đức Chúa Trời đã gieo trồng trong linh hồn sẽ tìm thấy sự bày tỏ chân thật và ngọt ngào nhất.—Education, 306 (1903). LDE 291.3
 
-In regard to the case of A, you see him as he now is and deplore his simplicity. He is without the consciousness of sin. The grace of God will remove all this hereditary, transmitted imbecility, and he will have an inheritance among the saints in light. To you the Lord has given reason. A is a child as far as the capacity of reason is concerned, but he has the submission and obedience of a child.—Manuscript Releases 8:210 (1893). LDE 293.4
+## Nước Da Hồng Hào Và Chiếc Áo Bằng Ánh Sáng
 
-## Tribute to Faithful Mothers
+Khi A-đam được tạo ra từ bàn tay của Đấng Tạo Hóa, ông có vóc dáng cao quý và cân đối tuyệt đẹp. Ông cao hơn gấp đôi so với loài người sống trên đất ngày nay, và thân hình rất cân xứng. Các đường nét của ông hoàn hảo và xinh đẹp. Nước da của ông không trắng cũng không vàng vọt, mà hồng hào, rạng rỡ với sắc thái phong phú của sức khỏe. Ê-va không cao bằng A-đam. Đầu của bà cao hơn vai ông một chút. Bà cũng cao quý—cân đối hoàn hảo, và rất xinh đẹp.—Spiritual Gifts 3:34 (1864). LDE 291.4
 
-When the judgment shall sit, and the books shall be opened; when the “well done” of the great Judge is pronounced, and the crown of immortal glory is placed upon the brow of the victor, many will raise their crowns in sight of the assembled universe and, pointing to their mother, say, “She made me all I am through the grace of God. Her instruction, her prayers, have been blessed to my eternal salvation.”—Messages to Young People, 330 (1881). LDE 294.1
+Cặp vợ chồng vô tội này không mặc y phục nhân tạo nào; họ được khoác phủ bằng một lớp ánh sáng và vinh quang, giống như các thiên sứ đang mặc. Bao lâu họ còn sống trong sự vâng phục Đức Chúa Trời, chiếc áo ánh sáng này vẫn tiếp tục bao phủ họ.—Patriarchs and Prophets, 45 (1890). LDE 292.1
 
-The angels of God immortalize the names of the mothers whose efforts have won their children to Jesus Christ.—Child Guidance, 568 (1895). LDE 294.2
+## Niềm Vui Khi Gặp Gia Đình Mình Trên Thiên Đàng
 
-## The Reward of the Winner of Souls
+Chúng ta thấy một đoàn thiên sứ ở hai bên cổng, và khi chúng ta bước vào, Đức Chúa Giê-su phán: "Hỡi các ngươi được Cha ta ban phước, hãy đến mà nhận lấy nước thiên đàng đã sắm sẵn cho các ngươi từ khi dựng nên trời đất." Tại đây, Ngài bảo các ngươi hãy dự phần vào niềm vui của Ngài, và đó là niềm vui gì? Hỡi các bậc làm cha, đó là niềm vui được thấy kết quả của sự lao khổ trong linh hồn mình. Hỡi các bà mẹ, đó là niềm vui thấy được những nỗ lực của mình được tưởng thưởng. Đây là con cái của các ngươi; mão triều thiên của sự sống đang ở trên đầu chúng.—Child Guidance, 567, 568 (1895). LDE 292.2
 
-When the redeemed stand before God, precious souls will respond to their names who are there because of the faithful, patient efforts put forth in their behalf, the entreaties and earnest persuasions to flee to the Stronghold. Thus those who in this world have been laborers together with God will receive their reward.—Testimonies for the Church 8:196, 197 (1904). LDE 294.3
+Tặng phẩm cao quý nhất của Đức Chúa Trời chính là Đấng Christ, sự sống của Ngài là sự sống của chúng ta, đã được ban cho chúng ta. Ngài đã chết vì chúng ta và sống lại vì chúng ta, để chúng ta có thể bước ra khỏi mồ mả mà bước vào sự thông công vinh hiển với các thiên sứ trên trời, để gặp lại những người thân yêu và nhận biết khuôn mặt của họ, vì sự giống như Đấng Christ không hủy diệt hình ảnh của họ, nhưng biến đổi nó thành hình ảnh vinh hiển của Ngài. Mỗi thánh đồ có quan hệ gia đình ở đây sẽ nhận biết nhau ở đó.—Selected Messages 3:316 (1898). LDE 292.3
 
-When the gates of that beautiful city on high are swung back on their glittering hinges, and the nations that have kept the truth shall enter in, crowns of glory will be placed on their heads, and they will ascribe honor and glory and majesty to God. And at that time some will come to you, and will say, “If it had not been for the words you spoke to me in kindness, if it had not been for your tears and supplications and earnest efforts, I should never have seen the King in His beauty.” What a reward is this! How insignificant is the praise of human beings in this earthly, transient life, in comparison with the infinite rewards that await the faithful in the future, immortal life!—Words of Encouragement to Self-supporting Workers (Ph 113), 16 (1909). LDE 294.4
+## Sự Cứu Rỗi Cho Trẻ Sơ Sinh Và Người Khờ Dại
 
-## Our Dispositions Unchanged
+Khi những trẻ sơ sinh bé bỏng bước ra bất tử khỏi mồ mả bụi đất, chúng lập tức bay vào vòng tay của mẹ chúng. Chúng gặp lại nhau và sẽ không bao giờ phải lìa xa nữa. Nhưng nhiều trẻ nhỏ không có mẹ ở đó. Chúng ta lắng nghe vô ích bài ca khải hoàn vui mừng của người mẹ. Các thiên sứ tiếp nhận những trẻ sơ sinh không có mẹ và dẫn chúng đến cây sự sống.—Selected Messages 2:260 (1858). LDE 293.1
 
-If you would be a saint in heaven you must first be a saint on earth. The traits of character you cherish in life will not be changed by death or by the resurrection. You will come up from the grave with the same disposition you manifested in your home and in society. Jesus does not change the character at His coming. The work of transformation must be done now. Our daily lives are determining our destiny. Defects of character must be repented of and overcome through the grace of Christ, and a symmetrical character must be formed while in this probationary state, that we may be fitted for the mansions above.—Manuscript Releases 13:82 (1891). LDE 295.1
+Một số người đã thắc mắc liệu những đứa trẻ nhỏ của ngay cả những bậc cha mẹ tin Chúa có được cứu hay không, vì chúng chưa từng trải qua sự thử thách về tánh hạnh, mà tất cả đều phải được thử nghiệm và tánh hạnh của họ phải được xác định qua sự thử thách. Câu hỏi được đặt ra là: "Làm thế nào những trẻ nhỏ có thể trải qua sự thử nghiệm và thử thách này?" Tôi xin trả lời rằng đức tin của cha mẹ tin Chúa che phủ con cái, như khi Đức Chúa Trời giáng sự phán xét của Ngài trên các con trưởng nam của người Ê-díp-tô.... LDE 293.2
 
-## Heaven’s Peaceful and Loving Atmosphere
+Còn về việc tất cả con cái của những bậc cha mẹ không tin có được cứu hay không, chúng ta không thể nói được, vì Đức Chúa Trời đã không bày tỏ ý định của Ngài về vấn đề này, và chúng ta nên để vấn đề đó ở nơi Đức Chúa Trời đã để, mà tập trung vào những đề tài đã được tỏ rõ trong Lời của Ngài.—Selected Messages 3:313-315 (1885). LDE 293.3
 
-The peace and harmony of the heavenly courts will not be marred by the presence of one who is rough or unkind.—Testimonies for the Church 8:140 (1904). LDE 295.2
+Về trường hợp của A, bạn thấy anh ta như hiện nay và than thở về sự đần độn của anh ta. Anh ta không có ý thức về tội lỗi. Ân điển của Đức Chúa Trời sẽ cất bỏ tất cả sự khờ dại di truyền, lưu truyền này, và anh ta sẽ có một cơ nghiệp giữa các thánh đồ trong sự sáng. Đối với bạn, Chúa đã ban cho lý trí. A là một đứa trẻ về phương diện khả năng lý trí, nhưng anh ta có sự thuận phục và vâng lời của một đứa trẻ.—Manuscript Releases 8:210 (1893). LDE 293.4
 
-Everything in heaven is noble and elevated. All seek the interest and happiness of others. No one devotes himself to looking out and caring for self. It is the chief joy of all holy beings to witness the joy and happiness of those around them.—Testimonies for the Church 2:239 (1869). LDE 296.1
+## Lời Tri Ân Dành Cho Những Người Mẹ Trung Tín
 
-I seemed to be there where all was peace, where no stormy conflicts of earth could ever come—heaven, a kingdom of righteousness where all the holy and pure and blest are congregated, ten thousand times ten thousand and thousands of thousands, living and walking in happy, pure intimacy, praising God and the Lamb who sitteth on the throne. LDE 296.2
+Khi sự phán xét diễn ra và các sách được mở ra; khi tiếng phán "được lắm" của Đấng Phán Xét vĩ đại được công bố, và mão miện vinh hiển bất tử được đặt lên trán người chiến thắng, nhiều người sẽ giơ cao mão miện của mình trước mặt cả vũ trụ tụ họp và, chỉ về phía mẹ của mình, nói rằng: "Nhờ ân điển của Đức Chúa Trời, mẹ đã làm nên con người của con ngày hôm nay. Sự dạy dỗ của mẹ, lời cầu nguyện của mẹ đã được ban phước cho sự cứu rỗi đời đời của con."—Messages to Young People, 330 (1881). LDE 294.1
 
-Their voices were in perfect harmony. They never do each other wrong. Princes of heaven, the potentates of this mighty realm, are rivals only in good, seeking the happiness and joy of each other. The greatest there is least in self-esteem, and the least is greatest in his gratitude and wealth of love. LDE 296.3
+Các thiên sứ của Đức Chúa Trời sẽ ghi tạc đời đời tên của những người mẹ mà nhờ những nỗ lực của họ đã đem được con cái mình đến với Đức Chúa Giê-su.—Child Guidance, 568 (1895). LDE 294.2
 
-There are no dark errors to cloud the intellect. Truth and knowledge, clear, strong, and perfect, have chased every doubt away, and no gloom of doubt casts its baleful shadow upon its happy inhabitants. No voices of contention mar the sweet and perfect peace of heaven. Its inhabitants know no sorrow, no grief, no tears. All is in perfect harmony, in perfect order and perfect bliss.... LDE 296.4
+## Phần thưởng của người chinh phục linh hồn
 
-Heaven is a home where sympathy is alive in every heart, expressed in every look. Love reigns there. There are no jarring elements, no discord or contentions or war of words.—Manuscript Releases 9:104, 105 (1882). LDE 296.5
+Khi những người được cứu chuộc đứng trước mặt Đức Chúa Trời, sẽ có những linh hồn quý báu đáp lời khi tên họ được gọi, là những linh hồn có mặt ở đó nhờ vào những nỗ lực trung thành, kiên nhẫn đã bỏ ra vì họ, những lời van xin và thuyết phục tha thiết để họ chạy đến Đồn Lũy. Như vậy, những ai trong thế gian này đã cùng làm việc với Đức Chúa Trời sẽ nhận được phần thưởng của mình.—Testimonies for the Church 8:196, 197 (1904). LDE 294.3
 
-## No Temptation and No Sin
+Khi các cổng của thành phố xinh đẹp trên cao được mở ra trên những bản lề lấp lánh, và các dân đã giữ lẽ thật bước vào, các mão triều thiên vinh hiển sẽ được đặt trên đầu họ, và họ sẽ dâng sự tôn vinh, vinh hiển và oai nghi lên Đức Chúa Trời. Và lúc đó có người sẽ đến với bạn và nói: "Nếu không nhờ những lời bạn đã ân cần nói với tôi, nếu không nhờ những giọt nước mắt và lời cầu xin cùng những nỗ lực hết lòng của bạn, thì tôi đã không bao giờ được nhìn thấy Vua trong vẻ đẹp của Ngài." Phần thưởng đó lớn lao biết bao! Lời khen ngợi của loài người trong cuộc đời trần thế chóng qua này thật vô nghĩa biết dường nào, khi so sánh với phần thưởng vô hạn đang chờ đợi những người trung thành trong cuộc sống tương lai bất diệt!—Words of Encouragement to Self-supporting Workers (Ph 113), 16 (1909). LDE 294.4
 
-No tree of knowledge of good and evil will afford opportunity for temptation. No tempter is there, no possibility of wrong.—Education, 302 (1903). LDE 297.1
+## Tâm Tánh Chúng Ta Không Thay Đổi
 
-I heard shouts of triumph from the angels and from the redeemed saints which sounded like ten thousand musical instruments, because they were to be no more annoyed and tempted by Satan and because the inhabitants of other worlds were delivered from his presence and his temptations.—The Story of Redemption, 416 (1858). LDE 297.2
+Nếu bạn muốn trở nên một thánh đồ trên thiên đàng, trước hết bạn phải là một thánh đồ trên đất. Những nét tánh mà bạn ấp ủ trong đời sống sẽ không bị thay đổi bởi sự chết hay bởi sự sống lại. Bạn sẽ ra khỏi mồ mả với cùng tâm tánh mà bạn đã biểu lộ trong gia đình và ngoài xã hội. Đức Chúa Giê-su không thay đổi tâm tánh khi Ngài đến. Công việc biến đổi phải được thực hiện ngay bây giờ. Đời sống hằng ngày của chúng ta đang quyết định số phận của chúng ta. Những khiếm khuyết của tâm tánh phải được ăn năn và khắc phục nhờ ân điển của Đấng Christ, và một tâm tánh hài hòa phải được hình thành trong khi chúng ta còn ở trong tình trạng thử thách này, để chúng ta có thể được xứng đáng với những nơi ở trên cao.—Manuscript Releases 13:82 (1891). LDE 295.1
 
-## Communion With the Father and the Son
+## Bầu Không Khí Bình An và Yêu Thương của Thiên Đàng
 
-The people of God are privileged to hold open communion with the Father and the Son.... We shall see Him face to face, without a dimming veil between.—The Great Controversy, 676, 677 (1911). LDE 297.3
+Sự bình an và hòa hợp của thiên cung sẽ không bị làm tổn hại bởi sự hiện diện của một người thô lỗ hay không tử tế.—Testimonies for the Church 8:140 (1904). LDE 295.2
 
-We shall ever dwell with and enjoy the light of His precious countenance. My heart leaps with joy at the cheering prospect!—In Heavenly Places, 352 (1856). LDE 297.4
+Mọi sự ở thiên đàng đều cao quý và cao thượng. Tất cả đều tìm kiếm lợi ích và hạnh phúc của người khác. Không một ai chỉ chăm lo và quan tâm đến bản thân mình. Niềm vui lớn nhất của tất cả các bậc thánh là chứng kiến niềm vui và hạnh phúc của những người xung quanh mình.—Testimonies for the Church 2:239 (1869). LDE 296.1
 
-Heaven is where Christ is. Heaven would not be heaven to those who love Christ, if He were not there.—Manuscript 41, 1897. LDE 297.5
+Tôi dường như đang ở đó, nơi mọi sự đều bình an, nơi không có những xung đột bão táp nào của trần gian có thể chạm tới—thiên đàng, một vương quốc của sự công bình, nơi tất cả những người thánh khiết, tinh sạch và được phước đều tụ họp, muôn muôn ngàn ngàn, sống và bước đi trong sự thân mật hạnh phúc và tinh sạch, ca ngợi Đức Chúa Trời và Chiên Con đang ngự trên ngai. LDE 296.2
 
-There will be a close and tender relationship between God and the risen saints.—The Desire of Ages, 606 (1898). LDE 297.6
+Tiếng nói của họ hòa hợp một cách hoàn hảo. Họ không bao giờ làm điều sai trái với nhau. Các hoàng tử của thiên đàng, các bậc quyền uy của vương quốc hùng vĩ này, chỉ ganh đua nhau trong điều thiện, tìm kiếm hạnh phúc và niềm vui cho nhau. Người lớn nhất nơi đó là người ít tự cao nhất, và người nhỏ nhất là người lớn nhất trong lòng biết ơn và sự giàu có của tình yêu thương. LDE 296.3
 
-Casting at the feet of the Redeemer the crowns that He has placed on our heads, and touching our golden harps, we shall fill all heaven with praise to Him that sitteth on the throne.—Testimonies for the Church 8:254 (1904). LDE 297.7
+Không có những sai lầm tối tăm nào làm mây mù tâm trí. Lẽ thật và sự hiểu biết, rõ ràng, mạnh mẽ và trọn vẹn, đã đuổi đi mọi nghi ngờ, và không một bóng tối nghi ngờ nào còn phủ bóng tai hại của nó trên những cư dân hạnh phúc nơi đây. Không có tiếng tranh cãi nào làm tổn hại sự bình an ngọt ngào và trọn vẹn của thiên đàng. Cư dân của nó không biết đến sầu khổ, đau buồn, hay nước mắt. Tất cả đều hòa hợp hoàn hảo, trật tự hoàn hảo và phước hạnh hoàn hảo.... LDE 296.4
 
-If, during this life, they are loyal to God, they will at last “see His face; and His name shall be in their foreheads” (Revelation 22:4). And what is the happiness of heaven but to see God? What greater joy could come to the sinner saved by the grace of Christ than to look upon the face of God and know Him as Father?—Testimonies for the Church 8:268 (1904). LDE 298.1
+Thiên đàng là một mái nhà, nơi sự cảm thông sống động trong mọi tấm lòng, được bày tỏ qua mọi ánh nhìn. Tình yêu thương ngự trị nơi đó. Không có những yếu tố chói tai, không có sự bất hòa hay tranh chấp hay cuộc chiến của lời nói.—Manuscript Releases 9:104, 105 (1882). LDE 296.5
 
-## Fellowship With Angels and the Faithful of All Ages
+## Không Còn Cám Dỗ Và Không Còn Tội Lỗi
 
-Every redeemed one will understand the ministry of angels in his own life. The angel who was his guardian from his earliest moment, the angel who watched his steps and covered his head in the day of peril, the angel who was with him in the valley of the shadow of death, who marked his resting place, who was the first to greet him in the resurrection morning—what will it be to hold converse with him, and to learn the history of divine interposition in the individual life, of heavenly cooperation in every work for humanity!—Education, 305 (1903). LDE 298.2
+Sẽ không có cây biết điều thiện và điều ác nào tạo cơ hội cho sự cám dỗ. Tại đó không có kẻ cám dỗ, không có khả năng làm điều sai trái.—Education, 302 (1903). LDE 297.1
 
-From what dangers, seen and unseen, we have been preserved through the interposition of the angels, we shall never know, until in the light of eternity we see the providences of God.—The Desire of Ages, 240 (1898). LDE 298.3
+Tôi nghe những tiếng reo mừng chiến thắng từ các thiên sứ và từ các thánh đồ được cứu chuộc, nghe như mười ngàn nhạc khí, vì họ sẽ không còn bị Sa-tan quấy nhiễu và cám dỗ nữa, và vì cư dân của các thế giới khác đã được giải thoát khỏi sự hiện diện và những cám dỗ của hắn.—The Story of Redemption, 416 (1858). LDE 297.2
 
-The loves and sympathies which God Himself has planted in the soul shall there find truest and sweetest exercise. The pure communion with holy beings, the harmonious social life with the blessed angels and with the faithful ones of all ages who have washed their robes and made them white in the blood of the Lamb, the sacred ties that bind together “the whole family in heaven and earth” (Ephesians 3:15)—these help to constitute the happiness of the redeemed.—The Great Controversy, 677 (1911). LDE 298.4
+## Sự Tương Giao Với Đức Chúa Cha Và Đức Chúa Con
 
-## Bearing Testimony to Unfallen Beings
+Dân sự của Đức Chúa Trời được đặc ân tương giao cách cởi mở với Đức Chúa Cha và Đức Chúa Con.... Chúng ta sẽ thấy Ngài mặt đối mặt, không còn một bức màn mờ ngăn cách giữa chúng ta và Ngài nữa.—The Great Controversy, 676, 677 (1911). LDE 297.3
 
-“The Son of man came not to be ministered unto, but to minister” [Matthew 20:28]. Christ’s work below is His work above, and our reward for working with Him in this world will be the greater power and wider privilege of working with Him in the world to come. “Ye are my witnesses, saith the Lord, that I am God” [Isaiah 43:12]. This also we shall be in eternity. LDE 299.1
+Chúng ta sẽ mãi mãi ở cùng và vui hưởng ánh sáng của diện mạo quý báu của Ngài. Lòng tôi nhảy nhót vui mừng trước viễn cảnh đầy phấn khởi nầy!—In Heavenly Places, 352 (1856). LDE 297.4
 
-For what was the great controversy permitted to continue throughout the ages? Why was it that Satan’s existence was not cut short at the outset of his rebellion?—It was that the universe might be convinced of God’s justice in His dealing with evil; that sin might receive eternal condemnation. In the plan of redemption there are heights and depths that eternity itself can never exhaust, marvels into which the angels desire to look. The redeemed only, of all created beings, have in their own experience known the actual conflict with sin; they have wrought with Christ and, as even the angels could not do, have entered into the fellowship of His sufferings; will they have no testimony as to the science of redemption—nothing that will be of worth to unfallen beings?—Education, 308 (1903). LDE 299.2
+Thiên đàng là nơi có Đấng Christ. Đối với những ai yêu mến Đấng Christ, thiên đàng sẽ không còn là thiên đàng nếu không có Ngài ở đó.—Manuscript 41, 1897. LDE 297.5
 
-## Praising God in Rich, Melodious Music
+Sẽ có một mối liên hệ mật thiết và dịu dàng giữa Đức Chúa Trời và các thánh đồ được sống lại.—The Desire of Ages, 606 (1898). LDE 297.6
 
-There will be music there, and song, such music and song as, save in the visions of God, no mortal ear has heard or mind conceived.... LDE 300.1
+Đặt nơi chân Đấng Cứu Chuộc những mão miện mà Ngài đã đội trên đầu chúng ta, và gảy những cây đàn hạc bằng vàng, chúng ta sẽ làm cho cả thiên đàng vang dội lời ngợi khen Đấng ngự trên ngai.—Testimonies for the Church 8:254 (1904). LDE 297.7
 
-The song which the ransomed ones will sing—the song of their experience—will declare the glory of God: “Great and marvelous are Thy works, O Lord God, the Almighty; righteous and true are Thy ways, Thou King of the ages. Who shall not fear, O Lord, and glorify Thy name? for Thou only art holy” [Revelation 15:3, 4, R. V.].—Education, 307-309 (1903). LDE 300.2
+Nếu trong đời nầy họ trung thành với Đức Chúa Trời, thì cuối cùng họ sẽ
 
-There is one angel who always leads, who first touches the harp and strikes the note, then all join in the rich, perfect music of heaven. It cannot be described. It is melody, heavenly, divine.—Testimonies For The Church 1:146 (1857). LDE 300.3
+> "chúng sẽ được thấy mặt Chúa, và danh Chúa sẽ ở trên trán mình. Đêm không còn có nữa,"
+> <cite>(Khải-huyền 22:4)</cite>
 
-Not as a man of sorrows, but as a glorious and triumphant king He will stand upon Olivet, while Hebrew hallelujahs mingle with Gentile hosannas, and the voices of the redeemed as a mighty host shall swell the acclamation, Crown Him Lord of all!—The Desire of Ages, 830 (1898). LDE 300.4
+Và niềm hạnh phúc của thiên đàng là gì nếu không phải là được nhìn thấy Đức Chúa Trời? Niềm vui nào có thể lớn hơn cho tội nhân được cứu bởi ân điển của Đấng Christ ngoài việc được nhìn vào diện mạo của Đức Chúa Trời và biết Ngài là Đức Chúa Cha?—Testimonies for the Church 8:268 (1904). LDE 298.1
 
-## Searching Out the Treasures of the Universe
+## Mối Tương Giao Với Các Thiên Sứ Và Những Tín Đồ Trung Thành Của Mọi Thời Đại
 
-There, when the veil that darkens our vision shall be removed, and our eyes shall behold that world of beauty of which we now catch glimpses through the microscope, when we look on the glories of the heavens, now scanned afar through the telescope, when, the blight of sin removed, the whole earth shall appear “in the beauty of the Lord our God,” what a field will be open to our study! There the student of science may read the records of creation and discern no reminders of the law of evil. He may listen to the music of nature’s voices and detect no note of wailing or undertone of sorrow.... LDE 300.5
+Mỗi người được cứu chuộc sẽ hiểu được sự phục vụ của các thiên sứ trong cuộc đời mình. Vị thiên sứ đã là người canh giữ mình từ giây phút đầu tiên, vị thiên sứ đã trông chừng từng bước chân và che chở đầu mình trong ngày hiểm nguy, vị thiên sứ đã ở cùng mình trong trũng bóng chết, đã đánh dấu nơi yên nghỉ của mình, là người đầu tiên chào đón mình trong buổi sáng phục sinh — sẽ thế nào khi được đàm đạo với người ấy, và được biết lịch sử về sự can thiệp của Đức Chúa Trời trong cuộc đời cá nhân, về sự hợp tác của thiên đàng trong mỗi công việc dành cho nhân loại! — Education, 305 (1903). LDE 298.2
 
-All the treasures of the universe will be open to the study of God’s children. With unutterable delight we shall enter into the joy and the wisdom of unfallen beings. We shall share the treasures gained through ages upon ages spent in contemplation of God’s handiwork.—Education, 303, 307 (1903). LDE 301.1
+Chúng ta sẽ không bao giờ biết được mình đã được gìn giữ khỏi những nguy hiểm nào, hữu hình và vô hình, qua sự can thiệp của các thiên sứ, cho đến khi trong ánh sáng của cõi đời đời chúng ta thấy được sự quan phòng của Đức Chúa Trời. — The Desire of Ages, 240 (1898). LDE 298.3
 
-Unfettered by mortality, they wing their tireless flight to worlds afar—worlds that thrilled with sorrow at the spectacle of human woe, and rang with songs of gladness at the tidings of a ransomed soul.... With undimmed vision they gaze upon the glory of creation—suns and stars and systems, all in their appointed order circling the throne of Deity. Upon all things, from the least to the greatest, the Creator’s name is written, and in all are the riches of His power displayed.—The Great Controversy, 677, 678 (1911). LDE 301.2
+Những tình yêu thương và lòng cảm thông mà chính Đức Chúa Trời đã trồng trong linh hồn sẽ tìm thấy nơi đó sự bày tỏ chân thật nhất và ngọt ngào nhất. Sự thông công thanh khiết với những đấng thánh, đời sống xã hội hòa thuận với các thiên sứ được phước và với những người trung thành của mọi thời đại đã giặt áo mình và phiếu trắng trong huyết Chiên Con, những mối ràng buộc thiêng liêng liên kết "cả nhà trên trời và dưới đất"
 
-## Sacred History Reviewed
+> "bởi Cha mà cả nhà trên trời và dưới đất đều được đặt tên,"
+> <cite>(Ê-phê-sô 3:15)</cite>
 
-The redeemed throng will range from world to world, and much of their time will be employed in searching out the mysteries of redemption.—The S.D.A. Bible Commentary 7:990 (1886). LDE 301.3
+— những điều này góp phần tạo nên hạnh phúc của những người được cứu chuộc. — The Great Controversy, 677 (1911). LDE 298.4
 
-The themes of redemption will employ the hearts and minds and tongues of the redeemed through the everlasting ages. They will understand the truths which Christ longed to open to His disciples, but which they did not have faith to grasp. Forever and forever new views of the perfection and glory of Christ will appear. Through endless ages will the faithful householder bring forth from his treasure things new and old.—Christ’s Object Lessons, 134 (1900). LDE 301.4
+## Làm Chứng Cho Các Sinh Vật Chưa Sa Ngã
 
-Then will be opened before him the course of the great conflict that had its birth before time began, and that ends only when time shall cease. The history of the inception of sin, of fatal falsehood in its crooked working, of truth that, swerving not from its own straight lines, has met and conquered error—all will be made manifest. The veil that interposes between the visible and the invisible world will be drawn aside and wonderful things will be revealed.—Education, 304 (1903). LDE 302.1
+"Con người đã đến không phải để người ta hầu việc mình, song để mình hầu việc người ta"
 
-Though the griefs and pains and temptations of earth are ended and the cause removed, the people of God will ever have a distinct, intelligent knowledge of what their salvation has cost.... LDE 302.2
+> "Ấy vậy, Con người đã đến, không phải để người ta hầu việc mình, song để mình hầu việc người ta, và phó sự sống mình làm giá chuộc nhiều người."
+> <cite>(Ma-thi-ơ 20:28)</cite>
 
-Our Redeemer will ever bear the marks of His crucifixion. Upon His wounded head, upon His side, His hands and feet, are the only traces of the cruel work that sin has wrought.—The Great Controversy, 651, 674 (1911). LDE 302.3
+Công việc của Đấng Christ ở dưới đất là công việc của Ngài ở trên trời, và phần thưởng dành cho chúng ta khi cộng tác với Ngài trong thế giới này sẽ là quyền năng lớn lao hơn và đặc ân rộng rãi hơn để cộng tác với Ngài trong thế giới hầu đến. "Đức Giê-hô-va phán: Các ngươi là kẻ làm chứng ta, … rằng ta là Đức Chúa Trời"
 
-## Life’s Perplexities Explained
+> "Ấy chính ta là Đấng đã rao truyền, đã giải cứu, và đã chỉ bảo, chẳng có thần nào lạ giữa các ngươi. Đức Giê-hô-va phán: Các ngươi đều là người làm chứng, và ta là Đức Chúa Trời!"
+> <cite>(Ê-sai 43:12)</cite>
 
-All the perplexities of life’s experience will then be made plain. Where to us have appeared only confusion and disappointment, broken purposes and thwarted plans, will be seen a grand, overruling, victorious purpose, a divine harmony.—Education, 305 (1903). LDE 302.4
+Đây cũng là điều chúng ta sẽ làm trong cõi đời đời. LDE 299.1
 
-There Jesus will lead us beside the living stream flowing from the throne of God and will explain to us the dark providences through which on this earth He brought us in order to perfect our characters.—Testimonies for the Church 8:254 (1904). LDE 303.1
+Vì sao cuộc tranh chấp lớn lại được cho phép tiếp diễn suốt các thời đại? Tại sao sự tồn tại của Sa-tan không bị cắt đứt ngay từ lúc khởi đầu cuộc nổi loạn của hắn? — Đó là để cả vũ trụ có thể được thuyết phục về sự công bình của Đức Chúa Trời trong cách Ngài đối xử với điều ác; để tội lỗi có thể nhận lấy sự lên án đời đời. Trong chương trình cứu chuộc, có những tầm cao và chiều sâu mà chính cõi đời đời cũng không bao giờ có thể dò thấu hết, những kỳ diệu mà các thiên sứ ao ước được nhìn vào. Trong tất cả các loài thọ tạo, chỉ có những người được cứu chuộc mới đã từng kinh nghiệm cuộc xung đột thực sự với tội lỗi trong chính đời sống mình; họ đã cùng làm việc với Đấng Christ, và, như ngay cả các thiên sứ cũng không thể làm được, họ đã bước vào sự thông công với những thống khổ của Ngài; chẳng lẽ họ sẽ không có lời chứng nào về khoa học của sự cứu chuộc — không có điều gì có giá trị đối với các sinh vật chưa sa ngã hay sao? — Education, 308 (1903). LDE 299.2
 
-All that has perplexed us in the providences of God will in the world to come be made plain. The things hard to be understood will then find explanation. The mysteries of grace will unfold before us. Where our finite minds discovered only confusion and broken promises, we shall see the most perfect and beautiful harmony. We shall know that infinite love ordered the experiences that seemed most trying. As we realize the tender care of Him who makes all things work together for our good, we shall rejoice with joy unspeakable and full of glory.—Testimonies for the Church 9:286 (1909). LDE 303.2
+## Ngợi Khen Đức Chúa Trời Bằng Âm Nhạc Du Dương Phong Phú
 
-## The Outworking of Every Noble Deed
+Tại đó sẽ có âm nhạc và bài ca, thứ âm nhạc và bài ca mà, ngoại trừ trong các sự hiện thấy của Đức Chúa Trời, không tai phàm nào từng nghe hay tâm trí phàm nào từng nghĩ tới.... LDE 300.1
 
-All who have wrought with unselfish spirit will behold the fruit of their labors. The outworking of every right principle and noble deed will be seen. Something of this we see here. But how little of the result of the world’s noblest work is in this life manifest to the doer! How many toil unselfishly and unweariedly for those who pass beyond their reach and knowledge! Parents and teachers lie down in their last sleep, their lifework seeming to have been wrought in vain; they know not that their faithfulness has unsealed springs of blessing that can never cease to flow; only by faith they see the children they have trained become a benediction and an inspiration to their fellow men, and the influence repeat itself a thousandfold. LDE 303.3
+Bài ca mà những người được cứu chuộc sẽ hát—bài ca về kinh nghiệm của họ—sẽ tuyên bố sự vinh hiển của Đức Chúa Trời:
 
-Many a worker sends out into the world messages of strength and hope and courage, words that carry blessing to hearts in every land, but of the results he, toiling in loneliness and obscurity, knows little. So gifts are bestowed, burdens are borne, labor is done. Men sow the seed from which, above their graves, others reap blessed harvests. They plant trees, that others may eat the fruit. They are content here to know that they have set in motion agencies for good. In the hereafter the action and reaction of all these will be seen.—Education, 305, 306 (1903). LDE 304.1
+> "Chúng hát bài ca Môi-se, là tôi tớ Đức Chúa Trời, và bài ca Chiên Con, mà rằng: Hỡi Chúa là Đức Chúa Trời Toàn năng, công việc Chúa lớn lao và lạ lùng thay! Hỡi Vua của muôn đời, đường lối Ngài là công bình và chân thật! Lạy Chúa, ai là kẻ không kính sợ và không ngợi khen danh Ngài? Vì một mình Ngài là thánh, mọi dân tộc sẽ đến thờ lạy trước mặt Ngài, vì các sự đoán xét Ngài đã được tỏ ra."
+> <cite>(Khải-huyền 15:3-4)</cite>
 
-## Our Joy Will Constantly Increase
+—Education, 307-309 (1903). LDE 300.2
 
-There are mysteries in the plan of redemption—the humiliation of the Son of God, that He might be found in fashion as a man, the wonderful love and condescension of the Father in yielding up His Son—that are to the heavenly angels subjects of continual amazement.... And these will be the study of the redeemed through eternal ages. As they contemplate the work of God in creation and redemption, new truth will continually unfold to the wondering and delighted mind. As they learn more and more of the wisdom, the love, and the power of God, their minds will be constantly expanding, and their joy will continually increase.—Testimonies for the Church 5:702, 703 (1889). LDE 304.2
+Có một thiên sứ luôn luôn dẫn đầu, là vị đầu tiên chạm vào đàn hạc và gảy lên nốt nhạc, rồi tất cả cùng hòa vào âm nhạc phong phú và toàn hảo của thiên đàng. Không thể nào mô tả được. Đó là giai điệu thiên thượng, thần thượng.—Testimonies For The Church 1:146 (1857). LDE 300.3
 
-And the years of eternity, as they roll, will bring richer and still more glorious revelations of God and of Christ. As knowledge is progressive, so will love, reverence, and happiness increase. The more men learn of God, the greater will be their admiration of His character. As Jesus opens before them the riches of redemption and the amazing achievements in the great controversy with Satan, the hearts of the ransomed thrill with more fervent devotion, and with more rapturous joy they sweep the harps of gold; and ten thousand times ten thousand and thousands of thousands of voices unite to swell the mighty chorus of praise.—The Great Controversy, 678 (1911). LDE 305.1
+Không phải như một người sầu khổ, mà như một vị vua vinh hiển và đắc thắng, Ngài sẽ đứng trên núi Ô-li-ve, trong khi tiếng ha-lê-lu-gia của người Hê-bơ-rơ hòa lẫn với tiếng hô-sa-na của dân ngoại, và tiếng của những người được cứu chuộc như một đoàn quân hùng hậu sẽ vang dội lời tung hô, Hãy Tôn Ngài Làm Chúa Của Muôn Loài!—The Desire of Ages, 830 (1898). LDE 300.4
 
-## Ever an Infinity Beyond
+## Tìm Kiếm Những Kho Tàng Của Vũ Trụ
 
-Every power will be developed, every capability increased. The grandest enterprises will be carried forward, the loftiest aspirations will be reached, the highest ambitions realized. And still there will arise new heights to surmount, new wonders to admire, new truths to comprehend, fresh objects to call forth the powers of body and mind and soul.—Education, 307 (1903). LDE 305.2
+Tại đó, khi bức màn che mờ tầm nhìn của chúng ta được cất đi, và mắt chúng ta sẽ chiêm ngưỡng thế giới xinh đẹp mà giờ đây chúng ta chỉ thoáng thấy qua kính hiển vi, khi chúng ta nhìn lên vinh quang của các tầng trời, mà giờ đây chỉ có thể quan sát từ xa qua kính viễn vọng, khi sự rủa sả của tội lỗi đã được cất bỏ, và cả trái đất sẽ hiện ra "trong vẻ đẹp của Giê-hô-va Đức Chúa Trời chúng ta," thì một lãnh vực nghiên cứu rộng lớn biết bao sẽ mở ra cho chúng ta! Tại đó, người nghiên cứu khoa học có thể đọc những ghi chép về cuộc sáng tạo mà không tìm thấy điều gì gợi nhớ đến luật của sự ác. Người ấy có thể lắng nghe âm nhạc của tiếng nói thiên nhiên mà không nhận ra một nốt than van hay một âm điệu buồn thảm nào.... LDE 300.5
 
-However far we may advance in the knowledge of God’s wisdom and His power, there is ever an infinity beyond.—The Review and Herald, September 14, 1886. LDE 305.3
+Tất cả những kho tàng của vũ trụ sẽ được mở ra cho con cái của Đức Chúa Trời nghiên cứu. Với niềm vui không thể diễn tả, chúng ta sẽ bước vào niềm vui và sự khôn ngoan của các sinh vật chưa sa ngã. Chúng ta sẽ chia sẻ những kho tàng đã đạt được qua biết bao thời đại dành để chiêm ngưỡng công việc tay Đức Chúa Trời làm.—Education, 303, 307 (1903). LDE 301.1
 
-All the paternal love which has come down from generation to generation through the channel of human hearts, all the springs of tenderness which have opened in the souls of men, are but as a tiny rill to the boundless ocean when compared with the infinite, exhaustless love of God. Tongue cannot utter it; pen cannot portray it. You may meditate upon it every day of your life; you may search the Scriptures diligently in order to understand it; you may summon every power and capability that God has given you, in the endeavor to comprehend the love and compassion of the heavenly Father; and yet there is an infinity beyond. You may study that love for ages; yet you can never fully comprehend the length and the breadth, the depth and the height, of the love of God in giving His Son to die for the world. Eternity itself can never fully reveal it.—Testimonies for the Church 5:740. LDE 305.4
+Không còn bị ràng buộc bởi sự hay chết, họ tung cánh bay không mệt mỏi đến các thế giới xa xôi—những thế giới đã rung chuyển vì đau buồn trước cảnh tượng khốn khổ của loài người, và đã vang lên những bài ca vui mừng trước tin tức về một linh hồn được cứu chuộc.... Với tầm nhìn không hề mờ tối, họ chiêm ngưỡng vinh quang của cuộc sáng tạo—những mặt trời, các vì sao và các thiên hệ, tất cả đều theo thứ tự đã định mà xoay quanh ngôi của Đấng Thiêng Liêng. Trên tất cả mọi vật, từ nhỏ nhất đến lớn nhất, danh của Đấng Tạo Hóa được khắc ghi, và trong tất cả đều bày tỏ sự giàu có của quyền năng Ngài.—The Great Controversy, 677, 678 (1911). LDE 301.2
 
-## The Whole Universe Declares That God Is Love
+## Lịch Sử Thánh Được Ôn Lại
 
-The great controversy is ended. Sin and sinners are no more. The entire universe is clean. One pulse of harmony and gladness beats through the vast creation. From Him who created all, flow life and light and gladness, throughout the realms of illimitable space. From the minutest atom to the greatest world, all things, animate and inanimate, in their unshadowed beauty and perfect joy, declare that God is love.—The Great Controversy, 678 (1911). LDE 306.1
+Đoàn người được cứu chuộc sẽ đi từ thế giới này sang thế giới khác, và phần lớn thời gian của họ sẽ được dùng để tìm hiểu những huyền nhiệm của sự cứu chuộc.—The S.D.A. Bible Commentary 7:990 (1886). LDE 301.3
+
+Các chủ đề về sự cứu chuộc sẽ chiếm trọn tấm lòng, tâm trí và môi miệng của những người được cứu chuộc qua các thời đại đời đời. Họ sẽ hiểu được những lẽ thật mà Đấng Christ hằng mong muốn bày tỏ cho các môn đồ Ngài, nhưng họ đã không đủ đức tin để nắm bắt. Đời đời vô cùng, những cái nhìn mới về sự trọn vẹn và vinh hiển của Đấng Christ sẽ luôn xuất hiện. Qua các thời đại bất tận, người chủ nhà trung tín sẽ đem ra từ kho báu của mình những vật mới và vật cũ.—Christ's Object Lessons, 134 (1900). LDE 301.4
+
+Bấy giờ, sẽ được mở ra trước mắt người ấy diễn tiến của cuộc đại tranh chấp đã khởi sự trước khi thời gian bắt đầu, và chỉ kết thúc khi thời gian không còn nữa. Lịch sử về sự khởi đầu của tội lỗi, về sự dối trá chí tử trong cách vận hành quanh co của nó, về lẽ thật vốn không bao giờ chệch khỏi đường thẳng của mình, đã đối đầu và chiến thắng sai lầm—tất cả sẽ được tỏ bày. Bức màn ngăn cách giữa thế giới hữu hình và vô hình sẽ được vén lên và những điều kỳ diệu sẽ được tiết lộ.—Education, 304 (1903). LDE 302.1
+
+Mặc dầu những nỗi buồn, đau đớn và cám dỗ của trần gian đã chấm dứt và nguyên nhân đã được loại bỏ, dân sự của Đức Chúa Trời sẽ mãi mãi có một sự hiểu biết rõ ràng và sáng suốt về cái giá mà sự cứu rỗi của họ đã phải trả.... LDE 302.2
+
+Đấng Cứu Chuộc của chúng ta sẽ mãi mãi mang những dấu tích của sự đóng đinh Ngài. Trên đầu bị thương của Ngài, trên cạnh sườn Ngài, trên tay và chân Ngài, là những dấu vết duy nhất còn lại của công việc tàn ác mà tội lỗi đã gây ra.—The Great Controversy, 651, 674 (1911). LDE 302.3
+
+## Những Bí Ẩn Của Cuộc Đời Được Giải Thích
+
+Khi ấy, mọi bí ẩn trong những trải nghiệm của cuộc đời sẽ được tỏ rõ. Nơi mà đối với chúng ta dường như chỉ có sự rối loạn và thất vọng, những mục đích tan vỡ và những kế hoạch bị cản trở, chúng ta sẽ thấy một mục đích vĩ đại, tể trị, đắc thắng, một sự hài hòa thiêng liêng.—Education, 305 (1903). LDE 302.4
+
+Tại đó, Đức Chúa Giê-su sẽ dẫn chúng ta đi bên dòng suối sự sống tuôn chảy từ ngai Đức Chúa Trời, và sẽ giải thích cho chúng ta những sự quan phòng tối tăm mà qua đó Ngài đã đưa chúng ta đi trên đất này nhằm hoàn thiện tánh nết của chúng ta.—Testimonies for the Church 8:254 (1904). LDE 303.1
+
+Tất cả những gì đã làm chúng ta bối rối trong sự quan phòng của Đức Chúa Trời sẽ được tỏ rõ trong thế giới mai sau. Những điều khó hiểu khi ấy sẽ tìm được lời giải thích. Những huyền nhiệm của ân điển sẽ được mở ra trước mắt chúng ta. Nơi mà tâm trí hữu hạn của chúng ta chỉ thấy sự rối loạn và những lời hứa tan vỡ, chúng ta sẽ thấy một sự hài hòa hoàn hảo và đẹp đẽ nhất. Chúng ta sẽ biết rằng tình yêu vô hạn đã sắp đặt những trải nghiệm tưởng chừng khắc nghiệt nhất. Khi chúng ta nhận ra sự chăm sóc dịu dàng của Đấng khiến muôn sự hiệp lại làm ích cho chúng ta, chúng ta sẽ vui mừng khôn xiết và đầy vinh hiển.—Testimonies for the Church 9:286 (1909). LDE 303.2
+
+## Kết Quả Của Mọi Việc Làm Cao Quý
+
+Tất cả những ai đã làm việc với tinh thần vô kỷ sẽ được nhìn thấy bông trái của công lao mình. Kết quả của mọi nguyên tắc đúng đắn và mọi việc làm cao quý sẽ được tỏ ra. Chúng ta thấy một phần nào điều ấy ngay tại đây. Nhưng kết quả của những công việc cao quý nhất trên thế gian được tỏ ra cho người thực hiện trong đời này thật ít ỏi biết bao! Bao nhiêu người lao nhọc cách vô kỷ và không mệt mỏi vì những người vượt khỏi tầm với và sự hiểu biết của họ! Các bậc cha mẹ và thầy giáo nằm xuống trong giấc ngủ cuối cùng, công trình cả đời họ dường như đã uổng công; họ không biết rằng lòng trung tín của họ đã khai mở những suối phước hạnh không bao giờ ngừng tuôn chảy; chỉ bằng đức tin, họ mới thấy được những đứa con họ đã dưỡng dục trở thành nguồn phước và sự cảm hứng cho đồng loại, và ảnh hưởng ấy được nhân lên gấp ngàn lần. LDE 303.3
+
+Nhiều người lao động gửi đi khắp thế gian những thông điệp của sức mạnh, hy vọng và can đảm, những lời mang phước lành đến cho các tấm lòng ở mọi miền đất, nhưng về kết quả ấy thì người lao nhọc trong cô đơn và âm thầm chẳng biết được bao nhiêu. Vì vậy, các ơn được ban cho, các gánh nặng được mang vác, công việc được hoàn tất. Người ta gieo hạt giống mà từ đó, trên mộ phần của họ, kẻ khác gặt hái những mùa màng phước hạnh. Họ trồng cây để kẻ khác ăn trái. Họ thỏa lòng nơi đây khi biết rằng mình đã khởi động những phương tiện cho điều thiện lành. Trong tương lai, sự tác động và phản ứng của tất cả những điều này sẽ được tỏ ra.—Education, 305, 306 (1903). LDE 304.1
+
+## Niềm Vui Của Chúng Ta Sẽ Không Ngừng Gia Tăng
+
+Có những điều mầu nhiệm trong kế hoạch cứu chuộc—sự hạ mình của Con Đức Chúa Trời, để Ngài được tìm thấy trong hình dạng một con người, tình yêu thương và sự khiêm nhường lạ lùng của Đức Chúa Cha khi ban Con Ngài—những điều ấy là chủ đề kinh ngạc không ngừng đối với các thiên sứ trên trời.... Và đây sẽ là đề tài nghiên cứu của những người được cứu chuộc qua những thời đại đời đời. Khi họ chiêm ngưỡng công việc của Đức Chúa Trời trong sự sáng tạo và cứu chuộc, lẽ thật mới sẽ liên tục được tỏ bày cho tâm trí kinh ngạc và vui mừng của họ. Khi họ học biết ngày càng nhiều hơn về sự khôn ngoan, tình yêu thương và quyền năng của Đức Chúa Trời, tâm trí họ sẽ không ngừng được mở rộng, và niềm vui của họ sẽ liên tục gia tăng.—Testimonies for the Church 5:702, 703 (1889). LDE 304.2
+
+Và những năm tháng đời đời, khi chúng trôi qua, sẽ mang đến những sự mặc khải phong phú và vinh hiển hơn nữa về Đức Chúa Trời và về Đấng Christ. Khi tri thức cứ tiến triển, thì tình yêu thương, lòng tôn kính và niềm hạnh phúc cũng sẽ gia tăng. Loài người càng học biết về Đức Chúa Trời, họ càng thán phục đặc tánh của Ngài hơn. Khi Đức Chúa Giê-su mở ra trước họ những sự giàu có của sự cứu chuộc và những thành tựu kỳ diệu trong cuộc đại tranh chiến với Sa-tan, lòng của những người được chuộc rúng động với lòng tận hiến nồng nhiệt hơn, và với niềm vui ngất ngây hơn, họ gảy những chiếc đàn hạc bằng vàng; và mười ngàn lần mười ngàn cùng hàng ngàn hàng ngàn tiếng nói hiệp lại để vang lên bài đại hợp xướng ngợi khen hùng tráng.—The Great Controversy, 678 (1911). LDE 305.1
+
+## Một Cõi Vô Tận Còn Mãi Phía Trước
+
+Mọi năng lực sẽ được phát triển, mọi khả năng sẽ được gia tăng. Những công cuộc vĩ đại nhất sẽ được tiến hành, những khát vọng cao cả nhất sẽ được đạt tới, những hoài bão cao xa nhất sẽ được thực hiện. Vậy mà vẫn sẽ xuất hiện những đỉnh cao mới để vượt qua, những kỳ diệu mới để chiêm ngưỡng, những lẽ thật mới để thấu hiểu, những đối tượng mới mẻ để khơi dậy năng lực của thân thể, tâm trí và linh hồn.—Education, 307 (1903). LDE 305.2
+
+Dù chúng ta có tiến xa đến đâu trong sự hiểu biết về sự khôn ngoan và quyền năng của Đức Chúa Trời, thì vẫn luôn còn một cõi vô tận ở phía trước.—The Review and Herald, ngày 14 tháng 9, năm 1886. LDE 305.3
+
+Tất cả tình yêu thương của cha mẹ đã được truyền từ thế hệ này sang thế hệ khác qua dòng chảy của những trái tim con người, tất cả những suối nguồn dịu dàng đã tuôn trào trong linh hồn loài người, chỉ như một dòng suối nhỏ so với đại dương bao la khi đem so với tình yêu vô hạn, vô tận của Đức Chúa Trời. Lưỡi không thể nói ra; bút không thể họa lại. Bạn có thể suy gẫm về tình yêu đó mỗi ngày trong đời mình; bạn có thể tra xét Kinh Thánh cách siêng năng để hiểu được tình yêu ấy; bạn có thể huy động mọi năng lực và khả năng mà Đức Chúa Trời đã ban cho mình, trong nỗ lực thấu hiểu tình yêu và lòng thương xót của Đức Chúa Cha trên trời; thế nhưng vẫn còn một cõi vô tận ở phía trước. Bạn có thể nghiên cứu tình yêu đó qua nhiều thời đại; nhưng bạn không bao giờ có thể hiểu thấu trọn vẹn chiều dài và chiều rộng, chiều sâu và chiều cao của tình yêu Đức Chúa Trời khi Ngài ban Con Ngài chịu chết vì thế gian. Chính cõi đời đời cũng không bao giờ có thể bày tỏ trọn vẹn tình yêu ấy.—Testimonies for the Church 5:740. LDE 305.4
+
+## Cả Vũ Trụ Tuyên Bố Rằng Đức Chúa Trời Là Tình Yêu Thương
+
+Cuộc tranh chiến lớn đã kết thúc. Tội lỗi và những kẻ phạm tội không còn nữa. Toàn thể vũ trụ được thanh sạch. Một nhịp đập của sự hòa hợp và niềm vui mừng vang vọng khắp công cuộc sáng tạo bao la. Từ Đấng đã tạo dựng muôn vật, sự sống, ánh sáng và niềm vui mừng tuôn tràn khắp những cõi không gian vô tận. Từ nguyên tử nhỏ bé nhất đến thế giới vĩ đại nhất, vạn vật, hữu sinh và vô sinh, trong vẻ đẹp không vương bóng tối và niềm vui trọn vẹn của chúng, đều tuyên bố rằng Đức Chúa Trời là tình yêu thương.—The Great Controversy, 678 (1911). LDE 306.1

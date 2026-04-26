@@ -10,126 +10,173 @@ summary: ""
 draft: true
 ---
 
-## Our Lord’s Great Prophecy
+## Lời Tiên Tri Vĩ Đại Của Chúa Chúng Ta
 
-Christ forewarned His disciples of the destruction of Jerusalem and the signs to take place prior to the coming of the Son of man. The whole of the twenty-fourth chapter of Matthew is a prophecy concerning the events to precede this event, and the destruction of Jerusalem is used to typify the last great destruction of the world by fire.—Manuscript 77, 1899. LDE 18.1
+Đấng Christ đã báo trước cho các môn đồ Ngài về sự hủy diệt thành Giê-ru-sa-lem và những dấu hiệu sẽ xảy ra trước khi Con Người đến. Toàn bộ chương hai mươi bốn của sách Ma-thi-ơ là một lời tiên tri liên quan đến những biến cố sẽ xảy ra trước sự kiện này, và sự hủy diệt thành Giê-ru-sa-lem được dùng làm hình bóng cho sự hủy diệt lớn cuối cùng của thế gian bằng lửa.—Manuscript 77, 1899. LDE 18.1
 
-Christ upon the Mount of Olives rehearsed the fearful judgments that were to precede His second coming: “Ye shall hear of wars and rumors of wars: ... Nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places. All these are the beginning of sorrows” [Matthew 24:6-8]. While these prophecies received a partial fulfillment at the destruction of Jerusalem, they have a more direct application in the last days.—Testimonies for the Church 5:753 (1899). LDE 18.2
+Trên núi Ô-li-ve, Đấng Christ đã thuật lại những sự phán xét kinh khiếp sẽ xảy ra trước sự tái lâm của Ngài:
 
-## Signs in the Heavens
+> "Các ngươi sẽ nghe nói về giặc và tiếng đồn về giặc: Hãy giữ mình, đừng bối rối, vì những sự ấy phải đến; song chưa là cuối cùng đâu. Dân này sẽ dấy lên nghịch cùng dân khác, nước nọ nghịch cùng nước kia; nhiều chỗ sẽ có đói kém và động đất. Song mọi điều đó chỉ là đầu sự tai hại."
+> <cite>(Ma-thi-ơ 24:6-8)</cite>
 
-At the close of the great papal persecution, Christ declared, the sun should be darkened, and the moon should not give her light. Next, the stars should fall from heaven. And He says, “Learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh: so likewise ye, when ye shall see all these things, know that He is near, even at the doors” (Matthew 24:32, 33, margin). LDE 19.1
+Mặc dù những lời tiên tri này đã được ứng nghiệm một phần khi thành Giê-ru-sa-lem bị hủy diệt, chúng có sự ứng dụng trực tiếp hơn trong những ngày sau rốt.—Testimonies for the Church 5:753 (1899). LDE 18.2
 
-Christ has given signs of His coming. He declares that we may know when He is near, even at the doors. He says of those who see these signs, “This generation shall not pass, till all these things be fulfilled.” These signs have appeared. [See The Great Controversy, 306-308, 333, 334.] Now we know of a surety that the Lord’s coming is at hand.—The Desire of Ages, 632 (1898). LDE 19.2
+## Các Điềm Lạ Trên Trời
 
-## Signs on the Earth
+Đấng Christ đã tuyên bố rằng vào lúc kết thúc cuộc bắt bớ lớn của giáo hoàng, mặt trời sẽ tối tăm, và mặt trăng sẽ không chiếu sáng. Kế đến, các ngôi sao sẽ từ trời sa xuống. Và Ngài phán:
 
-Jesus declares: “There shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations” (Luke 21:25; Matthew 24:29; Mark 13:24-26; Revelation 6:12-17). Those who behold these harbingers of His coming are to “know that it is near, even at the doors” (Matthew 24:33).—The Great Controversy, 37, 38 (1911). LDE 19.3
+> "Hãy nghe lời ví dụ về cây vả, vừa lúc nhành non, lá mới đâm, thì các ngươi biết mùa hạ gần tới. Cũng vậy, khi các ngươi thấy mọi điều ấy, khá biết rằng Con người gần đến, Ngài đương ở trước cửa."
+> <cite>(Ma-thi-ơ 24:32-33)</cite>
 
-The nations are in unrest. Times of perplexity are upon us. Men’s hearts are failing them for fear of the things that are coming upon the earth. But those who believe in God will hear His voice amid the storm, saying, “It is I; be not afraid.”—The Signs of the Times, October 9, 1901. LDE 19.4
+LDE 19.1
 
-Strange and eventful history is being recorded in the books of heaven—events which it was declared should shortly precede the great day of God. Everything in the world is in an unsettled state.—Manuscript Releases 3:313 (1908). LDE 20.1
+Đấng Christ đã ban cho chúng ta những dấu hiệu về sự tái lâm của Ngài. Ngài tuyên bố rằng chúng ta có thể biết khi nào Ngài đã đến gần, thậm chí ở ngay trước cửa. Ngài phán về những người trông thấy các dấu hiệu này rằng: "Dòng dõi này chẳng qua trước khi mọi điều ấy chưa xảy đến". Những dấu hiệu này đã xuất hiện. [Xem The Great Controversy, 306-308, 333, 334.] Giờ đây chúng ta biết chắc chắn rằng sự tái lâm của Chúa đã gần kề.—The Desire of Ages, 632 (1898). LDE 19.2
 
-## False Prophets
+## Các dấu hiệu trên đất
 
-As one of the signs of Jerusalem’s destruction, Christ had said, “Many false prophets shall rise, and shall deceive many” [Matthew 24:11]. False prophets did rise, deceiving the people and leading great numbers into the desert. Magicians and sorcerers, claiming miraculous power, drew the people after them into the mountain solitudes. But this prophecy was spoken also for the last days. This sign is given as a sign of the second advent.—The Desire of Ages, 631 (1898). LDE 20.2
+Đức Chúa Giê-su phán:
 
-We shall encounter false claims, false prophets will arise, there will be false dreams and false visions, but preach the Word; be not drawn away from the voice of God in His Word.—Selected Messages 2:49 (1894). LDE 20.3
+> "Sẽ có các điềm lạ trong mặt trời, mặt trăng, cùng các ngôi sao; còn dưới đất, dân các nước sầu não rối loạn vì biển nổi tiếng om sòm và sóng đào."
+> <cite>(Lu-ca 21:25)</cite>
 
-I have been shown many who will claim to be especially taught of God, and will attempt to lead others, and from mistaken ideas of duty they will undertake a work that God has never laid upon them. Confusion will be the result. Let everyone seek God most earnestly for himself that he may individually understand His will.—Selected Messages 2:72 (1893). LDE 20.4
+(Matthew 24:29; Mark 13:24-26; Revelation 6:12-17). Những ai trông thấy các điềm báo trước về sự đến của Ngài thì phải
 
-## An Experience With a False Prophet
+> "Cũng vậy, khi các ngươi thấy mọi điều ấy, khá biết rằng Con người gần đến, Ngài đương ở trước cửa."
+> <cite>(Ma-thi-ơ 24:33)</cite>
 
-Last night a young man, a stranger to us all, but professing to be a brother from Victoria [Australia], called upon us and asked to see Sister White. It was evening and I declined seeing him. We invited him to remain with us during the night, however, and to take breakfast. After our usual morning worship, as we were about to go to our various employments, this young man arose and with a commanding gesture requested us to sit down. He said, “Have you any hymnbooks? We will sing a hymn, then I have a message to give you.” I said, “If you have a message, give it without delay, for we are very much pressed to get off the American mail and have no time to lose.” He then began to read something he had written, which stated among other things that the judgment has now begun upon the living.... LDE 21.1
+—The Great Controversy, 37, 38 (1911). LDE 19.3
 
-I listened as he went on and finally said, “My brother, you are not exactly in your right mind. State plainly how your message concerns us. Please let us know at once. Your mind is overstrained, you misapprehend your work. Much that you have said is in accordance with the Bible, and we believe every word of that. But you are overexcited. Please state what you have for us.” LDE 21.2
+Các quốc gia đang ở trong tình trạng bất an. Thời kỳ rối ren đã đến trên chúng ta. Lòng người ta hao mòn vì sợ hãi những việc sắp xảy đến trên đất. Nhưng những ai tin cậy nơi Đức Chúa Trời sẽ nghe được tiếng Ngài giữa cơn bão tố, phán rằng: “Ấy là Ta, đừng sợ.”—The Signs of the Times, October 9, 1901. LDE 19.4
 
-Well, he said that we must pack up and move at once to Battle Creek. I asked his reasons, and he responded, “To give this message that the judgment has begun upon the living.” I answered him, “The work which the Lord has given us to do is not yet finished. When our work here is completed we are sure the Lord will let us know that it is time for us to move to Battle Creek, instead of teaching you our duty”.... I left him for Brother Starr to talk with further while I resumed my writing. LDE 21.3
+Một lịch sử kỳ lạ và đầy biến cố đang được ghi chép trong các sách trên trời—những sự việc đã được tuyên bố là sẽ xảy ra trước ngày lớn của Đức Chúa Trời. Mọi sự trên thế gian đều ở trong tình trạng bất ổn.—Manuscript Releases 3:313 (1908). LDE 20.1
 
-He told Brother Starr that when Sister White spoke to him so kindly, and yet with such authority, he began to see that he had made a mistake, that the impressions which had moved him so strongly were not consistent or reasonable. Although our family is large, consisting of ten members, besides three visitors, we decided to have this young man stay with us for a time. We dare not have him go with people who will treat him harshly and condemn him, neither do we want him to repeat his “revelations.” We will have him remain for a little time where we can associate with him and if possible lead him in safe, sure paths.—Letter 66, 1894. LDE 22.1
+## Các Tiên Tri Giả
 
-## Gluttony and Intemperance
+Là một trong những dấu hiệu về sự hủy diệt của Giê-ru-sa-lem, Đấng Christ đã phán:
 
-Gluttony and intemperance lie at the foundation of the great moral depravity in our world. Satan is aware of this and he is constantly tempting men and women to indulge the taste at the expense of health and even life itself. Eating, drinking, and dressing are made the aim of life with the world. Just such a state of things existed before the Flood. And this state of dissipation is one of the marked evidences of the soon close of this earth’s history.—Letter 34, 1875. LDE 22.2
+> "Nhiều tiên tri giả sẽ nổi lên và dỗ dành lắm kẻ."
+> <cite>(Ma-thi-ơ 24:11)</cite>
 
-The picture which Inspiration has given of the antediluvian world represents too truly the condition to which modern society is fast hastening.—Patriarchs and Prophets, 102 (1890). LDE 22.3
+Các tiên tri giả đã dấy lên, lừa dối dân chúng và dẫn dụ rất nhiều người vào nơi đồng vắng. Các thuật sĩ và phù thủy, tự xưng có quyền năng làm phép lạ, đã lôi kéo dân chúng theo họ vào những nơi hoang vu trên núi. Nhưng lời tiên tri này cũng được phán cho những ngày sau rốt. Dấu hiệu này được ban cho như một dấu hiệu của sự tái lâm.—The Desire of Ages, 631 (1898). LDE 20.2
 
-We know that the Lord is coming very soon. The world is fast becoming as it was in the days of Noah. It is given over to selfish indulgence. Eating and drinking are carried to excess. Men are drinking the poisonous liquor that makes them mad.—Letter 308, 1907. LDE 23.1
+Chúng ta sẽ gặp phải những tuyên bố sai trật, các tiên tri giả sẽ dấy lên, sẽ có những chiêm bao giả và những khải tượng giả, nhưng hãy rao giảng Lời Chúa; chớ để bị lôi cuốn xa khỏi tiếng phán của Đức Chúa Trời trong Lời Ngài.—Selected Messages 2:49 (1894). LDE 20.3
 
-## Deeds of Violence
+Tôi đã được tỏ cho thấy nhiều người sẽ tuyên bố rằng họ được Đức Chúa Trời dạy dỗ cách đặc biệt, và sẽ cố gắng dẫn dắt những người khác, và từ những ý tưởng sai lầm về bổn phận, họ sẽ đảm nhận một công việc mà Đức Chúa Trời chưa bao giờ giao phó cho họ. Hậu quả sẽ là sự hỗn loạn. Hãy để mỗi người hết sức tha thiết tìm kiếm Đức Chúa Trời cho chính mình hầu cho người ấy có thể tự mình hiểu được ý muốn của Ngài.—Selected Messages 2:72 (1893). LDE 20.4
 
-In the days of Noah the overwhelming majority was opposed to the truth, and enamored with a tissue of falsehoods. The land was filled with violence. War, crime, murder, was the order of the day. Just so will it be before Christ’s second coming.—The S.D.A. Bible Commentary 1:1090 (1891). LDE 23.2
+## Một Kinh Nghiệm Với Một Tiên Tri Giả
 
-The labor unions are quickly stirred to violence if their demands are not complied with. Plainer and plainer is it becoming that the inhabitants of the world are not in harmony with God. No scientific theory can explain the steady march of evil workers under the generalship of Satan. In every mob wicked angels are at work, rousing men to commit deeds of violence.... LDE 23.3
+Tối hôm qua, một thanh niên xa lạ với tất cả chúng tôi, nhưng tự xưng là một anh em từ Victoria [Úc], đã đến và xin gặp Chị White. Lúc đó trời đã tối và tôi từ chối tiếp. Tuy nhiên, chúng tôi mời anh ở lại qua đêm và dùng bữa sáng. Sau giờ thờ phượng buổi sáng thường lệ, khi chúng tôi sắp sửa đi làm các công việc của mình, người thanh niên này đứng dậy và với một cử chỉ ra lệnh, yêu cầu chúng tôi ngồi xuống. Anh nói: "Quý vị có cuốn thánh ca nào không? Chúng ta sẽ hát một bài thánh ca, rồi tôi có một sứ điệp để trao cho quý vị." Tôi nói: "Nếu anh có sứ điệp, thì xin trình bày ngay, vì chúng tôi đang rất gấp để kịp gởi thư qua Mỹ và không có thì giờ để mất." Sau đó anh bắt đầu đọc một điều gì đó anh đã viết, trong đó nói rằng sự phán xét nay đã bắt đầu trên những người đang sống.... LDE 21.1
 
-The perversity and cruelty of men will reach such a height that God will reveal Himself in His majesty. Very soon the wickedness of the world will have reached its limit and, as in the days of Noah, God will pour out His judgments.—The Upward Look, 334 (1903). LDE 23.4
+Tôi lắng nghe khi anh tiếp tục và cuối cùng nói: "Anh em ơi, anh không hoàn toàn tỉnh táo đâu. Xin nói rõ sứ điệp của anh liên quan đến chúng tôi như thế nào. Xin cho chúng tôi biết ngay. Tâm trí anh đang quá căng thẳng, anh hiểu sai về công việc của mình. Nhiều điều anh đã nói thì phù hợp với Kinh Thánh, và chúng tôi tin từng lời đó. Nhưng anh đang quá bị kích động. Xin nói rõ anh có gì cho chúng tôi." LDE 21.2
 
-The terrible reports we hear of murders and robberies, of railway accidents and deeds of violence, tell the story that the end of all things is at hand. Now, just now, we need to be preparing for the Lord’s second coming.—Letter 308, 1907. LDE 23.5
+Vâng, anh nói rằng chúng tôi phải thu xếp đồ đạc và lập tức chuyển đến Battle Creek. Tôi hỏi lý do của anh, và anh trả lời: "Để rao truyền sứ điệp này rằng sự phán xét đã bắt đầu trên những người đang sống." Tôi đáp lại: "Công việc mà Chúa đã giao cho chúng tôi làm vẫn chưa hoàn tất. Khi công việc của chúng tôi tại đây xong rồi, chúng tôi tin chắc rằng Chúa sẽ cho chúng tôi biết khi nào đến lúc chúng tôi phải chuyển đến Battle Creek, thay vì để anh dạy chúng tôi về bổn phận của mình".... Tôi rời anh cho Anh Starr nói chuyện thêm trong khi tôi tiếp tục công việc viết lách của mình. LDE 21.3
 
-## Wars and Disasters
+Anh nói với Anh Starr rằng khi Chị White nói với anh một cách tử tế như vậy, nhưng với uy quyền như thế, anh bắt đầu thấy rằng anh đã phạm một sai lầm, rằng những ấn tượng đã thôi thúc anh mạnh mẽ như vậy không nhất quán hay hợp lý. Mặc dù gia đình chúng tôi đông, gồm mười người, ngoài ba khách viếng thăm, chúng tôi quyết định để người thanh niên này ở lại với chúng tôi một thời gian. Chúng tôi không dám để anh đi với những người sẽ đối xử khắc nghiệt và lên án anh, chúng tôi cũng không muốn anh lặp lại những "khải thị" của mình. Chúng tôi sẽ để anh ở lại một thời gian ngắn nơi chúng tôi có thể giao tiếp với anh và nếu có thể, dẫn dắt anh vào những con đường an toàn, chắc chắn.—Letter 66, 1894. LDE 22.1
 
-The tempest is coming and we must get ready for its fury by having repentance toward God and faith toward our Lord Jesus Christ. The Lord will arise to shake terribly the earth. We shall see troubles on all sides. Thousands of ships will be hurled into the depths of the sea. Navies will go down, and human lives will be sacrificed by millions. Fires will break out unexpectedly and no human effort will be able to quench them. The palaces of earth will be swept away in the fury of the flames. Disasters by rail will become more and more frequent. Confusion, collision, and death without a moment’s warning will occur on the great lines of travel. The end is near, probation is closing. Oh, let us seek God while He may be found, call upon Him while He is near!—Messages to Young People, 89, 90 (1890). LDE 24.1
+## Sự Tham Ăn Và Không Tiết Độ
 
-In the last scenes of this earth’s history war will rage. There will be pestilence, plague and famine. The waters of the deep will overflow their boundaries. Property and life will be destroyed by fire and flood. We should be preparing for the mansions that Christ has gone to prepare for them that love Him.—Maranatha, 174 (1897). LDE 24.2
+Sự tham ăn và không tiết độ là nền tảng của sự đồi bại đạo đức lớn lao trong thế giới chúng ta. Sa-tan biết rõ điều này và hắn không ngừng cám dỗ đàn ông và đàn bà chiều theo khẩu vị mà phải trả giá bằng sức khỏe và thậm chí cả mạng sống. Ăn uống và ăn mặc đã trở thành mục đích của đời sống đối với thế gian. Một tình trạng y như vậy đã tồn tại trước cơn Đại hồng thủy. Và tình trạng phóng đãng này là một trong những bằng chứng rõ rệt về sự kết thúc gần kề của lịch sử trái đất này.—Letter 34, 1875. LDE 22.2
 
-## Great Balls of Fire
+Bức tranh mà sự Cảm động đã ban cho về thế giới trước cơn Đại hồng thủy phản ánh quá chân thực tình trạng mà xã hội hiện đại đang nhanh chóng tiến đến.—Patriarchs and Prophets, 102 (1890). LDE 22.3
 
-Last Friday morning, just before I awoke, a very impressive scene was presented before me. I seemed to awake from sleep but was not in my home. From the windows I could behold a terrible conflagration. Great balls of fire were falling upon houses, and from these balls fiery arrows were flying in every direction. It was impossible to check the fires that were kindled, and many places were being destroyed. The terror of the people was indescribable. After a time I awoke and found myself at home.—Evangelism, 29 (1906). LDE 24.3
+Chúng ta biết rằng Chúa đang đến rất gần. Thế giới đang nhanh chóng trở nên giống như trong những ngày của Nô-ê. Nó đã buông mình theo sự nuông chiều ích kỷ. Việc ăn uống bị đẩy đến mức quá độ. Người ta đang uống thứ rượu độc hại khiến họ trở nên điên cuồng.—Letter 308, 1907. LDE 23.1
 
-I saw an immense ball of fire fall among some beautiful mansions, causing their instant destruction. I heard someone say: “We knew that the judgments of God were coming upon the earth, but we did not know that they would come so soon.” Others, with agonized voices, said: “You knew! Why then did you not tell us? We did not know.”—Testimonies for the Church 9:28 (1909). LDE 25.1
+## Những Hành Động Bạo Lực
 
-## Earthquakes and Floods
+Trong thời Nô-ê, đại đa số người ta chống lại lẽ thật và say mê những điều giả dối chằng chịt. Đất đầy dẫy sự hung bạo. Chiến tranh, tội ác, giết chóc là chuyện thường ngày. Trước sự tái lâm của Đấng Christ cũng sẽ y như vậy.—The S.D.A. Bible Commentary 1:1090 (1891). LDE 23.2
 
-The enemy has worked, and he is working still. He is come down in great power, and the Spirit of God is being withdrawn from the earth. God has withdrawn His hand. We have only to look at Johnstown [Pennsylvania]. He did not prevent the devil from wiping that whole city out of existence. [On May 31, 1889, an estimated 2,200 people lost their lives in the Johnstown flood when a dam broke after many days of heavy rains.] And these very things will increase until the close of this earth’s history.—Sermons and Talks 1:109 (1889). LDE 25.2
+Các nghiệp đoàn lao động nhanh chóng bị kích động đến chỗ bạo lực nếu những đòi hỏi của họ không được đáp ứng. Càng ngày càng rõ ràng rằng cư dân trên đất không hòa hợp với Đức Chúa Trời. Không có lý thuyết khoa học nào có thể giải thích được bước tiến đều đặn của những kẻ làm điều ác dưới sự chỉ huy của Sa-tan. Trong mỗi đám đông hung bạo, các thiên sứ ác đang hoạt động, kích động con người phạm những hành vi bạo lực.... LDE 23.3
 
-The earth’s crust will be rent by the outbursts of the elements concealed in the bowels of the earth. These elements, once broken loose, will sweep away the treasures of those who for years have been adding to their wealth by securing large possessions at starvation prices from those in their employ. And the religious world, too, is to be terribly shaken, for the end of all things is at hand.—Manuscript Releases 3:208 (1891). LDE 25.3
+Sự ngoan cố và độc ác của con người sẽ lên đến mức độ khiến Đức Chúa Trời phải tỏ chính mình Ngài ra trong sự uy nghi của Ngài. Chẳng bao lâu nữa, sự gian ác của thế gian sẽ đạt đến tột đỉnh, và như trong thời Nô-ê, Đức Chúa Trời sẽ đổ ra sự phán xét của Ngài.—The Upward Look, 334 (1903). LDE 23.4
 
-The time is now come when one moment we may be on solid earth, the next the earth may be heaving beneath our feet. Earthquakes will take place when least expected.—Testimonies to Ministers and Gospel Workers, 421 (1896). LDE 26.1
+Những tin tức kinh khủng mà chúng ta nghe về các vụ giết người và cướp bóc, về các tai nạn đường sắt và những hành động bạo lực, cho biết rằng sự cuối cùng của mọi vật đã gần kề. Bây giờ, chính lúc này đây, chúng ta cần phải chuẩn bị cho sự tái lâm của Chúa.—Letter 308, 1907. LDE 23.5
 
-In fires, in floods, in earthquakes, in the fury of the great deep, in calamities by sea and by land, the warning is given that God’s Spirit will not always strive with men.—Manuscript Releases 3:315 (1897). LDE 26.2
+## Chiến Tranh Và Tai Họa
 
-Before the Son of man appears in the clouds of heaven everything in nature will be convulsed. Lightning from heaven uniting with the fire in the earth will cause the mountains to burn like a furnace and pour out their floods of lava over villages and cities. Molten masses of rock thrown into the water by the upheaval of things hidden in the earth will cause the water to boil and send forth rocks and earth. There will be mighty earthquakes and great destruction of human life.—The S.D.A. Bible Commentary 7:946 (1907). LDE 26.3
+Cơn bão đang đến và chúng ta phải chuẩn bị sẵn sàng để đối phó với cơn thịnh nộ của nó bằng cách ăn năn với Đức Chúa Trời và đặt đức tin nơi Chúa chúng ta là Đức Chúa Giê-su. Chúa sẽ chỗi dậy làm rúng động cả trái đất một cách khủng khiếp. Chúng ta sẽ thấy những hoạn nạn ở khắp mọi phía. Hàng ngàn tàu thuyền sẽ bị quăng xuống đáy biển sâu. Các hạm đội sẽ chìm xuống, và hàng triệu sinh mạng con người sẽ bị hi sinh. Các đám cháy sẽ bùng phát bất ngờ và không nỗ lực nào của con người có thể dập tắt được. Các cung điện trên đất sẽ bị quét sạch trong cơn thịnh nộ của ngọn lửa. Tai nạn đường sắt sẽ ngày càng thường xuyên hơn. Sự hỗn loạn, va chạm và chết chóc sẽ xảy ra trên những tuyến đường lớn mà không có một lời cảnh báo nào. Ngày tận cùng đã gần kề, thời kỳ ân điển đang khép lại. Ôi, hãy tìm kiếm Đức Chúa Trời đang khi còn có thể tìm được, hãy kêu cầu Ngài đang khi Ngài còn ở gần!—Messages to Young People, 89, 90 (1890). LDE 24.1
 
-## Crime, Famines, Pestilence
+Trong những cảnh tượng cuối cùng của lịch sử trái đất này, chiến tranh sẽ hoành hành. Sẽ có dịch lệ, ôn dịch và đói kém. Nước biển sâu sẽ tràn qua bờ cõi của nó. Tài sản và sinh mạng sẽ bị hủy diệt bởi lửa và lũ lụt. Chúng ta phải chuẩn bị sẵn sàng cho những nơi ở mà Đấng Christ đã đi chuẩn bị cho những kẻ yêu mến Ngài.—Maranatha, 174 (1897). LDE 24.2
 
-Satan is working in the atmosphere; he is poisoning the atmosphere, and here we are dependent upon God for our lives—our present and eternal lives. And being in the position that we are, we need to be wide awake, wholly devoted, wholly converted, wholly consecrated to God. But we seem to sit as though we were paralyzed. God of heaven, wake us up!—Selected Messages 2:52 (1890). LDE 26.4
+## Những Quả Cầu Lửa Lớn
 
-God has not restrained the powers of darkness from carrying forward their deadly work of vitiating the air, one of the sources of life and nutrition, with a deadly miasma. Not only is vegetable life affected but man suffers from pestilence.... These things are the result of drops from the vials of God’s wrath [God takes responsibility for that which he allows or does not prevent. See Exodus 7:3; 8:32; 1 Chronicles 10:4, 13, 14.] being sprinkled on the earth, and are but faint representations of what will be in the near future.—Selected Messages 3:391 (1891). LDE 27.1
+Sáng thứ Sáu vừa qua, ngay trước khi tôi tỉnh giấc, một cảnh tượng rất ấn tượng đã được trình bày trước mặt tôi. Tôi dường như tỉnh giấc khỏi giấc ngủ nhưng không ở trong nhà mình. Từ các cửa sổ tôi có thể nhìn thấy một đám cháy khủng khiếp. Những quả cầu lửa lớn rơi xuống các ngôi nhà, và từ những quả cầu này, những mũi tên lửa bay tứ tung khắp mọi hướng. Không thể nào dập tắt được những đám cháy đã bùng lên, và nhiều nơi đang bị hủy diệt. Nỗi kinh hoàng của dân chúng không sao tả xiết. Sau một lúc tôi tỉnh dậy và thấy mình đang ở nhà.—Evangelism, 29 (1906). LDE 24.3
 
-Famines will increase. Pestilences will sweep away thousands. Dangers are all around us from the powers without and satanic workings within, but the restraining power of God is now being exercised.—Manuscript Releases 19:382 (1897). LDE 27.2
+Tôi thấy một quả cầu lửa khổng lồ rơi xuống giữa những dinh thự xinh đẹp, khiến chúng bị hủy diệt ngay lập tức. Tôi nghe ai đó nói: "Chúng ta đã biết rằng các sự phán xét của Đức Chúa Trời đang giáng xuống trên đất, nhưng chúng ta không biết rằng chúng sẽ đến sớm như vậy." Những người khác, với giọng nói đau đớn, nói rằng: "Các ngươi đã biết! Vậy tại sao các ngươi không nói cho chúng tôi? Chúng tôi đã không biết."—Testimonies for the Church 9:28 (1909). LDE 25.1
 
-I have been shown that the Spirit of the Lord is being withdrawn from the earth. God’s keeping power will soon be refused to all who continue to disregard His commandments. The reports of fraudulent transactions, murders, and crimes of every kind are coming to us daily. Iniquity is becoming so common a thing that it no longer shocks the senses as it once did.—Letter 258, 1907. LDE 27.3
+## Động Đất Và Lụt Lội
 
-## God’s Purpose in Calamities
+Kẻ thù đã hành động, và nó vẫn còn đang hành động. Nó đã giáng xuống với quyền năng lớn, và Thánh Linh của Đức Chúa Trời đang bị rút khỏi đất. Đức Chúa Trời đã rút tay Ngài lại. Chúng ta chỉ cần nhìn vào Johnstown [Pennsylvania]. Ngài đã không ngăn cản ma quỷ quét sạch toàn bộ thành phố ấy khỏi sự tồn tại. [Vào ngày 31 tháng 5 năm 1889, ước tính có 2.200 người đã thiệt mạng trong trận lụt Johnstown khi một con đập bị vỡ sau nhiều ngày mưa lớn.] Và chính những điều này sẽ gia tăng cho đến khi kết thúc lịch sử của trái đất này.—Sermons and Talks 1:109 (1889). LDE 25.2
 
-What mean the awful calamities by sea—vessels hurled into eternity without a moment’s warning? What mean the accidents by land—fire consuming the riches that men have hoarded, much of which has been accumulated by oppression of the poor? The Lord will not interfere to protect the property of those who transgress His law, break His covenant, and trample upon His Sabbath, accepting in its place a spurious rest day. LDE 27.4
+Vỏ trái đất sẽ bị xé toạc bởi sự bùng nổ của các yếu tố tiềm ẩn trong lòng đất. Những yếu tố này, một khi đã được giải phóng, sẽ cuốn đi các kho báu của những kẻ trong nhiều năm đã tích lũy của cải bằng cách chiếm đoạt những tài sản lớn với giá rẻ mạt từ những người làm thuê cho họ. Và thế giới tôn giáo cũng sẽ bị rúng động khủng khiếp, vì sự cuối cùng của muôn vật đã gần kề.—Manuscript Releases 3:208 (1891). LDE 25.3
 
-The plagues of God are already falling upon the earth, sweeping away the most costly structures as if by a breath of fire from heaven. Will not these judgments bring professing Christians to their senses? God permits them to come that the world may take heed, that sinners may be afraid and tremble before Him.—Manuscript Releases 3:311 (1902). LDE 28.1
+Bây giờ là lúc mà một giây phút chúng ta có thể đang đứng trên mặt đất vững chắc, giây phút kế tiếp đất có thể rung chuyển dưới chân chúng ta. Các trận động đất sẽ xảy ra khi ít ai ngờ nhất.—Testimonies to Ministers and Gospel Workers, 421 (1896). LDE 26.1
 
-God has a purpose in permitting these calamities to occur. They are one of His means of calling men and women to their senses. By unusual workings through nature God will express to doubting human agencies that which He clearly reveals in His Word.—Manuscript Releases 19:279 (1902). LDE 28.2
+Trong các đám cháy, trong các trận lụt, trong các trận động đất, trong cơn thịnh nộ của vực sâu, trong các thảm họa trên biển và trên đất, lời cảnh báo được ban ra rằng Thánh Linh của Đức Chúa Trời sẽ không luôn tranh đấu với loài người.—Manuscript Releases 3:315 (1897). LDE 26.2
 
-How frequently we hear of earthquakes and tornadoes, of destruction by fire and flood, with great loss of life and property! Apparently these calamities are capricious outbreaks of disorganized, unregulated forces of nature, wholly beyond the control of man, but in them all God’s purpose may be read. They are among the agencies by which He seeks to arouse men and women to a sense of their danger.—Prophets and Kings, 277 (c. 1914). LDE 28.3
+Trước khi Con Người hiện ra trên các đám mây trời, mọi sự trong thiên nhiên sẽ bị chấn động. Sấm sét từ trời kết hợp với lửa trong đất sẽ khiến cho các ngọn núi cháy như lò lửa và đổ ra những dòng dung nham trên các làng mạc và thành thị. Những khối đá nóng chảy bị ném xuống nước do sự biến động của những điều ẩn giấu trong lòng đất sẽ khiến nước sôi lên và phun ra đá và đất. Sẽ có những trận động đất khủng khiếp và sự hủy diệt lớn lao về sinh mạng con người.—The S.D.A. Bible Commentary 7:946 (1907). LDE 26.3
 
-## Coming Events Are in the Hands of the Lord
+## Tội ác, Đói kém, Dịch bệnh
 
-The world is not without a ruler. The program of coming events is in the hands of the Lord. The Majesty of heaven has the destiny of nations as well as the concerns of His church in His own charge.—Testimonies for the Church 5:753 (1889). LDE 29.1
+Sa-tan đang hoạt động trong bầu khí quyển; nó đang đầu độc bầu khí quyển, và ở đây chúng ta lệ thuộc vào Đức Chúa Trời cho sự sống của chúng ta—sự sống hiện tại và sự sống đời đời của chúng ta. Và đang ở trong tình cảnh như vậy, chúng ta cần phải hoàn toàn tỉnh thức, hoàn toàn tận hiến, hoàn toàn được biến đổi, hoàn toàn dâng mình cho Đức Chúa Trời. Nhưng dường như chúng ta cứ ngồi đó như thể bị tê liệt. Lạy Đức Chúa Trời trên trời, xin hãy đánh thức chúng con dậy!—Selected Messages 2:52 (1890). LDE 26.4
 
-These symbolical representations [the fiery serpents in the wilderness] serve a double purpose. From them God’s people learn not only that the physical forces of the earth are under the control of the Creator, but also that under His control are the religious movements of the nations. Especially is this true with reference to the enforcement of Sunday observance.—Manuscript Releases 19:281 (1902). LDE 29.2
+Đức Chúa Trời đã không ngăn cản các thế lực của bóng tối tiến hành công việc chết chóc của chúng là làm ô nhiễm bầu không khí, một trong những nguồn của sự sống và dinh dưỡng, bằng một thứ khí độc chết người. Không chỉ đời sống thực vật bị ảnh hưởng mà con người cũng phải chịu bệnh dịch.... Những điều này là kết quả của những giọt từ các bát thạnh nộ của Đức Chúa Trời [Đức Chúa Trời chịu trách nhiệm về điều mà Ngài cho phép hoặc không ngăn cản. Xem
 
-In the great closing work we shall meet with perplexities that we know not how to deal with, but let us not forget that the three great Powers of heaven are working, that a divine hand is on the wheel, and that God will bring His purposes to pass.—Evangelism, 65 (1902). LDE 29.3
+> "Ta sẽ làm cho Pha-ra-ôn cứng lòng, và thêm nhiều dấu lạ phép kỳ của ta trong xứ Ê-díp-tô."
+> <cite>(Xuất Ê-díp-tô Ký 7:3)</cite>
 
-As the wheel-like complications were under the guidance of the hand beneath the wings of the cherubim, so the complicated play of human events is under divine control. Amidst the strife and tumult of nations, He that sitteth above the cherubim still guides the affairs of the earth. [See Ezekiel 1:4, 26; 10:8; Daniel 4:17, 25, 32.]—Education, 178 (1903). LDE 29.4
+> "Nhưng lần này, Pha-ra-ôn lại cứng lòng nữa, không cho dân sự đi."
+> <cite>(Xuất Ê-díp-tô Ký 8:32)</cite>
 
-In the annals of human history, the growth of nations, the rise and fall of empires, appear as if dependent on the will and prowess of man; the shaping of events seems, to a great degree, to be determined by his power, ambition, or caprice. But in the Word of God the curtain is drawn aside, and we behold, above, behind, and through all the play and counterplay of human interest and power and passions, the agencies of the All-merciful One, silently, patiently working out the counsels of His own will.—Prophets and Kings, 499, 500 (c. 1914). LDE 29.5
+> "Sau-lơ biểu kẻ vác binh khí hầu mình rằng: Ngươi hãy tuốt gươm của ngươi và đâm giết ta, kẻo kẻ chẳng chịu cắt bì kia đến sỉ nhục ta. Song kẻ vác binh khí người không khứng vâng mạng, vì lấy làm sợ hãi. Sau-lơ bèn cầm lấy gươm mình cúi thúc vào ngực. Ấy vậy, vua Sau-lơ chết, vì tội lỗi mình đã phạm cùng Đức Giê-hô-va, và vì chẳng có vâng theo mạng lịnh của Ngài; lại vì đã cầu hỏi bà bóng, chẳng có cầu hỏi Đức Giê-hô-va; vậy, vì cớ ấy Ngài giết người, dời nước người cho về Đa-vít, con trai Y-sai."
+> <cite>(I Sử-ký 10:4,13,14)</cite>
 
-## Heaven’s Regard for Earth’s Affairs
+] được rảy trên đất, và chỉ là những hình ảnh mờ nhạt về những gì sẽ xảy ra trong tương lai gần.—Selected Messages 3:391 (1891). LDE 27.1
 
-In sparing the life of the first murderer, God presented before the whole universe a lesson bearing upon the great controversy.... It was His purpose, not merely to put down the rebellion, but to demonstrate to all the universe the nature of rebellion....The holy inhabitants of other worlds were watching with the deepest interest the events taking place on the earth.... LDE 30.1
+Nạn đói sẽ gia tăng. Dịch bệnh sẽ cuốn đi hàng ngàn người. Hiểm họa bao quanh chúng ta từ các thế lực bên ngoài và những hoạt động của Sa-tan ở bên trong, nhưng quyền năng kiềm chế của Đức Chúa Trời hiện đang được thi hành.—Manuscript Releases 19:382 (1897). LDE 27.2
 
-God carries with Him the sympathy and approval of the whole universe as step by step His great plan advances to its complete fulfillment.—Patriarchs and Prophets, 78, 79 (1890). LDE 30.2
+Tôi đã được tỏ cho thấy rằng Thánh Linh của Chúa đang bị rút khỏi trái đất. Quyền năng gìn giữ của Đức Chúa Trời chẳng bao lâu nữa sẽ bị từ chối đối với tất cả những ai tiếp tục coi thường các điều răn của Ngài. Những bản tin về các giao dịch gian lận, các vụ giết người, và mọi loại tội ác hằng ngày đến với chúng ta. Sự gian ác đang trở nên phổ biến đến nỗi nó không còn gây sốc cho các giác quan như trước kia nữa.—Letter 258, 1907. LDE 27.3
 
-The act of Christ in dying for the salvation of man would not only make heaven accessible to men, but before all the universe it would justify God and His son in their dealing with the rebellion of Satan.—Patriarchs and Prophets, 68, 69 (1890). LDE 30.3
+## Mục Đích Của Đức Chúa Trời Trong Các Tai Họa
 
-The whole universe is watching with inexpressible interest the closing scenes of the great controversy between good and evil.—Prophets and Kings, 148 (c. 1914). LDE 30.4
+Những thảm họa kinh khiếp trên biển — những con tàu bị đẩy vào cõi đời đời không một lời cảnh báo — có ý nghĩa gì? Những tai nạn trên đất liền — lửa thiêu hủy những của cải mà loài người đã tích trữ, phần lớn được tích lũy bởi sự áp bức người nghèo — có ý nghĩa gì? Chúa sẽ không can thiệp để bảo vệ tài sản của những kẻ vi phạm luật pháp Ngài, phá vỡ giao ước của Ngài, và chà đạp ngày Sa-bát của Ngài, để thay vào đó một ngày nghỉ giả tạo. LDE 27.4
 
-Our little world is the lesson book of the universe.—The Desire of Ages, 19 (1898). [Ellen White states that the unfallen worlds and the heavenly angels watched Christ’s struggle in Gethsemane “with intense interest” (The Desire of Ages, 693). In discussing Christ’s four-thousand-year battle with Satan and his ultimate victory on the cross she uses such phrases as “the heavenly universe beheld,” “all heaven and the unfallen worlds had been witnesses,” “they heard,” “they saw,” “heaven viewed,” “what a sight for the heavenly universe!” See The Desire of Ages, 693, 759, 760.] LDE 31.1
+Các tai vạ của Đức Chúa Trời đã đang giáng xuống trên đất, quét sạch những công trình đắt giá nhất như thể bởi một hơi thở lửa từ trời. Lẽ nào những sự phán xét này không đem những người xưng mình là Cơ-đốc nhân trở lại với lý trí của họ sao? Đức Chúa Trời cho phép chúng xảy đến để thế gian phải lưu ý, để những kẻ tội lỗi phải sợ hãi và run rẩy trước mặt Ngài. — Manuscript Releases 3:311 (1902). LDE 28.1
+
+Đức Chúa Trời có một mục đích khi cho phép những tai họa này xảy ra. Chúng là một trong những phương tiện Ngài dùng để kêu gọi người nam và người nữ trở về với lý trí. Qua những hoạt động khác thường trong thiên nhiên, Đức Chúa Trời sẽ bày tỏ cho những người nghi ngờ điều mà Ngài đã rõ ràng tỏ ra trong Lời Ngài. — Manuscript Releases 19:279 (1902). LDE 28.2
+
+Chúng ta thường nghe nói về động đất và lốc xoáy, về sự tàn phá bởi lửa và lũ lụt, với tổn thất lớn về sinh mạng và tài sản! Bề ngoài, những thảm họa này dường như là những bùng phát thất thường của các thế lực thiên nhiên hỗn loạn, không có quy luật, hoàn toàn vượt khỏi tầm kiểm soát của con người, nhưng trong tất cả những điều ấy, mục đích của Đức Chúa Trời có thể được nhận ra. Chúng là một trong những phương tiện mà Ngài dùng để đánh thức người nam và người nữ ý thức về sự nguy hiểm của họ. — Prophets and Kings, 277 (c. 1914). LDE 28.3
+
+## Những Biến Cố Sắp Đến Đều Ở Trong Tay Chúa
+
+Thế giới này không phải không có Đấng cai trị. Chương trình của những biến cố sắp đến đều ở trong tay Chúa. Đấng Oai Nghi trên trời nắm giữ vận mệnh của các quốc gia cũng như các công việc của hội thánh Ngài.—Testimonies for the Church 5:753 (1889). LDE 29.1
+
+Những biểu tượng này [những con rắn lửa trong đồng vắng] phục vụ hai mục đích. Qua đó, dân sự Đức Chúa Trời không những học được rằng các lực lượng vật chất của trái đất ở dưới sự kiểm soát của Đấng Tạo Hóa, mà còn rằng dưới sự kiểm soát của Ngài có cả những phong trào tôn giáo của các quốc gia. Điều này đặc biệt đúng đối với việc cưỡng bức tuân giữ ngày Chúa Nhật.—Manuscript Releases 19:281 (1902). LDE 29.2
+
+Trong công việc bế mạc vĩ đại, chúng ta sẽ gặp những điều khó khăn mà chúng ta không biết phải đối phó thế nào, nhưng chúng ta đừng quên rằng ba Quyền Năng vĩ đại của thiên đàng đang hành động, rằng có một bàn tay thiêng liêng đang điều khiển bánh xe, và Đức Chúa Trời sẽ làm cho mục đích của Ngài được thành tựu.—Evangelism, 65 (1902). LDE 29.3
+
+Như những bánh xe phức tạp ấy được dẫn dắt bởi bàn tay bên dưới đôi cánh của các chê-ru-bim thể nào, thì sự diễn biến phức tạp của các biến cố loài người cũng nằm dưới sự kiểm soát của Đức Chúa Trời thể ấy. Giữa cuộc tranh đấu và xáo trộn của các quốc gia, Đấng ngự trên các chê-ru-bim vẫn cai quản mọi việc trên đất. [Xem
+
+> "Nầy, ta thấy có luồng gió bão đến từ phương bắc, một đám mây lớn bọc lửa giãi sáng khắp tư bề; từ giữa nó, thấy như loài kim bóng nhoáng ra từ chính giữa lửa. Bên trên vòng khung giãi trên đầu các vật sống, có hình như cái ngai, trạng nó như là bích ngọc; trên hình ngai ấy có hình như người ở trên nó."
+> <cite>(Ê-xê-chi-ên 1:4,26)</cite>
+
+> "Vả, nơi dưới cánh các chê-ru-bim có tỏ ra hình một cái tay người."
+> <cite>(Ê-xê-chi-ên 10:8)</cite>
+
+> "Án đó là bởi các đấng canh giữ đã định, và lời các thánh đã truyền, hầu cho những kẻ sống biết rằng Đấng Rất Cao cai trị trong nước của loài người; Ngài muốn ban cho ai tùy ý, và lập kẻ rất hèn hạ trong loài người lên đó. Người ta sẽ đuổi vua ra khỏi giữa loài người, và chỗ ở vua sẽ ở giữa những thú vật trong đồng. Vua sẽ bị buộc phải ăn cỏ như bò, và sẽ được thấm nhuần sương móc trên trời; bảy kỳ sẽ trải qua trên vua, cho đến khi vua nhận biết rằng Đấng Rất Cao cai trị trong nước loài người, và Ngài muốn ban cho ai tùy ý. Ngươi sẽ bị đuổi khỏi giữa loài người, sẽ ở với thú đồng; sẽ bị buộc phải ăn cỏ như bò, rồi bảy kỳ sẽ trải qua trên ngươi, cho đến khi ngươi nhận biết rằng Đấng Rất Cao cai trị trong nước của loài người, và Ngài muốn ban cho ai tùy ý."
+> <cite>(Đa-ni-ên 4:17,25,32)</cite>
+
+]—Education, 178 (1903). LDE 29.4
+
+Trong biên niên sử của lịch sử nhân loại, sự tăng trưởng của các quốc gia, sự thăng trầm của các đế quốc, dường như tùy thuộc vào ý chí và năng lực của con người; sự định hình của các biến cố dường như, ở một mức độ lớn, được quyết định bởi quyền lực, tham vọng hay sự thất thường của con người. Nhưng trong Lời Đức Chúa Trời, bức màn được vén lên, và chúng ta nhìn thấy, ở phía trên, phía sau, và xuyên qua mọi sự diễn biến qua lại của các lợi ích, quyền lực và cảm xúc của con người, là các tác động của Đấng Đại Từ Bi, đang âm thầm, kiên nhẫn thực hiện các ý định của ý muốn Ngài.—Prophets and Kings, 499, 500 (c. 1914). LDE 29.5
+
+## Sự Quan Tâm Của Thiên Đàng Đối Với Công Việc Của Trái Đất
+
+Khi tha mạng cho kẻ sát nhân đầu tiên, Đức Chúa Trời đã trình bày trước cả vũ trụ một bài học liên quan đến cuộc đại tranh chấp.... Mục đích của Ngài không chỉ là dập tắt cuộc nổi loạn, mà còn để chứng tỏ cho cả vũ trụ biết bản chất của sự nổi loạn.... Các cư dân thánh khiết của các thế giới khác đang theo dõi với sự quan tâm sâu sắc nhất về những biến cố đang diễn ra trên trái đất.... LDE 30.1
+
+Đức Chúa Trời nhận được sự đồng cảm và tán thành của cả vũ trụ khi từng bước một, kế hoạch vĩ đại của Ngài tiến đến sự hoàn tất trọn vẹn.—Patriarchs and Prophets, 78, 79 (1890). LDE 30.2
+
+Hành động của Đấng Christ chịu chết vì sự cứu rỗi của loài người không chỉ mở lối thiên đàng cho con người, mà trước cả vũ trụ, hành động ấy còn biện minh cho Đức Chúa Trời và Con Ngài trong cách Ngài đối xử với cuộc nổi loạn của Sa-tan.—Patriarchs and Prophets, 68, 69 (1890). LDE 30.3
+
+Cả vũ trụ đang theo dõi với mối quan tâm khôn tả những cảnh kết thúc của cuộc đại tranh chấp giữa thiện và ác.—Prophets and Kings, 148 (c. 1914). LDE 30.4
+
+Thế giới nhỏ bé của chúng ta là cuốn sách bài học của vũ trụ.—The Desire of Ages, 19 (1898). [Bà Ellen White nói rằng những thế giới chưa sa ngã và các thiên sứ trên thiên đàng đã theo dõi cuộc tranh chiến của Đấng Christ tại Ghết-sê-ma-nê "với sự quan tâm mãnh liệt" (The Desire of Ages, 693). Khi bàn về cuộc chiến bốn ngàn năm của Đấng Christ với Sa-tan và chiến thắng cuối cùng của Ngài trên thập tự giá, bà dùng những cụm từ như "vũ trụ trên thiên đàng đã nhìn thấy", "cả thiên đàng và những thế giới chưa sa ngã đều đã làm chứng nhân", "họ đã nghe", "họ đã thấy", "thiên đàng đã chứng kiến", "thật là một cảnh tượng cho vũ trụ trên thiên đàng!" Xem The Desire of Ages, 693, 759, 760.] LDE 31.1

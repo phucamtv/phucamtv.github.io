@@ -10,124 +10,129 @@ summary: ""
 draft: true
 ---
 
-## A Time of Trouble Before Probation Closes
+## Một Thời Kỳ Hoạn Nạn Trước Khi Thời Kỳ Ân Điển Kết Thúc
 
-On page 33 [of Early Writings] is given the following: “... At the commencement of the time of trouble, we were filled with the Holy Ghost as we went forth and proclaimed the Sabbath more fully.” LDE 143.1
+Trang 33 [của sách Early Writings] có ghi như sau: "... Vào lúc bắt đầu cơn đại nạn, chúng tôi được đầy dẫy Đức Thánh Linh khi đi ra rao giảng về ngày Sa-bát một cách đầy đủ hơn." LDE 143.1
 
-This view was given in 1847 when there were but very few of the Advent brethren observing the Sabbath, and of these but few supposed that its observance was of sufficient importance to draw a line between the people of God and unbelievers. Now the fulfillment of that view is beginning to be seen. “The commencement of that time of trouble,” here mentioned, does not refer to the time when the plagues shall begin to be poured out, but to a short period just before they are poured out, while Christ is in the sanctuary. At that time, while the work of salvation is closing, trouble will be coming on the earth, and the nations will be angry, yet held in check so as not to prevent the work of the third angel.—Early Writings, 85, 86 (1854). LDE 143.2
+Khải tượng này được ban cho vào năm 1847 khi chỉ có rất ít anh em tín hữu Cơ-đốc Phục Lâm giữ ngày Sa-bát, và trong số đó chỉ có ít người cho rằng việc giữ ngày Sa-bát là đủ quan trọng để vạch ra ranh giới giữa con dân Đức Chúa Trời và những kẻ chẳng tin. Giờ đây sự ứng nghiệm của khải tượng đó đang bắt đầu được thấy. "Lúc bắt đầu của cơn đại nạn" được đề cập ở đây không nói đến thời điểm các tai vạ bắt đầu được đổ ra, mà là một khoảng thời gian ngắn ngay trước khi các tai vạ ấy được đổ ra, trong khi Đấng Christ còn ở trong đền thánh. Vào thời điểm đó, khi công cuộc cứu rỗi đang sắp kết thúc, sự hoạn nạn sẽ giáng trên đất, và các dân các nước sẽ nổi giận, nhưng vẫn bị kìm hãm để không ngăn trở được công việc của vị thiên sứ thứ ba.—Early Writings, 85, 86 (1854). LDE 143.2
 
-## The End of Religious Liberty in the United States
+## Sự Chấm Dứt Quyền Tự Do Tôn Giáo Tại Hoa Kỳ
 
-The law of God, through the agency of Satan, is to be made void. In our land of boasted freedom religious liberty will come to an end. The contest will be decided over the Sabbath question, which will agitate the whole world.—Evangelism, 236 (1875). LDE 144.1
+Luật pháp Đức Chúa Trời, thông qua tác động của Sa-tan, sẽ bị vô hiệu hóa. Trên đất nước tự hào về sự tự do của chúng ta, quyền tự do tôn giáo sẽ chấm dứt. Cuộc tranh đấu sẽ được quyết định xoay quanh vấn đề ngày Sa-bát, và vấn đề này sẽ làm rung chuyển cả thế giới.—Evangelism, 236 (1875). LDE 144.1
 
-A great crisis awaits the people of God. Very soon our nation will attempt to enforce upon all the observance of the first day of the week as a sacred day. In doing this they will not scruple to compel men against the voice of their own conscience to observe the day the nation declares to be the Sabbath.—The Review and Herald Extra, December 11, 1888. LDE 144.2
+Một cuộc khủng hoảng lớn đang chờ đợi dân sự của Đức Chúa Trời. Rất sớm thôi, đất nước chúng ta sẽ tìm cách áp đặt trên mọi người sự tuân giữ ngày thứ nhất trong tuần như một ngày thánh. Khi làm điều đó, họ sẽ không ngần ngại ép buộc người ta phải làm trái với tiếng nói của lương tâm mình để giữ ngày mà quốc gia tuyên bố là ngày Sa-bát.—The Review and Herald Extra, December 11, 1888. LDE 144.2
 
-Seventh-day Adventists will fight the battle over the seventh-day Sabbath. The authorities in the United States and in other countries will rise up in their pride and power and make laws to restrict religious liberty.—Manuscript 78, 1897. LDE 144.3
+Những người Cơ-đốc Phục Lâm sẽ chiến đấu trong trận chiến về ngày Sa-bát thứ bảy. Các nhà cầm quyền tại Hoa Kỳ và tại các quốc gia khác sẽ trỗi dậy trong sự kiêu hãnh và quyền lực của họ, và đặt ra luật lệ để hạn chế quyền tự do tôn giáo.—Manuscript 78, 1897. LDE 144.3
 
-The Protestants of the United States will be foremost in stretching their hands across the gulf to grasp the hand of spiritualism; they will reach over the abyss to clasp hands with the Roman power; and under the influence of this threefold union, this country will follow in the steps of Rome in trampling on the rights of conscience.—The Great Controversy, 588 (1911). LDE 144.4
+Người Tin lành tại Hoa Kỳ sẽ đi đầu trong việc đưa tay qua vực thẳm để nắm lấy bàn tay của thuyết duy linh; họ sẽ vươn qua vực sâu để bắt tay với quyền lực của La-mã; và dưới ảnh hưởng của liên minh ba bên này, đất nước này sẽ đi theo dấu chân của La-mã trong việc chà đạp các quyền của lương tâm.—The Great Controversy, 588 (1911). LDE 144.4
 
-## Church and State Oppose God’s People
+## Hội Thánh Và Nhà Nước Chống Lại Dân Sự Của Đức Chúa Trời
 
-All who will not bow to the decree of the national councils and obey the national laws to exalt the sabbath instituted by the man of sin, to the disregard of God’s holy day, will feel, not the oppressive power of popery alone, but of the Protestant world, the image of the beast.—Selected Messages 2:380 (1886). LDE 145.1
+Tất cả những ai không chịu cúi đầu trước sắc lệnh của các hội đồng quốc gia và tuân theo luật pháp quốc gia nhằm tôn vinh ngày sa-bát do người tội lỗi lập ra, mà coi thường ngày thánh của Đức Chúa Trời, sẽ cảm nhận được không chỉ quyền lực áp bức của giáo hoàng, mà còn của cả thế giới Tin Lành, tức hình tượng của con thú.—Selected Messages 2:380 (1886). LDE 145.1
 
-Those religious bodies who refuse to hear God’s messages of warning will be under strong deception and will unite with the civil power to persecute the saints. The Protestant churches will unite with the papal power in persecuting the commandment-keeping people of God.... LDE 145.2
+Các tổ chức tôn giáo nào từ chối lắng nghe những lời cảnh báo của Đức Chúa Trời sẽ bị lừa dối nặng nề và sẽ liên kết với quyền lực dân sự để bắt bớ các thánh đồ. Các hội thánh Tin Lành sẽ hiệp với quyền lực giáo hoàng để bắt bớ dân sự của Đức Chúa Trời, là những người tuân giữ các điều răn.... LDE 145.2
 
-This lamb-like power unites with the dragon in making war upon those who keep the commandments of God and have the testimony of Jesus Christ.—Manuscript Releases 14:162 (1899). LDE 145.3
+Quyền lực giống như chiên con này hiệp với con rồng để gây chiến với những người tuân giữ các điều răn của Đức Chúa Trời và có lời chứng của Đức Chúa Giê-su.—Manuscript Releases 14:162 (1899). LDE 145.3
 
-The church appeals to the strong arm of civil power, and in this work papists and Protestants unite.—The Great Controversy, 607 (1911). LDE 145.4
+Hội thánh kêu gọi cánh tay mạnh mẽ của quyền lực dân sự, và trong công việc này, người Công Giáo và người Tin lành liên kết với nhau.—The Great Controversy, 607 (1911). LDE 145.4
 
-## Before the Courts
+## Trước Các Tòa Án
 
-Those who live during the last days of this earth’s history will know what it means to be persecuted for the truth’s sake. In the courts injustice will prevail. The judges will refuse to listen to the reasons of those who are loyal to the commandments of God because they know the arguments in favor of the fourth commandment are unanswerable. They will say, “We have a law, and by our law he ought to die.” God’s law is nothing to them. “Our law” with them is supreme. Those who respect this human law will be favored, but those who will not bow to the idol sabbath have no favors shown them.—The Signs of the Times, May 26, 1898. LDE 145.5
+Những ai sống trong những ngày cuối cùng của lịch sử thế gian này sẽ biết thế nào là bị bắt bớ vì cớ lẽ thật. Tại các tòa án, sự bất công sẽ thắng thế. Các quan tòa sẽ từ chối lắng nghe lý lẽ của những người trung thành với các điều răn của Đức Chúa Trời, vì họ biết rằng những lập luận ủng hộ điều răn thứ tư là không thể bác bỏ được. Họ sẽ nói:
 
-In cases where we are brought before the courts, we are to give up our rights, unless it brings us in collision with God. It is not our rights we are pleading for, but God’s right to our service.—Manuscript Releases 5:69 (1895). LDE 146.1
+> "Dân Giu-đa lại nói rằng: Chúng tôi có luật, chiếu luật đó hắn phải chết; vì hắn tự xưng là Con Đức Chúa Trời."
+> <cite>(Giăng 19:7)</cite>
 
-## Adventists Will Be Treated With Contempt
+Luật pháp Đức Chúa Trời chẳng là gì đối với họ. Đối với họ, "luật pháp của chúng ta" là tối thượng. Những ai tôn trọng luật pháp loài người này sẽ được biệt đãi, còn những ai không chịu cúi lạy trước thần tượng ngày sa-bát giả sẽ không được hưởng bất kỳ ân huệ nào.—The Signs of the Times, ngày 26 tháng 5, 1898. LDE 145.5
 
-The same masterful mind that plotted against the faithful in ages past is still seeking to rid the earth of those who fear God and obey His law.... LDE 146.2
+Trong những trường hợp chúng ta bị đưa ra trước các tòa án, chúng ta phải từ bỏ các quyền lợi của mình, trừ khi điều đó khiến chúng ta xung đột với Đức Chúa Trời. Không phải chúng ta đang nài xin cho quyền lợi của mình, nhưng là cho quyền của Đức Chúa Trời đối với sự phục vụ của chúng ta.—Manuscript Releases 5:69 (1895). LDE 146.1
 
-Wealth, genius, education, will combine to cover them with contempt. Persecuting rulers, ministers, and church members will conspire against them. With voice and pen, by boasts, threats, and ridicule, they will seek to overthrow their faith.—Testimonies for the Church 5:450 (1885). LDE 146.3
+## Những Người Cơ-đốc Phục Lâm Sẽ Bị Đối Xử Khinh Miệt
 
-There will come a time when, because of our advocacy of Bible truth, we shall be treated as traitors.—Testimonies for the Church 6:394 (1900). LDE 146.4
+Cùng một bộ óc chủ mưu đã âm mưu chống lại những người trung tín trong các thời đại đã qua nay vẫn đang tìm cách loại bỏ khỏi mặt đất những người kính sợ Đức Chúa Trời và vâng giữ luật pháp Ngài.... LDE 146.2
 
-Those who honor the Bible Sabbath will be denounced as enemies of law and order, as breaking down the moral restraints of society, causing anarchy and corruption, and calling down the judgments of God upon the earth. Their conscientious scruples will be pronounced obstinacy, stubbornness, and contempt of authority. They will be accused of disaffection toward the government.—The Great Controversy, 592 (1911). LDE 146.5
+Của cải, tài năng, học thức sẽ liên kết lại để đổ sự khinh miệt lên họ. Các nhà cầm quyền bắt bớ, các mục sư và các tín hữu hội thánh sẽ cấu kết chống lại họ. Bằng lời nói và ngòi bút, bằng sự khoe khoang, đe dọa và chế nhạo, chúng sẽ tìm cách lật đổ đức tin của họ.—Testimonies for the Church 5:450 (1885). LDE 146.3
 
-All who in that evil day would fearlessly serve God according to the dictates of conscience, will need courage, firmness, and a knowledge of God and His Word, for those who are true to God will be persecuted, their motives will be impugned, their best efforts misinterpreted, and their names cast out as evil.—The Acts of the Apostles, 431, 432 (1911). LDE 147.1
+Sẽ đến một thời điểm mà, vì chúng ta bênh vực lẽ thật của Kinh Thánh, chúng ta sẽ bị đối xử như những kẻ phản bội.—Testimonies for the Church 6:394 (1900). LDE 146.4
 
-## All Kinds of Persecution
+Những người tôn kính ngày Sa-bát của Kinh Thánh sẽ bị tố cáo là kẻ thù của luật pháp và trật tự, là kẻ phá hoại những ràng buộc đạo đức của xã hội, gây nên tình trạng vô chính phủ và sự đồi bại, và chuốc lấy sự phán xét của Đức Chúa Trời giáng trên thế gian. Sự cẩn trọng theo lương tâm của họ sẽ bị xem là sự ngoan cố, cứng đầu và khinh thường quyền hành. Họ sẽ bị buộc tội bất mãn với chính quyền.—The Great Controversy, 592 (1911). LDE 146.5
 
-The persecutions of Protestants by Romanism, by which the religion of Jesus Christ was almost annihilated, will be more than rivaled when Protestantism and popery are combined.—Selected Messages 3:387 (1889). LDE 147.2
+Tất cả những ai trong ngày tà ác ấy muốn hầu việc Đức Chúa Trời cách không sợ hãi theo sự mách bảo của lương tâm, sẽ cần đến lòng can đảm, sự kiên định, và sự hiểu biết về Đức Chúa Trời cùng Lời Ngài, vì những người trung thành với Đức Chúa Trời sẽ bị bắt bớ, động cơ của họ sẽ bị nghi ngờ, những nỗ lực tốt đẹp nhất của họ sẽ bị xuyên tạc, và danh tiếng của họ sẽ bị bêu xấu như là gian ác.—The Acts of the Apostles, 431, 432 (1911). LDE 147.1
 
-Satan has a thousand masked batteries which will be opened upon the loyal, commandment-keeping people of God to compel them to violate conscience.—Letter 30a, 1892. LDE 147.3
+## Mọi Hình Thức Bắt Bớ
 
-We need not be surprised at anything that may take place now. We need not marvel at any developments of horror. Those who trample under their unholy feet the law of God have the same spirit as had the men who insulted and betrayed Jesus. Without any compunctions of conscience they will do the deeds of their father the devil.—Selected Messages 3:416 (1897). LDE 147.4
+Những cuộc bắt bớ những người Tin lành bởi Công Giáo La-mã, qua đó tôn giáo của Đức Chúa Giê-su gần như bị xóa sổ, sẽ bị vượt qua xa khi Tin Lành và giáo hoàng kết hợp với nhau.—Selected Messages 3:387 (1889). LDE 147.2
 
-Let those who desire to be refreshed in mind and instructed in the truth study the history of the early church during and immediately following the Day of Pentecost. Study carefully in the book of Acts the experiences of Paul and the other apostles, for God’s people in our day must pass through similar experiences.—The Paulson Collection of Ellen G. White Letters, 118 (1907). LDE 148.1
+Sa-tan có một ngàn khẩu đội ngụy trang sẽ được khai hỏa nhắm vào dân sự trung thành, giữ các điều răn của Đức Chúa Trời, để buộc họ phải vi phạm lương tâm.—Letter 30a, 1892. LDE 147.3
 
-## Every Earthly Support Will Be Cut Off
+Chúng ta không cần phải ngạc nhiên về bất cứ điều gì có thể xảy ra hiện nay. Chúng ta không cần kinh ngạc về bất kỳ sự diễn biến kinh khủng nào. Những kẻ giày đạp dưới chân ô uế của họ luật pháp Đức Chúa Trời có cùng một tinh thần như những kẻ đã sỉ nhục và phản bội Đức Chúa Giê-su. Không một chút cắn rứt lương tâm, chúng sẽ làm những việc của ma quỷ là cha chúng.—Selected Messages 3:416 (1897). LDE 147.4
 
-Hoarded wealth will soon be worthless. When the decree shall go forth that none shall buy or sell except they have the mark of the beast, very much means will be of no avail. God calls for us now to do all in our power to send forth the warning to the world.—The Review and Herald, March 21, 1878. LDE 148.2
+Những ai muốn được tươi mới trong tâm trí và được dạy dỗ trong lẽ thật, hãy nghiên cứu lịch sử của hội thánh đầu tiên trong và ngay sau lễ Ngũ Tuần. Hãy nghiên cứu cẩn thận trong sách Công vụ những kinh nghiệm của Phao-lô và các sứ đồ khác, vì dân sự của Đức Chúa Trời trong thời đại chúng ta phải trải qua những kinh nghiệm tương tự.—The Paulson Collection of Ellen G. White Letters, 118 (1907). LDE 148.1
 
-The time is coming when we cannot sell at any price. The decree will soon go forth prohibiting men to buy or sell of any man save him that hath the mark of the beast. We came near having this realized in California a short time since, but this was only the threatening of the blowing of the four winds. As yet they are held by the four angels. We are not just ready. There is a work yet to be done, and then the angels will be bidden to let go, that the four winds may blow upon the earth.—Testimonies for the Church 5:152 (1882). LDE 148.3
+## Mọi Sự Hỗ Trợ Trần Thế Sẽ Bị Cắt Đứt
 
-In the last great conflict in the controversy with Satan those who are loyal to God will see every earthly support cut off. Because they refuse to break His law in obedience to earthly powers they will be forbidden to buy or sell.—The Desire of Ages, 121, 122 (1898). LDE 148.4
+Của cải tích trữ chẳng bao lâu nữa sẽ trở nên vô giá trị. Khi sắc lệnh được ban ra rằng không ai được mua hay bán nếu không có dấu của con thú, thì rất nhiều phương tiện sẽ trở nên vô ích. Đức Chúa Trời đang kêu gọi chúng ta ngay bây giờ hãy làm hết sức mình để gửi đi lời cảnh báo cho thế giới.—The Review and Herald, ngày 21 tháng 3, 1878. LDE 148.2
 
-Satan says ... “For fear of wanting food and clothing they will join with the world in transgressing God’s law. The earth will be wholly under my dominion.”—Prophets and Kings, 183, 184 (c. 1914). LDE 149.1
+Thời điểm đang đến khi chúng ta không thể bán với bất cứ giá nào. Sắc lệnh sẽ sớm được ban hành cấm mọi người mua hoặc bán với bất cứ ai ngoại trừ kẻ có dấu của con thú. Cách đây không lâu, chúng ta đã gần như chứng kiến điều này tại California, nhưng đó mới chỉ là dấu hiệu đe dọa của việc thổi bốn hướng gió. Cho đến nay, các luồng gió ấy vẫn còn bị bốn vị thiên sứ cầm giữ. Chúng ta vẫn chưa sẵn sàng. Còn có một công việc phải làm, rồi sau đó các thiên sứ sẽ được lệnh buông tay, để bốn hướng gió thổi trên đất.—Testimonies for the Church 5:152 (1882). LDE 148.3
 
-## Some Are Imprisoned for Their Faith
+Trong cuộc xung đột lớn cuối cùng trong cuộc tranh đấu với Sa-tan, những ai trung thành với Đức Chúa Trời sẽ thấy mọi sự hỗ trợ trần thế bị cắt đứt. Vì họ từ chối vi phạm luật pháp của Ngài để vâng theo các quyền lực thế gian, nên họ sẽ bị cấm mua hoặc bán.—The Desire of Ages, 121, 122 (1898). LDE 148.4
 
-Some will be imprisoned because they refuse to desecrate the Sabbath of the Lord.—The Paulson Collection of Ellen G. White Letters, 118 (1907). LDE 149.2
+Sa-tan nói rằng... "Vì sợ thiếu lương thực và áo mặc, chúng sẽ hùa theo thế gian trong việc vi phạm luật pháp Đức Chúa Trời. Trái đất sẽ hoàn toàn nằm dưới quyền thống trị của ta."—Prophets and Kings, 183, 184 (khoảng 1914). LDE 149.1
 
-As the defenders of truth refuse to honor the Sunday-sabbath some of them will be thrust into prison, some will be exiled, some will be treated as slaves. To human wisdom all this now seems impossible, but as the restraining Spirit of God shall be withdrawn from men and they shall be under the control of Satan, who hates the divine precepts, there will be strange developments. The heart can be very cruel when God’s fear and love are removed.—The Great Controversy, 608 (1911). LDE 149.3
+## Một Số Người Bị Cầm Tù Vì Đức Tin Của Mình
 
-If we are called to suffer for Christ’s sake, we shall be able to go to prison trusting in Him as a little child trusts in its parents. Now is the time to cultivate faith in God.—Our High Calling, 357 (1892). LDE 149.4
+Một số người sẽ bị cầm tù vì họ từ chối xúc phạm ngày Sa-bát của Chúa.—The Paulson Collection of Ellen G. White Letters, 118 (1907). LDE 149.2
 
-## Many Will Be Put to Death
+Khi những người bênh vực lẽ thật từ chối tôn vinh ngày sa-bát Chúa Nhật, một số sẽ bị tống vào tù, một số sẽ bị lưu đày, một số sẽ bị đối xử như nô lệ. Đối với sự khôn ngoan của loài người, tất cả những điều này hiện nay dường như không thể xảy ra, nhưng khi Đức Thánh Linh kiềm chế của Đức Chúa Trời rút khỏi loài người và họ sẽ ở dưới quyền kiểm soát của Sa-tan, là kẻ ghét những giới luật thiêng liêng, thì sẽ có những diễn biến lạ lùng. Lòng người có thể rất tàn nhẫn khi sự kính sợ và tình yêu thương của Đức Chúa Trời bị tước đi.—The Great Controversy, 608 (1911). LDE 149.3
 
-The best thing for us is to come into close connection with God and, if He would have us be martyrs for the truth’s sake, it may be the means of bringing many more into the truth.—Selected Messages 3:420 (1886). LDE 149.5
+Nếu chúng ta được kêu gọi chịu khổ vì cớ Đấng Christ, chúng ta sẽ có thể bước vào ngục tù với lòng tin cậy nơi Ngài như một đứa trẻ nhỏ tin cậy nơi cha mẹ mình. Bây giờ là lúc để vun trồng đức tin nơi Đức Chúa Trời.—Our High Calling, 357 (1892). LDE 149.4
 
-Many will be imprisoned, many will flee for their lives from cities and towns, and many will be martyrs for Christ’s sake in standing in defense of the truth.—Selected Messages 3:397 (1889). LDE 150.1
+## Nhiều Người Sẽ Bị Giết
 
-There is a prospect before us of a continued struggle, at the risk of imprisonment, loss of property and even of life itself, to defend the law of God.—Testimonies for the Church 5:712 (1889). LDE 150.2
+Điều tốt nhất cho chúng ta là đến gần và liên kết mật thiết với Đức Chúa Trời, và nếu Ngài muốn chúng ta tử đạo vì lẽ thật, điều đó có thể là phương tiện đưa nhiều người khác đến với lẽ thật.—Selected Messages 3:420 (1886). LDE 149.5
 
-Men will be required to render obedience to human edicts in violation of the divine law. Those who are true to God will be menaced, denounced, proscribed. They will be “betrayed both by parents, and brethren, and kinsfolks, and friends,” even unto death.—Prophets and Kings, 588 (c. 1914). LDE 150.3
+Nhiều người sẽ bị cầm tù, nhiều người sẽ chạy trốn để bảo toàn mạng sống khỏi các thành phố và thị trấn, và nhiều người sẽ tử đạo vì cớ Đấng Christ trong khi đứng bênh vực lẽ thật.—Selected Messages 3:397 (1889). LDE 150.1
 
-We are not to have the courage and fortitude of martyrs of old until brought into the position they were in.... Should there be a return of persecution there would be grace given to arouse every energy of the soul to show a true heroism.—Our High Calling, 125 (1889). LDE 150.4
+Trước mắt chúng ta là viễn cảnh của một cuộc tranh đấu liên tục, với nguy cơ bị tù đày, mất tài sản và ngay cả mạng sống mình, để bảo vệ luật pháp Đức Chúa Trời.—Testimonies for the Church 5:712 (1889). LDE 150.2
 
-The disciples were not endowed with the courage and fortitude of the martyrs until such grace was needed.—The Desire of Ages, 354 (1898). LDE 150.5
+Người ta sẽ bị buộc phải tuân theo các sắc lệnh của loài người vi phạm luật pháp thiêng liêng. Những người trung thành với Đức Chúa Trời sẽ bị đe dọa, tố cáo, cấm đoán. Họ sẽ bị "cha mẹ, anh em, bà con, bạn hữu mình nộp", thậm chí đến chết.—Prophets and Kings, 588 (c. 1914). LDE 150.3
 
-## How to Stand Firm Under Persecution
+Chúng ta sẽ không có lòng can đảm và sự kiên trì của những người tử đạo thuở xưa cho đến khi chúng ta được đặt vào hoàn cảnh mà họ đã trải qua... Nếu sự bắt bớ tái diễn, ân điển sẽ được ban cho để khơi dậy mọi năng lực của linh hồn nhằm thể hiện một sự dũng cảm thật sự.—Our High Calling, 125 (1889). LDE 150.4
 
-We shall find that we must let loose of all hands except the hand of Jesus Christ. Friends will prove treacherous and will betray us. Relatives, deceived by the enemy, will think they do God service in opposing us and putting forth the utmost efforts to bring us into hard places, hoping we will deny our faith. But we may trust our hand in the hand of Christ amid darkness and peril.—Maranatha, 197 (1889). LDE 150.6
+Các môn đồ đã không được ban cho lòng can đảm và sự kiên trì của những người tử đạo cho đến khi ân điển ấy là cần thiết.—The Desire of Ages, 354 (1898). LDE 150.5
 
-The only way in which men will be able to stand firm in the conflict is to be rooted and grounded in Christ. They must receive the truth as it is in Jesus. And it is only as the truth is presented thus that it can meet the wants of the soul. The preaching of Christ crucified, Christ our righteousness, is what satisfies the soul’s hunger. When we secure the interest of the people in this great central truth, faith and hope and courage come to the heart.—General Conference Daily Bulletin, January 28, 1893. LDE 151.1
+## Cách Đứng Vững Trong Cơn Bắt Bớ
 
-Many, because of their faith, will be cut off from house and heritage here, but if they will give their hearts to Christ, receiving the message of His grace, and resting upon their Substitute and Surety, even the Son of God, they may still be filled with joy.—The Signs of the Times, June 2, 1898. LDE 151.2
+Chúng ta sẽ thấy rằng mình phải buông bỏ mọi bàn tay, chỉ trừ bàn tay của Đức Chúa Giê-su. Bạn bè sẽ tỏ ra phản trắc và sẽ phản bội chúng ta. Họ hàng, bị kẻ thù lừa dối, sẽ nghĩ rằng họ đang phụng sự Đức Chúa Trời khi chống đối chúng ta và dốc hết sức đẩy chúng ta vào những hoàn cảnh khó khăn, mong rằng chúng ta sẽ chối bỏ đức tin mình. Nhưng chúng ta có thể tin cậy đặt tay mình trong tay Đấng Christ giữa cảnh tối tăm và hiểm nguy.—Maranatha, 197 (1889). LDE 150.6
 
-## Persecution Scatters God’s People
+Cách duy nhất để con người có thể đứng vững trong cuộc chiến là đâm rễ và vững nền trong Đấng Christ. Họ phải tiếp nhận lẽ thật như đã có trong Đức Chúa Giê-su. Và chỉ khi lẽ thật được trình bày như vậy thì nó mới có thể đáp ứng được nhu cầu của linh hồn. Việc rao giảng về Đấng Christ bị đóng đinh, Đấng Christ là sự công bình của chúng ta, chính là điều làm thỏa mãn cơn đói khát của linh hồn. Khi chúng ta thu hút sự quan tâm của dân chúng vào lẽ thật trọng tâm vĩ đại này, đức tin, hy vọng và lòng can đảm sẽ đến với tấm lòng.—General Conference Daily Bulletin, January 28, 1893. LDE 151.1
 
-As enmity is aroused in various places against those who observe the Sabbath of the Lord, it may become necessary for God’s people to move from those places to places where they will not be so bitterly opposed. LDE 151.3
+Nhiều người, vì đức tin của mình, sẽ bị cắt đứt khỏi nhà cửa và gia sản ở đời này, nhưng nếu họ dâng lòng mình cho Đấng Christ, tiếp nhận sứ điệp ân điển của Ngài, và an nghỉ nơi Đấng Thay Thế và Đấng Bảo Lãnh của họ, là chính Con Đức Chúa Trời, thì họ vẫn có thể được tràn đầy niềm vui.—The Signs of the Times, June 2, 1898. LDE 151.2
 
-God does not require His children to remain where, by the course of wicked men, their influence is made of no effect and their lives endangered. When liberty and life are imperiled it is not merely our privilege, it is our positive duty to go to places where the people are willing to hear the Word of life and where the opportunities for preaching the Word will be more favorable.—Manuscript 26, 1904. LDE 151.4
+## Sự Bắt Bớ Khiến Dân Sự Đức Chúa Trời Bị Tản Lạc
 
-The time is soon coming when God’s people, because of persecution, will be scattered in many countries. Those who have received an all-round education will have the advantage where they are.—Manuscript Releases 5:280 (1908). LDE 152.1
+Khi sự thù nghịch nổi dậy ở nhiều nơi chống lại những người giữ ngày Sa-bát của Chúa, dân sự Đức Chúa Trời có thể cần phải di chuyển từ những nơi đó đến những nơi mà họ sẽ không bị chống đối cách cay đắng như vậy. LDE 151.3
 
-## Persecution Leads to Unity Among God’s People
+Đức Chúa Trời không đòi hỏi con cái Ngài phải ở lại nơi mà, do hành động của những kẻ ác, ảnh hưởng của họ trở nên vô hiệu và mạng sống của họ bị đe dọa. Khi tự do và mạng sống bị nguy hiểm, không chỉ là đặc ân của chúng ta, mà còn là bổn phận tuyệt đối của chúng ta phải đi đến những nơi mà người ta sẵn lòng nghe Lời sự sống và nơi mà cơ hội rao giảng Lời sẽ thuận lợi hơn.—Manuscript 26, 1904. LDE 151.4
 
-When the storm of persecution really breaks upon us, the true sheep will hear the true Shepherd’s voice. Self-denying efforts will be put forth to save the lost, and many who have strayed from the fold will come back to follow the great Shepherd. The people of God will draw together and present to the enemy a united front. In view of the common peril strife for supremacy will cease, there will be no disputing as to who shall be accounted greatest.—Testimonies for the Church 6:401 (1900). LDE 152.2
+Thời điểm sắp đến khi dân sự Đức Chúa Trời, vì sự bắt bớ, sẽ bị tản lạc đến nhiều quốc gia. Những ai đã nhận được sự giáo dục toàn diện sẽ có lợi thế ở bất cứ nơi nào họ ở.—Manuscript Releases 5:280 (1908). LDE 152.1
 
-## A Crisis Makes God’s Interference More Marked
+## Sự Bắt Bớ Dẫn Đến Sự Hiệp Một Giữa Dân Sự Đức Chúa Trời
 
-From time to time the Lord has made known His manner of working. He is mindful of what is passing upon the earth. And when a crisis has come, He has revealed Himself and has interposed to hinder the working of Satan’s plans. He has often permitted matters with nations, with families, and with individuals to come to a crisis that His interference might become marked. Then He has let the fact be known that there was a God in Israel who would sustain and vindicate His people. LDE 152.3
+Khi cơn bão bắt bớ thật sự ập đến trên chúng ta, những con chiên thật sẽ nghe tiếng của Đấng Chăn chiên thật. Những nỗ lực quên mình sẽ được thực hiện để cứu những kẻ hư mất, và nhiều người đã đi lạc khỏi bầy sẽ trở về để theo Đấng Chăn chiên vĩ đại. Dân sự của Đức Chúa Trời sẽ xích lại gần nhau và trình diện trước kẻ thù như một mặt trận thống nhất. Trước mối nguy chung, sự tranh giành quyền tối thượng sẽ chấm dứt, sẽ không còn cuộc tranh cãi nào về việc ai sẽ được coi là lớn nhất.—Testimonies for the Church 6:401 (1900). LDE 152.2
 
-When the defiance of the law of Jehovah shall be almost universal, when His people shall be pressed in affliction by their fellow men, God will interpose. The fervent prayers of His people will be answered, for He loves to have His people seek Him with all their heart and depend upon Him as their Deliverer.—The Review and Herald, June 15, 1897. LDE 153.1
+## Cơn Khủng Hoảng Khiến Sự Can Thiệp Của Đức Chúa Trời Thêm Rõ Nét
 
-For a time the oppressors will be permitted to triumph over those who know God’s holy commandments.... To the last, God permits Satan to reveal his character as a liar, an accuser, and a murderer. Thus the final triumph of His people is made more marked, more glorious, more full and complete.—Selected Messages 3:414 (1904). LDE 153.2
+Thỉnh thoảng Chúa đã bày tỏ cách hành động của Ngài. Ngài lưu tâm đến những gì đang diễn ra trên đất. Và khi cơn khủng hoảng đến, Ngài đã tỏ chính mình ra và can thiệp để ngăn cản công việc của những kế hoạch của Sa-tan. Ngài thường cho phép các vấn đề của các quốc gia, các gia đình, và các cá nhân đi đến chỗ khủng hoảng để sự can thiệp của Ngài được rõ nét. Rồi Ngài đã cho biết rằng có một Đức Chúa Trời trong Y-sơ-ra-ên là Đấng sẽ nâng đỡ và minh oan cho dân sự Ngài. LDE 152.3
 
-## Affliction Purifies God’s People
+Khi sự thách thức luật pháp của Đức Giê-hô-va trở nên gần như phổ biến, khi dân sự Ngài bị đồng loại đè ép trong cơn hoạn nạn, Đức Chúa Trời sẽ can thiệp. Những lời cầu nguyện sốt sắng của dân sự Ngài sẽ được nhậm, vì Ngài yêu thích khi dân sự Ngài tìm kiếm Ngài hết lòng và nương cậy nơi Ngài như Đấng Giải Cứu của họ.—The Review and Herald, ngày 15 tháng 6, 1897. LDE 153.1
 
-Soon there is to be trouble all over the world. It becomes everyone to seek to know God. We have no time to delay.... LDE 153.3
+Trong một thời gian, những kẻ áp bức sẽ được phép đắc thắng trên những ai biết các điều răn thánh của Đức Chúa Trời.... Cho đến cuối cùng, Đức Chúa Trời cho phép Sa-tan bộc lộ bản chất của hắn như một kẻ nói dối, một kẻ tố cáo, và một kẻ giết người. Như vậy, sự đắc thắng cuối cùng của dân sự Ngài được trở nên rõ nét hơn, vinh hiển hơn, đầy đủ và trọn vẹn hơn.—Selected Messages 3:414 (1904). LDE 153.2
 
-God’s love for His church is infinite. His care over His heritage is unceasing. He suffers no affliction to come upon the church but such as is essential for her purification, her present and eternal good. He will purify His church even as He purified the temple at the beginning and close of His ministry on earth. All that He brings upon the church in test and trial comes that His people may gain deeper piety and more strength to carry the triumphs of the cross to all parts of the world.—Testimonies for the Church 9:228 (1909). LDE 153.4
+## Hoạn Nạn Thanh Tẩy Dân Sự Đức Chúa Trời
 
-Afflictions, crosses, temptations, adversity, and our varied trials are God’s workmen to refine us, sanctify us, and fit us for the heavenly garner.—Testimonies for the Church 3:115 (1872). LDE 154.1
+Chẳng bao lâu nữa, hoạn nạn sẽ xảy ra khắp thế giới. Mỗi người phải tìm cách nhận biết Đức Chúa Trời. Chúng ta không có thời giờ để chần chừ.... LDE 153.3
+
+Tình yêu thương của Đức Chúa Trời dành cho hội thánh Ngài là vô hạn. Sự chăm sóc của Ngài đối với cơ nghiệp Ngài là không ngừng nghỉ. Ngài không cho phép một hoạn nạn nào đến trên hội thánh ngoại trừ những điều cần thiết cho sự thanh tẩy hội thánh, vì lợi ích hiện tại và đời đời của hội thánh. Ngài sẽ thanh tẩy hội thánh Ngài giống như Ngài đã thanh tẩy đền thờ vào lúc khởi đầu và lúc kết thúc chức vụ của Ngài trên đất. Tất cả những gì Ngài đem đến trên hội thánh qua sự thử thách và thử luyện đều đến để dân sự Ngài có thể đạt được lòng tin kính sâu sắc hơn và có thêm sức mạnh để mang sự đắc thắng của thập tự giá đến mọi nơi trên thế giới.—Testimonies for the Church 9:228 (1909). LDE 153.4
+
+Hoạn nạn, thập tự giá, cám dỗ, nghịch cảnh, và những thử thách đa dạng của chúng ta là những người thợ của Đức Chúa Trời để tinh luyện chúng ta, thánh hóa chúng ta, và chuẩn bị chúng ta cho kho thóc thiên đàng.—Testimonies for the Church 3:115 (1872). LDE 154.1

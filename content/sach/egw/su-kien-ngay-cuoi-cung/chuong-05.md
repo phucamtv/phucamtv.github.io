@@ -10,120 +10,120 @@ summary: ""
 draft: true
 ---
 
-## A Twofold Life
+## Một đời sống hai mặt
 
-In this age, just prior to the second coming of Christ in the clouds of heaven, such a work as that of John [the Baptist] is to be done. God calls for men who will prepare a people to stand in the great day of the Lord.... In order to give such a message as John gave, we must have a spiritual experience like his. The same work must be wrought in us. We must behold God, and in beholding Him lose sight of self.—Testimonies for the Church 8:332, 333 (1904). LDE 63.1
+Trong thời đại này, ngay trước sự tái lâm của Đấng Christ trong đám mây trên trời, một công việc giống như công việc của Giăng [Báp-tít] phải được thực hiện. Đức Chúa Trời kêu gọi những người sẽ chuẩn bị một dân tộc để đứng vững trong ngày trọng đại của Chúa.... Để truyền đạt một sứ điệp như Giăng đã truyền, chúng ta phải có một kinh nghiệm thuộc linh giống như ông. Cùng một công việc ấy phải được thực hiện trong chúng ta. Chúng ta phải chiêm ngưỡng Đức Chúa Trời, và khi chiêm ngưỡng Ngài, chúng ta đánh mất cái nhìn về bản thân mình.—Testimonies for the Church 8:332, 333 (1904). LDE 63.1
 
-Communion with God will ennoble the character and the life. Men will take knowledge of us, as of the first disciples, that we have been with Jesus. This will impart to the worker a power that nothing else can give. Of this power he must not allow himself to be deprived. We must live a twofold life—a life of thought and action, of silent prayer and earnest work.—The Ministry of Healing, 512 (1905). LDE 63.2
+Sự thông công với Đức Chúa Trời sẽ làm cho phẩm cách và đời sống trở nên cao quý. Người ta sẽ nhận biết về chúng ta, như đã nhận biết về các môn đồ đầu tiên, rằng chúng ta đã ở với Đức Chúa Giê-su. Điều này sẽ ban cho người làm công một quyền năng mà không gì khác có thể ban cho được. Người ấy không được để mình bị tước đoạt quyền năng này. Chúng ta phải sống một đời sống hai mặt—một đời sống của tư tưởng và hành động, của sự cầu nguyện thầm lặng và lao động sốt sắng.—The Ministry of Healing, 512 (1905). LDE 63.2
 
-Prayer and effort, effort and prayer, will be the business of your life. You must pray as though the efficiency and praise were all due to God, and labor as though duty were all your own.—Testimonies for the Church 4:538 (1881). LDE 63.3
+Cầu nguyện và nỗ lực, nỗ lực và cầu nguyện, sẽ là công việc của đời bạn. Bạn phải cầu nguyện như thể mọi sự hữu hiệu và vinh hiển đều thuộc về Đức Chúa Trời, và lao động như thể bổn phận hoàn toàn thuộc về chính bạn.—Testimonies for the Church 4:538 (1881). LDE 63.3
 
-No man is safe for a day or an hour without prayer.—The Great Controversy, 530 (1911). LDE 64.1
+Không ai được an toàn dù chỉ một ngày hay một giờ mà không cầu nguyện.—The Great Controversy, 530 (1911). LDE 64.1
 
-He who does nothing but pray will soon cease to pray.—Steps to Christ, 101 (1892). LDE 64.2
+Người chỉ cầu nguyện mà không làm gì khác sẽ chẳng bao lâu sẽ thôi cầu nguyện.—Steps to Christ, 101 (1892). LDE 64.2
 
-## Firmly Rooted In Christ
+## Vững Vàng Bám Rễ Trong Đấng Christ
 
-The storm is coming, the storm that will try every man’s faith of what sort it is. Believers must now be firmly rooted in Christ or else they will be led astray by some phase of error.—Evangelism, 361, 362 (1905). LDE 64.3
+Cơn bão đang đến, cơn bão sẽ thử nghiệm đức tin của mỗi người thuộc loại nào. Những người tin Chúa giờ đây phải vững vàng bám rễ trong Đấng Christ, bằng không họ sẽ bị dẫn dụ lạc lối bởi một dạng tà thuyết nào đó.—Evangelism, 361, 362 (1905). LDE 64.3
 
-It would be well for us to spend a thoughtful hour each day in contemplation of the life of Christ. We should take it point by point and let the imagination grasp each scene, especially the closing ones.—The Desire of Ages, 83 (1898). LDE 64.4
+Sẽ là điều tốt nếu chúng ta dành ra một giờ suy ngẫm mỗi ngày để chiêm nghiệm về cuộc đời của Đấng Christ. Chúng ta nên xem xét từng điểm một và để trí tưởng tượng nắm bắt từng cảnh, đặc biệt là những cảnh cuối cùng.—The Desire of Ages, 83 (1898). LDE 64.4
 
-The only defense against evil is the indwelling of Christ in the heart through faith in His righteousness. Unless we become vitally connected with God, we can never resist the unhallowed effects of self-love, self-indulgence, and temptation to sin. We may leave off many bad habits, for the time we may part company with Satan; but without a vital connection with God, through the surrender of ourselves to Him moment by moment, we shall be overcome. Without a personal acquaintance with Christ, and a continual communion, we are at the mercy of the enemy, and shall do his bidding in the end.—The Desire of Ages, 324 (1898). LDE 64.5
+Sự bảo vệ duy nhất chống lại điều ác là sự ngự trị của Đấng Christ trong lòng qua đức tin nơi sự công bình của Ngài. Trừ khi chúng ta được liên kết cách thiết yếu với Đức Chúa Trời, chúng ta không bao giờ có thể chống lại những tác động bất khiết của lòng yêu mình, sự buông thả bản thân, và sự cám dỗ phạm tội. Chúng ta có thể từ bỏ nhiều thói hư tật xấu, trong một thời gian chúng ta có thể chia tay với Sa-tan; nhưng không có sự liên kết thiết yếu với Đức Chúa Trời, qua việc dâng mình cho Ngài trong từng khoảnh khắc, chúng ta sẽ bị chế ngự. Không có sự quen biết cá nhân với Đấng Christ, và sự thông công liên tục, chúng ta sẽ ở trong tay kẻ thù, và cuối cùng sẽ làm theo mệnh lệnh của hắn.—The Desire of Ages, 324 (1898). LDE 64.5
 
-Christ and Him crucified should be the theme of contemplation, of conversation, and of our most joyful emotion.—Steps to Christ, 103, 104 (1892). LDE 65.1
+Đấng Christ và Ngài chịu đóng đinh phải là đề tài cho sự chiêm nghiệm, cho sự trò chuyện, và cho cảm xúc vui mừng nhất của chúng ta.—Steps to Christ, 103, 104 (1892). LDE 65.1
 
-## Molded By The Holy Spirit
+## Được Đức Thánh Linh Uốn Nắn
 
-Never will the human heart know happiness until it is submitted to be molded by the Spirit of God. The Spirit conforms the renewed soul to the model, Jesus Christ. Through its influence, enmity against God is changed into faith and love, and pride into humility. The soul perceives the beauty of truth, and Christ is honored in excellence and perfection of character.—Our High Calling, 152 (1896). LDE 65.2
+Lòng người sẽ không bao giờ biết đến hạnh phúc cho đến khi được thuận phục để Thánh Linh của Đức Chúa Trời uốn nắn. Đức Thánh Linh khiến linh hồn được đổi mới trở nên giống khuôn mẫu là Đức Chúa Giê-su Christ. Nhờ ảnh hưởng của Ngài, sự thù nghịch với Đức Chúa Trời được biến đổi thành đức tin và tình yêu thương, lòng kiêu ngạo được biến đổi thành sự khiêm nhường. Linh hồn nhận thức được vẻ đẹp của lẽ thật, và Đấng Christ được tôn vinh trong sự tuyệt hảo và toàn vẹn của tâm tánh.—Our High Calling, 152 (1896). LDE 65.2
 
-There is not an impulse of our nature, not a faculty of the mind or an inclination of the heart, but needs to be, moment by moment, under the control of the Spirit of God.—Patriarchs and Prophets, 421 (1890). LDE 65.3
+Không một xung động nào trong bản tánh chúng ta, không một khả năng nào của tâm trí hay khuynh hướng nào của tấm lòng mà lại không cần phải được Thánh Linh của Đức Chúa Trời điều khiển từng giây từng phút.—Patriarchs and Prophets, 421 (1890). LDE 65.3
 
-The Spirit illumines our darkness, informs our ignorance, and helps us in our manifold necessities. But the mind must be constantly going out after God. If worldliness is allowed to come in, if we have no desire to pray, no desire to commune with Him who is the source of strength and wisdom, the Spirit will not abide with us.—Our High Calling, 154 (1904). LDE 65.4
+Đức Thánh Linh soi sáng nơi tối tăm của chúng ta, dạy dỗ sự dốt nát của chúng ta, và giúp đỡ chúng ta trong muôn vàn nhu cầu. Nhưng tâm trí phải liên tục hướng về Đức Chúa Trời. Nếu chúng ta để cho tinh thần thế tục len lỏi vào, nếu chúng ta không có lòng khao khát cầu nguyện, không khao khát thông công với Đấng là nguồn sức mạnh và sự khôn ngoan, thì Đức Thánh Linh sẽ không ngự với chúng ta.—Our High Calling, 154 (1904). LDE 65.4
 
-## The Necessity of Bible Study
+## Sự Cần Thiết Của Việc Học Kinh Thánh
 
-No renewed heart can be kept in a condition of sweetness without the daily application of the salt of the Word. Divine grace must be received daily, or no man will stay converted.—Our High Calling, 215 (1897). LDE 65.5
+Không một tấm lòng được đổi mới nào có thể giữ được tình trạng ngọt ngào mà không có sự áp dụng hằng ngày muối của Lời Đức Chúa Trời. Ân điển thiêng liêng phải được tiếp nhận mỗi ngày, nếu không thì không một ai có thể giữ được sự hoán cải.—Our High Calling, 215 (1897). LDE 65.5
 
-Let your faith be substantiated by the Word of God. Grasp firmly the living testimony of truth. Have faith in Christ as a personal Saviour. He has been and ever will be our Rock of Ages.—Evangelism, 362 (1905). LDE 66.1
+Hãy để đức tin của bạn được vững lập bởi Lời Đức Chúa Trời. Hãy nắm chặt lời chứng sống động của lẽ thật. Hãy có đức tin nơi Đấng Christ như một Đấng Cứu Thế cá nhân. Ngài đã và sẽ luôn là Vầng Đá Muôn Đời của chúng ta.—Evangelism, 362 (1905). LDE 66.1
 
-Christians should be preparing for what is soon to break upon the world as an overwhelming surprise, and this preparation they should make by diligently studying the Word of God and striving to conform their lives to its precepts.—Prophets and Kings, 626 (c. 1914). LDE 66.2
+Những người Cơ-đốc phải chuẩn bị cho điều sắp sửa đổ ập trên thế giới như một sự bất ngờ áp đảo, và họ phải thực hiện sự chuẩn bị này bằng cách siêng năng học Lời Đức Chúa Trời và cố gắng làm cho đời sống mình phù hợp với những giới răn của Lời ấy.—Prophets and Kings, 626 (c. 1914). LDE 66.2
 
-None but those who have fortified the mind with the truths of the Bible will stand through the last great conflict.—The Great Controversy, 593, 594 (1911). LDE 66.3
+Không một ai ngoại trừ những người đã trang bị tâm trí mình bằng các lẽ thật của Kinh Thánh sẽ đứng vững qua được cuộc xung đột lớn cuối cùng.—The Great Controversy, 593, 594 (1911). LDE 66.3
 
-Only those who have been diligent students of the Scriptures and who have received the love of the truth will be shielded from the powerful delusion that takes the world captive.—The Great Controversy, 625 (1911). LDE 66.4
+Chỉ có những ai đã siêng năng học Kinh Thánh và đã tiếp nhận tình yêu lẽ thật mới được che chở khỏi sự lừa dối mạnh mẽ đang giam cầm thế giới.—The Great Controversy, 625 (1911). LDE 66.4
 
-Our people need to understand the oracles of God; they need to have a systematic knowledge of the principles of revealed truth, which will fit them for what is coming upon the earth and prevent them from being carried about by every wind of doctrine.—Testimonies for the Church 5:273 (1885). LDE 66.5
+Dân sự của chúng ta cần hiểu các lời sấm truyền của Đức Chúa Trời; họ cần có một sự hiểu biết có hệ thống về các nguyên tắc của lẽ thật được mặc khải, là điều sẽ trang bị cho họ trước những gì sắp xảy đến trên đất và ngăn họ khỏi bị cuốn đi bởi mọi luồng gió đạo lý.—Testimonies for the Church 5:273 (1885). LDE 66.5
 
-## Commit Scripture to Memory
+## Ghi Nhớ Kinh Thánh
 
-Several times each day precious, golden moments should be consecrated to prayer and the study of the Scriptures, if it is only to commit a text to memory, that spiritual life may exist in the soul.—Testimonies for the Church 4:459 (1880). LDE 66.6
+Mỗi ngày phải dành ra nhiều khoảnh khắc quý báu, vàng ngọc, để cầu nguyện và nghiên cứu Kinh Thánh, dù chỉ để ghi nhớ một câu Kinh Thánh, hầu cho đời sống thuộc linh có thể tồn tại trong linh hồn. —Testimonies for the Church 4:459 (1880). LDE 66.6
 
-God’s precious Word is the standard for youth who would be loyal to the King of heaven. Let them study the Scriptures. Let them commit text after text to memory and acquire a knowledge of what the Lord has said.—My Life Today, 315 (1887). LDE 67.1
+Lời quý báu của Đức Chúa Trời là tiêu chuẩn cho những người trẻ muốn trung thành với Vua trên trời. Hãy để họ học Kinh Thánh. Hãy để họ ghi nhớ câu này đến câu khác và thu nhận kiến thức về những gì Chúa đã phán. —My Life Today, 315 (1887). LDE 67.1
 
-Build a wall of scriptures around you, and you will see that the world cannot break it down. Commit the Scriptures to memory, and then throw right back upon Satan when he comes with his temptations, “It is written.” This is the way that our Lord met the temptations of Satan, and resisted them.—The Review and Herald, April 10, 1888. LDE 67.2
+Hãy xây một bức tường Kinh Thánh chung quanh bạn, và bạn sẽ thấy rằng thế gian không thể phá đổ được. Hãy ghi nhớ Kinh Thánh, rồi khi Sa-tan đến với các cám dỗ của nó, hãy ném thẳng lại nó câu: "Có lời chép rằng." Đây là cách mà Chúa chúng ta đã đối diện với các cám dỗ của Sa-tan và chống lại chúng. —The Review and Herald, April 10, 1888. LDE 67.2
 
-Hang in memory’s hall the precious words of Christ. They are to be valued far above silver or gold.—Testimonies for the Church 6:81 (1900). LDE 67.3
+Hãy treo trong hành lang ký ức những lời quý báu của Đấng Christ. Chúng phải được quý trọng hơn vàng bạc rất nhiều. —Testimonies for the Church 6:81 (1900). LDE 67.3
 
-Keep a pocket Bible with you as you work, and improve every opportunity to commit to memory its precious promises.—The Review and Herald, April 27, 1905. LDE 67.4
+Hãy mang theo một quyển Kinh Thánh bỏ túi khi bạn làm việc, và tận dụng mọi cơ hội để ghi nhớ những lời hứa quý báu của Kinh Thánh. —The Review and Herald, April 27, 1905. LDE 67.4
 
-The time will come when many will be deprived of the written Word. But if this Word is printed in the memory, no one can take it from us.—Manuscript Releases 20:64 (1906). LDE 67.5
+Sẽ đến lúc nhiều người bị tước mất Lời được viết ra. Nhưng nếu Lời này được in sâu trong ký ức, không ai có thể lấy đi khỏi chúng ta. —Manuscript Releases 20:64 (1906). LDE 67.5
 
-Study the Word of God. Commit its precious promises to memory so that, when we shall be deprived of our Bibles, we may still be in possession of the Word of God.—Manuscript Releases 10:298 (1909). LDE 67.6
+Hãy học Lời Đức Chúa Trời. Hãy ghi nhớ những lời hứa quý báu của Lời ấy, để khi chúng ta bị tước mất quyển Kinh Thánh của mình, chúng ta vẫn còn sở hữu Lời Đức Chúa Trời. —Manuscript Releases 10:298 (1909). LDE 67.6
 
-## Revelation 14 an Anchor to God’s People
+## Khải huyền 14 là cái neo cho dân sự Đức Chúa Trời
 
-In these last days it is our duty to ascertain the full meaning of the first, second, and third angels’ messages. All our transactions should be in accordance with the Word of God. The first, second, and third angels’ messages are all united and are revealed in the fourteenth chapter of Revelation from the sixth verse to the close.—Manuscript Releases 13:68 (1896). LDE 68.1
+Trong những ngày sau rốt này, bổn phận của chúng ta là tìm hiểu ý nghĩa trọn vẹn của các thông điệp của thiên sứ thứ nhất, thứ hai và thứ ba. Mọi việc chúng ta làm phải phù hợp với Lời Đức Chúa Trời. Các thông điệp của thiên sứ thứ nhất, thứ hai và thứ ba đều hiệp nhất với nhau và được bày tỏ trong chương mười bốn của sách Khải huyền từ câu thứ sáu đến hết chương.—Manuscript Releases 13:68 (1896). LDE 68.1
 
-Many who embraced the third message had not had an experience in the two former messages. Satan understood this, and his evil eye was upon them to overthrow them; but the third angel was pointing them to the most holy place, and those who had an experience in the past messages were pointing them the way to the heavenly sanctuary. Many saw the perfect chain of truth in the angels’ messages and gladly received them in their order, and followed Jesus by faith into the heavenly sanctuary. These messages were represented to me as an anchor to the people of God. Those who understand and receive them will be kept from being swept away by the many delusions of Satan.—Early Writings, 256 (1858). LDE 68.2
+Nhiều người tiếp nhận thông điệp thứ ba đã không có kinh nghiệm về hai thông điệp trước đó. Sa-tan hiểu điều này, và con mắt độc ác của nó nhìn chăm vào họ để lật đổ họ; nhưng thiên sứ thứ ba chỉ cho họ đến nơi chí thánh, và những ai đã có kinh nghiệm về các thông điệp trước thì chỉ cho họ con đường đến đền thánh trên trời. Nhiều người đã thấy được chuỗi lẽ thật trọn vẹn trong các thông điệp của các thiên sứ và vui mừng tiếp nhận chúng theo thứ tự, rồi bởi đức tin theo Đức Chúa Giê-su vào đền thánh trên trời. Các thông điệp này được tỏ ra cho tôi như là một cái neo cho dân sự của Đức Chúa Trời. Những ai hiểu và tiếp nhận chúng sẽ được gìn giữ khỏi bị cuốn đi bởi nhiều sự lừa dối của Sa-tan.—Early Writings, 256 (1858). LDE 68.2
 
-## Educate the Mind to Believe God’s Word
+## Hãy Rèn Luyện Tâm Trí Để Tin Lời Đức Chúa Trời
 
-Those who feel at liberty to question the Word of God, to doubt everything where there is any chance to be unbelieving, will find that it will require a tremendous struggle to have faith when trouble comes. It will be almost impossible to overcome the influence that binds the mind which has been educated in the line of unbelief, for by this course the soul is bound in Satan’s snare and becomes powerless to break the dreadful net that has been woven closer and closer about the soul. LDE 68.3
+Những ai cảm thấy được tự do nghi ngờ Lời Đức Chúa Trời, hoài nghi mọi điều ở bất cứ đâu có cơ hội để không tin, sẽ thấy rằng họ phải đấu tranh hết sức gian khổ để có đức tin khi cơn hoạn nạn ập đến. Hầu như không thể nào vượt qua được ảnh hưởng đang trói buộc tâm trí đã được rèn luyện theo hướng vô tín, vì qua đường lối này linh hồn bị buộc trong cạm bẫy của Sa-tan và trở nên bất lực không thể bứt phá khỏi tấm lưới khủng khiếp đã được dệt ngày càng chặt hơn quanh linh hồn. LDE 68.3
 
-In taking a position of doubt, man calls to his aid the agencies of Satan. But the only hope of one who has been educated in the line of unbelief is to fall all helpless upon the Saviour and, like a child, submit his will and his way to Christ that he may be brought out of darkness into His marvelous light. Man does not have the power to recover himself from the snare of Satan. He who educates himself in the line of questioning, doubting, and criticizing strengthens himself in infidelity.—Manuscript 3, 1895. LDE 69.1
+Khi giữ lập trường nghi ngờ, con người mời gọi các thế lực của Sa-tan đến trợ giúp mình. Nhưng hy vọng duy nhất của người đã được rèn luyện theo đường lối vô tín là ngã hoàn toàn bất lực vào Đấng Cứu Thế và, như một trẻ thơ, đầu phục ý muốn cùng đường lối của mình cho Đấng Christ để được đem ra khỏi bóng tối mà vào trong sự sáng lạ lùng của Ngài. Con người không có năng lực để tự giải thoát mình khỏi cạm bẫy của Sa-tan. Kẻ tự rèn luyện mình theo đường lối hoài nghi, nghi ngờ và chỉ trích thì càng tự làm cho mình vững mạnh trong sự vô tín.—Manuscript 3, 1895. LDE 69.1
 
-## Preparation for Future Trials
+## Sự Chuẩn Bị Cho Những Thử Thách Tương Lai
 
-The servants of Christ are to prepare no set speech to present when brought to trial for their faith. Their preparation is to be made day by day, in treasuring up in their hearts the precious truths of God’s Word, in feeding upon the teaching of Christ, and through prayer strengthening their faith; then, when brought into trial, the Holy Spirit will bring to their remembrance the very truths that will reach the hearts of those who shall come to hear. God will flash the knowledge obtained by diligent searching of the Scriptures into their memory at the very time when it is needed.—Counsels on Sabbath School Work, 40, 41 (1900). LDE 69.2
+Các tôi tớ của Đấng Christ không cần phải soạn sẵn bài diễn thuyết để trình bày khi bị đưa ra xét xử vì đức tin của mình. Sự chuẩn bị của họ phải được thực hiện hằng ngày, bằng cách chứa đựng trong lòng những lẽ thật quý báu của Lời Đức Chúa Trời, nuôi mình bằng sự dạy dỗ của Đấng Christ, và nhờ sự cầu nguyện làm vững mạnh đức tin; rồi, khi bị đưa ra thử thách, Đức Thánh Linh sẽ nhắc lại cho họ chính những lẽ thật sẽ chạm đến tấm lòng của những người đến nghe. Đức Chúa Trời sẽ làm bừng sáng trong trí nhớ của họ kiến thức đã thu được nhờ siêng năng tra cứu Kinh Thánh ngay vào lúc cần đến.—Counsels on Sabbath School Work, 40, 41 (1900). LDE 69.2
 
-When the time of trial shall come there are men now preaching to others who will find, upon examining the positions they hold, that there are many things for which they can give no satisfactory reason. Until thus tested they knew not their great ignorance. And there are many in the church who take it for granted that they understand what they believe, but, until controversy arises, they do not know their own weakness. When separated from those of like faith and compelled to stand singly and alone to explain their belief, they will be surprised to see how confused are their ideas of what they had accepted as truth.—Testimonies for the Church 5:707 (1889). LDE 70.1
+Khi thời kỳ thử thách đến, sẽ có những người hiện đang giảng dạy cho người khác sẽ thấy, khi xem xét lại các quan điểm mà họ giữ, rằng có nhiều điều mà họ không thể đưa ra lý do thỏa đáng. Cho đến khi bị thử thách như vậy, họ vẫn không biết mình dốt nát đến đâu. Và có nhiều người trong hội thánh tự cho rằng mình hiểu điều mình tin, nhưng cho đến khi tranh luận nổi lên, họ không biết được sự yếu đuối của chính mình. Khi bị tách rời khỏi những người cùng đức tin và buộc phải đứng riêng lẻ một mình để giải thích niềm tin của mình, họ sẽ ngạc nhiên khi thấy những ý tưởng của mình về điều họ đã chấp nhận là lẽ thật rối rắm đến mức nào.—Testimonies for the Church 5:707 (1889). LDE 70.1
 
-## Control the Moral Powers
+## Kiểm Soát Các Năng Lực Đạo Đức
 
-The ability to give a reason for our faith is a good accomplishment, but if the truth does not go deeper than this, the soul will never be saved. The heart must be purified from all moral defilement.—Our High Calling, 142 (1893). LDE 70.2
+Khả năng đưa ra lý do cho đức tin của chúng ta là một thành tựu tốt, nhưng nếu lẽ thật không đi sâu hơn thế, linh hồn sẽ không bao giờ được cứu. Tấm lòng phải được tẩy sạch khỏi mọi sự ô uế về đạo đức.—Our High Calling, 142 (1893). LDE 70.2
 
-Few realize that it is a duty to exercise control over their thoughts and imaginations. It is difficult to keep the undisciplined mind fixed upon profitable subjects. But if the thoughts are not properly employed, religion cannot flourish in the soul. The mind must be preoccupied with sacred and eternal things, or it will cherish trifling and superficial thoughts. Both the intellectual and the moral powers must be disciplined, and they will strengthen and improve by exercise.—Our High Calling, 111 (1881). LDE 70.3
+Ít người nhận ra rằng việc kiểm soát tư tưởng và sự tưởng tượng của mình là một bổn phận. Thật khó để giữ tâm trí thiếu kỷ luật tập trung vào những vấn đề có ích. Nhưng nếu các tư tưởng không được sử dụng đúng cách, tôn giáo không thể phát triển trong linh hồn. Tâm trí phải được lấp đầy bởi những điều thiêng liêng và đời đời, nếu không nó sẽ ấp ủ những tư tưởng tầm thường và hời hợt. Cả năng lực trí tuệ lẫn năng lực đạo đức đều phải được rèn luyện, và chúng sẽ mạnh mẽ lên và được cải thiện qua sự rèn luyện.—Our High Calling, 111 (1881). LDE 70.3
 
-We greatly need to encourage and cultivate pure, chaste thoughts, and to strengthen the moral powers rather than the lower and carnal powers. God help us to awake from our self-indulgent appetites!—Medical Ministry, 278 (1896). LDE 70.4
+Chúng ta rất cần khuyến khích và vun bồi những tư tưởng trong sạch, thanh khiết, và làm vững mạnh các năng lực đạo đức thay vì các năng lực thấp kém và xác thịt. Nguyện Đức Chúa Trời giúp chúng ta tỉnh thức khỏi những dục vọng nuông chiều bản thân!—Medical Ministry, 278 (1896). LDE 70.4
 
-## The Example of Enoch
+## Tấm Gương Của Hê-nóc
 
-Enoch walked with God three hundred years previous to his translation to heaven, and the state of the world was not then more favorable for the perfection of Christian character than it is today. And how did Enoch walk with God? He educated his mind and heart to ever feel that he was in the presence of God, and when in perplexity his prayers would ascend to God to keep him. LDE 71.1
+Hê-nóc đã đồng đi với Đức Chúa Trời ba trăm năm trước khi ông được cất lên thiên đàng, và tình trạng của thế gian khi ấy cũng không thuận lợi hơn cho việc hoàn thiện phẩm cách Cơ-đốc so với ngày nay. Vậy Hê-nóc đã đồng đi với Đức Chúa Trời như thế nào? Ông đã rèn luyện trí óc và tấm lòng mình để luôn cảm nhận rằng mình đang ở trong sự hiện diện của Đức Chúa Trời, và khi gặp khó khăn, lời cầu nguyện của ông dâng lên Đức Chúa Trời xin Ngài gìn giữ ông. LDE 71.1
 
-He refused to take any course that would offend his God. He kept the Lord continually before him. He would pray, “Teach me Thy way, that I may not err. What is Thy pleasure concerning me? What shall I do to honor Thee, my God?” Thus he was constantly shaping his way and course in accordance with God’s commandments, and he had perfect confidence and trust in his heavenly Father, that He would help him. He had no thought or will of his own. It was all submerged in the will of his Father. LDE 71.2
+Ông từ chối bất kỳ lối đi nào có thể làm mất lòng Đức Chúa Trời của ông. Ông luôn đặt Chúa trước mặt mình. Ông sẽ cầu nguyện rằng: "Xin dạy con đường lối Ngài, để con không lầm lạc. Ý muốn của Ngài về con là gì? Con phải làm gì để tôn vinh Ngài, hỡi Đức Chúa Trời của con?" Như vậy, ông không ngừng định hình lối đi và đường lối của mình theo các điều răn của Đức Chúa Trời, và ông có lòng tin cậy và phó thác trọn vẹn nơi Cha thiên thượng, rằng Ngài sẽ giúp đỡ ông. Ông không có ý nghĩ hay ý muốn riêng nào. Tất cả đều chìm đắm trong ý muốn của Cha ông. LDE 71.2
 
-Now Enoch was a representative of those who will be upon the earth when Christ shall come, who will be translated to heaven without seeing death.—Sermons and Talks 1, 32 (1886). LDE 71.3
+Hê-nóc là người đại diện cho những ai sẽ sống trên đất khi Đấng Christ tái lâm, là những người sẽ được cất lên thiên đàng mà không phải nếm trải sự chết.—Sermons and Talks 1, 32 (1886). LDE 71.3
 
-Enoch had temptations as well as we. He was surrounded with society no more friendly to righteousness than is that which surrounds us. The atmosphere he breathed was tainted with sin and corruption the same as ours, yet he lived a life of holiness. He was unsullied with the prevailing sins of the age in which he lived. So may we remain pure and uncorrupted.—Testimonies for the Church 2:122 (1868). LDE 71.4
+Hê-nóc cũng có những cám dỗ như chúng ta. Ông sống giữa một xã hội không thân thiện với sự công bình hơn xã hội đang vây quanh chúng ta. Bầu không khí ông hít thở cũng bị ô nhiễm bởi tội lỗi và sự bại hoại như của chúng ta, vậy mà ông đã sống một đời sống thánh khiết. Ông không bị vấy bẩn bởi những tội lỗi phổ biến của thời đại ông đang sống. Như thế, chúng ta cũng có thể giữ mình tinh sạch và không bị ô uế.—Testimonies for the Church 2:122 (1868). LDE 71.4
 
-## Remember God’s Past Blessings
+## Hãy Nhớ Đến Những Phước Lành Đức Chúa Trời Đã Ban Trong Quá Khứ
 
-In reviewing our past history, having traveled over every step of advance to our present standing, I can say, Praise God! As I see what the Lord has wrought, I am filled with astonishment, and with confidence in Christ as leader. We have nothing to fear for the future, except as we shall forget the way the Lord has led us, and His teaching in our past history.—Life Sketches of Ellen G. White, 196 (1902). LDE 72.1
+Khi nhìn lại lịch sử quá khứ của chúng ta, đã trải qua từng bước tiến đến chỗ đứng hiện tại, tôi có thể nói: Ngợi khen Đức Chúa Trời! Khi tôi thấy những gì Chúa đã làm, tôi đầy lòng kinh ngạc và tin cậy vào Đấng Christ là Đấng lãnh đạo. Chúng ta chẳng có gì phải sợ hãi cho tương lai, ngoại trừ việc chúng ta quên đi con đường mà Chúa đã dẫn dắt chúng ta, và sự dạy dỗ của Ngài trong lịch sử quá khứ của chúng ta.—Life Sketches of Ellen G. White, 196 (1902). LDE 72.1
 
-## A Time for Serious Reflection
+## Thời Điểm Để Suy Ngẫm Nghiêm Túc
 
-If there ever was a time when serious reflection becomes every one who fears God, it is now, when personal piety is essential. The inquiry should be made, “What am I, and what is my work and mission in this time? On which side am I working—Christ’s side or the enemy’s side?” Let every soul now humble himself or herself before God, for now we are surely living in the great Day of Atonement. The cases even now of many are passing in review before God, for they are to sleep in their graves a little season. Your profession of faith is not your guarantee in that day, but the state of your affections. Is the soul-temple cleansed of its defilement? Are my sins confessed and am I repenting of them before God, that they may be blotted out? Do I esteem myself too highly? Am I willing to make any and every sacrifice for the excellency of the knowledge of Jesus Christ? Do I feel every moment I am not my own, but Christ’s property, that my service belongs to God, whose I am?—Manuscript 87, 1886. LDE 72.2
+Nếu có một thời điểm nào mà sự suy ngẫm nghiêm túc trở nên cần thiết cho mỗi người kính sợ Đức Chúa Trời, thì đó chính là lúc này, khi lòng tin kính cá nhân là điều thiết yếu. Cần phải đặt câu hỏi: "Tôi là ai, và công việc cùng sứ mạng của tôi trong thời điểm này là gì? Tôi đang làm việc ở phía nào—phía Đấng Christ hay phía kẻ thù?" Bây giờ, mỗi linh hồn hãy tự hạ mình xuống trước mặt Đức Chúa Trời, vì chắc chắn chúng ta đang sống trong Đại Lễ Chuộc Tội. Ngay lúc này, hồ sơ của nhiều người đang được xem xét trước mặt Đức Chúa Trời, vì họ sắp phải an nghỉ trong mồ một thời gian ngắn. Sự xưng nhận đức tin của bạn không phải là bảo đảm cho bạn trong ngày đó, mà chính là tình trạng của tấm lòng bạn. Đền thờ của linh hồn đã được tẩy sạch khỏi sự ô uế chưa? Tôi đã xưng tội mình và ăn năn về chúng trước mặt Đức Chúa Trời, hầu cho chúng được xóa bỏ chưa? Tôi có tự đánh giá mình quá cao không? Tôi có sẵn lòng chịu mọi hy sinh vì sự cao trọng của sự hiểu biết Đức Chúa Giê-su Christ không? Mỗi giây phút, tôi có cảm nhận rằng tôi không thuộc về mình, mà thuộc về Đấng Christ, rằng sự phục vụ của tôi thuộc về Đức Chúa Trời, là Đấng mà tôi thuộc về không?—Manuscript 87, 1886. LDE 72.2
 
-We should ask ourselves, “For what are we living and working? And what will be the outcome of it all?”—The Signs of the Times, November 21, 1892. LDE 73.1
+Chúng ta nên tự hỏi: "Chúng ta đang sống và làm việc vì điều gì? Và kết cục của tất cả những điều ấy sẽ ra sao?"—The Signs of the Times, ngày 21 tháng 11 năm 1892. LDE 73.1
 
-## Living With Reference to the Judgment Day
+## Sống Với Ý Thức Về Ngày Phán Xét
 
-I have questioned in my mind, as I have seen the people in our cities hurrying to and fro with business, whether they ever thought of the day of God that is just upon us. Every one of us should be living with reference to the great day which is soon to come upon us.—Sermons and Talks 1:25 (1886). LDE 73.2
+Tôi đã tự hỏi trong lòng mình, khi nhìn thấy dân chúng trong các thành phố vội vã ngược xuôi với công việc, không biết họ có bao giờ nghĩ đến ngày của Đức Chúa Trời sắp giáng trên chúng ta hay không. Mỗi một người trong chúng ta nên sống với ý thức về ngày trọng đại sắp đến trên chúng ta.—Sermons and Talks 1:25 (1886). LDE 73.2
 
-We cannot afford to live with no reference to the day of judgment; for though long delayed, it is now near, even at the door, and hasteth greatly. The trumpet of the Archangel will soon startle the living and wake the dead.—Child Guidance, 560, 561 (1892). LDE 73.3
+Chúng ta không thể sống mà không nghĩ đến ngày phán xét; vì dù đã trì hoãn lâu, nay nó đã gần, thật ở ngay trước cửa, và đang đến rất nhanh. Tiếng kèn của Thiên Sứ Trưởng sẽ chẳng bao lâu nữa làm kẻ sống giật mình kinh hãi và đánh thức kẻ chết.—Child Guidance, 560, 561 (1892). LDE 73.3
 
-## Ready for Christ’s Return
+## Sẵn Sàng Cho Sự Tái Lâm Của Đấng Christ
 
-If we find no pleasure now in the contemplation of heavenly things; if we have no interest in seeking the knowledge of God, no delight in beholding the character of Christ; if holiness has no attractions for us—then we may be sure that our hope of heaven is vain. Perfect conformity to the will of God is the high aim to be constantly before the Christian. He will love to talk of God, of Jesus, of the home of bliss and purity which Christ has prepared for them that love Him. The contemplation of these themes, when the soul feasts upon the blessed assurances of God, the apostle represents as tasting “the powers of the world to come.”—Testimonies for the Church 5:745 (1889). LDE 73.4
+Nếu hiện nay chúng ta không tìm thấy niềm vui trong việc suy gẫm những điều thuộc về thiên đàng; nếu chúng ta không quan tâm đến việc tìm kiếm sự hiểu biết về Đức Chúa Trời, không vui thích chiêm ngưỡng tánh hạnh của Đấng Christ; nếu sự thánh khiết không có sức thu hút đối với chúng ta—thì chúng ta có thể chắc chắn rằng hy vọng về thiên đàng của chúng ta là vô ích. Sự thuận phục trọn vẹn theo ý muốn của Đức Chúa Trời là mục tiêu cao cả phải luôn ở trước mặt người Cơ-đốc. Người ấy sẽ ưa thích nói về Đức Chúa Trời, về Đức Chúa Giê-su, về quê hương đầy phước hạnh và tinh sạch mà Đấng Christ đã chuẩn bị cho những ai yêu mến Ngài. Việc suy gẫm những đề tài này, khi linh hồn dự tiệc trên những lời hứa được ban phước của Đức Chúa Trời, được sứ đồ ví như nếm trải “các quyền phép của đời sau.”—Testimonies for the Church 5:745 (1889). LDE 73.4
 
-If you are right with God today, you are ready if Christ should come today.—In Heavenly Places, 227 (1891). LDE 74.1
+Nếu hôm nay bạn ở trong mối liên hệ đúng đắn với Đức Chúa Trời, thì bạn đã sẵn sàng nếu Đấng Christ đến hôm nay.—In Heavenly Places, 227 (1891). LDE 74.1

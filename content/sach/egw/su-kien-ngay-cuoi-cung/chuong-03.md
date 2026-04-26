@@ -10,128 +10,179 @@ summary: ""
 draft: true
 ---
 
-## The Disciples Ask Christ About His Return
+## Các Môn Đồ Hỏi Đấng Christ Về Sự Tái Lâm Của Ngài
 
-Christ’s words [Matthew 24:2] had been spoken in the hearing of a large number of people, but when He was alone, Peter, John, James, and Andrew came to Him as He sat upon the Mount of Olives. “Tell us,” they said, “when shall these things be? and what shall be the sign of Thy coming, and of the end of the world?” LDE 32.1
+Lời của Đấng Christ
 
-Jesus did not answer His disciples by taking up separately the destruction of Jerusalem and the great day of His coming. He mingled the description of these two events. Had He opened to His disciples future events as He beheld them, they would have been unable to endure the sight. In mercy to them He blended the description of the two great crises, leaving the disciples to study out the meaning for themselves.—The Desire of Ages, 628 (1898). LDE 32.2
+> "Ngài phán rằng: Các ngươi có thấy mọi điều đó chăng? Quả thật, ta nói cùng các ngươi, đây sẽ không còn một hòn đá nào chồng trên một hòn khác mà không bị đổ xuống."
+> <cite>(Ma-thi-ơ 24:2)</cite>
 
-## Time of Christ’s Return Not Known
+đã được phán ra trước sự nghe của rất đông người, nhưng khi Ngài ở một mình, Phi-e-rơ, Giăng, Gia-cơ và Anh-rê đến cùng Ngài lúc Ngài đang ngồi trên núi Ô-li-ve. Họ thưa rằng: "Xin Chúa phán cho chúng tôi biết lúc nào những sự đó sẽ xảy ra? và có điềm gì chỉ về sự Chúa đến và tận thế?" LDE 32.1
 
-Many who have called themselves Adventists have been time-setters. Time after time has been set for Christ to come, but repeated failures have been the result. The definite time of our Lord’s coming is declared to be beyond the ken of mortals. Even the angels, who minister unto those who shall be heirs of salvation, know not the day nor the hour. “But of that day and hour knoweth no man, no, not the angels of heaven, but My Father only.”—Testimonies for the Church 4:307 (1879). LDE 32.3
+Đức Chúa Giê-su đã không trả lời các môn đồ bằng cách đề cập riêng biệt đến sự hủy diệt thành Giê-ru-sa-lem và ngày trọng đại Ngài tái lâm. Ngài đã hòa lẫn lời mô tả về hai biến cố này. Nếu Ngài mở ra cho các môn đồ thấy những biến cố tương lai như chính Ngài đã nhìn thấy, thì họ không thể nào chịu đựng nổi cảnh tượng ấy. Vì thương xót họ, Ngài đã hòa lẫn lời mô tả về hai cuộc khủng hoảng lớn này, để các môn đồ tự mình tìm hiểu ý nghĩa.—The Desire of Ages, 628 (1898). LDE 32.2
 
-We are not to know the definite time either for the outpouring of the Holy Spirit or for the coming of Christ.... Why has not God given us this knowledge?—Because we would not make a right use of it if He did. A condition of things would result from this knowledge among our people that would greatly retard the work of God in preparing a people to stand in the great day that is to come. We are not to live upon time excitement.... LDE 33.1
+## Không Biết Thời Điểm Đấng Christ Tái Lâm
 
-You will not be able to say that He will come in one, two, or five years, neither are you to put off His coming by stating that it may not be for ten or twenty years.—The Review and Herald, March 22, 1892. LDE 33.2
+Nhiều người tự xưng là tín đồ Cơ-đốc Phục Lâm đã ấn định thời điểm. Hết lần này đến lần khác, người ta đã định ngày Đấng Christ đến, nhưng kết quả là những thất bại liên tiếp. Thời điểm chính xác về sự tái lâm của Chúa chúng ta được tuyên bố là vượt ngoài tầm hiểu biết của người phàm. Ngay cả các thiên sứ, là những đấng phục vụ những người sẽ thừa hưởng sự cứu rỗi, cũng không biết ngày nào hay giờ nào. "
 
-We are nearing the great day of God. The signs are fulfilling. And yet we have no message to tell us of the day and hour of Christ’s appearing. The Lord has wisely concealed this from us that we may always be in a state of expectancy and preparation for the second appearing of our Lord Jesus Christ in the clouds of heaven.—Letter 28, 1897. LDE 33.3
+> "Về ngày và giờ đó, chẳng có ai biết chi cả, thiên sứ trên trời hay là Con cũng vậy, song chỉ một mình Cha biết mà thôi."
+> <cite>(Ma-thi-ơ 24:36)</cite>
 
-The exact time of the second coming of the Son of man is God’s mystery.—The Desire of Ages, 633 (1898). LDE 33.4
+"—Testimonies for the Church 4:307 (1879). LDE 32.3
 
-## Ours Is Not a Time-setting Message
+Chúng ta không được biết thời điểm chính xác về sự đổ ra của Đức Thánh Linh hoặc về sự tái lâm của Đấng Christ.... Tại sao Đức Chúa Trời đã không ban cho chúng ta sự hiểu biết này?—Bởi vì chúng ta sẽ không sử dụng nó một cách đúng đắn nếu Ngài ban cho. Sự hiểu biết này sẽ tạo ra một tình trạng giữa vòng dân sự chúng ta khiến công việc của Đức Chúa Trời trong việc chuẩn bị một dân tộc để đứng vững trong ngày trọng đại sắp đến bị trì hoãn rất nhiều. Chúng ta không được sống trong sự kích động về thời gian.... LDE 33.1
 
-We are not of that class who define the exact period of time that shall elapse before the coming of Jesus the second time with power and great glory. Some have set a time, and when that has passed, their presumptuous spirits have not accepted rebuke, but they have set another and another time. But many successive failures have stamped them as false prophets.—Fundamentals of Christian Education, 335 (1895). LDE 34.1
+Anh em sẽ không thể nói rằng Ngài sẽ đến trong vòng một, hai hay năm năm nữa, anh em cũng không được trì hoãn sự đến của Ngài bằng cách tuyên bố rằng có thể phải mười hay hai mươi năm nữa Ngài mới đến.—The Review and Herald, March 22, 1892. LDE 33.2
 
-God gives no man a message that it will be five years or ten years or twenty years before this earth’s history shall close. He would not give any living being an excuse for delaying the preparation for His appearing. He would have no one say, as did the unfaithful servant, “My lord delayeth his coming,” for this leads to reckless neglect of the opportunities and privileges given to prepare us for that great day.—The Review and Herald, November 27, 1900. LDE 34.2
+Chúng ta đang tiến gần đến ngày trọng đại của Đức Chúa Trời. Các dấu hiệu đang ứng nghiệm. Tuy nhiên, chúng ta không có sứ điệp nào cho chúng ta biết về ngày và giờ Đấng Christ hiện ra. Chúa đã khôn ngoan giấu điều này khỏi chúng ta hầu cho chúng ta luôn ở trong tình trạng trông đợi và chuẩn bị cho sự hiện ra lần thứ hai của Chúa chúng ta là Đức Chúa Giê-su trong các đám mây trên trời.—Letter 28, 1897. LDE 33.3
 
-## Time-setting Leads to Unbelief
+Thời điểm chính xác về sự tái lâm của Con Người là điều mầu nhiệm của Đức Chúa Trời.—The Desire of Ages, 633 (1898). LDE 33.4
 
-Because the times repeatedly set have passed, the world is in a more decided state of unbelief than before in regard to the near advent of Christ. They look upon the failures of the time-setters with disgust, and because men have been so deceived, they turn from the truth substantiated by the Word of God that the end of all things is at hand.—Testimonies for the Church 4:307 (1879). LDE 34.3
+## Sứ Điệp Của Chúng Ta Không Phải Là Sứ Điệp Định Thời Gian
 
-I understand that Brother [E. P.] Daniels has, as it were, set time, stating that the Lord will come within five years. Now I hope the impression will not go abroad that we are time-setters. Let no such remarks be made. They do no good. Seek not to obtain a revival upon any such grounds, but let due caution be used in every word uttered, that fanatical ones will not seize anything they can get to create an excitement and the Spirit of the Lord be grieved. LDE 34.4
+Chúng ta không thuộc về hạng người định ra khoảng thời gian chính xác sẽ trôi qua trước khi Đức Chúa Giê-su tái lâm với quyền năng và vinh hiển lớn. Một số người đã định ra một thời điểm, và khi thời điểm ấy đã qua, tinh thần kiêu ngạo của họ đã không chịu tiếp nhận sự quở trách, nhưng họ lại định ra hết thời điểm này đến thời điểm khác. Nhưng nhiều lần thất bại liên tiếp đã đóng dấu họ là những tiên tri giả.—Fundamentals of Christian Education, 335 (1895). LDE 34.1
 
-We want not to move the people’s passions to get up a stir, where feelings are moved and principle does not control. I feel that we need to be guarded on every side, because Satan is at work to do his uttermost to insinuate his arts and devices that shall be a power to do harm. Anything that will make a stir, create an excitement on a wrong basis, is to be dreaded, for the reaction will surely come.—Letter 34, 1887. LDE 35.1
+Đức Chúa Trời không ban cho ai một sứ điệp rằng phải năm năm, mười năm hay hai mươi năm nữa thì lịch sử của thế gian này mới kết thúc. Ngài sẽ không ban cho bất cứ một sinh linh nào một cớ để trì hoãn việc chuẩn bị cho sự hiện ra của Ngài. Ngài không muốn ai nói như đầy tớ bất trung kia rằng: "Chủ ta đến chậm," vì điều này dẫn đến sự lơ là liều lĩnh đối với những cơ hội và đặc ân được ban cho để chuẩn bị chúng ta cho ngày trọng đại ấy.—The Review and Herald, November 27, 1900. LDE 34.2
 
-There will always be false and fanatical movements made by persons in the church who claim to be led of God—those who will run before they are sent and will give day and date for the occurrence of unfulfilled prophecy. The enemy is pleased to have them do this, for their successive failures and leading into false lines cause confusion and unbelief.—Selected Messages 2:84 (1897). LDE 35.2
+## Việc Định Ngày Giờ Dẫn Đến Sự Vô Tín
 
-## No Time Prophecy Beyond 1844
+Vì những thời điểm đã được định ra nhiều lần đều trôi qua, thế gian rơi vào tình trạng vô tín cách quyết liệt hơn trước đối với sự tái lâm gần kề của Đấng Christ. Họ nhìn vào những thất bại của những kẻ định ngày giờ với sự ghê tởm, và vì người ta đã bị lừa dối quá nhiều, họ quay lưng lại với lẽ thật được Lời Đức Chúa Trời xác chứng rằng sự kết thúc của muôn vật đã gần.—Testimonies for the Church 4:307 (1879). LDE 34.3
 
-I plainly stated at the Jackson camp meeting to these fanatical parties that they were doing the work of the adversary of souls; they were in darkness. They claimed to have great light that probation would close in October, 1884. I there stated in public that the Lord had been pleased to show me that there would be no definite time in the message given of God since 1844.—Selected Messages 2:73 (1885). LDE 35.3
+Tôi được biết rằng Anh [E. P.] Daniels đã, có thể nói, định ngày giờ, tuyên bố rằng Chúa sẽ đến trong vòng năm năm. Bây giờ tôi hy vọng ấn tượng này sẽ không lan rộng rằng chúng ta là những người định ngày giờ. Đừng để có những lời nhận xét như vậy. Chúng không đem lại điều ích lợi nào. Đừng tìm cách tạo nên sự phục hưng trên những nền tảng như thế, nhưng hãy thận trọng đúng mức trong từng lời nói ra, để những kẻ cuồng tín không nắm lấy bất cứ điều gì họ có thể có được nhằm tạo nên sự kích động và Thánh Linh của Chúa sẽ bị buồn lòng. LDE 34.4
 
-Our position has been one of waiting and watching, with no time-proclamation to intervene between the close of the prophetic periods in 1844 and the time of our Lord’s coming.—Manuscript Releases 10:270 (1888). LDE 36.1
+Chúng ta không muốn khuấy động cảm xúc của người ta để tạo nên sự náo động, nơi tình cảm bị lay chuyển còn nguyên tắc thì không kiểm soát được. Tôi cảm thấy chúng ta cần phải đề phòng mọi mặt, vì Sa-tan đang ra sức làm hết khả năng để cài cắm những mánh khoé và mưu kế của nó hầu trở thành một thế lực gây hại. Bất cứ điều gì gây náo động, tạo nên sự kích động trên một nền tảng sai trật, đều phải đáng sợ, vì phản ứng ngược chắc chắn sẽ đến.—Letter 34, 1887. LDE 35.1
 
-The people will not have another message upon definite time. After this period of time [Revelation 10:4-6], reaching from 1842 to 1844, there can be no definite tracing of the prophetic time. The longest reckoning reaches to the autumn of 1844.—The S.D.A. Bible Commentary 7:971 (1900). LDE 36.2
+Sẽ luôn có những phong trào giả dối và cuồng tín được tạo ra bởi những người trong hội thánh tự xưng là được Đức Chúa Trời dẫn dắt—những người chạy trước khi được sai đi và sẽ ấn định ngày tháng cho sự ứng nghiệm của lời tiên tri chưa được trọn. Kẻ thù lấy làm vui thích khi thấy họ làm điều này, vì những thất bại liên tiếp của họ và việc dẫn dắt vào những con đường sai lạc gây nên sự hỗn loạn và vô tín.—Selected Messages 2:84 (1897). LDE 35.2
 
-## Ellen White Expected Christ’s Return in Her Day
+## Không Có Lời Tiên Tri Về Thời Gian Sau Năm 1844
 
-I was shown the company present at the Conference. Said the angel: “Some food for worms, some subjects of the seven last plagues, some will be alive and remain upon the earth to be translated at the coming of Jesus.”—Testimonies For The Church 1:131, 132 (1856). LDE 36.3
+Tại trại nhóm họp Jackson, tôi đã nói rõ ràng với những nhóm cuồng tín này rằng họ đang làm công việc của kẻ thù nghịch các linh hồn; họ đang ở trong sự tối tăm. Họ tuyên bố có ánh sáng lớn rằng thời kỳ ân điển sẽ kết thúc vào tháng 10 năm 1884. Tại đó, tôi đã công khai tuyên bố rằng Chúa đã vui lòng cho tôi thấy rằng sẽ không có thời điểm xác định nào trong sứ điệp được Đức Chúa Trời ban cho kể từ năm 1844.—Selected Messages 2:73 (1885). LDE 35.3
 
-Because time is short, we should work with diligence and double energy. Our children may never enter college.—Testimonies for the Church 3:159 (1872). LDE 36.4
+Vị trí của chúng ta là một vị trí chờ đợi và canh thức, không có sự rao báo về thời gian nào xen vào giữa sự kết thúc của các thời kỳ tiên tri năm 1844 và thời điểm Chúa chúng ta tái lâm.—Manuscript Releases 10:270 (1888). LDE 36.1
 
-It is really not wise to have children now. Time is short, the perils of the last days are upon us, and the little children will be largely swept off before this.—Letter 48, 1876. LDE 36.5
+Dân sự sẽ không có một sứ điệp nào khác về thời gian xác định nữa. Sau khoảng thời gian này [
 
-In this age of the world, as the scenes of earth’s history are soon to close and we are about to enter upon the time of trouble such as never was, the fewer the marriages contracted the better for all, both men and women.—Testimonies for the Church 5:366 (1885). LDE 37.1
+> "Lại khi bảy tiếng sấm rền lên rồi, tôi có ý chép lấy, nhưng tôi nghe một tiếng ở từ trời đến phán rằng: Hãy đóng ấn những điều bảy tiếng sấm đã nói, và đừng chép làm chi. Bấy giờ vị thiên sứ mà tôi đã thấy đứng trên biển và trên đất, giơ tay hữu lên trời, chỉ Đấng hằng sống đời đời, là Đấng đã dựng nên trời cùng muôn vật trên trời, dựng nên đất cùng muôn vật dưới đất, dựng nên biển cùng muôn vật trong biển, mà thề rằng không còn có thì giờ nào nữa;"
+> <cite>(Khải-huyền 10:4-6)</cite>
 
-The hour will come; it is not far distant, and some of us who now believe will be alive upon the earth, and shall see the prediction verified, and hear the voice of the archangel and the trump of God echo from mountain and plain and sea to the uttermost parts of the earth.—The Review and Herald, July 31, 1888. LDE 37.2
+], kéo dài từ năm 1842 đến năm 1844, sẽ không có thể truy vết một cách xác định nào về thời gian tiên tri được nữa. Sự tính toán dài nhất chỉ đến mùa thu năm 1844.—The S.D.A. Bible Commentary 7:971 (1900). LDE 36.2
 
-The time of test is just upon us, for the loud cry of the third angel has already begun in the revelation of the righteousness of Christ, the sin-pardoning Redeemer.—Selected Messages 1:363 (1892). LDE 37.3
+## Bà Ellen White Mong Đợi Sự Tái Lâm Của Đấng Christ Trong Thời Của Bà
 
-## The Delay Explained
+Tôi được cho thấy nhóm người có mặt tại Hội Nghị. Thiên sứ phán: “Một số sẽ làm thức ăn cho giòi, một số sẽ chịu bảy tai vạ cuối cùng, một số sẽ vẫn còn sống trên đất để được biến hóa khi Đức Chúa Giê-su tái lâm.”—Testimonies For The Church 1:131, 132 (1856). LDE 36.3
 
-The long night of gloom is trying, but the morning is deferred in mercy, because if the Master should come so many would be found unready.—Testimonies for the Church 2:194 (1868). LDE 37.4
+Vì thì giờ ngắn ngủi, chúng ta phải làm việc cách siêng năng và với năng lực gấp đôi. Con cái chúng ta có thể sẽ không bao giờ được vào đại học.—Testimonies for the Church 3:159 (1872). LDE 36.4
 
-Had Adventists after the great disappointment in 1844 held fast their faith and followed on unitedly in the opening providence of God, receiving the message of the third angel and in the power of the Holy Spirit proclaiming it to the world, they would have seen the salvation of God, the Lord would have wrought mightily with their efforts, the work would have been completed, and Christ would have come ere this to receive His people to their reward.... It was not the will of God that the coming of Christ should be thus delayed.... LDE 37.5
+Thật không khôn ngoan khi có con cái lúc này. Thì giờ ngắn ngủi, những hiểm họa của những ngày sau rốt đã đến trên chúng ta, và phần lớn trẻ nhỏ sẽ bị quét đi trước khi điều đó xảy ra.—Letter 48, 1876. LDE 36.5
 
-For forty years did unbelief, murmuring, and rebellion shut out ancient Israel from the land of Canaan. The same sins have delayed the entrance of modern Israel into the heavenly Canaan. In neither case were the promises of God at fault. It is the unbelief, the worldliness, unconsecration, and strife among the Lord’s professed people that have kept us in this world of sin and sorrow so many years.—Evangelism, 695, 696 (1883). LDE 38.1
+Trong thời đại này của thế gian, khi các cảnh tượng trong lịch sử của trái đất sắp kết thúc và chúng ta sắp bước vào cơn đại nạn chưa từng có, càng ít hôn nhân được kết hợp thì càng tốt cho mọi người, cả nam lẫn nữ.—Testimonies for the Church 5:366 (1885). LDE 37.1
 
-Had the church of Christ done her appointed work as the Lord ordained, the whole world would before this have been warned and the Lord Jesus would have come to our earth in power and great glory.—The Desire of Ages, 633, 634 (1898). LDE 38.2
+Giờ ấy sẽ đến; nó không còn xa, và một số người trong chúng ta đang tin lúc này sẽ vẫn còn sống trên đất, và sẽ thấy lời tiên tri được ứng nghiệm, và nghe tiếng của thiên sứ trưởng cùng tiếng kèn của Đức Chúa Trời vang dội từ núi non, đồng bằng và biển cả đến tận cùng trái đất.—The Review and Herald, July 31, 1888. LDE 37.2
 
-## God’s Promises Are Conditional
+Thời kỳ thử thách đang ở ngay trước chúng ta, vì tiếng kêu lớn của vị thiên sứ thứ ba đã bắt đầu trong sự bày tỏ sự công bình của Đấng Christ, Đấng Cứu Chuộc tha thứ tội lỗi.—Selected Messages 1:363 (1892). LDE 37.3
 
-The angels of God in their messages to men represent time as very short. [See Romans 13:11, 12; 1 Corinthians 7:29; 1 Thessalonians 4:15, 17; Hebrews 10:25; James 5:8, 9; 1 Peter 4:7; Revelation 22:6, 7.] Thus it has always been presented to me. It is true that time has continued longer than we expected in the early days of this message. Our Saviour did not appear as soon as we hoped. But has the Word of the Lord failed? Never! It should be remembered that the promises and threatenings of God are alike conditional. [See Jeremiah 18:7-10; Jonah 3:4-10.]... LDE 38.3
+## Sự Chậm Trễ Được Giải Thích
 
-We may have to remain here in this world because of insubordination many more years, as did the children of Israel, but for Christ’s sake His people should not add sin to sin by charging God with the consequence of their own wrong course of action.—Evangelism, 695, 696 (1901). LDE 39.1
+Đêm dài tăm tối thật là thử thách, nhưng buổi sáng được dời lại bởi lòng thương xót, vì nếu Đức Chúa đến ngay bây giờ thì sẽ có rất nhiều người không sẵn sàng.—Testimonies for the Church 2:194 (1868). LDE 37.4
 
-## What Christ Is Waiting For
+Nếu sau cơn đại thất vọng năm 1844, những người theo phong trào Cơ-đốc Phục Lâm đã nắm vững đức tin của mình và cùng nhau bước theo sự dẫn dắt đang mở ra của Đức Chúa Trời, tiếp nhận sứ điệp của thiên sứ thứ ba và rao truyền sứ điệp đó cho thế gian trong quyền năng của Đức Thánh Linh, thì hẳn họ đã được thấy sự cứu rỗi của Đức Chúa Trời, Chúa hẳn đã hành động mạnh mẽ qua nỗ lực của họ, công việc hẳn đã được hoàn tất, và Đấng Christ hẳn đã đến từ trước đó để đón dân Ngài về nơi phần thưởng của họ.... Đó không phải là ý muốn của Đức Chúa Trời rằng sự đến của Đấng Christ phải bị trì hoãn như vậy.... LDE 37.5
 
-Christ is waiting with longing desire for the manifestation of Himself in His church. When the character of Christ shall be perfectly reproduced in His people, then He will come to claim them as His own. LDE 39.2
+Trong bốn mươi năm, sự vô tín, sự lằm bằm và sự nổi loạn đã ngăn cản dân Y-sơ-ra-ên xưa vào đất Ca-na-an. Cũng chính những tội lỗi ấy đã làm chậm trễ việc dân Y-sơ-ra-ên thời nay tiến vào Ca-na-an trên trời. Trong cả hai trường hợp, những lời hứa của Đức Chúa Trời đều không hề sai trật. Chính sự vô tín, sự thế tục, sự thiếu hiến dâng, và sự tranh chấp giữa vòng những người xưng nhận là dân của Chúa đã giữ chúng ta lại trong thế giới đầy tội lỗi và đau buồn này suốt bao nhiêu năm.—Evangelism, 695, 696 (1883). LDE 38.1
 
-It is the privilege of every Christian, not only to look for, but to hasten the coming of our Lord Jesus Christ. Were all who profess His name bearing fruit to His glory, how quickly the whole world would be sown with the seed of the gospel. Quickly the last great harvest would be ripened, and Christ would come to gather the precious grain.—Christ’s Object Lessons, 69 (1900). LDE 39.3
+Nếu hội thánh của Đấng Christ đã làm trọn công việc đã được giao phó như Chúa đã định, thì cả thế gian hẳn đã được cảnh báo từ trước, và Đức Chúa Giê-su hẳn đã đến trên đất chúng ta trong quyền năng và vinh hiển lớn lao.—The Desire of Ages, 633, 634 (1898). LDE 38.2
 
-By giving the gospel to the world it is in our power to hasten our Lord’s return. We are not only to look for but to hasten the coming of the day of God (2 Peter 3:12, margin).—The Desire of Ages, 633 (1898). LDE 39.4
+## Lời Hứa Của Đức Chúa Trời Là Có Điều Kiện
 
-He has put it in our power, through cooperation with Him, to bring this scene of misery to an end.—Education, 264 (1903). LDE 39.5
+Các thiên sứ của Đức Chúa Trời trong các sứ điệp của họ gởi đến cho loài người trình bày thời gian là rất ngắn ngủi. [Xem
 
-## A Limit to God’s Forbearance
+> "Hãy ăn ở như vậy, vì biết thời kỳ đương lúc chúng ta đây: Giờ anh em từ ngủ thức dậy đã đến, bởi sự cứu hiện nay đã gần chúng ta hơn lúc chúng ta mới tin. Đêm đã khuya, ngày gần đến; vậy chúng ta hãy lột bỏ những việc tối tăm mà mặc lấy áo giáp sáng láng."
+> <cite>(Rô-ma 13:11-12)</cite>
 
-With unerring accuracy the Infinite One still keeps an account with all nations. While His mercy is tendered with calls to repentance this account will remain open, but when the figures reach a certain amount, which God has fixed, the ministry of His wrath commences.—Testimonies for the Church 5:208 (1882). LDE 39.6
+> "Hỡi anh em, vậy thì tôi bảo này: Thì giờ ngắn ngủi. Từ nay về sau, kẻ có vợ hãy nên như kẻ không có;"
+> <cite>(I Cô-rinh-tô 7:29)</cite>
 
-God keeps a record with the nations. The figures are swelling against them in the books of heaven, and when it shall have become a law that the transgression of the first day of the week shall be met with punishment, then their cup will be full.—The S.D.A. Bible Commentary 7:910 (1886). LDE 40.1
+> "Vả, này là điều chúng tôi nhờ lời Chúa mà rao bảo cho anh em: chúng ta là kẻ sống, còn ở lại cho đến kỳ Chúa đến, thì không lên trước những người đã ngủ rồi. Kế đến chúng ta là kẻ sống, mà còn ở lại, sẽ cùng nhau đều được cất lên với những người ấy giữa đám mây, tại nơi không trung mà gặp Chúa, như vậy chúng ta sẽ ở cùng Chúa luôn luôn."
+> <cite>(I Tê-sa-lô-ni-ca 4:15,17)</cite>
 
-God keeps a reckoning with the nations.... When the time fully comes that iniquity shall have reached the stated boundary of God’s mercy, His forbearance will cease. When the accumulated figures in heaven’s record books shall mark the sum of transgression complete, wrath will come.—Testimonies for the Church 5:524 (1889). LDE 40.2
+> "chớ bỏ sự nhóm lại như mấy kẻ quen làm, nhưng phải khuyên bảo nhau, và hễ anh em thấy ngày ấy hầu gần chừng nào, thì càng phải làm như vậy chừng nấy."
+> <cite>(Hê-bơ-rơ 10:25)</cite>
 
-While God’s mercy bears long with the transgressor, there is a limit beyond which men may not go on in sin. When that limit is reached, then the offers of mercy are withdrawn, and the ministration of judgment begins.—Patriarchs and Prophets, 162, 165 (1890). LDE 40.3
+> "Anh em cũng vậy hãy nhịn nhục và bền lòng; vì kỳ Chúa đến gần rồi. Hỡi anh em, chớ oán trách nhau, hầu cho khỏi bị xét đoán; kìa, Đấng xét đoán đứng trước cửa."
+> <cite>(Gia-cơ 5:8-9)</cite>
 
-The time is coming when in their fraud and insolence men will reach a point that the Lord will not permit them to pass and they will learn that there is a limit to the forbearance of Jehovah.—Testimonies for the Church 9:13 (1909). LDE 40.4
+> "Sự cuối cùng của muôn vật đã gần; vậy hãy khôn ngoan tỉnh thức mà cầu nguyện."
+> <cite>(I Phi-e-rơ 4:7)</cite>
 
-There is a limit beyond which the judgments of Jehovah can no longer be delayed.—Prophets and Kings, 417 (c. 1914). LDE 40.5
+> "Bấy giờ thiên sứ nói với tôi rằng: Những lời này là trung tín và chân thật, Chúa là Đức Chúa Trời của thần các đấng tiên tri, đã sai thiên sứ mình đặng tỏ cùng các tôi tớ Ngài những điều kíp phải xảy ra. Kìa, ta đến mau chóng. Phước thay cho kẻ nào giữ những lời tiên tri trong sách này!"
+> <cite>(Khải-huyền 22:6-7)</cite>
 
-## Transgression Has Almost Reached Its Limit
+] Điều ấy đã luôn được trình bày cho tôi như vậy. Thật là đúng khi thời gian đã kéo dài hơn so với những gì chúng ta đã mong đợi trong những ngày đầu tiên của sứ điệp này. Đấng Cứu Thế của chúng ta đã không hiện đến sớm như chúng ta hy vọng. Nhưng có phải Lời của Chúa đã thất bại không? Không bao giờ! Cần phải nhớ rằng các lời hứa và lời đe dọa của Đức Chúa Trời đều có điều kiện như nhau. [Xem
 
-Time will last a little longer until the inhabitants of the earth have filled up the cup of their iniquity, and then the wrath of God, which has so long slumbered, will awake, and this land of light will drink the cup of His unmingled wrath.—Testimonies For The Church 1:363 (1863). LDE 41.1
+> "Trong lúc nào ta sẽ nói về một dân một nước kia đặng nhổ đi, hủy đi, diệt đi; nếu nước mà ta nói đó xây bỏ điều ác mình, thì ta sẽ đổi ý ta đã toan giáng tai họa cho nó. Cũng có lúc nào ta sẽ nói về một dân một nước kia đặng dựng nó, trồng nó; nếu nước ấy làm điều ác trước mắt ta và không nghe tiếng ta, thì ta sẽ đổi ý ta đã định xuống phước cho nó."
+> <cite>(Giê-rê-mi 18:7-10)</cite>
 
-The cup of iniquity is nearly filled, and the retributive justice of God is about to descend upon the guilty.—Testimonies for the Church 4:489 (1880). LDE 41.2
+> "Giô-na khởi đầu vào trong thành đi một ngày, thì rao giảng và nói rằng: Còn bốn mươi ngày nữa, Ni-ni-ve sẽ bị đổ xuống! Dân thành Ni-ni-ve tin Đức Chúa Trời. Họ rao ra sự kiêng ăn và mặc bao gai, từ những người rất lớn trong đám họ cho đến những kẻ rất nhỏ. Tin ấy đồn đến vua Ni-ni-ve, vua đứng dậy khỏi ngai, lột áo bào mình ra, quấn bao gai và ngồi trong tro. Đoạn vua truyền lịnh này ra trong thành Ni-ni-ve, như là lời dụ của vua cùng của các kẻ tôn trưởng: Không luận người ta hay thú vật, không luận bầy bò hay bầy chiên, đều chớ nếm chi hết. Không được để cho nó ăn, cũng không uống nước; nhưng người ta và thú vật đều phải quấn bao gai. Mọi người khá ra sức kêu cùng Đức Chúa Trời; phải, ai nấy khá bỏ đường lối xấu mình và việc hung dữ của tay mình. Ai biết rằng hoặc Đức Chúa Trời sẽ không xây lại và ăn năn, xây khỏi cơn nóng giận mình, hầu cho chúng ta khỏi chết, hay sao? Bấy giờ Đức Chúa Trời thấy việc họ làm đều đã xây bỏ đường lối xấu của mình; Đức Chúa Trời bèn ăn năn sự họa mà Ngài đã phán sẽ làm cho họ, và Ngài không làm sự đó."
+> <cite>(Giô-na 3:4-10)</cite>
 
-The wickedness of the inhabitants of the world has almost filled up the measure of their iniquity. This earth has almost reached the place where God will permit the destroyer to work his will upon it.—Testimonies for the Church 7:141 (1902). LDE 41.3
+]... LDE 38.3
 
-Transgression has almost reached its limit. Confusion fills the world, and a great terror is soon to come upon human beings. The end is very near. We who know the truth should be preparing for what is soon to break upon the world as an overwhelming surprise.—Testimonies for the Church 8:28 (1904). LDE 41.4
+Chúng ta có thể phải lưu lại trong thế gian này vì sự bất tuân của mình thêm nhiều năm nữa, như con cái Y-sơ-ra-ên đã từng, nhưng vì cớ Đấng Christ, dân sự của Ngài không nên chồng chất tội lỗi này lên tội lỗi khác bằng cách buộc tội Đức Chúa Trời về hậu quả của con đường hành động sai trái của chính họ.—Evangelism, 695, 696 (1901). LDE 39.1
 
-## We Should Keep the Great Day of God Before Our Minds
+## Đấng Christ Đang Chờ Đợi Điều Gì
 
-We must educate ourselves to be thinking and dwelling upon the great scenes of the judgment just before us and then, as we keep the scenes of the great day of God before us when everything will be revealed, it will have an effect upon our character. One brother said to me, “Sister White, do you think the Lord will come in ten years?” “What difference does it make to you whether He shall come in two, four, or ten years?” “Why,” said he, “I think I would do differently in some things than I now do if I knew the Lord was to come in ten years.” LDE 41.5
+Đấng Christ đang chờ đợi với lòng khao khát tha thiết sự thể hiện chính Ngài trong hội thánh Ngài. Khi tánh hạnh của Đấng Christ được tái hiện cách trọn vẹn nơi dân sự Ngài, bấy giờ Ngài sẽ đến để nhận họ làm của riêng Ngài. LDE 39.2
 
-“What would you do?” said I. LDE 42.1
+Đó là đặc ân của mỗi Cơ-đốc nhân, không chỉ trông đợi, mà còn thúc đẩy sự đến của Chúa chúng ta là Đức Chúa Giê-su. Nếu hết thảy những ai xưng nhận danh Ngài đều kết quả cho sự vinh hiển của Ngài, thì cả thế giới sẽ được gieo trồng hạt giống tin lành nhanh biết bao. Mau chóng mùa gặt lớn cuối cùng sẽ chín, và Đấng Christ sẽ đến để thâu nhóm bông trái quý giá.—Christ's Object Lessons, 69 (1900). LDE 39.3
 
-“Why,” said he, “I would sell my property and begin to search the Word of God and try to warn the people and get them to prepare for His coming, and I would plead with God that I might be ready to meet Him.” LDE 42.2
+Bằng cách rao giảng tin lành cho thế gian, chúng ta có khả năng thúc đẩy sự trở lại của Chúa chúng ta. Chúng ta không chỉ trông đợi mà còn phải thúc đẩy sự đến của ngày Đức Chúa Trời
 
-Then said I, “If you knew that the Lord was not coming for twenty years, you would live differently?” LDE 42.3
+> "trong khi chờ đợi trông mong cho ngày Đức Chúa Trời mau đến, là ngày các từng trời sẽ bị đốt mà tiêu tán, các thể chất sẽ bị thiêu mà tan chảy đi!"
+> <cite>(II Phi-e-rơ 3:12)</cite>
 
-Said he, “I think I would.”... LDE 42.4
+chú thích bên lề).—The Desire of Ages, 633 (1898). LDE 39.4
 
-How selfish was the expression that he would live a different life if he knew his Lord was to come in ten years! Why, Enoch walked with God 300 years. This is a lesson for us that we shall walk with God every day, and we are not safe unless we are waiting and watching.—Manuscript 10, 1886. LDE 42.5
+Ngài đã ban cho chúng ta khả năng, qua sự hợp tác với Ngài, để chấm dứt cảnh khốn khổ này.—Education, 264 (1903). LDE 39.5
 
-## The Shortness of Time
+## Một Giới Hạn Cho Sự Nhịn Nhục Của Đức Chúa Trời
 
-May the Lord give no rest, day nor night, to those who are now careless and indolent in the cause and work of God. The end is near. This is that which Jesus would have us keep ever before us—the shortness of time.—Letter 97, 1886. LDE 42.6
+Với sự chính xác không sai sót, Đấng Vô Hạn vẫn ghi sổ với mọi dân tộc. Khi sự thương xót của Ngài còn được ban ra qua những lời kêu gọi ăn năn, sổ sách này vẫn còn để mở, nhưng khi những con số đạt đến một mức nhất định mà Đức Chúa Trời đã định, thì sự thi hành cơn thịnh nộ của Ngài bắt đầu.—Testimonies for the Church 5:208 (1882). LDE 39.6
 
-When we shall stand with the redeemed upon the sea of glass with harps of gold and crowns of glory and before us the unmeasured eternity, we shall then see how short was the waiting period of probation.—Manuscript Releases 10:266 (1886). LDE 42.7
+Đức Chúa Trời ghi sổ với các dân tộc. Những con số đang chồng chất chống lại họ trong sổ sách thiên đàng, và khi việc vi phạm ngày thứ nhất trong tuần lễ trở thành một luật lệ phải bị trừng phạt, thì chén của họ sẽ đầy.—The S.D.A. Bible Commentary 7:910 (1886). LDE 40.1
+
+Đức Chúa Trời ghi sổ với các dân tộc... Khi thời điểm đã trọn mà sự gian ác đạt đến ranh giới mà Đức Chúa Trời đã ấn định cho lòng thương xót của Ngài, thì sự nhịn nhục của Ngài sẽ chấm dứt. Khi những con số tích lũy trong sổ sách của thiên đàng đánh dấu tổng số vi phạm đã đầy, cơn thịnh nộ sẽ giáng xuống.—Testimonies for the Church 5:524 (1889). LDE 40.2
+
+Trong khi lòng thương xót của Đức Chúa Trời nhịn nhục lâu dài với kẻ vi phạm, vẫn có một giới hạn mà con người không thể vượt qua trong tội lỗi. Khi đến giới hạn đó, những lời ban cho sự thương xót sẽ bị thu lại, và sự thi hành phán xét sẽ bắt đầu.—Patriarchs and Prophets, 162, 165 (1890). LDE 40.3
+
+Thời điểm đang đến khi trong sự gian dối và xấc xược của mình, loài người sẽ đạt đến một điểm mà Chúa sẽ không cho phép họ vượt qua, và họ sẽ học biết rằng có một giới hạn cho sự nhịn nhục của Đức Giê-hô-va.—Testimonies for the Church 9:13 (1909). LDE 40.4
+
+Có một giới hạn mà sau đó các sự phán xét của Đức Giê-hô-va không thể bị trì hoãn thêm nữa.—Prophets and Kings, 417 (c. 1914). LDE 40.5
+
+## Sự Vi Phạm Đã Gần Đạt Đến Giới Hạn
+
+Thời gian sẽ còn kéo dài một chút nữa cho đến khi cư dân trên đất làm đầy chén tội ác của họ, và rồi cơn thạnh nộ của Đức Chúa Trời, vốn đã ngủ yên bấy lâu, sẽ thức dậy, và miền đất ánh sáng này sẽ uống chén thạnh nộ không pha trộn của Ngài.—Testimonies For The Church 1:363 (1863). LDE 41.1
+
+Chén tội ác hầu như đã đầy, và sự công bình báo trả của Đức Chúa Trời sắp giáng xuống trên kẻ có tội.—Testimonies for the Church 4:489 (1880). LDE 41.2
+
+Sự gian ác của cư dân thế gian hầu như đã làm đầy mức tội ác của họ. Đất này hầu như đã đến lúc Đức Chúa Trời sẽ cho phép kẻ hủy diệt thực thi ý muốn của nó trên đó.—Testimonies for the Church 7:141 (1902). LDE 41.3
+
+Sự vi phạm đã gần đạt đến giới hạn. Sự rối loạn tràn ngập thế giới, và một sự kinh hoàng lớn sắp giáng trên loài người. Sự cuối cùng đã rất gần. Chúng ta là những người biết lẽ thật phải chuẩn bị sẵn sàng cho điều sắp đột ngột xảy đến cho thế gian như một sự bất ngờ áp đảo.—Testimonies for the Church 8:28 (1904). LDE 41.4
+
+## Chúng Ta Phải Luôn Ghi Nhớ Ngày Trọng Đại Của Đức Chúa Trời
+
+Chúng ta phải tự rèn luyện mình để suy gẫm và chú tâm đến những cảnh tượng vĩ đại của sự phán xét đang ở ngay trước mắt chúng ta, và rồi khi chúng ta luôn ghi nhớ những cảnh tượng của ngày trọng đại của Đức Chúa Trời — khi mọi sự sẽ được phơi bày — thì điều đó sẽ ảnh hưởng đến tính nết của chúng ta. Một anh em đã hỏi tôi: "Chị White ơi, chị có nghĩ rằng Chúa sẽ đến trong vòng mười năm nữa không?" "Việc Ngài đến trong hai, bốn, hay mười năm nữa thì có gì khác biệt đối với anh chăng?" "Ấy là vì," anh ấy nói, "tôi nghĩ rằng tôi sẽ làm một số việc khác đi so với những gì tôi đang làm hiện nay, nếu tôi biết Chúa sẽ đến trong vòng mười năm." LDE 41.5
+
+"Anh sẽ làm gì?" tôi hỏi. LDE 42.1
+
+"Ấy là," anh nói, "tôi sẽ bán tài sản của mình và bắt đầu tra xem Lời Đức Chúa Trời, và cố gắng cảnh báo mọi người, khiến họ chuẩn bị cho sự đến của Ngài, và tôi sẽ khẩn nài với Đức Chúa Trời để tôi được sẵn sàng gặp Ngài." LDE 42.2
+
+Rồi tôi nói: "Nếu anh biết rằng Chúa sẽ không đến trong hai mươi năm nữa, thì anh sẽ sống khác đi sao?" LDE 42.3
+
+Anh ấy đáp: "Tôi nghĩ là tôi sẽ làm vậy."… LDE 42.4
+
+Lời nói rằng anh ấy sẽ sống một đời sống khác đi nếu biết Chúa mình sẽ đến trong vòng mười năm thật ích kỷ làm sao! Hãy nhớ rằng, Hê-nóc đã đồng đi cùng Đức Chúa Trời suốt 300 năm. Đây là một bài học cho chúng ta, rằng chúng ta phải đồng đi cùng Đức Chúa Trời mỗi ngày, và chúng ta sẽ không được an toàn trừ phi chúng ta đang chờ đợi và tỉnh thức. — Manuscript 10, 1886. LDE 42.5
+
+## Thì Giờ Ngắn Ngủi
+
+Cầu xin Chúa đừng để cho những kẻ đang lơ là và biếng nhác trong công việc và sự nghiệp của Đức Chúa Trời được nghỉ ngơi, dù ngày hay đêm. Sự cuối cùng đã gần. Đây là điều mà Đức Chúa Giê-su muốn chúng ta luôn ghi nhớ — thì giờ ngắn ngủi. — Letter 97, 1886. LDE 42.6
+
+Khi chúng ta đứng cùng với những người được cứu chuộc trên biển thủy tinh, với những đàn hạc bằng vàng và mão miện vinh hiển, và trước mặt chúng ta là cõi đời đời vô tận, lúc ấy chúng ta sẽ thấy thời kỳ chờ đợi của giai đoạn ân điển thật ngắn ngủi biết bao. — Manuscript Releases 10:266 (1886). LDE 42.7

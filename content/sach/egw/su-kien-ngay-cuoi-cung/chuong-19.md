@@ -10,112 +10,155 @@ summary: ""
 draft: true
 ---
 
-## The Seventh Plague and the Special Resurrection
+## Tai Vạ Thứ Bảy Và Sự Sống Lại Đặc Biệt
 
-There is a mighty earthquake, “such as was not since men were upon the earth, so mighty an earthquake, and so great” (Revelation 16:17, 18). The firmament appears to open and shut. The glory from the throne of God seems flashing through. The mountains shake like a reed in the wind, and ragged rocks are scattered on every side.... The whole earth heaves and swells like the waves of the sea. Its surface is breaking up. Its very foundations seem to be giving way. Mountain chains are sinking. Inhabited islands disappear. The seaports that have become like Sodom for wickedness are swallowed up by the angry waters.... Great hailstones, every one “about the weight of a talent,” are doing their work of destruction (verses 19, 21) .... LDE 271.1
+Có một trận động đất lớn, "lớn lắm, từ khi có loài người trên đất chưa hề có trận động đất nào lớn dường ấy"
 
-Graves are opened, and “many of them that sleep in the dust of the earth ... awake, some to everlasting life, and some to shame and everlasting contempt” (Daniel 12:2). All who have died in the faith of the third angel’s message come forth from the tomb glorified to hear God’s covenant of peace with those who have kept His law. “They also which pierced Him” (Revelation 1:7), those that mocked and derided Christ’s dying agonies, and the most violent opposers of His truth and His people, are raised to behold Him in His glory, and to see the honor placed upon the loyal and obedient.—The Great Controversy, 636, 637 (1911). LDE 271.2
+> "Vị thiên sứ thứ bảy trút bát mình trong không khí, thì có tiếng lớn trong đền thờ vang ra, từ ngôi đến mà phán rằng: Xong rồi! Liền có chớp nhoáng, tiếng rầm, sấm vang và động đất dữ dội, động đất lớn lắm đến nỗi từ khi có loài người trên đất chưa hề có như vậy."
+> <cite>(Khải-huyền 16:17-18)</cite>
 
-## God Announces the Time of Christ’s Coming
+Khoảng không dường như mở ra rồi đóng lại. Vinh quang từ ngai Đức Chúa Trời dường như chiếu lóe ra. Các núi rúng động như cây sậy trước gió, và những tảng đá lởm chởm văng tung tóe khắp nơi.... Cả trái đất nhô lên hụp xuống như những lượn sóng biển. Bề mặt đất nứt vỡ. Chính nền móng của nó dường như đang sụp đổ. Các dãy núi đang chìm xuống. Những hòn đảo có người ở biến mất. Các hải cảng đã trở nên giống như Sô-đôm về sự gian ác bị nhận chìm bởi những dòng nước phẫn nộ.... Những cục mưa đá lớn, mỗi cục "nặng bằng một ta-lâng", đang thực hiện công việc tàn phá của chúng (câu 19, 21).... LDE 271.1
 
-Dark, heavy clouds came up and clashed against each other. The atmosphere parted and rolled back. Then we could look up through the open space in Orion, whence came the voice of God.—Early Writings, 41 (1851). LDE 272.1
+Các phần mộ được mở ra, và "nhiều kẻ ngủ trong bụi đất sẽ thức dậy, kẻ thì để được sự sống đời đời, kẻ thì để chịu sự xấu hổ nhơ nhuốc đời đời"
 
-Soon we heard the voice of God [The voice of God is heard repeatedly during the period immediately preceding Christ’s return. See The Great Controversy, 632, 633, 636, 638, 640, 641.] like many waters, which gave us the day and hour of Jesus’ coming. The living saints, 144,000 in number, knew and understood the voice, while the wicked thought it was thunder and an earthquake.—Early Writings, 15 (1851). LDE 272.2
+> "Nhiều kẻ ngủ trong bụi đất sẽ thức dậy, kẻ thì để được sự sống đời đời, kẻ thì để chịu sự xấu hổ nhơ nhuốc đời đời."
+> <cite>(Đa-ni-ên 12:2)</cite>
 
-As God spoke the day and the hour of Jesus’ coming, and delivered the everlasting covenant to His people, He spoke one sentence, and then paused, while the words were rolling through the earth. The Israel of God stood with their eyes fixed upward, listening to the words as they came from the mouth of Jehovah and rolled through the earth like peals of loudest thunder. It was awfully solemn. At the end of every sentence the saints shouted, “Glory! Hallelujah!” Their countenances were lighted up with the glory of God, and they shone with glory as did the face of Moses when he came down from Sinai. The wicked could not look upon them for the glory. And when the never-ending blessing was pronounced on those who had honored God in keeping His Sabbath holy, there was a mighty shout of victory over the beast and over his image.—Early Writings, 285, 286 (1858). LDE 272.3
+Tất cả những ai đã chết trong đức tin của sứ điệp thiên sứ thứ ba đều bước ra khỏi mồ trong sự vinh hiển để nghe giao ước bình an của Đức Chúa Trời lập với những người đã gìn giữ luật pháp Ngài. "Những kẻ đã đâm Ngài"
 
-I have not the slightest knowledge as to the time spoken by the voice of God. I heard the hour proclaimed, but had no remembrance of that hour after I came out of vision. Scenes of such thrilling, solemn interest passed before me as no language is adequate to describe. It was all a living reality to me, for close upon this scene appeared the great white cloud, upon which was seated the Son of man.—Selected Messages 1:76 (1888). LDE 273.1
+> "Kìa, Ngài đến giữa những đám mây, mọi mắt sẽ trông thấy, cả đến những kẻ đã đâm Ngài cũng trông thấy; hết thảy các chi họ trong thế gian sẽ than khóc vì cớ Ngài. Quả thật vậy. A-men!"
+> <cite>(Khải-huyền 1:7)</cite>
 
-## The Terror of the Lost
+những kẻ đã chế nhạo và nhạo báng cơn hấp hối của Đấng Christ, và những kẻ chống đối kịch liệt nhất đối với chân lý của Ngài và dân Ngài, đều được sống lại để thấy Ngài trong vinh quang của Ngài, và để thấy vinh dự được ban cho những người trung thành và vâng phục.—The Great Controversy, 636, 637 (1911). LDE 271.2
 
-When the earth is reeling to and fro like a drunkard, when the heavens are shaking and the great day of the Lord has come, who shall be able to stand? One object they behold in trembling agony from which they will try in vain to escape. “Behold, He cometh with clouds; and every eye shall see Him” (Revelation 1:7). The unsaved utter wild imprecations to dumb nature—their god: “Mountains and rocks, fall on us, and hide us from the face of Him that sitteth on the throne” (Revelation 6:16).—That I May Know Him, 356 (1896). LDE 273.2
+## Đức Chúa Trời Công Bố Thời Điểm Đấng Christ Tái Lâm
 
-When the voice of God turns the captivity of His people, there is a terrible awakening of those who have lost all in the great conflict of life.... The gain of a lifetime is swept away in a moment. The rich bemoan the destruction of their grand houses, the scattering of their gold and silver.... The wicked are filled with regret, not because of their sinful neglect of God and their fellow men, but because God has conquered. They lament that the result is what it is, but they do not repent of their wickedness.—The Great Controversy, 654 (1911). LDE 273.3
+Những đám mây đen, dày đặc kéo đến và va vào nhau. Bầu khí quyển tách ra và cuộn lại. Rồi chúng tôi có thể nhìn lên qua khoảng trống đó trong chòm sao Orion, nơi có tiếng nói của Đức Chúa Trời phát ra.—Early Writings, 41 (1851). LDE 272.1
 
-## Jesus Descends in Power and Glory
+Chẳng bao lâu sau, chúng tôi nghe tiếng nói của Đức Chúa Trời [Tiếng nói của Đức Chúa Trời được nghe nhiều lần trong giai đoạn ngay trước sự tái lâm của Đấng Christ. Xem The Great Controversy, 632, 633, 636, 638, 640, 641.] như tiếng của nhiều dòng nước, công bố cho chúng tôi biết ngày và giờ Đức Chúa Giê-su tái lâm. Các thánh đồ còn sống, gồm 144.000 người, đều nhận biết và hiểu được tiếng nói ấy, còn kẻ ác thì tưởng đó là tiếng sấm và động đất.—Early Writings, 15 (1851). LDE 272.2
 
-Soon there appears in the east a small black cloud, about half the size of a man’s hand. It is the cloud which surrounds the Saviour, and which seems in the distance to be shrouded in darkness. The people of God know this to be the sign of the Son of man. In solemn silence they gaze upon it as it draws nearer the earth, becoming lighter and more glorious, until it is a great white cloud, its base a glory like consuming fire, and above it the rainbow of the covenant. Jesus rides forth as a mighty conqueror.... LDE 274.1
+Khi Đức Chúa Trời phán ngày và giờ Đức Chúa Giê-su tái lâm, và ban giao ước đời đời cho dân Ngài, Ngài phán một câu, rồi ngừng lại, trong khi những lời ấy vang dội khắp đất. Y-sơ-ra-ên của Đức Chúa Trời đứng nhìn chằm chằm lên trên, lắng nghe những lời từ miệng Đức Giê-hô-va phán ra và vang dội khắp đất như những tiếng sấm rền vang nhất. Khung cảnh ấy thật trang nghiêm đến kinh ngạc. Cuối mỗi câu, các thánh đồ reo lên: "Vinh hiển! Ha-lê-lu-gia!" Gương mặt họ rạng rỡ vinh quang của Đức Chúa Trời, và họ chiếu sáng vinh quang như gương mặt Môi-se khi ông từ núi Si-na-i xuống. Kẻ ác không thể nhìn vào họ vì sự vinh hiển ấy. Và khi phước hạnh đời đời được tuyên phán trên những ai đã tôn vinh Đức Chúa Trời bằng cách giữ ngày Sa-bát của Ngài làm thánh, thì có một tiếng reo chiến thắng vang dội trên con thú và trên hình tượng nó.—Early Writings, 285, 286 (1858). LDE 272.3
 
-With anthems of celestial melody the holy angels, a vast, unnumbered throng, attend Him on His way. The firmament seems filled with radiant forms—“ten thousand times ten thousand, and thousands of thousands.” No human pen can portray the scene, no mortal mind is adequate to conceive its splendor.... LDE 274.2
+Tôi không hề có chút hiểu biết nào về thời điểm mà tiếng Đức Chúa Trời đã phán. Tôi nghe giờ được công bố, nhưng sau khi ra khỏi sự hiện thấy, tôi không còn nhớ giờ ấy. Những cảnh tượng đầy hồi hộp, trang nghiêm và lý thú đã hiện ra trước mặt tôi mà không lời nào có thể tả xiết. Tất cả đều là thực tế sống động đối với tôi, vì ngay sau cảnh ấy, đám mây trắng lớn đã hiện ra, và Con Người ngự trên đám mây đó.—Selected Messages 1:76 (1888). LDE 273.1
 
-The King of kings descends upon the cloud, wrapped in flaming fire. The heavens are rolled together as a scroll, the earth trembles before Him, and every mountain and island is moved out of its place.—The Great Controversy, 640-642 (1911). LDE 274.3
+## Sự Kinh Hoàng Của Những Kẻ Bị Hư Mất
 
-## The Reaction of Those Who Pierced Him
+Khi đất chao đảo nghiêng ngả như người say, khi các tầng trời rung chuyển và ngày trọng đại của Chúa đã đến, ai sẽ đứng nổi? Họ sẽ nhìn thấy một đối tượng trong nỗi thống khổ run rẩy mà họ sẽ cố gắng trốn tránh nhưng vô ích.
 
-Those who have acted the most prominent part in the rejection and crucifixion of Christ come forth to see Him as He is, and those who have rejected Christ come up and see the saints glorified, and it is at that time that the saints are changed in a moment, in the twinkling of an eye, and are caught up to meet their Lord in the air. The very ones who placed upon Him the purple robe and put the crown of thorns upon His brow, and those who put the nails through His hands and feet, look upon Him and bewail.—Manuscript Releases 9:252 (1886). LDE 275.1
+> "Kìa, Ngài đến giữa những đám mây, mọi mắt sẽ trông thấy, cả đến những kẻ đã đâm Ngài cũng trông thấy; hết thảy các chi họ trong thế gian sẽ than khóc vì cớ Ngài. Quả thật vậy. A-men!"
+> <cite>(Khải-huyền 1:7)</cite>
 
-They remember how His love was slighted and His compassion abused. They think of how Barabbas, a murderer and a robber, was chosen in His stead, how Jesus was crowned with thorns and scourged and crucified, how in the hours of His agony on the cross the priests and rulers taunted Him, saying, “Let Him come down from the cross, and we will believe Him. He saved others, Himself He cannot save.” All the insult and despite offered to Christ, all the suffering caused to His disciples, will be as fresh in their recollection as when the satanic deeds were done. LDE 275.2
+Những người không được cứu sẽ thốt ra những lời nguyền rủa điên cuồng đối với thiên nhiên câm lặng — vị thần của họ:
 
-The voice which they heard so often in entreaty and persuasion will again sound in their ears. Every tone of gracious solicitation will vibrate as distinctly in their ears as when the Saviour spoke in the synagogues and on the street. Then those who pierced Him will call on the rocks and mountains to fall on them and hide them from the face of Him that sitteth on the throne and from the wrath of the Lamb.—Letter 131, 1900. LDE 275.3
+> "chúng nói với núi và đá lớn rằng: Hãy rơi xuống chận trên chúng ta, đặng tránh khỏi mặt của Đấng ngự trên ngôi, và khỏi cơn giận của Chiên Con!"
+> <cite>(Khải-huyền 6:16)</cite>
 
-## “Awake, Ye That Sleep, and Arise!”
+—That I May Know Him, 356 (1896). LDE 273.2
 
-The clouds begin to roll back like a scroll and there is the bright, clear sign of the Son of man. The children of God know what that cloud means. The sound of music is heard, and as it nears, the graves are opened and the dead are raised.—Manuscript Releases 9:251, 252 (1886). LDE 276.1
+Khi tiếng phán của Đức Chúa Trời giải cứu dân Ngài khỏi cảnh tù đày, sẽ có một sự thức tỉnh khủng khiếp đối với những kẻ đã mất tất cả trong cuộc xung đột lớn của cuộc đời.... Sản nghiệp gom góp cả đời bị quét sạch trong khoảnh khắc. Kẻ giàu than khóc cho sự đổ nát của những ngôi nhà nguy nga của họ, cho vàng bạc bị tản mác.... Kẻ ác đầy hối tiếc, không phải vì sự xao lãng tội lỗi của họ đối với Đức Chúa Trời và đồng loại, nhưng vì Đức Chúa Trời đã đắc thắng. Họ than van vì kết cục là như vậy, nhưng họ không ăn năn về sự gian ác của mình.—The Great Controversy, 654 (1911). LDE 273.3
 
-“Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice, and shall come forth” [John 5:28, 29]. This voice is soon to resound through all the nations of the dead, and every saint who sleeps in Jesus shall awake and leave his prison house.—Manuscript 137, 1897. LDE 276.2
+## Đức Chúa Giê-su Ngự Xuống Trong Quyền Năng Và Vinh Hiển
 
-The precious dead, from Adam down to the last saint who dies, will hear the voice of the Son of God and will come forth from the grave to immortal life.—The Desire of Ages, 606 (1898). LDE 276.3
+Chẳng bao lâu, ở phương đông xuất hiện một đám mây đen nhỏ, lớn bằng khoảng nửa bàn tay người. Đó là đám mây bao quanh Đấng Cứu Thế, và từ xa trông như bị bóng tối che phủ. Dân sự của Đức Chúa Trời nhận biết đây là dấu hiệu của Con Người. Trong sự im lặng trang nghiêm, họ ngắm nhìn đám mây ấy khi nó tiến gần đến trái đất, càng trở nên sáng láng và rực rỡ hơn, cho đến khi nó trở thành một đám mây trắng lớn, phía dưới là một vầng vinh quang như lửa hừng thiêu đốt, và phía trên là cầu vồng của giao ước. Đức Chúa Giê-su tiến tới như một Đấng chinh phục oai hùng... LDE 274.1
 
-Amid the reeling of the earth, the flash of lightning, and the roar of thunder, the voice of the Son of God calls forth the sleeping saints. He looks upon the graves of the righteous, then, raising His hands to heaven, He cries: “Awake, awake, awake, ye that sleep in the dust, and arise!” Throughout the length and breadth of the earth the dead shall hear that voice, and they that hear shall live. And the whole earth shall ring with the tread of the exceeding great army of every nation, kindred, tongue, and people. From the prison house of death they come, clothed with immortal glory, crying: “O death, where is thy sting? O grave, where is thy victory?” (1 Corinthians 15:55). And the living righteous and the risen saints unite their voices in a long, glad shout of victory.—The Great Controversy, 644 (1911). LDE 276.4
+Với những bài thánh ca của giai điệu thiên đàng, các thiên sứ thánh, một đoàn đông đảo vô số kể, hộ tống Ngài trên đường đi. Bầu trời dường như đầy dẫy những hình bóng rực rỡ—"muôn vàn ngàn ngàn, và ngàn ngàn vạn vạn." Không một ngòi bút nào của loài người có thể mô tả cảnh tượng ấy, không một tâm trí phàm nhân nào có thể hình dung được sự huy hoàng của nó... LDE 274.2
 
-## From Caves and Dens and Dungeons
+Vua của các vua ngự xuống trên đám mây, bao phủ bởi lửa cháy. Các từng trời cuộn lại như một cuốn sách, đất rúng động trước mặt Ngài, và mọi núi non cùng hải đảo đều bị dời khỏi chỗ mình.—The Great Controversy, 640-642 (1911). LDE 274.3
 
-In the fastnesses of the mountains, in the caves and dens of the earth, the Saviour reveals His presence and His glory. LDE 277.1
+## Phản Ứng Của Những Kẻ Đã Đâm Ngài
 
-Yet a little while, and He that is to come will come and will not tarry. His eyes as a flame of fire penetrate into the fast-closed dungeons and hunt out the hidden ones, for their names are written in the Lamb’s book of life. The eyes of the Saviour are above us, around us, noting every difficulty, discerning every danger; and there is no place where His eyes cannot penetrate, no sorrows and sufferings of His people where the sympathy of Christ does not reach.... LDE 277.2
+Những kẻ đã đóng vai trò nổi bật nhất trong việc chối bỏ và đóng đinh Đấng Christ sẽ ra trình diện để thấy Ngài như Ngài thật là, và những kẻ đã chối bỏ Đấng Christ sẽ đứng dậy và thấy các thánh đồ được vinh hiển, và chính vào lúc đó các thánh đồ được biến hóa trong một khoảnh khắc, trong nháy mắt, và được cất lên không trung để gặp Chúa mình. Chính những kẻ đã khoác lên Ngài chiếc áo điều và đội mão gai trên trán Ngài, cùng những kẻ đã đóng đinh xuyên qua tay và chân Ngài, sẽ ngước nhìn Ngài và than khóc.—Manuscript Releases 9:252 (1886). LDE 275.1
 
-The child of God will be terror-stricken at the first sight of the majesty of Jesus Christ. He feels that he cannot live in His holy presence. But the word comes to him as to John, “Fear not.” Jesus laid His right hand upon John; He raised him up from his prostrate position. So will He do unto His loyal, trusting ones.—That I May Know Him, 360, 361 (1886). LDE 277.3
+Họ nhớ lại tình yêu thương của Ngài đã bị xem thường và lòng thương xót của Ngài đã bị lạm dụng như thế nào. Họ nghĩ đến việc Ba-ra-ba, một kẻ giết người và là một tên cướp, đã được chọn thay cho Ngài; cách Đức Chúa Giê-su bị đội mão gai, bị đánh đòn và bị đóng đinh; cách trong những giờ Ngài quằn quại trên thập tự giá, các thầy tế lễ và những kẻ cai trị đã chế nhạo Ngài rằng: "Hãy để Ngài xuống khỏi thập tự giá, thì chúng ta sẽ tin Ngài. Ngài đã cứu kẻ khác, mà cứu mình không được." Mọi sự lăng mạ và khinh bỉ dành cho Đấng Christ, mọi sự đau khổ gây ra cho các môn đồ Ngài, sẽ tươi mới trong ký ức họ như lúc những hành động của Sa-tan đó được thực hiện. LDE 275.2
 
-The heirs of God have come from garrets, from hovels, from dungeons, from scaffolds, from mountains, from deserts, from the caves of the earth, from the caverns of the sea.—The Great Controversy, 650 (1911). LDE 277.4
+Tiếng nói mà họ thường nghe trong sự nài xin và thuyết phục sẽ lại vang lên bên tai họ. Mọi giọng điệu của sự nài khẩn ân cần sẽ rung lên rõ ràng trong tai họ như khi Đấng Cứu Thế phán dạy trong các nhà hội và ngoài đường phố. Bấy giờ những kẻ đã đâm Ngài sẽ kêu lên cùng các vầng đá và núi non hãy đổ xuống trên họ và che giấu họ khỏi mặt Đấng ngự trên ngai và khỏi cơn thạnh nộ của Chiên Con.—Letter 131, 1900. LDE 275.3
 
-## From Ocean Depths and Mines and Mountains
+## “Hỡi kẻ ngủ, hãy thức dậy và chỗi dậy!”
 
-When Christ comes to gather to Himself those who have been faithful, the last trump will sound, and the whole earth, from the summits of the loftiest mountains to the lowest recesses of the deepest mines, will hear. The righteous dead will hear the sound of the last trump, and will come forth from their graves, to be clothed with immortality and to meet their Lord.—The S.D.A. Bible Commentary 7:909 (1904). LDE 277.5
+Các đám mây bắt đầu cuộn lại như một quyển sách, và kìa là dấu hiệu sáng láng, rõ ràng của Con Người. Con cái Đức Chúa Trời biết đám mây ấy có nghĩa gì. Tiếng nhạc vang lên, và khi nó đến gần, các mồ mả được mở ra và những kẻ chết được sống lại.—Manuscript Releases 9:251, 252 (1886). LDE 276.1
 
-I dwell with pleasure upon the resurrection of the just, who shall come forth from all parts of the earth, from rocky caverns, from dungeons, from caves of the earth, from the waters of the deep. Not one is overlooked. Every one shall hear His voice. They will come forth with triumph and victory.—Letter 113, 1886. LDE 278.1
+> "Chớ lấy điều đó làm lạ; vì giờ đến, khi mọi người ở trong mồ mả nghe tiếng Ngài và ra khỏi; ai đã làm lành thì sống lại để được sống, ai đã làm dữ thì sống lại để bị xét đoán."
+> <cite>(Giăng 5:28-29)</cite>
 
-What a scene will these mountains and hills [in Switzerland] present when Christ, the Lifegiver, shall call forth the dead! They will come from caverns, from dungeons, from deep wells, where their bodies have been buried.—Letter 97, 1886. LDE 278.2
+Tiếng phán này chẳng bao lâu nữa sẽ vang dội khắp các dân tộc đã chết, và mọi thánh đồ ngủ trong Đức Chúa Giê-su sẽ thức dậy và rời khỏi nhà tù của mình.—Manuscript 137, 1897. LDE 276.2
 
-## The Wicked Are Slain
+Những người chết quý báu, từ A-đam cho đến vị thánh đồ cuối cùng qua đời, sẽ nghe tiếng phán của Con Đức Chúa Trời và sẽ ra khỏi mồ mả để bước vào sự sống bất tử.—The Desire of Ages, 606 (1898). LDE 276.3
 
-In the mad strife of their own fierce passions, and by the awful outpouring of God’s unmingled wrath, fall the wicked inhabitants of the earth—priests, rulers, and people, rich and poor, high and low. “And the slain of the Lord shall be at that day from one end of the earth even unto the other end of the earth: they shall not be lamented, neither gathered, nor buried” (Jeremiah 25:33). LDE 278.3
+Giữa cảnh đất rung chuyển, ánh chớp lóe sáng và tiếng sấm rền vang, tiếng phán của Con Đức Chúa Trời gọi các thánh đồ đang ngủ chỗi dậy. Ngài nhìn vào mồ mả của những người công bình, rồi giơ tay lên trời, Ngài kêu lớn: “Hỡi các ngươi đang ngủ trong bụi đất, hãy thức dậy, hãy thức dậy, hãy thức dậy và chỗi dậy!” Khắp chiều dài và chiều rộng của trái đất, những kẻ chết sẽ nghe tiếng phán ấy, và những ai nghe sẽ được sống. Và cả trái đất sẽ vang dội bước chân của một đạo binh cực kỳ đông đảo từ mọi dân, mọi chi phái, mọi thứ tiếng và mọi dân tộc. Từ nhà tù của sự chết, họ bước ra, được khoác lấy vinh hiển bất tử, kêu lên:
 
-At the coming of Christ the wicked are blotted from the face of the whole earth—consumed with the spirit of His mouth and destroyed by the brightness of His glory. Christ takes His people to the city of God, and the earth is emptied of its inhabitants.—The Great Controversy, 657 (1911). LDE 278.4
+> "Hỡi sự chết, sự thắng của mầy ở đâu? Hỡi sự chết, cái nọc của mầy ở đâu?"
+> <cite>(I Cô-rinh-tô 15:55)</cite>
 
-To sin, wherever found, “our God is a consuming fire” (Hebrews 12:29). In all who submit to His power the Spirit of God will consume sin. But if men cling to sin, they become identified with it. Then the glory of God, which destroys sin, must destroy them.—The Desire of Ages, 107 (1898). LDE 279.1
+Và những người công bình còn sống cùng các thánh đồ đã được sống lại hòa giọng trong một tiếng reo vui chiến thắng dài lâu.—The Great Controversy, 644 (1911). LDE 276.4
 
-The glory of His countenance, which to the righteous is life, will be to the wicked a consuming fire.—The Desire of Ages, 600 (1898). LDE 279.2
+## Từ Các Hang Động, Hốc Đá Và Ngục Tối
 
-## Destruction of the Wicked an Act of Mercy
+Trong các nơi hiểm trở của núi non, trong các hang động và hốc đá của đất, Đấng Cứu Thế bày tỏ sự hiện diện và vinh quang của Ngài. LDE 277.1
 
-Could those whose hearts are filled with hatred of God, of truth and holiness, mingle with the heavenly throng and join their songs of praise? Could they endure the glory of God and the Lamb? No, no; years of probation were granted them, that they might form characters for heaven; but they have never trained the mind to love purity; they have never learned the language of heaven, and now it is too late. A life of rebellion against God has unfitted them for heaven. Its purity, holiness, and peace would be torture to them; the glory of God would be a consuming fire. They would long to flee from that holy place. They would welcome destruction, that they might be hidden from the face of Him who died to redeem them. The destiny of the wicked is fixed by their own choice. Their exclusion from heaven is voluntary with themselves, and just and merciful on the part of God.—The Great Controversy, 542, 543 (1911). LDE 279.3
+Còn ít lâu nữa, Đấng phải đến sẽ đến và không chậm trễ đâu. Đôi mắt Ngài như ngọn lửa xuyên thấu vào các ngục tối kín bưng và tìm ra những kẻ đang ẩn náu, vì tên họ đã được ghi trong sách sự sống của Chiên Con. Đôi mắt của Đấng Cứu Thế dõi theo trên chúng ta, chung quanh chúng ta, ghi nhận mọi khó khăn, phân biệt mọi hiểm nguy; và không có nơi nào mà đôi mắt Ngài không thể xuyên thấu, không có nỗi buồn hay sự đau khổ nào của dân Ngài mà lòng cảm thương của Đấng Christ không vươn tới... LDE 277.2
 
-## Homeward Bound!
+Con cái của Đức Chúa Trời sẽ kinh hãi khi thoạt nhìn thấy sự uy nghi của Đức Chúa Giê-su. Họ cảm thấy mình không thể sống trong sự hiện diện thánh khiết của Ngài. Nhưng lời phán đến với họ như đã đến với Giăng: "Chớ sợ." Đức Chúa Giê-su đã đặt tay phải Ngài trên Giăng; Ngài nâng ông dậy khỏi tư thế phủ phục. Ngài cũng sẽ làm như vậy cho những kẻ trung thành, tin cậy của Ngài.—That I May Know Him, 360, 361 (1886). LDE 277.3
 
-The living righteous are changed “in a moment, in the twinkling of an eye.” At the voice of God they were glorified; now they are made immortal, and with the risen saints are caught up to meet their Lord in the air. Angels “gather together His elect from the four winds, from one end of heaven to the other.” Little children are borne by holy angels to their mothers’ arms. Friends long separated by death are united, nevermore to part, and with songs of gladness ascend together to the city of God.—The Great Controversy, 645 (1911). LDE 280.1
+Những kẻ kế tự của Đức Chúa Trời đã đến từ các gác xép, từ các túp lều tồi tàn, từ các ngục tối, từ các đoạn đầu đài, từ các núi non, từ các sa mạc, từ các hang động của đất, từ các hốc của biển.—The Great Controversy, 650 (1911). LDE 277.4
 
-We all entered the cloud together, and were seven days ascending to the sea of glass.—Early Writings, 16 (1851). LDE 280.2
+## Từ Đáy Đại Dương, Hầm Mỏ Và Núi Non
 
-And as the chariot rolled upward, the wheels cried, “Holy,” and the wings, as they moved, cried, “Holy,” and the retinue of holy angels around the cloud cried, “Holy, holy, holy, Lord God Almighty!” And the saints in the cloud cried, “Glory! Alleluia!”—Early Writings, 35 (1851). LDE 280.3
+Khi Đấng Christ ngự đến để thâu nhóm về với Ngài những người trung tín, tiếng kèn cuối cùng sẽ vang lên, và cả trái đất, từ những đỉnh núi cao nhất đến những hốc sâu thẳm của những hầm mỏ sâu nhất, đều sẽ nghe được. Những người công bình đã chết sẽ nghe tiếng kèn cuối cùng, và sẽ ra khỏi mồ mả của mình, được mặc lấy sự bất tử và gặp Chúa của họ.—The S.D.A. Bible Commentary 7:909 (1904). LDE 277.5
 
-Oh, how glorious it will be to see Him and be welcomed as His redeemed ones! Long have we waited, but our hope is not to grow dim. If we can but see the King in His beauty we shall be forever blessed. I feel as if I must cry aloud, “Homeward bound!”—Testimonies for the Church 8:253 (1904). LDE 280.4
+Tôi vui thích suy gẫm về sự sống lại của những người công bình, là những người sẽ bước ra từ khắp nơi trên trái đất, từ những hang đá, từ những ngục tối, từ những hang động trong lòng đất, từ những vùng nước sâu thẳm. Không một ai bị bỏ sót. Mỗi người đều sẽ nghe được tiếng Ngài. Họ sẽ bước ra trong sự khải hoàn và chiến thắng.—Letter 113, 1886. LDE 278.1
 
-## The Angels Sing, Christ Has Conquered!
+Cảnh tượng nào sẽ diễn ra tại những núi đồi này [ở Thụy Sĩ] khi Đấng Christ, Đấng Ban Sự Sống, sẽ gọi những kẻ chết sống lại! Họ sẽ ra khỏi những hang động, những ngục tối, những giếng sâu, là nơi thân thể họ đã được chôn cất.—Letter 97, 1886. LDE 278.2
 
-In that day the redeemed will shine forth in the glory of the Father and the Son. The angels, touching their golden harps, will welcome the King and His trophies of victory—those who have been washed and made white in the blood of the Lamb. A song of triumph will peal forth, filling all heaven. Christ has conquered. He enters the heavenly courts, accompanied by His redeemed ones, the witnesses that His mission of suffering and sacrifice has not been in vain.—Testimonies for the Church 9:285, 286 (1909). LDE 281.1
+## Kẻ Ác Bị Tiêu Diệt
 
-With unutterable love, Jesus welcomes His faithful ones to the joy of their Lord. The Saviour’s joy is in seeing in the kingdom of glory the souls that have been saved by His agony and humiliation.—The Great Controversy, 647 (1911). LDE 281.2
+Trong cuộc tranh đấu điên cuồng của những đam mê hung bạo của chính mình, và bởi sự đổ ra khủng khiếp cơn thạnh nộ không pha trộn của Đức Chúa Trời, những cư dân gian ác của trái đất đều ngã xuống — các thầy tế lễ, những người cai trị, và dân chúng, kẻ giàu và người nghèo, người cao sang và kẻ hèn mọn.
 
-In the results of His work Christ will behold its recompense. In that great multitude which no man could number, presented “faultless before the presence of His glory with exceeding joy,” He whose blood has redeemed and whose life has taught us “shall see of the travail of His soul, and shall be satisfied.”—Education, 309 (1903). LDE 281.3
+> "Thây của những kẻ mà Đức Giê-hô-va đã giết trong ngày đó, sẽ đầy trên đất từ đầu này đến đầu kia; chẳng ai khóc, chẳng thâu liệm, chẳng chôn, sẽ làm phân trên mặt đất!"
+> <cite>(Giê-rê-mi 25:33)</cite>
 
-## The Saints Given Crowns and Harps
+LDE 278.3
 
-I saw a very great number of angels bring from the city glorious crowns—a crown for every saint, with his name written thereon. As Jesus called for the crowns, angels presented them to Him, and with His own right hand, the lovely Jesus placed the crowns on the heads of the saints.—Early Writings, 288 (1858). LDE 281.4
+Khi Đấng Christ đến, những kẻ ác bị xóa sạch khỏi mặt đất — bị thiêu hủy bởi hơi thở từ miệng Ngài và bị tiêu diệt bởi sự rực rỡ của vinh quang Ngài. Đấng Christ đem dân Ngài đến thành của Đức Chúa Trời, và trái đất trở nên trống không, chẳng còn cư dân. — The Great Controversy, 657 (1911). LDE 278.4
 
-On the sea of glass the 144,000 stood in a perfect square. Some of them had very bright crowns, others not so bright. Some crowns appeared heavy with stars, while others had but few. All were perfectly satisfied with their crowns.—Early Writings, 16, 17 (1851). LDE 282.1
+Đối với tội lỗi, bất cứ nơi nào nó tồn tại, "Đức Chúa Trời chúng ta là đám lửa hay thiêu đốt"
 
-The crown of life will be bright or dim, will glitter with many stars, or be lighted by few gems, in accordance with our own course of action.—The S.D.A. Bible Commentary 6:1105 (1895). LDE 282.2
+> "vì Đức Chúa Trời chúng ta là đám lửa hay thiêu đốt."
+> <cite>(Hê-bơ-rơ 12:29)</cite>
 
-There will be no one saved in heaven with a starless crown. If you enter, there will be some soul in the courts of glory that has found an entrance there through your instrumentality.—The Signs of the Times, June 6, 1892. LDE 282.3
+Trong tất cả những ai phục tùng quyền năng Ngài, Thánh Linh của Đức Chúa Trời sẽ thiêu đốt tội lỗi. Nhưng nếu loài người bám lấy tội lỗi, thì họ trở nên đồng nhất với nó. Khi ấy vinh quang của Đức Chúa Trời, vốn tiêu diệt tội lỗi, cũng phải tiêu diệt họ. — The Desire of Ages, 107 (1898). LDE 279.1
 
-Before entering the city of God, the Saviour bestows upon His followers the emblems of victory, and invests them with the insignia of their royal state. The glittering ranks are drawn up in the form of a hollow square about their King.... Upon the heads of the overcomers, Jesus with His own right hand places the crown of glory.... In every hand are placed the victor’s palm and the shining harp. Then, as the commanding angels strike the note, every hand sweeps the harp strings with skillful touch, awaking sweet music in rich, melodious strains.... Before the ransomed throng is the holy city. Jesus opens wide the pearly gates, and the nations that have kept the truth enter in.—The Great Controversy, 645, 646 (1911). LDE 282.4
+Vinh quang trên gương mặt Ngài, đối với người công bình là sự sống, thì đối với kẻ ác sẽ là ngọn lửa thiêu đốt. — The Desire of Ages, 600 (1898). LDE 279.2
+
+## Sự hủy diệt kẻ ác là một hành động của lòng thương xót
+
+Liệu những kẻ có lòng đầy oán ghét Đức Chúa Trời, chân lý và sự thánh khiết có thể hòa mình vào đoàn dân thiên đàng và cùng cất tiếng hát ngợi khen được chăng? Liệu họ có thể chịu đựng nổi vinh quang của Đức Chúa Trời và Chiên Con chăng? Không, không; bao nhiêu năm trong thời kỳ ân điển đã được ban cho họ để họ có thể hình thành tánh hạnh xứng đáng với thiên đàng; nhưng họ chưa bao giờ tập luyện tâm trí để yêu mến sự thanh sạch; họ chưa bao giờ học ngôn ngữ của thiên đàng, và giờ đây đã quá muộn. Một đời sống chống nghịch Đức Chúa Trời đã khiến họ không còn thích hợp với thiên đàng. Sự thanh sạch, thánh khiết và bình an nơi đó sẽ là cực hình cho họ; vinh quang của Đức Chúa Trời sẽ là ngọn lửa thiêu đốt. Họ sẽ ao ước trốn khỏi nơi thánh ấy. Họ sẽ vui mừng đón nhận sự hủy diệt, để có thể được ẩn mình khỏi mặt Đấng đã chết để cứu chuộc họ. Số phận của kẻ ác được định đoạt bởi chính sự lựa chọn của họ. Sự loại trừ họ khỏi thiên đàng là do chính họ tự nguyện, và là công bình cũng như đầy lòng thương xót về phần Đức Chúa Trời.—The Great Controversy, 542, 543 (1911). LDE 279.3
+
+## Trở Về Quê Hương!
+
+Những người công bình còn sống được biến hóa "trong giây phút, trong nháy mắt." Khi nghe tiếng Đức Chúa Trời, họ được vinh hiển; giờ đây họ được trở nên bất tử, và cùng với các thánh đồ đã sống lại được cất lên để gặp Chúa giữa không trung. Các thiên sứ "nhóm những kẻ được lựa chọn của Ngài ở khắp bốn phương, từ cuối phương trời nầy cho đến cuối phương trời kia." Các thiên sứ thánh ẵm những trẻ thơ trao trả về vòng tay của các bà mẹ. Bạn bè đã bị chia lìa lâu ngày bởi sự chết được đoàn tụ, không bao giờ phải xa cách nữa, và cùng nhau cất tiếng hát mừng vui đi lên thành của Đức Chúa Trời.—The Great Controversy, 645 (1911). LDE 280.1
+
+Tất cả chúng tôi cùng nhau bước vào đám mây, và phải mất bảy ngày để đi lên biển thủy tinh.—Early Writings, 16 (1851). LDE 280.2
+
+Và khi chiếc xe ngựa lăn lên cao, các bánh xe kêu lên, "Thánh thay," và các cánh, khi chúng chuyển động, kêu lên, "Thánh thay," và đoàn tùy tùng của các thiên sứ thánh quanh đám mây kêu lên, "Thánh thay, thánh thay, thánh thay, Chúa là Đức Chúa Trời Toàn Năng!" Và các thánh đồ trong đám mây kêu lên, "Vinh hiển! Ha-lê-lu-gia!"—Early Writings, 35 (1851). LDE 280.3
+
+Ôi, sẽ vinh hiển biết bao khi được thấy Ngài và được tiếp đón như những người được Ngài cứu chuộc! Chúng ta đã chờ đợi lâu rồi, nhưng hy vọng của chúng ta không được phai mờ. Nếu chúng ta chỉ cần được thấy Vua trong vẻ đẹp của Ngài thì chúng ta sẽ được phước đời đời. Tôi cảm thấy như mình phải kêu lớn lên rằng, "Trở về quê hương!"—Testimonies for the Church 8:253 (1904). LDE 280.4
+
+## Các Thiên Sứ Hát Vang, Đấng Christ Đã Toàn Thắng!
+
+Trong ngày ấy, những người được cứu chuộc sẽ chiếu sáng trong sự vinh hiển của Đức Chúa Cha và Con. Các thiên sứ, chạm vào những chiếc đàn hạc bằng vàng, sẽ chào đón Vua và những chiến tích vinh quang của Ngài—những người đã được tẩy sạch và trở nên trắng tinh trong huyết Chiên Con. Một bài ca khải hoàn sẽ vang lên, tràn ngập cả thiên đàng. Đấng Christ đã toàn thắng. Ngài bước vào triều đình thiên đàng, cùng với những người được cứu chuộc của Ngài, là những nhân chứng cho thấy sứ mệnh đau khổ và hy sinh của Ngài đã không trở nên vô ích.—Testimonies for the Church 9:285, 286 (1909). LDE 281.1
+
+Với tình yêu không thể diễn tả thành lời, Đức Chúa Giê-su đón những người trung tín của Ngài vào sự vui mừng của Chúa mình. Sự vui mừng của Đấng Cứu Thế là nhìn thấy trong vương quốc vinh hiển những linh hồn đã được cứu nhờ sự thống khổ và hạ mình của Ngài.—The Great Controversy, 647 (1911). LDE 281.2
+
+Trong kết quả của công việc Ngài, Đấng Christ sẽ nhìn thấy phần thưởng của mình. Trong đám đông vô số người không ai đếm được ấy, được trình diện "không chỗ trách được trước sự vinh hiển Ngài với sự vui mừng vô cùng," Đấng có huyết đã cứu chuộc và có đời sống đã dạy dỗ chúng ta "sẽ thấy kết quả của sự khốn khổ linh hồn mình, và lấy làm thỏa mãn."—Education, 309 (1903). LDE 281.3
+
+## Các Thánh Đồ Được Ban Mão Triều Và Đàn Hạc
+
+Tôi thấy một số rất đông các thiên sứ mang từ trong thành ra những mão triều thiên vinh hiển — một mão triều cho mỗi thánh đồ, với tên người được khắc trên đó. Khi Đức Chúa Giê-su gọi lấy các mão triều, các thiên sứ dâng chúng lên Ngài, và với chính tay hữu của Ngài, Đức Chúa Giê-su đáng yêu đặt các mão triều trên đầu các thánh đồ.—Early Writings, 288 (1858). LDE 281.4
+
+Trên biển pha lê, 144.000 người đứng thành một hình vuông hoàn hảo. Một số người có những mão triều rất sáng chói, những người khác không sáng bằng. Một số mão triều trông nặng trĩu những ngôi sao, trong khi những mão khác chỉ có ít ngôi sao. Tất cả đều hoàn toàn hài lòng với mão triều của mình.—Early Writings, 16, 17 (1851). LDE 282.1
+
+Mão triều sự sống sẽ sáng chói hay lu mờ, sẽ lấp lánh với nhiều ngôi sao, hay chỉ được thắp sáng bởi vài viên ngọc, tùy theo lối hành xử của chính chúng ta.—The S.D.A. Bible Commentary 6:1105 (1895). LDE 282.2
+
+Sẽ không có ai được cứu rỗi vào thiên đàng với một mão triều không có ngôi sao. Nếu bạn được vào đó, sẽ có một linh hồn nào đó trong sân của sự vinh hiển đã tìm được lối vào qua công cụ là bạn.—The Signs of the Times, June 6, 1892. LDE 282.3
+
+Trước khi vào thành của Đức Chúa Trời, Đấng Cứu Thế ban cho các môn đồ Ngài những biểu tượng của sự chiến thắng, và khoác cho họ huy hiệu của địa vị vương giả. Các hàng ngũ rực rỡ được dàn thành hình vuông rỗng quanh Vua của họ.... Trên đầu của những kẻ đắc thắng, Đức Chúa Giê-su với chính tay hữu của Ngài đặt mão triều vinh hiển.... Trong mỗi tay được trao cành kè của người chiến thắng và đàn hạc sáng chói. Rồi, khi các thiên sứ chỉ huy điểm nốt nhạc, mỗi bàn tay quét lên dây đàn hạc với nét chạm điêu luyện, đánh thức điệu nhạc êm dịu trong những giai điệu phong phú và du dương.... Trước đoàn người được cứu chuộc là thành thánh. Đức Chúa Giê-su mở rộng các cổng ngọc trai, và các dân đã giữ lẽ thật bước vào.—The Great Controversy, 645, 646 (1911). LDE 282.4

@@ -10,156 +10,179 @@ summary: ""
 draft: true
 ---
 
-## Under the Garb of Christianity
+## Dưới Lốt Cơ-đốc Giáo
 
-We are approaching the end of this earth’s history, and Satan is working as never before. He is striving to act as director of the Christian world. With an intensity that is marvelous he is working with his lying wonders. Satan is represented as walking about as a roaring lion, seeking whom he may devour. He desires to embrace the whole world in his confederacy. Hiding his deformity under the garb of Christianity, he assumes the attributes of a Christian, and claims to be Christ Himself.—Manuscript Releases 8:346 (1901). LDE 155.1
+Chúng ta đang tiến đến gần điểm kết thúc lịch sử của thế gian này, và Sa-tan đang hoạt động hơn bao giờ hết. Nó đang cố gắng đóng vai trò chỉ đạo thế giới Cơ-đốc Giáo. Với một cường độ đáng kinh ngạc, nó đang hoạt động qua những phép lạ dối trá của mình. Sa-tan được mô tả là kẻ đi rình mò như sư tử rống, tìm kiếm người mà nó có thể nuốt chửng. Nó mong muốn lôi kéo cả thế gian vào liên minh của mình. Che giấu sự dị dạng của mình dưới lốt Cơ-đốc Giáo, nó khoác lên những thuộc tính của một Cơ-đốc nhân, và tự xưng mình là chính Đấng Christ.—Manuscript Releases 8:346 (1901). LDE 155.1
 
-The Word of God declares that when it suits the enemy’s purpose, he will through his agencies manifest so great a power under a pretense of Christianity that, “if it were possible, they shall deceive the very elect” [Matthew 24:24].—Manuscript 125, 1901. LDE 155.2
+Lời Đức Chúa Trời tuyên bố rằng khi điều đó phù hợp với mục đích của kẻ thù, nó sẽ thông qua các tay sai của mình thể hiện một quyền năng to lớn dưới sự giả vờ là Cơ-đốc Giáo đến nỗi, "nếu có thể được thì chúng nó cũng dỗ dành chính những người được chọn"
 
-As the spirits will profess faith in the Bible and manifest respect for the institutions of the church, their work will be accepted as a manifestation of divine power.—The Great Controversy, 588 (1911). LDE 155.3
+> "Vì nhiều christ giả và tiên tri giả sẽ dấy lên, làm những dấu lớn, phép lạ, nếu có thể được thì họ cũng đến dỗ dành chính những người được chọn."
+> <cite>(Ma-thi-ơ 24:24)</cite>
 
-The strongest bulwark of vice in our world is not the iniquitous life of the abandoned sinner or the degraded outcast; it is that life which otherwise appears virtuous, honorable, and noble, but in which one sin is fostered, one vice indulged.... Genius, talent, sympathy, even generous and kindly deeds, may thus become decoys of Satan to entice souls over the precipice of ruin.—Education, 150 (1903). LDE 156.1
+—Manuscript 125, 1901. LDE 155.2
 
-## Even in the Adventist Church
+Vì các thần linh ấy sẽ tuyên xưng đức tin nơi Kinh Thánh và bày tỏ sự tôn trọng đối với các thể chế của hội thánh, công việc của chúng sẽ được tiếp nhận như một sự biểu lộ của quyền năng thần thượng.—The Great Controversy, 588 (1911). LDE 155.3
 
-We have far more to fear from within than from without. The hindrances to strength and success are far greater from the church itself than from the world. Unbelievers have a right to expect that those who profess to be keeping the commandments of God and the faith of Jesus, will do more than any other class to promote and honor, by their consistent lives, by their godly example and their active influence, the cause which they represent. But how often have the professed advocates of the truth proved the greatest obstacle to its advancement! The unbelief indulged, the doubts expressed, the darkness cherished, encourage the presence of evil angels, and open the way for the accomplishment of Satan’s devices.—Selected Messages 1:122 (1887). LDE 156.2
+Thành lũy mạnh nhất của tội ác trong thế gian chúng ta không phải là cuộc đời gian ác của kẻ tội nhân hư hỏng hay kẻ bị ruồng bỏ thấp hèn; mà chính là cuộc đời bề ngoài có vẻ đạo đức, đáng kính và cao thượng, nhưng trong đó một tội lỗi được nuôi dưỡng, một thói xấu được dung túng.... Thiên tài, tài năng, lòng cảm thông, ngay cả những hành động rộng lượng và nhân hậu, do đó có thể trở thành mồi nhử của Sa-tan để dụ dỗ các linh hồn vượt qua bờ vực của sự diệt vong.—Education, 150 (1903). LDE 156.1
 
-## Lying Spirits Contradict the Scriptures
+## Ngay cả trong Hội thánh Cơ-đốc Phục Lâm
 
-The saints must get a thorough understanding of present truth, which they will be obliged to maintain from the Scriptures. They must understand the state of the dead, for the spirits of devils will yet appear to them, professing to be beloved friends and relatives, who will declare to them that the Sabbath has been changed, also other unscriptural doctrines.—Early Writings, 87 (1854). LDE 156.3
+Chúng ta có nhiều điều phải lo sợ từ bên trong hơn là từ bên ngoài. Những trở ngại đối với sức mạnh và sự thành công đến từ chính hội thánh nhiều hơn là từ thế gian. Những người không tin có quyền mong đợi rằng những ai xưng mình giữ các điều răn của Đức Chúa Trời và đức tin của Đức Chúa Giê-su, sẽ làm nhiều hơn bất cứ tầng lớp nào khác để cổ vũ và tôn vinh, bằng đời sống nhất quán của họ, bằng tấm gương tin kính và ảnh hưởng tích cực của họ, sự nghiệp mà họ đại diện. Nhưng những kẻ xưng là người bênh vực chân lý đã bao lần tỏ ra là chướng ngại lớn nhất cho sự tiến bộ của chân lý! Sự vô tín được dung dưỡng, những nghi ngờ được bày tỏ, sự tối tăm được ấp ủ, đã khích lệ sự hiện diện của các thiên sứ ác và mở đường cho Sa-tan thực hiện các mưu chước của hắn.—Selected Messages 1:122 (1887). LDE 156.2
 
-The apostles, as personated by these lying spirits, are made to contradict what they wrote at the dictation of the Holy Spirit when on earth. They deny the divine origin of the Bible.—The Great Controversy, 557 (1911). LDE 157.1
+## Các tà linh dối trá mâu thuẫn với Kinh Thánh
 
-Through the two great errors, the immortality of the soul and Sunday sacredness, Satan will bring the people under his deceptions. While the former lays the foundation of spiritualism, the latter creates a bond of sympathy with Rome.—The Great Controversy, 588 (1911). LDE 157.2
+Các thánh đồ phải hiểu rõ ràng lẽ thật hiện tại, là điều mà họ sẽ buộc phải bảo vệ bằng Kinh Thánh. Họ phải hiểu về tình trạng của người chết, vì các tà linh sẽ xuất hiện với họ, giả làm những bạn hữu và người thân yêu dấu, và sẽ tuyên bố với họ rằng ngày Sa-bát đã bị đổi, cùng với những giáo lý phản Kinh Thánh khác.—Early Writings, 87 (1854). LDE 156.3
 
-Persons will arise pretending to be Christ Himself, and claiming the title and worship which belong to the world’s Redeemer. They will perform wonderful miracles of healing, and will profess to have revelations from heaven contradicting the testimony of the Scriptures.... LDE 157.3
+Các sứ đồ, được những tà linh dối trá này hiện thân, bị bắt phải mâu thuẫn với những gì họ đã viết theo sự chỉ dẫn của Đức Thánh Linh khi còn ở trên đất. Họ phủ nhận nguồn gốc thiêng liêng của Kinh Thánh.—The Great Controversy, 557 (1911). LDE 157.1
 
-But the people of God will not be misled. The teachings of this false christ are not in accordance with the Scriptures. His blessing is pronounced upon the worshipers of the beast and his image, the very class upon whom the Bible declares that God’s unmingled wrath shall be poured out.—The Great Controversy, 624, 625 (1911). LDE 157.4
+Qua hai sai lầm lớn, sự bất tử của linh hồn và sự thánh hóa ngày Chúa Nhật, Sa-tan sẽ đưa dân chúng vào trong những sự lừa dối của hắn. Trong khi điều thứ nhất đặt nền móng cho thuyết duy linh, thì điều thứ hai tạo ra một mối liên kết đồng cảm với La-mã.—The Great Controversy, 588 (1911). LDE 157.2
 
-## False Revivals
+Sẽ có những kẻ nổi lên giả mạo chính là Đấng Christ, và đòi danh hiệu và sự thờ phượng vốn thuộc về Đấng Cứu Chuộc của thế gian. Chúng sẽ thực hiện những phép lạ chữa bệnh kỳ diệu, và sẽ tuyên bố đã nhận được những khải thị từ thiên đàng mâu thuẫn với chứng cớ của Kinh Thánh... LDE 157.3
 
-I saw that God has honest children among the nominal Adventists and the fallen churches, and before the plagues shall be poured out, ministers and people will be called out from these churches and will gladly receive the truth. Satan knows this; and before the loud cry of the third angel is given, he raises an excitement in these religious bodies, that those who have rejected the truth may think that God is with them.—Early Writings, 261 (1858). LDE 158.1
+Nhưng dân sự của Đức Chúa Trời sẽ không bị lừa dối. Những lời dạy của đấng christ giả này không phù hợp với Kinh Thánh. Phước lành của hắn được ban cho những kẻ thờ lạy con thú và hình tượng của nó, chính là hạng người mà Kinh Thánh tuyên bố rằng cơn thạnh nộ không pha trộn của Đức Chúa Trời sẽ đổ trên họ.—The Great Controversy, 624, 625 (1911). LDE 157.4
 
-Before the final visitation of God’s judgments upon the earth there will be among the people of the Lord such a revival of primitive godliness as has not been witnessed since apostolic times.... The enemy of souls desires to hinder this work, and before the time for such a movement shall come, he will endeavor to prevent it by introducing a counterfeit. In those churches which he can bring under his deceptive power, he will make it appear that God’s special blessing is poured out; there will be manifest what is thought to be great religious interest.... LDE 158.2
+## Những Cuộc Phục Hưng Giả
 
-There is an emotional excitement, a mingling of the true with the false, that is well adapted to mislead. Yet none need be deceived. In the light of God’s Word it is not difficult to determine the nature of these movements. Wherever men neglect the testimony of the Bible, turning away from those plain, soul-testing truths which require self-denial and renunciation of the world, there we may be sure that God’s blessing is not bestowed.—The Great Controversy, 464 (1911). LDE 158.3
+Tôi thấy rằng Đức Chúa Trời có những con cái trung thực ở giữa những người Cơ-đốc Phục Lâm trên danh nghĩa và trong các hội thánh sa ngã, và trước khi các tai vạ được đổ ra, các mục sư và dân chúng sẽ được kêu gọi ra khỏi những hội thánh này và sẽ vui mừng tiếp nhận lẽ thật. Sa-tan biết điều này; và trước khi tiếng kêu lớn của vị thiên sứ thứ ba được rao truyền, hắn dấy lên một sự náo động trong các tổ chức tôn giáo này, để những kẻ đã chối bỏ lẽ thật có thể tưởng rằng Đức Chúa Trời đang ở cùng họ.—Early Writings, 261 (1858). LDE 158.1
 
-## Music Is Made a Snare
+Trước khi sự phán xét cuối cùng của Đức Chúa Trời giáng trên đất, sẽ có giữa vòng dân sự của Chúa một cuộc phục hưng sự tin kính nguyên thủy như chưa từng được chứng kiến kể từ thời các sứ đồ.... Kẻ thù của các linh hồn muốn cản trở công việc này, và trước khi đến thời điểm cho một phong trào như thế xảy ra, hắn sẽ cố gắng ngăn chặn nó bằng cách đưa ra một sự giả mạo. Trong những hội thánh mà hắn có thể đem vào dưới quyền lực lừa dối của hắn, hắn sẽ làm cho có vẻ như phước lành đặc biệt của Đức Chúa Trời được đổ xuống; sẽ có sự bày tỏ điều được xem là sự quan tâm lớn về tôn giáo.... LDE 158.2
 
-The things you have described as taking place in Indiana, [These comments were made in connection with the “Holy Flesh” Movement at the Indiana camp meeting of 1900. For further details, see Selected Messages 2:31-39.] the Lord has shown me would take place just before the close of probation. Every uncouth thing will be demonstrated. There will be shouting, with drums, music, and dancing. The senses of rational beings will become so confused that they cannot be trusted to make right decisions.... LDE 159.1
+Có một sự náo động cảm xúc, một sự pha trộn giữa thật và giả, rất thích hợp để dẫn dắt sai lạc. Tuy nhiên, không ai cần phải bị lừa dối. Dưới ánh sáng của Lời Đức Chúa Trời, không khó để xác định bản chất của những phong trào này. Bất cứ nơi nào con người bỏ qua lời chứng của Kinh Thánh, quay khỏi những lẽ thật rõ ràng, thử thách linh hồn vốn đòi hỏi sự từ bỏ chính mình và từ bỏ thế gian, thì ở đó chúng ta có thể chắc chắn rằng phước lành của Đức Chúa Trời không được ban xuống.—The Great Controversy, 464 (1911). LDE 158.3
 
-A bedlam of noise shocks the senses and perverts that which if conducted aright might be a blessing. The powers of satanic agencies blend with the din and noise to have a carnival, and this is termed the Holy Spirit’s working.... Those things which have been in the past will be in the future. Satan will make music a snare by the way in which it is conducted.—Selected Messages 2:36, 38 (1900). LDE 159.2
+## Âm Nhạc Trở Thành Cạm Bẫy
 
-Let us give no place to strange exercisings, which really take the mind away from the deep movings of the Holy Spirit. God’s work is ever characterized by calmness and dignity.—Selected Messages 2:42 (1908). LDE 159.3
+Những điều mà các con đã mô tả đang diễn ra tại Indiana, [Những lời nhận xét này được đưa ra liên quan đến phong trào "Xác Thịt Thánh" tại buổi nhóm trại Indiana năm 1900. Để biết thêm chi tiết, xem Selected Messages 2:31-39.] Chúa đã tỏ cho tôi thấy sẽ xảy ra ngay trước khi thời kỳ ân điển kết thúc. Mọi điều thô lỗ sẽ được biểu lộ. Sẽ có tiếng la hét, cùng với trống, nhạc, và nhảy múa. Các giác quan của những người có lý trí sẽ trở nên hỗn loạn đến nỗi không thể tin cậy để đưa ra những quyết định đúng đắn.... LDE 159.1
 
-## False Speaking in Tongues
+Một mớ tiếng ồn náo loạn làm chấn động các giác quan và làm sai lệch những gì nếu được thực hiện đúng cách thì có thể là một phước lành. Quyền lực của các thế lực Sa-tan hòa lẫn với sự huyên náo và tiếng ồn để tạo nên một lễ hội, và điều này được gọi là sự vận hành của Đức Thánh Linh.... Những điều đã xảy ra trong quá khứ sẽ xảy ra trong tương lai. Sa-tan sẽ biến âm nhạc thành một cạm bẫy qua cách thức nó được thực hiện.—Selected Messages 2:36, 38 (1900). LDE 159.2
 
-Fanaticism, false excitement, false talking in tongues, and noisy exercises have been considered gifts which God has placed in the church. Some have been deceived here. The fruits of all this have not been good. “Ye shall know them by their fruits.” Fanaticism and noise have been considered special evidences of faith. Some are not satisfied with a meeting unless they have a powerful and happy time. They work for this and get up an excitement of feeling. But the influence of such meetings is not beneficial. When the happy flight of feeling is gone they sink lower than before the meeting because their happiness did not come from the right source. LDE 159.4
+Chúng ta đừng để chỗ cho những thực hành kỳ lạ, là những điều thực sự kéo tâm trí ra khỏi những sự cảm động sâu xa của Đức Thánh Linh. Công việc của Đức Chúa Trời luôn được đặc trưng bởi sự yên tĩnh và uy nghi.—Selected Messages 2:42 (1908). LDE 159.3
 
-The most profitable meetings for spiritual advancement are those which are characterized with solemnity and deep searching of heart, each seeking to know himself and, earnestly and in deep humility, seeking to learn of Christ.—Testimonies For The Church 1:412 (1864). LDE 160.1
+## Sự Nói Tiếng Lạ Giả Dối
 
-## Evil Angels Appear as Human Beings
+Sự cuồng tín, sự phấn khích giả tạo, sự nói tiếng lạ giả dối và những hành động ồn ào đã được xem là các ân tứ mà Đức Chúa Trời đặt trong hội thánh. Một số người đã bị lừa dối ở điểm này. Bông trái của tất cả những điều này đã không tốt.
 
-Satan will use every opportunity to seduce men from their allegiance to God. He and the angels who fell with him will appear on the earth as men, seeking to deceive. God’s angels also will appear as men, and will use every means in their power to defeat the purposes of the enemy.—Manuscript Releases 8:399 (1903). LDE 160.2
+> "Ấy vậy, các ngươi nhờ những trái nó mà nhận biết được."
+> <cite>(Ma-thi-ơ 7:20)</cite>
 
-Evil angels in the form of men will talk with those who know the truth. They will misinterpret and misconstrue the statements of the messengers of God.... Have Seventh-day Adventists forgotten the warning given in the sixth chapter of Ephesians? We are engaged in a warfare against the hosts of darkness. Unless we follow our Leader closely, Satan will obtain the victory over us.—Selected Messages 3:411 (1903). LDE 160.3
+Sự cuồng tín và sự ồn ào đã được xem như những bằng chứng đặc biệt của đức tin. Có những người không thỏa lòng với một buổi nhóm trừ khi họ có được một thời gian mạnh mẽ và vui vẻ. Họ làm việc vì điều này và khơi dậy một sự phấn khích trong cảm xúc. Nhưng ảnh hưởng của những buổi nhóm như vậy không có ích lợi gì. Khi cảm xúc bay bổng vui vẻ qua đi, họ chìm xuống thấp hơn trước khi nhóm họp, bởi vì niềm vui của họ không đến từ nguồn đúng đắn. LDE 159.4
 
-Evil angels in the form of believers will work in our ranks to bring in a strong spirit of unbelief. Let not even this discourage you, but bring a true heart to the help of the Lord against the powers of satanic agencies. These powers of evil will assemble in our meetings, not to receive a blessing, but to counterwork the influences of the Spirit of God.—Mind, Character, and Personality 2:504, 505 (1909). LDE 161.1
+Những buổi nhóm sinh ích lợi nhất cho sự tiến bộ thuộc linh là những buổi nhóm mang đặc tính trang nghiêm và sự tra xét tấm lòng cách sâu sắc, mỗi người tìm cách biết chính mình, và với lòng sốt sắng cùng sự khiêm nhường sâu xa, tìm cách học biết về Đấng Christ.—Testimonies For The Church 1:412 (1864). LDE 160.1
 
-## Personation of the Dead
+## Các Thiên Sứ Ác Hiện Ra Dưới Hình Dạng Con Người
 
-It is not difficult for the evil angels to represent both saints and sinners who have died, and make these representations visible to human eyes. These manifestations will be more frequent, and developments of a more startling character will appear as we near the close of time.—Evangelism, 604 (1875). LDE 161.2
+Sa-tan sẽ tận dụng mọi cơ hội để dụ dỗ loài người rời bỏ lòng trung thành với Đức Chúa Trời. Hắn và các thiên sứ đã sa ngã cùng với hắn sẽ xuất hiện trên đất dưới hình dạng con người, tìm cách lừa dối. Các thiên sứ của Đức Chúa Trời cũng sẽ xuất hiện dưới hình dạng con người, và sẽ dùng mọi phương cách trong quyền năng của mình để đánh bại mục đích của kẻ thù.—Manuscript Releases 8:399 (1903). LDE 160.2
 
-It is Satan’s most successful and fascinating delusion—one calculated to take hold of the sympathies of those who have laid their loved ones in the grave. Evil angels come in the form of those loved ones and relate incidents connected with their lives, and perform acts which they performed while living. In this way they lead persons to believe that their dead friends are angels, hovering over them and communicating with them. These evil angels, who assume to be the deceased friends, are regarded with a certain idolatry, and with many their word has greater weight than the Word of God.—The Signs of the Times, August 26, 1889. LDE 161.3
+Các thiên sứ ác dưới hình dạng con người sẽ nói chuyện với những ai biết lẽ thật. Chúng sẽ giải thích sai lạc và xuyên tạc những lời tuyên bố của các sứ giả của Đức Chúa Trời.... Phải chăng những người Cơ-đốc Phục Lâm đã quên lời cảnh báo trong chương sáu của sách Ê-phê-sô? Chúng ta đang dự phần vào một cuộc chiến chống lại các đạo binh của bóng tối. Nếu chúng ta không đi sát theo Đấng Lãnh Đạo của mình, Sa-tan sẽ giành chiến thắng trên chúng ta.—Selected Messages 3:411 (1903). LDE 160.3
 
-He [Satan] has power to bring before men the appearance of their departed friends. The counterfeit is perfect; the familiar look, the words, the tone, are reproduced with marvelous distinctness.... Many will be confronted by the spirits of devils personating beloved relatives or friends and declaring the most dangerous heresies. These visitants will appeal to our tenderest sympathies and will work miracles to sustain their pretensions.—The Great Controversy, 552, 560 (1911). LDE 161.4
+Các thiên sứ ác dưới hình dạng tín đồ sẽ hoạt động trong hàng ngũ của chúng ta để đem vào một tinh thần vô tín mạnh mẽ. Đừng để ngay cả điều này làm các bạn nản lòng, nhưng hãy đem một tấm lòng chân thật để giúp đỡ Chúa chống lại các quyền lực của các tay sai của Sa-tan. Các quyền lực gian ác này sẽ tụ họp trong các buổi nhóm của chúng ta, không phải để nhận phước lành, nhưng để chống lại ảnh hưởng của Đức Thánh Linh của Đức Chúa Trời.—Mind, Character, and Personality 2:504, 505 (1909). LDE 161.1
 
-## Satan Personates Christ
+## Sự Mạo Danh Người Chết
 
-The enemy is preparing to deceive the whole world by his miracle-working power. He will assume to personate the angels of light, to personate Jesus Christ.—Selected Messages 2:96 (1894). LDE 162.1
+Không khó cho các thiên sứ ác mạo danh cả các thánh đồ lẫn những kẻ tội nhân đã chết, và làm cho những hình ảnh mạo danh đó hiện ra trước mắt loài người. Những sự biểu lộ như vậy sẽ ngày càng xảy ra thường xuyên hơn, và những biến cố có tính chất gây kinh ngạc hơn sẽ xuất hiện khi chúng ta tiến gần đến thời kỳ tận thế.—Evangelism, 604 (1875). LDE 161.2
 
-If men are so easily misled now, how will they stand when Satan shall personate Christ, and work miracles? Who will be unmoved by his misrepresentations then—professing to be Christ when it is only Satan assuming the person of Christ, and apparently working the works of Christ?—Selected Messages 2:394 (1897). LDE 162.2
+Đó là sự lừa dối thành công và quyến rũ nhất của Sa-tan—một sự lừa dối được tính toán nhằm chiếm lấy lòng cảm thương của những người đã chôn cất những người thân yêu của mình trong mồ mả. Các thiên sứ ác đến trong hình dạng của những người thân yêu đó và kể lại các sự việc liên quan đến cuộc đời họ, đồng thời thực hiện những hành động mà họ đã làm khi còn sống. Bằng cách này, chúng dẫn người ta tin rằng những người bạn đã chết của họ là các thiên sứ, đang lượn quanh họ và giao tiếp với họ. Những thiên sứ ác này, giả làm những người bạn đã qua đời, được tôn sùng với một sự thờ lạy nào đó, và đối với nhiều người, lời nói của chúng có trọng lượng hơn cả Lời Đức Chúa Trời.—The Signs of the Times, August 26, 1889. LDE 161.3
 
-Satan will take the field and personate Christ. He will misrepresent, misapply, and pervert everything he possibly can.—Testimonies to Ministers and Gospel Workers, 411 (1898). LDE 162.3
+Nó [Sa-tan] có quyền khiến cho hình dạng của những người bạn đã qua đời hiện ra trước mặt loài người. Sự giả mạo thật hoàn hảo; cái nhìn quen thuộc, lời nói, giọng điệu, đều được tái hiện với sự rõ ràng kỳ diệu.... Nhiều người sẽ phải đối diện với các tà linh của ma quỷ mạo danh những người bà con hay bạn bè yêu dấu và rao truyền những tà thuyết nguy hiểm nhất. Những kẻ đến viếng này sẽ kêu gọi đến lòng cảm thương dịu dàng nhất của chúng ta và sẽ làm phép lạ để chống đỡ cho những lời tuyên bố giả dối của chúng.—The Great Controversy, 552, 560 (1911). LDE 161.4
 
-A power from beneath is working to bring about the last great scenes in the drama—Satan coming as Christ, and working with all deceivableness of unrighteousness in those who are binding themselves together in secret societies.—Testimonies for the Church 8:28 (1904). LDE 162.4
+## Sa-tan Mạo Nhận Đấng Christ
 
-## Satan Resembles Christ in Every Particular
+Kẻ thù đang chuẩn bị để lừa dối cả thế giới bằng quyền năng làm phép lạ của nó. Nó sẽ giả mạo làm các thiên sứ sáng láng, giả mạo làm Đức Chúa Giê-su.—Selected Messages 2:96 (1894). LDE 162.1
 
-There is a limit beyond which Satan cannot go, and here he calls deception to his aid and counterfeits the work which he has not power actually to perform. In the last days he will appear in such a manner as to make men believe him to be Christ come the second time into the world. He will indeed transform himself into an angel of light. But while he will bear the appearance of Christ in every particular, so far as mere appearance goes, it will deceive none but those who, like Pharaoh, are seeking to resist the truth.—Testimonies for the Church 5:698 (1889). LDE 163.1
+Nếu loài người ngày nay dễ bị lừa dối như vậy, thì làm sao họ sẽ đứng vững khi Sa-tan mạo nhận Đấng Christ và làm các phép lạ? Khi đó ai sẽ không bị lay chuyển bởi những sự xuyên tạc của nó—tự xưng là Đấng Christ trong khi đó chỉ là Sa-tan đang đội lốt Đấng Christ, và dường như đang làm những công việc của Đấng Christ?—Selected Messages 2:394 (1897). LDE 162.2
 
-As the crowning act in the great drama of deception, Satan himself will personate Christ. The church has long professed to look to the Saviour’s advent as the consummation of her hopes. Now the great deceiver will make it appear that Christ has come. In different parts of the earth, Satan will manifest himself among men as a majestic being of dazzling brightness, resembling the description of the Son of God given by John in the Revelation. (Revelation 1:13-15). The glory that surrounds him is unsurpassed by anything that mortal eyes have yet beheld. The shout of triumph rings out upon the air: “Christ has come! Christ has come!” LDE 163.2
+Sa-tan sẽ ra mặt và mạo nhận Đấng Christ. Nó sẽ xuyên tạc, áp dụng sai lệch, và bóp méo mọi thứ trong khả năng của mình.—Testimonies to Ministers and Gospel Workers, 411 (1898). LDE 162.3
 
-The people prostrate themselves in adoration before him, while he lifts up his hands and pronounces a blessing upon them, as Christ blessed His disciples when He was upon the earth. His voice is soft and subdued, yet full of melody. In gentle, compassionate tones he presents some of the same gracious, heavenly truths which the Saviour uttered; he heals the diseases of the people, and then, in his assumed character of Christ, he claims to have changed the Sabbath to Sunday, and commands all to hallow the day which he has blessed.—The Great Controversy, 624 (1911). LDE 163.3
+Một quyền lực từ bên dưới đang hoạt động để đem đến những cảnh tượng lớn cuối cùng trong vở kịch—Sa-tan đến giả làm Đấng Christ, và hành động với mọi sự lừa dối của điều bất nghĩa trong những kẻ đang liên kết với nhau trong các hội kín.—Testimonies for the Church 8:28 (1904). LDE 162.4
 
-## Satan Pretends to Answer the Saints’ Prayers
+## Sa-tan Giống Đấng Christ Trong Mọi Chi Tiết
 
-Satan sees that he is about to lose his case. He cannot sweep in the whole world. He makes one last desperate effort to overcome the faithful by deception. He does this in personating Christ. He clothes himself with the garments of royalty which have been accurately described in the vision of John. He has power to do this. He will appear to his deluded followers, the Christian world who received not the love of the truth but had pleasure in unrighteousness (transgression of the law), as Christ coming the second time. LDE 164.1
+Có một giới hạn mà Sa-tan không thể vượt qua, và tại đây nó dùng đến sự lừa dối để trợ giúp và giả mạo công việc mà nó không có quyền năng thực sự để thực hiện. Trong những ngày sau rốt, nó sẽ xuất hiện theo cách khiến người ta tin rằng nó là Đấng Christ tái lâm vào thế gian. Nó quả thật sẽ biến mình thành thiên sứ sáng láng. Nhưng dù nó sẽ mang hình dáng của Đấng Christ trong mọi chi tiết, ít nhất là về vẻ bề ngoài, thì điều đó cũng sẽ chỉ lừa dối được những ai, giống như Pha-ra-ôn, đang tìm cách chống lại lẽ thật.—Testimonies for the Church 5:698 (1889). LDE 163.1
 
-He proclaims himself Christ, and he is believed to be Christ, a beautiful, majestic being clothed with majesty and, with soft voice and pleasant words, with glory unsurpassed by anything their mortal eyes had yet beheld. Then his deceived, deluded followers set up a shout of victory, “Christ has come the second time! Christ has come! He has lifted up His hands just as He did when He was upon the earth, and blessed us.”... LDE 164.2
+Là hành động đỉnh điểm trong vở kịch lừa dối vĩ đại, chính Sa-tan sẽ đóng vai Đấng Christ. Hội thánh đã từ lâu tuyên xưng trông đợi sự tái lâm của Đấng Cứu Thế như sự thành toàn của niềm hy vọng mình. Giờ đây kẻ lừa dối lớn sẽ làm cho người ta tưởng rằng Đấng Christ đã đến. Tại các vùng khác nhau trên đất, Sa-tan sẽ tỏ mình ra giữa loài người như một đấng oai nghi với sự sáng chói lòa, giống với mô tả về Con Đức Chúa Trời mà Giăng đã ghi lại trong sách Khải Huyền.
 
-The saints look on with amazement. Will they also be deceived? Will they worship Satan? Angels of God are about them. A clear, firm, musical voice is heard, “Look up.” LDE 164.3
+> "vừa xây lại, thấy bảy chân đèn bằng vàng, và ở giữa những chân đèn có ai giống như con người, mặc áo dài, thắt đai vàng ngang trên ngực. Đầu và tóc người trắng như lông chiên, trắng như tuyết; mắt như ngọn lửa; chân như đồng sáng đã luyện trong lò lửa, và tiếng như tiếng nước lớn."
+> <cite>(Khải-huyền 1:13-15)</cite>
 
-There was one object before the praying ones—the final and eternal salvation of their souls. This object was before them constantly—that immortal life was promised to those who endure unto the end. Oh, how earnest and fervent had been their desires. The judgment and eternity were in view. Their eyes by faith were fixed on the blazing throne, before which the white-robed ones were to stand. This restrained them from the indulgence of sin.... LDE 164.4
+Sự vinh hiển bao quanh nó vượt hơn bất cứ điều gì mà mắt phàm từng được trông thấy. Tiếng reo đắc thắng vang lên trong không trung: "Đấng Christ đã đến! Đấng Christ đã đến!" LDE 163.2
 
-One effort more, and then Satan’s last device is employed. He hears the unceasing cry for Christ to come, for Christ to deliver them. This last strategy is to personate Christ, and make them think their prayers are answered.—Manuscript 16, 1884. LDE 165.1
+Dân chúng sấp mình thờ lạy trước mặt nó, trong khi nó giơ tay ban phước cho họ, như Đấng Christ đã chúc phước cho các môn đồ Ngài khi Ngài còn ở trên đất. Giọng nói của nó dịu dàng và êm ái, nhưng đầy du dương. Bằng những âm điệu nhẹ nhàng, đầy lòng trắc ẩn, nó trình bày một vài lẽ thật ân hậu, thiên thượng giống như Đấng Cứu Thế đã từng phán; nó chữa lành bệnh tật cho dân chúng, và rồi, trong vai trò Đấng Christ mà nó tự xưng, nó tuyên bố đã đổi ngày Sa-bát sang Chúa Nhật, và truyền cho mọi người phải tôn thánh ngày mà nó đã ban phước.—The Great Controversy, 624 (1911). LDE 163.3
 
-## How the Counterfeit Differs From the Genuine
+## Sa-tan Giả Vờ Đáp Lời Cầu Nguyện Của Các Thánh Đồ
 
-Satan is not permitted to counterfeit the manner of Christ’s advent.—The Great Controversy, 625 (1911). LDE 165.2
+Sa-tan thấy rằng nó sắp thua cuộc. Nó không thể quét sạch cả thế giới. Nó dùng nỗ lực tuyệt vọng cuối cùng để chiến thắng những người trung tín bằng sự lừa dối. Nó làm điều này bằng cách giả mạo Đấng Christ. Nó khoác lên mình những bộ áo vương giả đã được mô tả chính xác trong khải tượng của Giăng. Nó có quyền năng để làm điều này. Nó sẽ xuất hiện trước những kẻ theo nó đã bị lừa dối, là thế giới Cơ-đốc giáo đã không tiếp nhận lòng yêu mến lẽ thật mà lại vui thích trong sự không công bình (sự vi phạm luật pháp), giả làm Đấng Christ đến lần thứ hai. LDE 164.1
 
-Satan ... will come personating Jesus Christ, working mighty miracles; and men will fall down and worship him as Jesus Christ. We shall be commanded to worship this being, whom the world will glorify as Christ. What shall we do? Tell them that Christ has warned us against just such a foe, who is man’s worst enemy, yet who claims to be God, and that when Christ shall make His appearance it will be with power and great glory, accompanied by ten thousand times ten thousand angels and thousands of thousands, and that when He shall come we shall know His voice.—The S.D.A. Bible Commentary 6:1106 (1888). LDE 165.3
+Nó tự xưng mình là Đấng Christ, và nó được tin là Đấng Christ, một hữu thể xinh đẹp, oai nghiêm khoác lấy sự uy nghi, với giọng nói êm dịu và lời lẽ ngọt ngào, với vinh quang vượt trổi hơn bất cứ điều gì mà mắt phàm của họ từng được thấy. Rồi những kẻ theo nó bị lừa dối, mê hoặc cất tiếng reo hò chiến thắng: "Đấng Christ đã đến lần thứ hai! Đấng Christ đã đến! Ngài đã giơ tay lên giống như Ngài đã làm khi còn ở trên đất, và ban phước cho chúng ta."... LDE 164.2
 
-Satan is striving to gain every advantage.... Disguised as an angel of light, he will walk the earth as a wonder-worker. In beautiful language he will present lofty sentiments; good words will be spoken by him and good deeds performed. Christ will be personified. But on one point there will be a marked distinction—Satan will turn the people from the law of God. Notwithstanding this, so well will he counterfeit righteousness that, if it were possible, he would deceive the very elect. Crowned heads, presidents, rulers in high places, will bow to his false theories.—Fundamentals of Christian Education, 471, 472 (1897). LDE 166.1
+Các thánh đồ nhìn vào với sự kinh ngạc. Họ cũng sẽ bị lừa chăng? Họ sẽ thờ phượng Sa-tan chăng? Các thiên sứ của Đức Chúa Trời ở quanh họ. Một giọng nói trong trẻo, vững vàng, du dương vang lên: "Hãy nhìn lên." LDE 164.3
 
-## Miracles Will Be Performed
+Có một mục tiêu trước những người đang cầu nguyện—sự cứu rỗi cuối cùng và đời đời cho linh hồn của họ. Mục tiêu này luôn ở trước mắt họ—rằng sự sống bất tử đã được hứa cho những ai bền đỗ đến cuối cùng. Ôi, lòng khao khát của họ đã tha thiết và nồng nàn biết bao. Sự phán xét và cõi đời đời ở trong tầm nhìn. Bởi đức tin, mắt họ chăm chú vào ngai rực sáng, là nơi mà những người mặc áo trắng sẽ đứng trước. Điều này đã giữ họ khỏi sự đắm chìm trong tội lỗi.... LDE 164.4
 
-The sick will be healed before us. Miracles will be performed in our sight. Are we prepared for the trial which awaits us when the lying wonders of Satan shall be more fully exhibited?—Testimonies For The Church 1:302 (1862). LDE 166.2
+Một nỗ lực nữa, và rồi mưu kế cuối cùng của Sa-tan được sử dụng. Nó nghe tiếng kêu không ngừng cầu xin Đấng Christ đến, xin Đấng Christ giải cứu họ. Chiến lược cuối cùng này là giả mạo Đấng Christ, và khiến họ nghĩ rằng lời cầu nguyện của họ đã được đáp lời.—Manuscript 16, 1884. LDE 165.1
 
-Men under the influence of evil spirits will work miracles. They will make people sick by casting their spell upon them, and will then remove the spell, leading others to say that those who were sick have been miraculously healed. This Satan has done again and again.—Selected Messages 2:53 (1903). LDE 166.3
+## Sự Giả Mạo Khác Với Sự Thật Như Thế Nào
 
-Wonderful scenes, with which Satan will be closely connected, will soon take place. God’s Word declares that Satan will work miracles. He will make people sick, and then will suddenly remove from them his satanic power. They will then be regarded as healed. These works of apparent healing will bring Seventh-day Adventists to the test.—Selected Messages 2:53 (1904). LDE 166.4
+Sa-tan không được phép giả mạo cách thức tái lâm của Đấng Christ.—The Great Controversy, 625 (1911). LDE 165.2
 
-Satan can, through a species of deceptions, perform wonders that will appear to be genuine miracles. It was this he hoped to make a test question with the Israelites at the time of their deliverance from Egypt.—Selected Messages 2:52 (1907). LDE 167.1
+Sa-tan... sẽ đến trong hình dạng của Đức Chúa Giê-su, làm những phép lạ lớn lao; và loài người sẽ sấp mình thờ lạy nó như Đức Chúa Giê-su. Chúng ta sẽ được lệnh phải thờ lạy kẻ này, mà thế gian sẽ tôn vinh như là Đấng Christ. Chúng ta sẽ phải làm gì? Hãy nói cho họ biết rằng Đấng Christ đã cảnh báo chúng ta về một kẻ thù như vậy, là kẻ thù tệ hại nhất của loài người, kẻ tự xưng là Đức Chúa Trời, và rằng khi Đấng Christ thật sự xuất hiện thì sẽ với quyền năng và vinh hiển lớn lao, có muôn vạn thiên sứ và ngàn ngàn thiên sứ tháp tùng, và khi Ngài đến chúng ta sẽ nhận ra tiếng của Ngài.—The S.D.A. Bible Commentary 6:1106 (1888). LDE 165.3
 
-## Fire From Heaven
+Sa-tan đang ra sức giành mọi lợi thế.... Cải trang thành thiên sứ sáng láng, nó sẽ đi khắp đất làm kẻ thi hành phép lạ. Bằng ngôn từ tốt đẹp, nó sẽ trình bày những tư tưởng cao cả; những lời tốt lành sẽ được nó nói ra và những việc làm tốt được nó thực hiện. Đấng Christ sẽ bị giả mạo. Nhưng có một điểm sẽ có sự khác biệt rõ rệt—Sa-tan sẽ làm cho dân chúng quay khỏi luật pháp Đức Chúa Trời. Mặc dầu vậy, nó sẽ giả mạo sự công bình tài tình đến nỗi, nếu có thể được, sẽ lừa dối cả những người được lựa chọn. Các vị vua, tổng thống, những kẻ cai trị ở vị trí cao sẽ cúi mình trước các lý thuyết sai lạc của nó.—Fundamentals of Christian Education, 471, 472 (1897). LDE 166.1
 
-We must not trust the claims of men. They may, as Christ represents, profess to work miracles in healing the sick. Is this marvelous, when just behind them stands the great deceiver, the miracle worker who will yet bring down fire from heaven in the sight of men?—Selected Messages 2:49 (1887). LDE 167.2
+## Các Phép Lạ Sẽ Được Thực Hiện
 
-It is the lying wonders of the devil that will take the world captive, and he will cause fire to come down from heaven in the sight of men. He is to work miracles, and this wonderful, miracle-working power is to sweep in the whole world.—Selected Messages 2:51 (1890). LDE 167.3
+Người bệnh sẽ được chữa lành trước mặt chúng ta. Các phép lạ sẽ được thực hiện ngay trước mắt chúng ta. Liệu chúng ta đã chuẩn bị sẵn sàng cho thử thách đang chờ đợi mình khi những điều kỳ diệu giả dối của Sa-tan được phô bày trọn vẹn hơn chăng?—Testimonies For The Church 1:302 (1862). LDE 166.2
 
-Satan will come in to deceive if possible the very elect. He claims to be Christ, and he is coming in, pretending to be the great medical missionary. He will cause fire to come down from heaven in the sight of men to prove that he is God.—Medical Ministry, 87, 88 (1903). LDE 167.4
+Những người chịu ảnh hưởng của tà linh sẽ làm các phép lạ. Chúng sẽ khiến người ta bị bệnh bằng cách đặt bùa chú trên họ, rồi sau đó gỡ bỏ bùa chú ấy, khiến người khác nói rằng những kẻ bị bệnh đã được chữa lành cách kỳ diệu. Sa-tan đã làm điều này hết lần này đến lần khác.—Selected Messages 2:53 (1903). LDE 166.3
 
-It is stated in the Word that the enemy will work through his agents who have departed from the faith, and they will seemingly work miracles, even to the bringing down of fire out of heaven in the sight of men.—Selected Messages 2:54 (1907). LDE 167.5
+Những cảnh tượng kỳ lạ, mà Sa-tan sẽ liên hệ mật thiết, sẽ sớm xảy ra. Lời Đức Chúa Trời tuyên bố rằng Sa-tan sẽ làm các phép lạ. Nó sẽ khiến người ta bị bệnh, rồi đột ngột rút quyền lực sa-tan của nó khỏi họ. Khi ấy người ta sẽ xem là họ đã được chữa lành. Những việc làm có vẻ chữa lành này sẽ đem những người Cơ-đốc Phục Lâm Ngày Thứ Bảy đến chỗ thử thách.—Selected Messages 2:53 (1904). LDE 166.4
 
-“He doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men, and deceiveth them that dwell on the earth by the means of those miracles which he had power to do” (Revelation 13:13, 14). No mere impostures are here foretold. Men are deceived by the miracles which Satan’s agents have power to do, not which they pretend to do.—The Great Controversy, 553 (1911). LDE 168.1
+Sa-tan có thể, qua một loại lừa dối, làm nên những điều kỳ diệu mà trông như những phép lạ thật. Đây chính là điều nó đã hy vọng biến thành một vấn đề thử thách với dân Y-sơ-ra-ên vào thời họ được giải cứu khỏi Ê-díp-tô.—Selected Messages 2:52 (1907). LDE 167.1
 
-## Satan Will Be Deified
+## Lửa Từ Trời
 
-In this age antichrist will appear as the true Christ, and then the law of God will be fully made void in the nations of our world. Rebellion against God’s holy law will be fully ripe. But the true leader of all this rebellion is Satan clothed as an angel of light. Men will be deceived and will exalt him to the place of God, and deify him. But Omnipotence will interpose, and to the apostate churches that unite in the exaltation of Satan, the sentence will go forth, “Therefore shall her plagues come in one day, death, and mourning, and famine; and she shall be utterly burned with fire: for strong is the Lord God who judgeth her” [Revelation 18:8].—Testimonies to Ministers and Gospel Workers, 62 (1893). LDE 168.2
+Chúng ta chớ nên tin cậy vào những lời tuyên bố của loài người. Như Đấng Christ đã mô tả, họ có thể tuyên bố làm phép lạ chữa lành kẻ đau. Có gì lạ khi đứng ngay sau lưng họ là kẻ lừa dối vĩ đại, kẻ làm phép lạ là kẻ sẽ khiến lửa từ trời sa xuống trước mắt loài người?—Selected Messages 2:49 (1887). LDE 167.2
 
-As the second appearing of our Lord Jesus Christ draws near, satanic agencies are moved from beneath. Satan will not only appear as a human being, but he will personate Jesus Christ, and the world that has rejected the truth will receive him as the Lord of lords and King of kings.—The S.D.A. Bible Commentary 5:1105, 1106 (1900). LDE 168.3
+Chính những phép lạ giả dối của ma quỷ sẽ chiếm lấy thế gian làm tù binh, và nó sẽ khiến lửa từ trời sa xuống trước mắt loài người. Nó sẽ làm phép lạ, và quyền năng làm phép lạ kỳ diệu này sẽ tràn lan khắp thế gian.—Selected Messages 2:51 (1890). LDE 167.3
 
-## Miracles Prove Nothing
+Sa-tan sẽ đến để lừa dối, nếu có thể được, ngay cả những người được chọn. Nó tuyên bố mình là Đấng Christ, và nó đang đến, giả vờ là vị giáo sĩ y khoa vĩ đại. Nó sẽ khiến lửa từ trời sa xuống trước mắt loài người để chứng tỏ rằng nó là Đức Chúa Trời.—Medical Ministry, 87, 88 (1903). LDE 167.4
 
-Go to God for yourselves, pray for divine enlightenment, that you may know that you do know what is truth, that when the wonderful miracle-working power shall be displayed, and the enemy shall come as an angel of light, you may distinguish between the genuine work of God and the imitative work of the powers of darkness.—Selected Messages 3:389 (1888). LDE 169.1
+Lời Đức Chúa Trời tuyên bố rằng kẻ thù nghịch sẽ hành động thông qua các tay sai của nó, là những kẻ đã từ bỏ đức tin, và bề ngoài chúng dường như sẽ làm các phép lạ, thậm chí khiến lửa từ trời sa xuống trước mắt loài người.—Selected Messages 2:54 (1907). LDE 167.5
 
-The way in which Christ worked was to preach the Word, and to relieve suffering by miraculous works of healing. But I am instructed that we cannot now work in this way, [Miracles will accompany the ministry of God’s people under the loud cry (see Chapter 14), but they will not have the significance they did in Christ’s day. The performing of miracles will no longer be a proof of divine endorsement.] for Satan will exercise his power by working miracles. God’s servants today could not work by means of miracles, because spurious works of healing, claiming to be divine, will be wrought.—Selected Messages 2:54 (1904). LDE 169.2
+> "Nó làm những phép lạ lớn, đến nỗi khiến lửa từ trên trời rơi xuống đất trước mặt người ta. Nó lừa dối dân cư trên đất bằng những phép lạ nó đã được phép làm ra trước mặt con thú; và khuyên dân cư trên đất tạc tượng cho con thú đã bị thương bằng gươm và đã sống lại."
+> <cite>(Khải-huyền 13:13-14)</cite>
 
-God’s people will not find their safety in working miracles, for Satan will counterfeit the miracles that will be wrought.—Testimonies for the Church 9:16 (1909). LDE 169.3
+Đây không phải chỉ là những trò lừa bịp đơn thuần được báo trước. Loài người bị lừa dối bởi những phép lạ mà các tay sai của Sa-tan có quyền năng để làm, chứ không phải những phép lạ mà chúng giả vờ làm.—The Great Controversy, 553 (1911). LDE 168.1
 
-## Miracles Cannot Supersede the Bible
+## Sa-tan Sẽ Được Tôn Lên Làm Thần
 
-If those through whom cures are performed are disposed, on account of these manifestations, to excuse their neglect of the law of God and continue in disobedience, though they have power to any and every extent, it does not follow that they have the great power of God. On the contrary, it is the miracle-working power of the great deceiver.—Selected Messages 2:50, 51 (1885). LDE 169.4
+Trong thời đại này, kẻ địch lại Đấng Christ sẽ xuất hiện như là Đấng Christ thật, và lúc ấy luật pháp Đức Chúa Trời sẽ bị hoàn toàn vô hiệu hóa nơi các quốc gia trong thế giới chúng ta. Sự phản nghịch chống lại luật pháp thánh của Đức Chúa Trời sẽ chín muồi hoàn toàn. Nhưng kẻ cầm đầu thật sự của tất cả sự phản nghịch này chính là Sa-tan đội lốt một thiên sứ sáng láng. Loài người sẽ bị lừa dối và sẽ tôn nó lên vị trí của Đức Chúa Trời, và tôn nó làm thần. Nhưng Đấng Toàn Năng sẽ can thiệp, và đối với các hội thánh bội đạo cùng nhau hiệp lại tôn cao Sa-tan, bản án sẽ được tuyên ra:
 
-The Bible will never be superseded by miraculous manifestations. The truth must be studied, it must be searched for as hidden treasure. Wonderful illuminations will not be given aside from the Word or to take the place of it. Cling to the Word, receive the engrafted Word which will make men wise unto salvation.—Selected Messages 2:48 (1894). LDE 170.1
+> "Vậy cho nên đồng trong một ngày, những tai nạn này sẽ giáng trên nó, nào sự chết, nào sự than khóc, nào đói kém, và nó sẽ bị lửa thiêu mình đi nữa; vì Đức Chúa Trời phán xét nó là Chúa có quyền lực."
+> <cite>(Khải-huyền 18:8)</cite>
 
-The last great delusion is soon to open before us. Antichrist is to perform his marvelous works in our sight. So closely will the counterfeit resemble the true that it will be impossible to distinguish between them except by the Holy Scriptures. By their testimony every statement and every miracle must be tested.—The Great Controversy, 593 (1911). LDE 170.2
+—Testimonies to Ministers and Gospel Workers, 62 (1893). LDE 168.2
 
-## The Deception Is Almost Universal
+Khi sự tái lâm của Chúa Đức Chúa Giê-su chúng ta đến gần, các thế lực của Sa-tan từ bên dưới được khuấy động. Sa-tan không những sẽ xuất hiện như là một con người, nhưng nó còn sẽ giả mạo Đức Chúa Giê-su, và thế gian là nơi đã chối bỏ lẽ thật sẽ tiếp nhận nó như là Chúa của các chúa và Vua của các vua.—The S.D.A. Bible Commentary 5:1105, 1106 (1900). LDE 168.3
 
-There is now need of earnest, working men and women who will seek for the salvation of souls, for Satan as a powerful general has taken the field, and in this last remnant of time he is working through all conceivable methods to close the door against light that God would have come to His people. He is sweeping the whole world into his ranks, and the few who are faithful to God’s requirements are the only ones who can ever withstand him, and even these he is trying to overcome.—Selected Messages 3:389 (1889). LDE 170.3
+## Phép Lạ Không Chứng Minh Điều Gì
 
-The forms of the dead will appear, through the cunning device of Satan, and many will link up with the one who loveth and maketh a lie. I warn our people that right among us some will turn away from the faith and give heed to seducing spirits and doctrines of devils, and by them the truth will be evil spoken of. LDE 171.1
+Hãy tự mình đến với Đức Chúa Trời, hãy cầu nguyện xin sự soi sáng từ trời, để các bạn có thể biết rằng các bạn thật sự biết đâu là chân lý, hầu cho khi quyền năng làm phép lạ kỳ diệu được phô bày, và kẻ thù đến như một thiên sứ sáng láng, các bạn có thể phân biệt được giữa công việc chân thật của Đức Chúa Trời và công việc bắt chước của các quyền lực bóng tối.—Selected Messages 3:389 (1888). LDE 169.1
 
-A marvelous work shall take place. Ministers, lawyers, doctors, who have permitted these falsehoods to overmaster their spirit of discernment, will be themselves deceivers, united with the deceived. A spiritual drunkenness will take possession of them.—The Upward Look, 317 (1905). LDE 171.2
+Phương cách mà Đấng Christ đã làm là rao giảng Lời Đức Chúa Trời, và giải cứu sự đau khổ bằng những phép lạ chữa bệnh. Nhưng tôi được chỉ dạy rằng ngày nay chúng ta không thể làm việc theo cách ấy, [Phép lạ sẽ đi kèm với chức vụ của dân sự Đức Chúa Trời dưới tiếng kêu lớn (xem Chương 14), nhưng chúng sẽ không có ý nghĩa như trong thời của Đấng Christ. Việc làm phép lạ sẽ không còn là bằng chứng cho sự chuẩn nhận của Đức Chúa Trời nữa.] vì Sa-tan sẽ thi thố quyền năng của hắn bằng cách làm phép lạ. Các tôi tớ của Đức Chúa Trời ngày nay không thể làm việc bằng phương tiện phép lạ, vì những công việc chữa bệnh giả mạo, mạo nhận là thiêng liêng, sẽ được thực hiện.—Selected Messages 2:54 (1904). LDE 169.2
+
+Dân sự Đức Chúa Trời sẽ không tìm được sự an toàn của mình trong việc làm phép lạ, vì Sa-tan sẽ làm giả những phép lạ sẽ được thực hiện.—Testimonies for the Church 9:16 (1909). LDE 169.3
+
+## Phép Lạ Không Thể Thay Thế Kinh Thánh
+
+Nếu những người mà qua họ các phép chữa lành được thực hiện, do bởi những biểu hiện này, lại có khuynh hướng bào chữa cho việc xao lãng luật pháp Đức Chúa Trời và tiếp tục trong sự bất tuân, dù họ có quyền năng đến bất kỳ mức độ nào, điều đó không có nghĩa là họ có quyền năng lớn lao của Đức Chúa Trời. Trái lại, đó là quyền năng làm phép lạ của kẻ lừa dối lớn.—Selected Messages 2:50, 51 (1885). LDE 169.4
+
+Kinh Thánh sẽ không bao giờ bị thay thế bởi những biểu hiện phép lạ. Lẽ thật phải được nghiên cứu, phải được tìm kiếm như kho báu giấu kín. Những sự soi sáng kỳ diệu sẽ không được ban cho ngoài Lời Đức Chúa Trời hoặc để thay thế Lời ấy. Hãy bám chặt vào Lời, hãy tiếp nhận Lời đã được trồng vào lòng, là Lời sẽ khiến con người trở nên khôn ngoan để được cứu rỗi.—Selected Messages 2:48 (1894). LDE 170.1
+
+Sự lừa dối lớn cuối cùng sắp được mở ra trước mắt chúng ta. Kẻ địch lại Đấng Christ sẽ làm những công việc kỳ diệu của hắn ngay trước mắt chúng ta. Sự giả mạo sẽ giống thật đến nỗi không thể nào phân biệt được giữa chúng ngoại trừ nhờ Kinh Thánh. Bởi lời chứng của Kinh Thánh, mọi tuyên bố và mọi phép lạ đều phải được thử nghiệm.—The Great Controversy, 593 (1911). LDE 170.2
+
+## Sự Lừa Dối Gần Như Phổ Quát
+
+Hiện nay rất cần những người nam và người nữ nhiệt thành, chăm chỉ làm việc để tìm kiếm sự cứu rỗi cho các linh hồn, vì Sa-tan như một viên tướng đầy quyền lực đã ra trận, và trong khoảng thời gian sót lại cuối cùng này, hắn đang dùng mọi phương cách có thể tưởng tượng được để đóng cánh cửa ngăn chặn ánh sáng mà Đức Chúa Trời muốn ban cho dân sự Ngài. Hắn đang lôi kéo cả thế gian vào hàng ngũ của hắn, và chỉ có một số ít người trung thành với những đòi hỏi của Đức Chúa Trời mới có thể chống cự lại hắn, mà ngay cả những người này hắn cũng đang tìm cách đánh bại.—Selected Messages 3:389 (1889). LDE 170.3
+
+Qua mưu kế xảo quyệt của Sa-tan, những hình bóng của người chết sẽ xuất hiện, và nhiều người sẽ liên kết với kẻ ưa thích và làm điều dối trá. Tôi cảnh báo dân sự chúng ta rằng ngay giữa vòng chúng ta sẽ có một số người lìa bỏ đức tin và lưu ý đến các thần lừa dối cùng những đạo lý của ma quỷ, và do bởi họ mà lẽ thật sẽ bị nói xấu. LDE 171.1
+
+Một việc kỳ lạ sẽ xảy ra. Các mục sư, luật sư, bác sĩ, là những người đã để cho các điều giả dối này lấn át tinh thần phân biệt của mình, chính họ sẽ trở thành những kẻ lừa dối, liên kết với những kẻ bị lừa dối. Một sự say sưa thuộc linh sẽ chiếm hữu họ.—The Upward Look, 317 (1905). LDE 171.2

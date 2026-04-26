@@ -10,130 +10,148 @@ summary: ""
 draft: true
 ---
 
-## Only Two Classes
+## Chỉ Có Hai Hạng Người
 
-There can be only two classes. Each party is distinctly stamped, either with the seal of the living God, or with the mark of the beast or his image.—The Review and Herald, January 30, 1900. LDE 215.1
+Chỉ có thể có hai hạng người. Mỗi bên đều được đóng dấu rõ rệt, hoặc bằng ấn của Đức Chúa Trời hằng sống, hoặc bằng dấu của con thú hay hình tượng của nó.—The Review and Herald, ngày 30 tháng Giêng, 1900. LDE 215.1
 
-In the great conflict between faith and unbelief the whole Christian world will be involved. All will take sides. Some apparently may not engage in the conflict on either side. They may not appear to take sides against the truth, but they will not come out boldly for Christ through fear of losing property or suffering reproach. All such are numbered with the enemies of Christ.—The Review and Herald, February 7, 1893. LDE 215.2
+Trong cuộc xung đột vĩ đại giữa đức tin và sự vô tín, toàn thể thế giới Cơ-đốc sẽ bị cuốn vào. Tất cả sẽ phải chọn phe. Một số người dường như có thể không tham gia vào cuộc xung đột ở bên nào cả. Họ có thể không tỏ ra chống lại lẽ thật, nhưng họ cũng sẽ không mạnh dạn đứng về phía Đấng Christ vì sợ mất tài sản hoặc chịu sỉ nhục. Tất cả những người như vậy đều được kể chung với các kẻ thù của Đấng Christ.—The Review and Herald, ngày 7 tháng Hai, 1893. LDE 215.2
 
-As we near the close of time the demarcation between the children of light and the children of darkness will be more and more decided. They will be more and more at variance. This difference is expressed in the words of Christ, “born again”—created anew in Christ, dead to the world, and alive unto God. These are the walls of separation that divide the heavenly from the earthly and describe the difference between those who belong to the world and those who are chosen out of it, who are elect, precious in the sight of God.—Special Testimony to the Battle Creek Church (Ph 155), 3 (1882). LDE 215.3
+Khi chúng ta tiến đến gần thời kỳ kết thúc, ranh giới phân định giữa con cái của sự sáng và con cái của sự tối tăm sẽ ngày càng rõ rệt hơn. Họ sẽ ngày càng khác biệt với nhau hơn. Sự khác biệt này được bày tỏ qua lời của Đấng Christ, "được sanh lại"—được tạo nên mới trong Đấng Christ, chết đối với thế gian và sống cho Đức Chúa Trời. Đây là những bức tường ngăn cách phân chia giữa thiên thượng và thế gian, và mô tả sự khác biệt giữa những người thuộc về thế gian và những người được chọn ra khỏi nó, là những người được tuyển chọn, quý báu trước mặt Đức Chúa Trời.—Special Testimony to the Battle Creek Church (Ph 155), 3 (1882). LDE 215.3
 
-## Family Members Are Separated
+## Các thành viên trong gia đình bị phân ly
 
-Those who have been members of the same family are separated. A mark is placed upon the righteous. “They shall be Mine, saith the Lord of hosts, in that day when I make up My jewels; and I will spare them, as a man spareth his own son that serveth him” [Malachi 3:17]. Those who have been obedient to God’s commandments will unite with the company of the saints in light. They shall enter in through the gates into the city, and have right to the tree of life. LDE 216.1
+Những người vốn là thành viên của cùng một gia đình bị phân ly. Một dấu hiệu được đặt trên những người công bình.
 
-“The one shall be taken.” His name shall stand in the book of life, while those with whom he associated shall have the mark of eternal separation from God.—Testimonies to Ministers and Gospel Workers, 234, 235 (1895). LDE 216.2
+> "Đức Giê-hô-va vạn quân phán: Những kẻ ấy sẽ thuộc về ta, làm cơ nghiệp riêng của ta trong ngày ta làm; và ta sẽ tiếc chúng nó như một người tiếc con trai mình hầu việc mình."
+> <cite>(Ma-la-chi 3:17)</cite>
 
-## Judged by the Light We Have Received
+Những ai đã vâng giữ các điều răn của Đức Chúa Trời sẽ hiệp cùng đoàn thể các thánh đồ trong sự sáng. Họ sẽ bước qua các cổng để vào thành, và có quyền hưởng cây sự sống. LDE 216.1
 
-Many who have not had the privileges that we have had will go into heaven before those who have had great light and who have not walked in it. Many have lived up to the best light they have had and will be judged accordingly.—Letter 36, 1895. LDE 216.3
+"Một người được rước đi". Tên người ấy sẽ được ghi trong sách sự sống, trong khi những kẻ từng cộng tác với người ấy sẽ mang dấu hiệu của sự phân ly đời đời khỏi Đức Chúa Trời.—Testimonies to Ministers and Gospel Workers, 234, 235 (1895). LDE 216.2
 
-All must wait for the appointed time, until the warning shall have gone to all parts of the world, until sufficient light and evidence have been given to every soul. Some will have less light than others, but each one will be judged according to the light received.—Manuscript 77, 1899. LDE 217.1
+## Được Phán Xét Theo Ánh Sáng Mà Chúng Ta Đã Nhận Lãnh
 
-We have been given great light in regard to God’s law. This law is the standard of character. To it man is now required to conform, and by it he will be judged in the last great day. In that day men will be dealt with according to the light they have received.—The Gospel Herald, January, 1901 (Supplement). LDE 217.2
+Nhiều người chưa từng có những đặc ân mà chúng ta đã có sẽ vào thiên đàng trước những người đã nhận được nhiều ánh sáng lớn lao nhưng đã không bước đi trong ánh sáng ấy. Nhiều người đã sống theo ánh sáng tốt nhất mà họ có được và sẽ được phán xét tương xứng.—Letter 36, 1895. LDE 216.3
 
-Those who have had great light and have disregarded it stand in a worse position than those who have not been given so many advantages. They exalt themselves but not the Lord. The punishment inflicted on human beings will in every case be proportionate to the dishonor they have brought on God.—Manuscript Releases 8:168 (1901). LDE 217.3
+Mọi người đều phải chờ đợi cho đến thời điểm đã định, cho đến khi lời cảnh báo đã được rao truyền đến mọi nơi trên thế giới, cho đến khi ánh sáng và bằng chứng đầy đủ đã được ban cho mỗi linh hồn. Một số người sẽ có ít ánh sáng hơn người khác, nhưng mỗi người sẽ được phán xét theo ánh sáng đã nhận được.—Manuscript 77, 1899. LDE 217.1
 
-Everyone is to have sufficient light to make his decision intelligently.—The Great Controversy, 605 (1911). LDE 217.4
+Chúng ta đã được ban cho ánh sáng lớn lao về luật pháp Đức Chúa Trời. Luật pháp này là tiêu chuẩn của phẩm hạnh. Hiện nay, con người được đòi hỏi phải làm theo luật pháp ấy, và sẽ bị phán xét bởi luật pháp ấy trong ngày lớn cuối cùng. Trong ngày đó, con người sẽ bị xử lý theo ánh sáng mà họ đã nhận lãnh.—The Gospel Herald, January, 1901 (Supplement). LDE 217.2
 
-## No Excuse for Willful Blindness
+Những ai đã nhận được nhiều ánh sáng lớn lao nhưng coi thường ánh sáng đó thì ở trong địa vị tồi tệ hơn những người không được ban cho nhiều lợi thế như vậy. Họ tôn cao chính mình chứ không tôn cao Chúa. Hình phạt giáng trên loài người trong mọi trường hợp sẽ tương xứng với sự sỉ nhục mà họ đã gây ra cho Đức Chúa Trời.—Manuscript Releases 8:168 (1901). LDE 217.3
 
-None will be condemned for not heeding light and knowledge that they never had, and they could not obtain. But many refuse to obey the truth that is presented to them by Christ’s ambassadors, because they wish to conform to the world’s standard, and the truth that has reached their understanding, the light that has shone in the soul, will condemn them in the judgment.—The S.D.A. Bible Commentary 5:1145 (1884). LDE 217.5
+Mỗi người sẽ có đủ ánh sáng để đưa ra quyết định một cách sáng suốt.—The Great Controversy, 605 (1911). LDE 217.4
 
-Those who have an opportunity to hear the truth and yet take no pains to hear or understand it, thinking that if they do not hear they will not be accountable, will be judged guilty before God the same as if they had heard and rejected. There will be no excuse for those who choose to go in error when they might understand what is truth. In His sufferings and death Jesus has made atonement for all sins of ignorance, but there is no provision made for willful blindness. LDE 218.1
+## Không Có Cớ Cho Sự Mù Quáng Cố Ý
 
-We shall not be held accountable for the light that has not reached our perception, but for that which we have resisted and refused. A man could not apprehend the truth which had never been presented to him, and therefore could not be condemned for light he had never had.—The S.D.A. Bible Commentary 5:1145 (1893). LDE 218.2
+Không ai sẽ bị kết án vì không lưu tâm đến ánh sáng và sự hiểu biết mà họ chưa từng có và không thể có được. Nhưng nhiều người từ chối vâng theo lẽ thật được trình bày cho họ bởi các sứ giả của Đấng Christ, vì họ muốn rập khuôn theo tiêu chuẩn của thế gian, và lẽ thật đã đến với sự hiểu biết của họ, ánh sáng đã chiếu sáng trong linh hồn họ, sẽ kết án họ trong sự phán xét.—The S.D.A. Bible Commentary 5:1145 (1884). LDE 217.5
 
-## The Importance of Practical Benevolence
+Những ai có cơ hội nghe lẽ thật mà không chịu khó nghe hay hiểu lẽ thật ấy, nghĩ rằng nếu không nghe thì sẽ không phải chịu trách nhiệm, sẽ bị xét là có tội trước mặt Đức Chúa Trời như thể họ đã nghe và đã chối bỏ. Sẽ không có lời bào chữa nào cho những kẻ chọn đi trong sự sai lầm trong khi họ có thể hiểu được điều gì là lẽ thật. Trong sự thống khổ và sự chết của Ngài, Đức Chúa Giê-su đã thực hiện sự chuộc tội cho mọi tội lỗi do sự ngu dốt, nhưng không có sự dự liệu nào dành cho sự mù quáng cố ý. LDE 218.1
 
-The decisions of the last day turn upon our practical benevolence. Christ acknowledges every act of beneficence as done to Himself.—Testimonies to Ministers and Gospel Workers, 400 (1896). LDE 218.3
+Chúng ta sẽ không phải chịu trách nhiệm về ánh sáng chưa đến với nhận thức của mình, nhưng về ánh sáng mà chúng ta đã chống cự và từ chối. Một người không thể nắm bắt được lẽ thật chưa bao giờ được trình bày cho mình, và do đó không thể bị kết án vì ánh sáng mà người ấy chưa từng có.—The S.D.A. Bible Commentary 5:1145 (1893). LDE 218.2
 
-When the nations are gathered before Him, there will be but two classes, and their eternal destiny will be determined by what they have done or have neglected to do for Him in the person of the poor and suffering.... LDE 218.4
+## Tầm Quan Trọng Của Lòng Nhân Từ Thực Tiễn
 
-Among the heathen are those who worship God ignorantly, those to whom the light is never brought by human instrumentality, yet they will not perish. Though ignorant of the written law of God, they have heard His voice speaking to them in nature, and have done the things that the law required. Their works are evidence that the Holy Spirit has touched their hearts, and they are recognized as the children of God. LDE 218.5
+Những quyết định trong ngày sau rốt sẽ tùy thuộc vào lòng nhân từ thực tiễn của chúng ta. Đấng Christ công nhận mỗi hành động nhân từ như được làm cho chính Ngài.—Testimonies to Ministers and Gospel Workers, 400 (1896). LDE 218.3
 
-How surprised and gladdened will be the lowly among the nations, and among the heathen, to hear from the lips of the Saviour, “Inasmuch as ye have done it unto one of the least of these My brethren, ye have done it unto Me”! How glad will be the heart of Infinite Love as His followers look up with surprise and joy at His words of approval!—The Desire of Ages, 637, 638 (1898). LDE 219.1
+Khi các dân tộc được nhóm lại trước mặt Ngài, sẽ chỉ có hai hạng người, và số phận đời đời của họ sẽ được quyết định bởi những gì họ đã làm hoặc đã bỏ qua không làm cho Ngài qua những kẻ nghèo khó và đau khổ.... LDE 218.4
 
-## Motive Gives Character to Actions
+Trong vòng những người ngoại đạo có những kẻ thờ phượng Đức Chúa Trời cách vô tri, những kẻ chưa bao giờ được ánh sáng đem đến qua phương tiện loài người, nhưng họ sẽ không hư mất. Dù không biết đến luật pháp thành văn của Đức Chúa Trời, họ đã nghe tiếng Ngài phán với họ qua thiên nhiên, và đã làm những điều mà luật pháp đòi hỏi. Việc làm của họ là bằng chứng cho thấy Đức Thánh Linh đã chạm đến lòng họ, và họ được nhìn nhận là con cái của Đức Chúa Trời. LDE 218.5
 
-In the day of judgment some will plead this good deed and that as a reason why they should receive consideration. They will say, “I set up young men in business. I gave money to found hospitals. I relieved the necessities of widows, and took the poor into my home.” Yes, but your motives were so defiled by selfishness that the deed was not acceptable in the sight of the Lord. In all that you did, self was brought prominently to view.—Manuscript 53, 1906. LDE 219.2
+Những kẻ hèn mọn trong các dân tộc và trong vòng những người ngoại đạo sẽ ngạc nhiên và vui mừng biết bao khi nghe từ môi của Đấng Cứu Thế rằng: "Quả thật, ta nói cùng các ngươi, hễ các ngươi đã làm việc đó cho một người trong những người rất hèn mọn nầy của anh em ta, ấy là đã làm cho chính mình ta vậy"! Lòng của Tình Yêu Vô Hạn sẽ vui mừng biết bao khi những kẻ theo Ngài ngước nhìn lên với sự ngạc nhiên và vui mừng trước những lời chấp nhận của Ngài!—The Desire of Ages, 637, 638 (1898). LDE 219.1
 
-It is the motive that gives character to our acts, stamping them with ignominy or with high moral worth.—The Desire of Ages, 615 (1898). LDE 219.3
+## Động Cơ Đem Lại Phẩm Chất Cho Hành Động
 
-## What the Seal of God Is
+Trong ngày phán xét, một số người sẽ viện lý do về việc tốt này việc tốt nọ làm cớ để được xem xét. Họ sẽ nói: "Tôi đã giúp các thanh niên lập nghiệp. Tôi đã dâng tiền để xây bệnh viện. Tôi đã cấp đỡ những kẻ góa bụa, và tiếp đón người nghèo vào nhà tôi." Phải, nhưng động cơ của ngươi đã bị ô uế bởi lòng vị kỷ đến nỗi việc làm ấy không được chấp nhận trước mặt Chúa. Trong mọi điều ngươi đã làm, cái tôi đã được phô bày một cách nổi bật.—Manuscript 53, 1906. LDE 219.2
 
-Just as soon as the people of God are sealed in their foreheads—it is not any seal or mark that can be seen, but a settling into the truth, both intellectually and spiritually, so they cannot be moved—just as soon as God’s people are sealed and prepared for the shaking, it will come. Indeed, it has begun already.—The S.D.A. Bible Commentary 4:1161 (1902). LDE 219.4
+Chính động cơ đem lại phẩm chất cho hành động của chúng ta, đóng dấu chúng bằng sự ô nhục hay bằng giá trị đạo đức cao quý.—The Desire of Ages, 615 (1898). LDE 219.3
 
-The seal of the living God is placed upon those who conscientiously keep the Sabbath of the Lord.—The S.D.A. Bible Commentary 7:980 (1897). [This statement and others like it should be understood in the light of passages quoted earlier in the chapter, indicating that God holds people responsible only for the knowledge they have or which they could obtain.] LDE 220.1
+## Ấn Của Đức Chúa Trời Là Gì
 
-Those who would have the seal of God in their foreheads must keep the Sabbath of the fourth commandment.—The S.D.A. Bible Commentary 7:970 (1899). LDE 220.2
+Ngay khi dân sự của Đức Chúa Trời được đóng ấn trên trán họ — đó không phải là một ấn hay dấu nào có thể thấy được, mà là sự an định trong lẽ thật, cả về mặt trí tuệ lẫn thuộc linh, đến nỗi họ không thể bị lay chuyển — ngay khi dân sự của Đức Chúa Trời được đóng ấn và chuẩn bị cho sự rung chuyển, thì nó sẽ đến. Thật vậy, nó đã bắt đầu rồi. — The S.D.A. Bible Commentary 4:1161 (1902). LDE 219.4
 
-True observance of the Sabbath is the sign of loyalty to God.—The S.D.A. Bible Commentary 7:981 (1899). LDE 220.3
+Ấn của Đức Chúa Trời hằng sống được đặt trên những người tận tâm giữ ngày Sa-bát của Chúa. — The S.D.A. Bible Commentary 7:980 (1897). [Lời tuyên bố này và những lời tương tự nên được hiểu trong ánh sáng của các đoạn đã trích dẫn trước đó trong chương, cho thấy rằng Đức Chúa Trời chỉ buộc con người chịu trách nhiệm về sự hiểu biết mà họ có hoặc có thể có được.] LDE 220.1
 
-The fourth commandment alone of all the ten contains the seal of the great Lawgiver, the Creator of the heavens and the earth.—Testimonies for the Church 6:350 (1900). LDE 220.4
+Những ai muốn có ấn của Đức Chúa Trời trên trán mình phải giữ ngày Sa-bát theo điều răn thứ tư. — The S.D.A. Bible Commentary 7:970 (1899). LDE 220.2
 
-The observance of the Lord’s memorial, the Sabbath instituted in Eden, the seventh-day Sabbath, is the test of our loyalty to God.—Letter 94, 1900. LDE 220.5
+Sự tuân giữ chân chính ngày Sa-bát là dấu hiệu của lòng trung thành với Đức Chúa Trời. — The S.D.A. Bible Commentary 7:981 (1899). LDE 220.3
 
-A mark is placed upon every one of God’s people, just as verily as a mark was placed over the doors of the Hebrew dwellings to preserve the people from the general ruin. God declares, “I gave them My sabbaths, to be a sign between Me and them, that they might know that I am the Lord that sanctify them” [Ezekiel 20:12].—The S.D.A. Bible Commentary 7:969 (1900). LDE 220.6
+Trong cả mười điều răn, chỉ riêng điều răn thứ tư chứa đựng ấn của Đấng Lập Pháp vĩ đại, Đấng Tạo Hóa của trời và đất. — Testimonies for the Church 6:350 (1900). LDE 220.4
 
-## A Likeness to Christ in Character
+Sự tuân giữ kỷ niệm của Chúa, ngày Sa-bát được thiết lập trong Ê-đen, ngày Sa-bát thứ bảy, là sự thử thách lòng trung thành của chúng ta đối với Đức Chúa Trời. — Letter 94, 1900. LDE 220.5
 
-The seal of the living God will be placed upon those only who bear a likeness to Christ in character.—The S.D.A. Bible Commentary 7:970 (1895). LDE 221.1
+Một dấu được đặt trên mỗi người trong dân sự của Đức Chúa Trời, cũng thật y như một dấu đã được đặt trên cửa các nhà của người Hê-bơ-rơ để gìn giữ dân sự khỏi sự hủy diệt chung. Đức Chúa Trời phán:
 
-Those who receive the seal of the living God and are protected in the time of trouble must reflect the image of Jesus fully.—Early Writings, 71 (1851). LDE 221.2
+> "Ta cũng cho chúng nó những ngày sa-bát ta làm một dấu giữa ta và chúng nó, đặng chúng nó biết rằng ta là Đức Giê-hô-va biệt chúng nó ra thánh."
+> <cite>(Ê-xê-chi-ên 20:12)</cite>
 
-The seal of God will never be placed upon the forehead of an impure man or woman. It will never be placed upon the forehead of the ambitious, world-loving man or woman. It will never be placed upon the forehead of men or women of false tongues or deceitful hearts. All who receive the seal must be without spot before God—candidates for heaven.—Testimonies for the Church 5:216 (1882). LDE 221.3
+— The S.D.A. Bible Commentary 7:969 (1900). LDE 220.6
 
-Love is expressed in obedience, and perfect love casteth out all fear. Those who love God, have the seal of God in their foreheads, and work the works of God.—Sons and Daughters of God, 51 (1894). LDE 221.4
+## Một tính cách giống Đấng Christ
 
-Those that overcome the world, the flesh, and the devil, will be the favored ones who shall receive the seal of the living God.—Testimonies to Ministers and Gospel Workers, 445 (c. 1886). LDE 221.5
+Ấn của Đức Chúa Trời hằng sống sẽ chỉ được đóng trên những ai mang tính cách giống Đấng Christ.—The S.D.A. Bible Commentary 7:970 (1895). LDE 221.1
 
-Are we striving with all our God-given powers to reach the measure of the stature of men and women in Christ? Are we seeking for His fullness, ever reaching higher and higher, trying to attain to the perfection of His character? When God’s servants reach this point, they will be sealed in their foreheads. The recording angel will declare, “It is done.” They will be complete in Him whose they are by creation and by redemption.—Selected Messages 3:427 (1899). LDE 222.1
+Những ai nhận được ấn của Đức Chúa Trời hằng sống và được bảo vệ trong cơn đại nạn phải phản chiếu hình ảnh của Đức Chúa Giê-su cách trọn vẹn.—Early Writings, 71 (1851). LDE 221.2
 
-## In the Sealing Time Now
+Ấn của Đức Chúa Trời sẽ không bao giờ được đóng trên trán của một người nam hay người nữ ô uế. Nó sẽ không bao giờ được đóng trên trán của người nam hay người nữ tham vọng, yêu mến thế gian. Nó sẽ không bao giờ được đóng trên trán của những người nam hay người nữ có lưỡi giả dối hoặc lòng dạ lừa lọc. Tất cả những ai nhận được ấn đều phải không tì vết trước mặt Đức Chúa Trời—những ứng viên cho thiên đàng.—Testimonies for the Church 5:216 (1882). LDE 221.3
 
-I saw that the present test on the Sabbath could not come until the mediation of Jesus in the holy place was finished and He had passed within the second veil; therefore Christians who fell asleep before the door was opened into the most holy, when the midnight cry was finished, at the seventh month, 1844, and who had not kept the true Sabbath, now rest in hope, for they had not the light and the test on the Sabbath which we now have since that door was opened. I saw that Satan was tempting some of God’s people on this point. Because so many good Christians have fallen asleep in the triumphs of faith and have not kept the true Sabbath, they were doubting about its being a test for us now.... LDE 222.2
+Tình yêu thương được bày tỏ qua sự vâng lời, và tình yêu thương trọn vẹn cất bỏ mọi sự sợ hãi. Những ai yêu mến Đức Chúa Trời, có ấn của Đức Chúa Trời trên trán mình, và làm những công việc của Đức Chúa Trời.—Sons and Daughters of God, 51 (1894). LDE 221.4
 
-Satan is now using every device in this sealing time to keep the minds of God’s people from the present truth and to cause them to waver.—Early Writings, 42, 43 (1851). LDE 222.3
+Những ai chiến thắng thế gian, xác thịt và ma quỷ sẽ là những người được biệt đãi để nhận lãnh ấn của Đức Chúa Trời hằng sống.—Testimonies to Ministers and Gospel Workers, 445 (c. 1886). LDE 221.5
 
-I saw that she [Mrs. Hastings] was sealed and would come up at the voice of God and stand upon the earth, and would be with the 144,000. I saw we need not mourn for her; she would rest in the time of trouble.—Selected Messages 2:263 (1850). LDE 222.4
+Chúng ta có đang nỗ lực với tất cả những năng lực mà Đức Chúa Trời đã ban cho để đạt đến tầm vóc của những người nam và người nữ trong Đấng Christ không? Chúng ta có đang tìm kiếm sự đầy trọn của Ngài, không ngừng vươn cao hơn nữa, cố gắng đạt đến sự trọn vẹn của tính cách Ngài không? Khi các tôi tớ của Đức Chúa Trời đạt đến điểm này, họ sẽ được đóng ấn trên trán mình. Thiên sứ ghi chép sẽ tuyên bố: “Xong rồi.” Họ sẽ trở nên trọn vẹn trong Đấng mà họ thuộc về bởi sự sáng tạo và bởi sự cứu chuộc.—Selected Messages 3:427 (1899). LDE 222.1
 
-There are living upon our earth men who have passed the age of fourscore and ten. The natural results of old age are seen in their feebleness. But they believe God, and God loves them. The seal of God is upon them, and they will be among the number of whom the Lord has said, “Blessed are the dead which die in the Lord.”—The S.D.A. Bible Commentary 7:982 (1899). LDE 223.1
+## Trong Thời Kỳ Đóng Ấn Hiện Nay
 
-## Oh, That God’s Seal May Be Placed Upon Us!
+Tôi thấy rằng sự thử nghiệm hiện tại về ngày Sa-bát không thể đến cho đến khi sự cầu thay của Đức Chúa Giê-su trong nơi thánh kết thúc và Ngài đã đi vào trong bức màn thứ hai; vì vậy những người Cơ-đốc đã ngủ trước khi cánh cửa được mở vào nơi chí thánh, khi tiếng kêu lúc nửa đêm chấm dứt, vào tháng thứ bảy năm 1844, và những người đã không giữ ngày Sa-bát thật, giờ đây đang yên nghỉ trong hy vọng, vì họ không có sự sáng và sự thử nghiệm về ngày Sa-bát mà chúng ta hiện đang có kể từ khi cánh cửa đó được mở. Tôi thấy rằng Sa-tan đang cám dỗ một số con dân của Đức Chúa Trời về điểm này. Vì có rất nhiều Cơ-đốc nhân tốt đã ngủ trong sự đắc thắng của đức tin và đã không giữ ngày Sa-bát thật, nên họ nghi ngờ về việc đó có phải là sự thử nghiệm cho chúng ta hiện nay hay không.... LDE 222.2
 
-In a little while every one who is a child of God will have His seal placed upon him. Oh, that it may be placed upon our foreheads! Who can endure the thought of being passed by when the angel goes forth to seal the servants of God in their foreheads?—The S.D.A. Bible Commentary 7:969, 970 (1889). LDE 223.2
+Sa-tan hiện đang sử dụng mọi mưu chước trong thời kỳ đóng ấn này để giữ tâm trí của con dân Đức Chúa Trời khỏi lẽ thật hiện tại và khiến họ dao động.—Early Writings, 42, 43 (1851). LDE 222.3
 
-If the believers in the truth are not sustained by their faith in these comparatively peaceful days, what will uphold them when the grand test comes and the decree goes forth against all those who will not worship the image of the beast and receive his mark in their foreheads or in their hands? This solemn period is not far off. Instead of becoming weak and irresolute, the people of God should be gathering strength and courage for the time of trouble.—Testimonies for the Church 4:251 (1876). LDE 223.3
+Tôi thấy rằng bà ấy [Bà Hastings] đã được đóng ấn và sẽ sống lại khi nghe tiếng của Đức Chúa Trời và sẽ đứng trên đất, và sẽ ở cùng với 144.000 người. Tôi thấy chúng ta không cần phải than khóc cho bà; bà sẽ yên nghỉ trong cơn đại nạn.—Selected Messages 2:263 (1850). LDE 222.4
 
-## What the Mark of the Beast Is
+Trên thế gian của chúng ta đang có những người đã vượt qua tuổi chín mươi. Những hậu quả tự nhiên của tuổi già được thấy nơi sự yếu đuối của họ. Nhưng họ tin cậy Đức Chúa Trời, và Đức Chúa Trời yêu thương họ. Ấn của Đức Chúa Trời ở trên họ, và họ sẽ ở trong số những người mà Chúa đã phán,
 
-John was called to behold a people distinct from those who worship the beast or his image by keeping the first day of the week. The observance of this day is the mark of the beast.—Testimonies to Ministers and Gospel Workers, 133 (1898). LDE 223.4
+> "Tôi nghe có tiếng đến từ trên trời rằng: Hãy viết lấy: Từ rày phước thay cho những người chết là người chết trong Chúa! Đức Thánh Linh phán: Phải, vì những người ấy nghỉ ngơi khỏi sự khó nhọc, và việc làm mình theo sau."
+> <cite>(Khải-huyền 14:13)</cite>
 
-The mark of the beast is the papal sabbath.—Evangelism, 234 (1899). LDE 224.1
+—The S.D.A. Bible Commentary 7:982 (1899). LDE 223.1
 
-When the test comes, it will be clearly shown what the mark of the beast is. It is the keeping of Sunday.—The S.D.A. Bible Commentary 7:980 (1900). LDE 224.2
+## Ôi, Ước Gì Ấn Của Đức Chúa Trời Được Đặt Trên Chúng Ta!
 
-The sign, or seal, of God is revealed in the observance of the seventh-day Sabbath, the Lord’s memorial of creation.... The mark of the beast is the opposite of this—the observance of the first day of the week.—Testimonies for the Church 8:117 (1904). LDE 224.3
+Chỉ một ít lâu nữa, mỗi người nào là con cái Đức Chúa Trời sẽ được đặt ấn của Ngài trên mình. Ôi, ước gì ấn ấy được đặt trên trán chúng ta! Ai có thể chịu đựng nổi ý nghĩ bị bỏ qua khi thiên sứ đi ra để đóng ấn trên trán các tôi tớ của Đức Chúa Trời?—The S.D.A. Bible Commentary 7:969, 970 (1889). LDE 223.2
 
-“He causeth all, both small and great, ... to receive a mark in their right hand, or in their foreheads” (Revelation 13:16). Not only are men not to work with their hands on Sunday, but with their minds are they to acknowledge Sunday as the Sabbath.—Special Testimony to Battle Creek Church (Ph 86), 6, 7 (1897). LDE 224.4
+Nếu những người tin nhận lẽ thật không được nâng đỡ bởi đức tin của họ trong những ngày tương đối bình an này, thì điều gì sẽ nâng đỡ họ khi cuộc thử thách lớn lao đến và sắc lệnh ban ra nghịch cùng tất cả những ai không chịu thờ lạy tượng con thú và nhận dấu của nó trên trán hoặc trên tay họ? Thời kỳ trọng đại này không còn xa nữa. Thay vì trở nên yếu đuối và do dự, dân sự của Đức Chúa Trời phải thâu góp sức mạnh và can đảm cho cơn đại nạn.—Testimonies for the Church 4:251 (1876). LDE 223.3
 
-## When the Mark of the Beast Is Received
+## Dấu Của Con Thú Là Gì
 
-No one has yet received the mark of the beast.—Evangelism, 234 (1899). LDE 224.5
+Giăng được kêu gọi để thấy một dân khác biệt với những người thờ lạy con thú hoặc hình tượng nó bằng cách giữ ngày thứ nhất trong tuần. Việc giữ ngày này là dấu của con thú.—Testimonies to Ministers and Gospel Workers, 133 (1898). LDE 223.4
 
-Sundaykeeping is not yet the mark of the beast, and will not be until the decree goes forth causing men to worship this idol sabbath. The time will come when this day will be the test, but that time has not come yet. The S.D.A. Bible Commentary 7:977 (1899). LDE 224.6
+Dấu của con thú là ngày sa-bát của giáo hoàng.—Evangelism, 234 (1899). LDE 224.1
 
-God has given men the Sabbath as a sign between Him and them as a test of their loyalty. Those who, after the light regarding God’s law comes to them, continue to disobey and exalt human laws above the law of God in the great crisis before us, will receive the mark of the beast.—Evangelism, 235 (1900). LDE 225.1
+Khi sự thử thách đến, sẽ được tỏ rõ dấu của con thú là gì. Đó là sự giữ ngày Chúa Nhật.—The S.D.A. Bible Commentary 7:980 (1900). LDE 224.2
 
-The Sabbath will be the great test of loyalty, for it is the point of truth especially controverted. When the final test shall be brought to bear upon men, then the line of distinction will be drawn between those who serve God and those who serve Him not. LDE 225.2
+Dấu, hay ấn, của Đức Chúa Trời được tỏ ra trong việc tuân giữ ngày Sa-bát thứ bảy, kỷ niệm sự sáng tạo của Chúa.... Dấu của con thú thì ngược lại với điều này—đó là việc giữ ngày thứ nhất trong tuần.—Testimonies for the Church 8:117 (1904). LDE 224.3
 
-While the observance of the false sabbath in compliance with the law of the state, contrary to the fourth commandment, will be an avowal of allegiance to a power that is in opposition to God, the keeping of the true Sabbath, in obedience to God’s law, is an evidence of loyalty to the Creator. While one class, by accepting the sign of submission to earthly powers, receive the mark of the beast, the other, choosing the token of allegiance to divine authority, receive the seal of God.—The Great Controversy, 605 (1911). LDE 225.3
+> "Nó cũng khiến mọi người, nhỏ và lớn, giàu và nghèo, tự chủ và tôi mọi, đều chịu ghi dấu hoặc trên tay hữu, hoặc trên trán,"
+> <cite>(Khải-huyền 13:16)</cite>
 
-## Enforcement of Sunday Observance Is the Test
+Loài người không những không được làm việc bằng tay vào ngày Chúa Nhật, mà còn phải nhìn nhận ngày Chúa Nhật là ngày Sa-bát trong tâm trí họ.—Special Testimony to Battle Creek Church (Ph 86), 6, 7 (1897). LDE 224.4
 
-None are condemned until they have had the light and have seen the obligation of the fourth commandment. But when the decree shall go forth enforcing the counterfeit sabbath, and the loud cry of the third angel shall warn men against the worship of the beast and his image, the line will be clearly drawn between the false and the true. Then those who still continue in transgression will receive the mark of the beast.—Evangelism, 234, 235 (1899). LDE 225.4
+## Khi Nào Dấu Của Con Thú Được Nhận Lãnh
 
-When Sunday observance shall be enforced by law, and the world shall be enlightened concerning the obligation of the true Sabbath, then whoever shall transgress the command of God to obey a precept which has no higher authority than that of Rome, will thereby honor popery above God. He is paying homage to Rome, and to the power which enforces the institution ordained by Rome. He is worshiping the beast and his image. LDE 226.1
+Chưa có ai nhận lãnh dấu của con thú.—Evangelism, 234 (1899). LDE 224.5
 
-As men then reject the institution which God has declared to be the sign of His authority, and honor in its stead that which Rome has chosen as the token of her supremacy, they will thereby accept the sign of allegiance to Rome—“the mark of the beast.” And it is not until the issue is thus plainly set before the people, and they are brought to choose between the commandments of God and the commandments of men, that those who continue in transgression will receive “the mark of the beast.”—The Great Controversy, 449 (1911). LDE 226.2
+Sự giữ ngày Chúa Nhật chưa phải là dấu của con thú, và sẽ không trở thành như vậy cho đến khi sắc lệnh được ban hành buộc loài người phải thờ lạy ngày sa-bát thần tượng này. Sẽ đến lúc ngày này trở thành thử thách, nhưng lúc đó vẫn chưa đến. The S.D.A. Bible Commentary 7:977 (1899). LDE 224.6
+
+Đức Chúa Trời đã ban cho loài người ngày Sa-bát làm dấu hiệu giữa Ngài và họ để thử nghiệm lòng trung thành của họ. Trong cơn khủng hoảng lớn ở trước mặt chúng ta, những ai sau khi ánh sáng về luật pháp Đức Chúa Trời đến với họ mà vẫn tiếp tục bất tuân và tôn cao luật pháp loài người lên trên luật pháp Đức Chúa Trời, sẽ nhận lãnh dấu của con thú.—Evangelism, 235 (1900). LDE 225.1
+
+Ngày Sa-bát sẽ là cuộc thử nghiệm lớn về lòng trung thành, vì đó là điểm lẽ thật bị tranh cãi đặc biệt. Khi cuộc thử nghiệm cuối cùng được đem đến trên loài người, thì lằn ranh phân biệt sẽ được vạch ra giữa những người phục vụ Đức Chúa Trời và những người không phục vụ Ngài. LDE 225.2
+
+Trong khi sự tuân giữ ngày sa-bát giả dối tuân theo luật của nhà nước, trái với điều răn thứ tư, sẽ là sự công khai tỏ lòng trung thành với một thế lực chống nghịch Đức Chúa Trời, thì sự giữ ngày Sa-bát thật, vâng theo luật pháp Đức Chúa Trời, là bằng chứng của lòng trung thành với Đấng Tạo Hóa. Trong khi một hạng người, bằng cách chấp nhận dấu hiệu phục tùng các thế lực trần gian, nhận lãnh dấu của con thú, thì hạng người kia, chọn dấu hiệu trung thành với thẩm quyền thiêng liêng, nhận lãnh ấn của Đức Chúa Trời.—The Great Controversy, 605 (1911). LDE 225.3
+
+## Việc Cưỡng Bách Giữ Ngày Chúa Nhật Là Sự Thử Thách
+
+Không ai bị kết án cho đến khi họ đã nhận được ánh sáng và đã thấy nghĩa vụ của điều răn thứ tư. Nhưng khi sắc lệnh được ban hành cưỡng bách giữ ngày Sa-bát giả mạo, và tiếng kêu lớn của thiên sứ thứ ba cảnh báo loài người chống lại sự thờ phượng con thú và hình tượng của nó, ranh giới giữa cái giả và cái thật sẽ được vạch ra rõ ràng. Khi đó, những người vẫn tiếp tục phạm tội sẽ nhận lấy dấu của con thú.—Evangelism, 234, 235 (1899). LDE 225.4
+
+Khi việc giữ ngày Chúa Nhật được luật pháp cưỡng bách, và thế giới được soi sáng về nghĩa vụ của ngày Sa-bát chân thật, thì bất cứ ai vi phạm điều răn của Đức Chúa Trời để tuân theo một mệnh lệnh không có thẩm quyền nào cao hơn thẩm quyền của La-mã, sẽ vì đó mà tôn kính giáo hoàng trên Đức Chúa Trời. Người đó đang dâng lòng tôn kính cho La-mã, và cho thế lực cưỡng bách thi hành định chế do La-mã thiết lập. Người đó đang thờ phượng con thú và hình tượng của nó. LDE 226.1
+
+Khi loài người bấy giờ chối bỏ định chế mà Đức Chúa Trời đã tuyên bố là dấu hiệu của thẩm quyền Ngài, và thay vào đó tôn vinh điều mà La-mã đã chọn làm biểu hiệu của quyền tối thượng của mình, thì qua đó họ sẽ chấp nhận dấu hiệu trung thành với La-mã—“dấu của con thú”. Và chỉ đến khi vấn đề được trình bày rõ ràng như vậy trước dân chúng, và họ buộc phải lựa chọn giữa các điều răn của Đức Chúa Trời và các điều răn của loài người, thì những người tiếp tục phạm tội mới nhận lấy “dấu của con thú”.—The Great Controversy, 449 (1911). LDE 226.2
