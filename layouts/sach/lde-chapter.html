@@ -30,47 +30,70 @@
     -webkit-font-smoothing: antialiased;
   }
 
-  /* ── Dawn accent bar — same gradient as book hero ─────── */
-  .lch-dawn-bar {
-    height: 5px;
-    background: linear-gradient(90deg,
+  /* ── Hero — same signature gradient as book index ──────── */
+  .lch-hero {
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(180deg,
       #0e1230 0%,
-      #161a3a 20%,
-      #20244a 40%,
-      #4a3a40 60%,
-      #8a5530 80%,
+      #161a3a 28%,
+      #20244a 55%,
+      #4a3a40 78%,
+      #8a5530 92%,
       #b8763a 100%);
   }
 
-  /* ── Breadcrumb ─────────────────────────────────────── */
-  .lch-crumb {
+  /* Stars (decorative, same as book page) */
+  .lch-stars {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+  }
+  .lch-stars span {
+    position: absolute;
+    color: #f5f1e8;
+    opacity: 0.6;
+    text-shadow: 0 0 6px rgba(245,241,232,0.55);
+  }
+  .lch-stars .a { top: 8%;  left: 10%;  font-size: 8px; }
+  .lch-stars .b { top: 14%; left: 82%;  font-size: 13px; }
+  .lch-stars .c { top: 22%; left: 24%;  font-size: 9px; }
+  .lch-stars .d { top: 5%;  left: 60%;  font-size: 10px; }
+  .lch-stars .e { top: 30%; left: 90%;  font-size: 8px; }
+
+  .lch-hero-frame {
+    position: relative;
+    z-index: 2;
     max-width: 900px;
     margin: 0 auto;
-    padding: 1.75rem 2rem 0;
+    padding: 2rem 2rem 3.5rem;
+  }
+
+  /* ── Breadcrumb (inside hero, light text) ───────────── */
+  .lch-crumb {
     font-family: 'JetBrains Mono', monospace;
     font-size: 10px;
     letter-spacing: 0.28em;
     text-transform: uppercase;
-    color: var(--lde-muted);
+    color: rgba(245,241,232,0.55);
     display: flex;
     align-items: center;
     gap: 10px;
+    margin-bottom: 2.5rem;
   }
-  .lch-crumb a { color: var(--lde-muted); text-decoration: none; transition: color 0.2s; }
-  .lch-crumb a:hover { color: var(--lde-dawn); }
-  .lch-crumb .sep { color: var(--lde-rule); }
+  .lch-crumb a { color: rgba(245,241,232,0.55); text-decoration: none; transition: color 0.2s; }
+  .lch-crumb a:hover { color: #f5f1e8; }
+  .lch-crumb .sep { color: rgba(245,241,232,0.25); }
 
   /* ── Chapter header ──────────────────────────────────── */
   .lch-head {
     position: relative;
-    max-width: 860px;
-    margin: 3rem auto 0;
-    padding: 0 2rem 3rem;
     text-align: center;
     overflow: hidden;
   }
 
-  /* Watermark numeral */
+  /* Watermark numeral — light against dark sky */
   .lch-head::before {
     content: attr(data-num);
     position: absolute;
@@ -81,8 +104,8 @@
     font-weight: 600;
     font-size: clamp(9rem, 20vw, 20rem);
     line-height: 1;
-    color: var(--lde-midnight);
-    opacity: 0.05;
+    color: #f5f1e8;
+    opacity: 0.07;
     letter-spacing: -0.04em;
     pointer-events: none;
     user-select: none;
@@ -101,7 +124,7 @@
     font-size: 10.5px;
     letter-spacing: 0.32em;
     text-transform: uppercase;
-    color: var(--lde-dawn);
+    color: var(--lde-dawn-soft);
     margin-bottom: 1.5rem;
   }
 
@@ -111,10 +134,11 @@
     font-size: clamp(2rem, 5vw, 3.5rem);
     line-height: 1.1;
     letter-spacing: -0.01em;
-    color: var(--lde-ink);
+    color: #f5f1e8;
     margin: 0 auto 2rem;
     max-width: 640px;
     text-wrap: balance;
+    text-shadow: 0 2px 20px rgba(0,0,0,0.2);
   }
 
   .lch-ornament {
@@ -122,12 +146,12 @@
     align-items: center;
     justify-content: center;
     gap: 1rem;
-    color: var(--lde-dawn);
+    color: rgba(245,241,232,0.7);
   }
   .lch-ornament .line {
     height: 1px;
     flex: 0 1 64px;
-    background: linear-gradient(90deg, transparent, var(--lde-dawn-soft), transparent);
+    background: linear-gradient(90deg, transparent, rgba(245,241,232,0.4), transparent);
   }
   .lch-ornament .stars {
     font-size: 11px;
@@ -140,8 +164,8 @@
     max-width: 680px;
     margin: 0 auto;
     padding: 3rem 2rem 2rem;
-    font-size: 1.1rem;
-    line-height: 1.78;
+    font-size: 1.5rem;
+    line-height: 1.8;
     color: var(--lde-ink-soft);
     animation: lchFade 1.1s ease 0.1s both;
   }
@@ -328,8 +352,7 @@
   }
 
   @media (max-width: 640px) {
-    .lch-crumb { padding: 1.25rem 1.25rem 0; font-size: 9px; gap: 8px; }
-    .lch-head { padding: 0 1.25rem 2.5rem; margin-top: 2rem; }
+    .lch-hero-frame { padding: 1.5rem 1.25rem 2.5rem; }
     .lch-body { padding: 2rem 1.25rem; font-size: 1rem; }
     .lch-end { padding: 0 1.25rem 2.5rem; }
     .lch-nav { grid-template-columns: 1fr; text-align: center; padding: 1.5rem 1.25rem 3rem; gap: 1.25rem; }
@@ -350,28 +373,39 @@
 
 <div class="lch-root">
 
-  <div class="lch-dawn-bar"></div>
-
-  <div class="lch-crumb">
-    <a href="/sach/">Tủ Sách</a>
-    <span class="sep">·</span>
-    {{ with .Parent }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
-    {{ if $chapter }}<span class="sep">·</span> Chương {{ $chapter }}{{ end }}
-  </div>
-
-  <header class="lch-head"{{ if $chapter }} data-num="{{ printf "%02d" $chapter }}"{{ end }}>
-    <div class="lch-head-inner">
-      {{ if $chapter }}
-      <div class="lch-chapter-label">Chương {{ printf "%02d" $chapter }}</div>
-      {{ end }}
-      <h1 class="lch-title">{{ $cleanTitle }}</h1>
-      <div class="lch-ornament">
-        <span class="line"></span>
-        <span class="stars">✦ ✧ ✦</span>
-        <span class="line"></span>
-      </div>
+  <div class="lch-hero">
+    <div class="lch-stars" aria-hidden="true">
+      <span class="a">✦</span>
+      <span class="b">✧</span>
+      <span class="c">✦</span>
+      <span class="d">✧</span>
+      <span class="e">·</span>
     </div>
-  </header>
+    <div class="lch-hero-frame">
+
+      <div class="lch-crumb">
+        <a href="/sach/">Tủ Sách</a>
+        <span class="sep">·</span>
+        {{ with .Parent }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+        {{ if $chapter }}<span class="sep">·</span> Chương {{ $chapter }}{{ end }}
+      </div>
+
+      <header class="lch-head"{{ if $chapter }} data-num="{{ printf "%02d" $chapter }}"{{ end }}>
+        <div class="lch-head-inner">
+          {{ if $chapter }}
+          <div class="lch-chapter-label">Chương {{ printf "%02d" $chapter }}</div>
+          {{ end }}
+          <h1 class="lch-title">{{ $cleanTitle }}</h1>
+          <div class="lch-ornament">
+            <span class="line"></span>
+            <span class="stars">✦ ✧ ✦</span>
+            <span class="line"></span>
+          </div>
+        </div>
+      </header>
+
+    </div>
+  </div>
 
   {{ $c := .Content }}
   {{/* Inline malformed quotes: literal `> "…"` mid-paragraph → styled inline quote */}}
