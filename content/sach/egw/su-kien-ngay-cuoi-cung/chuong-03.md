@@ -1,5 +1,5 @@
 ---
-title: "Chương 3: "Lúc Nào Sẽ Có Mọi Sự Đó?""
+title: "Chương 3: “Lúc Nào Sẽ Có Mọi Sự Đó?”"
 slug: "chuong-03"
 author: "ellen-g-white"
 book: "su-kien-ngay-cuoi-cung"
