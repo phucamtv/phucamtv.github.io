@@ -14,6 +14,7 @@ import { mkdirSync, existsSync, readdirSync, unlinkSync } from "fs";
 import { join } from "path";
 
 import { colp } from "./books/colp";
+import { lde } from "./books/lde";
 import type { TranslateBookConfig } from "./lib/types";
 import {
   sourceTextPath, chunkPath, translatedChunkPath, errorChunkPath, hugoChapterPath,
@@ -26,7 +27,7 @@ import { buildSystemPrompt } from "./lib/prompt";
 import { callClaude } from "./lib/claude";
 import { assembleBody, writeChapter } from "./lib/assemble";
 
-const BOOKS: Record<string, TranslateBookConfig> = { colp };
+const BOOKS: Record<string, TranslateBookConfig> = { colp, lde };
 
 interface ChapterEntry {
   number: number;
