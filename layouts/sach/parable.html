@@ -201,6 +201,31 @@
 
 @keyframes pbFade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
 
+/* Dark mode — warm-dark equivalent of the parchment palette */
+@media (prefers-color-scheme: dark){
+  .pb-root{
+    --ink:#ede6da;
+    --ink-soft:#c9bfae;
+    --ink-mute:#8a7b6b;
+    --paper:#1a1612;
+    --paper-warm:#2a221a;
+    --paper-warm-deep:#322820;
+    --gold:#d4ad5e;
+    --gold-soft:#c9a661;
+    --rule:#3a3024;
+    --seed:#c9a661;
+    --green:#a8b87a;
+    --green-deep:#7a8a4a;
+  }
+  .pb-root::before{mix-blend-mode:screen;opacity:.22}
+  .pb-title{text-shadow:none}
+  .pb-toc-item a:hover{background:rgba(212,173,94,.08)}
+  .pb-disclaimer{background:rgba(255,253,247,.04)}
+  /* botanical SVGs use hardcoded fills — lift them with a filter so they read on dark */
+  .pb-margin svg,
+  .pb-seed svg{filter:brightness(1.55) saturate(.85)}
+}
+
 /* staggered TOC reveal */
 {{ range $i, $p := .RegularPages.ByWeight }}
 .pb-toc-item:nth-child({{ add $i 1 }}){animation-delay:{{ mul $i 0.025 }}s}

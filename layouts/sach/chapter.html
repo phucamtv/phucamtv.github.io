@@ -287,6 +287,26 @@
     from { opacity: 0; transform: translateY(8px); }
     to   { opacity: 1; transform: translateY(0); }
   }
+
+  /* Dark mode — warm-dark equivalent of the parchment palette */
+  @media (prefers-color-scheme: dark) {
+    .ch-root {
+      --ink: #ede6da;
+      --ink-soft: #d4cdc2;
+      --ink-mute: #8a7b6b;
+      --paper: #1a1612;
+      --paper-deep: #221d18;
+      --gold: #d4ad5e;
+      --gold-soft: #c9a661;
+      --rule: #3a3024;
+    }
+    .ch-root::before { mix-blend-mode: screen; opacity: 0.22; }
+    .ch-body .ch-ref {
+      background: rgba(212,173,94,0.10);
+      border-color: rgba(212,173,94,0.35);
+    }
+    .ch-nav-toc:hover { color: var(--paper); }
+  }
 </style>
 
 {{ $chapter := .Params.chapter }}

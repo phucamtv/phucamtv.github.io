@@ -1,5 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
 {{ $title := cond .IsHome .Site.Title (printf "%s | %s" .Title .Site.Title) }}
 {{ $description := .Description | default .Site.Params.description }}
 {{ $canonicalURL := .Permalink }}
@@ -63,9 +64,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,500&display=swap" rel="stylesheet">
+{{ $tokens := resources.Get "css/tokens.css" }}
 {{ $base := resources.Get "css/base.css" }}
 {{ $layout := resources.Get "css/layout.css" }}
 {{ $components := resources.Get "css/components.css" }}
 {{ $bibleMedia := resources.Get "css/bible-media.css" }}
-{{ $style := slice $base $layout $components $bibleMedia | resources.Concat "css/style.css" | fingerprint }}
+{{ $style := slice $tokens $base $layout $components $bibleMedia | resources.Concat "css/style.css" | fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">

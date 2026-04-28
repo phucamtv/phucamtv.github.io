@@ -529,6 +529,31 @@
     padding: 0 32px;
   }
 
+  /* Dark mode — warm-dark equivalent of the parchment palette.
+     Hero keeps its midnight→dawn gradient (already dark by design); body inverts. */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --lde-ink: #ede6da;
+      --lde-ink-soft: #d4cdc2;
+      --lde-paper: #1a1612;
+      --lde-paper-warm: #251e16;
+      --lde-rule: #3a3024;
+      --lde-midnight: #ede6da;
+      --lde-dawn: #d49a5c;
+      --lde-dawn-soft: #e6b27a;
+      --lde-ember: #c47554;
+      --lde-muted: #8a7b6b;
+    }
+    .lde-root {
+      background:
+        radial-gradient(ellipse at 50% -10%, rgba(212,154,92,0.06), transparent 60%),
+        var(--lde-paper);
+    }
+    .lde-stat .k { color: rgba(237,230,218,0.55); }
+    h1.lde-title { text-shadow: 0 2px 28px rgba(0,0,0,0.5); }
+    .lde-note { background: var(--lde-paper-warm); }
+  }
+
   /* Responsive */
   @media (max-width: 768px) {
     .lde-hero-frame { padding: 32px 24px 40px; }

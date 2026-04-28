@@ -352,6 +352,32 @@
     background: rgba(184,118,58,0.06);
   }
 
+  /* Dark mode — warm-dark body, hero keeps its midnight→dawn gradient. */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --lde-ink: #ede6da;
+      --lde-ink-soft: #d4cdc2;
+      --lde-paper: #1a1612;
+      --lde-paper-warm: #251e16;
+      --lde-rule: #3a3024;
+      --lde-midnight: #ede6da;
+      --lde-dawn: #d49a5c;
+      --lde-dawn-soft: #e6b27a;
+      --lde-ember: #c47554;
+      --lde-muted: #8a7b6b;
+    }
+    h1.lch-title { text-shadow: 0 2px 20px rgba(0,0,0,0.5); }
+    .lch-body blockquote {
+      background: rgba(212,154,92,0.06);
+    }
+    .lch-body .ch-ref {
+      background: rgba(212,154,92,0.10);
+      border-color: rgba(212,154,92,0.30);
+    }
+    .lch-body .ch-iq { color: var(--lde-ink); }
+    .lch-nav-toc:hover { background: rgba(212,154,92,0.08); }
+  }
+
   @media (max-width: 640px) {
     .lch-hero-frame { padding: 1.5rem 1.25rem 2.5rem; }
     .lch-body { padding: 2rem 1.25rem; font-size: 1rem; }

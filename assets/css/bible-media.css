@@ -8,14 +8,14 @@
   text-align: center;
   font-size: 2rem;
   font-weight: 700;
-  color: #3d3529;
+  color: var(--text-primary);
   margin-bottom: 1rem;
 }
 
 .kt-verse {
   text-align: center;
   font-style: italic;
-  color: #8a7b6b;
+  color: var(--text-muted);
   margin-bottom: 2rem;
   font-size: 0.95rem;
   letter-spacing: 0.02em;
@@ -32,7 +32,7 @@
   display: block;
   width: 40px;
   height: 1px;
-  background: #c9b99a;
+  background: var(--accent-strong);
   margin: 1rem auto 0;
 }
 
@@ -48,10 +48,10 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: #3d3529;
+  color: var(--text-primary);
   margin-bottom: 1.25rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid #d4c9b8;
+  border-bottom: 2px solid var(--border-strong);
 }
 
 .kt-group-title {
@@ -60,14 +60,14 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  color: #5c5347;
+  color: var(--text-secondary);
   margin: 1.5rem 0 0.75rem;
 }
 
 .kt-group-title-en {
   font-weight: 400;
   font-size: 0.82rem;
-  color: #8a7f72;
+  color: var(--text-muted);
 }
 
 .kt-group-title:first-of-type {
@@ -82,24 +82,24 @@
 .kt-book {
   padding: 0.35rem 0;
   font-size: 0.92rem;
-  color: #3d3529;
+  color: var(--text-primary);
 }
 
 .kt-book-name {
   font-weight: 600;
-  color: #3d3529;
+  color: var(--text-primary);
   text-decoration: none;
 }
 
 .kt-book-name:hover {
-  color: #5c5347;
+  color: var(--text-secondary);
   text-decoration: underline;
 }
 
 .kt-book-desc {
   display: block;
   font-size: 0.8rem;
-  color: #8a7f72;
+  color: var(--text-muted);
   line-height: 1.4;
   font-weight: 400;
 }
@@ -116,22 +116,22 @@
 .kt-single-en {
   font-weight: 400;
   font-size: 0.7em;
-  color: #8a7f72;
+  color: var(--text-muted);
 }
 
 .kt-single-short {
   font-size: 1.05rem;
-  color: #5c5347;
+  color: var(--text-secondary);
   font-style: italic;
   margin-bottom: 1.5rem;
   padding-bottom: 1.5rem;
-  border-bottom: 1px solid #e2dacf;
+  border-bottom: 1px solid var(--border-default);
 }
 
 .kt-single-body {
   font-size: 1.05rem;
   line-height: 1.85;
-  color: #3d3529;
+  color: var(--text-primary);
 }
 
 @media (max-width: 700px) {
@@ -152,9 +152,9 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: linear-gradient(180deg, #f0ece3 0%, #e8e2d6 100%);
-  border-top: 1px solid #d4c9b8;
-  box-shadow: 0 -4px 20px rgba(61, 53, 41, 0.18);
+  background: linear-gradient(180deg, var(--surface-sunken) 0%, var(--border-soft) 100%);
+  border-top: 1px solid var(--border-strong);
+  box-shadow: 0 -4px 20px var(--shadow-strong);
   z-index: 1000;
   display: none;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -195,7 +195,7 @@
   height: 36px;
   border: none;
   background: none;
-  color: #3d3529;
+  color: var(--text-primary);
   cursor: pointer;
   border-radius: 50%;
   transition: background 0.15s ease;
@@ -203,7 +203,7 @@
 }
 
 .ap-btn:hover {
-  background: rgba(0, 0, 0, 0.06);
+  background: var(--tint-medium);
 }
 
 .ap-btn svg {
@@ -214,12 +214,12 @@
 .ap-btn-play {
   width: 40px;
   height: 40px;
-  background: #3d3529;
-  color: #f0ece3;
+  background: var(--surface-inverse);
+  color: var(--text-on-inverse);
 }
 
 .ap-btn-play:hover {
-  background: #5c5347;
+  background: var(--surface-inverse-hover);
 }
 
 .ap-btn-play svg {
@@ -247,7 +247,7 @@
 .ap-title {
   font-size: 0.85rem;
   font-weight: 600;
-  color: #3d3529;
+  color: var(--text-primary);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -255,14 +255,14 @@
 
 .ap-source-label {
   font-size: 0.75rem;
-  color: #8a7f72;
+  color: var(--text-muted);
 }
 
 .ap-source-select {
   font-size: 0.75rem;
-  color: #5c5347;
+  color: var(--text-secondary);
   background: none;
-  border: 1px solid #d4c9b8;
+  border: 1px solid var(--border-strong);
   border-radius: 4px;
   padding: 0.1rem 0.3rem;
   cursor: pointer;
@@ -283,7 +283,7 @@
 .ap-progress-bar {
   width: 100%;
   height: 3px;
-  background: #d4c9b8;
+  background: var(--border-strong);
   cursor: crosshair;
   position: relative;
   transform-origin: bottom;
@@ -296,7 +296,7 @@
 
 .ap-progress-fill {
   height: 100%;
-  background: #3d3529;
+  background: var(--surface-inverse);
   width: 0%;
   position: relative;
 }
@@ -309,7 +309,7 @@
   transform: translateY(-50%);
   width: 10px;
   height: 10px;
-  background: #3d3529;
+  background: var(--surface-inverse);
   border-radius: 50%;
   opacity: 0;
   transition: opacity 0.15s ease;
@@ -329,14 +329,14 @@
 
 .ap-time {
   font-size: 0.72rem;
-  color: #8a7f72;
+  color: var(--text-muted);
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
 }
 
 .ap-time-sep {
   font-size: 0.72rem;
-  color: #8a7f72;
+  color: var(--text-muted);
 }
 
 /* Right-side buttons: chapter dropdown, settings, close */
@@ -350,9 +350,9 @@
 /* Chapter dropdown */
 .ap-chapter-select {
   font-size: 0.75rem;
-  color: #5c5347;
+  color: var(--text-secondary);
   background: none;
-  border: 1px solid #d4c9b8;
+  border: 1px solid var(--border-strong);
   border-radius: 4px;
   padding: 0.15rem 0.3rem;
   cursor: pointer;
@@ -369,10 +369,10 @@
   position: absolute;
   bottom: calc(100% + 8px);
   right: 0;
-  background: #fff;
-  border: 1px solid #d4c9b8;
+  background: var(--surface-base);
+  border: 1px solid var(--border-strong);
   border-radius: 8px;
-  box-shadow: 0 4px 16px rgba(61, 53, 41, 0.15);
+  box-shadow: 0 4px 16px var(--shadow-strong);
   padding: 1rem;
   display: none;
   min-width: 200px;
@@ -396,7 +396,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  color: #8a7f72;
+  color: var(--text-muted);
   margin-bottom: 0.4rem;
 }
 
@@ -411,10 +411,10 @@
 .ap-sleep-btn {
   font-size: 0.78rem;
   padding: 0.2rem 0.5rem;
-  border: 1px solid #d4c9b8;
+  border: 1px solid var(--border-strong);
   border-radius: 4px;
   background: none;
-  color: #5c5347;
+  color: var(--text-secondary);
   cursor: pointer;
   font-family: inherit;
   transition: all 0.15s ease;
@@ -422,19 +422,19 @@
 
 .ap-speed-btn:hover,
 .ap-sleep-btn:hover {
-  background: #f0ece3;
+  background: var(--surface-sunken);
 }
 
 .ap-speed-btn.is-active,
 .ap-sleep-btn.is-active {
-  background: #3d3529;
-  color: #f0ece3;
-  border-color: #3d3529;
+  background: var(--surface-inverse);
+  color: var(--text-on-inverse);
+  border-color: var(--surface-inverse);
 }
 
 .ap-sleep-countdown {
   font-size: 0.72rem;
-  color: #8a7f72;
+  color: var(--text-muted);
   margin-top: 0.3rem;
   display: none;
 }
@@ -449,16 +449,16 @@
   bottom: calc(100% + 8px);
   left: 50%;
   transform: translateX(-50%);
-  background: #fff;
-  border: 1px solid #d4c9b8;
+  background: var(--surface-base);
+  border: 1px solid var(--border-strong);
   border-radius: 8px;
-  box-shadow: 0 4px 16px rgba(61, 53, 41, 0.15);
+  box-shadow: 0 4px 16px var(--shadow-strong);
   padding: 0.75rem 1rem;
   display: none;
   z-index: 1001;
   white-space: nowrap;
   font-size: 0.85rem;
-  color: #3d3529;
+  color: var(--text-primary);
 }
 
 .ap-resume-prompt.is-visible {
@@ -470,18 +470,18 @@
 .ap-resume-btn {
   font-size: 0.78rem;
   padding: 0.25rem 0.6rem;
-  border: 1px solid #d4c9b8;
+  border: 1px solid var(--border-strong);
   border-radius: 4px;
   background: none;
-  color: #5c5347;
+  color: var(--text-secondary);
   cursor: pointer;
   font-family: inherit;
 }
 
 .ap-resume-btn--yes {
-  background: #3d3529;
-  color: #f0ece3;
-  border-color: #3d3529;
+  background: var(--surface-inverse);
+  color: var(--text-on-inverse);
+  border-color: var(--surface-inverse);
 }
 
 /* Body padding when player is visible */
@@ -512,8 +512,8 @@ body.has-audio-player {
 }
 
 .ss-header {
-  background: #3d3529;
-  color: #f8f6f1;
+  background: var(--surface-inverse);
+  color: var(--text-on-inverse);
   border-radius: 10px 10px 0 0;
   padding: 2rem 2rem 1.5rem;
   margin-bottom: 0;
@@ -522,50 +522,50 @@ body.has-audio-player {
 .ss-lesson-label {
   font-size: 0.88rem;
   letter-spacing: 0.03em;
-  color: #c4b9a8;
+  color: var(--text-on-inverse-muted);
   margin-bottom: 0.3rem;
 }
 
 .ss-title {
   font-size: 1.8rem;
-  color: #fff;
+  color: var(--text-on-inverse-strong);
   margin-bottom: 1rem;
   line-height: 1.3;
 }
 
 .ss-scripture {
   font-size: 0.92rem;
-  color: #e2dacf;
+  color: var(--text-on-inverse-soft);
   line-height: 1.6;
   margin-bottom: 0.75rem;
 }
 
 .ss-scripture strong {
-  color: #f8f6f1;
+  color: var(--text-on-inverse);
 }
 
 .ss-verse {
   font-size: 0.95rem;
-  color: #e2dacf;
+  color: var(--text-on-inverse-soft);
   font-style: italic;
   line-height: 1.6;
 }
 
 .ss-verse strong {
-  color: #f8f6f1;
+  color: var(--text-on-inverse);
   font-style: normal;
 }
 
 .ss-content {
-  background: #faf8f4;
-  border: 1px solid #e2dacf;
+  background: var(--surface-raised);
+  border: 1px solid var(--border-default);
   border-top: none;
   border-radius: 0 0 10px 10px;
   padding: 0;
 }
 
 .ss-accordion {
-  border-bottom: 1px solid #e2dacf;
+  border-bottom: 1px solid var(--border-default);
 }
 
 .ss-accordion:last-child {
@@ -579,7 +579,7 @@ body.has-audio-player {
   padding: 1rem 1.5rem;
   cursor: pointer;
   font-size: 1rem;
-  color: #3d3529;
+  color: var(--text-primary);
   list-style: none;
   transition: background 0.15s ease;
 }
@@ -589,14 +589,14 @@ body.has-audio-player {
 }
 
 .ss-accordion-summary:hover {
-  background: #f3efe8;
+  background: var(--surface-soft);
 }
 
 .ss-accordion-chevron {
   display: inline-block;
   width: 0;
   height: 0;
-  border-left: 5px solid #8a7f72;
+  border-left: 5px solid var(--text-muted);
   border-top: 4px solid transparent;
   border-bottom: 4px solid transparent;
   transition: transform 0.2s ease;
@@ -609,7 +609,7 @@ body.has-audio-player {
 
 .ss-day-content {
   padding: 0.5rem 1.5rem 1.5rem 2.75rem;
-  color: #3d3529;
+  color: var(--text-primary);
   font-size: 0.98rem;
   line-height: 1.75;
 }
@@ -619,15 +619,15 @@ body.has-audio-player {
   font-size: 0.92rem;
   font-style: italic;
   display: block;
-  background: linear-gradient(135deg, #f5f0e8 0%, #ede6da 100%);
-  border-left: 3px solid #8a7f72;
+  background: linear-gradient(135deg, var(--surface-soft) 0%, var(--border-default) 100%);
+  border-left: 3px solid var(--text-muted);
   border-radius: 0 6px 6px 0;
   padding: 0.85rem 1.1rem;
   margin: 1.25rem 0;
-  color: #5c5347;
+  color: var(--text-secondary);
   line-height: 1.7;
   position: relative;
-  box-shadow: 0 1px 3px rgba(61, 53, 41, 0.06);
+  box-shadow: 0 1px 3px var(--shadow-soft);
 }
 
 /* ── Sabbath School List ── */
@@ -643,10 +643,10 @@ body.has-audio-player {
 
 .ss-quarter-title {
   font-size: 1.3rem;
-  color: #3d3529;
+  color: var(--text-primary);
   margin: 2rem 0 1rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid #e2dacf;
+  border-bottom: 2px solid var(--border-default);
 }
 
 .ss-lesson-list {
@@ -661,14 +661,14 @@ body.has-audio-player {
   gap: 1rem;
   padding: 0.85rem 1rem;
   text-decoration: none;
-  color: #3d3529;
-  border-bottom: 1px solid #f0ece3;
+  color: var(--text-primary);
+  border-bottom: 1px solid var(--border-faint);
   transition: background 0.15s ease;
 }
 
 .ss-lesson-card:hover {
-  background: #faf8f4;
-  color: #3d3529;
+  background: var(--surface-raised);
+  color: var(--text-primary);
 }
 
 .ss-lesson-num {
@@ -678,16 +678,16 @@ body.has-audio-player {
   width: 2.2rem;
   height: 2.2rem;
   border-radius: 50%;
-  background: #f0ece3;
-  color: #5c5347;
+  background: var(--surface-sunken);
+  color: var(--text-secondary);
   font-size: 0.85rem;
   font-weight: 600;
   flex-shrink: 0;
 }
 
 .ss-lesson-card:hover .ss-lesson-num {
-  background: #3d3529;
-  color: #fff;
+  background: var(--surface-inverse);
+  color: var(--text-on-inverse-strong);
 }
 
 .ss-lesson-info {
@@ -702,7 +702,7 @@ body.has-audio-player {
 
 .ss-lesson-date {
   font-size: 0.82rem;
-  color: #8a7f72;
+  color: var(--text-muted);
 }
 
 @media (max-width: 600px) {
