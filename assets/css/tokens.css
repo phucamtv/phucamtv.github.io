@@ -1,0 +1,137 @@
+:root {
+  /* surfaces */
+  --surface-base: #fff;
+  --surface-raised: #faf8f4;
+  --surface-tint: #f8f6f1;
+  --surface-soft: #f3efe8;
+  --surface-sunken: #f0ece3;
+  --surface-hover: #faf8f5;
+  --surface-deep: #ebe6dd;
+
+  /* inverse surfaces — intentionally dark in both modes (SS header, play btn, active pagination) */
+  --surface-inverse: #3d3529;
+  --surface-inverse-hover: #5c5347;
+
+  /* text */
+  --text-strong: #2a2016;
+  --text-primary: #3d3529;
+  --text-emphasis: #5a3e2b;
+  --text-secondary: #5c5347;
+  --text-body: #333;
+  --text-muted: #8a7f72;
+  --text-faint: #a09585;
+  --text-dim: #888;
+  --text-pagination: #7a6e60;
+
+  /* text on inverse surfaces */
+  --text-on-inverse: #f0ece3;
+  --text-on-inverse-strong: #fff;
+  --text-on-inverse-muted: #c4b9a8;
+  --text-on-inverse-soft: #e2dacf;
+
+  /* borders */
+  --border-strong: #d4c9b8;
+  --border-default: #e2dacf;
+  --border-soft: #e8e2d9;
+  --border-faint: #f0ece3;
+  --border-divider: #f1f5f9;
+
+  /* accents */
+  --accent: #b8a88a;
+  --accent-strong: #c9b99a;
+  --accent-soft: #c4b9a8;
+  --accent-faint: #b0a595;
+
+  /* links */
+  --link: #2563eb;
+  --link-hover: #1d4ed8;
+
+  /* tags */
+  --tag-bg: #f1f5f9;
+  --tag-fg: #475569;
+
+  /* shadows — stay dark in both modes (drop shadows under cards) */
+  --shadow-soft: rgba(61, 53, 41, 0.06);
+  --shadow-card: rgba(61, 53, 41, 0.1);
+  --shadow-strong: rgba(61, 53, 41, 0.18);
+  --shadow-frame-soft: rgba(0, 0, 0, 0.08);
+  --shadow-frame-medium: rgba(0, 0, 0, 0.15);
+  --shadow-frame-strong: rgba(0, 0, 0, 0.18);
+
+  /* tints — alpha overlays that should invert in dark mode */
+  --tint-soft: rgba(0, 0, 0, 0.03);
+  --tint-faint: rgba(0, 0, 0, 0.04);
+  --tint-medium: rgba(0, 0, 0, 0.06);
+
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* surfaces — warm dark browns */
+    --surface-base: #1a1612;
+    --surface-raised: #221d18;
+    --surface-tint: #25201a;
+    --surface-soft: #28221c;
+    --surface-sunken: #2a241e;
+    --surface-hover: #2e2822;
+    --surface-deep: #2e2822;
+
+    /* inverse surfaces — go even darker so they still pop on dark page */
+    --surface-inverse: #100c08;
+    --surface-inverse-hover: #1f1a14;
+
+    /* text — warm creams */
+    --text-strong: #f5f0e8;
+    --text-primary: #ede6da;
+    --text-emphasis: #d8c8ae;
+    --text-secondary: #d4cdc2;
+    --text-body: #e8e2d6;
+    --text-muted: #a09585;
+    --text-faint: #8a7b6b;
+    --text-dim: #7a6e60;
+    --text-pagination: #a09585;
+
+    /* text on inverse stays cream — same family as light mode */
+    --text-on-inverse: #ede6da;
+    --text-on-inverse-strong: #fff;
+    --text-on-inverse-muted: #b0a595;
+    --text-on-inverse-soft: #d4cdc2;
+
+    /* borders — subtle on dark bg */
+    --border-strong: #3d3529;
+    --border-default: #322b24;
+    --border-soft: #2a241e;
+    --border-faint: #25201a;
+    --border-divider: #2a241e;
+
+    /* accents — slightly brightened so they read on dark bg */
+    --accent: #c9b99a;
+    --accent-strong: #d4c2a0;
+    --accent-soft: #8a7b6b;
+    --accent-faint: #6b5f52;
+
+    /* links — soften the cool blue against warm-dark */
+    --link: #93b8ff;
+    --link-hover: #b8cfff;
+
+    /* tags */
+    --tag-bg: #2a241e;
+    --tag-fg: #c9bfae;
+
+    /* shadows — deeper black on dark */
+    --shadow-soft: rgba(0, 0, 0, 0.25);
+    --shadow-card: rgba(0, 0, 0, 0.4);
+    --shadow-strong: rgba(0, 0, 0, 0.55);
+    --shadow-frame-soft: rgba(0, 0, 0, 0.4);
+    --shadow-frame-medium: rgba(0, 0, 0, 0.5);
+    --shadow-frame-strong: rgba(0, 0, 0, 0.55);
+
+    /* tints — invert to light overlays on dark surface */
+    --tint-soft: rgba(255, 255, 255, 0.04);
+    --tint-faint: rgba(255, 255, 255, 0.05);
+    --tint-medium: rgba(255, 255, 255, 0.08);
+
+    color-scheme: dark;
+  }
+}
