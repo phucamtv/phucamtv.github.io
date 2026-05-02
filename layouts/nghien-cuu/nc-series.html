@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{- $data := index hugo.Data "nghien-cuu" .Params.dataKey -}}
+{{- $episodes := sort (where .Pages "Layout" "nc-episode") "Weight" -}}
+<article class="nc-series">
+  <div class="breadcrumb">
+    <a href="/nghien-cuu/">Nghiên Cứu</a>
+    <span class="breadcrumb-sep">›</span>
+    {{ .Title }}
+  </div>
+
+  <header class="nc-series-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.titleEn }}<div class="nc-series-en">{{ . }}</div>{{ end }}
+    <div class="nc-series-byline">
+      {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+      {{ if $data }}<span class="nc-series-dot">·</span><span>{{ $data.totalVideos }} bài</span>{{ end }}
+      {{ with .Params.language }}<span class="nc-series-dot">·</span><span>{{ . }}</span>{{ end }}
+    </div>
+    {{ with .Description }}<p class="nc-series-desc">{{ . }}</p>{{ end }}
+    {{ with .Content }}<div class="nc-series-body content">{{ . }}</div>{{ end }}
+  </header>
+
+  <ol class="nc-episode-list">
+    {{- range $episodes -}}
+      {{- $idx := .Params.index -}}
+      {{- $video := "" -}}
+      {{- if $data }}{{ $video = index $data.videos (sub $idx 1) }}{{ end -}}
+      <li class="nc-episode-item">
+        <a class="nc-episode-link" href="{{ .RelPermalink }}">
+          <span class="nc-episode-num">Bài {{ $idx }}</span>
+          <span class="nc-episode-title">{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</span>
+          {{ with $video }}
+            {{ if .duration }}
+              <span class="nc-episode-duration">
+                {{- $h := math.Floor (div .duration 3600) -}}
+                {{- $m := math.Floor (mod (div .duration 60) 60) -}}
+                {{- $s := mod .duration 60 -}}
+                {{- if gt $h 0 }}{{ $h }}:{{ printf "%02d" (int $m) }}:{{ printf "%02d" (int $s) }}{{ else }}{{ $m }}:{{ printf "%02d" (int $s) }}{{ end -}}
+              </span>
+            {{ end }}
+          {{ end }}
+        </a>
+      </li>
+    {{- end -}}
+  </ol>
+</article>
+{{ end }}

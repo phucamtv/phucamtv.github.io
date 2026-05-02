@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{- $series := where .Pages "Layout" "nc-series" -}}
+<div class="nc-index">
+  <h1 class="nc-title">{{ .Title }}</h1>
+  {{ with .Params.verse }}<p class="nc-verse">{{ . }}</p>{{ end }}
+
+  <div class="nc-series-grid">
+    {{- range $series -}}
+      {{- $data := index hugo.Data "nghien-cuu" .Params.dataKey -}}
+      {{- $count := 0 -}}
+      {{- $thumb := "" -}}
+      {{- if $data -}}
+        {{- $count = $data.totalVideos -}}
+        {{- with index $data.videos 0 }}{{ $thumb = .thumbnail }}{{ end -}}
+      {{- end -}}
+      <a class="nc-series-card" href="{{ .Permalink }}">
+        {{ if $thumb }}
+        <div class="nc-series-thumb">
+          <img src="{{ $thumb }}" alt="" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="nc-series-meta">
+          <h2 class="nc-series-card-title">{{ .Title }}</h2>
+          {{ with .Params.titleEn }}<div class="nc-series-card-en">{{ . }}</div>{{ end }}
+          <div class="nc-series-card-by">
+            {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+            {{ if $count }}<span class="nc-series-card-dot">·</span><span>{{ $count }} bài</span>{{ end }}
+            {{ with .Params.language }}<span class="nc-series-card-dot">·</span><span>{{ . }}</span>{{ end }}
+          </div>
+          {{ with .Description }}<p class="nc-series-card-desc">{{ . }}</p>{{ end }}
+        </div>
+      </a>
+    {{- end -}}
+  </div>
+</div>
+{{ end }}

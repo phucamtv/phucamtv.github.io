@@ -1,0 +1,70 @@
+{{ define "main" }}
+{{- $data := index hugo.Data "nghien-cuu" .Params.dataKey -}}
+{{- $idx := .Params.index -}}
+{{- $video := index $data.videos (sub $idx 1) -}}
+{{- $series := .Parent -}}
+{{- $siblings := sort (where $series.Pages "Layout" "nc-episode") "Weight" -}}
+{{- $prev := "" -}}{{- $next := "" -}}
+{{- range $i, $p := $siblings -}}
+  {{- if eq $p.Params.index $idx -}}
+    {{- if gt $i 0 }}{{ $prev = index $siblings (sub $i 1) }}{{ end -}}
+    {{- if lt (add $i 1) (len $siblings) }}{{ $next = index $siblings (add $i 1) }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+
+<article class="nc-episode-page">
+  <div class="breadcrumb">
+    <a href="/nghien-cuu/">Nghiên Cứu</a>
+    <span class="breadcrumb-sep">›</span>
+    <a href="{{ $series.Permalink }}">{{ $series.Title }}</a>
+    <span class="breadcrumb-sep">›</span>
+    Bài {{ $idx }}
+  </div>
+
+  <header class="nc-episode-header">
+    <div class="nc-episode-eyebrow">Bài {{ $idx }} / {{ $data.totalVideos }}</div>
+    <h1>{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+    {{ with $video.title }}<div class="nc-episode-en">{{ . }}</div>{{ end }}
+  </header>
+
+  <div class="youtube-wrapper nc-episode-video">
+    <iframe
+      src="https://www.youtube.com/embed/{{ $video.videoId }}"
+      title="{{ .Title }}"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      frameborder="0"
+      loading="lazy"></iframe>
+  </div>
+
+  {{ with .Content }}
+  <div class="nc-episode-body content">{{ . }}</div>
+  {{ end }}
+
+  {{ if and $video.description (gt (len $video.description) 30) }}
+  <section class="nc-episode-desc">
+    <h2>Mô tả</h2>
+    <p>{{ $video.description | safeHTML }}</p>
+  </section>
+  {{ end }}
+
+  <nav class="nc-prev-next">
+    <div class="nc-prev-next-cell nc-prev-next-prev">
+      {{ with $prev }}
+        <a href="{{ .Permalink }}">
+          <span class="nc-prev-next-label">← Bài trước</span>
+          <span class="nc-prev-next-title">Bài {{ .Params.index }} · {{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</span>
+        </a>
+      {{ end }}
+    </div>
+    <div class="nc-prev-next-cell nc-prev-next-next">
+      {{ with $next }}
+        <a href="{{ .Permalink }}">
+          <span class="nc-prev-next-label">Bài kế →</span>
+          <span class="nc-prev-next-title">Bài {{ .Params.index }} · {{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</span>
+        </a>
+      {{ end }}
+    </div>
+  </nav>
+</article>
+{{ end }}

@@ -30,6 +30,10 @@ ignoreFiles = ['\.py$', 'output/']
   target = "data/series.json"
 
 [[module.mounts]]
+  source = "data/yt/nghien-cuu"
+  target = "data/nghien-cuu"
+
+[[module.mounts]]
   source = "content"
   target = "content"
 

@@ -1,6 +1,7 @@
 public/
 .hugo_build.lock
 .env
+.claude/*.lock
 .claude/data/
 .claude/tasks/
 **/.claude/settings.local.json

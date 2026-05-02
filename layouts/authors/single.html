@@ -15,7 +15,7 @@
     <h2 style="margin-top:2rem">Nội dung</h2>
     <ol class="doctrines-list">
     {{ $idx := 0 }}
-    {{ range where $.Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true }}
+    {{ range where $.Site.Pages.ByDate.Reverse "Params.unpublished" "ne" true }}
     {{ if in .Params.authors $slug }}
     {{ $idx = add $idx 1 }}
     <li class="doctrine-item">
@@ -98,7 +98,7 @@
 
     {{/* Collect tags from this author's articles */}}
     {{ $tagMap := newScratch }}
-    {{ range where $.Site.RegularPages "Params.unpublished" "ne" true }}
+    {{ range where $.Site.Pages "Params.unpublished" "ne" true }}
       {{ if in .Params.authors $slug }}
         {{ range .Params.tags }}
           {{ $tagMap.Add . 1 }}
