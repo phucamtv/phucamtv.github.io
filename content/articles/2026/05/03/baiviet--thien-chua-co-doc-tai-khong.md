@@ -5,7 +5,6 @@ description: "Một profile chống báng Kinh Thánh trên Facebook chỉ tríc
 tags: ["Bài Viết", "Mười Điều Răn", "Biện Giáo", "Tự Do", "Kinh Thánh"]
 authors: ["truong-the-hong"]
 url: /baiviet/thien-chua-co-doc-tai-khong/index.html
-draft: false
 ---
 
 Mấy hôm trước, Facebook đẩy vào feed tôi một profile chống báng Kinh Thánh ở mức độ khiến tôi phải dừng lại nhìn kỹ. Mỗi ngày trên một bài phỉ báng, tag lung tung xèo, ngôn từ thì khỏi bàn. Phản ứng đầu tiên của tôi là phản ứng mà tôi nghĩ phần lớn tín hữu sẽ có: đối với những người hăng máu vịt như vậy, cách cư xử đúng đắn nhất có lẽ là im lặng và bỏ qua. Tranh luận với một người không tìm sự thật mà chỉ tìm cớ để công kích, là tự rước mệt vào thân.
