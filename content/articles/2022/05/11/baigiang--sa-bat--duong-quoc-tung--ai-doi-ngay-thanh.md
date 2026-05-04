@@ -12,7 +12,7 @@ notion_id: a22a5429-10bf-4f36-bb05-143fd01bff93
 ## Giới thiệu
 
 Từ thuở tạo thiên lập địa , Đức Chúa Trời Toàn Năng đã thiết lập ngày thứ bảy hàng tuần làm ngày thánh, ngày được Đức Chúa Trời ban phước, và là ngày yên nghỉ cho loài người để kỷ niệm công cuộc tạo thế của Ðấng Tạo Hoá, để nhân loại nhớ đến nguồn gốc của mình đến từ đâu, để con người tưởng nhớ và thờ phượng Ðấng đã tạo dựng nên vạn vật.
-Ngày thứ bảy còn là dấu hiệu của những người tin Chúa. Ngày thứ bảy được Thánh Kinh gọi là “Ngày của Chúa” hay “Chúa Nhật.” (Xuất Êdíptô Ký 20:10; Êsai 58:13; Luca 6:5)
+Ngày thứ bảy còn là dấu hiệu của những người tin Chúa. Ngày thứ bảy được Thánh Kinh gọi là “Ngày của Chúa” hay “Chủ Nhật.” (Xuất Êdíptô Ký 20:10; Êsai 58:13; Luca 6:5)
 
 Trong ngày thứ bảy hay ngày Sa-bát, bắt đầu từ mặt trời lặn tối thứ sáu cho đến mặt trời lặn tối thứ bảy, con người yên nghỉ mọi công việc thường ngày, hướng về công việc thiêng liêng, và cùng đến ra mắt Đức Chyas Trời để thờ phượng Ngài. Ngày nầy là dấu hiệu đời đời cho dân sự trung tín của Ngài.
 
@@ -119,7 +119,7 @@ Trong lần tái bản quyển Giáo-lý Công-Giáo Cho Những Người Quy Ð
 
 Ngày hôm nay, Giáo hội La Mã không công khai tuyên bố rằng mình đã dời sự thánh khiết của ngày Sa-bát qua ngày thứ nhất của tuần lễ. Nhưng Giáo hội vẫn cho rằng ngày thứ nhất của tuần lễ quan trọng hơn ngày thứ bảy Sa-bát, ngày thứ nhất đã thay thế cho ngày thứ bảy, và tín hữu phải nghỉ ngơi các công việc trong ngày thứ nhất, và đi thờ phượng trong ngày thứ nhất.
 Trong quyển Giáo-Lý Của Giáo-Hội Công-Giáo (Catechism of the Catholic Church) được xuất bản năm 1994, viết như sau:
-“Ðức Đức Chúa Giê-su sống lại từ kẻ chết vào ngày thứ nhất của tuần lễ. Vì đây là ‘ngày thứ nhất,’ ngày Chúa phục-sinh nhắc lại sự tạo thế lần thứ nhất. Vì đây là ‘ngày thứ tám’ theo sau ngày Sa-bát, ngày nầy (thứ nhất) tượng trưng cho sự tạo dựng mới mà sự phục sinh của Ðấng Christ đã đem lại. Ðối với những người theo Chúa, ngày nầy trở thành quan trọng nhất trong tất cả mọi ngày, là ngày đầu trong tất cả những ngày lễ, là Chúa Nhật (Ngày của Chúa), tức là thứ nhất (Sunday).”
+“Ðức Đức Chúa Giê-su sống lại từ kẻ chết vào ngày thứ nhất của tuần lễ. Vì đây là ‘ngày thứ nhất,’ ngày Chúa phục-sinh nhắc lại sự tạo thế lần thứ nhất. Vì đây là ‘ngày thứ tám’ theo sau ngày Sa-bát, ngày nầy (thứ nhất) tượng trưng cho sự tạo dựng mới mà sự phục sinh của Ðấng Christ đã đem lại. Ðối với những người theo Chúa, ngày nầy trở thành quan trọng nhất trong tất cả mọi ngày, là ngày đầu trong tất cả những ngày lễ, là Chủ Nhật (Ngày của Chúa), tức là thứ nhất (Sunday).”
 “Ngày thứ nhất của tuần lễ (Sunday) phải được phân biệt rõ ràng với ngày Sa-bát, là ngày mà nó tiếp nối theo cách thứ tự trong mỗi tuần; đối với Cơ đốc nhân những nghi lễ trong ngày chủ nhật đã thay thế ngày thứ bảy.”
 
 > “Trong ngày thứ nhất của tuần lễ (Sunday)… tín hữu phải nghỉ ngơi những công việc hay sinh hoạt có thể ngăn cản sự thờ phượng dành cho Chúa…” (21)

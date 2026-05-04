@@ -6,3 +6,4 @@
 - Use "Do Thái Giáo" instead of "Giu-đa-izt"
 - Use "Cơ-đốc" instead of "Cơ Đốc"
 - Divine names must be capitalized correctly: "Đức Chúa Trời" (not "Đức chúa trời"), "Đức Thánh Linh" (not "Đức thánh linh"), "Kinh Thánh" (not "Kinh thánh"), "Đức Chúa Giê-su" (not "Đức chúa Giê-su"), "Hội Thánh" (not "hội thánh")
+- Use "Chủ Nhật" instead of "Chủ Nhật"

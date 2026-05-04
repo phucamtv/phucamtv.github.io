@@ -50,15 +50,15 @@ Hội Thánh dân sót sẽ bị đưa vào cơn thử thách và hoạn nạn l
 
 Tôi thấy bốn vị thiên sứ sẽ giữ bốn ngọn gió cho đến khi công việc của Đức Chúa Giê-su trong đền thánh được hoàn tất, và rồi bảy tai vạ cuối cùng sẽ đến. Những tai vạ này khiến kẻ ác nổi giận với người công bình; chúng nghĩ rằng chúng tôi đã mang sự phán xét của Đức Chúa Trời xuống trên chúng, và nếu chúng có thể trừ khử chúng tôi khỏi mặt đất, thì các tai vạ sẽ được ngăn chặn.—Early Writings, 36 (1851). LDE 256.2
 
-Khi thiên sứ của lòng thương xót xếp cánh và ra đi, Sa-tan sẽ làm những việc ác mà nó từ lâu đã muốn làm. Bão tố và giông gió, chiến tranh và đổ máu—nó vui thích trong những điều này, và như vậy nó gặt hái mùa màng của mình. Và loài người sẽ bị nó lừa dối hoàn toàn đến nỗi họ sẽ tuyên bố rằng những tai họa này là kết quả của việc xúc phạm đến ngày thứ nhất trong tuần lễ. Từ các bục giảng của những Hội Thánh phổ thông, người ta sẽ nghe lời tuyên bố rằng thế giới đang bị trừng phạt vì ngày Chúa Nhật không được tôn trọng như đáng phải có.—The Review and Herald, September 17, 1901. LDE 256.3
+Khi thiên sứ của lòng thương xót xếp cánh và ra đi, Sa-tan sẽ làm những việc ác mà nó từ lâu đã muốn làm. Bão tố và giông gió, chiến tranh và đổ máu—nó vui thích trong những điều này, và như vậy nó gặt hái mùa màng của mình. Và loài người sẽ bị nó lừa dối hoàn toàn đến nỗi họ sẽ tuyên bố rằng những tai họa này là kết quả của việc xúc phạm đến ngày thứ nhất trong tuần lễ. Từ các bục giảng của những Hội Thánh phổ thông, người ta sẽ nghe lời tuyên bố rằng thế giới đang bị trừng phạt vì ngày Chủ Nhật không được tôn trọng như đáng phải có.—The Review and Herald, September 17, 1901. LDE 256.3
 
 Người ta sẽ nài nỉ rằng số ít người đứng lên chống lại một định chế của Hội Thánh và một luật pháp của nhà nước thì không nên được dung thứ; thà để họ chịu khổ còn hơn là để cả các quốc gia bị rơi vào sự rối loạn và vô luật pháp. Cùng một lý lẽ ấy, một ngàn tám trăm năm trước, đã được “những kẻ cai trị dân” đưa ra để chống lại Đấng Christ.... Lý lẽ này sẽ tỏ ra có sức thuyết phục.—The Great Controversy, 615 (1911). LDE 257.1
 
-## Sự chết dành cho tất cả những ai không tôn kính ngày Chúa Nhật
+## Sự chết dành cho tất cả những ai không tôn kính ngày Chủ Nhật
 
 Một sắc lệnh được ban hành để giết các thánh đồ, khiến họ kêu cầu ngày đêm để được giải cứu.—Early Writings, 36, 37 (1851). LDE 257.2
 
-Như Nê-bu-cát-nết-sa, vua Ba-by-lôn, đã ra sắc lệnh rằng tất cả những ai không cúi xuống thờ lạy pho tượng đều phải bị giết, thì cũng vậy, một thông cáo sẽ được ban hành rằng tất cả những ai không tôn kính chế độ Chúa Nhật sẽ bị trừng phạt bằng tù đày và cái chết.... Hãy để mọi người đọc kỹ chương mười ba sách Khải Huyền, vì nó liên quan đến mỗi con người, lớn cũng như nhỏ.—Manuscript Releases 14:91 (1896). LDE 257.3
+Như Nê-bu-cát-nết-sa, vua Ba-by-lôn, đã ra sắc lệnh rằng tất cả những ai không cúi xuống thờ lạy pho tượng đều phải bị giết, thì cũng vậy, một thông cáo sẽ được ban hành rằng tất cả những ai không tôn kính chế độ Chủ Nhật sẽ bị trừng phạt bằng tù đày và cái chết.... Hãy để mọi người đọc kỹ chương mười ba sách Khải Huyền, vì nó liên quan đến mỗi con người, lớn cũng như nhỏ.—Manuscript Releases 14:91 (1896). LDE 257.3
 
 Cơn đại nạn sắp giáng xuống trên dân sự của Đức Chúa Trời. Khi ấy, sắc lệnh sẽ được ban ra cấm những người giữ ngày Sa-bát của Chúa được mua hoặc bán, và đe dọa họ bằng hình phạt, thậm chí là cái chết, nếu họ không tuân giữ ngày thứ nhất trong tuần như ngày Sa-bát.—In Heavenly Places, 344 (1908). LDE 257.4
 

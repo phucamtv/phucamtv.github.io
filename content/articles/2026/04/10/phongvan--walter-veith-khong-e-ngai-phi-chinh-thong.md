@@ -2,8 +2,8 @@
 title: "Không E Ngại Phi Chính Thống — Cuộc Đối Thoại Cởi Mở Với Walter Veith"
 date: 2026-04-10
 url: /phongvan/walter-veith-khong-e-ngai-phi-chinh-thong/
-description: "Giáo sư Walter Veith trò chuyện cùng Advent Media Connect về hành trình từ thế giới huyền bí đến Cơ-đốc Phục Lâm, về nguồn gốc loạt bài Total Onslaught, về dấu hiệu tận thế, luật Chúa Nhật, phong trào Zionism, và chân lý về Đức Thánh Linh."
-tags: ["Walter Veith", "Lời Tiên Tri", "Ngày Tận Thế", "Luật Chúa Nhật", "Zionism", "Ba Ngôi", "Cơ-đốc Phục Lâm", "Hội Dòng Tên"]
+description: "Giáo sư Walter Veith trò chuyện cùng Advent Media Connect về hành trình từ thế giới huyền bí đến Cơ-đốc Phục Lâm, về nguồn gốc loạt bài Total Onslaught, về dấu hiệu tận thế, luật Chủ Nhật, phong trào Zionism, và chân lý về Đức Thánh Linh."
+tags: ["Walter Veith", "Lời Tiên Tri", "Ngày Tận Thế", "Luật Chủ Nhật", "Zionism", "Ba Ngôi", "Cơ-đốc Phục Lâm", "Hội Dòng Tên"]
 authors: ["walter-veith"]
 plugins: [youtube]
 youtubeIDs: ["Me_-tLDlPyg"]
@@ -32,7 +32,7 @@ Về phương pháp nghiên cứu, ông khuyến cáo nghiêm khắc: không nê
 
 ---
 
-## Luật Chúa Nhật, Hiệp Ước Áp-ra-ham Và Hiệp Ước Mới Của Thế Giới
+## Luật Chủ Nhật, Hiệp Ước Áp-ra-ham Và Hiệp Ước Mới Của Thế Giới
 
 Nói về các dấu hiệu của thời cuối, giáo sư Veith phân tích đơn giản nhưng sắc bén: Kinh Thánh cho biết một thế lực chính trị sẽ áp đặt dấu hiệu của con thú, và theo ông, thế lực đó là Hiệp Chúng Quốc Hoa Kỳ — một quốc gia với hiến pháp mang dáng dấp chiên con nhưng nói năng như rồng. Những gì nhiều thập niên trước tưởng là bất khả, nay đã trở thành đề tài công khai: lập pháp hóa đạo đức tôn giáo, đồng bộ ngày nghỉ và thờ phượng, đưa bảng thứ nhất của Mười Điều Răn vào luật pháp.
 

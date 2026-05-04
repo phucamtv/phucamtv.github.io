@@ -34,7 +34,7 @@ Các thánh đồ phải hiểu rõ ràng lẽ thật hiện tại, là điều 
 
 Các sứ đồ, được những tà linh dối trá này hiện thân, bị bắt phải mâu thuẫn với những gì họ đã viết theo sự chỉ dẫn của Đức Thánh Linh khi còn ở trên đất. Họ phủ nhận nguồn gốc thiêng liêng của Kinh Thánh.—The Great Controversy, 557 (1911). LDE 157.1
 
-Qua hai sai lầm lớn, sự bất tử của linh hồn và sự thánh hóa ngày Chúa Nhật, Sa-tan sẽ đưa dân chúng vào trong những sự lừa dối của hắn. Trong khi điều thứ nhất đặt nền móng cho thuyết duy linh, thì điều thứ hai tạo ra một mối liên kết đồng cảm với La-mã.—The Great Controversy, 588 (1911). LDE 157.2
+Qua hai sai lầm lớn, sự bất tử của linh hồn và sự thánh hóa ngày Chủ Nhật, Sa-tan sẽ đưa dân chúng vào trong những sự lừa dối của hắn. Trong khi điều thứ nhất đặt nền móng cho thuyết duy linh, thì điều thứ hai tạo ra một mối liên kết đồng cảm với La-mã.—The Great Controversy, 588 (1911). LDE 157.2
 
 Sẽ có những kẻ nổi lên giả mạo chính là Đấng Christ, và đòi danh hiệu và sự thờ phượng vốn thuộc về Đấng Cứu Chuộc của thế gian. Chúng sẽ thực hiện những phép lạ chữa bệnh kỳ diệu, và sẽ tuyên bố đã nhận được những khải thị từ thiên đàng mâu thuẫn với chứng cớ của Kinh Thánh... LDE 157.3
 
@@ -104,7 +104,7 @@ Là hành động đỉnh điểm trong vở kịch lừa dối vĩ đại, chí
 
 Sự vinh hiển bao quanh nó vượt hơn bất cứ điều gì mà mắt phàm từng được trông thấy. Tiếng reo đắc thắng vang lên trong không trung: "Đấng Christ đã đến! Đấng Christ đã đến!" LDE 163.2
 
-Dân chúng sấp mình thờ lạy trước mặt nó, trong khi nó giơ tay ban phước cho họ, như Đấng Christ đã chúc phước cho các môn đồ Ngài khi Ngài còn ở trên đất. Giọng nói của nó dịu dàng và êm ái, nhưng đầy du dương. Bằng những âm điệu nhẹ nhàng, đầy lòng trắc ẩn, nó trình bày một vài lẽ thật ân hậu, thiên thượng giống như Đấng Cứu Thế đã từng phán; nó chữa lành bệnh tật cho dân chúng, và rồi, trong vai trò Đấng Christ mà nó tự xưng, nó tuyên bố đã đổi ngày Sa-bát sang Chúa Nhật, và truyền cho mọi người phải tôn thánh ngày mà nó đã ban phước.—The Great Controversy, 624 (1911). LDE 163.3
+Dân chúng sấp mình thờ lạy trước mặt nó, trong khi nó giơ tay ban phước cho họ, như Đấng Christ đã chúc phước cho các môn đồ Ngài khi Ngài còn ở trên đất. Giọng nói của nó dịu dàng và êm ái, nhưng đầy du dương. Bằng những âm điệu nhẹ nhàng, đầy lòng trắc ẩn, nó trình bày một vài lẽ thật ân hậu, thiên thượng giống như Đấng Cứu Thế đã từng phán; nó chữa lành bệnh tật cho dân chúng, và rồi, trong vai trò Đấng Christ mà nó tự xưng, nó tuyên bố đã đổi ngày Sa-bát sang Chủ Nhật, và truyền cho mọi người phải tôn thánh ngày mà nó đã ban phước.—The Great Controversy, 624 (1911). LDE 163.3
 
 ## Sa-tan Giả Vờ Đáp Lời Cầu Nguyện Của Các Thánh Đồ
 

@@ -126,20 +126,20 @@ Giăng được kêu gọi để thấy một dân khác biệt với những ng
 
 Dấu của con thú là ngày sa-bát của giáo hoàng.—Evangelism, 234 (1899). LDE 224.1
 
-Khi sự thử thách đến, sẽ được tỏ rõ dấu của con thú là gì. Đó là sự giữ ngày Chúa Nhật.—The S.D.A. Bible Commentary 7:980 (1900). LDE 224.2
+Khi sự thử thách đến, sẽ được tỏ rõ dấu của con thú là gì. Đó là sự giữ ngày Chủ Nhật.—The S.D.A. Bible Commentary 7:980 (1900). LDE 224.2
 
 Dấu, hay ấn, của Đức Chúa Trời được tỏ ra trong việc tuân giữ ngày Sa-bát thứ bảy, kỷ niệm sự sáng tạo của Chúa.... Dấu của con thú thì ngược lại với điều này—đó là việc giữ ngày thứ nhất trong tuần.—Testimonies for the Church 8:117 (1904). LDE 224.3
 
 > "Nó cũng khiến mọi người, nhỏ và lớn, giàu và nghèo, tự chủ và tôi mọi, đều chịu ghi dấu hoặc trên tay hữu, hoặc trên trán,"
 > <cite>(Khải-huyền 13:16)</cite>
 
-Loài người không những không được làm việc bằng tay vào ngày Chúa Nhật, mà còn phải nhìn nhận ngày Chúa Nhật là ngày Sa-bát trong tâm trí họ.—Special Testimony to Battle Creek Church (Ph 86), 6, 7 (1897). LDE 224.4
+Loài người không những không được làm việc bằng tay vào ngày Chủ Nhật, mà còn phải nhìn nhận ngày Chủ Nhật là ngày Sa-bát trong tâm trí họ.—Special Testimony to Battle Creek Church (Ph 86), 6, 7 (1897). LDE 224.4
 
 ## Khi Nào Dấu Của Con Thú Được Nhận Lãnh
 
 Chưa có ai nhận lãnh dấu của con thú.—Evangelism, 234 (1899). LDE 224.5
 
-Sự giữ ngày Chúa Nhật chưa phải là dấu của con thú, và sẽ không trở thành như vậy cho đến khi sắc lệnh được ban hành buộc loài người phải thờ lạy ngày sa-bát thần tượng này. Sẽ đến lúc ngày này trở thành thử thách, nhưng lúc đó vẫn chưa đến. The S.D.A. Bible Commentary 7:977 (1899). LDE 224.6
+Sự giữ ngày Chủ Nhật chưa phải là dấu của con thú, và sẽ không trở thành như vậy cho đến khi sắc lệnh được ban hành buộc loài người phải thờ lạy ngày sa-bát thần tượng này. Sẽ đến lúc ngày này trở thành thử thách, nhưng lúc đó vẫn chưa đến. The S.D.A. Bible Commentary 7:977 (1899). LDE 224.6
 
 Đức Chúa Trời đã ban cho loài người ngày Sa-bát làm dấu hiệu giữa Ngài và họ để thử nghiệm lòng trung thành của họ. Trong cơn khủng hoảng lớn ở trước mặt chúng ta, những ai sau khi ánh sáng về luật pháp Đức Chúa Trời đến với họ mà vẫn tiếp tục bất tuân và tôn cao luật pháp loài người lên trên luật pháp Đức Chúa Trời, sẽ nhận lãnh dấu của con thú.—Evangelism, 235 (1900). LDE 225.1
 
@@ -147,10 +147,10 @@ Ngày Sa-bát sẽ là cuộc thử nghiệm lớn về lòng trung thành, vì 
 
 Trong khi sự tuân giữ ngày sa-bát giả dối tuân theo luật của nhà nước, trái với điều răn thứ tư, sẽ là sự công khai tỏ lòng trung thành với một thế lực chống nghịch Đức Chúa Trời, thì sự giữ ngày Sa-bát thật, vâng theo luật pháp Đức Chúa Trời, là bằng chứng của lòng trung thành với Đấng Tạo Hóa. Trong khi một hạng người, bằng cách chấp nhận dấu hiệu phục tùng các thế lực trần gian, nhận lãnh dấu của con thú, thì hạng người kia, chọn dấu hiệu trung thành với thẩm quyền thiêng liêng, nhận lãnh ấn của Đức Chúa Trời.—The Great Controversy, 605 (1911). LDE 225.3
 
-## Việc Cưỡng Bách Giữ Ngày Chúa Nhật Là Sự Thử Thách
+## Việc Cưỡng Bách Giữ Ngày Chủ Nhật Là Sự Thử Thách
 
 Không ai bị kết án cho đến khi họ đã nhận được ánh sáng và đã thấy nghĩa vụ của điều răn thứ tư. Nhưng khi sắc lệnh được ban hành cưỡng bách giữ ngày Sa-bát giả mạo, và tiếng kêu lớn của thiên sứ thứ ba cảnh báo loài người chống lại sự thờ phượng con thú và hình tượng của nó, ranh giới giữa cái giả và cái thật sẽ được vạch ra rõ ràng. Khi đó, những người vẫn tiếp tục phạm tội sẽ nhận lấy dấu của con thú.—Evangelism, 234, 235 (1899). LDE 225.4
 
-Khi việc giữ ngày Chúa Nhật được luật pháp cưỡng bách, và thế giới được soi sáng về nghĩa vụ của ngày Sa-bát chân thật, thì bất cứ ai vi phạm điều răn của Đức Chúa Trời để tuân theo một mệnh lệnh không có thẩm quyền nào cao hơn thẩm quyền của La-mã, sẽ vì đó mà tôn kính giáo hoàng trên Đức Chúa Trời. Người đó đang dâng lòng tôn kính cho La-mã, và cho thế lực cưỡng bách thi hành định chế do La-mã thiết lập. Người đó đang thờ phượng con thú và hình tượng của nó. LDE 226.1
+Khi việc giữ ngày Chủ Nhật được luật pháp cưỡng bách, và thế giới được soi sáng về nghĩa vụ của ngày Sa-bát chân thật, thì bất cứ ai vi phạm điều răn của Đức Chúa Trời để tuân theo một mệnh lệnh không có thẩm quyền nào cao hơn thẩm quyền của La-mã, sẽ vì đó mà tôn kính giáo hoàng trên Đức Chúa Trời. Người đó đang dâng lòng tôn kính cho La-mã, và cho thế lực cưỡng bách thi hành định chế do La-mã thiết lập. Người đó đang thờ phượng con thú và hình tượng của nó. LDE 226.1
 
 Khi loài người bấy giờ chối bỏ định chế mà Đức Chúa Trời đã tuyên bố là dấu hiệu của thẩm quyền Ngài, và thay vào đó tôn vinh điều mà La-mã đã chọn làm biểu hiệu của quyền tối thượng của mình, thì qua đó họ sẽ chấp nhận dấu hiệu trung thành với La-mã—“dấu của con thú”. Và chỉ đến khi vấn đề được trình bày rõ ràng như vậy trước dân chúng, và họ buộc phải lựa chọn giữa các điều răn của Đức Chúa Trời và các điều răn của loài người, thì những người tiếp tục phạm tội mới nhận lấy “dấu của con thú”.—The Great Controversy, 449 (1911). LDE 226.2

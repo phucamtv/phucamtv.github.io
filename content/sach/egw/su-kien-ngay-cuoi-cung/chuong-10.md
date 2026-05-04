@@ -82,7 +82,7 @@ Sa-tan nói rằng... "Vì sợ thiếu lương thực và áo mặc, chúng s�
 
 Một số người sẽ bị cầm tù vì họ từ chối xúc phạm ngày Sa-bát của Chúa.—The Paulson Collection of Ellen G. White Letters, 118 (1907). LDE 149.2
 
-Khi những người bênh vực lẽ thật từ chối tôn vinh ngày sa-bát Chúa Nhật, một số sẽ bị tống vào tù, một số sẽ bị lưu đày, một số sẽ bị đối xử như nô lệ. Đối với sự khôn ngoan của loài người, tất cả những điều này hiện nay dường như không thể xảy ra, nhưng khi Đức Thánh Linh kiềm chế của Đức Chúa Trời rút khỏi loài người và họ sẽ ở dưới quyền kiểm soát của Sa-tan, là kẻ ghét những giới luật thiêng liêng, thì sẽ có những diễn biến lạ lùng. Lòng người có thể rất tàn nhẫn khi sự kính sợ và tình yêu thương của Đức Chúa Trời bị tước đi.—The Great Controversy, 608 (1911). LDE 149.3
+Khi những người bênh vực lẽ thật từ chối tôn vinh ngày sa-bát Chủ Nhật, một số sẽ bị tống vào tù, một số sẽ bị lưu đày, một số sẽ bị đối xử như nô lệ. Đối với sự khôn ngoan của loài người, tất cả những điều này hiện nay dường như không thể xảy ra, nhưng khi Đức Thánh Linh kiềm chế của Đức Chúa Trời rút khỏi loài người và họ sẽ ở dưới quyền kiểm soát của Sa-tan, là kẻ ghét những giới luật thiêng liêng, thì sẽ có những diễn biến lạ lùng. Lòng người có thể rất tàn nhẫn khi sự kính sợ và tình yêu thương của Đức Chúa Trời bị tước đi.—The Great Controversy, 608 (1911). LDE 149.3
 
 Nếu chúng ta được kêu gọi chịu khổ vì cớ Đấng Christ, chúng ta sẽ có thể bước vào ngục tù với lòng tin cậy nơi Ngài như một đứa trẻ nhỏ tin cậy nơi cha mẹ mình. Bây giờ là lúc để vun trồng đức tin nơi Đức Chúa Trời.—Our High Calling, 357 (1892). LDE 149.4
 

@@ -15,9 +15,9 @@ summary: ""
 
 Nhiều thư đã gửi đến tôi hỏi xem tôi có ánh sáng đặc biệt nào về thời điểm khi thời kỳ ân điển sẽ kết thúc hay không, và tôi xin trả lời rằng tôi chỉ có sứ điệp này để truyền đạt, ấy là bây giờ chính là lúc phải làm việc khi ngày còn, vì đêm sắp đến là lúc không ai có thể làm việc được.—Selected Messages 1:191 (1894). LDE 227.2
 
-## Việc Thi Hành Luật Chúa Nhật Xảy Ra Trước Khi Thời Kỳ Ân Điển Kết Thúc
+## Việc Thi Hành Luật Chủ Nhật Xảy Ra Trước Khi Thời Kỳ Ân Điển Kết Thúc
 
-Chúa đã chỉ cho tôi thấy rõ ràng rằng hình tượng của con thú sẽ được hình thành trước khi thời kỳ ân điển kết thúc, vì đó sẽ là cuộc thử thách lớn [Xem chương trước, nơi cuộc thử thách lớn dành cho dân sự Đức Chúa Trời được chỉ ra là sự thi hành Luật Chúa Nhật.] cho dân sự Đức Chúa Trời, qua đó số phận đời đời của họ sẽ được quyết định.—Selected Messages 2:81 (1890). LDE 227.3
+Chúa đã chỉ cho tôi thấy rõ ràng rằng hình tượng của con thú sẽ được hình thành trước khi thời kỳ ân điển kết thúc, vì đó sẽ là cuộc thử thách lớn [Xem chương trước, nơi cuộc thử thách lớn dành cho dân sự Đức Chúa Trời được chỉ ra là sự thi hành Luật Chủ Nhật.] cho dân sự Đức Chúa Trời, qua đó số phận đời đời của họ sẽ được quyết định.—Selected Messages 2:81 (1890). LDE 227.3
 
 "Hình tượng của con thú" là gì? Và nó sẽ được hình thành như thế nào? Hình tượng được làm bởi con thú hai sừng, và là một hình tượng cho con thú. Nó cũng được gọi là hình tượng của con thú. [Con thú hai sừng trong Khải-huyền 13:11-17 làm một hình tượng cho con thú được mô tả trong Khải-huyền 13:1-10.] Vậy thì để biết hình tượng đó như thế nào và được hình thành ra sao, chúng ta phải nghiên cứu các đặc điểm của chính con thú ấy—giáo hoàng. LDE 228.1
 

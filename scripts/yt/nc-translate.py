@@ -21,9 +21,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 SCRIPT_DIR = Path(__file__).parent
-SERIES_SLUG = "khai-huyen-stefanovic"
-PLAYLIST_JSON = ROOT / "data" / "yt" / "nghien-cuu" / f"{SERIES_SLUG}.json"
-CONTENT_DIR = ROOT / "content" / "nghien-cuu" / SERIES_SLUG
+DEFAULT_SERIES_SLUG = "khai-huyen-stefanovic"
+DEFAULT_AUTHOR = "Ranko Stefanovic"
 TRANSCRIPTS_DIR = ROOT / ".claude" / "data" / "transcripts"
 PROMPT_FILE = SCRIPT_DIR / "prompts" / "translate-rewrite.md"
 
@@ -150,8 +149,8 @@ def parse_claude_json(out: str) -> dict:
     return json.loads(s[first : last + 1], strict=False)
 
 
-def process_episode(idx: int, video: dict, *, force: bool, dry_run: bool) -> str:
-    bai_file = CONTENT_DIR / f"bai-{idx:02d}.md"
+def process_episode(idx: int, video: dict, *, content_dir: Path, author: str, force: bool, dry_run: bool) -> str:
+    bai_file = content_dir / f"bai-{idx:02d}.md"
     if not bai_file.exists():
         return "missing-file"
 
@@ -166,7 +165,6 @@ def process_episode(idx: int, video: dict, *, force: bool, dry_run: bool) -> str
         return "failed-fetch"
 
     title = fm.get("title", "")
-    author = "Ranko Stefanovic"
     template = PROMPT_FILE.read_text(encoding="utf-8")
     prompt = render_prompt(template, title=title, author=author, transcript=transcript)
 
@@ -201,12 +199,17 @@ def process_episode(idx: int, video: dict, *, force: bool, dry_run: bool) -> str
 
 def main() -> int:
     p = argparse.ArgumentParser()
+    p.add_argument("--series", default=DEFAULT_SERIES_SLUG, help="series slug under content/nghien-cuu/")
+    p.add_argument("--author", default=DEFAULT_AUTHOR, help="author display name passed to the prompt")
     p.add_argument("--only", help="comma-separated indices, e.g. 1,5,12")
     p.add_argument("--force", action="store_true", help="overwrite existing bodies")
     p.add_argument("--dry-run", action="store_true", help="don't write files")
     args = p.parse_args()
 
-    data = json.loads(PLAYLIST_JSON.read_text(encoding="utf-8"))
+    playlist_json = ROOT / "data" / "yt" / "nghien-cuu" / f"{args.series}.json"
+    content_dir = ROOT / "content" / "nghien-cuu" / args.series
+
+    data = json.loads(playlist_json.read_text(encoding="utf-8"))
     videos = data["videos"]
 
     if args.only:
@@ -220,7 +223,13 @@ def main() -> int:
         if idx not in wanted:
             continue
         print(f"[{idx:02d}] {v['title']}", file=sys.stderr)
-        status = process_episode(idx, v, force=args.force, dry_run=args.dry_run)
+        status = process_episode(
+            idx, v,
+            content_dir=content_dir,
+            author=args.author,
+            force=args.force,
+            dry_run=args.dry_run,
+        )
         print(f"  → {status}", file=sys.stderr)
         summary.setdefault(status, []).append(idx)
 

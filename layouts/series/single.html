@@ -9,7 +9,7 @@
     {{ range where $.Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true }}
     {{ if in .Params.series $seriesID }}
     <article class="summary">
-      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
       {{ with .Params.tags }}
       <span class="tags">

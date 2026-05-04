@@ -13,7 +13,7 @@
         {{- $count = $data.totalVideos -}}
         {{- with index $data.videos 0 }}{{ $thumb = .thumbnail }}{{ end -}}
       {{- end -}}
-      <a class="nc-series-card" href="{{ .Permalink }}">
+      <a class="nc-series-card" href="{{ .RelPermalink }}">
         {{ if $thumb }}
         <div class="nc-series-thumb">
           <img src="{{ $thumb }}" alt="" loading="lazy">

@@ -21,7 +21,7 @@ Vậy xin hãy chịu khó đọc trọn điều răn Thứ Tư: Xuất Ê-díp-
 
 **Thật lạ!** Mỗi khi nghe một ai đó giữ ngày Sa-bát Thứ Bảy thì chúng ta lập tức nhìn họ bằng ánh mắt khó chịu, xa lánh, thậm chí ghê sợ vì nghĩ rằng họ đang đi theo con đường tà giáo.
 
-**Sao vậy?** Chỉ vì chúng ta đã quá quen thuộc với việc thờ phượng Chúa ngày Chủ Nhật. Bản thân chữ “Chủ Nhật” hay “Chúa Nhật” làm cho ta có cảm giác rằng đó mới chính là ngày của Chúa.
+**Sao vậy?** Chỉ vì chúng ta đã quá quen thuộc với việc thờ phượng Chúa ngày Chủ Nhật. Bản thân chữ “Chủ Nhật” hay “Chủ Nhật” làm cho ta có cảm giác rằng đó mới chính là ngày của Chúa.
 
 Lại nữa, có khi ta được dạy dỗ rằng hãy coi chừng những người giữ ngày Sa-bát Thứ Bảy, họ sẽ dụ dỗ ta cậy việc làm mà được xưng công bình!
 

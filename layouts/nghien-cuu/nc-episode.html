@@ -16,7 +16,7 @@
   <div class="breadcrumb">
     <a href="/nghien-cuu/">Nghiên Cứu</a>
     <span class="breadcrumb-sep">›</span>
-    <a href="{{ $series.Permalink }}">{{ $series.Title }}</a>
+    <a href="{{ $series.RelPermalink }}">{{ $series.Title }}</a>
     <span class="breadcrumb-sep">›</span>
     Bài {{ $idx }}
   </div>
@@ -41,17 +41,10 @@
   <div class="nc-episode-body content">{{ . }}</div>
   {{ end }}
 
-  {{ if and $video.description (gt (len $video.description) 30) }}
-  <section class="nc-episode-desc">
-    <h2>Mô tả</h2>
-    <p>{{ $video.description | safeHTML }}</p>
-  </section>
-  {{ end }}
-
   <nav class="nc-prev-next">
     <div class="nc-prev-next-cell nc-prev-next-prev">
       {{ with $prev }}
-        <a href="{{ .Permalink }}">
+        <a href="{{ .RelPermalink }}">
           <span class="nc-prev-next-label">← Bài trước</span>
           <span class="nc-prev-next-title">Bài {{ .Params.index }} · {{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</span>
         </a>
@@ -59,7 +52,7 @@
     </div>
     <div class="nc-prev-next-cell nc-prev-next-next">
       {{ with $next }}
-        <a href="{{ .Permalink }}">
+        <a href="{{ .RelPermalink }}">
           <span class="nc-prev-next-label">Bài kế →</span>
           <span class="nc-prev-next-title">Bài {{ .Params.index }} · {{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</span>
         </a>

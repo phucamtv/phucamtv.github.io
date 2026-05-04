@@ -9,7 +9,7 @@
 
   <div class="ss-lesson-list">
     {{ range .Sections.ByWeight }}
-    <a href="{{ .Permalink }}" class="ss-lesson-card">
+    <a href="{{ .RelPermalink }}" class="ss-lesson-card">
       {{ with .Params.lesson }}
       <span class="ss-lesson-num">{{ printf "%02d" . }}</span>
       {{ end }}

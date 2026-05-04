@@ -11,7 +11,7 @@
     {{- range $allPages -}}
       {{- if eq (.Date.Format "2006/01") $yearMonth -}}
     <article class="summary">
-      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
       {{ with .Params.tags }}
       <span class="tags">
@@ -31,7 +31,7 @@
   {{ $pages := where (where .RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil }}
   {{ range $pages }}
   <article class="summary">
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
     {{ with .Params.tags }}
     <span class="tags">

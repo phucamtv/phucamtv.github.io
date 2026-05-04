@@ -4,7 +4,7 @@
     <a href="{{ "/truong-sabat/" | relURL }}">Trường Sa-bát</a>
     <span class="breadcrumb-sep">›</span>
     {{ with .Parent }}
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     <span class="breadcrumb-sep">›</span>
     {{ end }}
     <span>Bài {{ .Params.lesson }}</span>

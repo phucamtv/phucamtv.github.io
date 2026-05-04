@@ -2,8 +2,8 @@
 title: "Chiến Tranh Với Iran — Có Phải Thế Giới Đang Bị Đặt Cược?"
 date: 2026-03-26
 url: /baigiang/chien-tranh-voi-iran-va-so-phan-the-gioi/
-description: "Giáo sư Walter Veith và mục sư Martin Smith phân tích cuộc chiến Hoa Kỳ–Israel đánh Iran dưới góc nhìn tiên tri: một cuộc chiến tôn giáo, Hiệp Ước Áp-ra-ham, vai trò của Hội Dòng Tên, luật Chúa Nhật, và sự sắp hàng của các vua thế gian chống lại Chiên Con."
-tags: ["Walter Veith", "Martin Smith", "What's Up Prof", "Iran", "Lời Tiên Tri", "Luật Chúa Nhật", "Hiệp Ước Áp-ra-ham", "Zionism", "Hội Dòng Tên", "Đa-ni-ên 11", "Khải Huyền 13"]
+description: "Giáo sư Walter Veith và mục sư Martin Smith phân tích cuộc chiến Hoa Kỳ–Israel đánh Iran dưới góc nhìn tiên tri: một cuộc chiến tôn giáo, Hiệp Ước Áp-ra-ham, vai trò của Hội Dòng Tên, luật Chủ Nhật, và sự sắp hàng của các vua thế gian chống lại Chiên Con."
+tags: ["Walter Veith", "Martin Smith", "What's Up Prof", "Iran", "Lời Tiên Tri", "Luật Chủ Nhật", "Hiệp Ước Áp-ra-ham", "Zionism", "Hội Dòng Tên", "Đa-ni-ên 11", "Khải Huyền 13"]
 authors: ["walter-veith"]
 plugins: [youtube]
 youtubeIDs: ["6dQqzoBxddQ"]
@@ -62,15 +62,15 @@ Bất cứ ai khăng khăng giữ ngày Sa-bát thứ bảy — ngày mà chính
 
 Hai ông phát lại những đoạn trao đổi giữa Tucker Carlson, Piers Morgan, Ted Cruz và Mike Huckabee để minh họa. Khi Tucker đặt câu hỏi về Zionism Cơ-đốc — rằng nếu Sáng-thế Ký 15 thực sự trao toàn bộ vùng đất từ sông Nile đến sông Ơ-phơ-rát cho người Do Thái, vậy thì Israel có quyền chiếm toàn bộ Jordan, Syria, Li-băng không? — phản ứng là ngay lập tức gắn nhãn "bài Do Thái". Ted Cruz thậm chí đề nghị các nền tảng mạng xã hội phải công khai quốc gia của người đăng bài, để trừng trị những "con rối tất" làm suy yếu tường thuật chính thống.
 
-Bài học mà Veith rút ra: khi ai đó đơn giản đặt câu hỏi về thẩm quyền của tường thuật, họ đã bị đánh dấu. Điều tương tự sẽ xảy ra với những người đặt câu hỏi về luật Chúa Nhật khi nó đến.
+Bài học mà Veith rút ra: khi ai đó đơn giản đặt câu hỏi về thẩm quyền của tường thuật, họ đã bị đánh dấu. Điều tương tự sẽ xảy ra với những người đặt câu hỏi về luật Chủ Nhật khi nó đến.
 
 ---
 
-## Luật Chúa Nhật Đang Được Chuẩn Bị Bằng Ngôn Ngữ Tôn Giáo Dân Tộc
+## Luật Chủ Nhật Đang Được Chuẩn Bị Bằng Ngôn Ngữ Tôn Giáo Dân Tộc
 
-Từ lời của giáo hoàng đến lời của Douglas Wilson, Mark Meckler, và làn sóng Christian nationalism, hai ông cho rằng cùng một chủ đề đang hội tụ: Hội Thánh đã quá khoan dung; xã hội cần "ít khoan dung hơn"; các thuộc địa Hoa Kỳ thuở lập quốc từng có luật buộc đi nhà thờ ngày Chúa Nhật; nếu đạo đức Cơ-đốc muốn sống còn, nó phải được *cưỡng ép* bằng quyền lực nhà nước. Cộng thêm Bữa Sáng Cầu Nguyện Công giáo toàn quốc, giáo hoàng người Mỹ đầu tiên (Leo XIV), ứng dụng Hallow, và những lời ca ngợi "tổng thống Công giáo nhất trong lịch sử" — bàn cờ đã được dọn sẵn. Vết thương chí tử của con thú thứ nhất đang lành.
+Từ lời của giáo hoàng đến lời của Douglas Wilson, Mark Meckler, và làn sóng Christian nationalism, hai ông cho rằng cùng một chủ đề đang hội tụ: Hội Thánh đã quá khoan dung; xã hội cần "ít khoan dung hơn"; các thuộc địa Hoa Kỳ thuở lập quốc từng có luật buộc đi nhà thờ ngày Chủ Nhật; nếu đạo đức Cơ-đốc muốn sống còn, nó phải được *cưỡng ép* bằng quyền lực nhà nước. Cộng thêm Bữa Sáng Cầu Nguyện Công giáo toàn quốc, giáo hoàng người Mỹ đầu tiên (Leo XIV), ứng dụng Hallow, và những lời ca ngợi "tổng thống Công giáo nhất trong lịch sử" — bàn cờ đã được dọn sẵn. Vết thương chí tử của con thú thứ nhất đang lành.
 
-Và tất cả đều quy tụ về Sa-bát, vì Sa-bát là *dấu ấn* của thẩm quyền: ai có quyền quyết định đạo đức? Đấng Tạo Hóa, hay con người? Luật Chúa Nhật là dấu con thú vì nó tuyên bố thẩm quyền của một con người đã đổi luật pháp Đức Chúa Trời.
+Và tất cả đều quy tụ về Sa-bát, vì Sa-bát là *dấu ấn* của thẩm quyền: ai có quyền quyết định đạo đức? Đấng Tạo Hóa, hay con người? Luật Chủ Nhật là dấu con thú vì nó tuyên bố thẩm quyền của một con người đã đổi luật pháp Đức Chúa Trời.
 
 ---
 

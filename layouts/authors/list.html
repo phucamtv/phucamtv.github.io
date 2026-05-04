@@ -14,7 +14,7 @@
       {{ if in .Params.authors $slug }}{{ $count = add $count 1 }}{{ end }}
     {{ end }}
     {{ if gt $count 0 }}
-    <a href="{{ .Permalink }}" class="author-card-link">
+    <a href="{{ .RelPermalink }}" class="author-card-link">
       <div class="author-card">
         {{ with .Params.avatar }}
         <div class="author-card-avatar">

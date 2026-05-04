@@ -7,7 +7,7 @@
     <nav class="breadcrumb">
       <a href="{{ "/" | relURL }}">Home</a>
       <span class="breadcrumb-sep">&rsaquo;</span>
-      <a href="{{ .CurrentSection.Permalink }}">Tín Lý</a>
+      <a href="{{ .CurrentSection.RelPermalink }}">Tín Lý</a>
       <span class="breadcrumb-sep">&rsaquo;</span>
       <span>{{ .Title }}</span>
     </nav>
@@ -35,7 +35,7 @@
 
     <nav class="doctrine-nav-bottom">
       {{ with $prev }}
-      <a href="{{ .Permalink }}" class="doctrine-nav-prev">
+      <a href="{{ .RelPermalink }}" class="doctrine-nav-prev">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
         <div>
           <span class="doctrine-nav-label">Bài trước</span>
@@ -44,7 +44,7 @@
       </a>
       {{ else }}<span></span>{{ end }}
       {{ with $next }}
-      <a href="{{ .Permalink }}" class="doctrine-nav-next">
+      <a href="{{ .RelPermalink }}" class="doctrine-nav-next">
         <div>
           <span class="doctrine-nav-label">Bài kế</span>
           <span class="doctrine-nav-title">{{ .Title }}</span>
@@ -60,7 +60,7 @@
       <div class="sidebar-heading">Mục Lục Tín Lý</div>
       <nav class="doctrine-toc">
         {{ range $allDoctrines }}
-        <a href="{{ .Permalink }}" class="doctrine-toc-item{{ if eq .Weight $currentWeight }} doctrine-toc-active{{ end }}">
+        <a href="{{ .RelPermalink }}" class="doctrine-toc-item{{ if eq .Weight $currentWeight }} doctrine-toc-active{{ end }}">
           <span class="doctrine-toc-num">{{ printf "%02d" .Weight }}</span>
           <span class="doctrine-toc-title">{{ .Title }}</span>
         </a>

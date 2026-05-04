@@ -99,7 +99,7 @@ Nhiều người sẽ chứng tỏ rằng họ không hiệp một với Đấng
 
 ## Những Mục Sư Không Thánh Hóa Sẽ Bị Loại Bỏ
 
-Vấn đề lớn lao đã gần kề [việc thi hành Luật Chúa Nhật] sẽ loại bỏ những kẻ Đức Chúa Trời không bổ nhiệm, và Ngài sẽ có một đội ngũ mục vụ thanh sạch, chân thật, được thánh hóa, sẵn sàng cho mưa cuối mùa.—Selected Messages 3:385 (1886). LDE 179.2
+Vấn đề lớn lao đã gần kề [việc thi hành Luật Chủ Nhật] sẽ loại bỏ những kẻ Đức Chúa Trời không bổ nhiệm, và Ngài sẽ có một đội ngũ mục vụ thanh sạch, chân thật, được thánh hóa, sẵn sàng cho mưa cuối mùa.—Selected Messages 3:385 (1886). LDE 179.2
 
 Nhiều kẻ sẽ đứng trên các tòa giảng của chúng ta với ngọn đuốc tiên tri giả trong tay, được thắp lên từ ngọn đuốc địa ngục của Sa-tan.... LDE 179.3
 

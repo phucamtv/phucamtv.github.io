@@ -18,7 +18,7 @@
     {{ range .Pages.ByWeight }}
     {{ if gt .Weight 0 }}
     <li class="doctrine-item">
-      <a href="{{ .Permalink }}" class="doctrine-item-link">
+      <a href="{{ .RelPermalink }}" class="doctrine-item-link">
         <span class="doctrine-num">{{ printf "%02d" .Weight }}</span>
         <div class="doctrine-item-body">
           <span class="doctrine-item-title">{{ .Title }}</span>

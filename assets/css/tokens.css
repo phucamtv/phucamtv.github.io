@@ -43,8 +43,8 @@
   --accent-faint: #b0a595;
 
   /* links */
-  --link: #2563eb;
-  --link-hover: #1d4ed8;
+  --link: #9c4a1f;
+  --link-hover: #7a3815;
 
   /* tags */
   --tag-bg: #f1f5f9;
@@ -111,9 +111,9 @@
     --accent-soft: #8a7b6b;
     --accent-faint: #6b5f52;
 
-    /* links — soften the cool blue against warm-dark */
-    --link: #93b8ff;
-    --link-hover: #b8cfff;
+    /* links — warm amber that reads on warm-dark */
+    --link: #e8a87c;
+    --link-hover: #f0c4a0;
 
     /* tags */
     --tag-bg: #2a241e;

@@ -3,7 +3,7 @@ title: "Những Kẻ Cai Trị Điều Ác — Walter Veith Bàn Về Hội Kín
 date: 2024-12-05
 url: /phongvan/walter-veith-hoi-kin-va-nhung-ke-cai-tri-dieu-ac/
 description: "Giáo sư Walter Veith trò chuyện cùng Clash Of Minds về nguồn gốc của các hội kín từ thời tiền hồng thủy, vai trò của Hội Dòng Tên trong việc phá hủy phong trào Cải Chánh, hệ thống Hội Tam Điểm, Hội Hiệp Sĩ Malta, cùng mối liên hệ giữa Rô-ma, hệ thống ngân hàng và lời tiên tri về dấu con thú."
-tags: ["Walter Veith", "Hội Kín", "Hội Dòng Tên", "Hội Tam Điểm", "Lời Tiên Tri", "Dấu Con Thú", "Ngày Chúa Nhật", "Cơ-đốc Phục Lâm", "Công Giáo La Mã"]
+tags: ["Walter Veith", "Hội Kín", "Hội Dòng Tên", "Hội Tam Điểm", "Lời Tiên Tri", "Dấu Con Thú", "Ngày Chủ Nhật", "Cơ-đốc Phục Lâm", "Công Giáo La Mã"]
 authors: ["walter-veith"]
 plugins: [youtube]
 youtubeIDs: ["73VwKe3ullg"]
@@ -36,7 +36,7 @@ Khi phong trào Cải Chánh bùng nổ và Kinh Thánh được dịch từ b�
 
 Để chống lại, ba người — Ignatius Loyola người Tây Ban Nha, Laínez người Đức và Francis Xavier — thành lập Hội Dòng Tên, thực chất là một hội kín quân sự khoác áo tôn giáo. Họ thề bằng mọi giá sẽ hủy diệt phong trào Cải Chánh và bản Kinh Thánh Tin Lành, kể cả bằng ám sát. Họ gọi chính Kinh Thánh là "con rắn độc" và thề sẽ "dùng gậy Môi-se nắm lấy đuôi nó để tiêu diệt".
 
-Tại Công Đồng Trent, giáo hoàng thiết lập tín điều vô ngộ và khẳng định rằng Kinh Thánh phải được giải thích theo truyền thống. Đặc biệt, tổng giám mục thành Reggio đã vạch trần điểm yếu của các nhà Cải Chánh: "Các ngươi nói Kinh Thánh là chuẩn mực duy nhất, vậy tại sao các ngươi vẫn giữ ngày Chúa Nhật — một điều răn do chính Giáo Hội Công Giáo La Mã ban hành?" Đó là một cơ hội lớn để đáp lại, nhưng Hội Thánh Tin Lành đã bỏ lỡ.
+Tại Công Đồng Trent, giáo hoàng thiết lập tín điều vô ngộ và khẳng định rằng Kinh Thánh phải được giải thích theo truyền thống. Đặc biệt, tổng giám mục thành Reggio đã vạch trần điểm yếu của các nhà Cải Chánh: "Các ngươi nói Kinh Thánh là chuẩn mực duy nhất, vậy tại sao các ngươi vẫn giữ ngày Chủ Nhật — một điều răn do chính Giáo Hội Công Giáo La Mã ban hành?" Đó là một cơ hội lớn để đáp lại, nhưng Hội Thánh Tin Lành đã bỏ lỡ.
 
 ---
 
@@ -68,11 +68,11 @@ Ba thực thể độc lập với mọi hệ thống chính trị đang cai tr�
 
 ## Lời Tiên Tri Và Ngày Sa-bát
 
-Tất cả con đường dẫn về một điểm: dấu con thú. Công Giáo La Mã công khai tuyên bố trong chính sách giáo lý của mình rằng "dấu quyền uy giáo hội" của họ là việc đã dời ngày Sa-bát sang ngày Chúa Nhật. Do đó, ai giữ ngày Chúa Nhật là đang bày tỏ sự tôn kính quyền uy của Hội Thánh Công Giáo La Mã.
+Tất cả con đường dẫn về một điểm: dấu con thú. Công Giáo La Mã công khai tuyên bố trong chính sách giáo lý của mình rằng "dấu quyền uy giáo hội" của họ là việc đã dời ngày Sa-bát sang ngày Chủ Nhật. Do đó, ai giữ ngày Chủ Nhật là đang bày tỏ sự tôn kính quyền uy của Hội Thánh Công Giáo La Mã.
 
 Triết lý bí truyền buộc phải xoá bỏ ngày Sa-bát, bởi Sa-bát nhắc nhở rằng con người là loài thọ tạo, rằng quyền năng sáng tạo và thánh hoá thuộc về Đức Chúa Trời. Nếu "ngươi là thần", thì Sa-bát trở nên vô nghĩa. Phong trào "Sa-bát Xanh" cùng mọi sáng kiến đồng bộ ngày nghỉ đều không phải là ngẫu nhiên — chúng là những bước chuẩn bị cụ thể cho sự áp đặt cuối cùng.
 
-Phong trào đặt lại Mười Điều Răn trong phòng học tại Philadelphia chẳng hạn — bản thân nó không có gì sai, nhưng phải xem là phiên bản nào: bản Kinh Thánh, hay bản đã bị sửa đổi của sách giáo lý Công Giáo, nơi điều răn thứ tư nói đến "ngày của Chúa" hiểu theo nghĩa Chúa Nhật. Đó là sự lừa dối kép: bạn tưởng mình đang vâng lời Đức Chúa Trời trong khi thực ra đang cúi đầu trước một hệ thống.
+Phong trào đặt lại Mười Điều Răn trong phòng học tại Philadelphia chẳng hạn — bản thân nó không có gì sai, nhưng phải xem là phiên bản nào: bản Kinh Thánh, hay bản đã bị sửa đổi của sách giáo lý Công Giáo, nơi điều răn thứ tư nói đến "ngày của Chúa" hiểu theo nghĩa Chủ Nhật. Đó là sự lừa dối kép: bạn tưởng mình đang vâng lời Đức Chúa Trời trong khi thực ra đang cúi đầu trước một hệ thống.
 
 ---
 

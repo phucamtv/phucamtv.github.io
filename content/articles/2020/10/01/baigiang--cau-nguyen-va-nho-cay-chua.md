@@ -38,7 +38,7 @@ Nhiều người tín hữu xem Chúa như một vị thần chỉ để kêu c�
 
 Một người chỉ biết đến Chúa qua sách vở hay nghe kể sẽ không có phản xạ tự nhiên như vậy. Chỉ khi nào sống với Chúa từng ngày, để Ngài tham gia vào mỗi sinh hoạt của đời mình, thì lúc đối diện với thử thách lớn, phản ứng đầu tiên mới là tìm đến Ngài.
 
-Đây chính là ý nghĩa thật sự của đời sống đức tin — không phải chỉ đến nhà thờ mỗi Chúa nhật hay cầu nguyện khi gặp khó khăn, mà là sống trong sự hiện diện của Chúa mỗi ngày, trong mọi quyết định lớn nhỏ.
+Đây chính là ý nghĩa thật sự của đời sống đức tin — không phải chỉ đến nhà thờ mỗi Chủ nhật hay cầu nguyện khi gặp khó khăn, mà là sống trong sự hiện diện của Chúa mỗi ngày, trong mọi quyết định lớn nhỏ.
 
 ---
 

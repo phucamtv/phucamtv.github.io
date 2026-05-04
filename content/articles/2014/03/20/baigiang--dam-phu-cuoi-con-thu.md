@@ -18,7 +18,7 @@ Khải Huyền 17 là một trong những chương tiên tri phức tạp và g�
 
 ## Dâm Phụ Ba-by-lôn — Hội Thánh Bội Đạo
 
-Mục sư Bohr mở đầu bằng cách nhận diện người đàn bà trong Khải Huyền 17. Trong Kinh Thánh, người nữ tượng trưng cho dân sự Đức Chúa Trời; khi người nữ trở thành dâm phụ, đó là hình ảnh của Hội Thánh sa ngã — Hội Thánh đã phạm tội tà dâm thuộc linh với các vua thế gian. Bà mặc màu tía và đỏ tươi, trang sức bằng vàng bạc và ngọc quý, tay cầm chén vàng đựng các sự gớm ghiếc — tức những giáo lý sai lạc như thờ ngày Chúa Nhật, cầu khẩn người chết, và bãi bỏ luật pháp Đức Chúa Trời. Bà được gọi là Ba-by-lôn, mẹ của các dâm phụ — nghĩa là bà có những con gái sinh ra từ cuộc Cải Chánh thế kỷ XVI, những giáo phái Tin Lành vẫn còn chia sẻ nhiều giáo lý của mẹ. Bohr khẳng định rằng mọi đặc điểm này đều chỉ về hệ thống giáo hoàng La Mã, một nhận định không chỉ riêng Cơ-đốc Phục Lâm mà nhiều nhà giải kinh khác cũng đồng ý.
+Mục sư Bohr mở đầu bằng cách nhận diện người đàn bà trong Khải Huyền 17. Trong Kinh Thánh, người nữ tượng trưng cho dân sự Đức Chúa Trời; khi người nữ trở thành dâm phụ, đó là hình ảnh của Hội Thánh sa ngã — Hội Thánh đã phạm tội tà dâm thuộc linh với các vua thế gian. Bà mặc màu tía và đỏ tươi, trang sức bằng vàng bạc và ngọc quý, tay cầm chén vàng đựng các sự gớm ghiếc — tức những giáo lý sai lạc như thờ ngày Chủ Nhật, cầu khẩn người chết, và bãi bỏ luật pháp Đức Chúa Trời. Bà được gọi là Ba-by-lôn, mẹ của các dâm phụ — nghĩa là bà có những con gái sinh ra từ cuộc Cải Chánh thế kỷ XVI, những giáo phái Tin Lành vẫn còn chia sẻ nhiều giáo lý của mẹ. Bohr khẳng định rằng mọi đặc điểm này đều chỉ về hệ thống giáo hoàng La Mã, một nhận định không chỉ riêng Cơ-đốc Phục Lâm mà nhiều nhà giải kinh khác cũng đồng ý.
 
 ---
 

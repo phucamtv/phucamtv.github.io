@@ -15,16 +15,19 @@
     <h2 style="margin-top:2rem">Nội dung</h2>
     <ol class="doctrines-list">
     {{ $idx := 0 }}
-    {{ range where $.Site.Pages.ByDate.Reverse "Params.unpublished" "ne" true }}
-    {{ if in .Params.authors $slug }}
+    {{ $authored := where (where $.Site.Pages "Params.unpublished" "ne" true) ".Params.authors" "intersect" (slice $slug) }}
+    {{ $series := where $authored "Section" "nghien-cuu" }}
+    {{ $rest := where $authored "Section" "!=" "nghien-cuu" }}
+    {{ range (sort $series "Title" "asc") }}
     {{ $idx = add $idx 1 }}
     <li class="doctrine-item">
-      <a href="{{ .Permalink }}" class="doctrine-item-link">
+      <a href="{{ .RelPermalink }}" class="doctrine-item-link">
         <span class="doctrine-num">{{ printf "%02d" $idx }}</span>
         <div class="doctrine-item-body">
           <h3 class="doctrine-item-title">{{ .Title }}</h3>
+          {{ if .Date.IsZero }}{{ with .Params.description }}<p class="doctrine-item-desc">{{ . }}</p>{{ end }}{{ end }}
           <span class="doctrine-item-keywords">
-            <span class="doctrine-kw">{{ .Date.Format "02/01/2006" }}</span>
+            {{ if not .Date.IsZero }}<span class="doctrine-kw">{{ .Date.Format "02/01/2006" }}</span>{{ end }}
             {{ range .Params.tags }}<span class="doctrine-kw">{{ . }}</span>{{ end }}
           </span>
         </div>
@@ -32,6 +35,22 @@
       </a>
     </li>
     {{ end }}
+    {{ range ($rest.ByDate.Reverse) }}
+    {{ $idx = add $idx 1 }}
+    <li class="doctrine-item">
+      <a href="{{ .RelPermalink }}" class="doctrine-item-link">
+        <span class="doctrine-num">{{ printf "%02d" $idx }}</span>
+        <div class="doctrine-item-body">
+          <h3 class="doctrine-item-title">{{ .Title }}</h3>
+          {{ if .Date.IsZero }}{{ with .Params.description }}<p class="doctrine-item-desc">{{ . }}</p>{{ end }}{{ end }}
+          <span class="doctrine-item-keywords">
+            {{ if not .Date.IsZero }}<span class="doctrine-kw">{{ .Date.Format "02/01/2006" }}</span>{{ end }}
+            {{ range .Params.tags }}<span class="doctrine-kw">{{ . }}</span>{{ end }}
+          </span>
+        </div>
+        <svg class="doctrine-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+      </a>
+    </li>
     {{ end }}
     </ol>
   </section>

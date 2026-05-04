@@ -3,7 +3,7 @@ title: "Ba Bức Tường Sụp Đổ — Khi Tin Lành, Nhà Nước Và Chủ 
 date: 2014-03-19
 url: /baigiang/phong-trao-dai-ket-boi-dao/
 description: "Mục sư Stephen Bohr phân tích ba bức tường ngăn cách đang sụp đổ — giữa Tin Lành và Công giáo, giữa giáo hội và nhà nước, giữa chủ nghĩa cộng sản và La Mã — và cách sự sụp đổ ấy mở đường cho quyền lực toàn cầu của giáo hoàng như lời tiên tri Khải Huyền 13 mô tả."
-tags: ["Stephen Bohr", "Phong Trào Đại Kết", "Khải Huyền 13", "Tin Lành và Công Giáo", "Chính Trị và Tôn Giáo", "Luật Chúa Nhật", "Lời Tiên Tri", "Giáo Hoàng"]
+tags: ["Stephen Bohr", "Phong Trào Đại Kết", "Khải Huyền 13", "Tin Lành và Công Giáo", "Chính Trị và Tôn Giáo", "Luật Chủ Nhật", "Lời Tiên Tri", "Giáo Hoàng"]
 authors: ["stephen-bohr"]
 plugins: [youtube]
 youtubeIDs: ["rUxTHJrUMCo"]
@@ -52,7 +52,7 @@ Mục sư Bohr liên hệ đến Đa-ni-ên 11:40 về cuộc đối đầu gi�
 
 Mục sư Bohr tổng hợp ba bức tường vào bức tranh lớn của Khải Huyền 13. Vết thương chí tử giáng lên con thú năm 1798 — khi nhà nước rút gươm khỏi tay giáo hội — sẽ được chữa lành khi gươm ấy được trao trở lại. Và chính Hoa Kỳ, con thú thứ hai trông như chiên con nhưng nói như rồng, sẽ là tác nhân thực hiện điều này. Bằng chứng đã rõ ràng: Quốc hội trao Huy chương Vàng cho Giáo hoàng, tổng thống ban hành lệnh tài trợ sáng kiến tôn giáo, ba tổng thống Mỹ dự tang lễ John Paul II với 80 nguyên thủ quốc gia từ 200 nước. Ông lưu ý rằng Hoa Kỳ tính theo năm nhưng La Mã tính theo thế kỷ — 43 tổng thống so với 262 giáo hoàng.
 
-Bài giảng đặc biệt nhấn mạnh thông điệp "Dies Domini" của Giáo hoàng về việc giữ ngày Chúa Nhật. Thay vì chỉ dựa vào truyền thống như trước, thông điệp này trích dẫn nhiều câu Kinh Thánh mà người Tin Lành hay dùng — Công vụ 20, 1 Cô-rinh-tô 16, các lần Đức Chúa Giê-su hiện ra vào ngày thứ nhất — nhằm thuyết phục Tin Lành rằng Công giáo đứng cùng lập trường với họ về ngày thờ phượng. Đây là chiến lược xây dựng nền tảng thần học chung cho một ngày nghỉ chung bắt buộc.
+Bài giảng đặc biệt nhấn mạnh thông điệp "Dies Domini" của Giáo hoàng về việc giữ ngày Chủ Nhật. Thay vì chỉ dựa vào truyền thống như trước, thông điệp này trích dẫn nhiều câu Kinh Thánh mà người Tin Lành hay dùng — Công vụ 20, 1 Cô-rinh-tô 16, các lần Đức Chúa Giê-su hiện ra vào ngày thứ nhất — nhằm thuyết phục Tin Lành rằng Công giáo đứng cùng lập trường với họ về ngày thờ phượng. Đây là chiến lược xây dựng nền tảng thần học chung cho một ngày nghỉ chung bắt buộc.
 
 ---
 

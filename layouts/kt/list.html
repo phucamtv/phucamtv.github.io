@@ -18,7 +18,7 @@
       <div class="kt-group">
         {{- end }}
         <div class="kt-book">
-          <a class="kt-book-name" href="{{ .Permalink }}">{{ .Title }}</a>
+          <a class="kt-book-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ with .Description }}<span class="kt-book-desc">{{ . }}</span>{{ end }}
         </div>
       {{- end }}
@@ -36,7 +36,7 @@
       <div class="kt-group">
         {{- end }}
         <div class="kt-book">
-          <a class="kt-book-name" href="{{ .Permalink }}">{{ .Title }}</a>
+          <a class="kt-book-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ with .Description }}<span class="kt-book-desc">{{ . }}</span>{{ end }}
         </div>
       {{- end }}
