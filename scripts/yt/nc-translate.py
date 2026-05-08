@@ -74,6 +74,7 @@ def fetch_transcript(video_id: str) -> str | None:
             "--write-auto-subs",
             "--sub-langs", "en",
             "--sub-format", "json3",
+            "--extractor-args", "youtube:player_client=android_vr",
             "--output", f"{tmpdir}/%(id)s",
             "--quiet",
             url,

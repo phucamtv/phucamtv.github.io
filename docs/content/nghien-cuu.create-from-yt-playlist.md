@@ -87,6 +87,43 @@ done
 
 If any episode failed (`failed-fetch`, `failed-rewrite`, `failed-validate`, `failed-empty-body` in the run summary), re-run that index with `--only` and `--force` after fixing the underlying cause (transcript fetch, validation violation, etc.). Don't move on with empty bodies.
 
+### 7c. Whisper fallback when YouTube has no usable English captions
+
+Some videos have no clean English auto-captions — typically because YouTube mis-detects the original language. Symptoms during step 7:
+
+- `nc-translate.py` reports `failed-fetch` for the same index across multiple retries
+- Direct `yt-dlp --write-auto-subs --sub-langs en` returns HTTP 429 on the timedtext URL even after rate-limit windows clear
+- `youtube-transcript-api` reports the only available track is a non-English language (e.g. `ro` "auto-generated"), and the `en` track yt-dlp lists is actually a server-side translation of that broken track — heavily corrupted (mixed phonetic noise + English fragments)
+
+In that case, transcribe the audio locally with `whisper-cpp`:
+
+```bash
+# 1. Download audio (one-off; ~50 MB for an hour-long lecture)
+/opt/homebrew/bin/yt-dlp -f "bestaudio[ext=m4a]/bestaudio" -o "/tmp/yt8/audio.%(ext)s" "https://www.youtube.com/watch?v=<videoId>"
+
+# 2. Convert to 16 kHz mono WAV (whisper-cli requirement)
+ffmpeg -y -loglevel error -i /tmp/yt8/audio.m4a -ar 16000 -ac 1 -c:a pcm_s16le /tmp/yt8/audio.wav
+
+# 3. Get a model (one-time, ~470 MB; cache anywhere stable)
+mkdir -p /tmp/yt8/whisper && \
+  curl -sSL -o /tmp/yt8/whisper/ggml-small.en.bin \
+  "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small.en.bin"
+
+# 4. Transcribe — `small.en` runs in ~3–5 min on Apple Silicon for a 1 h lecture
+whisper-cli -m /tmp/yt8/whisper/ggml-small.en.bin -f /tmp/yt8/audio.wav \
+  -otxt -of /tmp/yt8/transcript -t 8 -nt --no-prints
+
+# 5. Drop the transcript into nc-translate.py's cache so it skips the failing fetch
+cp /tmp/yt8/transcript.txt .claude/data/transcripts/<videoId>.txt
+
+# 6. Re-run translation for that index with --force
+python3 scripts/yt/nc-translate.py --series <slug> --author "<Speaker>" --only <N> --force
+```
+
+Prereqs (`brew install whisper-cpp ffmpeg`). `small.en` is the right speed/quality default for English sermon audio; bump to `medium.en` only if `small.en` produces obvious garbling on a quick spot-read of the cached `.txt`.
+
+This bypasses YouTube's caption layer entirely, so the Romanian-mis-tag / 429 issues don't apply. Quality is good enough that `nc-translate.py` validates without manual fixups.
+
 ## 8. Verify
 
 ```bash
