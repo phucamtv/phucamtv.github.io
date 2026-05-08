@@ -655,6 +655,35 @@ body.has-audio-player {
   gap: 0;
 }
 
+.ss-quarter-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.ss-quarter-title a:hover {
+  text-decoration: underline;
+}
+
+.ss-other-quarters {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.ss-other-quarters li {
+  padding: 0.65rem 0;
+  border-bottom: 1px solid var(--border-faint);
+}
+
+.ss-other-quarters a {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.ss-other-quarters a:hover {
+  text-decoration: underline;
+}
+
 .ss-lesson-card {
   display: flex;
   align-items: center;

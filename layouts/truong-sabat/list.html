@@ -4,20 +4,30 @@
   {{ .Content }}
 
   {{/*
-    Structure: /sabat-school/ → year/ → quarter/ → lesson/
-    Top-level .Sections = years
-    year.Sections = quarters
-    quarter.Sections = lessons (with layout: lesson)
+    Structure: /truong-sabat/ → year/ → quarter/ → lesson/
+    Flatten quarters across years, then sort by year desc, weight desc.
+    First = active (rendered in full); rest are name + link only.
   */}}
 
+  {{ $quarters := slice }}
   {{ range .Sections }}
-    {{/* Year level */}}
+    {{ $year := .Title }}
     {{ range .Sections }}
-      {{/* Quarter level */}}
-      <h2 class="ss-quarter-title">{{ .Title }}</h2>
-      {{ .Content }}
+      {{ $quarters = $quarters | append (dict "page" . "year" $year) }}
+    {{ end }}
+  {{ end }}
+  {{ $quarters = sort $quarters "page.Params.weight" "desc" }}
+  {{ $quarters = sort $quarters "year" "desc" }}
+
+  {{ range $i, $q := $quarters }}
+    {{ $quarter := $q.page }}
+    {{ if eq $i 0 }}
+      <h2 class="ss-quarter-title">
+        <a href="{{ $quarter.RelPermalink }}">{{ $quarter.Title }}</a>
+      </h2>
+      {{ $quarter.Content }}
       <div class="ss-lesson-list">
-        {{ range .Sections.ByWeight }}
+        {{ range $quarter.Sections.ByWeight }}
         <a href="{{ .RelPermalink }}" class="ss-lesson-card">
           {{ with .Params.lesson }}
           <span class="ss-lesson-num">{{ printf "%02d" . }}</span>
@@ -30,6 +40,17 @@
         {{ end }}
       </div>
     {{ end }}
+  {{ end }}
+
+  {{ if gt (len $quarters) 1 }}
+  <h2 class="ss-quarter-title ss-other-quarters-title">Các bài học trước</h2>
+  <ul class="ss-other-quarters">
+    {{ range $i, $q := $quarters }}
+      {{ if gt $i 0 }}
+      <li><a href="{{ $q.page.RelPermalink }}">{{ $q.page.Title }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
   {{ end }}
 </section>
 {{ end }}

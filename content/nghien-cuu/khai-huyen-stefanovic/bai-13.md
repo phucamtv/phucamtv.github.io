@@ -94,11 +94,11 @@ A-mốt 6:12 minh họa rõ: khi Y-sơ-ra-ên đổi sự công bình ra cay đ�
 
 Bốn thiên sứ giờ đây được lệnh thả ra để hại người. Giăng nghe số đạo binh là **hai trăm triệu**, và ông nhấn mạnh: "số đó tôi đã nghe." Cụm từ này chỉ xuất hiện hai lần trong Khải Huyền: ở đây và ở Khải Huyền 7. Đây là gợi ý rằng tiếng loa thứ sáu mô tả cùng giai đoạn lịch sử với Khải Huyền 7.
 
-Trong Khải Huyền 7, dân sự Đức Chúa Trời được đóng ấn, Hội Thánh chiến đấu sẵn sàng bước vào trận chiến cuối cùng. Tại đây, Sa-tan cũng đang đánh dấu và đóng ấn đạo quân của hắn — và số đó lớn vô kể: hai trăm triệu. Chúng ta đang ở giữa sự chuẩn bị cho **Trận Chiến Hạt-ma-ghê-đôn**.
+Trong Khải Huyền 7, dân sự Đức Chúa Trời được đóng ấn, Hội Thánh chiến đấu sẵn sàng bước vào trận chiến cuối cùng. Tại đây, Sa-tan cũng đang đánh dấu và đóng ấn đạo quân của hắn — và số đó lớn vô kể: hai trăm triệu. Chúng ta đang ở giữa sự chuẩn bị cho **Trận Chiến Ha-ma-ghê-đôn**.
 
-Các thiên sứ này đứng tại sông Ơ-phơ-rát. Trong Khải Huyền 16, sông Ơ-phơ-rát được liên kết trực tiếp với Trận Chiến Hạt-ma-ghê-đôn. Khi liên kết các phân đoạn này lại, ý nghĩa trở nên rõ ràng. Tiếng loa thứ sáu xây dựng trên tiếng loa thứ năm: hoạt động của các thế lực ma quỷ ngày càng lan rộng và mãnh liệt; con người bất hạnh, lạc lối, có sự trống rỗng trong tấm lòng.
+Các thiên sứ này đứng tại sông Ơ-phơ-rát. Trong Khải Huyền 16, sông Ơ-phơ-rát được liên kết trực tiếp với Trận Chiến Ha-ma-ghê-đôn. Khi liên kết các phân đoạn này lại, ý nghĩa trở nên rõ ràng. Tiếng loa thứ sáu xây dựng trên tiếng loa thứ năm: hoạt động của các thế lực ma quỷ ngày càng lan rộng và mãnh liệt; con người bất hạnh, lạc lối, có sự trống rỗng trong tấm lòng.
 
-Ngày nay, nhiều chương trình tôn giáo nói rằng con người hiện đại không tin vào điều siêu nhiên — đây là hậu quả của Thời Đại Khai Sáng. Nhưng họ cũng nói: thời gian sẽ đến khi những điều siêu nhiên sẽ xảy ra trong thế gian, và những người trống rỗng ấy cuối cùng sẽ đi đến kết luận rằng có điều siêu nhiên đang vận hành. Theo Khải Huyền, điều này thật sự sẽ dẫn đến trận chiến cuối cùng trong lịch sử nhân loại — Trận Chiến Hạt-ma-ghê-đôn.
+Ngày nay, nhiều chương trình tôn giáo nói rằng con người hiện đại không tin vào điều siêu nhiên — đây là hậu quả của Thời Đại Khai Sáng. Nhưng họ cũng nói: thời gian sẽ đến khi những điều siêu nhiên sẽ xảy ra trong thế gian, và những người trống rỗng ấy cuối cùng sẽ đi đến kết luận rằng có điều siêu nhiên đang vận hành. Theo Khải Huyền, điều này thật sự sẽ dẫn đến trận chiến cuối cùng trong lịch sử nhân loại — Trận Chiến Ha-ma-ghê-đôn.
 
 Trong Cựu Ước, sông Ơ-phơ-rát là biểu tượng đánh dấu ranh giới giữa dân Đức Chúa Trời và kẻ thù của họ. Ê-sai 8:7–8 mô tả Đức Giê-hô-va sẽ khiến nước sông Ơ-phơ-rát mạnh và nhiều — tức vua A-si-ri cùng cả vinh quang người — dâng lên tràn khắp các bờ và quét vào Giu-đa.
 
