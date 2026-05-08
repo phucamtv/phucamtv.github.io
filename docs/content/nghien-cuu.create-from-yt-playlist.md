@@ -2,6 +2,10 @@
 
 End-to-end workflow validated against existing series (`khai-huyen-stefanovic`, `khi-gioi-tron-ven`). For schema details on series and episode front matter, see [`nghien-cuu.md`](./nghien-cuu.md).
 
+## Hard requirement
+
+**Every episode must ship with a full Vietnamese article body translated/rewritten from the video transcript.** Stub-only episodes (frontmatter with empty body) are not acceptable as a final state — they exist only as a transient scaffold between steps 6 and 7. The series is not done until step 7 has produced a non-empty body for every `bai-NN.md`, step 8 has built clean, and at least one article has been spot-read for editorial quality.
+
 ## 1. Inspect the playlist
 
 ```bash
@@ -36,7 +40,9 @@ Look for an `en` row with formats listed. Manual EN captions yield much cleaner 
 
 `content/nghien-cuu/<slug>/bai-NN.md` for each episode. Frontmatter must include `title`, `shortTitle`, `layout: nc-episode`, `seriesSlug`, `dataKey`, `index`, `weight`, plus `speaker:` for multi-speaker series. **Title must be Vietnamese and set before translation** — `nc-translate.py` preserves frontmatter byte-for-byte and feeds the title to the prompt as `<TITLE>`.
 
-## 7. Run the translation pipeline
+## 7. Run the translation pipeline (REQUIRED — produces the full article body for every episode)
+
+This step is not optional. It generates the full Vietnamese article that each `bai-NN.md` ships with. Do not consider the series complete until this step has succeeded for every episode.
 
 ```bash
 python3 scripts/yt/nc-translate.py --series <slug> --author "<Speaker Name>" [--only 1,3]
@@ -44,7 +50,19 @@ python3 scripts/yt/nc-translate.py --series <slug> --author "<Speaker Name>" [--
 
 The script: fetches the EN transcript via yt-dlp (caches at `.claude/data/transcripts/<videoId>.txt`) → calls `claude --print` with `scripts/yt/prompts/translate-rewrite.md` → validates against `scripts/yt/validate_content.py` → writes the body, preserving frontmatter.
 
-**Multi-speaker series**: `--author` is per-invocation. Group episodes by speaker and run each group as a background process in parallel:
+### 7a. Parallelize for speed
+
+A single-speaker 19-episode series takes ~60–90 min serially. Split into 3–4 disjoint `--only` groups and run each as a background process. Even though `--author` is identical for single-speaker series, the parallelization still cuts wallclock 3–4×.
+
+```bash
+# Single-speaker, 4 parallel groups (example: 19 episodes)
+python3 scripts/yt/nc-translate.py --series <slug> --author "<Name>" --only 1,5,9,13,17 > /tmp/nc-a.log 2>&1 &
+python3 scripts/yt/nc-translate.py --series <slug> --author "<Name>" --only 2,6,10,14,18 > /tmp/nc-b.log 2>&1 &
+python3 scripts/yt/nc-translate.py --series <slug> --author "<Name>" --only 3,7,11,15,19 > /tmp/nc-c.log 2>&1 &
+python3 scripts/yt/nc-translate.py --series <slug> --author "<Name>" --only 4,8,12,16    > /tmp/nc-d.log 2>&1 &
+```
+
+For **multi-speaker** series, group episodes by speaker so `--author` matches the actual speaker per group:
 
 ```bash
 python3 scripts/yt/nc-translate.py --series <slug> --author "Speaker A" --only 1,3 > /tmp/nc-a.log 2>&1 &
@@ -55,13 +73,27 @@ Wallclock for 9 episodes across 4 parallel groups: ~10–15 min vs. ~1 hour seri
 
 For **unidentified speakers**, peek the first ~50 transcript segments via `yt-dlp --skip-download --write-auto-subs --sub-langs en --sub-format json3` and parse the JSON — voice and cadence usually identify the speaker against another known episode.
 
+### 7b. Confirm every episode has a body
+
+Before declaring step 7 done, sanity-check that no `bai-NN.md` is still a stub:
+
+```bash
+# Should print nothing — any output means an episode is still empty
+for f in content/nghien-cuu/<slug>/bai-*.md; do
+  body=$(awk '/^---$/{c++; next} c==2' "$f" | tr -d '[:space:]')
+  [ -z "$body" ] && echo "EMPTY: $f"
+done
+```
+
+If any episode failed (`failed-fetch`, `failed-rewrite`, `failed-validate`, `failed-empty-body` in the run summary), re-run that index with `--only` and `--force` after fixing the underlying cause (transcript fetch, validation violation, etc.). Don't move on with empty bodies.
+
 ## 8. Verify
 
 ```bash
 hugo --quiet --renderToMemory
 ```
 
-Build is the smoke test — malformed frontmatter or missing dataKey fails fast. Spot-read at least one article for editorial quality and terminology compliance before committing.
+Build is the smoke test — malformed frontmatter or missing dataKey fails fast. Spot-read **at least one article per speaker** (not just one per series) for editorial quality and terminology compliance before committing. The translation prompt enforces project terminology, but auto-generated transcripts in particular leak garbled biblical names and SDA-specific jargon that pass validation but read poorly. Editorial review is a hard gate, not a nice-to-have.
 
 ## Gotchas
 
