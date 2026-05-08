@@ -20,5 +20,16 @@
     </a>
     {{ end }}
   </div>
+
+  {{ with .Params.source }}
+  <p class="ss-source-attribution">
+    Nguồn:
+    {{ with $.Params.sourceUrl }}
+      <a href="{{ . }}" rel="noopener" target="_blank">{{ $.Params.source }}</a>
+    {{ else }}
+      {{ . }}
+    {{ end }}
+  </p>
+  {{ end }}
 </section>
 {{ end }}
