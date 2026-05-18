@@ -14,7 +14,6 @@ weight: 3
 
 “Vì Đức Giê-hô-va là Đấng đã dựng nên các từng trời, tức là Đức Chúa Trời đã tạo thành đất và làm ra nó, đã lập nó cho bền vững, chẳng phải dựng nên là trống không, bèn đã làm nên để dân ở, phán như vầy: Ta là Đức Giê-hô-va, không có đấng nào khác.” (Ê-sai 45:18)
 
-## Dẫn nhập
 
 Đức Chúa Cha là Đấng Tạo Hoá Toàn Năng, Ngài là Nguồn Cội của sự sống, là Đấng Duy Trì sự Sống, là Đấng tối cao trong muôn loài vạn vật. Đức Chúa Cha là Đấng công bình, thánh khiết, là Đấng giàu ơn và thương xót, chậm nóng giận và lòng yêu thương và thành tín của Ngài còn đời đời. Những đặc tánh và quyền năng được bày tỏ trong Đức Chúa Con và Đức Thánh Linh cũng là sự khải thị của Đức Chúa Cha.
 

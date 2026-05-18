@@ -8,7 +8,6 @@ weight: 18
 
 “Hãy nôn nả tìm kiếm tình yêu thương. Cũng hãy ước ao các sự ban cho thiêng liêng, nhất là sự ban cho nói tiên tri.” (1 Cô-rinh-tô 14:1)
 
-## Dẫn nhập
 
 Một trong những ân tứ mà Đức Thánh Linh ban cho là ơn nói tiên tri. Ân tứ nầy là một trong những dấu hiệu của dân còn sót lại của Thiên Chúa (Khải Huyền 12:17; 1:2; 19:10 (phần cuối). Cả ba câu trong nguyên bản Hy-lạp đều cùng nói “lời chứng của Đức Chúa Giê-su.” Đoạn 19:10 cho biết lời chứng của Đức Chúa Giê-su là ân tứ nói tiên tri).
 

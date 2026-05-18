@@ -8,7 +8,6 @@ weight: 16
 
 “Vả, tôi có nhận nơi Chúa điều tôi đã dạy cho anh em: Ấy là Đức Chúa Giê-su, trong đêm Ngài bị nộp, lấy bánh, tạ ơn, rồi bẻ ra mà phán rằng: Nầy là thân thể ta, vì các ngươi mà phó cho; hãy làm điều nầy để nhớ ta. Cũng một thể ấy, sau khi ăn bữa tối rồi, Ngài lấy chén và phán rằng: Chén nầy là sự giao ước mới trong huyết ta; hễ khi nào các ngươi uống, hãy làm điều nầy để nhớ ta.” (1 Cô-rinh-tô 11:23-25)
 
-## Dẫn nhập
 
 Lễ Tiệc thánh tiêu biểu cho thân thể và huyết của Đức Chúa Giê-su, khi tham gia trong nghi lễ chúng ta bày tỏ đức-tin ở trong Ngài là Cứu Chúa, là Chủ của cuộc đời chúng ta. Trong nghi lễ nầy, Đấng Cứu Thế hiện diện để gặp và làm vững mạnh dân sự của Ngài. Khi chúng ta tiếp nhận bánh và nước nho, chúng ta hân hoan rao truyền sự hy sinh của Chúa cho đến lúc Ngài đến. Những điều chúng ta cần làm để chuẩn bị cho Lễ Tiệc thánh gồm có: tự xét lại con người mình, ăn năn tội và xưng tội mình ra. Thầy của chúng ta là Đức Chúa Giê-su, đã thiết lập Lễ Rửa Chân làm biểu tượng cho sự lau sạch lại, sẵn sàng phục vụ lẫn nhau trong lòng khiêm tốn và hiệp một tâm hồn của chúng ta trong tình yêu thương. Lễ Tiệc thánh được mở rộng cho tất cả các Cơ-đốc nhân, tức là những người đã học về Chúa và nhận Lễ Báp-têm.
 

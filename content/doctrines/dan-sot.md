@@ -8,7 +8,6 @@ weight: 13
 
 “Đây tỏ ra sự nhịn nhục của các thánh đồ: chúng giữ điều răn của Đức Chúa Trời và giữ lòng tin Đức Chúa Giê-su.” (Khải Huyền 14:12)
 
-## Dẫn nhập
 
 Hội Thánh toàn cầu gồm tất cả những ai chân thành tin nhận Chúa Cứu Thế, nhưng trong ngày cuối cùng, là giai đoạn mà sự bội đạo thịnh hành, đa số sẽ chạy theo đám đông, trào lưu của thế giới, một thiểu số còn sót lại của Hội Thánh sẽ được kêu gọi để giữ các điều răn của Đức Chúa Trời và đức-tin nơi Chúa Cứu Thế. Nhóm dân sót nầy sẽ công bố giờ phán xét của Thiên Chúa đang đến, sẽ rao truyền tin lành cứu rỗi trong Chúa Cứu Thế và tuyên bố sự tái lâm của Chúa Cứu Thế đang rất gần. Sự công bố nầy được biểu hiệu qua ba vị thiên sứ của Khải Huyền 14. Nó trùng hợp với công cuộc phán xét trên thiên đàng với kết quả là đem lại sự ăn năn và cải thiện đời sống đức-tin dưới thế gian nầy. Mỗi thành viên của Hội Thánh được kêu gọi đóng góp một phần trong công cuộc làm chứng cho thế giới nầy.
 

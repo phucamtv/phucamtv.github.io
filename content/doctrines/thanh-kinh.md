@@ -13,7 +13,6 @@ weight: 1
 > 
 > “Người ta sống chẳng phải chỉ nhờ bánh mà thôi, song nhờ mọi lời nói ra từ miệng Đức Chúa Trời.” (Ma-thi-ơ 4:4)
 
-## Dẫn nhập
 
 Muốn biết một người hay muốn hiểu một người, chúng ta cần có sự giao tiếp kề cận với người đó, hay có một người khác đã gặp và nói về người đó cho chúng ta biết. Nhưng Thiên Chúa Toàn Năng không phải là một con người xác thịt thì làm sao chúng ta gặp được, hay có người nào gặp được để nói lại cho chúng ta biết? Trừ phi chính Thiên Chúa bày tỏ về Ngài cho chúng ta.
 

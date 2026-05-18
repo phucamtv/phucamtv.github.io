@@ -8,7 +8,6 @@ weight: 20
 
 “Hãy nhớ ngày nghỉ đặng làm nên ngày thánh. Ngươi hãy làm hết công việc mình trong sáu ngày; nhưng ngày thứ bảy là nghỉ của Giê-hô-va Đức Chúa Trời ngươi: trong ngày đó, ngươi, con trai, con gái, tôi trai tớ gái, súc vật của ngươi, hoặc khách ngoại bang ở trong nhà ngươi, đều chớ làm công việc chi hết; vì trong sáu ngày Đức Giê-hô-va đã dựng nên trời, đất, biển và muôn vật ở trong đó, qua ngày thứ bảy thì Ngài nghỉ: vậy nên Đức Giê-hô-va đã ban phước cho ngày nghỉ và làm nên ngày thánh.” (Xuất Ê-díp-tô Ký 20:8-11)
 
-## Dẫn nhập
 
 Sau khi tạo dựng nên muôn vật trong sáu ngày, Đấng Tạo Hóa nhân lành yên nghỉ trong ngày thứ bảy và thiết lập ngày Sa-bát làm ngày kỷ niệm công cuộc tạo thế cho toàn thể nhân loại. Điều răn thứ tư, trong luật pháp 10 Điều Răn bất di bất dịch của Thiên Chúa, đòi hỏi chúng ta phải giữ ngày thứ bảy Sa-bát làm ngày yên nghỉ, ngày thờ phượng và truyền giáo phù hợp với sự dạy dỗ và hành động của Đấng Cứu Thế, tức là Chúa của ngày Sa-bát.
 

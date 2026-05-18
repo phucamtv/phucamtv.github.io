@@ -8,7 +8,6 @@ weight: 15
 
 “Vậy, hãy đi dạy dỗ muôn dân, hãy nhân danh Đức Cha, Đức Con và Đức Thánh Linh mà làm phép báp-têm cho họ.” (Ma-thi-ơ 28:19)
 
-## Dẫn nhập
 
 Qua Lễ Báp-têm chúng ta công khai tuyên bố đức-tin trong sự chết và sự phục sinh của Đức Chúa Giê-su và tuyên bố rằng tội lỗi chúng ta đã chết và từ nay chúng ta bước đi với đời sống mới, mục đích mới.
 

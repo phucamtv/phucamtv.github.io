@@ -8,7 +8,6 @@ weight: 26
 
 “Như trong A-đam mọi người đều chết, thì cũng một lẽ ấy, trong Đấng Christ mọi người đều sẽ sống lại, nhưng mỗi người theo thứ tự riêng của mình: Đấng Christ là trái đầu mùa; rồi tới ngày Đấng Christ đến, những kẻ thuộc về Ngài sẽ sống lại.” (1 Cô-rinh-tô 15:22, 23)
 
-## Dẫn nhập
 
 Tiền công của tội lỗi là sự chết. Nhưng Thiên Chúa, là Đấng duy nhất có sự bất tử, sẽ ban sự sống đời đời cho những người được cứu. Cho đến ngày đó, kẻ chết vẫn ở trong trạng thái vô thức. Khi Đấng Cứu Thế, là nguồn cội của sự sống của chúng ta, tái lâm, những người công bình đã chết được phục sinh (đây là sự phục sinh thứ nhất), cùng với những người công bình đang sống sẽ được biến đổi trở nên vinh hiển và gặp Chúa giữa chốn không trung. Sự phục sinh lần thứ hai là khi kẻ ác sẽ sống lại sau thời kỳ 1000 năm.
 
