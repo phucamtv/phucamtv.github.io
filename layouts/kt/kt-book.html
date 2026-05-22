@@ -9,6 +9,12 @@
   </div>
   <h1>{{ .Title }} <span class="kt-single-en">{{ .Params.titleEn }}</span></h1>
   <p class="kt-single-short">{{ .Description }}</p>
+  {{ if .Params.hasChapters }}
+    <section class="kt-chapters">
+      <h2 class="kt-chapters-title">Các Chương</h2>
+      {{ partial "kt-chapter-grid.html" . }}
+    </section>
+  {{ end }}
   <div class="kt-single-body content">
     {{ .Content }}
   </div>

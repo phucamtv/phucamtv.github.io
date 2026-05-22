@@ -1,0 +1,98 @@
+{{ define "main" }}
+{{ $slug := .Params.bookSlug }}
+{{ $c := .Params.chapter }}
+{{ $total := .Params.totalChapters }}
+{{/* Full 66-book canon, OT then NT by weight, for the circular book strip */}}
+{{ $allBooks := where site.Pages "Layout" "kt-book" }}
+{{ $canon := sort (where $allBooks "Params.testament" "old") "Weight" }}
+{{ range (sort (where $allBooks "Params.testament" "new") "Weight") }}{{ $canon = $canon | append . }}{{ end }}
+{{ $n := len $canon }}
+{{ $ci := 0 }}
+{{ range $idx, $b := $canon }}{{ if eq $b.Params.slug $slug }}{{ $ci = $idx }}{{ end }}{{ end }}
+{{ $half := int (div $n 2) }}
+{{ $prevBook := index $canon (mod (add (sub $ci 1) $n) $n) }}
+{{ $prevMax := partialCached "kt-chapter-count.html" $prevBook.Params.titleEn $prevBook.Params.titleEn }}
+{{ $nextBook := index $canon (mod (add $ci 1) $n) }}
+<article class="kt-chapter">
+  <nav class="kt-booknav" aria-label="Chuyển sách và chương">
+    <div class="kt-booknav-bookwrap">
+      <div class="kt-booknav-books">
+        {{- range $k := seq 0 (sub $n 1) -}}
+          {{- $bi := mod (add (sub (add $ci $k) $half) $n) $n -}}
+          {{- $b := index $canon $bi -}}
+          {{- $href := $b.RelPermalink -}}
+          {{- if and $b.Params.hasChapters (ne $bi $ci) }}{{ $href = printf "/kt/%s/1/" $b.Params.slug }}{{ end -}}
+          <a class="kt-booknav-book{{ if eq $bi $ci }} is-current{{ end }}" href="{{ $href }}">{{ $b.Title }}</a>
+        {{- end -}}
+      </div>
+      <svg class="kt-booknav-notch" width="44" height="20" viewBox="0 0 44 20" aria-hidden="true">
+        <rect class="kt-booknav-notch-mask" x="0" y="0" width="44" height="5"></rect>
+        <path class="kt-booknav-notch-line" d="M0 4 H17 L22 17 L27 4 H44"></path>
+      </svg>
+    </div>
+    <div class="kt-booknav-chapters">
+      <a class="kt-booknav-ch kt-booknav-ch--edge" href="/kt/{{ $prevBook.Params.slug }}/{{ $prevMax }}/" title="{{ $prevBook.Title }} {{ $prevMax }}"><span class="kt-booknav-ch-bk">{{ substr $prevBook.Params.titleEn 0 3 | upper }}</span>{{ $prevMax }}</a>
+      {{- range $i := seq 1 $total }}
+      <a class="kt-booknav-ch{{ if eq $i $c }} is-current{{ end }}" href="/kt/{{ $slug }}/{{ $i }}/">{{ $i }}</a>
+      {{- end }}
+      {{- $nhref := $nextBook.RelPermalink -}}
+      {{- if $nextBook.Params.hasChapters }}{{ $nhref = printf "/kt/%s/1/" $nextBook.Params.slug }}{{ end -}}
+      <a class="kt-booknav-ch kt-booknav-ch--edge" href="{{ $nhref }}" title="{{ $nextBook.Title }} 1"><span class="kt-booknav-ch-bk">{{ substr $nextBook.Params.titleEn 0 3 | upper }}</span>1</a>
+    </div>
+  </nav>
+
+  <div class="kt-prose">
+    <p>
+      {{- range .Params.verses -}}
+        <span class="kt-v" id="c{{ $c }}-{{ .n }}"><sup class="kt-vn">{{ .n }}</sup>{{ .t }}</span>{{ " " }}
+      {{- end -}}
+    </p>
+  </div>
+
+  <nav class="kt-chapter-nav">
+    <div class="kt-chapter-nav-side">
+      {{ if gt $c 1 }}
+      <a class="kt-chapter-nav-link" href="/kt/{{ $slug }}/{{ sub $c 1 }}/">‹ Chương trước</a>
+      {{ end }}
+    </div>
+
+    <details class="kt-chapter-switch">
+      <summary>Chương {{ $c }} / {{ $total }}</summary>
+      <div class="kt-chapter-grid kt-chapter-grid--switch">
+        {{ range $i := seq 1 $total }}
+        <a href="/kt/{{ $slug }}/{{ $i }}/" class="kt-chapter-cell{{ if eq $i $c }} is-current{{ end }}">{{ printf "%02d" $i }}</a>
+        {{ end }}
+      </div>
+    </details>
+
+    <div class="kt-chapter-nav-side kt-chapter-nav-side--right">
+      {{ if lt $c $total }}
+      <a class="kt-chapter-nav-link" href="/kt/{{ $slug }}/{{ add $c 1 }}/">Chương sau ›</a>
+      {{ end }}
+    </div>
+  </nav>
+</article>
+<script>
+(function () {
+  function center(strip) {
+    var cur = strip && strip.querySelector(".is-current");
+    if (cur) strip.scrollLeft = cur.offsetLeft - (strip.clientWidth - cur.offsetWidth) / 2;
+  }
+  var books = document.querySelector(".kt-booknav-books");
+  var chapters = document.querySelector(".kt-booknav-chapters");
+  var notch = document.querySelector(".kt-booknav-notch");
+  function placeNotch() {
+    var cur = chapters && chapters.querySelector(".is-current");
+    if (!cur || !notch) return;
+    var ref = notch.parentNode.getBoundingClientRect();
+    var c = cur.getBoundingClientRect();
+    notch.style.left = (c.left + c.width / 2 - ref.left) + "px";
+  }
+  center(books);
+  center(chapters);
+  placeNotch();
+  if (chapters) chapters.addEventListener("scroll", placeNotch, { passive: true });
+  window.addEventListener("resize", placeNotch);
+})();
+</script>
+{{ end }}

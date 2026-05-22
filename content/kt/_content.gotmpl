@@ -1,0 +1,49 @@
+{{- /*
+  Generates per-chapter reading pages for every Bible book that sets `hasChapters: true`
+  in its content/kt/<slug>.md front matter. Pages render at /kt/<slug>/<chapter>/ via
+  layouts/kt/single.html. Verse text comes from data/bible/vi1934.json (keyed by the
+  book's English titleEn, e.g. "Genesis 1:1").
+*/ -}}
+{{- $ctx := . -}}
+{{- $bible := index hugo.Data.bible "vi1934" -}}
+
+{{- range (os.ReadDir "content/kt") -}}
+  {{- $name := .Name -}}
+  {{- if and (strings.HasSuffix $name ".md") (ne $name "_index.md") -}}
+    {{- $meta := transform.Unmarshal (index (split (os.ReadFile (printf "content/kt/%s" $name)) "---") 1) -}}
+    {{- if $meta.hasChapters -}}
+      {{- $slug := $meta.slug -}}
+      {{- $vi := $meta.title -}}
+      {{- $prefix := printf "%s " $meta.titleEn -}}
+      {{- $sc := newScratch -}}
+      {{- $maxCh := 0 -}}
+      {{- range $ref, $text := $bible -}}
+        {{- if hasPrefix $ref $prefix -}}
+          {{- $parts := split $ref ":" -}}
+          {{- $v := int (index $parts 1) -}}
+          {{- $words := split (index $parts 0) " " -}}
+          {{- $cnum := int (index $words (sub (len $words) 1)) -}}
+          {{- $sc.Add (printf "c%d" $cnum) (slice (dict "n" $v "t" $text)) -}}
+          {{- if gt $cnum $maxCh }}{{ $maxCh = $cnum }}{{ end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- range $cc := seq 1 $maxCh -}}
+        {{- $verses := sort ($sc.Get (printf "c%d" $cc)) "n" -}}
+        {{- $ctx.AddPage (dict
+          "kind" "page"
+          "path" (printf "%s/%d" $slug $cc)
+          "title" (printf "%s %d" $vi $cc)
+          "url" (printf "/kt/%s/%d/" $slug $cc)
+          "params" (dict
+            "isChapter" true
+            "bookSlug" $slug
+            "bookVi" $vi
+            "chapter" $cc
+            "totalChapters" $maxCh
+            "verses" $verses
+          )
+        ) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

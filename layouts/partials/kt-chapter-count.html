@@ -1,0 +1,13 @@
+{{- /* Returns the number of chapters in a Bible book. Context = the book's English
+       titleEn (e.g. "Genesis"). Derived from data/bible/vi1934.json keys. Call via
+       partialCached with titleEn as the variant so each book is scanned only once. */ -}}
+{{- $prefix := printf "%s " . -}}
+{{- $maxCh := 0 -}}
+{{- range $ref, $_ := (index hugo.Data.bible "vi1934") -}}
+  {{- if hasPrefix $ref $prefix -}}
+    {{- $words := split (index (split $ref ":") 0) " " -}}
+    {{- $c := int (index $words (sub (len $words) 1)) -}}
+    {{- if gt $c $maxCh }}{{ $maxCh = $c }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $maxCh -}}

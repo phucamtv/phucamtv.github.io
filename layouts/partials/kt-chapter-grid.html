@@ -1,0 +1,9 @@
+{{- /* Renders a chapter-number grid for a Bible book page (context = the book page).
+       Chapter count is derived from data/bible/vi1934.json via the book's titleEn. */ -}}
+{{- $slug := .Params.slug -}}
+{{- $maxCh := partialCached "kt-chapter-count.html" .Params.titleEn .Params.titleEn -}}
+<div class="kt-chapter-grid">
+  {{- range $i := seq 1 $maxCh }}
+  <a href="/kt/{{ $slug }}/{{ $i }}/" class="kt-chapter-cell">{{ printf "%02d" $i }}</a>
+  {{- end }}
+</div>
