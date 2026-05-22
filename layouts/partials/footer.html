@@ -1,10 +1,12 @@
 <footer>
   <div class="footer-inner">
+    {{ if .IsHome }}
     <div class="footer-mission-block">
       <div class="footer-cross" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="currentColor"><rect x="10" y="2" width="4" height="20"/><rect x="4" y="8" width="16" height="4"/></svg></div>
       <p class="footer-mission">Dự phần rao giảng phúc âm cho dân cư trên đất, cho mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc.</p>
       <p class="footer-verse">Khải Huyền 14:6</p>
     </div>
+    {{ end }}
 
     <div class="footer-links">
       <a href="mailto:contact@phucamtv.com">
