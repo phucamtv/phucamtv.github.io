@@ -42,11 +42,12 @@
   </nav>
 
   <div class="kt-prose">
-    <p>
-      {{- range .Params.verses -}}
-        <span class="kt-v" id="c{{ $c }}-{{ .n }}"><sup class="kt-vn">{{ .n }}</sup>{{ .t }}</span>{{ " " }}
-      {{- end -}}
-    </p>
+    {{- range .Params.verses -}}
+    <div class="kt-v" id="c{{ $c }}-{{ .n }}">
+      <span class="kt-vn">{{ .n }}</span>
+      <p class="kt-vt">{{ .t }}</p>
+    </div>
+    {{- end -}}
   </div>
 
   <nav class="kt-chapter-nav">
