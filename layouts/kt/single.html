@@ -9,6 +9,7 @@
 {{ $n := len $canon }}
 {{ $ci := 0 }}
 {{ range $idx, $b := $canon }}{{ if eq $b.Params.slug $slug }}{{ $ci = $idx }}{{ end }}{{ end }}
+{{ $curBook := index $canon $ci }}
 {{ $half := int (div $n 2) }}
 {{ $prevBook := index $canon (mod (add (sub $ci 1) $n) $n) }}
 {{ $prevMax := partialCached "kt-chapter-count.html" $prevBook.Params.titleEn $prevBook.Params.titleEn }}
@@ -73,6 +74,9 @@
     </div>
   </nav>
 </article>
+{{ if $curBook.Params.audio }}
+  {{ partial "audio-player.html" $curBook }}
+{{ end }}
 <script>
 (function () {
   function center(strip) {
