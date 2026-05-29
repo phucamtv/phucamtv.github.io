@@ -1,6 +1,7 @@
 baseURL = "https://phucam.tv/"
 languageCode = "vi"
 title = "Phúc Âm"
+timeZone = "Australia/Brisbane"
 removePathAccents = true
 
 [server]
