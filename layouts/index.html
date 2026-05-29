@@ -5,15 +5,7 @@
     {{ $pages := where (where (where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil) "Section" "ne" "sach" }}
     {{ $paginator := .Paginate $pages }}
     {{ range $paginator.Pages }}
-    <article class="summary">
-      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
-      {{ with .Params.tags }}
-      <span class="tags">
-        {{ range . }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
-      </span>
-      {{ end }}
-    </article>
+    {{ partial "article-card.html" (dict "page" . "heading" "h3") }}
     {{ end }}
 
     {{ if gt $paginator.TotalPages 1 }}

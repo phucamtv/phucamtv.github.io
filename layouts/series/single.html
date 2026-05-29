@@ -8,15 +8,7 @@
     <h2>Bài viết</h2>
     {{ range where $.Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true }}
     {{ if in .Params.series $seriesID }}
-    <article class="summary">
-      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
-      {{ with .Params.tags }}
-      <span class="tags">
-        {{ range . }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
-      </span>
-      {{ end }}
-    </article>
+    {{ partial "article-card.html" (dict "page" . "heading" "h3") }}
     {{ end }}
     {{ end }}
   </section>
