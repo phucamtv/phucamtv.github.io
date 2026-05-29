@@ -46,7 +46,7 @@
     {{- range .Params.verses -}}
     <div class="kt-v" id="c{{ $c }}-{{ .n }}">
       <span class="kt-vn">{{ .n }}</span>
-      <p class="kt-vt">{{ .t }}</p>
+      <p class="kt-vt">{{ .t | safeHTML }}</p>
     </div>
     {{- end -}}
   </div>
