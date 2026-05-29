@@ -60,6 +60,13 @@ body {
     margin: 0 auto;
     padding: 0 1rem;
     overflow-x: hidden;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
 }
 
 header {
@@ -470,7 +477,7 @@ footer {
 .footer-inner {
     max-width: 1100px;
     margin: 0 auto;
-    padding: 3rem 0 1.5rem;
+    padding: 1.5rem 0;
 }
 
 .footer-mission-block {
@@ -508,7 +515,6 @@ footer {
     justify-content: center;
     align-items: center;
     gap: 1.25rem;
-    margin-bottom: 1.75rem;
     flex-wrap: wrap;
 }
 
@@ -538,11 +544,8 @@ footer {
     display: inline-block;
 }
 
-.footer-bottom {
-    padding-top: 1rem;
-    border-top: 1px solid var(--border-default);
+.footer-copy {
     color: var(--accent-faint);
-    font-size: 0.78rem;
 }
 
 /* List pages: keep narrow */

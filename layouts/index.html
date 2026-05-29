@@ -2,7 +2,7 @@
 <div class="home-layout">
   <section class="home-main">
     {{ .Content }}
-    {{ $pages := where (where (where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil) "Section" "ne" "sach" }}
+    {{ $pages := where (where (where (where .Site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil) "Section" "ne" "sach") "Section" "ne" "tc" }}
     {{ $paginator := .Paginate $pages }}
     {{ range $paginator.Pages }}
     {{ partial "article-card.html" (dict "page" . "heading" "h3") }}

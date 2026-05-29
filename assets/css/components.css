@@ -469,3 +469,512 @@
   }
 }
 
+
+/* ===== Thánh Ca TV (/tc) — cinematic hymn theater ===== */
+
+.tc-tv {
+    /* Page chrome adapts to theme (light defaults below; dark override later).
+       Anything layered OVER the video imagery uses fixed light tones instead. */
+    --tv-ink: #ece3d3;
+    --tv-panel: #ded2bd;
+    --tv-text: #2a2016;
+    --tv-muted: #6f6150;
+    --tv-faint: #9a8a73;
+    --tv-accent: #b35a28;
+    --tv-glow: rgba(179, 90, 40, 0.4);
+
+    position: relative;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    min-height: 100vh;
+    padding: 1.5rem clamp(1rem, 5vw, 4rem) 4rem;
+    color: var(--tv-text);
+    background:
+        radial-gradient(120% 80% at 15% 0%, #f7f0e3 0%, transparent 55%),
+        radial-gradient(120% 90% at 100% 100%, #e4d8c2 0%, transparent 50%),
+        var(--tv-ink);
+    overflow: hidden;
+}
+
+@media (prefers-color-scheme: dark) {
+    .tc-tv {
+        --tv-ink: #0e0b07;
+        --tv-panel: #16110b;
+        --tv-text: #f5efe3;
+        --tv-muted: #c2b39a;
+        --tv-faint: #897a64;
+        --tv-accent: #e8a87c;
+        --tv-glow: rgba(232, 168, 124, 0.5);
+
+        background:
+            radial-gradient(120% 80% at 15% 0%, #241a10 0%, transparent 55%),
+            radial-gradient(120% 90% at 100% 100%, #1a130c 0%, transparent 50%),
+            var(--tv-ink);
+    }
+}
+
+.tc-grain {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+    opacity: 0.045;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+.tc-tv > * {
+    position: relative;
+    z-index: 2;
+}
+
+.tc-tv-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    animation: tc-rise 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+.tc-home {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: var(--tv-muted);
+    text-decoration: none;
+    font-size: 0.78rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    transition: color 0.18s ease;
+}
+
+.tc-home:hover {
+    color: var(--tv-text);
+}
+
+.tc-home-cross {
+    color: var(--tv-accent);
+    font-size: 0.95rem;
+}
+
+.tc-tv-wordmark {
+    font-family: "Fraunces", "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: clamp(1.5rem, 3.5vw, 2.25rem);
+    line-height: 1;
+    margin: 0;
+    color: var(--tv-text);
+}
+
+/* ---- Stage / hero ---- */
+.tc-stage {
+    position: relative;
+    aspect-ratio: 16 / 7;
+    min-height: 340px;
+    max-height: 70vh;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 40px 90px -30px rgba(0, 0, 0, 0.8), inset 0 0 0 1px rgba(255, 255, 255, 0.05);
+    animation: tc-rise 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) 0.05s both;
+}
+
+.tc-stage-backdrop {
+    position: absolute;
+    inset: -8%;
+    background-size: cover;
+    background-position: center;
+    filter: blur(26px) saturate(1.15) brightness(0.5);
+    transform: scale(1.12);
+    transition: background-image 0.4s ease;
+}
+
+.tc-stage-scrim {
+    position: absolute;
+    inset: 0;
+    background:
+        linear-gradient(90deg, rgba(8, 6, 4, 0.94) 0%, rgba(8, 6, 4, 0.6) 42%, rgba(8, 6, 4, 0.15) 75%, transparent 100%),
+        linear-gradient(0deg, rgba(8, 6, 4, 0.9) 0%, transparent 55%);
+}
+
+.tc-stage-content {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: clamp(1.25rem, 4vw, 3rem);
+    color: #f5efe3;
+    transition: opacity 0.3s ease;
+}
+
+.tc-stage-num {
+    position: absolute;
+    top: -0.15em;
+    right: 0.1em;
+    font-family: "Fraunces", "Lora", serif;
+    font-weight: 600;
+    font-size: clamp(7rem, 22vw, 18rem);
+    line-height: 1;
+    color: rgba(255, 255, 255, 0.05);
+    pointer-events: none;
+    user-select: none;
+}
+
+.tc-stage-eyebrow {
+    font-size: 0.68rem;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: #f0b487;
+}
+
+.tc-stage-title {
+    font-family: "Fraunces", "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: clamp(2rem, 5.5vw, 4rem);
+    line-height: 1.02;
+    margin: 0.35rem 0 0;
+    max-width: 18ch;
+    text-shadow: 0 2px 24px rgba(0, 0, 0, 0.6);
+}
+
+.tc-stage-sub {
+    font-style: italic;
+    color: #d8c8ae;
+    font-size: clamp(1rem, 2vw, 1.3rem);
+    margin: 0.5rem 0 0;
+}
+
+.tc-stage-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.85rem;
+    margin-top: 0.9rem;
+    font-size: 0.82rem;
+    color: #c2b39a;
+}
+
+.tc-stage-meta span {
+    display: inline-flex;
+    align-items: center;
+}
+
+.tc-stage-meta span + span::before {
+    content: "·";
+    margin-right: 0.85rem;
+    color: #e8a87c;
+}
+
+.tc-stage-actions {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    margin-top: 1.5rem;
+}
+
+.tc-play-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    border: none;
+    cursor: pointer;
+    padding: 0.7rem 1.6rem 0.7rem 1.3rem;
+    border-radius: 999px;
+    font-family: "Lora", serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #2a1a0e;
+    background: linear-gradient(180deg, #f3bd94 0%, #e8a87c 100%);
+    box-shadow: 0 8px 30px -6px rgba(232, 168, 124, 0.5);
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.tc-play-btn svg {
+    width: 18px;
+    height: 18px;
+}
+
+.tc-play-btn:hover {
+    transform: translateY(-2px) scale(1.02);
+    box-shadow: 0 14px 40px -8px rgba(232, 168, 124, 0.55);
+}
+
+.tc-open-link {
+    color: #c2b39a;
+    text-decoration: none;
+    font-size: 0.88rem;
+    letter-spacing: 0.02em;
+    border-bottom: 1px solid transparent;
+    transition: color 0.18s ease, border-color 0.18s ease;
+}
+
+.tc-open-link:hover {
+    color: #f5efe3;
+    border-bottom-color: #e8a87c;
+}
+
+/* ---- Inline player ---- */
+.tc-stage-player {
+    position: absolute;
+    inset: 0;
+    z-index: 3;
+    background: #000;
+    display: none;
+}
+
+.tc-stage-player iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.tc-tv.is-playing .tc-stage-player {
+    display: block;
+}
+
+.tc-tv.is-playing .tc-stage-content {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.tc-stage-close {
+    position: absolute;
+    top: 0.9rem;
+    right: 0.9rem;
+    z-index: 4;
+    width: 40px;
+    height: 40px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(4px);
+    transition: background 0.18s ease;
+}
+
+.tc-stage-close svg {
+    width: 20px;
+    height: 20px;
+}
+
+.tc-stage-close:hover {
+    background: #e8a87c;
+    color: #2a1a0e;
+}
+
+.tc-tv.is-playing .tc-stage-close {
+    display: flex;
+}
+
+/* ---- Rail ---- */
+.tc-rail-wrap {
+    margin-top: 2.25rem;
+    animation: tc-rise 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) 0.12s both;
+}
+
+.tc-rail-head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+}
+
+.tc-rail-title {
+    font-family: "Fraunces", "Lora", serif;
+    font-weight: 600;
+    font-size: 1.3rem;
+}
+
+.tc-rail-count {
+    font-size: 0.78rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--tv-faint);
+}
+
+.tc-rail {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    padding: 0.5rem 0.25rem 1.25rem;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: thin;
+    scrollbar-color: var(--tv-faint) transparent;
+}
+
+.tc-rail::-webkit-scrollbar {
+    height: 6px;
+}
+
+.tc-rail::-webkit-scrollbar-thumb {
+    background: var(--tv-faint);
+    border-radius: 999px;
+}
+
+.tc-poster {
+    flex: 0 0 auto;
+    width: clamp(150px, 22vw, 210px);
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+    padding: 0;
+    border: none;
+    background: none;
+    color: inherit;
+    text-align: left;
+    cursor: pointer;
+    scroll-snap-align: center;
+}
+
+.tc-poster-thumb {
+    position: relative;
+    display: block;
+    aspect-ratio: 16 / 9;
+    border-radius: 11px;
+    overflow: hidden;
+    background: var(--tv-panel);
+    box-shadow: 0 10px 24px -12px rgba(0, 0, 0, 0.8);
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+    transition: outline-color 0.2s ease, transform 0.2s ease;
+}
+
+.tc-poster-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.78;
+    transition: opacity 0.2s ease, transform 0.35s ease;
+}
+
+.tc-poster-badge {
+    position: absolute;
+    top: 0.45rem;
+    left: 0.45rem;
+    font-size: 0.66rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    padding: 0.12rem 0.4rem;
+    border-radius: 5px;
+    color: #f5efe3;
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(3px);
+}
+
+.tc-poster-play {
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    color: #2a1a0e;
+    background: #e8a87c;
+    opacity: 0;
+    transform: scale(0.8);
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    box-shadow: 0 6px 20px -4px rgba(232, 168, 124, 0.5);
+}
+
+.tc-poster-play svg {
+    width: 18px;
+    height: 18px;
+    margin-left: 2px;
+}
+
+.tc-poster.is-active .tc-poster-thumb,
+.tc-poster:hover .tc-poster-thumb,
+.tc-poster:focus-visible .tc-poster-thumb {
+    outline-color: var(--tv-accent);
+    transform: translateY(-4px);
+}
+
+.tc-poster.is-active .tc-poster-thumb img,
+.tc-poster:hover .tc-poster-thumb img {
+    opacity: 1;
+    transform: scale(1.05);
+}
+
+.tc-poster.is-active .tc-poster-play,
+.tc-poster:hover .tc-poster-play,
+.tc-poster:focus-visible .tc-poster-play {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.tc-poster:focus {
+    outline: none;
+}
+
+.tc-poster-cap {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    padding: 0 0.15rem;
+}
+
+.tc-poster-name {
+    font-weight: 600;
+    font-size: 0.92rem;
+    color: var(--tv-text);
+    line-height: 1.25;
+}
+
+.tc-poster.is-active .tc-poster-name {
+    color: var(--tv-accent);
+}
+
+.tc-poster-sub {
+    font-size: 0.76rem;
+    font-style: italic;
+    color: var(--tv-faint);
+}
+
+@keyframes tc-rise {
+    from { opacity: 0; transform: translateY(18px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .tc-tv-top,
+    .tc-stage,
+    .tc-rail-wrap {
+        animation: none;
+    }
+}
+
+@media (max-width: 700px) {
+    .tc-stage {
+        aspect-ratio: auto;
+        min-height: 420px;
+    }
+}
+
+.tc-single {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.tc-single-sub {
+    color: var(--text-secondary);
+    font-style: italic;
+    margin-bottom: 1.25rem;
+}
+
+.tc-single-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 1.25rem;
+    margin-top: 1rem;
+    font-size: 0.85rem;
+    color: var(--text-dim);
+}

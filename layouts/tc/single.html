@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="tc-single">
+  <nav class="breadcrumb"><a href="{{ "/tc/" | relURL }}">Thánh Ca</a></nav>
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.titleEn }}<p class="tc-single-sub">{{ . }}</p>{{ end }}
+  <div class="youtube-wrapper">
+    <iframe src="https://www.youtube.com/embed/{{ .Params.youtube }}" allowfullscreen frameborder="0" loading="lazy"></iframe>
+  </div>
+  <div class="tc-single-meta">
+    {{ with .Params.performer }}<span>Trình bày: {{ . }}</span>{{ end }}
+    {{ with .Params.hymnNumber }}<span>Thánh Ca Cơ-đốc #{{ . }}</span>{{ end }}
+  </div>
+  {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
+</article>
+{{ end }}
