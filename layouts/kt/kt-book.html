@@ -20,6 +20,6 @@
   </div>
 </article>
 {{ if .Params.audio }}
-  {{ partial "audio-player.html" . }}
+  {{ partial "audio-player.html" (dict "book" .) }}
 {{ end }}
 {{ end }}

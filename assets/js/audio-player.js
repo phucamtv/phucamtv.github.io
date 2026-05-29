@@ -31,6 +31,11 @@
     return entry.translation + " - " + lang + " - " + gender;
   }
 
+  // Disambiguating suffix, only used when a book has multiple sources.
+  function scopeSuffix(entry) {
+    return entry.scope === "chapter" ? " (theo chương)" : " (trọn sách)";
+  }
+
   /** Resolve chapter URLs for an audio entry. Returns null for scope:book. */
   function resolveChapters(entry) {
     if (entry.scope !== "chapter") return null;
@@ -66,6 +71,33 @@
 
   function saveSpeed(rate) {
     try { localStorage.setItem("ap-speed", rate); } catch (e) {}
+  }
+
+  function sourceKey(slug) {
+    return "ap-source:" + slug;
+  }
+
+  // Returns the stored index, or null when nothing valid is stored.
+  function loadSourceIndex(slug, count) {
+    try {
+      var raw = localStorage.getItem(sourceKey(slug));
+      if (raw === null) return null;
+      var v = parseInt(raw, 10);
+      return (v >= 0 && v < count) ? v : null;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function firstScopeIndex(entries, scope) {
+    for (var i = 0; i < entries.length; i++) {
+      if (entries[i].scope === scope) return i;
+    }
+    return -1;
+  }
+
+  function saveSourceIndex(slug, idx) {
+    try { localStorage.setItem(sourceKey(slug), idx); } catch (e) {}
   }
 
   function resumeKey(slug, idx) {
@@ -335,8 +367,19 @@
     this.slug = data.slug;
     this.bookTitle = data.title;
     this.entries = data.audio || [];
-    this.currentIndex = 0;
-    this.currentChapter = 1;
+    this.currentChapter = data.initialChapter || 1;
+    this.isChapterPage = !!data.isChapterPage;
+    // An explicit prior choice wins; otherwise chapter pages prefer a
+    // chapter-scoped source, falling back to the first entry.
+    var stored = loadSourceIndex(this.slug, this.entries.length);
+    if (stored !== null) {
+      this.currentIndex = stored;
+    } else if (this.isChapterPage) {
+      var ci = firstScopeIndex(this.entries, "chapter");
+      this.currentIndex = ci >= 0 ? ci : 0;
+    } else {
+      this.currentIndex = 0;
+    }
     this.chapters = null; // resolved chapter map for current entry
     this.backend = null;
     this.playing = false;
@@ -674,7 +717,7 @@
     for (var i = 0; i < entries.length; i++) {
       var opt = document.createElement("option");
       opt.value = i;
-      opt.textContent = sourceLabel(entries[i]);
+      opt.textContent = sourceLabel(entries[i]) + scopeSuffix(entries[i]);
       this.sourceSelect.appendChild(opt);
     }
   };
@@ -718,8 +761,8 @@
 
     this.playBtn.addEventListener("click", function () {
       if (!self.player.backend) {
-        // first play — load first source
-        self._loadAndPlay(0);
+        // first play — load the (possibly restored) selected source
+        self._loadAndPlay(self.player.currentIndex);
       } else {
         self.player.togglePlay();
       }
@@ -729,7 +772,9 @@
     this.nextBtn.addEventListener("click", function () { self.player.nextChapter(); });
 
     this.sourceSelect.addEventListener("change", function () {
-      self._loadAndPlay(parseInt(self.sourceSelect.value, 10));
+      var idx = parseInt(self.sourceSelect.value, 10);
+      saveSourceIndex(self.player.slug, idx);
+      self._loadAndPlay(idx);
     });
 
     this.chapterSelect.addEventListener("change", function () {
@@ -796,7 +841,10 @@
 
   PlayerUI.prototype._loadAndPlay = function (index) {
     var self = this;
-    var resumeData = loadResume(this.player.slug, index);
+    // On a chapter page the user explicitly wants this chapter — skip the
+    // resume prompt for chapter-scoped sources.
+    var skipResume = this.player.isChapterPage && this.player.entries[index].scope === "chapter";
+    var resumeData = skipResume ? null : loadResume(this.player.slug, index);
     if (resumeData && resumeData.position > 10) {
       // ask to resume
       var chLabel = resumeData.chapter > 0 ? "Chương " + resumeData.chapter + ", " : "";
@@ -806,13 +854,13 @@
         if (yes) {
           self.player.load(index, resumeData.chapter, resumeData.position);
         } else {
-          self.player.load(index);
+          self.player.load(index, self.player.currentChapter);
         }
         self.show();
         self.player.play();
       };
     } else {
-      this.player.load(index);
+      this.player.load(index, this.player.currentChapter);
       this.show();
       this.player.play();
     }
@@ -927,7 +975,7 @@
     ui.show();
     ui.updatePlayState(false);
     // Set initial title without loading a backend
-    player.chapters = resolveChapters(player.entries[0]);
+    player.chapters = resolveChapters(player.entries[player.currentIndex]);
     ui.updateTrackInfo(player);
   }
 

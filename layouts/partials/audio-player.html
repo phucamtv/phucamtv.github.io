@@ -1,8 +1,11 @@
-{{/* Audio Player — only included when .Params.audio exists */}}
+{{/* Audio Player — context is a dict {book, chapter?}; chapter is set on chapter pages */}}
+{{ $book := .book }}
 {{ $audioData := dict
-  "slug" .Params.slug
-  "title" .Title
-  "audio" .Params.audio
+  "slug" $book.Params.slug
+  "title" $book.Title
+  "audio" $book.Params.audio
+  "initialChapter" (or .chapter 1)
+  "isChapterPage" (isset . "chapter")
 }}
 <script id="audio-data" type="application/json">{{ $audioData | jsonify | safeJS }}</script>
 
@@ -31,7 +34,7 @@
 
     {{/* Info: title + source selector */}}
     <div class="ap-info">
-      <div class="ap-title" id="ap-title">{{ .Title }}</div>
+      <div class="ap-title" id="ap-title">{{ $book.Title }}</div>
       <select class="ap-source-select" id="ap-source"></select>
     </div>
 

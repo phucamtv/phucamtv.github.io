@@ -266,7 +266,8 @@
   border-radius: 4px;
   padding: 0.1rem 0.3rem;
   cursor: pointer;
-  max-width: 200px;
+  align-self: flex-start;
+  max-width: 100%;
   font-family: inherit;
 }
 

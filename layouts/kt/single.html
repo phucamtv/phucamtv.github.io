@@ -75,7 +75,7 @@
   </nav>
 </article>
 {{ if $curBook.Params.audio }}
-  {{ partial "audio-player.html" $curBook }}
+  {{ partial "audio-player.html" (dict "book" $curBook "chapter" $c) }}
 {{ end }}
 <script>
 (function () {
