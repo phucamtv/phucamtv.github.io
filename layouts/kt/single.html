@@ -10,7 +10,6 @@
 {{ $ci := 0 }}
 {{ range $idx, $b := $canon }}{{ if eq $b.Params.slug $slug }}{{ $ci = $idx }}{{ end }}{{ end }}
 {{ $curBook := index $canon $ci }}
-{{ $half := int (div $n 2) }}
 {{ $prevBook := index $canon (mod (add (sub $ci 1) $n) $n) }}
 {{ $prevMax := partialCached "kt-chapter-count.html" $prevBook.Params.titleEn $prevBook.Params.titleEn }}
 {{ $nextBook := index $canon (mod (add $ci 1) $n) }}
@@ -18,12 +17,10 @@
   <nav class="kt-booknav" aria-label="Chuyển sách và chương">
     <div class="kt-booknav-bookwrap">
       <div class="kt-booknav-books">
-        {{- range $k := seq 0 (sub $n 1) -}}
-          {{- $bi := mod (add (sub (add $ci $k) $half) $n) $n -}}
-          {{- $b := index $canon $bi -}}
+        {{- range $b := $canon -}}
           {{- $href := $b.RelPermalink -}}
-          {{- if and $b.Params.hasChapters (ne $bi $ci) }}{{ $href = printf "/kt/%s/1/" $b.Params.slug }}{{ end -}}
-          <a class="kt-booknav-book{{ if eq $bi $ci }} is-current{{ end }}" href="{{ $href }}">{{ $b.Title }}</a>
+          {{- if and $b.Params.hasChapters (ne $b.Params.slug $slug) }}{{ $href = printf "/kt/%s/1/" $b.Params.slug }}{{ end -}}
+          <a class="kt-booknav-book{{ if eq $b.Params.slug $slug }} is-current{{ end }}" href="{{ $href }}">{{ $b.Title }}</a>
         {{- end -}}
       </div>
       <svg class="kt-booknav-notch" width="44" height="20" viewBox="0 0 44 20" aria-hidden="true">
@@ -79,13 +76,13 @@
 {{ end }}
 <script>
 (function () {
-  function center(strip) {
+  // ---- Chapters strip: center current + place notch (finite, unchanged) ----
+  var chapters = document.querySelector(".kt-booknav-chapters");
+  var notch = document.querySelector(".kt-booknav-notch");
+  function centerStrip(strip) {
     var cur = strip && strip.querySelector(".is-current");
     if (cur) strip.scrollLeft = cur.offsetLeft - (strip.clientWidth - cur.offsetWidth) / 2;
   }
-  var books = document.querySelector(".kt-booknav-books");
-  var chapters = document.querySelector(".kt-booknav-chapters");
-  var notch = document.querySelector(".kt-booknav-notch");
   function placeNotch() {
     var cur = chapters && chapters.querySelector(".is-current");
     if (!cur || !notch) return;
@@ -93,11 +90,56 @@
     var c = cur.getBoundingClientRect();
     notch.style.left = (c.left + c.width / 2 - ref.left) + "px";
   }
-  center(books);
-  center(chapters);
+  centerStrip(chapters);
   placeNotch();
   if (chapters) chapters.addEventListener("scroll", placeNotch, { passive: true });
   window.addEventListener("resize", placeNotch);
+
+  // ---- Books strip: seamless cyclic scroll with a FIXED, bounded DOM ----
+  // Render 3 copies of the canon (~198 light anchors). The count never grows:
+  // when the user scrolls one full cycle past, we reposition scrollLeft by one
+  // period. No infinite loop, no element appending — O(1) per scroll frame.
+  var books = document.querySelector(".kt-booknav-books");
+  if (!books) return;
+  var originals = Array.prototype.slice.call(books.children);
+  if (originals.length < 2) return;
+
+  var COPIES = 3;
+  var frag = document.createDocumentFragment();
+  var firstOfCopy = [];
+  var currentEl = null;
+  for (var c = 0; c < COPIES; c++) {
+    for (var i = 0; i < originals.length; i++) {
+      var clone = originals[i].cloneNode(true);
+      if (i === 0) firstOfCopy[c] = clone;
+      if (c === 1 && clone.classList.contains("is-current")) currentEl = clone;
+      frag.appendChild(clone);
+    }
+  }
+  books.innerHTML = "";
+  books.appendChild(frag);
+
+  var period = 0; // width of one canon cycle, measured exactly
+  function center() {
+    period = firstOfCopy[1].offsetLeft - firstOfCopy[0].offsetLeft;
+    books.scrollLeft = currentEl
+      ? currentEl.offsetLeft - (books.clientWidth - currentEl.offsetWidth) / 2
+      : period;
+  }
+
+  var ticking = false;
+  books.addEventListener("scroll", function () {
+    if (ticking || !period) return;
+    ticking = true;
+    requestAnimationFrame(function () {
+      if (books.scrollLeft < period) books.scrollLeft += period;
+      else if (books.scrollLeft >= 2 * period) books.scrollLeft -= period;
+      ticking = false;
+    });
+  }, { passive: true });
+
+  center();
+  window.addEventListener("resize", center);
 })();
 </script>
 {{ end }}

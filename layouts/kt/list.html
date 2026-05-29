@@ -17,11 +17,7 @@
       <h3 class="kt-group-title">{{ .Params.group }} <span class="kt-group-title-en">({{ .Params.groupEn }})</span></h3>
       <div class="kt-group">
         {{- end }}
-        <div class="kt-book{{ if .Params.hasChapters }} kt-book--chapters{{ end }}">
-          <a class="kt-book-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
-          {{ with .Description }}<span class="kt-book-desc">{{ . }}</span>{{ end }}
-          {{ if .Params.hasChapters }}{{ partial "kt-chapter-grid.html" . }}{{ end }}
-        </div>
+        {{ partial "kt-index-book.html" . }}
       {{- end }}
       {{- if ne $currentGroup "" }}</div>{{ end }}
     </div>
@@ -36,11 +32,7 @@
       <h3 class="kt-group-title">{{ .Params.group }} <span class="kt-group-title-en">({{ .Params.groupEn }})</span></h3>
       <div class="kt-group">
         {{- end }}
-        <div class="kt-book{{ if .Params.hasChapters }} kt-book--chapters{{ end }}">
-          <a class="kt-book-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
-          {{ with .Description }}<span class="kt-book-desc">{{ . }}</span>{{ end }}
-          {{ if .Params.hasChapters }}{{ partial "kt-chapter-grid.html" . }}{{ end }}
-        </div>
+        {{ partial "kt-index-book.html" . }}
       {{- end }}
       {{- if ne $currentGroup "" }}</div>{{ end }}
     </div>

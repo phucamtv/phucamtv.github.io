@@ -1,0 +1,16 @@
+{{- /* One book on the /kt/ index. Chapter books are collapsible (collapsed by
+       default); the name still links to the book overview page. Context = book page. */ -}}
+{{- if .Params.hasChapters -}}
+<details class="kt-book kt-book--chapters">
+  <summary class="kt-book-summary">
+    <a class="kt-book-name" href="{{ .RelPermalink }}" onclick="event.stopPropagation()">{{ .Title }}</a>
+    {{ with .Description }}<span class="kt-book-desc">{{ . }}</span>{{ end }}
+  </summary>
+  {{ partial "kt-chapter-grid.html" . }}
+</details>
+{{- else -}}
+<div class="kt-book">
+  <a class="kt-book-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  {{ with .Description }}<span class="kt-book-desc">{{ . }}</span>{{ end }}
+</div>
+{{- end -}}
