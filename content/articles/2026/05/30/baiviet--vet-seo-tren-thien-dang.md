@@ -5,7 +5,6 @@ url: /baiviet/vet-seo-tren-thien-dang/
 description: "Một cuộc hội ngộ bất ngờ với sứ đồ Phi-e-rơ bên dòng sông sự sống. Trên thiên đàng, nơi mọi giọt nước mắt đã được lau khô, vì sao những vết sẹo vẫn còn? Một câu chuyện suy niệm về cái giá của tình yêu, về đặc ân được chịu khổ vì Danh Đức Chúa Giê-su, và về thứ trang sức duy nhất mà cả vũ trụ không mua được."
 tags: ["Phi-e-rơ", "Thiên Đàng", "Chịu Khổ Vì Đấng Christ", "Tình Yêu Thương", "Suy Niệm", "Sứ Đồ", "Truyện Ngắn"]
 authors: ["truong-the-hong"]
-draft: false
 ---
 
 Tôi không nhớ mình đã đi bao lâu trên con đường lát bằng vàng ròng ấy. Ở nơi này, thời gian dường như tan ra như sương mai dưới ánh mặt trời — không còn vội vã, không còn nuối tiếc, chỉ còn lại sự tĩnh lặng ngọt ngào của vĩnh cửu.
