@@ -1,7 +1,6 @@
 {{- /* Middle column for Trường Sa-bát — lessons of the current quarter.
        Current quarter = the lesson's parent (lesson page), self (quarter page),
        or the latest quarter (section / year page). */ -}}
-{{- $logo := `<span class="lib-rail-mark"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a3 3 0 0 1 3 3v13a2.5 2.5 0 0 0-2.5-2.5H2z"/><path d="M22 4h-6a3 3 0 0 0-3 3v13a2.5 2.5 0 0 1 2.5-2.5H22z"/></svg></span>` -}}
 {{- $cur := .RelPermalink -}}
 {{- $q := "" -}}
 {{- if eq .Layout "lesson" -}}{{ $q = .Parent }}
@@ -17,7 +16,7 @@
 {{- with $q -}}{{ $qlabel = strings.TrimSpace (index (split .Title "–") 0) }}{{- end -}}
 <nav class="lib-mid">
   <div class="lib-mid-head">
-    <button class="lib-mtrigger" type="button" aria-label="Mở thư viện">{{ $logo | safeHTML }}</button>
+    <button class="lib-mtrigger" type="button" aria-label="Mở thư viện">{{ partial "lib/mark.html" . }}</button>
     <a class="lib-mid-back" href="/truong-sabat/"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>{{ $qlabel }}</a>
   </div>
   <div class="lib-mid-body">

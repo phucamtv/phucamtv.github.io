@@ -88,11 +88,17 @@ body.lib-app-body { margin: 0; padding: 0; overflow: hidden; background: var(--k
    Shell grid
    ============================================================ */
 .lib-app {
+  --lib-rail-w: 200px;
+  --lib-mid-w: 380px;
   width: 100vw; height: 100vh; overflow: hidden;
   display: grid;
-  grid-template-columns: 200px minmax(300px, 380px) minmax(460px, 1fr);
+  grid-template-columns: var(--lib-rail-w) minmax(300px, var(--lib-mid-w)) minmax(460px, 1fr);
   grid-template-rows: 1fr;
 }
+
+/* audio player aligns with the detail column (col 3) */
+body.lib-app-body .audio-player-bar { left: calc(var(--lib-rail-w) + var(--lib-mid-w)); right: 0; }
+body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 
 /* ============================================================
    Column 1 — rail
@@ -310,6 +316,8 @@ body.lib-app-body { margin: 0; padding: 0; overflow: hidden; background: var(--k
   .lib-app.detail-open .lib-detail { transform: translateX(0); }
   .lib-doc { padding: 24px 20px 120px; }
   .lib-doc-title { font-size: 25px; }
+  /* detail goes full-screen → player spans full width again */
+  body.lib-app-body .audio-player-bar { left: 0; }
   .lib-mback { display: inline-flex; align-items: center; gap: 5px; font-weight: 600; font-size: 14px; color: var(--kt-accent-deep); margin-bottom: 14px; }
   .lib-mback svg { width: 18px; height: 18px; }
 }
@@ -317,12 +325,15 @@ body.lib-app-body { margin: 0; padding: 0; overflow: hidden; background: var(--k
 /* ============================================================
    Nghiên Cứu — series cards + video reader (scoped to .lib-app)
    ============================================================ */
-/* section root has no middle column: rail + detail only */
-.lib-app.no-mid { grid-template-columns: 264px 1fr; }
+/* section root has no middle column: rail + detail only, wider doc for the grid */
+.lib-app.no-mid { grid-template-columns: var(--lib-rail-w) 1fr; }
 .lib-app.no-mid .lib-detail { grid-column: 2; }
+.lib-app.no-mid .lib-doc { max-width: 1080px; }
 .lib-mtrigger-solo { display: none; margin-bottom: 14px; }
+.lib-app a.lib-doc-eyebrow-link:hover { text-decoration: underline; text-underline-offset: 3px; }
+.lib-doc-eyebrow-sep { color: var(--kt-text-3); }
 
-.lib-app .nc-series-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 18px; margin-top: 26px; }
+.lib-app .nc-series-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 18px; margin-top: 26px; }
 .lib-app .nc-series-card { display: flex; flex-direction: column; border-radius: 14px; overflow: hidden; background: var(--kt-paper-2); border: 1px solid var(--kt-hairline); transition: transform .16s, box-shadow .2s; }
 .lib-app .nc-series-card:hover { transform: translateY(-2px); box-shadow: var(--kt-sh-md); }
 .lib-app .nc-series-thumb { aspect-ratio: 16/9; overflow: hidden; background: var(--kt-sunken); }
