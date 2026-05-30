@@ -12,20 +12,13 @@
   {{- end -}}
 {{- end -}}
 
-<article class="nc-episode-page">
-  <div class="breadcrumb">
-    <a href="/nghien-cuu/">Nghiên Cứu</a>
-    <span class="breadcrumb-sep">›</span>
-    <a href="{{ $series.RelPermalink }}">{{ $series.Title }}</a>
-    <span class="breadcrumb-sep">›</span>
-    Bài {{ $idx }}
+<article class="lib-doc">
+  <div class="lib-doc-eyebrow">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 9 5-9 5-9-5 9-5z"/><path d="m3 12 9 5 9-5"/><path d="m3 17 9 5 9-5"/></svg>
+    Bài {{ $idx }} / {{ $data.totalVideos }}
   </div>
-
-  <header class="nc-episode-header">
-    <div class="nc-episode-eyebrow">Bài {{ $idx }} / {{ $data.totalVideos }}</div>
-    <h1>{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
-    {{ with $video.title }}<div class="nc-episode-en">{{ . }}</div>{{ end }}
-  </header>
+  <h1 class="lib-doc-title">{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
+  {{ with $video.title }}<p class="lib-doc-sub"><em>{{ . }}</em></p>{{ end }}
 
   <div class="youtube-wrapper nc-episode-video">
     <iframe
@@ -37,9 +30,7 @@
       loading="lazy"></iframe>
   </div>
 
-  {{ with .Content }}
-  <div class="nc-episode-body content">{{ . }}</div>
-  {{ end }}
+  {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
 
   <nav class="nc-prev-next">
     <div class="nc-prev-next-cell nc-prev-next-prev">
