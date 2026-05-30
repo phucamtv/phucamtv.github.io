@@ -1,42 +1,17 @@
 {{ define "main" }}
-{{- $books := sort (where .Site.Pages "Layout" "kt-book") "Weight" -}}
-{{- $otBooks := where $books "Params.testament" "old" -}}
-{{- $ntBooks := where $books "Params.testament" "new" -}}
-<div class="kt-index">
-  <h1 class="kt-title">{{ .Title }}</h1>
-  {{ with .Params.verse }}<p class="kt-verse">{{ . }}</p>{{ end }}
-  <div class="kt-columns">
-
-    <div class="kt-section">
-      <h2 class="kt-testament">Cựu Ước</h2>
-      {{- $currentGroup := "" -}}
-      {{- range $otBooks -}}
-        {{- if ne .Params.group $currentGroup -}}
-          {{- if ne $currentGroup "" }}</div>{{ end }}
-          {{- $currentGroup = .Params.group }}
-      <h3 class="kt-group-title">{{ .Params.group }} <span class="kt-group-title-en">({{ .Params.groupEn }})</span></h3>
-      <div class="kt-group">
-        {{- end }}
-        {{ partial "kt-index-book.html" . }}
-      {{- end }}
-      {{- if ne $currentGroup "" }}</div>{{ end }}
-    </div>
-
-    <div class="kt-section">
-      <h2 class="kt-testament">Tân Ước</h2>
-      {{- $currentGroup = "" -}}
-      {{- range $ntBooks -}}
-        {{- if ne .Params.group $currentGroup -}}
-          {{- if ne $currentGroup "" }}</div>{{ end }}
-          {{- $currentGroup = .Params.group }}
-      <h3 class="kt-group-title">{{ .Params.group }} <span class="kt-group-title-en">({{ .Params.groupEn }})</span></h3>
-      <div class="kt-group">
-        {{- end }}
-        {{ partial "kt-index-book.html" . }}
-      {{- end }}
-      {{- if ne $currentGroup "" }}</div>{{ end }}
-    </div>
-
+<div class="lib-doc">
+  <div class="lib-doc-eyebrow">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 14v-2a9 9 0 0 1 18 0v2"/><path d="M21 16a2 2 0 0 1-2 2h-1v-6h1a2 2 0 0 1 2 2zM3 16a2 2 0 0 0 2 2h1v-6H5a2 2 0 0 0-2 2z"/></svg>
+    Đọc &amp; Nghe
+  </div>
+  <h1 class="lib-doc-title">{{ .Title }}</h1>
+  {{ with .Params.verse }}<p class="lib-doc-sub">{{ . }}</p>{{ end }}
+  <a class="lib-cta" href="/kt/nt01/1/">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M2 4h6a3 3 0 0 1 3 3v13a2.5 2.5 0 0 0-2.5-2.5H2z"/><path d="M22 4h-6a3 3 0 0 0-3 3v13a2.5 2.5 0 0 1 2.5-2.5H22z"/></svg>
+    Bắt đầu đọc
+  </a>
+  <div class="content">
+    <p>Chọn một sách ở cột bên trái để bắt đầu. 66 sách Cựu Ước và Tân Ước, đọc và nghe trong một thư viện.</p>
   </div>
 </div>
 {{ end }}

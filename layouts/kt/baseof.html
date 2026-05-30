@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  {{- partial "head.html" . -}}
+</head>
+<body class="lib-app-body">
+  <div class="lib-app{{ if .Params.isChapter }} detail-open{{ end }}">
+    <div class="lib-app-backdrop"></div>
+    {{- partial "lib/rail.html" (dict "active" "kt") -}}
+    {{- partial "kt/list.html" . -}}
+    <main class="lib-detail">
+      <div class="lib-detail-scroll">
+        {{- block "main" . }}{{- end }}
+      </div>
+    </main>
+  </div>
+  {{- partial "lib/app-js.html" . -}}
+</body>
+</html>

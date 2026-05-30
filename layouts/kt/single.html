@@ -1,43 +1,20 @@
 {{ define "main" }}
+{{/* Chapter reader — generated chapter pages (/kt/<slug>/<n>/) render via this
+     default single template. Verses come from .Params.verses (set by _content.gotmpl). */}}
 {{ $slug := .Params.bookSlug }}
 {{ $c := .Params.chapter }}
 {{ $total := .Params.totalChapters }}
-{{/* Full 66-book canon, OT then NT by weight, for the circular book strip */}}
-{{ $allBooks := where site.Pages "Layout" "kt-book" }}
-{{ $canon := sort (where $allBooks "Params.testament" "old") "Weight" }}
-{{ range (sort (where $allBooks "Params.testament" "new") "Weight") }}{{ $canon = $canon | append . }}{{ end }}
-{{ $n := len $canon }}
-{{ $ci := 0 }}
-{{ range $idx, $b := $canon }}{{ if eq $b.Params.slug $slug }}{{ $ci = $idx }}{{ end }}{{ end }}
-{{ $curBook := index $canon $ci }}
-{{ $prevBook := index $canon (mod (add (sub $ci 1) $n) $n) }}
-{{ $prevMax := partialCached "kt-chapter-count.html" $prevBook.Params.titleEn $prevBook.Params.titleEn }}
-{{ $nextBook := index $canon (mod (add $ci 1) $n) }}
-<article class="kt-chapter">
-  <nav class="kt-booknav" aria-label="Chuyển sách và chương">
-    <div class="kt-booknav-bookwrap">
-      <div class="kt-booknav-books">
-        {{- range $b := $canon -}}
-          {{- $href := $b.RelPermalink -}}
-          {{- if and $b.Params.hasChapters (ne $b.Params.slug $slug) }}{{ $href = printf "/kt/%s/1/" $b.Params.slug }}{{ end -}}
-          <a class="kt-booknav-book{{ if eq $b.Params.slug $slug }} is-current{{ end }}" href="{{ $href }}">{{ $b.Title }}</a>
-        {{- end -}}
-      </div>
-      <svg class="kt-booknav-notch" width="44" height="20" viewBox="0 0 44 20" aria-hidden="true">
-        <rect class="kt-booknav-notch-mask" x="0" y="0" width="44" height="5"></rect>
-        <path class="kt-booknav-notch-line" d="M0 4 H17 L22 17 L27 4 H44"></path>
-      </svg>
-    </div>
-    <div class="kt-booknav-chapters">
-      <a class="kt-booknav-ch kt-booknav-ch--edge" href="/kt/{{ $prevBook.Params.slug }}/{{ $prevMax }}/" title="{{ $prevBook.Title }} {{ $prevMax }}"><span class="kt-booknav-ch-bk">{{ substr $prevBook.Params.titleEn 0 3 | upper }}</span>{{ $prevMax }}</a>
-      {{- range $i := seq 1 $total }}
-      <a class="kt-booknav-ch{{ if eq $i $c }} is-current{{ end }}" href="/kt/{{ $slug }}/{{ $i }}/">{{ $i }}</a>
-      {{- end }}
-      {{- $nhref := $nextBook.RelPermalink -}}
-      {{- if $nextBook.Params.hasChapters }}{{ $nhref = printf "/kt/%s/1/" $nextBook.Params.slug }}{{ end -}}
-      <a class="kt-booknav-ch kt-booknav-ch--edge" href="{{ $nhref }}" title="{{ $nextBook.Title }} 1"><span class="kt-booknav-ch-bk">{{ substr $nextBook.Params.titleEn 0 3 | upper }}</span>1</a>
-    </div>
-  </nav>
+{{ $bookVi := .Params.bookVi }}
+{{ $curBook := index (where site.Pages "Params.slug" $slug) 0 }}
+<article class="lib-doc">
+  <a class="lib-mback" href="/kt/{{ $slug }}/">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>{{ $bookVi }}
+  </a>
+  <div class="lib-doc-eyebrow">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 14v-2a9 9 0 0 1 18 0v2"/><path d="M21 16a2 2 0 0 1-2 2h-1v-6h1a2 2 0 0 1 2 2zM3 16a2 2 0 0 0 2 2h1v-6H5a2 2 0 0 0-2 2z"/></svg>
+    Đọc &amp; Nghe
+  </div>
+  <h1 class="lib-doc-title">{{ $bookVi }} {{ $c }}</h1>
 
   <div class="kt-prose">
     {{- range .Params.verses -}}
@@ -50,96 +27,14 @@
 
   <nav class="kt-chapter-nav">
     <div class="kt-chapter-nav-side">
-      {{ if gt $c 1 }}
-      <a class="kt-chapter-nav-link" href="/kt/{{ $slug }}/{{ sub $c 1 }}/">‹ Chương trước</a>
-      {{ end }}
+      {{ if gt $c 1 }}<a class="kt-chapter-nav-link" href="/kt/{{ $slug }}/{{ sub $c 1 }}/">‹ Chương trước</a>{{ end }}
     </div>
-
-    <details class="kt-chapter-switch">
-      <summary>Chương {{ $c }} / {{ $total }}</summary>
-      <div class="kt-chapter-grid kt-chapter-grid--switch">
-        {{ range $i := seq 1 $total }}
-        <a href="/kt/{{ $slug }}/{{ $i }}/" class="kt-chapter-cell{{ if eq $i $c }} is-current{{ end }}">{{ printf "%02d" $i }}</a>
-        {{ end }}
-      </div>
-    </details>
-
     <div class="kt-chapter-nav-side kt-chapter-nav-side--right">
-      {{ if lt $c $total }}
-      <a class="kt-chapter-nav-link" href="/kt/{{ $slug }}/{{ add $c 1 }}/">Chương sau ›</a>
-      {{ end }}
+      {{ if lt $c $total }}<a class="kt-chapter-nav-link" href="/kt/{{ $slug }}/{{ add $c 1 }}/">Chương sau ›</a>{{ end }}
     </div>
   </nav>
 </article>
-{{ if $curBook.Params.audio }}
+{{ if and $curBook $curBook.Params.audio }}
   {{ partial "audio-player.html" (dict "book" $curBook "chapter" $c) }}
 {{ end }}
-<script>
-(function () {
-  // ---- Chapters strip: center current + place notch (finite, unchanged) ----
-  var chapters = document.querySelector(".kt-booknav-chapters");
-  var notch = document.querySelector(".kt-booknav-notch");
-  function centerStrip(strip) {
-    var cur = strip && strip.querySelector(".is-current");
-    if (cur) strip.scrollLeft = cur.offsetLeft - (strip.clientWidth - cur.offsetWidth) / 2;
-  }
-  function placeNotch() {
-    var cur = chapters && chapters.querySelector(".is-current");
-    if (!cur || !notch) return;
-    var ref = notch.parentNode.getBoundingClientRect();
-    var c = cur.getBoundingClientRect();
-    notch.style.left = (c.left + c.width / 2 - ref.left) + "px";
-  }
-  centerStrip(chapters);
-  placeNotch();
-  if (chapters) chapters.addEventListener("scroll", placeNotch, { passive: true });
-  window.addEventListener("resize", placeNotch);
-
-  // ---- Books strip: seamless cyclic scroll with a FIXED, bounded DOM ----
-  // Render 3 copies of the canon (~198 light anchors). The count never grows:
-  // when the user scrolls one full cycle past, we reposition scrollLeft by one
-  // period. No infinite loop, no element appending — O(1) per scroll frame.
-  var books = document.querySelector(".kt-booknav-books");
-  if (!books) return;
-  var originals = Array.prototype.slice.call(books.children);
-  if (originals.length < 2) return;
-
-  var COPIES = 3;
-  var frag = document.createDocumentFragment();
-  var firstOfCopy = [];
-  var currentEl = null;
-  for (var c = 0; c < COPIES; c++) {
-    for (var i = 0; i < originals.length; i++) {
-      var clone = originals[i].cloneNode(true);
-      if (i === 0) firstOfCopy[c] = clone;
-      if (c === 1 && clone.classList.contains("is-current")) currentEl = clone;
-      frag.appendChild(clone);
-    }
-  }
-  books.innerHTML = "";
-  books.appendChild(frag);
-
-  var period = 0; // width of one canon cycle, measured exactly
-  function center() {
-    period = firstOfCopy[1].offsetLeft - firstOfCopy[0].offsetLeft;
-    books.scrollLeft = currentEl
-      ? currentEl.offsetLeft - (books.clientWidth - currentEl.offsetWidth) / 2
-      : period;
-  }
-
-  var ticking = false;
-  books.addEventListener("scroll", function () {
-    if (ticking || !period) return;
-    ticking = true;
-    requestAnimationFrame(function () {
-      if (books.scrollLeft < period) books.scrollLeft += period;
-      else if (books.scrollLeft >= 2 * period) books.scrollLeft -= period;
-      ticking = false;
-    });
-  }, { passive: true });
-
-  center();
-  window.addEventListener("resize", center);
-})();
-</script>
 {{ end }}

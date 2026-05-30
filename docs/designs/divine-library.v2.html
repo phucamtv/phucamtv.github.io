@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="light">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Phúc Âm — Thư Viện Thiêng Liêng · v2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600;6..72,700&family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="divine-library.v2.css" />
+</head>
+<body>
+<div id="root"></div>
+
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+<script type="text/babel" data-presets="react">
+const { useState, useEffect, useRef } = React;
+
+/* ---- Icons ---- */
+const I = (p) => <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">{p.children}</svg>;
+const Icon = {
+  compass:<I><circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2 5-5 2 2-5z"/></I>,
+  book:<I><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></I>,
+  music:<I><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></I>,
+  pen:<I><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4z"/></I>,
+  users:<I><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/></I>,
+  library:<I><path d="m16 6 4 14"/><path d="M12 6v14"/><path d="M8 8v12"/><path d="M4 4v16"/></I>,
+  layers:<I><path d="m12 2 9 5-9 5-9-5 9-5z"/><path d="m3 12 9 5 9-5"/><path d="m3 17 9 5 9-5"/></I>,
+  chev:<I><path d="m9 18 6-6-6-6"/></I>,
+  chevL:<I><path d="m15 18-6-6 6-6"/></I>,
+  sun:<I><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></I>,
+  moon:<I><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"/></I>,
+  search:<I><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></I>,
+  edit:<I><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4z"/></I>,
+  play:<svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 4v16l13-8z"/></svg>,
+  pause:<svg viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg>,
+  prev:<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 4h2v16H6zM20 4 9 12l11 8z"/></svg>,
+  next:<svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 4h2v16h-2zM4 4l11 8L4 20z"/></svg>,
+  headphones:<I><path d="M3 14v-2a9 9 0 0 1 18 0v2"/><path d="M21 16a2 2 0 0 1-2 2h-1v-6h1a2 2 0 0 1 2 2zM3 16a2 2 0 0 0 2 2h1v-6H5a2 2 0 0 0-2 2z"/></I>,
+  heart:<I><path d="M19 14c1.5-1.5 3-3.4 3-5.5A4.5 4.5 0 0 0 12 5 4.5 4.5 0 0 0 2 8.5c0 2.1 1.5 4 3 5.5l7 7z"/></I>,
+  share:<I><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></I>,
+  plus:<I><path d="M12 5v14M5 12h14"/></I>,
+  shuffle:<I><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></I>,
+  repeat:<I><path d="m17 2 4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14M7 22l-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></I>,
+  volume:<I><path d="M11 5 6 9H2v6h4l5 4z"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></I>,
+  eye:<I><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7z"/><circle cx="12" cy="12" r="3"/></I>,
+  clock:<I><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></I>,
+  info:<I><circle cx="12" cy="12" r="9"/><path d="M12 16v-4M12 8h.01"/></I>,
+  more:<I><circle cx="12" cy="5" r="1.4"/><circle cx="12" cy="12" r="1.4"/><circle cx="12" cy="19" r="1.4"/></I>,
+  bookmark:<I><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></I>,
+  list:<I><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></I>,
+  table:<I><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M12 3v18"/></I>,
+  link:<I><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1"/><path d="M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></I>,
+};
+
+const GR = ["linear-gradient(135deg,#8c5a22,#3a2410)","linear-gradient(135deg,#a4451f,#5a1d0c)","linear-gradient(135deg,#3f6b5e,#16302a)","linear-gradient(135deg,#2f5277,#10243b)","linear-gradient(135deg,#7a5a8c,#33203d)","linear-gradient(135deg,#b08a32,#5a4010)","linear-gradient(135deg,#4a6b3f,#1d3014)","linear-gradient(135deg,#8c3a52,#3d1422)","linear-gradient(135deg,#2f6d77,#103035)","linear-gradient(135deg,#9c6a2f,#4a2c0c)"];
+const gr = (i) => GR[i % GR.length];
+
+/* ---- Accent palettes (light + dark variants) ---- */
+const ACCENTS = {
+  gold:   { name:"Hoàng Kim",  light:{a:"#b07a32",d:"#8c5a22",t:"#a4451f"}, dark:{a:"#d8a85a",d2:"#c79a52",t:"#e0764a"} },
+  terra:  { name:"Đất Nung",   light:{a:"#b3492a",d:"#8c331a",t:"#c2602f"}, dark:{a:"#e0764a",d2:"#cf5e36",t:"#eaa06a"} },
+  teal:   { name:"Ngọc Bích",  light:{a:"#2f7d76",d:"#1f5c56",t:"#2f9d8f"}, dark:{a:"#5cc2b4",d2:"#46a99b",t:"#7ad8c8"} },
+  indigo: { name:"Lam Ngọc",   light:{a:"#3a4fa0",d:"#2c3d82",t:"#5a6fc0"}, dark:{a:"#8a9ce8",d2:"#7385d8",t:"#a6b6f0"} },
+  sage:   { name:"Ô-liu",      light:{a:"#6b7a3f",d:"#52602e",t:"#8a9a4f"}, dark:{a:"#aebd72",d2:"#98a85f",t:"#c6d48a"} },
+  rose:   { name:"Huyết Dụ",   light:{a:"#9c3b52",d:"#7a2a3d",t:"#c25a72"}, dark:{a:"#e088a0",d2:"#cf7088",t:"#eaa6ba"} },
+};
+const ACCENT_KEYS = Object.keys(ACCENTS);
+
+/* ---- Data ---- */
+const HYMNS = [
+  {id:1,t:"Thánh Thay, Thánh Thay, Thánh Thay",a:"Thánh Ca Tin Lành",dur:"4:12",views:"82N",g:0},
+  {id:2,t:"Quyền Trong Huyết Đức Chúa Giê-su",a:"Ban Hát Phúc Âm",dur:"3:48",views:"61N",g:1},
+  {id:3,t:"Gần Chúa Hơn",a:"Thánh Ca Cơ-đốc",dur:"5:02",views:"120N",g:2},
+  {id:4,t:"Jêsus Là Bạn Thật",a:"Hợp Ca Ân Điển",dur:"3:21",views:"44N",g:3},
+  {id:5,t:"Tình Yêu Thiên Thượng",a:"Thánh Ca Tin Lành",dur:"4:36",views:"73N",g:4},
+  {id:6,t:"Nơi Chân Thập Tự Giá",a:"Ca Đoàn Hội Thánh",dur:"4:01",views:"55N",g:5},
+  {id:7,t:"Lòng Tôi Vui Mừng",a:"Ban Hát Phúc Âm",dur:"2:58",views:"38N",g:6},
+  {id:8,t:"Vinh Hiển Thuộc Về Chúa",a:"Hợp Ca Ân Điển",dur:"5:24",views:"91N",g:7},
+];
+const OT = [["Sáng","Sáng-thế Ký",50],["Xuất","Xuất Ê-díp-tô Ký",40],["Lê","Lê-vi Ký",27],["Dân","Dân-số Ký",36],["Phục","Phục-truyền",34],["Thi","Thi-thiên",150],["Châm","Châm-ngôn",31],["Ê-sai","Ê-sai",66]];
+const NT = [["Mat","Ma-thi-ơ",28],["Mác","Mác",16],["Lu","Lu-ca",24],["Giăng","Giăng",21],["Công","Công-vụ",28],["Rô","Rô-ma",16],["Khải","Khải-huyền",22]];
+const ARTICLES = [
+  {id:1,cat:"Tín Lý",t:"Sự Cứu Rỗi Bởi Đức Tin",ex:"Ân điển của Đức Chúa Trời ban cho nhân loại qua công lao cứu chuộc của Đức Chúa Giê-su, không bởi việc làm.",who:"Mục sư Nguyễn Văn An",when:"3 ngày trước",read:"8 phút",g:0},
+  {id:2,cat:"Lời Tiên Tri",t:"Bảy Mươi Tuần Lễ Của Đa-ni-ên",ex:"Giải nghĩa lời tiên tri trong Đa-ni-ên 9 và ý nghĩa tiên tri về Đấng Mê-si.",who:"Trần Quốc Bảo",when:"1 tuần trước",read:"14 phút",g:3},
+  {id:3,cat:"Đời Sống",t:"Sống Đời Sống Cầu Nguyện",ex:"Cầu nguyện không phải là nghi thức, mà là hơi thở của linh hồn trong mối tương giao với Đức Chúa Trời.",who:"Lê Thị Hạnh",when:"2 tuần trước",read:"6 phút",g:2},
+  {id:4,cat:"Kinh Thánh",t:"Ý Nghĩa Ngày Sa-bát",ex:"Ngày Sa-bát là dấu hiệu của sự sáng tạo và sự nghỉ ngơi mà Đức Chúa Trời ban cho con người.",who:"Mục sư Nguyễn Văn An",when:"3 tuần trước",read:"10 phút",g:6},
+];
+const AUTHORS = [
+  {id:1,name:"Mục sư Nguyễn Văn An",role:"Mục sư · Giảng dạy",count:42,g:0,bio:"Mục sư Nguyễn Văn An đã hầu việc Chúa hơn 25 năm, chuyên giảng dạy về tín lý và đời sống Cơ-đốc. Các bài giảng của ông tập trung vào ân điển và sự biến đổi đời sống."},
+  {id:2,name:"Trần Quốc Bảo",role:"Nhà nghiên cứu",count:18,g:3,bio:"Nhà nghiên cứu Kinh Thánh chuyên sâu về lời tiên tri trong Đa-ni-ên và Khải-huyền, với nhiều công trình giải nghĩa được phổ biến rộng rãi."},
+  {id:3,name:"Lê Thị Hạnh",role:"Tác giả · Devotional",count:27,g:7,bio:"Tác giả của nhiều bài suy ngẫm hằng ngày, giúp độc giả gây dựng đời sống cầu nguyện và mối tương giao mật thiết với Chúa."},
+  {id:4,name:"Ellen G. White",role:"Tác giả kinh điển",count:9,g:2,bio:"Một trong những tác giả Cơ-đốc được đọc nhiều nhất mọi thời đại, với các tác phẩm về đời sống Đấng Christ và lịch sử cứu chuộc."},
+];
+const BOOKS = [
+  {id:1,t:"Con Đường Đến Đấng Christ",a:"Ellen G. White",g:0,ch:13},
+  {id:2,t:"Thiện Ác Đấu Tranh",a:"Ellen G. White",g:1,ch:42},
+  {id:3,t:"Khao Khát Của Mọi Thời Đại",a:"Ellen G. White",g:3,ch:87},
+  {id:4,t:"Phước Lành Trên Núi",a:"Ellen G. White",g:6,ch:11},
+  {id:5,t:"Lời Tiên Tri & Vua Chúa",a:"Ellen G. White",g:2,ch:60},
+];
+const SERIES = [
+  {id:1,t:"Sách Khải-huyền Giải Nghĩa",ex:"Loạt bài 12 phần khám phá những biểu tượng và lời tiên tri trong sách Khải-huyền.",parts:12,done:5,g:1},
+  {id:2,t:"Đa-ni-ên: Tiên Tri & Lịch Sử",ex:"Nghiên cứu chuyên sâu về sách Đa-ni-ên và sự ứng nghiệm trong lịch sử.",parts:9,done:9,g:3},
+  {id:3,t:"Nền Tảng Đức Tin Cơ-đốc",ex:"28 tín lý căn bản được trình bày qua Kinh Thánh một cách hệ thống.",parts:28,done:11,g:0},
+  {id:4,t:"Đời Sống Đức Chúa Giê-su",ex:"Hành trình theo bước chân Đấng Cứu Thế từ Bết-lê-hem đến Gô-gô-tha.",parts:16,done:0,g:8},
+];
+const VERSES = ["Ban đầu Đức Chúa Trời dựng nên trời và đất.","Vả, đất là vô hình và trống không, sự mờ tối ở trên mặt vực; Thần Đức Chúa Trời vận hành trên mặt nước.","Đức Chúa Trời phán rằng: Phải có sự sáng; thì có sự sáng.","Đức Chúa Trời thấy sự sáng là tốt lành, bèn phân sáng ra cùng tối.","Đức Chúa Trời đặt tên sự sáng là ngày; sự tối là đêm. Vậy, có buổi chiều và buổi mai; ấy là ngày thứ nhứt.","Đức Chúa Trời lại phán rằng: Phải có một khoảng không ở giữa nước đặng phân rẽ nước cách với nước.","Ngài làm nên khoảng không, phân rẽ nước ở dưới khoảng không cách với nước ở trên khoảng không; thì có như vậy."];
+
+const lastWord = (s) => s.split(" ").slice(-1)[0][0];
+
+/* ============================================================
+   Sidebar config
+   ============================================================ */
+const SECTIONS = [
+  {id:"home",label:"Hôm Nay",icon:Icon.compass},
+  {id:"kt",label:"Kinh Thánh",icon:Icon.book,group:["Cựu Ước","Tân Ước"]},
+  {id:"tc",label:"Thánh Ca",icon:Icon.music},
+  {id:"articles",label:"Bài Viết",icon:Icon.pen},
+  {id:"authors",label:"Tác Giả",icon:Icon.users},
+  {id:"sach",label:"Tủ Sách",icon:Icon.library},
+  {id:"nghien-cuu",label:"Nghiên Cứu",icon:Icon.layers},
+];
+
+/* ============================================================
+   List builders — return [{key,title,snip,thumb?,meta?,icon?,iconG?}]
+   ============================================================ */
+function buildList(section, sub) {
+  switch (section) {
+    case "home":
+      return [
+        {key:"verse",title:"Câu gốc hôm nay",snip:"“Lời Chúa là ngọn đèn cho chân tôi, ánh sáng cho đường lối tôi.” — Thi-thiên 119:105",icon:Icon.compass,iconG:0,meta:"Mỗi ngày"},
+        ...ARTICLES.slice(0,2).map(a=>({key:"a"+a.id,title:a.t,snip:a.ex,thumb:{g:a.g},meta:a.when,_article:a})),
+        ...HYMNS.slice(0,2).map(h=>({key:"h"+h.id,title:h.t,snip:h.a+" · "+h.views+" lượt nghe",thumb:{g:h.g,dur:h.dur,play:true},meta:"Thánh ca",_hymn:h})),
+      ];
+    case "kt": {
+      const books = sub==="Cựu Ước" ? OT : NT;
+      return books.map(b=>({key:"kt"+b[0],title:b[1],snip:b[2]+" chương · "+(sub||"Tân Ước"),icon:Icon.book,iconG:0,meta:b[0],_book:b}));
+    }
+    case "tc":
+      return HYMNS.map(h=>({key:"h"+h.id,title:h.t,snip:h.a,thumb:{g:h.g,dur:h.dur,play:true},meta:h.views+" lượt nghe",_hymn:h}));
+    case "articles":
+      return ARTICLES.map(a=>({key:"a"+a.id,title:a.t,snip:a.ex,thumb:{g:a.g,small:true},meta:a.who+" · "+a.when,_article:a}));
+    case "authors":
+      return AUTHORS.map(a=>({key:"au"+a.id,title:a.name,snip:a.bio,icon:Icon.users,iconG:a.g,meta:a.count+" tác phẩm",_author:a}));
+    case "sach":
+      return BOOKS.map(b=>({key:"b"+b.id,title:b.t,snip:b.a,thumb:{g:b.g,small:true},meta:b.ch+" chương",_book2:b}));
+    case "nghien-cuu":
+      return SERIES.map(s=>({key:"s"+s.id,title:s.t,snip:s.ex,thumb:{g:s.g},meta:s.done+"/"+s.parts+" phần",_series:s}));
+    default: return [];
+  }
+}
+
+/* ============================================================
+   List item
+   ============================================================ */
+function ListItem({ it, on, onClick }) {
+  const th = it.thumb;
+  const body = (
+    <div>
+      <div className="li-title">
+        {it.icon && <span className="dotico" style={{background:gr(it.iconG||0)}}>{it.icon}</span>}
+        {it.title}
+      </div>
+      {it.snip && <div className="li-snip">{it.snip}</div>}
+      {it.meta && <div className="li-meta">{Icon.clock}{it.meta}</div>}
+    </div>
+  );
+  return (
+    <div className={"li"+(on?" on":"")} onClick={onClick}>
+      {th && th.small ? (
+        <div className="li-row">
+          <div className="li-thumb small" style={{background:gr(th.g)}}>{th.dur && <span className="dur">{th.dur}</span>}</div>
+          {body}
+        </div>
+      ) : (<>
+        {body}
+        {th && <div className="li-thumb" style={{background:gr(th.g)}}>{th.play && <span className="play">{Icon.play}</span>}{th.dur && <span className="dur">{th.dur}</span>}</div>}
+      </>)}
+    </div>
+  );
+}
+
+/* ============================================================
+   Detail renderers
+   ============================================================ */
+function ScriptureDetail({ book, onPlay }) {
+  return (
+    <div className="doc fade">
+      <div className="doc-eyebrow">{Icon.headphones} Đọc &amp; Nghe</div>
+      <div className="doc-title"><span className="ti" style={{background:gr(0)}}>{Icon.book}</span>{book[1]} 1</div>
+      <div className="doc-actions">
+        <button className="pill primary" onClick={()=>onPlay({id:"kt"+book[0],t:book[1]+" — Chương 1",a:"Kinh Thánh · Âm thanh",g:0,dur:"6:40"})}>{Icon.headphones} Nghe chương này</button>
+        <button className="pill">{Icon.bookmark} Đánh dấu</button>
+        <button className="pill">{Icon.share} Chia sẻ</button>
+      </div>
+      <div className="scripture">
+        <h3>Chương 1</h3>
+        {VERSES.map((v,i)=><p key={i}><span className="vn">{i+1}</span>{v}</p>)}
+      </div>
+      <table className="doc-table">
+        <thead><tr><th>Tham khảo</th><th>Câu</th><th>Liên hệ</th></tr></thead>
+        <tbody>
+          <tr><td>Giăng 1:1</td><td>Ngôi Lời sáng tạo</td><td className="ref">Xem »</td></tr>
+          <tr><td>Thi-thiên 33:6</td><td>Lời Chúa dựng nên trời</td><td className="ref">Xem »</td></tr>
+        </tbody>
+      </table>
+    </div>
+  );
+}
+
+function HymnDetail({ h, onPlay }) {
+  return (
+    <div className="doc fade">
+      <div className="doc-eyebrow">{Icon.music} Thánh Ca</div>
+      <div className="doc-title">{h.t}</div>
+      <div className="doc-hero" style={{background:gr(h.g)}}>
+        <button className="big-play" onClick={()=>onPlay(h)}>{Icon.play}</button>
+      </div>
+      <div className="doc-stats">{h.views} lượt nghe<span className="dot"/>{h.a}<span className="dot"/>{h.dur}</div>
+      <div className="doc-actions">
+        <button className="pill primary" onClick={()=>onPlay(h)}>{Icon.play} Phát</button>
+        <button className="pill">{Icon.heart} Thích</button>
+        <button className="pill">{Icon.plus} Lưu</button>
+        <button className="pill">{Icon.share} Chia sẻ</button>
+      </div>
+      <p className="lead">Bài thánh ca ngợi khen tôn vinh Đức Chúa Trời, được trình bày bởi {h.a}. Hãy để giai điệu nâng tâm hồn bạn lên trong sự thờ phượng.</p>
+      <h3>Lời bài hát</h3>
+      <p>Thánh thay, thánh thay, thánh thay! Chúa toàn năng!<br/>Sớm mai chúng con dâng tiếng ca ngợi khen Ngài.<br/>Thánh thay, thánh thay, thánh thay! Đầy nhân từ và quyền năng,<br/>Đức Chúa Trời ba ngôi, phước hạnh đời đời!</p>
+    </div>
+  );
+}
+
+function ArticleDetail({ a }) {
+  return (
+    <div className="doc fade">
+      <div className="doc-eyebrow">{Icon.pen} {a.cat}</div>
+      <div className="doc-title">{a.t}</div>
+      <div className="doc-hero" style={{background:gr(a.g)}}>{Icon.pen}</div>
+      <div className="doc-stats">{a.who}<span className="dot"/>{a.when}<span className="dot"/>{a.read} đọc</div>
+      <p className="lead">{a.ex}</p>
+      <p>Trong sự khôn ngoan đời đời của mình, Đức Chúa Trời đã bày tỏ kế hoạch cứu chuộc nhân loại qua Đức Chúa Giê-su Christ. Đây không phải là điều con người có thể đạt được bằng công sức riêng, mà là món quà của ân điển.</p>
+      <p>“Vả, ấy là nhờ ân điển, bởi đức tin, mà anh em được cứu, điều đó không phải đến từ anh em, bèn là sự ban cho của Đức Chúa Trời.” Lẽ thật này là nền tảng của đức tin Cơ-đốc.</p>
+      <table className="doc-table">
+        <thead><tr><th>Thông tin</th><th>Chi tiết</th><th>Tham khảo</th></tr></thead>
+        <tbody>
+          <tr><td>Chủ đề</td><td>{a.cat}</td><td className="ref">{a.who} ✎</td></tr>
+          <tr><td>Thời lượng</td><td>{a.read} đọc</td><td className="ref">Lưu trữ ✎</td></tr>
+        </tbody>
+      </table>
+    </div>
+  );
+}
+
+function AuthorDetail({ a, onOpen }) {
+  return (
+    <div className="doc fade">
+      <div className="prof">
+        <div className="prof-av" style={{background:gr(a.g)}}>{lastWord(a.name)}</div>
+        <div>
+          <h1>{a.name}</h1>
+          <div className="role">{a.role} · {a.count} tác phẩm</div>
+        </div>
+      </div>
+      <p className="lead">{a.bio}</p>
+      <h3>Tác phẩm nổi bật</h3>
+      <div className="mini-list">
+        {ARTICLES.slice(0,3).map(x=>(
+          <div className="mini-item" key={x.id} onClick={()=>onOpen&&onOpen(x)}>
+            <span className="mini-n">{Icon.pen}</span>
+            <div className="sp"><b>{x.t}</b><div><span>{x.cat} · {x.read}</span></div></div>
+            {Icon.chev}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function BookDetail({ b, onPlay }) {
+  return (
+    <div className="doc fade">
+      <div className="doc-eyebrow">{Icon.library} Tủ Sách</div>
+      <div className="doc-title"><span className="ti" style={{background:gr(b.g)}}>{Icon.library}</span>{b.t}</div>
+      <div className="doc-stats">{b.a}<span className="dot"/>{b.ch} chương</div>
+      <div className="doc-actions">
+        <button className="pill primary">{Icon.book} Đọc từ đầu</button>
+        <button className="pill" onClick={()=>onPlay({id:"bk"+b.id,t:b.t+" — Chương 1",a:b.a+" · Sách nói",g:b.g,dur:"12:30"})}>{Icon.headphones} Nghe sách nói</button>
+      </div>
+      <p className="lead">Một tác phẩm kinh điển của {b.a}, dẫn dắt người đọc đi sâu vào lẽ thật Kinh Thánh và đời sống thuộc linh.</p>
+      <h3>Mục lục</h3>
+      <div className="mini-list">
+        {["Tình yêu của Đức Chúa Trời","Người tội nhân cần Đấng Christ","Sự ăn năn","Sự xưng tội","Tận hiến"].map((c,i)=>(
+          <div className="mini-item" key={i}>
+            <span className="mini-n">{i+1}</span>
+            <div className="sp"><b>{c}</b></div>
+            <span>{6+i} phút</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function SeriesDetail({ s }) {
+  return (
+    <div className="doc fade">
+      <div className="doc-eyebrow">{Icon.layers} Loạt Bài Nghiên Cứu</div>
+      <div className="doc-title">{s.t}</div>
+      <div className="doc-hero" style={{background:gr(s.g)}}>{Icon.layers}</div>
+      <div className="doc-stats" style={{flexDirection:"column",alignItems:"stretch",gap:8}}>
+        <div className="bar"><i style={{width:Math.round(s.done/s.parts*100)+"%"}}/></div>
+        <span style={{fontSize:13,color:"var(--text-3)"}}>{s.done}/{s.parts} phần đã hoàn thành</span>
+      </div>
+      <p className="lead">{s.ex}</p>
+      <h3>Các phần</h3>
+      <div className="mini-list">
+        {Array.from({length:Math.min(s.parts,6)}).map((_,i)=>(
+          <div className="mini-item" key={i}>
+            <span className="mini-n" style={i<s.done?{background:"var(--accent)",color:"#fff"}:{}}>{i+1}</span>
+            <div className="sp"><b>Phần {i+1}: Bài học {i+1}</b><div><span>{i<s.done?"Đã hoàn thành":"Chưa xem"}</span></div></div>
+            {i<s.done ? Icon.play : Icon.chev}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function HomeVerse() {
+  return (
+    <div className="doc fade">
+      <div className="doc-eyebrow">{Icon.compass} Hôm Nay</div>
+      <div className="doc-title" style={{fontSize:30}}>Câu Kinh Thánh trong ngày</div>
+      <div className="doc-hero" style={{background:"linear-gradient(120deg,#5a3a18,#2c1d0e)",aspectRatio:"16/7"}}>
+        <p style={{fontFamily:"var(--font-display)",fontSize:24,maxWidth:"22ch",textAlign:"center",lineHeight:1.4,color:"#fbf6ec",padding:"0 24px"}}>“Lời Chúa là ngọn đèn cho chân tôi, ánh sáng cho đường lối tôi.”</p>
+      </div>
+      <div className="doc-stats">Thi-thiên 119:105</div>
+      <p className="lead">Hãy bắt đầu ngày mới của bạn trong Lời Chúa. Chọn một sách Kinh Thánh để đọc, hoặc nghe một bài thánh ca từ thư viện.</p>
+    </div>
+  );
+}
+
+/* ============================================================
+   App
+   ============================================================ */
+function App() {
+  const [section, setSection] = useState("home");
+  const [sub, setSub] = useState("Tân Ước");
+  const [ktOpen, setKtOpen] = useState(true);
+  const [selKey, setSelKey] = useState("verse");
+  const [theme, setTheme] = useState("light");
+  const [accent, setAccent] = useState("sage");
+  const [railOpen, setRailOpen] = useState(false);
+  const [detailOpen, setDetailOpen] = useState(false);
+  const [track, setTrack] = useState(null);
+  const [playing, setPlaying] = useState(false);
+  const [pct, setPct] = useState(26);
+  const listRef = useRef(null);
+
+  useEffect(()=>{ document.documentElement.setAttribute("data-theme", theme); }, [theme]);
+  useEffect(()=>{
+    const A = ACCENTS[accent], p = theme==="dark" ? A.dark : A.light;
+    const r = document.documentElement.style;
+    r.setProperty("--accent", p.a);
+    r.setProperty("--accent-deep", theme==="dark" ? p.d2 : p.d);
+    r.setProperty("--terra", p.t);
+    r.setProperty("--accent-glow", p.a + (theme==="dark" ? "2b" : "24"));
+  }, [accent, theme]);
+  useEffect(()=>{ if(!playing) return; const id=setInterval(()=>setPct(p=>p>=100?0:p+0.4),200); return ()=>clearInterval(id); }, [playing]);
+
+  const items = buildList(section, sub);
+  const sel = items.find(i=>i.key===selKey) || items[0];
+
+  const goSection = (id, s) => { setSection(id); if(s) setSub(s); const list = buildList(id, s||sub); setSelKey(list[0] ? list[0].key : null); setRailOpen(false); setDetailOpen(false); if(listRef.current) listRef.current.scrollTop=0; };
+  const openItem = (k) => { setSelKey(k); setDetailOpen(true); };
+  const onPlay = (t) => { setTrack(t); setPlaying(true); setPct(0); };
+  const mmss = (frac) => { const tot=252,sc=Math.round(tot*frac/100); return Math.floor(sc/60)+":"+String(sc%60).padStart(2,"0"); };
+
+  const sectionMeta = SECTIONS.find(s=>s.id===section) || SECTIONS[0];
+  const listTitle = section==="kt" ? sub : sectionMeta.label;
+
+  /* detail switch */
+  let detail = <div className="empty"><div>{Icon.book}<div>Chọn một mục để xem</div></div></div>;
+  if (sel) {
+    if (sel.key==="verse") detail = <HomeVerse/>;
+    else if (sel._article) detail = <ArticleDetail a={sel._article}/>;
+    else if (sel._hymn) detail = <HymnDetail h={sel._hymn} onPlay={onPlay}/>;
+    else if (sel._book) detail = <ScriptureDetail book={sel._book} onPlay={onPlay}/>;
+    else if (sel._author) detail = <AuthorDetail a={sel._author}/>;
+    else if (sel._book2) detail = <BookDetail b={sel._book2} onPlay={onPlay}/>;
+    else if (sel._series) detail = <SeriesDetail s={sel._series}/>;
+  }
+
+  return (
+    <div className={"window"+(railOpen?" rail-open":"")+(detailOpen?" detail-open":"")}>
+      <div className="backdrop" onClick={()=>setRailOpen(false)}/>
+      {/* RAIL */}
+      <nav className="rail">
+        <div className="rail-brand">
+          <div className="rail-mark">{Icon.book}</div>
+          <div><span>Thư Viện</span><b>Phúc Âm</b></div>
+        </div>
+        {SECTIONS.map(s => (
+          <React.Fragment key={s.id}>
+            <button className={"rail-item"+(section===s.id?" on":"")}
+              onClick={()=>{ if(s.group){ setKtOpen(o=>!o); goSection(s.id, sub);} else goSection(s.id); }}>
+              {s.icon}{s.label}
+              {s.group && <span className={"chev"+(ktOpen?" open":"")}>{Icon.chev}</span>}
+            </button>
+            {s.group && ktOpen && (
+              <div className="rail-sub">
+                {s.group.map(g=>(
+                  <button key={g} className={"rail-item"+(section==="kt"&&sub===g?" on":"")} onClick={()=>goSection("kt", g)}>{g}</button>
+                ))}
+              </div>
+            )}
+          </React.Fragment>
+        ))}
+        <div className="rail-foot">
+          <div className="rail-label">Màu nhấn · {ACCENTS[accent].name}</div>
+          <div className="accent-row">
+            {ACCENT_KEYS.map(k => (
+              <button key={k} className={"swatch"+(accent===k?" on":"")} title={ACCENTS[k].name}
+                style={{background:ACCENTS[k].light.a}} onClick={()=>setAccent(k)} aria-label={ACCENTS[k].name} />
+            ))}
+          </div>
+          <div className="rail-label">Bộ sưu tập</div>
+          <button className="rail-item">{Icon.heart}Yêu thích</button>
+          <button className="rail-item">{Icon.bookmark}Đánh dấu</button>
+          <button className="rail-toggle" onClick={()=>setTheme(t=>t==="light"?"dark":"light")}>
+            {theme==="light"?Icon.moon:Icon.sun}{theme==="light"?"Chế độ tối":"Chế độ sáng"}
+          </button>
+        </div>
+      </nav>
+
+      {/* LIST */}
+      <section className="list">
+        <div className="list-head">
+          <button className="m-trigger" onClick={()=>setRailOpen(true)} aria-label="Mở thư viện">
+            <span className="m-mark">{Icon.book}</span>
+          </button>
+          <h2>{listTitle} {Icon.chev}</h2>
+          <span className="sp"/>
+          <button className="list-ico">{Icon.edit}</button>
+          <button className="list-ico">{Icon.search}</button>
+        </div>
+        <div className="list-body stagger" ref={listRef}>
+          {items.map(it => <ListItem key={it.key} it={it} on={sel && it.key===sel.key} onClick={()=>openItem(it.key)} />)}
+        </div>
+      </section>
+
+      {/* DETAIL */}
+      <section className="detail">
+        <div className="detail-head">
+          <button className="m-back" onClick={()=>setDetailOpen(false)} aria-label="Trở lại">{Icon.chevL}<span>{listTitle}</span></button>
+          <span className="crumb">{sectionMeta.label}{section==="kt"?" › "+sub:""}</span>
+          <span className="sp"/>
+          <button className="tool aa">A<span style={{fontSize:17}}>A</span></button>
+          <button className="tool">{Icon.info}</button>
+          <button className="tool">{Icon.more}</button>
+        </div>
+        <div className="doc-scroll">{detail}</div>
+        <div className="doc-toolbar">
+          <button>{Icon.headphones}</button>
+          <button>{Icon.bookmark}</button>
+          <button>{Icon.heart}</button>
+          <span className="div"/>
+          <button>{Icon.list}</button>
+          <button>{Icon.table}</button>
+          <button>{Icon.link}</button>
+          <button>{Icon.share}</button>
+        </div>
+      </section>
+
+      {/* NOW PLAYING */}
+      {track && (
+        <footer className="np">
+          <div className="np-info">
+            <div className="np-art" style={{background:gr(track.g||0)}}>{playing?<span className="eq"><i/><i/><i/><i/></span>:Icon.music}</div>
+            <div className="np-text"><b>{track.t}</b><span>{track.a}</span></div>
+            <button style={{color:"var(--text-2)"}}>{Icon.heart}</button>
+          </div>
+          <div className="np-center">
+            <div className="np-ctrl">
+              <button>{Icon.shuffle}</button>
+              <button>{Icon.prev}</button>
+              <button className="np-play" onClick={()=>setPlaying(p=>!p)}>{playing?Icon.pause:Icon.play}</button>
+              <button>{Icon.next}</button>
+              <button>{Icon.repeat}</button>
+            </div>
+            <div className="np-prog">
+              <span className="t">{mmss(pct)}</span>
+              <div className="np-track" onClick={(e)=>{const r=e.currentTarget.getBoundingClientRect();setPct((e.clientX-r.left)/r.width*100);}}><i style={{width:pct+"%"}}/></div>
+              <span className="t">{track.dur||"4:12"}</span>
+            </div>
+          </div>
+          <div className="np-right">{Icon.volume}<div className="np-vol"><i/></div></div>
+        </footer>
+      )}
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>

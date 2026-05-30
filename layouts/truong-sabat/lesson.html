@@ -1,46 +1,28 @@
 {{ define "main" }}
-<div class="ss-page">
-  <nav class="breadcrumb">
-    <a href="{{ "/truong-sabat/" | relURL }}">Trường Sa-bát</a>
-    <span class="breadcrumb-sep">›</span>
-    {{ with .Parent }}
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    <span class="breadcrumb-sep">›</span>
-    {{ end }}
-    <span>Bài {{ .Params.lesson }}</span>
-  </nav>
-  <div class="ss-header">
-    <div class="ss-header-inner">
-      <div class="ss-lesson-label">Bài Học {{ .Params.lesson }}, {{ .Params.dateRange }}</div>
-      <h1 class="ss-title">{{ .Title }}</h1>
-      {{ with .Params.scriptures }}
-      <div class="ss-scripture">
-        <strong>Kinh Thánh Nghiên Cứu:</strong> {{ . }}
-      </div>
-      {{ end }}
-      {{ with .Params.memoryVerse }}
-      <div class="ss-verse">
-        <strong>Câu Gốc:</strong> {{ . }}{{ with $.Params.memoryVerseRef }} ({{ . }}){{ end }}
-      </div>
-      {{ end }}
-    </div>
+<article class="lib-doc">
+  <div class="lib-doc-eyebrow">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+    Bài Học {{ .Params.lesson }} &middot; {{ .Params.dateRange }}
   </div>
+  <h1 class="lib-doc-title">{{ .Title }}</h1>
+  {{ with .Params.scriptures }}<p class="lib-doc-sub"><strong>Kinh Thánh Nghiên Cứu:</strong> {{ . }}</p>{{ end }}
+  {{ with .Params.memoryVerse }}
+  <blockquote class="lib-memory">{{ . }}{{ with $.Params.memoryVerseRef }} <cite>— {{ . }}</cite>{{ end }}</blockquote>
+  {{ end }}
 
-  <div class="ss-content">
-    {{ .Content }}
+  {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
 
-    {{ $days := .Pages.ByWeight }}
-    {{ range $days }}
-    <details class="ss-accordion">
-      <summary class="ss-accordion-summary">
-        <span class="ss-accordion-chevron" aria-hidden="true"></span>
-        <span>{{ .Params.dayLabel }} - {{ if eq .Params.dayLabel "Thứ Sáu" }}<strong>{{ upper .Title }}</strong>{{ else }}"{{ .Title }}"{{ end }}</span>
+  <div class="lib-days">
+    {{ range .Pages.ByWeight }}
+    <details class="lib-day">
+      <summary class="lib-day-sum">
+        <span class="lib-day-chev" aria-hidden="true"></span>
+        <span class="lib-day-label">{{ .Params.dayLabel }}</span>
+        <span class="lib-day-ttl">{{ .Title }}</span>
       </summary>
-      <div class="ss-day-content content">
-        {{ .Content }}
-      </div>
+      <div class="lib-day-body content">{{ .Content }}</div>
     </details>
     {{ end }}
   </div>
-</div>
+</article>
 {{ end }}

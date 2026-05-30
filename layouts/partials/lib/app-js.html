@@ -1,0 +1,38 @@
+{{- /* Mobile rail drawer + font / size picker wiring. Shared. */ -}}
+<script>
+(function () {
+  var app = document.querySelector(".lib-app");
+  if (!app) return;
+
+  /* ---- mobile drawer ---- */
+  var open = function () { app.classList.add("rail-open"); };
+  var close = function () { app.classList.remove("rail-open"); };
+  document.querySelectorAll(".lib-mtrigger").forEach(function (b) { b.addEventListener("click", open); });
+  var bd = app.querySelector(".lib-app-backdrop");
+  if (bd) bd.addEventListener("click", close);
+  app.querySelectorAll(".lib-rail a").forEach(function (a) { a.addEventListener("click", close); });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape") close(); });
+
+  /* ---- font size picker ---- */
+  var get = function (k, d) { try { return localStorage.getItem(k) || d; } catch (e) { return d; } };
+  var sizeBtns = document.querySelectorAll(".lib-size-btn");
+  var markSize = function () {
+    var cur = get("lib-fs", "2");
+    sizeBtns.forEach(function (b) { b.classList.toggle("is-on", b.dataset.size === cur); });
+  };
+  sizeBtns.forEach(function (b) {
+    b.addEventListener("click", function () { window.libApplyFontSize(b.dataset.size); markSize(); });
+  });
+  markSize();
+
+  /* ---- middle column: scroll the active book/chapter into view ---- */
+  var midBody = document.querySelector(".lib-mid-body");
+  var openBook = midBody && midBody.querySelector(".lib-book[open]");
+  if (openBook) {
+    var target = openBook.querySelector(".lib-chapcell.is-current")
+      || openBook.querySelector(".lib-book-sum") || openBook;
+    var br = midBody.getBoundingClientRect(), tr = target.getBoundingClientRect();
+    midBody.scrollTop += (tr.top - br.top) - (midBody.clientHeight - tr.height) / 2;
+  }
+})();
+</script>

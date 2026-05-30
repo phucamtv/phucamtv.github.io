@@ -1,56 +1,25 @@
 {{ define "main" }}
-<section class="ss-list">
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+<div class="lib-doc">
+  <div class="lib-doc-eyebrow">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+    Trường Sa-bát
+  </div>
+  <h1 class="lib-doc-title">{{ .Title }}</h1>
+  {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
 
-  {{/*
-    Structure: /truong-sabat/ → year/ → quarter/ → lesson/
-    Flatten quarters across years, then sort by year desc, weight desc.
-    First = active (rendered in full); rest are name + link only.
-  */}}
+  {{/* flatten quarters across years, latest first */}}
+  {{ $qs := slice }}
+  {{ range .Sections }}{{ $y := .Title }}{{ range .Sections }}{{ $qs = $qs | append (dict "p" . "w" (.Params.weight | default 0) "y" $y) }}{{ end }}{{ end }}
+  {{ $qs = sort (sort $qs "w" "desc") "y" "desc" }}
 
-  {{ $quarters := slice }}
-  {{ range .Sections }}
-    {{ $year := .Title }}
-    {{ range .Sections }}
-      {{ $quarters = $quarters | append (dict "page" . "year" $year) }}
+  <h3 class="lib-doc-h">Các quý học</h3>
+  <div class="lib-qlist">
+    {{ range $qs }}
+    <a class="lib-qcard" href="{{ .p.RelPermalink }}">
+      <span class="lib-qcard-title">{{ .p.Title }}</span>
+      <span class="lib-qcard-meta">{{ len .p.Sections }} bài học</span>
+    </a>
     {{ end }}
-  {{ end }}
-  {{ $quarters = sort $quarters "page.Params.weight" "desc" }}
-  {{ $quarters = sort $quarters "year" "desc" }}
-
-  {{ range $i, $q := $quarters }}
-    {{ $quarter := $q.page }}
-    {{ if eq $i 0 }}
-      <h2 class="ss-quarter-title">
-        <a href="{{ $quarter.RelPermalink }}">{{ $quarter.Title }}</a>
-      </h2>
-      {{ $quarter.Content }}
-      <div class="ss-lesson-list">
-        {{ range $quarter.Sections.ByWeight }}
-        <a href="{{ .RelPermalink }}" class="ss-lesson-card">
-          {{ with .Params.lesson }}
-          <span class="ss-lesson-num">{{ printf "%02d" . }}</span>
-          {{ end }}
-          <span class="ss-lesson-info">
-            <span class="ss-lesson-card-title">{{ .Title }}</span>
-            {{ with .Params.dateRange }}<span class="ss-lesson-date">{{ . }}</span>{{ end }}
-          </span>
-        </a>
-        {{ end }}
-      </div>
-    {{ end }}
-  {{ end }}
-
-  {{ if gt (len $quarters) 1 }}
-  <h2 class="ss-quarter-title ss-other-quarters-title">Các bài học trước</h2>
-  <ul class="ss-other-quarters">
-    {{ range $i, $q := $quarters }}
-      {{ if gt $i 0 }}
-      <li><a href="{{ $q.page.RelPermalink }}">{{ $q.page.Title }}</a></li>
-      {{ end }}
-    {{ end }}
-  </ul>
-  {{ end }}
-</section>
+  </div>
+</div>
 {{ end }}

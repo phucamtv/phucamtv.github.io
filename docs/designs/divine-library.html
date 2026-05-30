@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="light">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Phúc Âm — Thư Viện Thiêng Liêng</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600;6..72,700&family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="divine-library.css" />
+</head>
+<body>
+<div id="root"></div>
+
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+<script type="text/babel" data-presets="react">
+const { useState, useEffect, useRef, useMemo } = React;
+
+/* ============================================================
+   Icons (Lucide-style, 1.6 stroke)
+   ============================================================ */
+const I = (p) => <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" {...p}>{p.children}</svg>;
+const Icon = {
+  compass:   <I><circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2 5-5 2 2-5z"/></I>,
+  book:      <I><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></I>,
+  music:     <I><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></I>,
+  pen:       <I><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4z"/></I>,
+  users:     <I><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/></I>,
+  library:   <I><path d="m16 6 4 14"/><path d="M12 6v14"/><path d="M8 8v12"/><path d="M4 4v16"/></I>,
+  layers:    <I><path d="m12 2 9 5-9 5-9-5 9-5z"/><path d="m3 12 9 5 9-5"/><path d="m3 17 9 5 9-5"/></I>,
+  sun:       <I><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></I>,
+  moon:      <I><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"/></I>,
+  search:    <I><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></I>,
+  back:      <I><path d="m15 18-6-6 6-6"/></I>,
+  fwd:       <I><path d="m9 18 6-6-6-6"/></I>,
+  play:      <I fill="currentColor" stroke="none"><path d="M7 4v16l13-8z"/></I>,
+  pause:     <I fill="currentColor" stroke="none"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></I>,
+  prev:      <I fill="currentColor" stroke="none"><path d="M6 4h2v16H6zM20 4 9 12l11 8z"/></I>,
+  next:      <I fill="currentColor" stroke="none"><path d="M16 4h2v16h-2zM4 4l11 8L4 20z"/></I>,
+  headphones:<I><path d="M3 14v-2a9 9 0 0 1 18 0v2"/><path d="M21 16a2 2 0 0 1-2 2h-1v-6h1a2 2 0 0 1 2 2zM3 16a2 2 0 0 0 2 2h1v-6H5a2 2 0 0 0-2 2z"/></I>,
+  heart:     <I><path d="M19 14c1.5-1.5 3-3.4 3-5.5A4.5 4.5 0 0 0 12 5 4.5 4.5 0 0 0 2 8.5c0 2.1 1.5 4 3 5.5l7 7z"/></I>,
+  share:     <I><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></I>,
+  plus:      <I><path d="M12 5v14M5 12h14"/></I>,
+  shuffle:   <I><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></I>,
+  repeat:    <I><path d="m17 2 4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14M7 22l-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></I>,
+  volume:    <I><path d="M11 5 6 9H2v6h4l5 4z"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></I>,
+  eye:       <I><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7z"/><circle cx="12" cy="12" r="3"/></I>,
+  clock:     <I><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></I>,
+  bookmark:  <I><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></I>,
+};
+
+/* ============================================================
+   Gradients (self-contained thumbnails)
+   ============================================================ */
+const GR = [
+  "linear-gradient(135deg,#6e6e73,#2c2c2e)",
+  "linear-gradient(135deg,#8e8e93,#3a3a3c)",
+  "linear-gradient(135deg,#5a5a5e,#1d1d1f)",
+  "linear-gradient(135deg,#7c7c80,#48484a)",
+  "linear-gradient(135deg,#636366,#242426)",
+  "linear-gradient(135deg,#98989d,#515154)",
+  "linear-gradient(135deg,#48484a,#1d1d1f)",
+  "linear-gradient(135deg,#86868b,#3a3a3c)",
+  "linear-gradient(135deg,#6e6e73,#323234)",
+  "linear-gradient(135deg,#76767a,#2c2c2e)",
+];
+const gr = (i) => GR[i % GR.length];
+
+/* ============================================================
+   Sample data (đại diện)
+   ============================================================ */
+const HYMNS = [
+  { id:1, t:"Thánh Thay, Thánh Thay, Thánh Thay", a:"Thánh Ca Tin Lành", dur:"4:12", views:"82N", g:0 },
+  { id:2, t:"Quyền Trong Huyết Đức Chúa Giê-su", a:"Ban Hát Phúc Âm", dur:"3:48", views:"61N", g:1 },
+  { id:3, t:"Gần Chúa Hơn", a:"Thánh Ca Cơ-đốc", dur:"5:02", views:"120N", g:2 },
+  { id:4, t:"Jêsus Là Bạn Thật", a:"Hợp Ca Ân Điển", dur:"3:21", views:"44N", g:3 },
+  { id:5, t:"Tình Yêu Thiên Thượng", a:"Thánh Ca Tin Lành", dur:"4:36", views:"73N", g:4 },
+  { id:6, t:"Nơi Chân Thập Tự Giá", a:"Ca Đoàn Hội Thánh", dur:"4:01", views:"55N", g:5 },
+  { id:7, t:"Lòng Tôi Vui Mừng", a:"Ban Hát Phúc Âm", dur:"2:58", views:"38N", g:6 },
+  { id:8, t:"Vinh Hiển Thuộc Về Chúa", a:"Hợp Ca Ân Điển", dur:"5:24", views:"91N", g:7 },
+  { id:9, t:"Chúa Chăn Giữ Tôi", a:"Thánh Ca Cơ-đốc", dur:"3:33", views:"67N", g:8 },
+  { id:10, t:"Ngày Vinh Quang Sắp Đến", a:"Ca Đoàn Hội Thánh", dur:"4:48", views:"49N", g:9 },
+];
+
+const OT = [
+  ["Sáng","Sáng-thế Ký",50],["Xuất","Xuất Ê-díp-tô Ký",40],["Lê","Lê-vi Ký",27],
+  ["Dân","Dân-số Ký",36],["Phục","Phục-truyền Luật-lệ Ký",34],["Thi","Thi-thiên",150],
+  ["Châm","Châm-ngôn",31],["Ê-sai","Ê-sai",66],["Đa","Đa-ni-ên",12],
+];
+const NT = [
+  ["Mat","Ma-thi-ơ",28],["Mác","Mác",16],["Lu","Lu-ca",24],["Giăng","Giăng",21],
+  ["Công","Công-vụ Các Sứ-đồ",28],["Rô","Rô-ma",16],["1Cô","I Cô-rinh-tô",16],
+  ["Khải","Khải-huyền",22],
+];
+
+const ARTICLES = [
+  { id:1, cat:"Tín Lý", t:"Sự Cứu Rỗi Bởi Đức Tin", ex:"Ân điển của Đức Chúa Trời ban cho nhân loại qua công lao cứu chuộc của Đức Chúa Giê-su, không bởi việc làm.", who:"Mục sư Nguyễn Văn An", when:"3 ngày trước", read:"8 phút", g:0 },
+  { id:2, cat:"Lời Tiên Tri", t:"Bảy Mươi Tuần Lễ Của Đa-ni-ên", ex:"Giải nghĩa lời tiên tri trong Đa-ni-ên 9 và ý nghĩa tiên tri về Đấng Mê-si.", who:"Trần Quốc Bảo", when:"1 tuần trước", read:"14 phút", g:3 },
+  { id:3, cat:"Đời Sống", t:"Sống Đời Sống Cầu Nguyện", ex:"Cầu nguyện không phải là nghi thức, mà là hơi thở của linh hồn trong mối tương giao với Đức Chúa Trời.", who:"Lê Thị Hạnh", when:"2 tuần trước", read:"6 phút", g:2 },
+  { id:4, cat:"Kinh Thánh", t:"Ý Nghĩa Ngày Sa-bát", ex:"Ngày Sa-bát là dấu hiệu của sự sáng tạo và sự nghỉ ngơi mà Đức Chúa Trời ban cho con người.", who:"Mục sư Nguyễn Văn An", when:"3 tuần trước", read:"10 phút", g:6 },
+];
+
+const AUTHORS = [
+  { id:1, name:"Mục sư Nguyễn Văn An", role:"Mục sư · Giảng dạy", count:"42 bài viết", g:0 },
+  { id:2, name:"Trần Quốc Bảo", role:"Nhà nghiên cứu", count:"18 bài viết", g:3 },
+  { id:3, name:"Lê Thị Hạnh", role:"Tác giả · Devotional", count:"27 bài viết", g:7 },
+  { id:4, name:"Ellen G. White", role:"Tác giả kinh điển", count:"9 quyển sách", g:2 },
+  { id:5, name:"Phạm Minh Đức", role:"Thần học gia", count:"14 bài viết", g:4 },
+  { id:6, name:"Hoàng Thị Mai", role:"Giáo viên Sa-bát", count:"31 bài học", g:8 },
+];
+
+const BOOKS = [
+  { id:1, t:"Con Đường Đến Đấng Christ", a:"Ellen G. White", g:0 },
+  { id:2, t:"Thiện Ác Đấu Tranh", a:"Ellen G. White", g:1 },
+  { id:3, t:"Khao Khát Của Mọi Thời Đại", a:"Ellen G. White", g:3 },
+  { id:4, t:"Phước Lành Trên Núi", a:"Ellen G. White", g:6 },
+  { id:5, t:"Lời Tiên Tri & Vua Chúa", a:"Ellen G. White", g:2 },
+  { id:6, t:"Hành Trình Đức Tin", a:"Phạm Minh Đức", g:4 },
+];
+
+const SERIES = [
+  { id:1, t:"Sách Khải-huyền Giải Nghĩa", ex:"Loạt bài 12 phần khám phá những biểu tượng và lời tiên tri trong sách Khải-huyền.", parts:12, done:5, g:1 },
+  { id:2, t:"Đa-ni-ên: Tiên Tri & Lịch Sử", ex:"Nghiên cứu chuyên sâu về sách Đa-ni-ên và sự ứng nghiệm trong lịch sử.", parts:9, done:9, g:3 },
+  { id:3, t:"Nền Tảng Đức Tin Cơ-đốc", ex:"28 tín lý căn bản được trình bày qua Kinh Thánh một cách hệ thống.", parts:28, done:11, g:0 },
+  { id:4, t:"Đời Sống Đức Chúa Giê-su", ex:"Hành trình theo bước chân Đấng Cứu Thế từ Bết-lê-hem đến Gô-gô-tha.", parts:16, done:0, g:8 },
+];
+
+const VERSES = [
+  "Ban đầu Đức Chúa Trời dựng nên trời và đất.",
+  "Vả, đất là vô hình và trống không, sự mờ tối ở trên mặt vực; Thần Đức Chúa Trời vận hành trên mặt nước.",
+  "Đức Chúa Trời phán rằng: Phải có sự sáng; thì có sự sáng.",
+  "Đức Chúa Trời thấy sự sáng là tốt lành, bèn phân sáng ra cùng tối.",
+  "Đức Chúa Trời đặt tên sự sáng là ngày; sự tối là đêm. Vậy, có buổi chiều và buổi mai; ấy là ngày thứ nhứt.",
+  "Đức Chúa Trời lại phán rằng: Phải có một khoảng không ở giữa nước đặng phân rẽ nước cách với nước.",
+  "Ngài làm nên khoảng không, phân rẽ nước ở dưới khoảng không cách với nước ở trên khoảng không; thì có như vậy.",
+];
+
+/* ============================================================
+   Reusable bits
+   ============================================================ */
+function Tile({ i, num, dur, square }) {
+  return (
+    <div className={"tile" + (square ? " sq" : "")} style={{ background: gr(i) }}>
+      {num != null && <span className="tile-num">{num}</span>}
+      {dur && <span className="dur">{dur}</span>}
+      <span className="play">{Icon.play}</span>
+    </div>
+  );
+}
+
+function HymnCard({ h, onPlay }) {
+  return (
+    <div className="card" onClick={() => onPlay(h)}>
+      <Tile i={h.g} dur={h.dur} />
+      <div className="card-body">
+        <div className="card-title">{h.t}</div>
+        <div className="card-meta">{h.a}<span className="dot"/>{h.views} lượt nghe</div>
+      </div>
+    </div>
+  );
+}
+
+function Shelf({ title, children, onMore }) {
+  return (
+    <section className="shelf">
+      <div className="shelf-head">
+        <h2>{title}</h2>
+        {onMore && <a onClick={onMore}>Xem tất cả {Icon.fwd}</a>}
+      </div>
+      {children}
+    </section>
+  );
+}
+
+/* ============================================================
+   Pages
+   ============================================================ */
+function Home({ go, onPlay }) {
+  return (
+    <div className="page fade-up">
+      <section className="hero">
+        <div className="eyebrow">Câu Kinh Thánh Hôm Nay</div>
+        <h1>Lời Chúa là ngọn đèn cho chân tôi.</h1>
+        <p>“Lời Chúa là ngọn đèn cho chân tôi, ánh sáng cho đường lối tôi.” — Thi-thiên 119:105. Đọc, nghe, và suy ngẫm mỗi ngày trong thư viện thiêng liêng.</p>
+        <div className="hero-actions">
+          <button className="btn btn-primary" onClick={() => go({s:"kt"})}>{Icon.book} Đọc Kinh Thánh</button>
+          <button className="btn btn-ghost" onClick={() => onPlay(HYMNS[0])}>{Icon.play} Nghe Thánh Ca</button>
+        </div>
+      </section>
+
+      <Shelf title="Tiếp tục nghe" onMore={() => go({s:"tc"})}>
+        <div className="row stagger">
+          {HYMNS.slice(0,6).map(h => <HymnCard key={h.id} h={h} onPlay={onPlay} />)}
+        </div>
+      </Shelf>
+
+      <Shelf title="Bài viết mới" onMore={() => go({s:"articles"})}>
+        <div className="row stagger">
+          {ARTICLES.map(a => (
+            <div className="card" key={a.id} onClick={() => go({s:"articles"})}>
+              <Tile i={a.g} />
+              <div className="card-body">
+                <div className="card-meta" style={{marginBottom:6, marginTop:0, color:"var(--accent-deep)", fontWeight:600}}>{a.cat}</div>
+                <div className="card-title">{a.t}</div>
+                <div className="card-meta">{a.read}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </Shelf>
+
+      <Shelf title="Loạt bài nghiên cứu" onMore={() => go({s:"nghien-cuu"})}>
+        <div className="row stagger">
+          {SERIES.map(s => (
+            <div className="card" key={s.id} style={{gridColumn:"span 1", gridAutoColumns:"260px"}} onClick={() => go({s:"nghien-cuu"})}>
+              <div className="tile" style={{background:gr(s.g), aspectRatio:"16/9"}}>
+                <span style={{position:"absolute", top:12, right:14, opacity:.85}}>{Icon.layers}</span>
+                <span className="tile-num" style={{fontSize:22, fontWeight:600, padding:"0 16px", textAlign:"center"}}>{s.t}</span>
+              </div>
+              <div className="card-body">
+                <div className="card-meta">{s.parts} phần · {s.done} đã xem</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </Shelf>
+    </div>
+  );
+}
+
+function KinhThanh({ go, openBook }) {
+  const [tab, setTab] = useState("nt");
+  const books = tab === "ot" ? OT : NT;
+  return (
+    <div className="page fade-up">
+      <div className="page-head">
+        <div className="eyebrow">{Icon.headphones} Đọc &amp; Nghe</div>
+        <h1 className="page-title">Kinh Thánh</h1>
+        <p className="page-sub">66 sách trong một thư viện. Chạm để đọc, nhấn “Nghe” để theo dõi bằng âm thanh.</p>
+      </div>
+      <div className="segmented" style={{marginBottom:22}}>
+        <button className={tab==="ot"?"on":""} onClick={()=>setTab("ot")}>Cựu Ước</button>
+        <button className={tab==="nt"?"on":""} onClick={()=>setTab("nt")}>Tân Ước</button>
+      </div>
+      <div className="kt-grid stagger">
+        {books.map((b,i) => (
+          <div className="kt-book" key={b[0]} onClick={() => openBook(b)}>
+            <div className="abbr">{b[0]}</div>
+            <div className="name">{b[1]}</div>
+            <div className="ch">{b[2]} chương</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function Reader({ book, back, onPlay }) {
+  return (
+    <div className="page fade-up">
+      <div className="reader">
+        <div className="reader-bar">
+          <button className="chip-back" onClick={back}>{Icon.back} Kinh Thánh</button>
+          <span className="reader-title">{book[1]} 1</span>
+          <button className="listen-btn" onClick={() => onPlay({ id:"kt-"+book[0], t:book[1]+" — Chương 1", a:"Kinh Thánh · Âm thanh", g:0, dur:"6:40" })}>
+            {Icon.headphones} Nghe chương này
+          </button>
+        </div>
+        <div className="scripture">
+          <h3>Chương 1</h3>
+          {VERSES.map((v,i) => (
+            <p className="verse" key={i}><span className="vn">{i+1}</span>{v}</p>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function ThanhCa({ openHymn }) {
+  return (
+    <div className="page page-wide fade-up">
+      <div className="page-head">
+        <div className="eyebrow">{Icon.music} Thư viện Thánh Ca</div>
+        <h1 className="page-title">Thánh Ca</h1>
+        <p className="page-sub">Nghe và xem hàng trăm bài thánh ca. Giao diện quen thuộc — chọn một bài để bắt đầu.</p>
+      </div>
+      <div className="kt-grid stagger" style={{gridTemplateColumns:"repeat(auto-fill,minmax(230px,1fr))"}}>
+        {HYMNS.map(h => (
+          <div className="card" key={h.id} onClick={() => openHymn(h)}>
+            <Tile i={h.g} dur={h.dur} />
+            <div className="card-body">
+              <div className="card-title">{h.t}</div>
+              <div className="card-meta">{h.a}<span className="dot"/>{h.views} lượt nghe</div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function Watch({ hymn, onPlay, openHymn, nowId }) {
+  const related = HYMNS.filter(h => h.id !== hymn.id);
+  return (
+    <div className="page page-wide fade-up">
+      <div className="watch">
+        <div>
+          <div className="player-stage" style={{background:gr(hymn.g)}}>
+            <button className="big-play" onClick={() => onPlay(hymn)}>{Icon.play}</button>
+          </div>
+          <h1 className="watch-title">{hymn.t}</h1>
+          <div className="watch-stats">{hymn.views} lượt nghe<span className="dot"/>{hymn.a}</div>
+          <div className="watch-actions">
+            <button className="pill" onClick={() => onPlay(hymn)}>{Icon.play} Phát</button>
+            <button className="pill">{Icon.heart} Thích</button>
+            <button className="pill">{Icon.plus} Lưu</button>
+            <button className="pill">{Icon.share} Chia sẻ</button>
+          </div>
+          <div className="watch-desc">
+            <b>Về bài thánh ca này.</b> Đây là bài hát ngợi khen tôn vinh <b>Đức Chúa Trời</b>, được trình bày bởi {hymn.a}. Hãy để giai điệu nâng tâm hồn bạn lên trong sự thờ phượng và suy ngẫm Lời Chúa.
+          </div>
+        </div>
+        <aside>
+          <div className="queue-title">Tiếp theo trong danh sách</div>
+          {related.map(h => (
+            <div className={"q-item" + (h.id===nowId?" on":"")} key={h.id} onClick={() => openHymn(h)}>
+              <div className="q-thumb" style={{background:gr(h.g)}}>
+                <span className="dur">{h.dur}</span>
+              </div>
+              <div className="q-meta">
+                <b>{h.t}</b>
+                <span>{h.a} · {h.views} lượt nghe</span>
+              </div>
+            </div>
+          ))}
+        </aside>
+      </div>
+    </div>
+  );
+}
+
+function BaiViet({ go }) {
+  return (
+    <div className="page fade-up">
+      <div className="page-head">
+        <div className="eyebrow">{Icon.pen} Suy Ngẫm &amp; Lẽ Thật</div>
+        <h1 className="page-title">Bài Viết</h1>
+        <p className="page-sub">Những bài giảng, suy ngẫm và nghiên cứu Lời Chúa được tuyển chọn.</p>
+      </div>
+      <div className="feed stagger">
+        {ARTICLES.map(a => (
+          <article className="article" key={a.id}>
+            <div className="article-img" style={{background:gr(a.g)}}>{Icon.pen}</div>
+            <div className="article-body">
+              <span className="article-cat">{a.cat}</span>
+              <h3>{a.t}</h3>
+              <p>{a.ex}</p>
+              <div className="article-foot">
+                <span className="mini-av" style={{background:gr((a.id+2))}}>{a.who.split(" ").slice(-1)[0][0]}</span>
+                <span className="who">{a.who}</span>
+                <span className="when">· {a.when} · {a.read}</span>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function TacGia({ go }) {
+  return (
+    <div className="page fade-up">
+      <div className="page-head">
+        <div className="eyebrow">{Icon.users} Thư Viện Tác Giả</div>
+        <h1 className="page-title">Tác Giả</h1>
+        <p className="page-sub">Khám phá các tác giả, mục sư và nhà nghiên cứu cùng tác phẩm của họ.</p>
+      </div>
+      <div className="author-grid stagger">
+        {AUTHORS.map(a => (
+          <div className="author-card" key={a.id}>
+            <div className="author-av" style={{background:gr(a.g)}}>{a.name.split(" ").slice(-1)[0][0]}</div>
+            <h3>{a.name}</h3>
+            <div className="role">{a.role}</div>
+            <div className="count">{a.count}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function TuSach({ go }) {
+  return (
+    <div className="page fade-up">
+      <div className="page-head">
+        <div className="eyebrow">{Icon.library} Tủ Sách</div>
+        <h1 className="page-title">Sách</h1>
+        <p className="page-sub">Tủ sách thiêng liêng — chạm vào gáy sách để mở đọc từng chương.</p>
+      </div>
+      <div className="shelf-grid stagger">
+        {BOOKS.map(b => (
+          <div className="book" key={b.id}>
+            <div className="book-cover" style={{background:gr(b.g)}}>
+              <div className="bt">{b.t}</div>
+              <div className="ba">{b.a}</div>
+            </div>
+            <div className="book-info">
+              <b>{b.t}</b>
+              <span>{b.a}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function NghienCuu({ go }) {
+  return (
+    <div className="page fade-up">
+      <div className="page-head">
+        <div className="eyebrow">{Icon.layers} Nghiên Cứu Chuyên Sâu</div>
+        <h1 className="page-title">Loạt Bài Nghiên Cứu</h1>
+        <p className="page-sub">Những loạt bài nhiều phần — học có hệ thống như một khoá học, theo dõi tiến độ của bạn.</p>
+      </div>
+      <div className="series-grid stagger">
+        {SERIES.map(s => (
+          <div className="series" key={s.id}>
+            <div className="series-cover" style={{background:gr(s.g)}}>
+              <span className="sc-icon">{Icon.layers}</span>
+              <h3>{s.t}</h3>
+            </div>
+            <div className="series-body">
+              <p>{s.ex}</p>
+              <div className="series-prog">
+                <div className="bar"><i style={{width: Math.round(s.done/s.parts*100)+"%"}}/></div>
+                <span>{s.done}/{s.parts} phần</span>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+/* ============================================================
+   Now Playing bar
+   ============================================================ */
+function NowPlaying({ track, playing, setPlaying }) {
+  const [pct, setPct] = useState(28);
+  useEffect(() => {
+    if (!playing) return;
+    const id = setInterval(() => setPct(p => (p >= 100 ? 0 : p + 0.4)), 200);
+    return () => clearInterval(id);
+  }, [playing]);
+  const mmss = (frac) => {
+    const total = 252; const s = Math.round(total * frac/100);
+    return Math.floor(s/60) + ":" + String(s%60).padStart(2,"0");
+  };
+  return (
+    <footer className="nowplaying">
+      <div className="np-info">
+        <div className="np-art" style={{background:gr(track.g||0)}}>
+          {playing ? <span className="eq"><i/><i/><i/><i/></span> : Icon.music}
+        </div>
+        <div className="np-text">
+          <b>{track.t}</b>
+          <span>{track.a}</span>
+        </div>
+        <button className="icon-btn">{Icon.heart}</button>
+      </div>
+      <div className="np-center">
+        <div className="np-controls">
+          <button className="icon-btn">{Icon.shuffle}</button>
+          <button className="icon-btn">{Icon.prev}</button>
+          <button className="np-play" onClick={() => setPlaying(p => !p)}>{playing ? Icon.pause : Icon.play}</button>
+          <button className="icon-btn">{Icon.next}</button>
+          <button className="icon-btn">{Icon.repeat}</button>
+        </div>
+        <div className="np-progress">
+          <span className="t">{mmss(pct)}</span>
+          <div className="np-track" onClick={(e)=>{const r=e.currentTarget.getBoundingClientRect();setPct((e.clientX-r.left)/r.width*100);}}>
+            <i style={{width: pct+"%"}}/>
+          </div>
+          <span className="t">{track.dur||"4:12"}</span>
+        </div>
+      </div>
+      <div className="np-right">
+        <button className="icon-btn">{Icon.headphones}</button>
+        <div className="vol">{Icon.volume}<div className="vol-track"><i/></div></div>
+      </div>
+    </footer>
+  );
+}
+
+/* ============================================================
+   App shell
+   ============================================================ */
+const NAV = [
+  { id:"home", label:"Khám Phá", icon:Icon.compass },
+  { id:"kt", label:"Kinh Thánh", icon:Icon.book },
+  { id:"tc", label:"Thánh Ca", icon:Icon.music, badge:"Mới" },
+  { id:"articles", label:"Bài Viết", icon:Icon.pen },
+  { id:"authors", label:"Tác Giả", icon:Icon.users },
+  { id:"sach", label:"Tủ Sách", icon:Icon.library },
+  { id:"nghien-cuu", label:"Nghiên Cứu", icon:Icon.layers },
+];
+
+function App() {
+  const [route, setRoute] = useState({ s:"home" });
+  const [hist, setHist] = useState([]);
+  const [theme, setTheme] = useState("light");
+  const [track, setTrack] = useState(null);
+  const [playing, setPlaying] = useState(false);
+  const mainRef = useRef(null);
+
+  useEffect(() => { document.documentElement.setAttribute("data-theme", theme); }, [theme]);
+  useEffect(() => { if (mainRef.current) mainRef.current.scrollTop = 0; }, [route]);
+
+  const go = (r) => { setHist(h => [...h, route]); setRoute(r); };
+  const back = () => setHist(h => { if (!h.length) return h; setRoute(h[h.length-1]); return h.slice(0,-1); });
+
+  const onPlay = (t) => { setTrack(t); setPlaying(true); };
+  const openHymn = (h) => { go({ s:"tc", watch:h }); setTrack(h); };
+
+  const sec = route.s;
+  let view;
+  if (sec === "home") view = <Home go={go} onPlay={onPlay} />;
+  else if (sec === "kt") view = route.book
+        ? <Reader book={route.book} back={back} onPlay={onPlay} />
+        : <KinhThanh openBook={(b)=>go({s:"kt", book:b})} />;
+  else if (sec === "tc") view = route.watch
+        ? <Watch hymn={route.watch} onPlay={onPlay} openHymn={openHymn} nowId={track && track.id} />
+        : <ThanhCa openHymn={openHymn} />;
+  else if (sec === "articles") view = <BaiViet go={go} />;
+  else if (sec === "authors") view = <TacGia go={go} />;
+  else if (sec === "sach") view = <TuSach go={go} />;
+  else if (sec === "nghien-cuu") view = <NghienCuu go={go} />;
+
+  return (
+    <div className="app">
+      <nav className="sidebar">
+        <div className="brand">
+          <div className="brand-mark">{Icon.book}</div>
+          <div>
+            <div className="brand-name">Phúc Âm</div>
+            <div className="brand-sub">Thư Viện</div>
+          </div>
+        </div>
+        <div className="nav-group">
+          <div className="nav-label">Thư Viện Thiêng Liêng</div>
+          {NAV.map(n => (
+            <button key={n.id} className={"nav-item" + (sec===n.id?" active":"")} onClick={() => go({s:n.id})}>
+              {n.icon}{n.label}
+              {n.badge && <span className="badge">{n.badge}</span>}
+            </button>
+          ))}
+        </div>
+        <div className="sidebar-foot">
+          <div className="recent-title">Nghe gần đây</div>
+          {HYMNS.slice(0,3).map(h => (
+            <div className="recent" key={h.id} onClick={() => openHymn(h)}>
+              <div className="recent-thumb" style={{background:gr(h.g)}}/>
+              <div className="recent-meta">
+                <b>{h.t}</b>
+                <span>{h.a}</span>
+              </div>
+            </div>
+          ))}
+        </div>
+      </nav>
+
+      <header className="topbar">
+        <div className="nav-arrows">
+          <button className="icon-btn" onClick={back} disabled={!hist.length} style={{opacity: hist.length?1:.4}}>{Icon.back}</button>
+          <button className="icon-btn" style={{opacity:.4}}>{Icon.fwd}</button>
+        </div>
+        <div className="search">
+          {Icon.search}
+          <input placeholder="Tìm câu Kinh Thánh, thánh ca, tác giả…" />
+        </div>
+        <div className="topbar-spacer" />
+        <button className="theme-toggle" onClick={() => setTheme(t => t==="light"?"dark":"light")}>
+          {theme==="light" ? Icon.moon : Icon.sun}
+          {theme==="light" ? "Tối" : "Sáng"}
+        </button>
+        <button className="avatar-btn">PÂ</button>
+      </header>
+
+      <main className="main" ref={mainRef}>
+        {view}
+      </main>
+
+      {track && <NowPlaying track={track} playing={playing} setPlaying={setPlaying} />}
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>
