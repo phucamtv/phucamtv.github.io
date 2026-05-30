@@ -1,8 +1,12 @@
 {{ define "main" }}
 {{- $series := where .Pages "Layout" "nc-series" -}}
-<div class="nc-index">
-  <h1 class="nc-title">{{ .Title }}</h1>
-  {{ with .Params.verse }}<p class="nc-verse">{{ . }}</p>{{ end }}
+<div class="lib-doc">
+  <div class="lib-doc-eyebrow">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 9 5-9 5-9-5 9-5z"/><path d="m3 12 9 5 9-5"/><path d="m3 17 9 5 9-5"/></svg>
+    Nghiên Cứu
+  </div>
+  <h1 class="lib-doc-title">{{ .Title }}</h1>
+  {{ with .Params.verse }}<p class="lib-doc-sub">{{ . }}</p>{{ end }}
 
   <div class="nc-series-grid">
     {{- range $series -}}
