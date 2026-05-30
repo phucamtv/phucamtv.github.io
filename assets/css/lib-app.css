@@ -90,7 +90,7 @@ body.lib-app-body { margin: 0; padding: 0; overflow: hidden; background: var(--k
 .lib-app {
   width: 100vw; height: 100vh; overflow: hidden;
   display: grid;
-  grid-template-columns: 264px minmax(300px, 380px) minmax(460px, 1fr);
+  grid-template-columns: 200px minmax(300px, 380px) minmax(460px, 1fr);
   grid-template-rows: 1fr;
 }
 
@@ -317,6 +317,11 @@ body.lib-app-body { margin: 0; padding: 0; overflow: hidden; background: var(--k
 /* ============================================================
    Nghiên Cứu — series cards + video reader (scoped to .lib-app)
    ============================================================ */
+/* section root has no middle column: rail + detail only */
+.lib-app.no-mid { grid-template-columns: 264px 1fr; }
+.lib-app.no-mid .lib-detail { grid-column: 2; }
+.lib-mtrigger-solo { display: none; margin-bottom: 14px; }
+
 .lib-app .nc-series-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 18px; margin-top: 26px; }
 .lib-app .nc-series-card { display: flex; flex-direction: column; border-radius: 14px; overflow: hidden; background: var(--kt-paper-2); border: 1px solid var(--kt-hairline); transition: transform .16s, box-shadow .2s; }
 .lib-app .nc-series-card:hover { transform: translateY(-2px); box-shadow: var(--kt-sh-md); }
@@ -346,4 +351,9 @@ body.lib-app-body { margin: 0; padding: 0; overflow: hidden; background: var(--k
   .lib-app .nc-series-grid { grid-template-columns: 1fr; }
   .lib-app .nc-prev-next { grid-template-columns: 1fr; }
   .lib-app .nc-prev-next-next { text-align: left; }
+
+  /* no middle column on root: detail is the in-flow home screen + a rail trigger */
+  .lib-app.no-mid { grid-template-columns: 1fr; }
+  .lib-app.no-mid .lib-detail { position: relative; inset: auto; transform: none; grid-column: 1; }
+  .lib-mtrigger-solo { display: grid; place-items: center; width: 36px; height: 36px; }
 }
