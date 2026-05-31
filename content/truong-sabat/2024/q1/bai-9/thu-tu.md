@@ -1,0 +1,19 @@
+---
+build: { render: never }
+title: "Vua Vĩnh Cửu Với Sức Mạnh Vô Song"
+dayLabel: "Thứ Tư"
+weight: 5
+---
+`Đọc Thi Thiên 2; 110:1–3; 89:4,13–17 và Thi Thiên 110:1,2,5,6. Những câu Kinh Thánh này dạy chúng ta điều gì về Đấng Cơ-đốc là Vua?`
+
+Hình ảnh Đức Chúa Trời như là Cha của Đấng Mê-si ám chỉ lễ đăng quang của nhà vua khi vị vua được nhận vào giao ước của Đức Chúa Trời (Thi Thiên 2:7; 89:26–28). Thi Thiên 2:7 báo trước sự phục sinh và tôn cao của Đấng Cơ-đốc như là buổi bình minh của giao ước mới vĩnh cửu và chức Thầy Tế lễ Thượng Phẩm của Ngài (Công vụ 13:33–39, Hê-bơ-rơ 1:5; 5:5). Đấng Mê-si ngồi bên hữu Đức Chúa Trời với tư cách là người có sự vinh hiển và quyền hành chưa từng có (Thi Thiên 110:1; Công vụ 7:55,56). “Hơn nữa, sự tương tác giữa Chúa và “Người được xức dầu” (Đấng Mê-si) thậm chí còn nói lên sự hiệp nhất giữa Đấng Mê-si dòng dõi Đa-vít với chính Đức Chúa Trời… Nếu người ngồi bên hữu là Chúa, thì Đấng ấy phải là Đấng Mê-si, sau cùng Đức Chúa Con được nhìn thấy ở bên hữu Đức Chúa Trời \[xem Thi Thiên 110:1,5\]” — Jacques Doukhan, Trên đường đến làng Em-ma-út trang 26,27.
+
+Cuối cùng, Đấng Cơ-đốc chiến thắng tuyệt đối trước kẻ thù của Ngài. Khiến kẻ thù để dưới “bệ để chân” là hình ảnh phản ánh phong tục của các vị vua Cận Đông cổ đại khi đặt chân lên cổ kẻ thù bại trận, thể hiện sự thống trị hoàn toàn đối với chúng. Tuy nhiên, cây gậy của Đấng Cơ-đốc ở đây không phải là công cụ khủng bố (Thi Thiên 2:9, 110:2).
+
+Cây gậy (“cây ba toong”) ban đầu được các thủ lĩnh chi phái cầm làm biểu tượng của chi phái (Dân số Ký 17:2−10). Cây gậy của Đấng Cơ-đốc đến từ Si-ôn vì Ngài đại diện cho dân Si- ôn. Cây gậy của Ngài là biểu tượng của sự phán xét thiêng liêng, chấm dứt sự cai trị của điều ác và mô tả triều đại vô song của Đấng Cơ-đốc (Khải Huyền 2:27; 12:5). Ngay cả những vị vua gian ác cũng có cơ hội ăn năn và phục tùng Đấng Mê-si (Thi Thiên 2:10– 12).
+
+Sự mô tả sinh động về chiến thắng cuối cùng của Đấng Cơ-đốc được tìm thấy trong lời tiên báo trước về sự đến của Chúa trong Đa-ni-ên 7, cho thấy sau cảnh phán xét đưa ra việc “ủng hộ các thánh của Đấng Rất Cao” (Đa-ni-ên 7:22), Vương quốc của Ngài được thành lập và “Vương quốc của Ngài là vương quốc đời đời” (Đa-ni-ên 7:27). Nhờ thập giá mà lời hứa về vương quốc này được đảm bảo.
+
+Phước lành được hứa cho tất cả những ai tin cậy nơi Vua muôn vua, và mọi người vui mừng trong sự trị vì công bình và tối cao của Đấng Mê-si (Thi Thiên 2:12, 89:15-17).
+
+`Thật tuyệt biết bao khi chúng ta biết rằng, cuối cùng điều thiện sẽ chiến thắng điều ác, công lý sẽ được thực thi và nỗi đau đớn, thống khổ sẽ mãi mãi bị xóa bỏ. Nhưng cuộc sống con người ngay lúc này đây, lẽ thật này đã an ủi chúng ta như thế nào khi điều ác dường như đang thịnh vượng?`

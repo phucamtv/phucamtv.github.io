@@ -1,0 +1,19 @@
+---
+build: { render: never }
+title: "Đức Giê-hô-va Đã Dựng Nên Chúng Ta"
+dayLabel: "Thứ Nhất"
+weight: 2
+---
+`Đọc Thi Thiên 8 và Thi Thiên 100. Đức Chúa Trời và loài người được miêu tả như thế nào trong hai Thi Thiên này? Hai Thi Thiên này bày tỏ điều gì về bản tính của Đức Chúa Trời?`
+
+Công cuộc Sáng tạo đóng một vai trò quan trọng trong Thi Thiên cũng như trong việc tôn vinh quyền uy tối thượng của Đức Chúa Trời. Các từng trời “rao truyền sự vinh hiển” của Đức Chúa Trời và bầu trời “giải tỏ công việc tay Ngài làm”. Cả thiên nhiên đã bày tỏ quyền năng vô hạn của Đức Chúa Trời (Thi Thiên 19:1- 4; Thi Thiên 97:6). Danh Đức Chúa Trời thật oai nghiêm trên khắp hành tinh này (Thi Thiên 8:1,9). Đức Giê-hô-va đã dựng nên muôn vật; Ngài không có sự khởi đầu (Thi Thiên 93:2) và cũng không có sự kết thúc (Thi Thiên 102:25-27). Ngài là Đấng hằng hữu và vượt trội hơn tất cả mọi tượng thần vô tri vô giác của các dân trên thế gian, vốn chỉ là do “công việc tay người làm ra” (Thi Thiên 115:4), chứ không có gì hơn. Những hình tượng “có tay nhưng không rờ rẫm; có chân, nào biết bước đi” (Thi Thiên 115:7); chẳng thể ví cùng Đức Giê-hô-va, là Đấng mà “Các vực sâu của đất đều ở nơi tay Ngài; những đỉnh núi cũng thuộc về Ngài. Biển thuộc về Ngài, vì chính Ngài đã làm nó; còn đất khô, tay Ngài cũng đã nắn nên nó” (Thi Thiên 95:4,5).
+
+Trong sách Thi Thiên, có những đoạn mô tả quyền năng của Đức Chúa Trời thể hiện trên các thế lực trong thiên nhiên mà các dân tộc khác tin rằng đó là thần thánh (Ví dụ như Thi Thiên 29, Thi Thiên 93, Thi Thiên 104). Những Thi Thiên này khẳng định lại một cách chắc chắn rằng Đức Chúa Trời trị vì trên mọi tạo vật và là Đấng tối cao với quyền năng vô hạn và sự oai nghiêm không gì sánh bằng. Thi Thiên 100:3 phản bác hình thức thờ thần tượng tinh vi - cậy vào chính mình - nhấn mạnh cho loài người biết rằng “chính Đức Chúa Trời đã tạo dựng chúng ta”, chứ không phải tự chính chúng ta.
+
+Công cuộc sáng tạo cũng làm chứng về tình yêu thương của Đức Chúa Trời. Mọi vật tồn tại được đều chịu ơn Đức Chúa Trời về sự tồn tại của mình, là Đấng đã duy trì sự sống (Thi Thiên 95:7; Thi Thiên 147:4-9). Hãy chú ý rằng Đức Chúa Trời không chỉ ban cho con người sự tồn tại, Ngài đã tạo nên dân Y-sơ-ra-ên cổ đại là “dân sự Ngài, là bầy chiên của đồng cỏ Ngài” (Thi Thiên 100:3). Khái niệm cụ thể của cụm từ “dân sự Ngài” và “bầy chiên của đồng cỏ Ngài” cho thấy Đức Chúa Trời mong muốn có mối quan hệ mật thiết với con dân Ngài.
+
+Chỉ có Đấng Tạo Hóa mới có quyền năng ban phước và khiến dân sự Ngài sinh sôi nảy nở, do đó, Ngài là Đấng duy nhất xứng đáng để họ thờ phượng và tin cậy. Một số Thi Thiên cho rằng mọi vật có hơi thở, cả đất, biển và muôn vật ở trong đó hãy reo mừng trước mặt Đức Giê-hô-va.
+
+Sự vinh hiển của Đức Chúa Trời được nhìn thấy trong công cuộc sáng tạo, ngay cả trên thế gian đã sa ngã và phạm tội và Thi- thiên hướng chúng ta đến việc chỉ thờ phượng, tôn vinh duy nhất một mình Đức Chúa Trời mà thôi.
+
+`“Loài người là gì, mà Chúa nhớ đến? Con loài người là chi, mà Chúa thăm viếng nó?” (Thi Thiên 8:4). Đáp ứng của bạn thế nào với Đức Chúa Trời như là Đấng Tạo Hóa? Khi Đức Chúa Trời gọi từng tên các vì sao (Thi Thiên 147:4), bạn nghĩ như thế nào về việc Đức Chúa Trời quan tâm đến bạn nhiều hơn?`

@@ -1,0 +1,19 @@
+---
+build: { render: never }
+title: "Luôn Nhớ Đến Giao Ước Của Ngài"
+dayLabel: "Thứ Tư"
+weight: 5
+---
+`Chủ đề về sự phán xét của Đức Chúa Trời đặt ra một câu hỏi quan trọng: Làm thế nào dân sự của Đức Chúa Trời có thể hòa lại cùng Ngài và được bảo đảm về sự cứu rỗi trong ngày phán xét? Đọc Thi Thiên 94:14; Thi Thiên 105:7-10; Đa- ni-ên 7:22.`
+
+Dân sự của Đức Chúa Trời được an toàn bởi vì Đức Giê-hô-va đã đặt nơi ngự trị của Ngài tại Si-ôn (Thi Thiên 76:1,2), và thiết lập giao ước đời đời với họ như là tài sản quý báu của Ngài (Thi Thiên 94:14; Thi Thiên 105:8-10). Đức Chúa Trời không chỉ hứa là sẽ không từ bỏ dân sự theo giao ước của Ngài, mà Ngài còn tích cực hành động để gìn giữ họ an toàn trong sự che chở của Ngài. Ngài tha thứ mọi tội lỗi của họ (Thi Thiên 103:3); Ngài hướng dẫn, ban phước, và tiếp sức cho dân sự Ngài (Thi Thiên 25:8-11; Thi Thiên 29:11; Thi Thiên 105:24). Sự phán xét của Đức Chúa Trời được ban ra để hướng mọi người về nẻo công bình và chứng tỏ rằng Ngài quan tâm đến họ (Thi Thiên 94:8-15).
+
+Toàn bộ Thi Thiên 105 cho thấy sự thành tín của Đức Giê- hô-va đối với giao ước của Ngài trong lịch sử dân tộc Y-sơ-ra-ên. Trong mọi việc đã xảy ra, dù tốt hay xấu, Đức Chúa Trời đều hiện diện. Ngài đã quan phòng chu đáo trong việc sắp đặt cho Giô-sép đến xứ Ê-díp-tô và nhờ ông mà dân sự của Ngài cũng như các dân tộc trong khu vực đó được cứu trong thời kỳ đói kém khắc nghiệt nhất (Thi Thiên 105:16-24). Đức Giê-hô-va lại dấy Môi-se lên để dẫn dắt dân sự Ngài thoát khỏi cành nô lệ tại xứ Ê-díp-tô, là người đã thay mặt Đức Chúa Trời làm những dấu kỳ phép lạ trên dân Ê- díp-tô (Thi Thiên 105:25-38).
+
+Đức Giê-hô-va đã ban cho dân sự Ngài miền Đất Hứa (Thi- thiên 105:11,44) và sự bảo vệ liên tục của Ngài (Thi Thiên 105:12- 15). Ngài làm cho dân sự tăng thêm nhiều, khiến họ mạnh mẽ lên (Thi Thiên 105:24), giải thoát họ khỏi tay những người cai trị khắc nghiệt (Thi Thiên 105:37,38), và cung cấp cho họ những nhu cầu thiết yếu hằng ngày (Thi Thiên 105:39-41). Một điều chắc chắn rằng Đức Giê-hô-va có quyền uy tối thượng trong việc kiểm soát tất cả những gì liên quan đến dân sự của Ngài – một lẽ thật mà những người viết Thi Thiên muốn dân sự Đức Chúa Trời không bao giờ quên.
+
+Khi Đức Chúa Trời nhớ đến giao ước của Ngài, nó bao hàm nhiều điều ý nghĩa hơn là sự nhận thức hay ký ức bởi vì nó luôn luôn dẫn đến hành động (Sáng-thế Ký 8:1; I Sa-mu-ên 1:19; Thi- thiên 98:3; Thi Thiên 105:42-44). Tương tự như vậy, khi dân sự được kêu gọi để ghi nhớ những dấu kỳ phép lạ và sự phán xét của Đức Chúa Trời thì điều đó có nghĩa là dân sự của Ngài cần phải sống một lối sống thể hiện sự tôn vinh Đức Chúa Trời.
+
+Trong giao ước này, lời kêu gọi chủ yếu dành cho dân Y- sơ-ra-ên là trung thành với giao ước bằng cách vâng giữ luật pháp của Đức Chúa Trời (Thi Thiên 78:5-7; Thi Thiên 105:45). Dân sự Đức Chúa Trời cũng được kêu gọi hãy làm chứng danh Ngài cho các dân tộc khác, vì Đức Giê-hô-va mong muốn mọi dân tộc liên kết với dân Y-sơ-ra-ên của Ngài (Thi Thiên 105:1,2). Từ đó, thế gian được an toàn trong giao ước bảo vệ của Đức Chúa Trời toàn năng và giàu lòng nhân từ (Thi Thiên 89:28-34).
+
+`Những gì chúng ta có trong Đức Chúa Giê-su chính là điều cho thấy tại sao những lời hứa dành cho dân Y-sơ-ra-ên thời xưa vẫn có thể áp dụng cho chúng ta ngày nay? (Đọc thêm Ga- la-ti 3:26-29).`

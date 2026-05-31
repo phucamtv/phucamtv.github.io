@@ -1,0 +1,25 @@
+---
+build: { render: never }
+title: "Thi Thiên Tuyệt Vọng"
+dayLabel: "Thứ Ba"
+weight: 4
+---
+Cầu nguyện bằng Thi Thiên giúp cho những người thờ phượng bày tỏ những lời cầu nguyện một cách thoải mái hơn. Thi- thiên giúp họ trải nghiệm theo những tiêu chuẩn của Đức Chúa Trời và làm cho họ chịu đựng được bằng cách mang niềm hy vọng và sự bảo đảm về sự hiện diện của Đức Chúa Trời.
+
+`Đọc Thi Thiên 22. Chúng ta học được gì từ Thi Thiên này về sự trông cậy vào Đức Chúa Trời khi ở giữa những đau đớn tột cùng?`
+
+Những lời than khóc trong Thi Thiên 22:1 có thể giúp cho những người đang đau khổ bày tỏ nỗi đau đớn và cảm giác cô đơn: “Đức Chúa Trời tôi ôi! Đức Chúa Trời tôi ôi! sao Ngài lìa bỏ tôi? Nhân sao Ngài đứng xa, không giúp đỡ tôi, và chẳng nghe lời rên siếc tôi?”
+
+Dĩ nhiên, những lời này đã nổi tiếng trong vòng Cơ-đốc nhân, vì những lời này cũng chính là những lời mà Đức Chúa Giê-su đã thốt lên khi bị treo trên thập giá, những lời này cho chúng ta thấy Thi Thiên là trung tâm của sự trải nghiệm của Đấng Cơ-đốc (xem Ma-thi-ơ 27:46).
+
+Tuy nhiên, ngay cả khi đứng giữa những đau khổ và thử thách, những lời này cũng bày tỏ: “Tôi sẽ rao truyền danh Chúa cho anh em tôi, và ngợi khen Chúa giữa hội chúng” (Thi Thiên 22:22).
+
+Nói cách khác, mặc dầu những cảm xúc chân chính này có thể không phù hợp với tình thế đau buồn của tác giả, nhưng người viết Thi Thiên vẫn bày tỏ đức tin của mình nơi Đức Chúa Trời và tuyên bố rằng, dầu như thế nào đi nữa, ông vẫn ngợi khen Chúa.
+
+Điều quan trọng là, qua những lời cầu nguyện, Thi Thiên dạy chúng ta rằng: lấy đức tin hãy nhìn xa hơn hoàn cảnh hiện tại của mình để thấy được thời điểm mà cuộc sống của chúng ta sẽ được phục hồi bởi ân điển của Chúa.
+
+Do đó, việc cầu nguyện bằng Thi Thiên sẽ đưa người thờ phượng đến một chân trời tâm linh mới. Thi Thiên giúp cho những người thờ phượng bày tỏ cảm xúc và sự nhận thức của họ, nhưng họ không bị bỏ rơi tại chỗ mà họ đang đứng. Những người thờ phượng được hướng dẫn hãy trao những gánh nặng đau thương, tuyệt vọng, giận dữ và chán nản cho Đức Chúa Trời và trông cậy nơi Ngài, bất kể hoàn cảnh của họ như thế nào.
+
+Sự chuyển đổi từ những lời than khóc đến ngợi khen được thấy rất nhiều trong Thi Thiên, điều này nói đến sự biến đổi tâm linh mà các tín hữu trải qua khi họ nhận được ân điển và sự an ủi thiêng liêng trong lời cầu nguyện.
+
+`Làm thế nào chúng ta có thể học cách nhìn xa hơn những thử thách trước mắt và, nhờ đó tin tưởng vào lòng nhân lành của Đức Chúa Trời, bất kể chúng ta phải đối mặt với điều gì?`

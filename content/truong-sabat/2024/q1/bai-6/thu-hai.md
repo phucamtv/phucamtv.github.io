@@ -1,0 +1,21 @@
+---
+build: { render: never }
+title: "Công Lý Cho Người Bị Áp Bức"
+dayLabel: "Thứ Hai"
+weight: 3
+---
+`Đọc Thi Thiên 9:18; Thi Thiên 12:5; Thi Thiên 40:17; Thi Thiên 113:7; Thi Thiên 146:6-10 và Thi Thiên 41:1-3. Qua đó, sứ điệp gởi đến cho chúng ta là gì, ngay cả ngày hôm nay?`
+
+Đức Chúa Trời thể hiện sự quan tâm, lưu ý đặc biệt đến công lý dành cho những nhóm người dễ bị tổn thương khác nhau luôn nhan nhản khắp nơi trong cuộc sống. Đó là những người nghèo khổ, thiếu thốn, những người bị áp bức, trẻ mồ côi, người góa bụa và những khách lạ không nơi nương tựa. Thi Thiên, giống như Luật pháp và những lời tiên tri, đều có nhận định rõ ràng về quan điểm này (Xuất Ê-díp-tô Ký 22:21-27; Ê-sai 3:13-15).
+
+Nhiều Thi Thiên sử dụng cách diễn tả về sự “nghèo khó và thiếu thốn” và tránh dùng những thuật ngữ dành riêng cho tôn giáo và quốc gia để đại diện những người bị áp bức về mặt chủng tộc và tôn giáo. Điều này được thực hiện nhằm làm nổi bật mối quan phòng, chăm lo rộng rãi của Đức Chúa Trời dành cho toàn nhân loại.
+
+Cụm từ “nghèo khó và thiếu thốn” không chỉ giới hạn trong sự thiếu thốn về vật chất mà còn biểu hiện tình trạng dễ bị tổn thương và bơ vơ, không nơi nương tựa. Cách diễn đạt này kêu gọi lòng trắc ẩn của Đức Chúa Trời và nó truyền tải ý tưởng rằng luôn có những người đang khổ đau, đang lạc lõng cô đơn, không ai mở rộng lòng cứu giúp ngoài Chúa. Việc diễn tả về sự “nghèo khó và thiếu thốn” cũng liên quan đến lòng chân thành, tính trung thực và tình yêu thương của một người dành cho Đức Chúa Trời, khi thú nhận mình hoàn toàn phụ thuộc vào Ngài và từ bỏ mọi ý tưởng về việc cậy vào bản thân mình và tự hào về mình.
+
+Trong khi đó, việc quan tâm đến người thiếu thốn (Thi- thiên 41:1-3) chứng tỏ lòng trung tín của dân sự đối với Đức Chúa Trời. Đối xử tàn ác với những người khốn cùng là những tội lỗi đặc biệt đáng ghê tởm trong văn hóa của dân Do Thái thời xưa (Phục-truyền Luật-lệ Ký 15:7-11). Tinh thần của Thi Thiên truyền động lực cho những người trung tín mạnh dạn lên tiếng chống lại mọi bất công áp bức.
+
+Thi Thiên cũng nhấn mạnh đến sự vô ích của việc đặt niềm tin vào những phương tiện dễ hư mất, có thể bị tiêu hủy của con người, xem đây như là nguồn cung cấp sự tri thức và an ninh tột bậc của mình. Dân sự của Đức Chúa Trời nhất định phải chống lại sự cám dỗ trong việc đặt trọn niềm tin vào sự cứu giúp của các nhà lãnh đạo và các tổ chức của loài người, nhất là khi việc làm của họ khác với đường lối của Đức Chúa Trời.
+
+Trong ân điển của Ngài, Chúa của chúng ta hòa mình với những hoàn cảnh nghèo khó bằng cách chính Ngài cũng trở nên nghèo khó, hầu cho bởi sự nghèo khó của Ngài mà chúng ta trở nên giàu có (II Cô-rinh-tô 8:9). Sự giàu có trong Đấng Cơ-đốc bao gồm cả sự giải cứu khỏi mọi áp bức do tội lỗi mang lại, và Ngài hứa ban cho chúng ta sự sống đời đời trong vương quốc Đức Chúa Trời (Khải Huyền 21:4). Đấng Cơ-đốc hoàn thành lời hứa trong Thi- thiên với vai trò là Quan án thiêng liêng, là Đấng sẽ phán xét những kẻ có hành vi ngược đãi đối với những người khốn khổ, thiếu thốn, cũng như những kẻ thờ ơ trong bổn phận của mình, bỏ mặc họ sống lầm than trong cảnh khốn cùng (Ma-thi-ơ 25:31-46).
+
+`Chúng ta quan tâm đến những người “nghèo khó và thiếu thốn” chung quanh mình như thế nào, và chúng ta đã giúp ích được những gì cho họ?`

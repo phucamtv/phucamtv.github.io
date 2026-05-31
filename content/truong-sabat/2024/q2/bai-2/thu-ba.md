@@ -1,0 +1,19 @@
+---
+build: { render: never }
+title: "Trung thành giữa cơn bách hại"
+dayLabel: "Thứ Ba"
+weight: 4
+---
+Trong suốt những thế kỷ đầu của Cơ-đốc giáo, mặc cho bị tù đày, bị tra tấn và bị đàn áp, Hội Thánh của Đấng Cơ-đốc vẫn phát triển nhanh chóng. Những tín hữu trung thành, hoàn toàn dấn thân cho Đấng Cơ-đốc, họ được đầy dẫy Thánh Linh, rao truyền Lời của Chúa cách đầy quyền năng; nhiều đời sống được thay đổi, và hàng chục ngàn người đã tin Chúa.
+
+`Đọc Công vụ các Sứ đồ 2:41; Công vụ các Sứ đồ 4:4,31; Công vụ các Sứ đồ 5:42; và Công vụ các Sứ đồ 8:1–8. Những câu Kinh Thánh này dạy chúng ta điều gì về những thử thách mà Hội Thánh thời Tân Ước phải đối mặt, và tại sao Hội Thánh vẫn phát triển cách nhanh chóng?`
+
+Các môn đồ đối mặt với sự đe dọa (Công vụ 4:17), tù đày (Công vụ 5:17,18), đàn áp (Công vụ 8:1), và thậm chí cả cái chết (Công vụ 7:59, Công vụ 12:2), tuy nhiên với quyền năng của Đức Thánh Linh họ vẫn can đảm rao truyền về sự phục sinh của Đấng Cơ-đốc và Hội Thánh phát triển gấp bội suốt vùng Giu-đê, Ga-li-lê và Sa-ma-ri (Công vụ 9:31).
+
+Các thành trì của địa ngục rúng động. Xiềng xích của Sa-tan bị bứt đứt. Sự mê tín của ngoại giáo sụp đổ trước quyền năng của Đấng Cơ-đốc phục sinh. Phúc âm đã chiến thắng những nghịch cảnh. Các môn đồ không còn sợ hãi thu mình trên phòng cao nữa. Nỗi sợ hãi tan biến như chiếc bóng khuất dần.
+
+Thay vào đó là đức tin tràn ngập trong lòng các môn đồ. Cái nhìn thoáng qua về Chúa phục sinh của họ đã thay đổi cuộc đời họ. Đức Chúa Giê-su ban cho họ một lý do mới để sống. Chúa của chúng ta không những chỉ ban cho họ một Đại Mạng Lệnh (Mác 16:15), mà Ngài còn ban cho họ một lời hứa trọng đại, “Nhưng khi Đức Thánh Linh giáng trên các ngươi, thì các ngươi sẽ nhận lấy quyền phép, và làm chứng về ta tại thành Giê-ru-sa-lem, cả xứ Giu-đê, xứ Sa-ma-ri, cho đến cùng trái đất” (Công vụ các Sứ đồ 1:8).
+
+Phúc âm đã đến tận những nơi xa xôi nhất của trái đất (Cô-lô-se 1:23). Mặc dầu vị sứ đồ cuối cùng là Giăng đã qua đời vào cuối thế kỷ thứ nhất, nhưng những môn đồ khác đã cầm ngọn đuốc của lẽ thật và rao truyền Đấng Cơ-đốc hằng sống. Pliny the Younger, thống đốc tỉnh Bithynia của La Mã, thuộc bờ biển phía bắc của Thổ Nhĩ Kỳ ngày nay, đã viết cho hoàng đế Trajan vào khoảng năm 110 SCN. Lời trình bày của Pliny rất có ý nghĩa vì nó gần tám mươi năm sau khi Đức Chúa Giê-su bị đóng đinh. Pliny mô tả các phiên tòa chính thức mà ông đã tiến hành để tuyên bố và hành quyết những Cơ-đốc nhân. Ông viết, “đối với nhiều người ở mọi lứa tuổi, mọi tầng lớp và cả hai giới tính đứng trước sự nguy hiểm bởi lời buộc tội, và điều này sẽ tiếp tục. Mức ảnh hưởng của sự mê tín này (đạo Đấng Cơ-đốc) đã lan tràn không chỉ ở các thành phố, mà còn ở các làng mạc và các vùng nông thôn nữa.”, Henry Bettenson, Tư liệu Hội Thánh Cơ-đốc, trang 4.
+
+`Bất chấp những cuộc tấn công tàn ác nhất của ma quỉ, Hội Thánh Đấng Cơ-đốc vẫn phát triển nhanh chóng. Chúng ta có thể học được gì từ Hội Thánh đầu tiên để giúp chúng ta, là những người trong Hội Thánh thời kỳ cuối cùng?`

@@ -1,0 +1,17 @@
+---
+build: { render: never }
+title: "Lời Chứng Của Bạn Là Chắc Chắn"
+dayLabel: "Thứ Năm"
+weight: 6
+---
+`Đọc Thi Thiên 19:7; Thi Thiên 93:5; Thi Thiên 119:165; Thi Thiên 1:2,6; Thi Thiên 18:30; Thi Thiên 25:10. Xuyên suốt qua các câu Kinh Thánh trên, một chủ đề chính yếu nào được đề cập đến?`
+
+Quyền năng tối thượng của Đức Giê-hô-va với tư cách là Đấng Tạo Hóa, là một vị Vua và là một Quan Tòa tối cao có những hàm ý thần học về độ tin cậy nơi các chứng cớ của Ngài. Những chứng cớ (theo tiếng Do Thái là “edut”, “ sắc lệnh”, “luật lệ”) đề cập đến nội dung các luật lệ và sắc lệnh mà Đức Giê-hô-va dùng để cai quản đời sống tôn giáo và xã hội của dân sự Ngài (Xuất Ê- díp-tô ký 32:15). Những điều này là “rất chắc chắn” (Thi Thiên 93:5), phản ảnh sự ổn định và trường cửu của ngai Đức Chúa Trời cũng như thế giới kỳ vĩ mà Ngài đã dựng nên và duy trì nó (Thi- thiên 93:1,2). Trong tiếng Hê-bơ-rơ, từ “chắc chắn” truyền tải một khái niệm về độ tin cậy, sự trung thành, và tính vững bền (II Sa- mu-ên 7:16; I Sử ký 17:23) \[Từ Amen trong tiếng Anh có nguồn gốc ra từ này\]. Luật pháp của Đức Chúa Trời bền vững đời đời, không hề thay đổi và không thể phá hủy.
+
+Đức Chúa Trời bảo đảm tính toàn vẹn nghiêm minh trong lời hứa và mệnh lệnh của Ngài. Sự thành tín của Đức Chúa Trời vừa đưa ra sự cam đoan chắc chắn trong việc bảo đảm sự nhất quán không hề thay đổi đối với luật lệ của Ngài, vừa đòi hỏi dân sự phải hoàn toàn tin cậy và vâng phục Ngài.
+
+Đồng thời, việc thiếu công lý trên thế gian được miêu tả đầy chất thơ như sự rung chuyển của nền tảng trái đất (Thi Thiên 18:7; Ê-sai:18-21). Luật pháp của Đức Chúa Trời hướng dẫn mọi người một lối sống công bình hầu có thể đứng vững trước sự phán xét của Ngài. Do đó, người công bình không hề bị rúng động, bởi vì họ đã bám rễ vững chắc vào luật pháp Đức Chúa Trời, là điều mang đến cho họ sự ổn định và an bình, khiến lòng họ vững vàng, kiên định trong bóng cánh Đức Giê-hô-va (Thi Thiên 112:1,6,7). Không gì có thể khiến những người vâng giữ luật pháp Đức Chúa Trời phải bị vấp ngã (Thi Thiên 119:165), điều này bày tỏ sự quan phòng và dẫn dắt của Đức Chúa Trời dành cho dân sự Ngài trong cuộc sống (Thi Thiên 1:2,3,6).
+
+Lời của Đức Chúa Trời được miêu tả như ngọn đèn soi dẫn cho người viết Thi Thiên, đó là những gì bảo vệ người khỏi cạm bẫy giấu kín của kẻ thù (Thi Thiên 119:105,110). Sự bình an lớn lao mà những ai yêu mến luật pháp Đức Chúa Trời được tận hưởng (Thi Thiên 119:165) rõ ràng không phải là kết quả của việc hoàn toàn không có những thử thách bủa vây họ (Thi Thiên 119:161). Đúng hơn là nó bắt nguồn từ việc nương náu trong sự hiện diện của Đức Chúa Trời và có mối tương giao mật thiết với Ngài.
+
+`Những trải nghiệm thực tế trong việc vâng giữ luật pháp và điều lệ của Đức Chúa Trời đã giúp ích bạn như thế nào trong cuộc sống? Mặt khác, bạn đã phải chịu đựng những gì khi vi phạm chúng?`
