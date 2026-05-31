@@ -126,7 +126,7 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 .lib-rail-brand { display: flex; align-items: center; gap: 10px; margin-top: auto; padding: 16px 8px 4px; border-top: 1px solid rgba(255, 255, 255, .08); }
 .lib-rail-mark { width: 30px; height: 30px; border-radius: 9px; display: grid; place-items: center; box-shadow: var(--kt-sh-sm); background: linear-gradient(145deg, #fefcf7, #f2ecdd); }
 .lib-rail-mark svg { width: 26px; height: 26px; }
-.lib-rail-brand b { font-family: var(--kt-display); font-size: 17px; font-weight: 600; color: #fff; display: block; }
+.lib-rail-brand b { font-family: var(--kt-display); font-size: 17px; font-weight: 600; color: #fff; display: block; text-transform: uppercase; }
 .lib-rail-brand span span { font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--lib-rail-text-2); display: block; }
 .lib-rail-nav { display: flex; flex-direction: column; gap: 1px; }
 .lib-rail-item { display: flex; align-items: center; gap: 11px; padding: 8px 10px; border-radius: 8px; color: var(--lib-rail-text); font-size: 14px; font-weight: 500; transition: background .15s, color .15s; }
