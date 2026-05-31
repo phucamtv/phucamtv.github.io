@@ -1,0 +1,16 @@
+{{- /* Middle column for Tín Lý — all doctrines, the current one highlighted.
+       Rendered on doctrine reader pages; the /tin-ly/ index drops this column and
+       renders the same list in the detail (see doctrines/list.html). */ -}}
+{{- $cur := .RelPermalink -}}
+{{- $pages := where .CurrentSection.Pages.ByWeight "Weight" "gt" 0 -}}
+<nav class="lib-mid">
+  <div class="lib-mid-head">
+    <button class="lib-rtrigger" type="button" aria-label="Mở thư viện">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
+    </button>
+    <a class="lib-mid-back" href="/tin-ly/"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>Tất cả tín lý</a>
+  </div>
+  <div class="lib-mid-body">
+    {{ partial "doctrines/items.html" (dict "pages" $pages "cur" $cur) }}
+  </div>
+</nav>

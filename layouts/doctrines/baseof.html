@@ -4,11 +4,11 @@
   {{- partial "head.html" . -}}
 </head>
 <body class="lib-app-body">
-  {{- $index := eq .Layout "kt" -}}
-  <div class="lib-app{{ if .Params.isChapter }} detail-open{{ end }}{{ if $index }} no-mid{{ end }}">
+  {{- $index := eq .Kind "section" -}}
+  <div class="lib-app{{ if $index }} no-mid{{ else }} detail-open{{ end }}">
     <div class="lib-app-backdrop"></div>
-    {{- partial "lib/rail.html" (dict "active" "kt") -}}
-    {{- if not $index }}{{- partial "kt/list.html" . -}}{{- end }}
+    {{- partial "lib/rail.html" (dict "active" "tin-ly") -}}
+    {{- if not $index }}{{- partial "doctrines/list.html" . -}}{{- end }}
     <main class="lib-detail">
       <div class="lib-detail-scroll">
         {{- block "main" . }}{{- end }}

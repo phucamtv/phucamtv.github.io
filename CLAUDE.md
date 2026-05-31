@@ -1,3 +1,7 @@
+# Design
+
+When designing or building any UI, layout, or page in the library sections (Kinh Thánh, Trường Sa-bát, Nghiên Cứu) — or adding a new section that should feel part of the library — read [Design Principles](CLAUDE.DESIGN-PRINCIPLES.md) first and follow it.
+
 # Content Guidelines
 
 - All content of this website is in Vietnamese

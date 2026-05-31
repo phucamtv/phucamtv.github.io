@@ -1,0 +1,15 @@
+{{- /* Doctrine list items, shared by the mid column (partials/doctrines/list.html)
+       and the /tin-ly/ index detail (doctrines/list.html).
+       Call with (dict "pages" <doctrines> "cur" <current RelPermalink or ""). */ -}}
+{{- $cur := .cur -}}
+{{- range .pages -}}
+  {{- if gt .Weight 0 -}}
+  <a class="lib-lesson{{ if eq .RelPermalink $cur }} is-current{{ end }}" href="{{ .RelPermalink }}">
+    <span class="lib-lesson-num">{{ printf "%02d" .Weight }}</span>
+    <span class="lib-lesson-info">
+      <span class="lib-lesson-title">{{ .Title }}</span>
+      {{- with .Params.keywords }}<span class="lib-lesson-date">{{ delimit . " · " }}</span>{{ end -}}
+    </span>
+  </a>
+  {{- end -}}
+{{- end -}}

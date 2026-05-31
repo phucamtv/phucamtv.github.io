@@ -1,0 +1,43 @@
+{{- /* Bible book browser: Cựu/Tân Ước tabs + per-book chapter grids.
+       Shared by the kt middle column (partials/kt/list.html) and the /kt/ index
+       detail (kt/list.html). Emits the radio inputs, tab bar and .lib-mid-body as
+       siblings — the tab CSS keys on that, so drop them directly into the host. */ -}}
+{{- $curSlug := or .Params.bookSlug .Params.slug -}}
+{{- $curCh := int (.Params.chapter | default 0) -}}
+{{- $curTest := "old" -}}
+{{- if $curSlug }}{{- with (index (where .Site.Pages "Params.slug" $curSlug) 0) }}{{ $curTest = .Params.testament }}{{ end -}}{{- end -}}
+{{- $books := sort (where .Site.Pages "Layout" "kt-book") "Weight" -}}
+<input type="radio" name="kt-testament" id="kt-tab-old" class="lib-tab-radio"{{ if eq $curTest "old" }} checked{{ end }}>
+<input type="radio" name="kt-testament" id="kt-tab-new" class="lib-tab-radio"{{ if eq $curTest "new" }} checked{{ end }}>
+<div class="lib-tabbar">
+  <label class="lib-tab" for="kt-tab-old">Cựu Ước</label>
+  <label class="lib-tab" for="kt-tab-new">Tân Ước</label>
+</div>
+<div class="lib-mid-body">
+  {{- range slice "old" "new" -}}
+    {{- $test := . -}}
+    <div class="lib-tabpanel lib-tabpanel-{{ $test }}">
+      {{- $group := "" -}}
+      {{- range (where $books "Params.testament" $test) -}}
+        {{- if ne .Params.group $group }}{{ $group = .Params.group }}<div class="lib-mid-group">{{ .Params.group }}</div>{{ end -}}
+        {{- $slug := .Params.slug -}}
+        {{- $isCur := eq $slug $curSlug -}}
+        {{- if .Params.hasChapters -}}
+          {{- $n := partialCached "kt-chapter-count.html" .Params.titleEn .Params.titleEn -}}
+          <details class="lib-book{{ if $isCur }} is-current{{ end }}"{{ if $isCur }} open{{ end }}>
+            <summary class="lib-book-sum">
+              <span class="lib-book-name">{{ .Title }} <small>{{ .Params.titleEn }}</small></span>
+              <span class="lib-book-chev" aria-hidden="true"></span>
+            </summary>
+            <div class="lib-chapgrid">
+              <a class="lib-chapcell lib-chapcell--intro{{ if and $isCur (eq $curCh 0) }} is-current{{ end }}" href="/kt/{{ $slug }}/" aria-label="Giới thiệu sách"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a>
+              {{- range $i := seq 1 $n }}<a class="lib-chapcell{{ if and $isCur (eq $i $curCh) }} is-current{{ end }}" href="/kt/{{ $slug }}/{{ $i }}/">{{ $i }}</a>{{ end -}}
+            </div>
+          </details>
+        {{- else -}}
+          <a class="lib-nav-book{{ if $isCur }} is-current{{ end }}" href="{{ .RelPermalink }}">{{ .Title }} <small>{{ .Params.titleEn }}</small></a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  {{- end -}}
+</div>

@@ -1,7 +1,6 @@
 {{- /* Middle column for Nghiên Cứu — episodes of the current series.
        Current series = the episode's parent (episode page), self (series page),
        or none (section root → list all series). */ -}}
-{{- $logo := `<span class="lib-rail-mark"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 9 5-9 5-9-5 9-5z"/><path d="m3 12 9 5 9-5"/><path d="m3 17 9 5 9-5"/></svg></span>` -}}
 {{- $cur := .RelPermalink -}}
 {{- $series := "" -}}
 {{- if eq .Layout "nc-episode" -}}{{ $series = .Parent }}
@@ -9,7 +8,9 @@
 {{- end -}}
 <nav class="lib-mid">
   <div class="lib-mid-head">
-    <button class="lib-mtrigger" type="button" aria-label="Mở thư viện">{{ $logo | safeHTML }}</button>
+    <button class="lib-rtrigger" type="button" aria-label="Mở thư viện">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
+    </button>
     <a class="lib-mid-back" href="/nghien-cuu/"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>{{ with $series }}Tất cả loạt bài{{ else }}Nghiên Cứu{{ end }}</a>
   </div>
   <div class="lib-mid-body">

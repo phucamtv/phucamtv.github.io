@@ -4,10 +4,11 @@
   {{- partial "head.html" . -}}
 </head>
 <body class="lib-app-body">
-  <div class="lib-app{{ if eq .Layout "lesson" }} detail-open{{ end }}">
+  {{- $quarter := eq .Layout "quarter" -}}
+  <div class="lib-app{{ if eq .Layout "lesson" }} detail-open{{ end }}{{ if $quarter }} no-mid{{ end }}">
     <div class="lib-app-backdrop"></div>
     {{- partial "lib/rail.html" (dict "active" "truong-sabat") -}}
-    {{- partial "truong-sabat/list.html" . -}}
+    {{- if not $quarter }}{{- partial "truong-sabat/list.html" . -}}{{- end }}
     <main class="lib-detail">
       <div class="lib-detail-scroll">
         {{- block "main" . }}{{- end }}

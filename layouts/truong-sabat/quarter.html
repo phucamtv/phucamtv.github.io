@@ -1,15 +1,23 @@
 {{ define "main" }}
 <article class="lib-doc">
+  <button class="lib-mtrigger lib-mtrigger-solo" type="button" aria-label="Mở thư viện">{{ partial "lib/mark.html" . }}</button>
   <div class="lib-doc-eyebrow">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
     Quý Học
   </div>
   <h1 class="lib-doc-title">{{ .Title }}</h1>
   {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
-  <a class="lib-cta" href="{{ (index .Sections.ByWeight 0).RelPermalink }}">
-    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 4v16l13-8z"/></svg>
-    Bắt đầu &middot; Bài 1
-  </a>
+
+  <h3 class="lib-doc-h">Các bài học</h3>
+  <div class="lib-qlist">
+    {{ range .Sections.ByWeight }}
+    <a class="lib-qcard" href="{{ .RelPermalink }}">
+      <span class="lib-qcard-title">{{ with .Params.lesson }}Bài {{ . }} &middot; {{ end }}{{ .Title }}</span>
+      {{ with .Params.dateRange }}<span class="lib-qcard-meta">{{ . }}</span>{{ end }}
+    </a>
+    {{ end }}
+  </div>
+
   {{ with .Params.source }}
   <p class="lib-source">Nguồn:
     {{ with $.Params.sourceUrl }}<a href="{{ . }}" rel="noopener" target="_blank">{{ $.Params.source }}</a>{{ else }}{{ . }}{{ end }}

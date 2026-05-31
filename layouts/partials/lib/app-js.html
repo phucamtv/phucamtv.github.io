@@ -1,29 +1,39 @@
-{{- /* Mobile rail drawer + font / size picker wiring. Shared. */ -}}
+{{- /* Mobile rail/list drawer wiring + middle-column scroll. Shared. */ -}}
 <script>
 (function () {
   var app = document.querySelector(".lib-app");
   if (!app) return;
 
-  /* ---- mobile drawer ---- */
+  /* ---- mobile drawers (rail = col 1, mid = col 2) ---- */
   var open = function () { app.classList.add("rail-open"); };
-  var close = function () { app.classList.remove("rail-open"); };
-  document.querySelectorAll(".lib-mtrigger").forEach(function (b) { b.addEventListener("click", open); });
+  var openMid = function () { app.classList.add("mid-open"); };
+  var close = function () { app.classList.remove("rail-open"); app.classList.remove("mid-open"); };
+  /* peel the top-most open drawer: rail first (so a click outside the rail closes
+     just the rail and reveals col 2), then the mid */
+  var closeTop = function () {
+    if (app.classList.contains("rail-open")) app.classList.remove("rail-open");
+    else if (app.classList.contains("mid-open")) app.classList.remove("mid-open");
+  };
+  document.querySelectorAll(".lib-mtrigger, .lib-rtrigger").forEach(function (b) { b.addEventListener("click", open); });
+  document.querySelectorAll(".lib-dtrigger").forEach(function (b) { b.addEventListener("click", openMid); });
   var bd = app.querySelector(".lib-app-backdrop");
-  if (bd) bd.addEventListener("click", close);
-  app.querySelectorAll(".lib-rail a").forEach(function (a) { a.addEventListener("click", close); });
+  if (bd) bd.addEventListener("click", closeTop);
+  app.querySelectorAll(".lib-rail a, .lib-mid a").forEach(function (a) { a.addEventListener("click", close); });
   document.addEventListener("keydown", function (e) { if (e.key === "Escape") close(); });
 
-  /* ---- font size picker ---- */
-  var get = function (k, d) { try { return localStorage.getItem(k) || d; } catch (e) { return d; } };
-  var sizeBtns = document.querySelectorAll(".lib-size-btn");
-  var markSize = function () {
-    var cur = get("lib-fs", "2");
-    sizeBtns.forEach(function (b) { b.classList.toggle("is-on", b.dataset.size === cur); });
-  };
-  sizeBtns.forEach(function (b) {
-    b.addEventListener("click", function () { window.libApplyFontSize(b.dataset.size); markSize(); });
-  });
-  markSize();
+  /* ---- touch: swipe in from the right edge to open col 2; swipe right to close the top drawer ---- */
+  var sx = 0, sy = 0, fromR = false;
+  document.addEventListener("touchstart", function (e) {
+    var t = e.touches[0]; sx = t.clientX; sy = t.clientY;
+    fromR = !app.classList.contains("mid-open") && !app.classList.contains("rail-open")
+            && sx >= window.innerWidth - 28;
+  }, { passive: true });
+  document.addEventListener("touchmove", function (e) {
+    var t = e.touches[0], dx = t.clientX - sx, dy = t.clientY - sy;
+    if (Math.abs(dx) < 55 || Math.abs(dy) > 45) return;
+    if (fromR && dx < 0) { openMid(); fromR = false; }
+    else if (dx > 0) { closeTop(); }
+  }, { passive: true });
 
   /* ---- middle column: scroll the active book/chapter into view ---- */
   var midBody = document.querySelector(".lib-mid-body");
