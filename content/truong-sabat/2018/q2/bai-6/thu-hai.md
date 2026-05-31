@@ -14,6 +14,6 @@ Chỉ có một người đọc hời hợt mới có thể sử dụng những 
 
 `Hãy đọc Rô-ma 7:13 một cách cẩn thận. Phao-lô nói gì về việc không chỉ luật pháp mà còn về việc tại sao luật pháp vẫn rất cần thiết?`
 
-Luật pháp không sanh ra sự chết; tội lỗi thì có. Luật pháp cho chúng ta thấy tội lỗi dẫn đến cái chết là như thế nào. Luật pháp rất hoàn hảo, nó chỉ ra tội lỗi. Luật pháp không có câu trả lời đó. Chỉ duy nhất tin lành là chỉ ra được. Quan điểm của Phao-lô là khi các Cơ-đốc nhân như những người được cứu trong Đấng Christ, chúng ta cần hầu việc trong “cách mới của Đức Thánh Linh” (Rô-ma 7:6); điều đó có nghĩa là chúng ta sống trong mối quan hệ đức tin với Đức Chúa Giê-su, tin cậy vào công đức của Ngài và sự công bình của Ngài để cứu rỗi (chủ đề của rất nhiều điều đã xảy ra trong Rô-ma).
+Luật pháp không sanh ra sự chết; tội lỗi thì có. Luật pháp cho chúng ta thấy tội lỗi dẫn đến cái chết là như thế nào. Luật pháp rất hoàn hảo, nó chỉ ra tội lỗi. Luật pháp không có câu trả lời đó. Chỉ duy nhất tin lành là chỉ ra được. Quan điểm của Phao-lô là khi các Cơ-đốc nhân như những người được cứu trong Đấng Cơ-đốc, chúng ta cần hầu việc trong “cách mới của Đức Thánh Linh” (Rô-ma 7:6); điều đó có nghĩa là chúng ta sống trong mối quan hệ đức tin với Đức Chúa Giê-su, tin cậy vào công đức của Ngài và sự công bình của Ngài để cứu rỗi (chủ đề của rất nhiều điều đã xảy ra trong Rô-ma).
 
 `Bạn có kinh nghiệm gì về việc giữ luật pháp cho thấy bạn cần nhu cầu ân điển của Đức Chúa Trời?`

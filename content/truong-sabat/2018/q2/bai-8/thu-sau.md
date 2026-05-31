@@ -16,4 +16,4 @@ Tác giả John Baldwin lập luận rằng: “Giả sử chủ ý thần của
 
 `1. Ê-sai 53:6 “Chúng ta thảy đều như chiên đi lạc, ai theo đường nấy”. Ngôn ngữ trong tiếng Hê-bơ-rơ cho “tất cả chúng ta” là cullanu. Trong cùng một câu Kinh Thánh, Ê-sai nói rằng Chúa đã đặt Đức Chúa Giê-su vào “tội ác của tất cả chúng ta”. Từ “tất cả chúng ta” ở đây cũng là cullanu. Làm thế nào điều này cho chúng ta thấy rằng dù vấn đề tội lỗi có lớn đến đâu giải pháp cho nó là quá đủ để giải quyết?`
 
-`2. Chúng ta có thể học được gì từ tên trộm trên thập tự giá? Giả sử tên trộm đã được tha thứ và bị đưa xuống khỏi thập tự giá và sống sót. Bạn nghĩ cuộc sống của ông ta sẽ khác biệt như thế nào? Câu trả lời đó cho chúng ta thấy điều gì về quyền năng của Đấng Christ sẽ thay đổi cuộc sống của chúng ta?`
+`2. Chúng ta có thể học được gì từ tên trộm trên thập tự giá? Giả sử tên trộm đã được tha thứ và bị đưa xuống khỏi thập tự giá và sống sót. Bạn nghĩ cuộc sống của ông ta sẽ khác biệt như thế nào? Câu trả lời đó cho chúng ta thấy điều gì về quyền năng của Đấng Cơ-đốc sẽ thay đổi cuộc sống của chúng ta?`

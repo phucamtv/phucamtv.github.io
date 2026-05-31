@@ -4,7 +4,7 @@ title: "Lời hứa"
 dayLabel: "Thứ Nhất"
 weight: 2
 ---
-Một trong những lời hứa vĩ đại trong Kinh Thánh được tìm thấy trong Rô-ma 8:1: “Cho nên hiện nay chẳng còn có sự đoán phạt nào cho những kẻ ở trong Đức Chúa Giê-su Christ; vì luật pháp của Thánh Linh sự sống đã nhờ Đức Chúa Giê-su Christ buông tha tôi khỏi luật pháp của sự tội và sự chết”. Những lời này đến như hòn đá tảng, một kết luận cho một loạt tư tưởng đã đến trước đó. Chỉ bằng cách học những điều mà Phao-lô đã nói, chúng ta có thể hiểu rõ hơn về niềm hy vọng và lời hứa được tìm thấy trong đó.
+Một trong những lời hứa vĩ đại trong Kinh Thánh được tìm thấy trong Rô-ma 8:1: “Cho nên hiện nay chẳng còn có sự đoán phạt nào cho những kẻ ở trong Đức Chúa Giê-su Cơ-đốc; vì luật pháp của Thánh Linh sự sống đã nhờ Đức Chúa Giê-su Cơ-đốc buông tha tôi khỏi luật pháp của sự tội và sự chết”. Những lời này đến như hòn đá tảng, một kết luận cho một loạt tư tưởng đã đến trước đó. Chỉ bằng cách học những điều mà Phao-lô đã nói, chúng ta có thể hiểu rõ hơn về niềm hy vọng và lời hứa được tìm thấy trong đó.
 
 `Hãy đọc Rô-ma 7:15-25. Điều quan trọng nào của Phao-lô nói trong những câu Kinh Thánh này khiến những gì ông nói trong Rô-ma 8:1 lại chắc chắn như vậy?`
 

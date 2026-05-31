@@ -10,7 +10,7 @@ Ngoài hai phần chính, sách Khải Huyền còn trình bày một cấu trú
 
 `Hãy đọc Khải Huyền 4:1, 2. Cánh cửa mở tượng trưng cho điều gì? Cảnh tượng này ở đâu? Công-vụ 2:33; 5:31; Ê-phê-sô 1:20; Hê-bơ-rơ 10:12, 13; Thi-thiên 110:1; Khải Huyền 12:5.`
 
-Không lâu sau khi thăng thiên, Đấng Christ đi vào Nơi Thánh trong đền thờ trên trời qua cánh cửa này. Khi Đấng Christ xuất hiện lần đầu tiên trong sách Khải Huyền, Ngài đang đứng trước những chân đèn trong Nơi Thánh của đền thánh trên đất (Khải Huyền 1:10–18).
+Không lâu sau khi thăng thiên, Đấng Cơ-đốc đi vào Nơi Thánh trong đền thờ trên trời qua cánh cửa này. Khi Đấng Cơ-đốc xuất hiện lần đầu tiên trong sách Khải Huyền, Ngài đang đứng trước những chân đèn trong Nơi Thánh của đền thánh trên đất (Khải Huyền 1:10–18).
 
 `Hãy đọc Khải Huyền 11:19. Có điểm quan trọng nào trong sự kiện khi cửa của đền thánh trên trời mở ra, Giăng có thể nhìn thấy được Hòm Giao Ước hiện ra, Hòm Giao Ước đã được đặt ở trong nơi Chí Thánh của đền thờ dưới đất (Lê-vi Ký 16:12–14)?`
 

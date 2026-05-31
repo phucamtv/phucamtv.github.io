@@ -8,7 +8,7 @@ weight: 6
 
 Tin lành được đề cập ở đây như là “đời đời”. Đây là bằng chứng cho thấy Đức Chúa Trời không hề thay đổi. Một Đức Chúa Trời không thay đổi có một tin lành không hề thay đổi. Tin lành đời đời này đảm bảo cho tất cả những ai sẵn lòng chấp nhận nó. Tin lành cho thấy tình yêu không hề đổi thay của Thiên Chúa, và đó là sứ điệp cần rao truyền cho thế gian. Mọi người đều cần một cơ hội để nghe về tin lành ấy, đó là lý do mà Đức Chúa Trời đã kêu gọi dân sự Ngài rao truyền nó.
 
-`“Trước khi sáng thế, Ngài đã chọn chúng ta trong Đấng Christ, đặng làm nên thánh không chỗ trách được trước mặt Đức Chúa Trời, bởi sự thương yêu của Ngài đã định trước cho chúng ta được trở nên con nuôi của Ngài bởi Đức Chúa Giê-su Christ, theo ý tốt của Ngài” (Ê-phê-sô 1:4, 5). Câu Kinh Thánh này nói lên những gì về lẽ thật “đời đời” của tin lành?`
+`“Trước khi sáng thế, Ngài đã chọn chúng ta trong Đấng Cơ-đốc, đặng làm nên thánh không chỗ trách được trước mặt Đức Chúa Trời, bởi sự thương yêu của Ngài đã định trước cho chúng ta được trở nên con nuôi của Ngài bởi Đức Chúa Giê-su Cơ-đốc, theo ý tốt của Ngài” (Ê-phê-sô 1:4, 5). Câu Kinh Thánh này nói lên những gì về lẽ thật “đời đời” của tin lành?`
 
 Được chọn bởi Ngài “trước khi sáng thế”. Nói về tin lành “đời đời”! Ngay cả trước khi sáng thế, Chúa đã dự định là chúng ta sẽ nhận được sự cứu chuộc nơi Ngài.
 
@@ -16,4 +16,4 @@ Nhìn vào những từ sau đây: “được chọn”, “được định s�
 
 Và sự lựa chọn này được biểu hiện như thế nào trong đời sống của người được lựa chọn? “Đặng làm nên thánh không chỗ trách được trước mặt Đức Chúa Trời” (Ê-phê-sô 1:4). Đây cũng là nguyên nhân mà chúng ta được chọn.
 
-`Chúng ta được kêu gọi để rao truyền “tin lành đời đời” cho thế gian như là một phần của sứ điệp cuối cùng trước khi Đấng Christ hồi lai. Tại sao chúng ta phải biết và trải nghiệm thực tế về “tin lành đời đời” trong chính đời sống của chúng ta trước khi chia sẻ chúng cho người khác?`
+`Chúng ta được kêu gọi để rao truyền “tin lành đời đời” cho thế gian như là một phần của sứ điệp cuối cùng trước khi Đấng Cơ-đốc hồi lai. Tại sao chúng ta phải biết và trải nghiệm thực tế về “tin lành đời đời” trong chính đời sống của chúng ta trước khi chia sẻ chúng cho người khác?`

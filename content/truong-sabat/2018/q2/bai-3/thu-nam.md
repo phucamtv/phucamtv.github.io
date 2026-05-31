@@ -1,6 +1,6 @@
 ---
 build: { render: never }
-title: "Đấng Christ trong Sách Khải Huyền: phần hai"
+title: "Đấng Cơ-đốc trong Sách Khải Huyền: phần hai"
 dayLabel: "Thứ Năm"
 weight: 6
 ---
@@ -12,8 +12,8 @@ weight: 6
 
 `Hãy đọc Khải Huyền 22:7, 12, 13. Những câu này cũng nói gì về Đức Chúa Giê-su ?`
 
-“Đức Chúa Giê-su Christ là Đấng An-pha và Ô-mê-ga. Sáng-thế Ký trong Kinh Thánh Cựu Ước và Khải Huyền trong Tân Ước, cả hai đều nói về Đấng Christ. A-đam và Đức Chúa Trời đã được hòa giải nhờ sự vâng lời của A-đam thứ hai, Người đã vượt qua được những sự cám dỗ của Sa-tan và chuộc lại những sai lầm và sự sa ngã đáng hổ thẹn của A-đam”—Ellen G.White Comments, The SDA Bible Commentary, q. 6, tr. 1092. Đúng vậy, Đức Chúa Giê-su là đầu và là rốt. Ngài tạo dựng chúng ta vào lúc ban đầu và cứu chuộc chúng ta vào lúc kết thúc.
+“Đức Chúa Giê-su Cơ-đốc là Đấng An-pha và Ô-mê-ga. Sáng-thế Ký trong Kinh Thánh Cựu Ước và Khải Huyền trong Tân Ước, cả hai đều nói về Đấng Cơ-đốc. A-đam và Đức Chúa Trời đã được hòa giải nhờ sự vâng lời của A-đam thứ hai, Người đã vượt qua được những sự cám dỗ của Sa-tan và chuộc lại những sai lầm và sự sa ngã đáng hổ thẹn của A-đam”—Ellen G.White Comments, The SDA Bible Commentary, q. 6, tr. 1092. Đúng vậy, Đức Chúa Giê-su là đầu và là rốt. Ngài tạo dựng chúng ta vào lúc ban đầu và cứu chuộc chúng ta vào lúc kết thúc.
 
-Từ lúc khởi đầu cho đến lúc kết thúc, sách Khải Huyền không chỉ dạy cho chúng ta về lịch sử mà còn về “Sự mặc thị của Đức Chúa Giê-su Christ”. Một lần nữa, bất kể những gì chúng ta có thể học được về những sự kiện trong ngày cuối cùng, Đấng Christ phải là trọng tâm của tất cả.
+Từ lúc khởi đầu cho đến lúc kết thúc, sách Khải Huyền không chỉ dạy cho chúng ta về lịch sử mà còn về “Sự mặc thị của Đức Chúa Giê-su Cơ-đốc”. Một lần nữa, bất kể những gì chúng ta có thể học được về những sự kiện trong ngày cuối cùng, Đấng Cơ-đốc phải là trọng tâm của tất cả.
 
-`Có những cách nào giúp chúng ta giữ Đấng Christ trở thành trọng tâm của chúng ta mỗi ngày?`
+`Có những cách nào giúp chúng ta giữ Đấng Cơ-đốc trở thành trọng tâm của chúng ta mỗi ngày?`

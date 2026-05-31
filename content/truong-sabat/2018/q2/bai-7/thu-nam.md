@@ -4,9 +4,9 @@ title: "Sử dụng những ta-lâng của chúng ta"
 dayLabel: "Thứ Năm"
 weight: 6
 ---
-`Hãy đọc Ma-thi-ơ 25: 13-30. Bằng cách sử dụng những ơn tứ của chúng ta, điều đó đóng vai trò nào trong việc chuẩn bị cho sự trở lại của Đấng Christ?`
+`Hãy đọc Ma-thi-ơ 25: 13-30. Bằng cách sử dụng những ơn tứ của chúng ta, điều đó đóng vai trò nào trong việc chuẩn bị cho sự trở lại của Đấng Cơ-đốc?`
 
-Mặc dù ở đây Đức Chúa Giê-su đã nói về một ví dụ khác hơn lần trước, cả hai đều nói về việc sẵn sàng cho sự trở lại của Đấng Christ. Cả hai câu chuyện đều là cách đối xử với những người đã sẵn sàng và những người không. Cả hai đều cho thấy số phận của những người, bởi sự thờ ơ của họ về tinh thần, phải đối mặt với sự mất mát đời đời.
+Mặc dù ở đây Đức Chúa Giê-su đã nói về một ví dụ khác hơn lần trước, cả hai đều nói về việc sẵn sàng cho sự trở lại của Đấng Cơ-đốc. Cả hai câu chuyện đều là cách đối xử với những người đã sẵn sàng và những người không. Cả hai đều cho thấy số phận của những người, bởi sự thờ ơ của họ về tinh thần, phải đối mặt với sự mất mát đời đời.
 
 Cũng như dầu tượng trưng cho Đức Thánh Linh trong câu chuyện về mười người nữ đồng trinh, “ta-lâng" (Ma-thi-ơ 25:15) là tài năng, là từ Hy Lạp (talanta) trong ngôn ngữ gốc. "Những tài năng đại diện cho những ân huệ đặc biệt của Đức Thánh Linh, cùng với tất cả các tài năng tự nhiên."—Bản Kinh Thánh SDA Commentary, q.5, tr.510.
 

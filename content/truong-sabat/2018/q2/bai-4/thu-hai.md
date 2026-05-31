@@ -1,6 +1,6 @@
 ---
 build: { render: never }
-title: "Tình yêu của đấng Christ"
+title: "Tình yêu của đấng Cơ-đốc"
 dayLabel: "Thứ Hai"
 weight: 3
 ---
@@ -8,12 +8,12 @@ Tội lỗi là thứ đã chia rẽ nhân loại ra khỏi Đức Chúa Trời,
 
 `Hãy đọc Giăng 1:1-3, 14 và Phi-líp 2:5-8 đã dạy gì về Đức Chúa Giê-su?`
 
-Đấng Christ là sự sống đời đời và không lệ thuộc vào bất cứ ai hay bất cứ điều gì cho sự hiện hữu của Ngài. Ngài là Đức Chúa Trời không phải chỉ là bề ngoài mà chính là hiện thân của Đức Chúa Trời. Bản thể quan trọng của Ngài chính là Đấng đại diện và vĩnh hằng. Đức Chúa Giê-su đã giữ thần tính đó nhưng đã trở thành người để gìn giữ lại luật pháp trong xác thịt con người và chết như một Đấng chịu thay cho tất cả những ai vi phạm luật lệ đó, những kẻ đó chính là chúng ta (Rô-ma 3:23).
+Đấng Cơ-đốc là sự sống đời đời và không lệ thuộc vào bất cứ ai hay bất cứ điều gì cho sự hiện hữu của Ngài. Ngài là Đức Chúa Trời không phải chỉ là bề ngoài mà chính là hiện thân của Đức Chúa Trời. Bản thể quan trọng của Ngài chính là Đấng đại diện và vĩnh hằng. Đức Chúa Giê-su đã giữ thần tính đó nhưng đã trở thành người để gìn giữ lại luật pháp trong xác thịt con người và chết như một Đấng chịu thay cho tất cả những ai vi phạm luật lệ đó, những kẻ đó chính là chúng ta (Rô-ma 3:23).
 
-Đấng Christ đã trở thành người, không có bất kỳ một ưu thế nào hơn những con người khác. Ngài đã gìn giữ luật pháp của Đức Chúa Trời, không phải nhờ quyền năng thần tính trong Ngài nhưng vẫn giữ nhân tính như mọi người.
+Đấng Cơ-đốc đã trở thành người, không có bất kỳ một ưu thế nào hơn những con người khác. Ngài đã gìn giữ luật pháp của Đức Chúa Trời, không phải nhờ quyền năng thần tính trong Ngài nhưng vẫn giữ nhân tính như mọi người.
 
 Đức Chúa Giê-su hoàn toàn là Chúa và cũng hoàn toàn là con người. Điều này có nghĩa là Đấng duy trì “lấy lời có quyền phép Ngài nâng đỡ muôn vật” (Hê-bơ-rơ 1:3) là cùng một Đấng đã được tìm thấy như là một “con trẻ đang nằm trong máng cỏ” (Lu-ca 2:16). Điều này có nghĩa là chính Đấng ấy “có trước muôn vật và muôn vật đứng vững trong Ngài” (Cô-lô-se 1:17) là cùng một Đấng, khi còn là một cậu bé, “khôn ngoan càng thêm, thân hình càng lớn” (Lu-ca 2:52). Ấy có nghĩa là chính Đấng ấy mà không ai “chẳng vật chi làm nên mà không bởi Ngài” (Giăng 1:3) cũng là Đấng “đã bị treo trên cây gỗ và giết đi” (Công-vụ Các Sứ-đồ 5:30).
 
-Nếu tất cả những điều này cho chúng ta thấy tình yêu của Đấng Christ đối với chúng ta, và tình yêu của Đấng Christ đối với chúng ta là sự biểu lộ tình yêu của Đức Chúa Cha, thì không có gì ngạc nhiên rằng chúng ta có rất nhiều lý do để vui mừng và biết ơn.
+Nếu tất cả những điều này cho chúng ta thấy tình yêu của Đấng Cơ-đốc đối với chúng ta, và tình yêu của Đấng Cơ-đốc đối với chúng ta là sự biểu lộ tình yêu của Đức Chúa Cha, thì không có gì ngạc nhiên rằng chúng ta có rất nhiều lý do để vui mừng và biết ơn.
 
 `Hãy đọc Rô-ma 8:38, 39. Làm thế nào mọi thứ mà chúng ta đọc được trong bài học hôm nay mang đến lý do mạnh mẽ để tin vào những gì Phao-lô nói với chúng ta ở đây?`

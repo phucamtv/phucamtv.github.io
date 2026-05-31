@@ -22,4 +22,4 @@ Hãy đọc những câu Kinh Thánh dưới đây. Những hy vọng và sự t
 
 `1 Giăng 5:11-13`
 
-Chúng ta được kêu gọi, thậm chí là mệnh lệnh để sống đời sống nên thánh, nhưng những cách sống này là kết quả của việc được cứu bởi Đấng Christ chứ không phải là phương tiện để đạt được sự cứu rỗi đó. Mặc dù chúng ta phải trung thành, ngay cả đối với cái chết, chúng ta phải luôn luôn trông cậy vào ân tứ như niềm hy vọng duy nhất cho chúng ta về sự cứu rỗi. Dân sự của Đức Chúa Trời sẽ được tìm thấy lòng trung tín và vâng phục trong ngày cuối cùng, sự trung tín và vâng phục đó nảy sinh từ sự tin cậy những gì mà Đấng Christ đã làm cho chúng ta.
+Chúng ta được kêu gọi, thậm chí là mệnh lệnh để sống đời sống nên thánh, nhưng những cách sống này là kết quả của việc được cứu bởi Đấng Cơ-đốc chứ không phải là phương tiện để đạt được sự cứu rỗi đó. Mặc dù chúng ta phải trung thành, ngay cả đối với cái chết, chúng ta phải luôn luôn trông cậy vào ân tứ như niềm hy vọng duy nhất cho chúng ta về sự cứu rỗi. Dân sự của Đức Chúa Trời sẽ được tìm thấy lòng trung tín và vâng phục trong ngày cuối cùng, sự trung tín và vâng phục đó nảy sinh từ sự tin cậy những gì mà Đấng Cơ-đốc đã làm cho chúng ta.

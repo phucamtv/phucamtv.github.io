@@ -8,7 +8,7 @@ Khái niệm Ba ngôi Đức Chúa Trời được tìm thấy thông qua Kinh T
 
 `Hãy đọc Khải Huyền 12:17; 13: 1, 2. Những gì được mô tả ở đây?`
 
-Con rồng ở đây đã được coi là phiên bảng giả của Đức Cha, vì con rồng đang kiểm soát tất cả. Nó cũng ban cho quyền năng và uy quyền; và là ngôi con thú dưới biển, phiên bảng giả của Đấng Christ. Tại sao quyền lực thứ hai được xem là Đấng Christ giả?
+Con rồng ở đây đã được coi là phiên bảng giả của Đức Cha, vì con rồng đang kiểm soát tất cả. Nó cũng ban cho quyền năng và uy quyền; và là ngôi con thú dưới biển, phiên bảng giả của Đấng Cơ-đốc. Tại sao quyền lực thứ hai được xem là Đấng Cơ-đốc giả?
 
 `Hãy đọc Khải Huyền 13: 2-5. Đặc điểm của con thú dưới biển này là gì?`
 

@@ -4,7 +4,7 @@ title: "Luật pháp và Phúc âm"
 dayLabel: "Thứ Năm"
 weight: 6
 ---
-Vì là tín hữu Cơ-đốc Phục Lâm giữ ngày thứ bảy, chúng ta gánh vác trọng trách to lớn với cái danh mà chúng ta đại diện. Đối với chúng ta, ngày thứ bảy đại diện cho ngày Sa-bát thánh, là đặc trưng cho đức tin của chúng ta, đó không chỉ là một điều răn mà thôi, mà còn ngụ ý, đức tin trong cả mười điều. Cơ-đốc Phục Lâm chỉ về niềm tin của chúng ta vào ngày tái lâm của Đức Chúa Giê-su, một lẽ thật có thể tồn tại chỉ vì những gì Đấng Christ đã làm bằng sự chết chuộc tội của Ngài trong lần đến đầu tiên của Ngài. Do đó, danh xưng của chúng ta Cơ-đốc Phục Lâm chỉ ra hai phần quan trọng và không thể tách rời của lẽ thật hiện nay: Luật pháp và Phúc âm.
+Vì là tín hữu Cơ-đốc Phục Lâm giữ ngày thứ bảy, chúng ta gánh vác trọng trách to lớn với cái danh mà chúng ta đại diện. Đối với chúng ta, ngày thứ bảy đại diện cho ngày Sa-bát thánh, là đặc trưng cho đức tin của chúng ta, đó không chỉ là một điều răn mà thôi, mà còn ngụ ý, đức tin trong cả mười điều. Cơ-đốc Phục Lâm chỉ về niềm tin của chúng ta vào ngày tái lâm của Đức Chúa Giê-su, một lẽ thật có thể tồn tại chỉ vì những gì Đấng Cơ-đốc đã làm bằng sự chết chuộc tội của Ngài trong lần đến đầu tiên của Ngài. Do đó, danh xưng của chúng ta Cơ-đốc Phục Lâm chỉ ra hai phần quan trọng và không thể tách rời của lẽ thật hiện nay: Luật pháp và Phúc âm.
 
 **Những câu Kinh Thánh nàychỉ ra sự liên kết chặt chẽ giữa luật pháp và phúc âm như thế nào?**
 
@@ -14,7 +14,7 @@ Vì là tín hữu Cơ-đốc Phục Lâm giữ ngày thứ bảy, chúng ta gá
 
 `Rô-ma 7:7`
 
-Phúc âm là tin lành,tin lành đó cho dù chúng ta đã phạm tội vi phạm luật pháp của Đức Chúa Trời, nhưng qua đức tin trong Đấng Christ đã làm trên cây thập tự giá chúng ta có thể được tha thứ tội lỗi của chính mình, vì sự vi phạm pháp luật của Ngài. Ngoài ra, chúng ta đã được ban cho sức mạnh để vâng phục luật pháp của Ngài một cách trọn vẹn.
+Phúc âm là tin lành,tin lành đó cho dù chúng ta đã phạm tội vi phạm luật pháp của Đức Chúa Trời, nhưng qua đức tin trong Đấng Cơ-đốc đã làm trên cây thập tự giá chúng ta có thể được tha thứ tội lỗi của chính mình, vì sự vi phạm pháp luật của Ngài. Ngoài ra, chúng ta đã được ban cho sức mạnh để vâng phục luật pháp của Ngài một cách trọn vẹn.
 
 Không có gì bất ngờ, trong bối cảnh của những ngày cuối cùng, khi cuộc chiến khốc liệt diễn ra tàn bạo, dân sự của Đức Chúa Trời được miêu tả một cách cụ thể.
 

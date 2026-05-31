@@ -10,11 +10,11 @@ Sau bài giảng của Ngài trong Ma-thi-ơ 24 về những dấu chỉ về s�
 
 Cả mười người nữ đồng trinh có đèn, và tất cả đi ra để gặp chàng rể, có nghĩa là tất cả họ đều mong chờ sự hiện đến của Ngài. Có một sự chậm trễ, và tất cả những tín hữu này đều ngủ quên khi Chúa đến. Thình lình, trong đêm khuya, tất cả đều được đánh thức: chàng rể đang đến (Ma-thi-ơ 25: 1-6).
 
-Những cô gái ngu dại giật mình, họ không chuẩn bị trước. Tại sao? Một phiên bản Kinh Thánh nói rằng "đèn của chúng tôi đã biến mất" (Ma-thi-ơ 25: 8). Các phiên bản khác, đúng với bản gốc tiếng Hy Lạp, nói rằng những chiếc đèn “đã cạn dầu”. Tuy ngọn lửa vẫn nhấp nháy, họ vẫn còn chút dầu, nhưng không đủ để chuẩn bị gặp Đấng Christ.
+Những cô gái ngu dại giật mình, họ không chuẩn bị trước. Tại sao? Một phiên bản Kinh Thánh nói rằng "đèn của chúng tôi đã biến mất" (Ma-thi-ơ 25: 8). Các phiên bản khác, đúng với bản gốc tiếng Hy Lạp, nói rằng những chiếc đèn “đã cạn dầu”. Tuy ngọn lửa vẫn nhấp nháy, họ vẫn còn chút dầu, nhưng không đủ để chuẩn bị gặp Đấng Cơ-đốc.
 
 Vậy vấn đề là gì?
 
-Những cô gái này đại diện cho những tín hữu đang chờ đợi Đấng Christ trở lại nhưng họ lại thiếu đi những kinh nghiệm. Họ có một ít dầu, Đức Thánh Linh đang hiện diện trong cuộc sống của họ, nhưng ngọn đèn Đức Thánh Linh chỉ đơn giản là nhấp nháy; và họ hài lòng với ngọn đèn nhấp nháy đó .
+Những cô gái này đại diện cho những tín hữu đang chờ đợi Đấng Cơ-đốc trở lại nhưng họ lại thiếu đi những kinh nghiệm. Họ có một ít dầu, Đức Thánh Linh đang hiện diện trong cuộc sống của họ, nhưng ngọn đèn Đức Thánh Linh chỉ đơn giản là nhấp nháy; và họ hài lòng với ngọn đèn nhấp nháy đó .
 
 "Đức Thánh Linh làm việc theo tấm lòng của con người, theo ý muốn và sự ưng thuận của con người, đặt vào con người một bản tính mới; thế nhưng câu chuyện về mười người nữ đồng trinh lại nói về sự hời hợt của họ. Họ không hiểu rõ Chúa, không nghiên cứu tính cách của Ngài; không thông công với Ngài; do đó họ không biết làm thế nào để tin tưởng, làm thế nào để tìm và sống. Sự phục vụ của họ đối với Đức Chúa Trời biến thành một hình thức. "—Ellen G.White, Bài học về Đức Chúa Giê-su, trang 411.
 

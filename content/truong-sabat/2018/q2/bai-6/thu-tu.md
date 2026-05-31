@@ -6,9 +6,9 @@ weight: 5
 ---
 Như chúng ta đã thấy vào ngày học hôm qua, các văn bản thường được sử dụng để ủng hộ ý tưởng về ngày Chủ nhật thay thế ngày Sa-bát không có ý nghĩa gì. Trên thực tế, mọi sự liên quan đến ngày Sa-bát thứ bảy trong Tân Ước cho thấy rằng nó vẫn được giữ như một trong Mười Điều Răn của Đức Chúa Trời.
 
-`Hãy đọc Lu-ca 4:14-16; 23:55, 56. Những đoạn Kinh Thánh này nói gì về việc ngày Sa-bát thứ bảy trước và sau sự chết của Đấng Christ?`
+`Hãy đọc Lu-ca 4:14-16; 23:55, 56. Những đoạn Kinh Thánh này nói gì về việc ngày Sa-bát thứ bảy trước và sau sự chết của Đấng Cơ-đốc?`
 
-Chú ý làm thế nào mà những phụ nữ đã từng ở với Đấng Christ, “Ngày Sa-bát, họ nghỉ ngơi theo luật lệ” (Lu-ca 23:56). Rõ ràng rằng, luật lệ ở đây chính là điều răn thứ tư, được viết trên đá ở Si-nai. Cho nên bất cứ điều gì họ đã học được từ thời của Đức Chúa Giê-su, chẳng có dấu hiệu nào cho thấy họ đã học được từ Ngài bất cứ điều gì khác hơn là giữ các điều răn của Đức Chúa Trời, bao gồm điều răn về ngày Sa-bát. Thật vậy, Đấng Christ đã phán với môn đồ Ngài rằng “Nếu các ngươi yêu mến ta, thì giữ gìn các điều răn ta” (Giăng 14:15). Những điều răn mà chính Ngài đã giữ, bao gồm ngày Sa-bát thứ bảy. Nếu Chủ nhật là một ngày thay thế cho ngày Sa-bát, những phụ nữ này đã chẳng biết gì về nó.
+Chú ý làm thế nào mà những phụ nữ đã từng ở với Đấng Cơ-đốc, “Ngày Sa-bát, họ nghỉ ngơi theo luật lệ” (Lu-ca 23:56). Rõ ràng rằng, luật lệ ở đây chính là điều răn thứ tư, được viết trên đá ở Si-nai. Cho nên bất cứ điều gì họ đã học được từ thời của Đức Chúa Giê-su, chẳng có dấu hiệu nào cho thấy họ đã học được từ Ngài bất cứ điều gì khác hơn là giữ các điều răn của Đức Chúa Trời, bao gồm điều răn về ngày Sa-bát. Thật vậy, Đấng Cơ-đốc đã phán với môn đồ Ngài rằng “Nếu các ngươi yêu mến ta, thì giữ gìn các điều răn ta” (Giăng 14:15). Những điều răn mà chính Ngài đã giữ, bao gồm ngày Sa-bát thứ bảy. Nếu Chủ nhật là một ngày thay thế cho ngày Sa-bát, những phụ nữ này đã chẳng biết gì về nó.
 
 `Hãy đọc Công-vụ 13:14, 42-44; 16:12-13. Bằng chứng nào những câu Kinh Thánh này đưa ra cho việc giữ ngày Sa-bát thứ bảy? Bằng chứng nào những câu Kinh Thánh này đưa ra cho việc giữ ngày Chủ nhật?`
 

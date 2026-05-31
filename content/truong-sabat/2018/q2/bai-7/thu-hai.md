@@ -6,7 +6,7 @@ weight: 3
 ---
 `Ma-thi-ơ 24: 9 và Khải Huyền13: 11-17. Có sự tương đồng nào tìm thấy giữa những gì Đức Chúa Giê-su nói trong Ma-thi-ơ và điều mà Ngài đã truyền soi dẫn cho Giăng để viết trong Khải Huyền?`
 
-Đấng Christ đã lo lắng cho dân sự Ngài trong thời kỳ cuối cùng về sự lừa dối toàn cầu khiến các quốc gia chống lại đức tin thật sự và áp đặt một sự thờ phượng sai lầm trên thế gian. Những người vững vàng sẽ phải đối mặt với hận thù, khốn khổ, và thậm chí cả cái chết.
+Đấng Cơ-đốc đã lo lắng cho dân sự Ngài trong thời kỳ cuối cùng về sự lừa dối toàn cầu khiến các quốc gia chống lại đức tin thật sự và áp đặt một sự thờ phượng sai lầm trên thế gian. Những người vững vàng sẽ phải đối mặt với hận thù, khốn khổ, và thậm chí cả cái chết.
 
 `Hãy đọc Ma-thi-ơ 24:13. Đâu là chìa khóa để được cứu và để giữ được sự trung tín, thậm chí khi bạn đang đứng giữa sự phản đối của toàn thế gian?`
 

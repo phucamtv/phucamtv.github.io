@@ -8,7 +8,7 @@ Mặc dù sự tái lâm của Chúa là quan trọng và trung tâm điểm, nh
 
 Thật chúng ta cảm tạ vì sự dạy dỗ này của họ hoàn toàn sai; nếu không chúng ta sẽ chẳng có niềm hy vọng hay trông mong gì cho tương lai?
 
-Đọc những câu Kinh Thánh sau đây về sự tái lâm của Chúa, chúng cho biết gì về sự trở lại của Đấng Christ?
+Đọc những câu Kinh Thánh sau đây về sự tái lâm của Chúa, chúng cho biết gì về sự trở lại của Đấng Cơ-đốc?
 
 `Ma-thi-ơ 24:30`
 

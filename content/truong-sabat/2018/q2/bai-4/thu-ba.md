@@ -6,15 +6,15 @@ weight: 4
 ---
 Đức Thánh Linh đã bị hiểu sai, cũng giống như khi xảy ra với Đức Chúa Cha. Một số nhà thần học đã nghĩ đến Đức Thánh Linh như tình yêu giữa Đức Chúa Cha và Đức Chúa Con. Nói cách khác, Đức Thánh Linh đơn thuần là tình yêu giữa Đức Cha và Đức Con. Điều này có nghĩa là Ngài tạo nên mối quan hệ giữa hai Ngôi của Đức Chúa Trời và không phải Ngài.
 
-Tuy nhiên, Kinh Thánh chứng minh được nhân cách của Ngài. Cơ-đốc nhân là những người được báp-têm trong danh của Ngài cùng với Cha và Con (Ma-thi-ơ 28:19). Thánh Linh sẽ vinh danh Đấng Christ (Giăng 16:14). Thánh Linh sẽ phán xét con người (Giăng 16:8). Ngài có thể buồn giận (Ê-phê-sô 4:30). Ngài là Đấng Yên Ủi (Giăng 14:16), Đấng Mưu luận, Đấng Khuyên bảo. Ngài dạy dỗ (Lu-ca 12:12), cầu khẩn (Rô-ma 8:26), và thánh hóa (1 Phi-e-rơ 1:2). Đấng Christ phán rằng Thánh Linh sẽ dẫn con người đến mọi lẽ thật (Giăng 16:13).
+Tuy nhiên, Kinh Thánh chứng minh được nhân cách của Ngài. Cơ-đốc nhân là những người được báp-têm trong danh của Ngài cùng với Cha và Con (Ma-thi-ơ 28:19). Thánh Linh sẽ vinh danh Đấng Cơ-đốc (Giăng 16:14). Thánh Linh sẽ phán xét con người (Giăng 16:8). Ngài có thể buồn giận (Ê-phê-sô 4:30). Ngài là Đấng Yên Ủi (Giăng 14:16), Đấng Mưu luận, Đấng Khuyên bảo. Ngài dạy dỗ (Lu-ca 12:12), cầu khẩn (Rô-ma 8:26), và thánh hóa (1 Phi-e-rơ 1:2). Đấng Cơ-đốc phán rằng Thánh Linh sẽ dẫn con người đến mọi lẽ thật (Giăng 16:13).
 
 Tóm lại, Đức Thánh Linh chính là Đức Chúa Trời, cũng như là Đức Cha và Đức Con. Hiệp lại cùng nhau, họ chính là một Đấng, Đức Chúa Trời.
 
 `Mọi thứ Đức Thánh Linh làm đều bày tỏ tình yêu thiêng liêng. Hãy kể ra một số điều Ngài đã làm. Lu-ca 12:12, Giăng 16:8-13, Công-vụ Các Sứ-đồ 13:2.`
 
-Bằng chứng tuyệt vời nhất để nói Đức Thánh Linh chính là Đức Chúa Trời là hiện thân của Đấng Christ. Đức Chúa Giê-su được sinh ra bởi Đức Thánh Linh (Ma-thi-ơ 1:20). Chỉ duy nhất có Đức Chúa Trời có thể “làm thành” điều đó.
+Bằng chứng tuyệt vời nhất để nói Đức Thánh Linh chính là Đức Chúa Trời là hiện thân của Đấng Cơ-đốc. Đức Chúa Giê-su được sinh ra bởi Đức Thánh Linh (Ma-thi-ơ 1:20). Chỉ duy nhất có Đức Chúa Trời có thể “làm thành” điều đó.
 
-Đức Thánh Linh có thể thực hiện hai phép lạ đối nghịch cho Đấng Christ. Trước tiên, Ngài đã đưa Đấng Christ hiện diện với Ma-ri qua thai nhi. Đấng Christ đã thăng thiên trong thân thể của loài người, bị hạn chế trong thân thể ấy. Thứ hai, Đức Thánh Linh mang đến Đấng Christ sự hạn chế bởi hình hài nhân loại của Ngài và trong một phép lạ không thể giải thích, Ngài ở cùng toàn thể Cơ-đốc nhân trên toàn thế gian.
+Đức Thánh Linh có thể thực hiện hai phép lạ đối nghịch cho Đấng Cơ-đốc. Trước tiên, Ngài đã đưa Đấng Cơ-đốc hiện diện với Ma-ri qua thai nhi. Đấng Cơ-đốc đã thăng thiên trong thân thể của loài người, bị hạn chế trong thân thể ấy. Thứ hai, Đức Thánh Linh mang đến Đấng Cơ-đốc sự hạn chế bởi hình hài nhân loại của Ngài và trong một phép lạ không thể giải thích, Ngài ở cùng toàn thể Cơ-đốc nhân trên toàn thế gian.
 
 Do đó, Đức Thánh Linh, cùng với Đức Cha và Đức Con, đang làm việc thay chúng ta. “Đức Chúa Trời đã động lòng thương xót đối với loài người, và Đức Cha, Đức Con và Đức Thánh Linh đã dâng hiến bản thân để làm việc trong kế hoạch cứu chuộc.”—Ellen G.White, chức vụ chữa bệnh, trang 22.
 
