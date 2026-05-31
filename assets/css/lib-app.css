@@ -484,6 +484,22 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 /* detail: the article feed (home + month archive) */
 .lib-doc .home-feed { margin-top: 22px; }
 
+/* ============================================================
+   Tác giả (authors) — list (no-mid grid) + detail profile
+   ============================================================ */
+/* col 2: all-authors list */
+.lib-mid--authors .lib-author-avatar { width: 30px; height: 30px; flex: none; border-radius: 50%; object-fit: cover; }
+/* detail: author profile header */
+.lib-doc--author .author-hero { display: flex; align-items: center; gap: 18px; margin-bottom: 8px; }
+.lib-doc--author .author-hero-avatar { width: 84px; height: 84px; flex: none; border-radius: 50%; object-fit: cover; box-shadow: var(--kt-sh-sm); }
+.lib-doc--author .author-hero-id { min-width: 0; }
+.lib-doc--author .author-hero-country { color: var(--kt-text-2); font-size: calc(15px * var(--app-fs)); margin: 6px 0 0; }
+.lib-doc--author .author-hero-links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.lib-doc--author .author-hero-link { display: grid; place-items: center; width: 34px; height: 34px; border-radius: 9px; color: var(--kt-text-2); background: var(--kt-sunken); transition: color .14s, background .14s; }
+.lib-doc--author .author-hero-link:hover { color: #fff; background: var(--kt-accent-deep); }
+.lib-doc--author .author-hero-link svg { width: 17px; height: 17px; }
+.lib-doc--author .author-bio { margin-top: 22px; }
+
 /* chapter body fix-ups carried over from the old readers */
 .lib-doc .content .ch-iq { font-style: italic; color: var(--kt-accent-deep); }
 .lib-doc .content .ch-cite { font-weight: 600; color: var(--kt-accent-deep); }

@@ -1,11 +1,9 @@
 {{ define "main" }}
-<section class="list" style="max-width:800px">
-  <nav class="breadcrumb">
-    <a href="{{ "/" | relURL }}">Home</a>
-    <span class="breadcrumb-sep">&rsaquo;</span>
-    <span>Các tác giả</span>
-  </nav>
-  <h1>Tác giả</h1>
+<div class="lib-doc lib-doc--authors">
+  <button class="lib-mtrigger lib-mtrigger-solo" type="button" aria-label="Mở thư viện">
+    {{ partial "lib/mark.html" . }}
+  </button>
+  <h1 class="lib-doc-title">Tác giả</h1>
   <div class="author-grid">
     {{ range .Pages }}
     {{ $slug := .Params.slug }}
@@ -33,5 +31,5 @@
     {{ end }}
     {{ end }}
   </div>
-</section>
+</div>
 {{ end }}

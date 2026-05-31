@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  {{- partial "head.html" . -}}
+</head>
+<body class="lib-app-body">
+  {{- $single := eq .Kind "page" -}}
+  <div class="lib-app{{ if not $single }} no-mid{{ end }}">
+    <div class="lib-app-backdrop"></div>
+    {{- partial "lib/rail.html" (dict "active" "authors") -}}
+    {{- if $single }}{{- partial "authors/mid.html" . -}}{{- end }}
+    <main class="lib-detail">
+      <div class="lib-detail-scroll">
+        {{- block "main" . }}{{- end }}
+      </div>
+    </main>
+  </div>
+  {{- partial "lib/app-js.html" . -}}
+</body>
+</html>
