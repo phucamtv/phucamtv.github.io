@@ -1,159 +1,32 @@
 {{ define "main" }}
-{{ $hymns := sort .Pages "Weight" }}
-{{ $first := index $hymns 0 }}
-<div class="tc-tv" id="tc-tv">
-  <div class="tc-grain" aria-hidden="true"></div>
-
-  <div class="tc-tv-top">
-    <h1 class="tc-tv-wordmark">Thánh Ca</h1>
-    <a class="tc-home" href="{{ "/" | relURL }}" aria-label="Về trang chủ">
-      <span class="tc-home-cross" aria-hidden="true">✚</span>
-      <span>Phúc Âm</span>
-    </a>
+{{- $hymns := sort .Pages "Weight" -}}
+{{- $logo := `<span class="lib-rail-mark"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg></span>` -}}
+<div class="lib-doc">
+  <button class="lib-mtrigger lib-mtrigger-solo" type="button" aria-label="Mở thư viện">{{ $logo | safeHTML }}</button>
+  <div class="lib-doc-eyebrow">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
+    Thánh Ca
   </div>
+  <h1 class="lib-doc-title">{{ .Title }}</h1>
+  <p class="lib-doc-sub">{{ with .Description }}{{ . }} · {{ end }}{{ len $hymns }} bài</p>
 
-  <section class="tc-stage" id="tc-stage">
-    <div class="tc-stage-backdrop" id="tc-backdrop" style="background-image:url('https://i.ytimg.com/vi/{{ $first.Params.youtube }}/hqdefault.jpg')"></div>
-    <div class="tc-stage-scrim" aria-hidden="true"></div>
-    <div class="tc-stage-player" id="tc-player"></div>
-    <button class="tc-stage-close" id="tc-close" type="button" aria-label="Đóng trình phát">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-    </button>
-    <div class="tc-stage-content" id="tc-stage-content">
-      <span class="tc-stage-num" id="tc-num" aria-hidden="true">{{ with $first.Params.hymnNumber }}{{ . }}{{ end }}</span>
-      <div class="tc-stage-info">
-        <span class="tc-stage-eyebrow">Đang chọn</span>
-        <h2 class="tc-stage-title" id="tc-title">{{ $first.Title }}</h2>
-        <p class="tc-stage-sub" id="tc-sub"{{ if not $first.Params.titleEn }} style="display:none"{{ end }}>{{ with $first.Params.titleEn }}{{ . }}{{ end }}</p>
-        <div class="tc-stage-meta" id="tc-meta">
-          {{ with $first.Params.performer }}<span>{{ . }}</span>{{ end }}
-          {{ with $first.Params.hymnNumber }}<span>Thánh Ca Cơ-đốc #{{ . }}</span>{{ end }}
-        </div>
-        <div class="tc-stage-actions">
-          <button class="tc-play-btn" id="tc-play" type="button">
-            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="6,4 20,12 6,20"/></svg>
-            <span>Phát</span>
-          </button>
-          <a class="tc-open-link" id="tc-open" href="{{ $first.RelPermalink }}">Mở trang</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="tc-rail-wrap">
-    <div class="tc-rail-head">
-      <span class="tc-rail-title">Tuyển tập</span>
-      <span class="tc-rail-count">{{ len $hymns }} bài</span>
-    </div>
-    <div class="tc-rail" id="tc-rail" role="listbox" aria-label="Danh sách thánh ca">
-      {{ range $i, $h := $hymns }}
-      <button class="tc-poster{{ if eq $i 0 }} is-active{{ end }}" type="button" role="option"
-        data-index="{{ $i }}"
-        data-id="{{ $h.Params.youtube }}"
-        data-title="{{ $h.Title }}"
-        data-sub="{{ with $h.Params.titleEn }}{{ . }}{{ end }}"
-        data-perf="{{ with $h.Params.performer }}{{ . }}{{ end }}"
-        data-num="{{ with $h.Params.hymnNumber }}{{ . }}{{ end }}"
-        data-href="{{ $h.RelPermalink }}">
-        <span class="tc-poster-thumb">
-          <img src="https://i.ytimg.com/vi/{{ $h.Params.youtube }}/hqdefault.jpg" alt="{{ $h.Title }}" loading="lazy">
-          {{ with $h.Params.hymnNumber }}<span class="tc-poster-badge">#{{ . }}</span>{{ end }}
-          <span class="tc-poster-play" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="currentColor"><polygon points="6,4 20,12 6,20"/></svg>
-          </span>
+  <div class="tc-grid">
+    {{- range $hymns -}}
+    <a class="tc-card" href="{{ .RelPermalink }}">
+      <span class="tc-card-thumb">
+        <img src="https://i.ytimg.com/vi/{{ .Params.youtube }}/hqdefault.jpg" alt="{{ .Title }}" loading="lazy">
+        {{ with .Params.hymnNumber }}<span class="tc-card-badge">#{{ . }}</span>{{ end }}
+        <span class="tc-card-play" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="currentColor"><polygon points="6,4 20,12 6,20"/></svg>
         </span>
-        <span class="tc-poster-cap">
-          <span class="tc-poster-name">{{ $h.Title }}</span>
-          {{ with $h.Params.titleEn }}<span class="tc-poster-sub">{{ . }}</span>{{ end }}
-        </span>
-      </button>
-      {{ end }}
-    </div>
-  </section>
+      </span>
+      <span class="tc-card-meta">
+        <span class="tc-card-title">{{ .Title }}</span>
+        {{ with .Params.titleEn }}<span class="tc-card-en">{{ . }}</span>{{ end }}
+        {{ with .Params.performer }}<span class="tc-card-by">{{ . }}</span>{{ end }}
+      </span>
+    </a>
+    {{- end -}}
+  </div>
 </div>
-
-<script>
-(function () {
-  var tv = document.getElementById("tc-tv");
-  if (!tv) return;
-  var rail = document.getElementById("tc-rail");
-  var posters = Array.prototype.slice.call(rail.querySelectorAll(".tc-poster"));
-  if (!posters.length) return;
-  var backdrop = document.getElementById("tc-backdrop");
-  var player = document.getElementById("tc-player");
-  var elTitle = document.getElementById("tc-title");
-  var elSub = document.getElementById("tc-sub");
-  var elMeta = document.getElementById("tc-meta");
-  var elNum = document.getElementById("tc-num");
-  var elOpen = document.getElementById("tc-open");
-  var playBtn = document.getElementById("tc-play");
-  var closeBtn = document.getElementById("tc-close");
-  var current = 0;
-  var playing = false;
-
-  function thumb(id) { return "https://i.ytimg.com/vi/" + id + "/hqdefault.jpg"; }
-  function esc(s) { return s.replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
-
-  function render(i) {
-    var d = posters[i].dataset;
-    backdrop.style.backgroundImage = "url('" + thumb(d.id) + "')";
-    elTitle.textContent = d.title;
-    elSub.textContent = d.sub || "";
-    elSub.style.display = d.sub ? "" : "none";
-    elNum.textContent = d.num || "";
-    elOpen.href = d.href;
-    var meta = "";
-    if (d.perf) meta += "<span>" + esc(d.perf) + "</span>";
-    if (d.num) meta += "<span>Thánh Ca Cơ-đốc #" + esc(d.num) + "</span>";
-    elMeta.innerHTML = meta;
-    posters.forEach(function (x) { x.classList.remove("is-active"); x.setAttribute("aria-selected", "false"); });
-    posters[i].classList.add("is-active");
-    posters[i].setAttribute("aria-selected", "true");
-  }
-
-  function select(i, scroll) {
-    current = i;
-    render(i);
-    if (scroll) posters[i].scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
-  }
-
-  function play(i) {
-    select(i, true);
-    var d = posters[i].dataset;
-    player.innerHTML = '<iframe src="https://www.youtube.com/embed/' + d.id +
-      '?autoplay=1&rel=0" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen frameborder="0"></iframe>';
-    tv.classList.add("is-playing");
-    playing = true;
-  }
-
-  function stop() {
-    player.innerHTML = "";
-    tv.classList.remove("is-playing");
-    playing = false;
-  }
-
-  posters.forEach(function (p, i) {
-    p.addEventListener("mouseenter", function () { if (!playing) select(i, false); });
-    p.addEventListener("focus", function () { if (!playing) select(i, true); });
-    p.addEventListener("click", function () { play(i); });
-  });
-
-  playBtn.addEventListener("click", function () { play(current); });
-  closeBtn.addEventListener("click", stop);
-
-  document.addEventListener("keydown", function (e) {
-    if (e.key === "Escape" && playing) { stop(); return; }
-    if (e.key === "ArrowRight" || e.key === "ArrowLeft") {
-      if (playing) return;
-      e.preventDefault();
-      var ni = e.key === "ArrowRight"
-        ? Math.min(current + 1, posters.length - 1)
-        : Math.max(current - 1, 0);
-      posters[ni].focus();
-    }
-  });
-
-  select(0, false);
-})();
-</script>
 {{ end }}

@@ -1,15 +1,58 @@
 {{ define "main" }}
-<article class="tc-single">
-  <nav class="breadcrumb"><a href="{{ "/tc/" | relURL }}">Thánh Ca</a></nav>
-  <h1>{{ .Title }}</h1>
-  {{ with .Params.titleEn }}<p class="tc-single-sub">{{ . }}</p>{{ end }}
-  <div class="youtube-wrapper">
-    <iframe src="https://www.youtube.com/embed/{{ .Params.youtube }}" allowfullscreen frameborder="0" loading="lazy"></iframe>
+{{- $hymns := sort .CurrentSection.Pages "Weight" -}}
+{{- $prev := "" -}}{{- $next := "" -}}
+{{- range $i, $h := $hymns -}}
+  {{- if eq $h.RelPermalink $.RelPermalink -}}
+    {{- if gt $i 0 }}{{ $prev = index $hymns (sub $i 1) }}{{ end -}}
+    {{- if lt (add $i 1) (len $hymns) }}{{ $next = index $hymns (add $i 1) }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+<article class="lib-doc">
+  <button class="lib-dtrigger" type="button" aria-label="Mở danh sách thánh ca">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
+  </button>
+  <div class="lib-doc-eyebrow">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
+    <a class="lib-doc-eyebrow-link" href="{{ "/tc/" | relURL }}">Thánh Ca</a>
+    {{ with .Params.hymnNumber }}<span class="lib-doc-eyebrow-sep">·</span>#{{ . }}{{ end }}
   </div>
-  <div class="tc-single-meta">
+  <h1 class="lib-doc-title">{{ .Title }}</h1>
+  {{ with .Params.titleEn }}<p class="lib-doc-sub"><em>{{ . }}</em></p>{{ end }}
+
+  <div class="youtube-wrapper nc-episode-video">
+    <iframe
+      src="https://www.youtube.com/embed/{{ .Params.youtube }}"
+      title="{{ .Title }}"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      frameborder="0"
+      loading="lazy"></iframe>
+  </div>
+
+  <div class="lib-doc-stats">
     {{ with .Params.performer }}<span>Trình bày: {{ . }}</span>{{ end }}
     {{ with .Params.hymnNumber }}<span>Thánh Ca Cơ-đốc #{{ . }}</span>{{ end }}
   </div>
+
   {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
+
+  <nav class="nc-prev-next">
+    <div class="nc-prev-next-cell nc-prev-next-prev">
+      {{ with $prev }}
+        <a href="{{ .RelPermalink }}">
+          <span class="nc-prev-next-label">← Bài trước</span>
+          <span class="nc-prev-next-title">{{ .Title }}</span>
+        </a>
+      {{ end }}
+    </div>
+    <div class="nc-prev-next-cell nc-prev-next-next">
+      {{ with $next }}
+        <a href="{{ .RelPermalink }}">
+          <span class="nc-prev-next-label">Bài kế →</span>
+          <span class="nc-prev-next-title">{{ .Title }}</span>
+        </a>
+      {{ end }}
+    </div>
+  </nav>
 </article>
 {{ end }}

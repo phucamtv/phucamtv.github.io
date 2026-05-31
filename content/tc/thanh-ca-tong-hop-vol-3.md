@@ -1,5 +1,6 @@
 ---
-title: "Thánh Ca Cơ-đốc Tổng Hợp (Vol 3)"
+title: "Tổng Hợp - Vol 3"
 youtube: "8vJRvoJim2Y"
+hymnNumber: TH3
 weight: 1002
 ---

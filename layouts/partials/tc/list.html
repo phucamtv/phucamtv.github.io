@@ -1,0 +1,22 @@
+{{- /* Middle column for Thánh Ca — every hymn, current one highlighted. */ -}}
+{{- $cur := .RelPermalink -}}
+{{- $hymns := sort .CurrentSection.Pages "Weight" -}}
+<nav class="lib-mid">
+  <div class="lib-mid-head">
+    <button class="lib-rtrigger" type="button" aria-label="Mở thư viện">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
+    </button>
+    <a class="lib-mid-back" href="{{ "/tc/" | relURL }}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>Thánh Ca</a>
+  </div>
+  <div class="lib-mid-body">
+    {{- range $hymns -}}
+    <a class="lib-lesson{{ if eq .RelPermalink $cur }} is-current{{ end }}" href="{{ .RelPermalink }}">
+      {{ with .Params.hymnNumber }}<span class="lib-lesson-num">{{ . }}</span>{{ end }}
+      <span class="lib-lesson-info">
+        <span class="lib-lesson-title">{{ .Title }}</span>
+        {{ with .Params.titleEn }}<span class="lib-lesson-date">{{ . }}</span>{{ end }}
+      </span>
+    </a>
+    {{- end -}}
+  </div>
+</nav>

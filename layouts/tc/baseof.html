@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  {{- partial "head.html" . -}}
+</head>
+<body class="lib-app-body">
+  {{- /* the hymn page is the only reader with a contextual column;
+         the /tc/ landing lists every hymn in the detail (no-mid) */ -}}
+  {{- $reader := eq .Kind "page" -}}
+  <div class="lib-app{{ if $reader }} detail-open lib-app--article{{ else }} no-mid{{ end }}">
+    <div class="lib-app-backdrop"></div>
+    {{- partial "lib/rail.html" (dict "active" "tc") -}}
+    {{- if $reader }}{{- partial "tc/list.html" . -}}{{- end }}
+    <main class="lib-detail">
+      <div class="lib-detail-scroll">
+        {{- block "main" . }}{{- end }}
+      </div>
+    </main>
+  </div>
+  {{- partial "lib/app-js.html" . -}}
+</body>
+</html>
