@@ -4,6 +4,7 @@ build:
 	hugo --minify
 
 dev:
+	-lsof -ti:1313 | xargs kill -9 2>/dev/null
 	hugo server -D --buildFuture
 
 clean:
