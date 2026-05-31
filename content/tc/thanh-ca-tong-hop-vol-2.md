@@ -1,6 +1,6 @@
 ---
 title: "Tổng Hợp - Vol 2"
 youtube: "-LcVP-pi_sA"
-hymnNumber: TH2
+hymnNumber: T02
 weight: 1001
 ---
