@@ -1,0 +1,53 @@
+{{- /* Shared Tủ Sách chapter reader, rendered inside the divine-library detail.
+       Used by sach/chapter.html and sach/lde-chapter.html. Preserves the EGW
+       content fix-ups (malformed quotes, citations, GC/COL/LDE paragraph refs). */ -}}
+{{- $book := .Parent -}}
+{{- $chapter := .Params.chapter -}}
+{{- $title := replaceRE "^Chương [0-9]+: " "" .Title -}}
+
+{{- $c := .Content -}}
+{{- $c = replaceRE `(?s)&gt;\s*&ldquo;(.+?)&rdquo;` `<q class="ch-iq">$1</q>` $c -}}
+{{- $c = replaceRE `(?s)<blockquote>\s*<p>\s*<cite>([^<]+)</cite>(?:&\w+;|[^<\pL])*(.*?)</p>\s*</blockquote>` `<p><span class="ch-cite">$1</span>$2</p>` $c -}}
+{{- $c = replaceRE `<cite>([^<]+)</cite>(?:&\w+;|[^<\pL])*` `<span class="ch-cite">$1</span> ` $c -}}
+{{- $c = replaceRE `\s*((?:GC|COL|LDE)\s+\d+\.\d+)` ` <span class="ch-ref">$1</span>` $c -}}
+
+<article class="lib-doc">
+  <button class="lib-dtrigger" type="button" aria-label="Mở mục lục">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
+  </button>
+  <div class="lib-doc-eyebrow">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m16 6 4 14"/><path d="M12 6v14"/><path d="M8 8v12"/><path d="M4 4v16"/></svg>
+    <a class="lib-doc-eyebrow-link" href="{{ $book.RelPermalink }}">{{ $book.Title }}</a>
+    {{ with $chapter }}<span class="lib-doc-eyebrow-sep">·</span> Chương {{ . }}{{ end }}
+  </div>
+  <h1 class="lib-doc-title">{{ $title }}</h1>
+
+  <div class="content">{{ $c | safeHTML }}</div>
+
+  {{- $pages := $book.Pages.ByWeight -}}
+  {{- $prev := false }}{{ $next := false -}}
+  {{- range $i, $p := $pages -}}
+    {{- if eq $p.RelPermalink $.RelPermalink -}}
+      {{- if gt $i 0 }}{{ $prev = index $pages (sub $i 1) }}{{ end -}}
+      {{- if lt $i (sub (len $pages) 1) }}{{ $next = index $pages (add $i 1) }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+  <nav class="nc-prev-next">
+    <div class="nc-prev-next-cell nc-prev-next-prev">
+      {{ with $prev }}
+        <a href="{{ .RelPermalink }}">
+          <span class="nc-prev-next-label">← Chương trước</span>
+          <span class="nc-prev-next-title">{{ replaceRE "^Chương [0-9]+: " "" .Title }}</span>
+        </a>
+      {{ end }}
+    </div>
+    <div class="nc-prev-next-cell nc-prev-next-next">
+      {{ with $next }}
+        <a href="{{ .RelPermalink }}">
+          <span class="nc-prev-next-label">Chương kế →</span>
+          <span class="nc-prev-next-title">{{ replaceRE "^Chương [0-9]+: " "" .Title }}</span>
+        </a>
+      {{ end }}
+    </div>
+  </nav>
+</article>

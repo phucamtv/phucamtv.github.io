@@ -1,0 +1,37 @@
+{{- /* Tủ Sách book landing — book cover + chapter index, in the divine-library
+       detail. Shared by sach/parable.html, sach/lde.html, sach/frontispiece.html. */ -}}
+{{- $book := . -}}
+{{- $chapters := .Pages.ByWeight -}}
+{{- $first := false }}{{ with $chapters }}{{ $first = index . 0 }}{{ end -}}
+<div class="lib-doc">
+  <button class="lib-mtrigger lib-mtrigger-solo" type="button" aria-label="Mở thư viện">{{ partial "lib/mark.html" . }}</button>
+  <div class="lib-doc-eyebrow">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m16 6 4 14"/><path d="M12 6v14"/><path d="M8 8v12"/><path d="M4 4v16"/></svg>
+    <a class="lib-doc-eyebrow-link" href="/sach/">Tủ Sách</a>
+    {{ with .Parent }}<span class="lib-doc-eyebrow-sep">·</span> {{ .Title }}{{ end }}
+  </div>
+  <h1 class="lib-doc-title">{{ .Title }}</h1>
+  {{ with .Params.subtitle }}<p class="lib-doc-sub"><em>{{ . }}</em></p>{{ end }}
+  {{ with .Params.hero_quote }}
+  <blockquote class="lib-memory">{{ . | safeHTML }}{{ with $book.Params.hero_quote_cite }} <cite>— {{ . }}</cite>{{ end }}</blockquote>
+  {{ end }}
+  {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
+  {{ with $first }}
+  <a class="lib-cta" href="{{ .RelPermalink }}">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 4v16l13-8z"/></svg>
+    Bắt đầu đọc{{ with .Params.chapter }} &middot; Chương {{ . }}{{ end }}
+  </a>
+  {{ end }}
+
+  <h3 class="lib-doc-h">Mục lục</h3>
+  <div class="lib-doc-list">
+    {{ range $chapters }}
+    <a class="lib-lesson" href="{{ .RelPermalink }}">
+      {{ with .Params.chapter }}<span class="lib-lesson-num">{{ printf "%02d" . }}</span>{{ end }}
+      <span class="lib-lesson-info">
+        <span class="lib-lesson-title">{{ replaceRE "^Chương [0-9]+: " "" .Title }}</span>
+      </span>
+    </a>
+    {{ end }}
+  </div>
+</div>

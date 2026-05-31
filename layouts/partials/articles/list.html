@@ -1,0 +1,67 @@
+{{- /* Middle column for a bài viết — three tabs:
+       1) this article's author + tags, 2) more by the author, 3) monthly archive. */ -}}
+{{- $slug := "" -}}{{- $author := false -}}
+{{- with .Params.authors -}}{{ $slug = index . 0 }}{{ $author = $.Site.GetPage (printf "/authors/%s" $slug) }}{{- end -}}
+{{- $cur := .RelPermalink -}}
+<nav class="lib-mid lib-mid--article">
+  <div class="lib-mid-head">
+    <button class="lib-rtrigger" type="button" aria-label="Mở thư viện">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
+    </button>
+    <a class="lib-mid-back" href="/"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>Khám Phá</a>
+  </div>
+
+  <input type="radio" name="art-tab" id="art-tab-1" class="lib-tab-radio" checked>
+  <input type="radio" name="art-tab" id="art-tab-2" class="lib-tab-radio">
+  <input type="radio" name="art-tab" id="art-tab-3" class="lib-tab-radio">
+  <div class="lib-tabbar">
+    <label class="lib-tab" for="art-tab-1">Thông tin</label>
+    <label class="lib-tab" for="art-tab-2">Tác giả</label>
+    <label class="lib-tab" for="art-tab-3">Lưu trữ</label>
+  </div>
+
+  <div class="lib-mid-body">
+    {{- /* Tab 1 — author + this article's tags */ -}}
+    <div class="lib-tabpanel lib-tabpanel-1">
+      <div class="art-meta-row">Ngày đăng &middot; {{ .Date.Format "02/01/2006" }}</div>
+      {{ with .Params.tags }}
+      <div class="art-side-label">Chủ đề</div>
+      <div class="art-tags">
+        {{ range . }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+      </div>
+      {{ end }}
+      {{ with $author }}
+      <div class="art-author-block">
+        <div class="art-side-label">Tác giả</div>
+        <a class="art-author" href="{{ .RelPermalink }}">
+          {{ with .Params.avatar }}<img class="art-author-avatar" src="{{ printf "/images/authors/%s" . | relURL }}" alt="{{ $author.Title }}" loading="lazy">{{ end }}
+          <span class="art-author-info">
+            <span class="art-author-name">{{ .Title }}</span>
+            {{ with .Params.country }}<span class="art-author-meta">{{ . }}</span>{{ end }}
+          </span>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+
+    {{- /* Tab 2 — more articles by this author */ -}}
+    <div class="lib-tabpanel lib-tabpanel-2">
+      {{ if $author }}
+        {{ $arts := where (where .Site.RegularPages "Params.authors" "intersect" (slice $slug)) "Params.unpublished" "ne" true }}
+        {{ range (sort $arts "Date" "desc") }}
+        <a class="lib-lesson{{ if eq .RelPermalink $cur }} is-current{{ end }}" href="{{ .RelPermalink }}">
+          <span class="lib-lesson-info">
+            <span class="lib-lesson-title">{{ .Title }}</span>
+            <span class="lib-lesson-date">{{ .Date.Format "02/01/2006" }}</span>
+          </span>
+        </a>
+        {{ end }}
+      {{ else }}<div class="art-empty">Chưa rõ tác giả.</div>{{ end }}
+    </div>
+
+    {{- /* Tab 3 — monthly archive (same as the front-page sidebar) */ -}}
+    <div class="lib-tabpanel lib-tabpanel-3">
+      {{ partial "month-nav.html" . }}
+    </div>
+  </div>
+</nav>

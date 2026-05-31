@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  {{- partial "head.html" . -}}
+</head>
+<body class="lib-app-body">
+  {{- $slug := "" -}}{{- $author := false -}}
+  {{- with .Params.authors -}}{{ $slug = index . 0 }}{{ $author = $.Site.GetPage (printf "/authors/%s" $slug) }}{{- end -}}
+  <div class="lib-app lib-app--article detail-open">
+    <div class="lib-app-backdrop"></div>
+    {{- partial "lib/rail.html" (dict "active" "") -}}
+    {{- partial "articles/list.html" . -}}
+    <main class="lib-detail">
+      <div class="lib-detail-scroll">
+        <article class="lib-doc">
+          <button class="lib-dtrigger" type="button" aria-label="Mở thông tin bài viết">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
+          </button>
+          <div class="lib-doc-eyebrow">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>
+            Bài viết
+            <span class="lib-doc-eyebrow-sep">·</span>
+            {{ .Date.Format "02/01/2006" }}
+          </div>
+          <h1 class="lib-doc-title">{{ .Title }}</h1>
+          {{ with $author }}<p class="lib-doc-sub">bởi <a class="lib-doc-eyebrow-link" href="{{ .RelPermalink }}">{{ .Title }}</a></p>{{ end }}
+
+          <div class="content">{{ .Content }}</div>
+        </article>
+      </div>
+    </main>
+  </div>
+  {{- partial "lib/app-js.html" . -}}
+</body>
+</html>

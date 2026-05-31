@@ -8,7 +8,7 @@ section meant to feel part of the library.
 ## The three-column model
 
 - **Col 1 — rail** (`.lib-rail`): global site nav. Dark, with the brand mark (logo + site name) pinned at the **bottom**. First-level nav items are UPPER-CASE; nested sub-items stay sentence case. Identical on every page.
-- **Col 2 — mid** (`.lib-mid`): the contextual list for the current section (book browser, lesson list, episode list). Navigation — never the primary content.
+- **Col 2 — mid** (`.lib-mid`): the contextual list for the current section (book browser, lesson list, episode list, chapter list). Navigation — never the primary content. It can also host pure-CSS tabs (radios + `.lib-tabbar`/`.lib-tabpanel`) — e.g. the bài viết column tabs author+tags / more-by-author / monthly archive.
 - **Col 3 — detail** (`.lib-detail` › `.lib-doc`): the actual content/reader. ALWAYS the meaningful, primary content of the page.
 
 Desktop (>960px): CSS grid, three columns side by side. The 960px breakpoint equals the sum of the column min-widths — don't lower it without re-checking the grid.
@@ -29,7 +29,7 @@ A section's landing page does NOT show col 2 as a separate column. Instead:
 - Render what col 2 would have shown **as the col-3 content** — the list IS the page.
 - Use the solo rail trigger (`.lib-mtrigger-solo`, the brand mark) to reach col 1; no col-2 FAB (there's no col 2 to open).
 - Drop redundant "start" CTAs once the full list is on the page.
-- Precedents: Nghiên Cứu root (series grid), Trường Sa-bát quarter (lesson list), Kinh Thánh index (book browser).
+- Precedents: Nghiên Cứu root (series grid), Trường Sa-bát quarter (lesson list), Kinh Thánh index (book browser), Tín Lý index (doctrine list), Tủ Sách library + book landings (book cards / chapter index). In Tủ Sách only the chapter reader keeps col 2 (the chapter list); the library, author, and book-landing pages are all no-mid.
 
 Rule of thumb: if a page's col-2 list is the whole point of the page, make it `no-mid` and promote that list into the detail.
 
