@@ -481,8 +481,8 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 .lib-mid--home .month-nav-link--active { background: var(--kt-list-sel); font-weight: 600; }
 .lib-mid--home .month-nav-month { flex: 1; }
 .lib-mid--home .month-nav-count { background: none; padding: 0; font-size: 12px; color: var(--kt-text-3); }
-/* detail: the article feed */
-.lib-doc--home .home-feed { margin-top: 22px; }
+/* detail: the article feed (home + month archive) */
+.lib-doc .home-feed { margin-top: 22px; }
 
 /* chapter body fix-ups carried over from the old readers */
 .lib-doc .content .ch-iq { font-style: italic; color: var(--kt-accent-deep); }

@@ -2,10 +2,13 @@
 {{- $pathParts := split (strings.TrimPrefix "/articles/" .Path) "/" -}}
 {{- $isArchive := and (ge (len $pathParts) 2) (findRE `^\d{4}$` (index $pathParts 0)) -}}
 {{- if $isArchive -}}
-<div class="home-layout">
-  <section class="home-main">
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
+<div class="lib-doc lib-doc--home">
+  <button class="lib-dtrigger" type="button" aria-label="Mở lưu trữ">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
+  </button>
+  <h1 class="lib-doc-title">{{ .Title }}</h1>
+  {{ .Content }}
+  <section class="home-feed">
     {{- $yearMonth := printf "%s/%s" (index $pathParts 0) (index $pathParts 1) -}}
     {{- $allPages := where (where site.RegularPages.ByDate.Reverse "Params.unpublished" "ne" true) "Params.date" "ne" nil -}}
     {{- range $allPages -}}
@@ -14,7 +17,6 @@
       {{- end -}}
     {{- end -}}
   </section>
-  {{ partial "month-nav.html" . }}
 </div>
 {{- else -}}
 <section class="list" style="max-width:800px">

@@ -3,7 +3,9 @@
 <head>
   {{- partial "head.html" . -}}
 </head>
-{{- if .IsHome -}}
+{{- $pathParts := split (strings.TrimPrefix "/articles/" .Path) "/" -}}
+{{- $isArchive := and (ge (len $pathParts) 2) (findRE `^\d{4}$` (index $pathParts 0)) -}}
+{{- if or .IsHome $isArchive -}}
 <body class="lib-app-body">
   <div class="lib-app lib-app--feed">
     <div class="lib-app-backdrop"></div>
