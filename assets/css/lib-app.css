@@ -105,10 +105,10 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
    (col 2) in the DOM, so without an explicit grid-row the sparse auto-placer
    would push the content to an implicit second row. */
 @media (min-width: 961px) {
-  .lib-app--article { grid-template-columns: var(--lib-rail-w) minmax(460px, 1fr) minmax(300px, var(--lib-mid-w)); }
-  .lib-app--article .lib-rail { grid-column: 1; grid-row: 1; }
-  .lib-app--article .lib-detail { grid-column: 2; grid-row: 1; }
-  .lib-app--article .lib-mid { grid-column: 3; grid-row: 1; border-right: none; border-left: 1px solid var(--kt-list-line); }
+  .lib-app--article, .lib-app--feed { grid-template-columns: var(--lib-rail-w) minmax(460px, 1fr) minmax(300px, var(--lib-mid-w)); }
+  .lib-app--article .lib-rail, .lib-app--feed .lib-rail { grid-column: 1; grid-row: 1; }
+  .lib-app--article .lib-detail, .lib-app--feed .lib-detail { grid-column: 2; grid-row: 1; }
+  .lib-app--article .lib-mid, .lib-app--feed .lib-mid { grid-column: 3; grid-row: 1; border-right: none; border-left: 1px solid var(--kt-list-line); }
 }
 
 /* ============================================================
@@ -443,8 +443,46 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 .lib-app .art-empty { font-size: 13.5px; color: var(--kt-text-3); }
 /* archive partial reused inside the tab — strip its front-page chrome */
 .lib-tabpanel-3 .home-sidebar { display: block; }
-.lib-tabpanel-3 .sidebar-card { background: none; border: none; padding: 0; box-shadow: none; }
+.lib-tabpanel-3 .sidebar-card { display: block; background: none; border: none; padding: 0; box-shadow: none; }
 .lib-tabpanel-3 .sidebar-heading--mobile-toggle { pointer-events: none; }
+/* …and render the months as a vertical list, not the front-page chip strip (which overflows the drawer) */
+.lib-tabpanel-3 .month-nav { display: block; overflow: visible; white-space: normal; padding: 0; }
+.lib-tabpanel-3 .month-nav-year { display: block; border-bottom: 1px solid var(--kt-list-line); }
+.lib-tabpanel-3 .month-nav-year:last-child { border-bottom: none; }
+.lib-tabpanel-3 .month-nav-year-label { display: flex; align-items: center; gap: 6px; padding: 12px 2px; font-size: 12px; font-weight: 700; letter-spacing: .08em; color: var(--kt-text-3); cursor: pointer; }
+.lib-tabpanel-3 .month-nav-year-label::after { content: ""; width: 6px; height: 6px; border-right: 1.5px solid var(--kt-text-3); border-bottom: 1.5px solid var(--kt-text-3); transform: rotate(-45deg); transition: transform .2s ease; margin-left: auto; }
+.lib-tabpanel-3 .month-nav-year[open] > .month-nav-year-label::after { transform: rotate(45deg); }
+.lib-tabpanel-3 .month-nav-list { display: block; list-style: none; padding: 0 0 8px; margin: 0; }
+.lib-tabpanel-3 .month-nav-list li { display: block; }
+.lib-tabpanel-3 .month-nav-link { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: 0; padding: 8px 10px; font-size: 14px; background: none; border: none; border-radius: 8px; color: var(--kt-text); white-space: nowrap; }
+.lib-tabpanel-3 .month-nav-link:hover { background: var(--kt-list-sel); }
+.lib-tabpanel-3 .month-nav-link--active { background: var(--kt-list-sel); font-weight: 600; }
+.lib-tabpanel-3 .month-nav-month { flex: 1; }
+.lib-tabpanel-3 .month-nav-count { background: none; padding: 0; font-size: 12px; color: var(--kt-text-3); }
+
+/* ============================================================
+   Khám Phá (home) — archive in col 2, article feed in detail
+   ============================================================ */
+/* col 2: monthly archive rendered native to the shell (mid-head already labels "Lưu trữ") */
+.lib-mid--home .lib-mid-body { padding: 8px 12px 84px; }
+.lib-mid--home .home-sidebar { display: block; }
+.lib-mid--home .sidebar-card { display: block; background: none; border: none; padding: 0; box-shadow: none; max-height: none; overflow: visible; }
+.lib-mid--home .sidebar-heading { display: none; }
+.lib-mid--home .month-nav { display: block; overflow: visible; white-space: normal; padding: 0; }
+.lib-mid--home .month-nav-year { display: block; border-bottom: 1px solid var(--kt-list-line); }
+.lib-mid--home .month-nav-year:last-child { border-bottom: none; }
+.lib-mid--home .month-nav-year-label { display: flex; align-items: center; gap: 6px; padding: 12px 2px; font-size: 12px; font-weight: 700; letter-spacing: .08em; color: var(--kt-text-3); cursor: pointer; }
+.lib-mid--home .month-nav-year-label::after { content: ""; width: 6px; height: 6px; border-right: 1.5px solid var(--kt-text-3); border-bottom: 1.5px solid var(--kt-text-3); transform: rotate(-45deg); transition: transform .2s ease; margin-left: auto; }
+.lib-mid--home .month-nav-year[open] > .month-nav-year-label::after { transform: rotate(45deg); }
+.lib-mid--home .month-nav-list { display: block; list-style: none; padding: 0 0 8px; margin: 0; }
+.lib-mid--home .month-nav-list li { display: block; }
+.lib-mid--home .month-nav-link { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: 0; padding: 8px 10px; font-size: 14px; background: none; border: none; border-radius: 8px; color: var(--kt-text); white-space: nowrap; }
+.lib-mid--home .month-nav-link:hover { background: var(--kt-list-sel); }
+.lib-mid--home .month-nav-link--active { background: var(--kt-list-sel); font-weight: 600; }
+.lib-mid--home .month-nav-month { flex: 1; }
+.lib-mid--home .month-nav-count { background: none; padding: 0; font-size: 12px; color: var(--kt-text-3); }
+/* detail: the article feed */
+.lib-doc--home .home-feed { margin-top: 22px; }
 
 /* chapter body fix-ups carried over from the old readers */
 .lib-doc .content .ch-iq { font-style: italic; color: var(--kt-accent-deep); }

@@ -56,11 +56,11 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.6rem 0.5rem;
-  font-family: "Lora", Georgia, serif;
-  font-size: 0.95rem;
+  padding: 0.7rem 0.15rem;
+  font-size: 0.78rem;
   font-weight: 700;
-  color: var(--text-primary);
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
   cursor: pointer;
   user-select: none;
   list-style: none;
@@ -100,11 +100,13 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.35rem 0.5rem 0.35rem 1.1rem;
+  gap: 0.5rem;
+  padding: 0.5rem 0.625rem;
   text-decoration: none;
-  font-size: 0.84rem;
-  color: var(--text-secondary);
-  border-radius: 4px;
+  font-size: 0.9rem;
+  color: var(--text-primary);
+  border-radius: 8px;
+  white-space: nowrap;
   transition: background 0.15s ease, color 0.15s ease;
 }
 
@@ -124,11 +126,8 @@
 }
 
 .month-nav-count {
-  font-size: 0.72rem;
+  font-size: 0.78rem;
   color: var(--text-faint);
-  background: var(--tint-soft);
-  padding: 0.1rem 0.4rem;
-  border-radius: 3px;
   white-space: nowrap;
 }
 
@@ -165,77 +164,13 @@
     display: block;
   }
 
-  /* Flatten structure: hide year labels, show all months inline */
+  /* keep the vertical list on mobile — beat components.css's .sidebar-card row flex */
+  .home-sidebar .sidebar-card--months {
+    display: block;
+  }
+
   .month-nav {
-    overflow-x: auto;
-    overflow-y: hidden;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    padding: 0.6rem 0 0.4rem;
-    white-space: nowrap;
-  }
-
-  .month-nav::-webkit-scrollbar {
-    display: none;
-  }
-
-  .month-nav-year {
-    display: inline;
-    border-bottom: none;
-  }
-
-  .month-nav-year-label {
-    display: inline-flex;
-    align-items: center;
-    font-size: 0.75rem;
-    font-weight: 700;
-    color: var(--text-muted);
-    padding: 0 0.25rem 0 0;
-    letter-spacing: 0.03em;
-  }
-
-  .month-nav-year-label::after {
-    display: none;
-  }
-
-  .month-nav-list {
-    display: inline;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .month-nav-list li {
-    display: inline;
-  }
-
-  .month-nav-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.2rem;
-    padding: 0.3rem 0.55rem;
-    margin: 0.15rem 0.15rem;
-    font-size: 0.78rem;
-    background: var(--surface-soft);
-    border: 1px solid var(--border-default);
-    border-radius: 4px;
-    color: var(--text-secondary);
-    text-decoration: none;
-    white-space: nowrap;
-    transition: background 0.15s ease, border-color 0.15s ease;
-  }
-
-  .month-nav-link:hover {
-    background: var(--surface-deep);
-    border-color: var(--accent);
-    color: var(--text-primary);
-  }
-
-  .month-nav-count {
-    background: none;
-    padding: 0;
-    font-size: 0.65rem;
-    color: var(--text-faint);
+    overflow: visible;
   }
 }
 

@@ -3,6 +3,21 @@
 <head>
   {{- partial "head.html" . -}}
 </head>
+{{- if .IsHome -}}
+<body class="lib-app-body">
+  <div class="lib-app lib-app--feed">
+    <div class="lib-app-backdrop"></div>
+    {{- partial "lib/rail.html" (dict "active" "khampha") -}}
+    {{- partial "home/mid.html" . -}}
+    <main class="lib-detail">
+      <div class="lib-detail-scroll">
+        {{- block "main" . }}{{- end }}
+      </div>
+    </main>
+  </div>
+  {{- partial "lib/app-js.html" . -}}
+</body>
+{{- else -}}
 <body>
   {{- if ne .Section "tc" }}{{- partial "header.html" . -}}{{ end }}
   <main>
@@ -10,4 +25,5 @@
   </main>
   {{- partial "footer.html" . -}}
 </body>
+{{- end -}}
 </html>
