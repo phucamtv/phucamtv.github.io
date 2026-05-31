@@ -306,6 +306,21 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 .lib-day-body p { font-size: calc(16px * var(--app-fs)); line-height: 1.72; margin: 12px 0; }
 .lib-day-body blockquote { margin: 14px 0; padding: 2px 0 2px 18px; border-left: 3px solid var(--kt-accent); font-family: var(--kt-display); color: var(--kt-text-2); }
 .lib-day-body h3 { font-family: var(--kt-display); font-size: 17px; font-weight: 600; margin: 18px 0 8px; }
+.lib-day-body p > code,
+.lib-day-body > code {
+  display: block;
+  font-family: var(--kt-display);
+  font-size: calc(16px * var(--app-fs));
+  font-style: italic;
+  line-height: 1.7;
+  color: var(--kt-text-2);
+  background: var(--kt-paper-2);
+  border-left: 3px solid var(--kt-accent);
+  border-radius: 0 6px 6px 0;
+  padding: 14px 16px;
+  margin: 18px 0;
+  box-shadow: var(--kt-sh-sm);
+}
 
 .lib-source { font-size: 13px; color: var(--kt-text-3); margin-top: 28px; }
 .lib-source a { color: var(--kt-accent-deep); font-weight: 600; }
