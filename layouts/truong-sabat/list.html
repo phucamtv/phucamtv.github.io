@@ -10,19 +10,19 @@
   <h1 class="lib-doc-title">{{ .Title }}</h1>
   {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
 
-  {{/* flatten quarters across years, latest first */}}
-  {{ $qs := slice }}
-  {{ range .Sections }}{{ $y := .Title }}{{ range .Sections }}{{ $qs = $qs | append (dict "p" . "w" (.Params.weight | default 0) "y" $y) }}{{ end }}{{ end }}
-  {{ $qs = sort (sort $qs "w" "desc") "y" "desc" }}
-
-  <h3 class="lib-doc-h">Các quý học</h3>
-  <div class="lib-qlist">
-    {{ range $qs }}
-    <a class="lib-qcard" href="{{ .p.RelPermalink }}">
-      <span class="lib-qcard-title">{{ .p.Title }}</span>
-      <span class="lib-qcard-meta">{{ len .p.Sections }} bài học</span>
-    </a>
-    {{ end }}
-  </div>
+  {{/* group quarters by year, latest year first */}}
+  {{ $years := sort .Sections "Title" "desc" }}
+  {{ range $years }}
+    {{ $qs := sort .Sections "Params.weight" "desc" }}
+    <h3 class="lib-doc-h">{{ .Title }}</h3>
+    <div class="lib-qlist">
+      {{ range $qs }}
+      <a class="lib-qcard" href="{{ .RelPermalink }}">
+        <span class="lib-qcard-title">{{ .Title }}</span>
+        <span class="lib-qcard-meta">{{ len .Sections }} bài học</span>
+      </a>
+      {{ end }}
+    </div>
+  {{ end }}
 </div>
 {{ end }}
