@@ -18,7 +18,7 @@ Tội lỗi là một danh từ khó nghe. Chúng ta không muốn ai cho rằng
 2. Phạm luật pháp của Đức Chúa Trời (1 Giăng 3:4). Đức Chúa Trời ban 10 Điều Răn để loài người thấu hiểu được tiêu chuẩn thánh thiện của Ngài. Nhưng loài người đã vượt khỏi những giới hạn đó và chà đạp tiêu chuẩn thánh thiện của Chúa.
 3. Biết điều lành mà không làm. Gia-cơ 4:17
 4. Việc làm không đến từ đức-tin (Rô-ma 14:23). Bất cứ điều gì không đến từ đức-tin dựa trên Lời Chúa là tội lỗi.
-5. Khuynh hướng tội lỗi trong tỏ tường (Rô-ma 7:14, 17-25). Khi nói đến tội người ta nghĩ đến hành động. Nhưng tỏ tường sai lầm cũng là tội. Từ tỏ tường dẫn đến hành động. Chẳng hạn như nóng giận (Ma-thi-ơ 5:22; Xuất Ê-díp-tô Ký 20:13); ngoại tình (Ma-thi-ơ 5:28; Xuất Ê-díp-tô Ký20: 14).
+5. Khuynh hướng tội lỗi trong tỏ tường (Rô-ma 7:14, 17-25). Khi nói đến tội người ta nghĩ đến hành động. Nhưng tỏ tường sai lầm cũng là tội. Từ tỏ tường dẫn đến hành động. Chẳng hạn như nóng giận (Ma-thi-ơ 5:22; Xuất Ê-díp-tô Ký 20:13); ngoại tình (Ma-thi-ơ 5:28; Xuất Ê-díp-tô Ký 20:14).
 6. Vô tình làm điều sai lầm — Làm sai mà không biết. Lê-vi Ký 5:17-19; Lu-ca 12:48; I Ti-mô-thê 1:13
 7. Làm điều đúng nhưng với mục đích sai lầm. Ma-thi-ơ 7:22, 23; Ê-sai 64:6; Rô-ma 9:30-32; Phi-líp 3:3-9
 8. Bản ngã tội lỗi, bản chất tội lỗi hay nguyên tội đến từ A-đam. Thi Thiên 51:5; 58:3; Rô-ma 5:19, 20; Phi-líp 3:20, 21; Rô-ma 3:19, 20; 7:14-24; Ma-thi-ơ 23:27, 28; Lu-ca 11:39; Giăng 8:34
@@ -29,12 +29,12 @@ Tội lỗi là một danh từ khó nghe. Chúng ta không muốn ai cho rằng
 2. Tội lỗi khiến chúng ta xa cách Thiên Chúa và sự xa cách càng dẫn chúng ta lún sâu vào vũng bùn tội lỗi. Rô-ma 8:5-8
 3. Đức Thánh Linh chỉ chúng ta thấy nhu cầu để ăn năn. Giăng 16:7, 8
 4. Chúng ta cần phải công nhận và xưng tội mình ra. 1 Giăng 1:8-10
-5. Chúng ta cần phải ăn năn. Công vụ 2:38
+5. Chúng ta cần phải ăn năn. Công Vụ 2:38
 6. Chúng ta không thể tự cứu lấy mình, chúng ta cần một Đấng Cứu Thế. Tít 3:3-7
 
 ### Suy gẫm thêm
 
-Ga-la-ti 3:13-14; 1 Phi-e-rơ 2;21, 22.*
+Ga-la-ti 3:13-14; 1 Phi-e-rơ 2:21, 22.
 
 **Qua đức-tin chúng ta tiếp nhận Đấng Cứu Thế, là Đấng sẽ tha thứ quá khứ của chúng ta, ban cho chúng ta sự bảo đảm về sự sống đời đời, khiến chúng ta được tiếp nhận làm con trai và con gái của Thiên Chúa và ban cho chúng ta quyền năng để sống một cuộc sống thánh khiết.**
 
@@ -52,12 +52,12 @@ Ga-la-ti 3:13-14; 1 Phi-e-rơ 2;21, 22.*
 
 ### Suy gẫm thêm
 
-Mác 9:23, 24; Cô-lô-se 1:13, 14; Rô-ma 5:6-10; 8:14-17; Ga-la-ti 3:26*
+Mác 9:23, 24; Cô-lô-se 1:13, 14; Rô-ma 5:6-10; 8:14-17; Ga-la-ti 3:26
 
 ## Áp Dụng Cá Nhân
 
 1. Tại sao đời sống Cơ-đốc nhân được gọi là đời sống mới? (Suy gẫm Giăng 3:3-6)
-2. Tại sao chúng ta không thể sống một đời sống thánh khiết được nếu không có quyền năng của Thiên Chúa? (Suy gẫm Thi thiên 51:5; Rô-ma 7:14-25)
+2. Tại sao chúng ta không thể sống một đời sống thánh khiết được nếu không có quyền năng của Thiên Chúa? (Suy gẫm Thi Thiên 51:5; Rô-ma 7:14-25)
 
 ## Quyết Định
 

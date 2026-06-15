@@ -7,7 +7,7 @@ title: Thánh Kinh
 weight: 1
 ---
 
-## Câu Gốc
+## Câu gốc
 
 > “Cả Thánh Kinh đều là bởi Đức Chúa Trời soi dẫn, có ích cho sự dạy dỗ, bẻ trách, sửa trị, dạy người trong sự công bình, hầu cho người thuộc về Đức Chúa Trời được trọn vẹn và sắm sẵn để làm mọi việc lành.” (2 Ti-mô-thê 3:16, 17)
 > 
@@ -28,36 +28,36 @@ Thánh Kinh gồm 66 sách, thường được chia làm hai phần: Cựu Ướ
 2. bày tỏ về giáo lý chân chánh và ý muốn của Thiên Chúa (Giăng 17:17; Ê-sai 8:20)
 3. dạy dỗ để chúng ta được sự trông cậy/hy vọng (Rô-ma 15:4)
 4. ghi lại những gì Chúa đã hành động cho nhân loại, và ghi lại để khuyên bảo chúng ta (1 Cô-rinh-tô 10:11)
-5. Cả Thánh Kinh, Cựu Ước và Tân Ước đều tập trung về Đức Chúa Giê-su (Giăng 5:39, 40; Lu-ca 24:27, 44; Công vụ 17:3; 26:22, 23; 28:23; Giăng 16:13, 14)
+5. Cả Thánh Kinh, Cựu Ước và Tân Ước đều tập trung về Đức Chúa Giê-su (Giăng 5:39, 40; Lu-ca 24:27, 44; Công Vụ 17:3; 26:22, 23; 28:23; Giăng 16:13, 14)
 
-### Thánh Kinh suy gẫm thêm
+### Suy gẫm thêm
 
-Thi thiên 119:81-136; Hê-bơ-rơ 4:12.
+Thi Thiên 119:81-136; Hê-bơ-rơ 4:12.
 
 ## Thánh Kinh có gì?
 
-Thánh Kinh được chia ra làm 2 phần: Cựu Ước và Tân Ước. Cựu Ước gồm 39 quyển và Tân Ước gồm 27 quyển, do gần 40 người viết ra. Thời gian viết từ quyển đầu tiên, Sáng thế Ký, đến quyển cuối cùng, Khải Huyền, gần 2000 năm. Dù rằng những người viết chịu ảnh hưởng bởi các nền văn hoá khác nhau, học vấn khác nhau, giai cấp khác nhau, nhưng dưới sự soi dẫn của Đức Chúa Trời tất cả đều hướng về một chủ đề là Đức Chúa Giê-su.
+Thánh Kinh được chia ra làm 2 phần: Cựu Ước và Tân Ước. Cựu Ước gồm 39 quyển và Tân Ước gồm 27 quyển, do gần 40 người viết ra. Thời gian viết từ quyển đầu tiên, Sáng Thế Ký, đến quyển cuối cùng, Khải Huyền, gần 2000 năm. Dù rằng những người viết chịu ảnh hưởng bởi các nền văn hoá khác nhau, học vấn khác nhau, giai cấp khác nhau, nhưng dưới sự soi dẫn của Đức Chúa Trời tất cả đều hướng về một chủ đề là Đức Chúa Giê-su.
 
 Cựu Ước tiên đoán về Đức Chúa Giê-su là Đấng sẽ đến. Tân Ước nói về Đức Chúa Giê-su là Đấng đã đến. Nếu học Thánh Kinh, dưới sự hướng dẫn của Đức Thánh Linh, chúng ta sẽ thấy đặc tánh của Đức Chúa Giê-su được bày tỏ trong mỗi trang của Thánh Kinh. Tất cả Thánh Kinh đều hướng về Đức Chúa Giê-su và sự cứu rỗi mà Ngài muốn ban cho nhân loại.
 
 Thánh Kinh là sứ điệp không hề sai trật, được Thiên Chúa khải thị cho nhân loại. Vì thế chúng ta phải nghiên cứu Thánh Kinh dưới sự hướng dẫn của Thiên Chúa qua Đức Thánh Linh. Loài người không được phép thêm hay bớt bất cứ điều gì trong Thánh Kinh.
 
-Có một số trường hợp những lời trong Thánh Kinh được Chúa phán đúng từng lời từng chữ. Chẳng hạn như trong trường hợp 10 Điều Răn, chính miệng Chúa phán và chính tay Chúa chép xuống từng lời (Xuất Ê-díp-tô Ký 20:1-17; 31:18; Phục truyền 10:4, 5). Nhưng đa số được Đức Thánh Linh cảm động, Đức Chúa Trời ban cho họ tỏ tường, rồi mỗi người tự ghi chép xuống theo ngôn ngữ hay lối hành văn riêng của mình. Dù rằng mỗi người được tự do bày tỏ theo văn tự của họ, nhưng Đức Chúa Trời chịu trách nhiệm trên mọi chi tiết của Thánh Kinh. Các người thánh của Chúa không phải là ngòi bút của Ngài, nhưng họ là văn sĩ thánh của Ngài.
+Có một số trường hợp những lời trong Thánh Kinh được Chúa phán đúng từng lời từng chữ. Chẳng hạn như trong trường hợp 10 Điều Răn, chính miệng Chúa phán và chính tay Chúa chép xuống từng lời (Xuất Ê-díp-tô Ký 20:1-17; 31:18; Phục Truyền 10:4, 5). Nhưng đa số được Đức Thánh Linh cảm động, Đức Chúa Trời ban cho họ tỏ tường, rồi mỗi người tự ghi chép xuống theo ngôn ngữ hay lối hành văn riêng của mình. Dù rằng mỗi người được tự do bày tỏ theo văn tự của họ, nhưng Đức Chúa Trời chịu trách nhiệm trên mọi chi tiết của Thánh Kinh. Các người thánh của Chúa không phải là ngòi bút của Ngài, nhưng họ là văn sĩ thánh của Ngài.
 
 1. Thánh Kinh là biểu hiệu cho uy quyền của Thiên Chúa vì được phát xuất từ nơi Ngài (2 Phi-e-rơ 1:20, 21; 2 Sa-mu-ên 23:2).
 2. Con người cần Đức Thánh Linh hướng dẫn để có thể hiểu được Thiên Chúa là Đấng được bày tỏ qua Thánh Kinh (1 Cô-rinh-tô 2:9-14).
 3. Chúng ta cần phải nghiên cứu CẢ Thánh Kinh để tìm lẽ thật (2 Ti-mô-thê 3:16; Lu-ca 24:27, 44)
-4. Nghiên cứu Thánh Kinh mỗi ngày là điều cần thiết để khỏi bị rơi vào sự lừa dối (Công vụ 17:11; Thi thiên 1:1-3; 1 Phi-e-rơ 2:2)
+4. Nghiên cứu Thánh Kinh mỗi ngày là điều cần thiết để khỏi bị rơi vào sự lừa dối (Công Vụ 17:11; Thi Thiên 1:1-3; 1 Phi-e-rơ 2:2)
 
-### Thánh Kinh suy gẫm thêm
+### Suy gẫm thêm
 
-- Châm ngôn 30:5-6 
+- Châm Ngôn 30:5-6 
 - 1 Tê-sa-lô-ni-ca 2:13
 - Khải Huyền 22:18, 19
 - Ê-phê-sô 3:5
 - Đa-ni-ên 2:22
 - A-mốt 3:7
-- Phục truyền 29:29, Hê-bơ-rơ 1:1
+- Phục Truyền 29:29, Hê-bơ-rơ 1:1
 - 2 Phi-e-rơ 3:1, 2
 
 ## Công tác bảo quản Thánh Kinh
@@ -69,11 +69,11 @@ Các tôi tớ trung thành của Chúa với lòng tôn kính, luôn luôn gìn
 3. Ngành Khảo cổ học ngày nay đã chứng minh sự chính xác của Thánh Kinh về giá trị lịch sử cũng như về thời gian. Với những khám phá của các bản cổ cách đây trên 2000 năm, cùng với phương pháp khoa học để đối chiếu, so sánh, gạn lọc, các học giả cho chúng ta biết rằng Thánh Kinh không có gì thay đổi suốt thời gian qua. Ngoại trừ một vài sự biến đổi nhỏ của ngôn ngữ theo thời gian.
 4. Đức Chúa Trời bảo vệ Lời của Ngài một cách diệu kỳ. Một chấm một nét trong Lời Ngài cũng không thể thay đổi được nếu không có ý muốn của Ngài (Ma-thi-ơ 5:18; 24:35; Ê-sai 40:8).
 
-### Thánh Kinh suy gẫm thêm
+### Suy gẫm thêm
 
-- Châm ngôn 30:5, 6
+- Châm Ngôn 30:5, 6
 - Khải Huyền 22:18, 19
-- Phục truyền 4:2, 12:32, 8:3
+- Phục Truyền 4:2, 12:32, 8:3
 - Mác 13:31
 
 ## Đọc Thánh Kinh
@@ -82,8 +82,8 @@ Thánh Kinh là một khu rừng rậm. Nếu bạn không được hướng d�
 
 - Bạn nên bắt đầu với các sách Tin Lành trong Tân Ước: sách Giăng trước nhất, rồi đến Ma-thi-ơ, Mác, Lu-ca, 1 Giăng, 2 Giăng, 3 Giăng.
 - Kế đến đọc những sách văn thô trong Tân Ước từ Rô-ma đến Giu-đe.
-- Rồi đọc Châm ngôn, Truyền đạo, Thi thiên trong Cựu Ước.
-- Sau đó bạn đọc Công vụ Các Sứ đồ, Ngũ kinh của Môi-se (Sáng thế Ký đến Phục truyền Luật lệ Ký), các sách lịch sử (Giô-suê đến Ê-xơ-tê).
+- Rồi đọc Châm Ngôn, Truyền Đạo, Thi Thiên trong Cựu Ước.
+- Sau đó bạn đọc Công Vụ Các Sứ đồ, Ngũ kinh của Môi-se (Sáng Thế Ký đến Phục Truyền Luật Lệ Ký), các sách lịch sử (Giô-suê đến Ê-xơ-tê).
 - Và cuối cùng đọc các sách tiên tri trong Cựu Ước từ Ê-sai đến Ma-la-chi, Gióp, Nhã Ca và rồi Khải Huyền của Tân Ước.
 
 ## Áp Dụng Cá Nhân

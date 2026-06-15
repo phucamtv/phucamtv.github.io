@@ -10,7 +10,7 @@ title: Đức Chúa Cha
 weight: 3
 ---
 
-## Câu Gốc
+## Câu gốc
 
 “Vì Đức Giê-hô-va là Đấng đã dựng nên các từng trời, tức là Đức Chúa Trời đã tạo thành đất và làm ra nó, đã lập nó cho bền vững, chẳng phải dựng nên là trống không, bèn đã làm nên để dân ở, phán như vầy: Ta là Đức Giê-hô-va, không có đấng nào khác.” (Ê-sai 45:18)
 
@@ -23,11 +23,11 @@ weight: 3
 
 Đức Chúa Cha là Đấng Tạo Hoá, là Nguồn Cội, là Đấng Duy Trì sự sống, và Đấng Cai Trị muôn loài vạn vật. Ngài không hề dứt bỏ sự liên hệ với vật thọ tạo và không quan tâm đến nhu cầu của vật thọ tạo, nhưng hằng ngày ban cho để muôn vật được sống.
 
-1. Ngài dựng nên mọi sự. Sáng thế Ký 1:1; Khải Huyền 4:11
-2. Ngài là nguồn gốc của mọi sự sống. Công vụ 17:28, 29; Thi thiên 36:9
-3. Ngài duy trì sự sống trên thế giới. Thi thiên 104: 27-30
+1. Ngài dựng nên mọi sự. Sáng Thế Ký 1:1; Khải Huyền 4:11
+2. Ngài là nguồn gốc của mọi sự sống. Công Vụ 17:28, 29; Thi Thiên 36:9
+3. Ngài duy trì sự sống trên thế giới. Thi Thiên 104: 27-30
 4. Ngài là Đấng Tối Cao trong cả vũ trụ cho đến đời đời. 1 Cô-rinh-tô 15:28
-5. Ngài giàu tình thương và lòng thành tín. Phục truyền 7:9; Xuất Ê-díp-tô Ký 34:6
+5. Ngài giàu tình thương và lòng thành tín. Phục Truyền 7:9; Xuất Ê-díp-tô Ký 34:6
 
 ## Đấng yêu thương và công bình
 
@@ -57,7 +57,7 @@ Những bổn tánh của Đức Chúa Cha cũng được tìm thấy trong Đ�
 
 ## Áp Dụng Cá Nhân
 
-1. Điều gì xảy ra cho sự liên hệ giữa tôi với Đức Chúa Trời Toàn Năng khi biết rằng Ngài là Một Người Cha hiền từ, hôn là một Đấng Tạo Hoá xa cách? (gợi ý: Bạn sẽ có phản ứng thế nào với Ngài?)
+1. Điều gì xảy ra cho sự liên hệ giữa tôi với Đức Chúa Trời Toàn Năng khi biết rằng Ngài là Một Người Cha hiền từ, hơn là một Đấng Tạo Hoá xa cách? (gợi ý: Bạn sẽ có phản ứng thế nào với Ngài?)
 2. Vì Thiên Chúa xem tôi như là một người con của Ngài, tôi nên đối xử với những người con khác của Ngài như thế nào? Tôi có nên xem họ như là anh chị em của tôi chăng?
 3. Tôi không phải là một đứa con mồ côi, bơ vơ lạc lõng, một mình tranh đấu giữa dòng đời. Tôi muốn học để biết thêm về Cha Trời của tôi, để trở thành một người con xứng đáng của Ngài và có thể đại diện chính xác cho gia đình của Ngài dưới thế gian nầy.
 

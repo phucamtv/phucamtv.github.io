@@ -17,21 +17,21 @@ Như vậy chúng ta công nhận rằng Đức Chúa Giê-su là Chúa, là Ch�
 
 **Lễ Báp-têm là cánh cửa để tiến vào Hội Thánh và là cần thiết cho những ai muốn hiệp một với thân thể của Đấng Cứu Thế.**
 
-1. Tất cả chúng ta đều cần lễ Báp-têm. Công vụ 2:38
-2. Niềm tin trong Đức Chúa Giê-su nên được tiếp nối theo bằng Lễ Báp-têm. Công vụ 8:12; 16:30-33
-3. Những người tin được lời hứa tiếp nhận Đức Thánh Linh trong đời sống mình. Công vụ 2:38
-4. Lễ Báp-têm là biểu hiệu cho sự tha thứ và sự tẩy sạch. Công vụ 22:16
+1. Tất cả chúng ta đều cần lễ Báp-têm. Công Vụ 2:38
+2. Niềm tin trong Đức Chúa Giê-su nên được tiếp nối theo bằng Lễ Báp-têm. Công Vụ 8:12; 16:30-33
+3. Những người tin được lời hứa tiếp nhận Đức Thánh Linh trong đời sống mình. Công Vụ 2:38
+4. Lễ Báp-têm là biểu hiệu cho sự tha thứ và sự tẩy sạch. Công Vụ 22:16
 5. Lễ Báp-têm hiệp nhất chúng ta với Đấng Cứu Thế trong sự chết và sự phục sinh của Ngài. Rô-ma 6:1-6; Cô-lô-se 2:12, 13
-6. Lễ Báp-têm hiệp nhất chúng ta với thân thể của Đấng Cứu Thế là Hội Thánh của Ngài. 1 Cô-rinh-tô 12:12, 13; Công vụ 2:41
-7. Lễ Báp-têm được cử hành qua sự dìm mình xuống nước. Công vụ 8:36-38; Giăng 3:23
+6. Lễ Báp-têm hiệp nhất chúng ta với thân thể của Đấng Cứu Thế là Hội Thánh của Ngài. 1 Cô-rinh-tô 12:12, 13; Công Vụ 2:41
+7. Lễ Báp-têm được cử hành qua sự dìm mình xuống nước. Công Vụ 8:36-38; Giăng 3:23
 
 ## Điều kiện nhận lãnh Thánh Lễ Báp-têm
 
 **Ba điều kiện để nhận Lễ Báp-têm là dạy dỗ, xưng nhận đức-tin trong Đức Chúa Giê-su và ăn năn tội.**
 
 1. Dạy dỗ là cần thiết để Cơ-đốc nhân đều có cùng một niềm tin. Ma-thi-ơ 28:18-20
-2. Tin nhận những gì mình học được là điều kiện thứ hai. Công vụ 8:35-37
-3. Ăn năn tội lỗi, thay đổi lối sống, quay bước trở lại với Chúa, là dấu hiệu thứ ba để biết rằng một người sẵn sàng để nhận Lễ Báp-têm. Công vụ 2:37, 38
+2. Tin nhận những gì mình học được là điều kiện thứ hai. Công Vụ 8:35-37
+3. Ăn năn tội lỗi, thay đổi lối sống, quay bước trở lại với Chúa, là dấu hiệu thứ ba để biết rằng một người sẵn sàng để nhận Lễ Báp-têm. Công Vụ 2:37, 38
 
 ## Tái nhận Thánh Lễ Báp-têm
 
@@ -49,10 +49,10 @@ Như vậy chúng ta công nhận rằng Đức Chúa Giê-su là Chúa, là Ch�
 ## Áp Dụng Cá Nhân
 
 1. Chết đi tội lỗi của chúng ta có nghĩa là gì?
-2. Quyền năng đã làm cho Đức Chúa Giê-su sống lại có thể thay đổi tôi thốt khỏi một đời sống tội lỗi chăng?
+2. Quyền năng đã làm cho Đức Chúa Giê-su sống lại có thể thay đổi tôi thoát khỏi một đời sống tội lỗi chăng?
 3. Hiệp một với Chúa Cứu Thế có nghĩa là gì?
-4. Lễ Báp-têm là một cơ hội tuyệt đẹp. Đó là cánh cửa để chúng ta hiệp một với thân thể của Đấng Cứu Thế, tức là Hội Thánh của Ngài và là cánh cửa để tiếp nhận quyền năng của Chúa Thánh Linh để sống một đời sống chiến thắng.
+4. Lễ Báp-têm là một cơ hội tuyệt đẹp. Đó là cánh cửa để chúng ta hiệp một với thân thể của Đấng Cứu Thế, tức là Hội Thánh của Ngài và là cánh cửa để tiếp nhận quyền năng của Đức Thánh Linh để sống một đời sống chiến thắng.
 
 ## Quyết Định
 
-Lạy Cha Thánh, Con xưng nhận Đức Chúa Giê-su làm Cứu Chúa của đời con. Con ăn năn tội lỗi quá khứ của con. Con muốn đời sống tội lỗi nầy chết đi và sống một đời mới, đắc thắng bởi quyền năng của Đức Chúa Thánh Linh trong Đức Chúa Giê-su Cứu Thế. Con mong ước được hiệp một với thân thể của Chúa Cứu Thế là Hội Thánh của Ngài.
+Lạy Cha Thánh, Con xưng nhận Đức Chúa Giê-su làm Cứu Chúa của đời con. Con ăn năn tội lỗi quá khứ của con. Con muốn đời sống tội lỗi nầy chết đi và sống một đời mới, đắc thắng bởi quyền năng của Đức Thánh Linh trong Đức Chúa Giê-su Cứu Thế. Con mong ước được hiệp một với thân thể của Chúa Cứu Thế là Hội Thánh của Ngài.

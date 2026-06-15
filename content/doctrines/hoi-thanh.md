@@ -14,14 +14,14 @@ Hội Thánh nhận uy quyền từ Đấng Cứu Thế, là Đấng trở nên 
 
 Trong ngày Đấng Cứu Thế đến trong vinh hiển, Ngài sẽ đón nhận Hội Thánh vinh hiển, trung thành trong mọi thời đại, được mua chuộc bởi huyết Ngài, không vết không nhăn, nhưng thánh khiết và vẹn toàn, thuộc về Ngài.
 
-**Khi chúng ta trở thành Cơ-đốc Nhân, chúng ta trở thành một phần của Hội Thánh. Hội Thánh được tả như là thân thể của Đấng Cứu Thế và Ngài là Đầu. Tín hữu trong Hội Thánh cần phải giữ liên hệ mật thiết với Đấng Cứu Thế và với nhau trong mỗi buổi sinh hoạt thờ phượng.**
+**Khi chúng ta trở thành Cơ-đốc nhân, chúng ta trở thành một phần của Hội Thánh. Hội Thánh được tả như là thân thể của Đấng Cứu Thế và Ngài là Đầu. Tín hữu trong Hội Thánh cần phải giữ liên hệ mật thiết với Đấng Cứu Thế và với nhau trong mỗi buổi sinh hoạt thờ phượng.**
 
 1. Hội Thánh là thân thể của Chúa Cứu Thế. 1 Cô-rinh-tô 12:12, 13
 2. Đấng Cứu Thế là đầu Hội Thánh. Ê-phê-sô 1:22, 23
 3. Hội Thánh còn được tả là cô dâu của Chúa Cứu Thế, được Ngài chuẩn bị cho lễ cưới trên thiên đàng. 2 Cô-rinh-tô 11:2; Khải Huyền 19:7, 8
 4. Tiếp nhận Chúa Cứu Thế, khiến chúng ta trở thành một phần trong gia đình của Thiên Chúa. Giăng 1:12, 13; Ê-phê-sô 2:19-22
 5. Tiếp nhận Chúa Cứu Thế dẫn đến sự tách rời khỏi những sinh hoạt tội lỗi thế gian. 1 Giăng 2:15; 2 Cô-rinh-tô 6:16-18
-6. Thiên Chúa cũng có một Hội Thánh đặc biệt trong thời Cựu Ước. Sáng thế Ký 12:3; Công vụ 7:38
+6. Thiên Chúa cũng có một Hội Thánh đặc biệt trong thời Cựu Ước. Sáng Thế Ký 12:3; Công Vụ 7:38
 7. Cơ-đốc nhân cần nhóm họp lại với nhau để thờ phượng và khuyến khích lẫn nhau. Hê-bơ-rơ 10:24, 25
 8. Chúng ta nên dùng những ơn phước Chúa ban, sức lực, tài năng để gầy dựng Hội Thánh của Chúa. 1 Cô-rinh-tô 12:4-11; Ê-phê-sô 4:11-15
 

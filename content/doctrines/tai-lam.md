@@ -15,13 +15,13 @@ Sự tái lâm của Đức Chúa Giê-su là niềm hy vọng đầy ơn phư�
 
 1. Đấng Cứu Thế hứa sẽ trở lại. Giăng 14:1-3
 2. Niềm hy vọng đầy phước hạnh của Cơ-đốc nhân là trông mong ngày Chúa trở lại. Tít 2:13
-3. Đấng Cứu Thế sẽ trở lại trong hình dạng thật sự, tất cả nhân loại sẽ thấy Ngài. Công vụ 1:9-11; Khải Huyền 1:7; Ma-thi-ơ 26:63-64
+3. Đấng Cứu Thế sẽ trở lại trong hình dạng thật sự, tất cả nhân loại sẽ thấy Ngài. Công Vụ 1:9-11; Khải Huyền 1:7; Ma-thi-ơ 26:63-64
 4. Chúa sẽ không đến một cách bí mật hay chỉ cho một số người biết được mà thôi. Ma-thi-ơ 24:27; 1 Tê-sa-lô-ni-ca 4:13-18
 5. Sự trở lại của Ngài là sự cứu rỗi cho Cơ-đốc nhân. Hê-bơ-rơ 9:28
 6. Những người công bình đã chết được phục sinh, cùng với những người công bình đang sống sẽ nhận sự sống đời đời. 1 Cô-rinh-tô 15:51-54; 2 Ti-mô-thê 4:8
 7. Kẻ ác đang sống sẽ chết. 2 Tê-sa-lô-ni-ca 1:7-10; Khải Huyền 14:14-20; 19:11-21
 
-**Hầu như gần hết những biến cố mà Đức Chúa Giê-su và các đấng tiên tri tiên đoán sẽ xảy ra trước khi Đức Chúa Giê-su tái lâm đã được ứng nghiệm. Tình trạng hiện nay của thế giới cho chúng ta thấy rằng ngày Chúa tái lâm rất gần. Chúng ta phải luôn sẵn sàng** **để nghinh đón Ngài.**
+**Hầu như gần hết những biến cố mà Đức Chúa Giê-su và các đấng tiên tri tiên đoán sẽ xảy ra trước khi Đức Chúa Giê-su tái lâm đã được ứng nghiệm. Tình trạng hiện nay của thế giới cho chúng ta thấy rằng ngày Chúa tái lâm rất gần. Chúng ta phải luôn sẵn sàng để nghinh đón Ngài.**
 
 1. Những biến cố tiên đoán trước đã xảy ra. Ma-thi-ơ 24; Mác 13: Lu-ca 21
 2. Như lời tiên tri trong Thánh Kinh, tội ác sẽ gia tăng trên thế giới. 2 Ti-mô-thê 3:1-5

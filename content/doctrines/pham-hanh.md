@@ -4,14 +4,14 @@ title: Đức hạnh của Cơ-đốc nhân
 weight: 22
 ---
 
-## **Câu gốc**
+## Câu gốc
 
 “Vậy, anh em hoặc ăn, hoặc uống, hay là làm sự chi khác, hãy vì sự vinh hiển Đức Chúa Trời mà làm.” (1 Cô-rinh-tô 10:31)
 
 
-Chúng ta được kêu gọi để trở thành một dân tộc thánh cho Thiên Chúa. Tức là những người có sự suy nghĩ, cảm giác và hành động phù hợp với nguyên tắc sống của thiên đàng. Vì Đức Chúa Thánh Linh đã tạo trong chúng ta những cá tánh giống như Chúa Cứu Thế, chúng ta chỉ nên tham gia vào những nếp sống giúp phát triển sự trong sáng, sức khỏe và niềm hân hoan giống như Chúa Cứu Thế. Điều này có nghĩa là những trò giải trí, vui đùa của chúng ta phải hội đủ tiêu chuẩn cao đẹp nhất của Cơ-đốc nhân. Trong khi chúng ta công nhận những khác biệt trong mỗi phong tục tập quán, y phục của chúng ta phải đơn giản, khiêm tốn và lịch sự.
+Chúng ta được kêu gọi để trở thành một dân tộc thánh cho Thiên Chúa. Tức là những người có sự suy nghĩ, cảm giác và hành động phù hợp với nguyên tắc sống của thiên đàng. Vì Đức Thánh Linh đã tạo trong chúng ta những cá tánh giống như Chúa Cứu Thế, chúng ta chỉ nên tham gia vào những nếp sống giúp phát triển sự trong sáng, sức khỏe và niềm hân hoan giống như Chúa Cứu Thế. Điều này có nghĩa là những trò giải trí, vui đùa của chúng ta phải hội đủ tiêu chuẩn cao đẹp nhất của Cơ-đốc nhân. Trong khi chúng ta công nhận những khác biệt trong mỗi phong tục tập quán, y phục của chúng ta phải đơn giản, khiêm tốn và lịch sự.
 
-Những nét cao đẹp của lòng người được phản ảnh qua sự hòa nhã và mền mại, chứ không phải qua những đồ trang sức lòe loẹt. Trở nên giống như Chúa Cứu Thế còn có nghĩa là thân thể của chúng ta, được Thánh Kinh gọi là đền thờ của Chúa Thánh Linh, phải được chăm sóc một cách khôn ngoan. Đồng lúc với tập thể dục và nghĩ ngơi đầy đủ, ẩm thực của chúng ta phải lành mạnh.
+Những nét cao đẹp của lòng người được phản ảnh qua sự hòa nhã và mềm mại, chứ không phải qua những đồ trang sức lòe loẹt. Trở nên giống như Chúa Cứu Thế còn có nghĩa là thân thể của chúng ta, được Thánh Kinh gọi là đền thờ của Đức Thánh Linh, phải được chăm sóc một cách khôn ngoan. Đồng lúc với tập thể dục và nghỉ ngơi đầy đủ, ẩm thực của chúng ta phải lành mạnh.
 
 Rượu, thuốc lá, những loại dược phẩm có hại cho cơ thể, những loại thức ăn không thanh sạch phải được kiêng cữ. Ngoài ra, chúng ta chỉ tham gia vào những sinh hoạt giúp cho tư tưởng và thân thể phù hợp với đường lối của Chúa Cứu Thế, là Đấng mong ước chúng ta được trọn vẹn, hân hoan và tốt lành.
 
@@ -29,25 +29,25 @@ Rượu, thuốc lá, những loại dược phẩm có hại cho cơ thể, nh�
 
 ## Vì sự vinh hiển của Thiên Chúa
 
-**Thân thể của chúng ta là đền thờ của Đức Chúa Thánh Linh, nên được chăm sóc trong đường lối đem vinh hiển cho Thiên Chúa và phát triển sức khỏe của chúng ta. Chúng ta nên tham gia vào những** **gì tốt một cách đều độ và tránh những gì có hại cho cơ thể.**
+**Thân thể của chúng ta là đền thờ của Đức Thánh Linh, nên được chăm sóc trong đường lối đem vinh hiển cho Thiên Chúa và phát triển sức khỏe của chúng ta. Chúng ta nên tham gia vào những gì tốt một cách đều độ và tránh những gì có hại cho cơ thể.**
 
 1. Tất cả mọi sự chúng ta làm nên đem vinh hiển cho Thiên Chúa. 1 Cô-rinh-tô 10:31
 2. Chúng ta nên cẩn trọng chăm sóc thân thể của chúng ta như là một đền thờ của Đức Chúa Trời, bằng cách chỉ ăn và uống những thức ăn bổ dưỡng cho sức khỏe và tham gia vào những hoạt động làm thân thể cường tráng. (Rượu, thuốc lá và những dược phẩm nguy hại cho cơ thể đều được kiêng cữ). 1 Cô-rinh-tô 6:19-20; 2 Cô-rinh-tô 6:14-7:2
 3. Điều độ là nguyên tắc quan trọng trong đời sống Cơ-đốc nhân. 1 Cô-rinh-tô 9:24-27
-4. Thiên Chúa mong ước rằng chúng ta được khỏe mạnh (tập thể dục đầy đủ, nghĩ ngơi và ẩm thực bổ dưỡng là những điều quan trọng) 3 Giăng 2
-5. Thiên Chúa không bao giờ có ý định cho chúng ta ăn những thức ăn không thanh sạch. Lê-vi Ký 11:1-47; Phục truyền 14:1-21
+4. Thiên Chúa mong ước rằng chúng ta được khỏe mạnh (tập thể dục đầy đủ, nghỉ ngơi và ẩm thực bổ dưỡng là những điều quan trọng) 3 Giăng 2
+5. Thiên Chúa không bao giờ có ý định cho chúng ta ăn những thức ăn không thanh sạch. Lê-vi Ký 11:1-47; Phục Truyền 14:1-21
 
 **Thánh Kinh cho nhiều áp dụng thực tế về nguyên tắc đặt Thiên Chúa ở vai trò cao quý nhất trong cuộc đời chúng ta. Bạn hãy suy nghĩ những câu hỏi tiếp theo và đọc những câu Thánh Kinh liên hệ, rồi viết xuống kết luận của bạn về những phương cách mà Thiên Chúa mong ước bạn sống theo.**
 
-1. Đức Chúa Thánh Linh đem lại những đức hạnh nào cho một đời sống Cơ-đốc nhân? Ga-la-ti 5:22-23
+1. Đức Thánh Linh đem lại những đức hạnh nào cho một đời sống Cơ-đốc nhân? Ga-la-ti 5:22-23
 2. Trở thành một Cơ-đốc nhân đem lại điều gì khác lạ trong thái độ của chúng ta đối với thế giới chung quanh? Cô-lô-se 3:1, 2; Ma-thi-ơ 6:19-21
 3. Chúng ta nên đối xử với những người chung quanh như thế nào? Rô-ma 12:14-21; 1 Tê-sa-lô-ni-ca 5:15
 4. Tôi nên có thái độ như thế nào đối với những người phạm tội cùng tôi? Cô-lô-se 3:13; Ma-thi-ơ 18:15-17
-5. Tôi nên có thái độ như thế nào đối với những người hay choáng đối tôi? Ma-thi-ơ 5:44; Rô-ma 12:20
+5. Tôi nên có thái độ như thế nào đối với những người hay chống đối tôi? Ma-thi-ơ 5:44; Rô-ma 12:20
 6. Cơ-đốc nhân có nên lựa chọn những loại phim ảnh hay chương trình TV nào mà họ xem, những loại sách họ đọc, những loại âm nhạc mà họ lắng nghe chăng? Rô-ma 13:14; 1 Phi-e-rơ 2:11; Cô-lô-se 3:5; Ê-phê-sô 5:3
 7. Tôi có thể xin Chúa ban phước trên những sinh hoạt như là cờ bạc, phòng trà, khiêu vũ chăng? 1 Giăng 2:15-17
 8. Cơ-đốc nhân có nên tham gia vào những trận đấu hay chương trình thể thao tàn nhẫn, khát máu chăng? Phi-líp 4:8
-9. Cơ-đốc nhân có nên đi thờ phượng đều đặn mỗi Sa bát chăng? Lê-vi Ký 23:3; Ê-sai 66:23; Lu-ca 4:16; Hê-bơ-rơ 10:24, 25
+9. Cơ-đốc nhân có nên đi thờ phượng đều đặn mỗi Sa-bát chăng? Lê-vi Ký 23:3; Ê-sai 66:23; Lu-ca 4:16; Hê-bơ-rơ 10:24, 25
 10. Cơ-đốc nhân có nên kể những câu chuyện tiếu lâm tục tĩu chăng? Ê-phê-sô 4:29; 5:4
 
 ## Xứng hiệp với sự dạy dỗ của Thánh Kinh
@@ -60,14 +60,14 @@ Rượu, thuốc lá, những loại dược phẩm có hại cho cơ thể, nh�
 4. Thành Thật. Ê-phê-sô 4:28; Cô-lô-se 3:9
 5. Hay tiếp khách. 1 Phi-e-rơ 4:9, 10; Hê-bơ-rơ 13:2
 6. Khiêm nhường. Ê-phê-sô 4:1, 2; Phi-líp 2:3-5
-7. Hăng hái và chuyên càn. Cô-lô-se 3;23; Rô-ma 12:11
+7. Hăng hái và chuyên cần. Cô-lô-se 3:23; Rô-ma 12:11
 8. Hiếu hòa. Ma-thi-ơ 5:9; Rô-ma 12:17-19
 9. Làm gương tốt. Phi-líp 2:14, 15
 10. Trang sức nhã nhặn. 1 Ti-mô-thê 2:9; 1 Phi-e-rơ 3:3
 11. Tôn trọng uy quyền. Hê-bơ-rơ 13:17; Tít 3:1; Lê-vi Ký 19:32
 12. Luôn biết cảm tạ. 1 Tê-sa-lô-ni-ca 5:18; Hê-bơ-rơ 13:15
 
-## Suy gẫm thêm
+### Suy gẫm thêm
 
 **Những câu Thánh Kinh tiếp theo đây liệt kê những những nguyên tắc tổng quát cho hành vi của Cơ-đốc nhân.**
 
@@ -87,7 +87,7 @@ Những đức hạnh cao đẹp của Cơ-đốc nhân không phải để đ�
 
 ## Áp Dụng Cá Nhân
 
-1. Nghiên cứu Thánh Kinh và càu nguyện giúp tôi điều gì trong trách nhiệm là sứ giả của Thiên Chúa cho thế gian này?
+1. Nghiên cứu Thánh Kinh và cầu nguyện giúp tôi điều gì trong trách nhiệm là sứ giả của Thiên Chúa cho thế gian này?
 2. Giữ gìn một thân thể khỏe mạnh liên quan như thế nào đến việc đại diện cho Thiên Chúa?
 
 ## Quyết Định

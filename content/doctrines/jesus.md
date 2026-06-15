@@ -14,11 +14,11 @@ Của lễ đền tội trọn vẹn nầy đã tỏ bày được sự công b�
 
 **Đời sống, sự chết và sự phục sinh của Đức Chúa Giê-su bày tỏ bổn tánh công bình của Thiên Chúa và ban sự sống đời đời cho những ai tiếp nhận Ngài.**
 
-1. Chỉ một mình Đấng Cứu Thế hoàn tất được sự cứu rỗi cho loài người. Công vụ 4:12; Hê-bơ-rơ 7:26, 27
+1. Chỉ một mình Đấng Cứu Thế hoàn tất được sự cứu rỗi cho loài người. Công Vụ 4:12; Hê-bơ-rơ 7:26, 27
 2. Những ai tiếp nhận Đức Chúa Giê-su làm Chúa và Đấng Cứu Rỗi của đời mình được nhận sự sống đời đời. Giăng 3:16
 3. Đời sống và sự chết của Đức Chúa Giê-su chứng tỏ rằng Thiên Chúa đối xử với con người một cách công bình. Rô-ma 3:23-26
 
-## Suy gẫm thêm
+### Suy gẫm thêm
 
 - Ê-sai 53; Rô-ma 1:4
 - Hê-bơ-rơ 2:9
