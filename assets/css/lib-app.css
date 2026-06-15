@@ -90,7 +90,7 @@ body.lib-app-body { margin: 0; padding: 0; overflow: hidden; background: var(--k
 .lib-app {
   --lib-rail-w: 200px;
   --lib-mid-w: 380px;
-  width: 100vw; height: 100vh; overflow: hidden;
+  width: 100vw; height: 100vh; height: 100dvh; overflow: hidden;
   display: grid;
   grid-template-columns: var(--lib-rail-w) minmax(300px, var(--lib-mid-w)) minmax(460px, 1fr);
   grid-template-rows: 1fr;
