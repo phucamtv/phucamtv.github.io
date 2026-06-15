@@ -6,7 +6,7 @@ weight: 14
 
 ## Câu gốc
 
-“Vả, như thân là một, mà có nhiều chi thể và như các chi thể của thân dầu có nhiều, cũng chỉ hiệp thành một thân mà thôi, Đấng Christ khác nào như vậy. Vì chưng chúng ta hoặc người Do Thái, hoặc người Hy-lạp, hoặc tôi mọi, hoặc tự chủ, đều đã chịu phép báp-têm chung một Thánh Linh để hiệp làm một thân; và chúng ta đều đã chịu uống chung một Thánh Linh nữa.” (1 Cô-rinh-tô 12:12, 13)
+> “Vả, như thân là một, mà có nhiều chi thể và như các chi thể của thân dầu có nhiều, cũng chỉ hiệp thành một thân mà thôi, Đấng Christ khác nào như vậy. Vì chưng chúng ta hoặc người Do Thái, hoặc người Hy-lạp, hoặc tôi mọi, hoặc tự chủ, đều đã chịu phép báp-têm chung một Thánh Linh để hiệp làm một thân; và chúng ta đều đã chịu uống chung một Thánh Linh nữa.” (1 Cô-rinh-tô 12:12, 13)
 
 
 Hội Thánh là một thân thể với nhiều chi thể khác nhau. Những chi thể nầy được gọi ra từ các quốc gia, các dân tộc, các sắc tộc, các ngôn ngữ.

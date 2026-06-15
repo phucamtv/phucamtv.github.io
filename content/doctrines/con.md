@@ -13,7 +13,7 @@ weight: 4
 
 ## Câu gốc
 
-“Ban đầu có Ngôi Lời, Ngôi Lời ở cùng Đức Chúa Trời, và Ngôi Lời là Đức Chúa Trời. Ban đầu Ngài ở cùng Đức Chúa Trời. Muôn vật bởi Ngài làm nên, chẳng vật chi đã làm nên mà không bởi Ngài.” (Giăng 1:1-3)
+> “Ban đầu có Ngôi Lời, Ngôi Lời ở cùng Đức Chúa Trời, và Ngôi Lời là Đức Chúa Trời. Ban đầu Ngài ở cùng Đức Chúa Trời. Muôn vật bởi Ngài làm nên, chẳng vật chi đã làm nên mà không bởi Ngài.” (Giăng 1:1-3)
 
 
 Đức Chúa Con hằng có đời đời, mang lấy hình dạng loài người qua thân xác Đức Chúa Giê-su. Nhờ Ngài mọi vật được tạo nên, bổn tánh của Thiên Chúa được bày tỏ, sự cứu rỗi của loài người được hoàn tất và thế gian sẽ bị xét đoán sau nầy. Từ đời đời cho đến đời đời Ngài hoàn toàn thật sự là Thiên Chúa và Ngài đã thật sự trở thành loài người. Đức Chúa Giê-su là Đấng Cứu Thế. Ngài được hoài thai bởi Đức Thánh Linh và hạ sanh bởi trinh nữ Ma-ri. Ngài sống và trải qua sự cám dỗ như tất cả mọi người, nhưng hoàn toàn làm gương cho sự công bình và tình yêu thương của Đức Chúa Trời. Qua những phép lạ, Ngài đã bày tỏ quyền năng của Đức Chúa Trời và chứng minh rằng Ngài là Đấng Cứu Thế của Lời Hứa trong Cựu Ước. Ngài chịu đau đớn và tình nguyện chết trên thập tự giá vì tội của chúng ta, chết thế cho chúng ta, được phục sinh từ trong kẻ chết và thăng thiên về trời để cầu thay cho chúng ta trong đền thánh trên thiên đàng. Ngài sẽ tái lâm trong vinh hiển để giải thoát dân sự của Ngài lần cuối cùng và phục hồi lại mọi sự.

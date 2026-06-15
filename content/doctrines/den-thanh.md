@@ -6,7 +6,7 @@ weight: 24
 
 ## Câu gốc
 
-"Đại ý điều chúng ta mới nói đó, là chúng ta có một thầy tế lễ thượng phẩm, ngồi bên hữu ngai của Đấng tôn nghiêm trong các từng trời, làm chức việc nơi thánh và đền tạm thật, bởi Chúa dựng lên, không phải bởi một người nào." (Hê-bơ-rơ 8:1, 2)
+> "Đại ý điều chúng ta mới nói đó, là chúng ta có một thầy tế lễ thượng phẩm, ngồi bên hữu ngai của Đấng tôn nghiêm trong các từng trời, làm chức việc nơi thánh và đền tạm thật, bởi Chúa dựng lên, không phải bởi một người nào." (Hê-bơ-rơ 8:1, 2)
 
 
 Có một đền thờ thật trên thiên đàng. Đây là đền thờ thật do chính tay Đức Chúa Trời dựng nên. Đền thờ này bày tỏ chương trình cứu rỗi của Đấng Tạo Hóa thực hiện cho loài người hư mất. Trong đền thờ này, chính Đức Chúa Giê-su thi hành chức vụ tế lễ thay cho loài người, ban cho những người tin Ngài mọi quyền lợi qua sự chuộc tội của Ngài trên thập tự giá. Chúa được tôn làm Thầy Tế Lễ Thượng Phẩm và bắt đầu chức vụ cầu thay khi Ngài trở về trời. Vào năm 1844, khi thời gian tiên tri 2300 ngày chấm dứt, Chúa vào nơi chí thánh và thi hành giai đoạn cuối cùng trong chương trình cứu chuộc của Ngài. Giai đoạn này được biểu hiệu bởi Ngày Đại Lễ Chuộc Tội trong đền tạm dưới đất. Trong ngày lễ này, đền thánh được lau sạch bởi huyết của con sinh lễ. Nhưng đền thánh trên trời được lau sạch bởi huyết của chính Đức Chúa Giê-su. Đây cũng là giai đoạn mà Chúa bày tỏ cho thiên đàng biết rằng những người đã ngủ yên trong Chúa và những người đang sống cho đến kỳ Chúa đến, xứng đáng để được tiếp nhận vào thiên đàng.

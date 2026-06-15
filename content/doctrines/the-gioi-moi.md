@@ -6,7 +6,7 @@ weight: 28
 
 ## Câu gốc
 
-“Đoạn, tôi thấy trời mới và đất mới; vì trời thứ nhứt và đất thứ nhứt cũng đã biến đi mất và biển cũng không còn nữa.” (Khải Huyền 21:1)
+> “Đoạn, tôi thấy trời mới và đất mới; vì trời thứ nhứt và đất thứ nhứt cũng đã biến đi mất và biển cũng không còn nữa.” (Khải Huyền 21:1)
 
 
 Trên thế giới mới, là nơi mà người công bình sẽ sống, Thiên Chúa sẽ cung cấp một ngôi nhà đời đời cho những người được cứu, một khung cảnh tuyệt hảo cho sự sống đời đời, với tình yêu thương, niềm hân hoan và được học hỏi về sự hiện diện của Ngài. Vì trên thế giới này, Thiên Chúa sẽ sống giữa dân sự Ngài, đau khổ và chết chóc không còn nữa. Cuộc chiến giữa thiện và ác đã hoàn toàn chấm dứt, tội lỗi hoàn toàn biến mất. Tất cả vạn vật sẽ tuyên bố rằng Thiên Chúa là Đấng yêu thương và Ngài sẽ trị vì đời đời. A-men.

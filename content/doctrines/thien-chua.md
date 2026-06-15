@@ -12,7 +12,7 @@ weight: 2
 
 ## Câu gốc
 
-“Nguyền xin ơn của Đức Chúa Giê-su Christ, sự yêu thương của Đức Chúa Trời, và sự giao thông của Đức Thánh Linh ở với anh em hết thảy.” (2 Cô-rinh-tô 13:13)
+> “Nguyền xin ơn của Đức Chúa Giê-su Christ, sự yêu thương của Đức Chúa Trời, và sự giao thông của Đức Thánh Linh ở với anh em hết thảy.” (2 Cô-rinh-tô 13:13)
 
 ## Thiên Chúa có tồn tại?
 

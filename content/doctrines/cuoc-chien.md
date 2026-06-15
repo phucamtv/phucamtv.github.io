@@ -6,7 +6,7 @@ weight: 9
 
 ## Câu gốc
 
-“Hầu cho nghe đến danh Đức Chúa Giê-su, mọi đầu gối trên trời, dưới đất, bên dưới đất, thảy đều quì xuống và mọi lưỡi thảy đều xưng Giê-su Christ là Chúa, mà tôn vinh Đức Chúa Trời, là Đức Chúa Cha.” (Phi-líp 2:10, 11)
+> “Hầu cho nghe đến danh Đức Chúa Giê-su, mọi đầu gối trên trời, dưới đất, bên dưới đất, thảy đều quì xuống và mọi lưỡi thảy đều xưng Giê-su Christ là Chúa, mà tôn vinh Đức Chúa Trời, là Đức Chúa Cha.” (Phi-líp 2:10, 11)
 
 
 Cả nhân loại đang tham gia vào cuộc chiến vĩ đại giữa Đức Chúa Giê-su và Sa-tan về bổn tánh của Thiên Chúa, luật pháp của Ngài và quyền tối thượng của Ngài trong vũ trụ. Cuộc chiến nầy khởi sự từ trên thiên đàng khi một thiên sứ được Ngài dựng nên với quyền tự do lựa chọn, vì quá kiêu ngạo trở thành Sa-tan, tức kẻ đối địch lại Thiên Chúa, đã dụ dỗ một số thiên sứ khác cùng phản loạn. Sa-tan đã gieo rắc tinh thần phản loạn trong thế giới nầy khi nó hướng dẫn A-đam và Ê-va vào tội lỗi. Sự phạm tội nầy làm lu mờ hình ảnh của Thiên Chúa trong con người, đảo lộn mọi trật tự trên thế giới và dần dần bị tàn phá khủng khiếp vào trận Đại Hoàng Thuỷ. Khi quan sát cả tạo vật, thế giới trở thành một sân khấu cho cuộc chiến của vũ trụ nầy. Kết quả của cuộc chiến là tình yêu của Đức Chúa Trời được sáng tỏ. Để trợ giúp dân sự của Ngài trong cuộc chiến nầy, Đức Chúa Giê-su gởi Đức Thánh Linh và các thiên sứ trung thành đến để hướng dẫn, bảo vệ và gìn giữ họ trong con đường của sự cứu rỗi.

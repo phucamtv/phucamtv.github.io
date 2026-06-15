@@ -6,7 +6,7 @@ weight: 22
 
 ## Câu gốc
 
-“Vậy, anh em hoặc ăn, hoặc uống, hay là làm sự chi khác, hãy vì sự vinh hiển Đức Chúa Trời mà làm.” (1 Cô-rinh-tô 10:31)
+> “Vậy, anh em hoặc ăn, hoặc uống, hay là làm sự chi khác, hãy vì sự vinh hiển Đức Chúa Trời mà làm.” (1 Cô-rinh-tô 10:31)
 
 
 Chúng ta được kêu gọi để trở thành một dân tộc thánh cho Thiên Chúa. Tức là những người có sự suy nghĩ, cảm giác và hành động phù hợp với nguyên tắc sống của thiên đàng. Vì Đức Thánh Linh đã tạo trong chúng ta những cá tánh giống như Chúa Cứu Thế, chúng ta chỉ nên tham gia vào những nếp sống giúp phát triển sự trong sáng, sức khỏe và niềm hân hoan giống như Chúa Cứu Thế. Điều này có nghĩa là những trò giải trí, vui đùa của chúng ta phải hội đủ tiêu chuẩn cao đẹp nhất của Cơ-đốc nhân. Trong khi chúng ta công nhận những khác biệt trong mỗi phong tục tập quán, y phục của chúng ta phải đơn giản, khiêm tốn và lịch sự.

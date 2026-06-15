@@ -13,7 +13,7 @@ weight: 5
 
 ## Câu gốc
 
-“Vả, Chúa tức là Thánh Linh, Thánh Linh của Chúa ở đâu, thì sự tự do cũng ở đó.” (2 Cô-rinh-tô 3:17)
+> “Vả, Chúa tức là Thánh Linh, Thánh Linh của Chúa ở đâu, thì sự tự do cũng ở đó.” (2 Cô-rinh-tô 3:17)
 
 Đức Thánh Linh là Thiên Chúa đời đời, tích cực tham gia với Đức Chúa Cha và Đức Chúa Con trong sự tạo thế, sự giáng phàm của Đức Chúa Giê-su và sự cứu rỗi nhân loại. Ngài soi sáng để những người của Chúa viết Thánh Kinh. Ngài ban quyền năng tràn đầy trong cuộc đời của mỗi Cơ-đốc nhân. Ngài thu hút loài người đến với Đức Chúa Con và cáo trách trong lương tâm con người. Những ai đáp ứng với Ngài, Ngài sẽ biến đổi cuộc đời họ theo hình ảnh của Thiên Chúa Toàn Năng. Đức Thánh Linh được Đức Chúa Cha và Đức Chúa Con gởi đến để ở với con cái của Thiên Chúa đời đời. Ngài ban những ân tứ (tài năng) thiêng liêng cho Hội Thánh, ban quyền năng trên Hội Thánh để làm chứng về Đấng Cứu Thế và hướng dẫn Hội Thánh thông hiểu và sống phù hợp với Lẽ thật của Thánh Kinh.
 

@@ -6,7 +6,7 @@ weight: 27
 
 ## Câu gốc
 
-“Phước thay và thánh thay những kẻ được phần về sự sống lại thứ nhất! Sự chết thứ nhì không có quyền gì trên những người ấy; song những người ấy sẽ làm thầy tế lễ của Đức Chúa Trời và của Đấng Christ, cùng sẽ trị vì với Ngài trong một ngàn năm.” (Khải Huyền 20:6)
+> “Phước thay và thánh thay những kẻ được phần về sự sống lại thứ nhất! Sự chết thứ nhì không có quyền gì trên những người ấy; song những người ấy sẽ làm thầy tế lễ của Đức Chúa Trời và của Đấng Christ, cùng sẽ trị vì với Ngài trong một ngàn năm.” (Khải Huyền 20:6)
 
 
 Một ngàn năm là thời kỳ Đức Chúa Giê-su sẽ cùng các thánh của Ngài trị vì trên thiên đàng. Thời gian này là khoảng cách giữa hai sự sống lại. Trong thời gian này, kẻ ác (đang chết) sẽ bị đoán xét. Thế gian sẽ hoàn toàn bị hoang vắng, không một bóng người, chỉ có Sa-tan và những quỷ sứ của nó bị giam cầm trên đất. Khi thời gian này chấm dứt, Đấng Cứu Thế và các thánh của Ngài cùng với thành Giê-ru-sa-lem mới sẽ được hạ xuống từ thiên đàng. Kẻ ác sẽ được cho phục sinh. Sa-tan và các quỷ sứ của nó được thả ra, tụ họp lại những kẻ ác, bao vây thành Giê-ru-sa-lem. Nhưng lửa từ Đức Chúa Trời sẽ thiêu đốt chúng, dọn sạch thế giới. Chúng sẽ bị quăng vào hồ lửa hình phạt. Như vậy, vũ trụ sẽ không còn bóng của tội lỗi và tội nhân nữa.

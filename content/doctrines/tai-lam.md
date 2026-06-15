@@ -6,7 +6,7 @@ weight: 25
 
 ## Câu gốc
 
-“Lòng các ngươi chớ hề bối rối; hãy tin Đức Chúa Trời, cũng hãy tin ta nữa. Trong nhà Cha ta có nhiều chỗ ở; bằng chẳng vậy, ta đã nói cho các ngươi rồi. Ta đi sắm sẵn cho các ngươi một chỗ. Khi ta đã đi và đã sắm sẵn cho các ngươi một chỗ rồi, ta sẽ trở lại đem các ngươi đi với ta, hầu cho ta ở đâu thì các ngươi cũng ở đó.” (Giăng 14:1-3)
+> “Lòng các ngươi chớ hề bối rối; hãy tin Đức Chúa Trời, cũng hãy tin ta nữa. Trong nhà Cha ta có nhiều chỗ ở; bằng chẳng vậy, ta đã nói cho các ngươi rồi. Ta đi sắm sẵn cho các ngươi một chỗ. Khi ta đã đi và đã sắm sẵn cho các ngươi một chỗ rồi, ta sẽ trở lại đem các ngươi đi với ta, hầu cho ta ở đâu thì các ngươi cũng ở đó.” (Giăng 14:1-3)
 
 
 Sự tái lâm của Đức Chúa Giê-su là niềm hy vọng đầy ơn phước cho Hội Thánh, là tuyệt đỉnh của tin lành đời đời. Đấng Cứu Thế sẽ trở lại trong hình dạng mà Ngài thăng thiên và mọi mắt trên toàn thế giới đều trông thấy. Khi Ngài trở lại, người công bình đã chết sẽ được sống lại và cùng với những người công bình đang sống sẽ được biến đổi vinh hiển và được cất lên thiên đàng, nhưng kẻ ác sẽ đi vào sự chết. Đa số những lời tiên tri trong Thánh Kinh đã được ứng nghiệm, cùng với tình trạng của thế giới hôm nay, cho chúng ta biết rằng Đấng Cứu Thế sẽ tái lâm rất gần. Thời điểm của sự tái lâm không ai biết được, vì thế Chúa khuyên chúng ta hãy luôn luôn sẵn sàng.

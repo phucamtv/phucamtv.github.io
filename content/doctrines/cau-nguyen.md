@@ -9,7 +9,7 @@ weight: 6
 
 ## Câu gốc
 
-“Chớ lo phiền chi hết, nhưng trong mọi sự hãy dùng lời cầu nguyện, nài xin và sự tạ ơn mà trình các sự cầu xin của mình cho Đức Chúa Trời.” (Phi-líp 4:6)
+> “Chớ lo phiền chi hết, nhưng trong mọi sự hãy dùng lời cầu nguyện, nài xin và sự tạ ơn mà trình các sự cầu xin của mình cho Đức Chúa Trời.” (Phi-líp 4:6)
 
 Một trong những đặc ân mà Thiên Chúa ban cho dân sự của Ngài là cầu nguyện. Khi chúng ta học Thánh Kinh, Thiên Chúa nói chuyện với chúng ta. Khi chúng ta cầu nguyện, chúng ta nói chuyện với Ngài. Chúng ta được cầu nguyện hay nói chuyện với Ngài để trình lên Ngài tất cả những nhu cầu, những nỗi niềm trong cuộc sống. Đấng Cứu Thế khuyên mời chúng ta đến với Ngài, trao cho Ngài tất cả mọi gánh nặng, mọi nhu cầu trong đời sống vì Ngài hay chăm gìn săn sóc chúng ta. Cầu nguyện được xem như là hơi thở của linh hồn. Cầu nguyện đem lại quyền năng cho linh hồn để chiến đấu với quyền lực của sự tối tăm. Đọc Thánh Kinh được coi như là thức ăn. Làm chứng đạo cho những người chung quanh được coi như là hoạt động cho linh hồn khỏe mạnh.
 

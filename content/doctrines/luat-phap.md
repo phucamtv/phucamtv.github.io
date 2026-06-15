@@ -6,9 +6,9 @@ weight: 19
 
 ## Câu gốc
 
-“Vậy, chúng ta nhân đức-tin mà bỏ luật pháp hay sao? Chẳng hề như vậy! Trái lại, chúng ta làm vững bền luật pháp.” (Rô-ma 3:31)
+> “Vậy, chúng ta nhân đức-tin mà bỏ luật pháp hay sao? Chẳng hề như vậy! Trái lại, chúng ta làm vững bền luật pháp.” (Rô-ma 3:31)
 
-“Nếu các ngươi yếu mến ta, thì giữ gìn các điều răn ta.” (Giăng 14:15)
+> “Nếu các ngươi yếu mến ta, thì giữ gìn các điều răn ta.” (Giăng 14:15)
 
 
 Những nguyên tắc đạo-đức cao quý nhất của Thiên Chúa Toàn Năng được ghi lại trong luật pháp 10 Điều Răn và được bày tỏ qua đời sống của Đức Chúa Giê-su Christ nơi hạ giới nầy. Luật pháp nầy bày tỏ tình yêu thương, ý muốn và đường lối không hề thay đổi của Thiên Chúa liên quan đến mối quan hệ và hành vi của loài người trong mọi thời đại. Những nguyên tắc nầy là căn bản của giao ước thánh mà Thiên Chúa thiết lập với dân sự của Ngài và là tiêu chuẩn để Thiên Chúa xét đoán nhân loại.

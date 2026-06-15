@@ -6,7 +6,7 @@ weight: 11
 
 ## Câu gốc
 
-“Vì tiền công của tội lỗi là sự chết; nhưng sự ban cho của Đức Chúa Trời là sự sống đời đời trong Đức Chúa Giê-su Christ, Chúa chúng ta.” (Rô-ma 6:23)
+> “Vì tiền công của tội lỗi là sự chết; nhưng sự ban cho của Đức Chúa Trời là sự sống đời đời trong Đức Chúa Giê-su Christ, Chúa chúng ta.” (Rô-ma 6:23)
 
 Vì tình yêu và lòng nhân từ quá bao la, Thiên Chúa khiến Đấng Christ là Đấng không hề biết tội lỗi, trở nên tội lỗi vì chúng ta. Để rồi nhờ Ngài chúng ta được trở nên công bình cho Thiên Chúa. Bởi sự hướng dẫn của Đức Thánh Linh chúng ta cảm nhận được nhu cầu của mình, nhìn nhận tội lỗi mình, ăn năn hối lỗi và tin nhận Đức Chúa Giê-su là Cứu Chúa, là Đấng chết thay và là Đấng gương mẫu cho chúng ta. Đức tin mà chúng ta có được để nhận sự cứu rỗi đến từ Thánh Kinh và là một món quà bởi ân-điển của Thiên Chúa. Nhờ Đấng Cứu Thế chúng ta được xưng công bình, được nhận làm con trai và con gái của Thiên Chúa, được giải thoát khỏi quyền lực của tội lỗi. Nhờ Đức Thánh Linh chúng ta được tái sanh và được thánh hoá; Đức Thánh Linh đổi mới tâm hồn chúng ta, viết luật pháp của tình yêu thương Đức Chúa Trời vào trong tâm chúng ta và chúng ta được ban cho quyền năng để sống một đời sống thánh thiện. Tiếp tục sống trong Chúa sẽ giúp chúng ta dần dần mang bản tánh thiên thượng và được bảo đảm sự cứu rỗi ngay hôm nay và trong ngày phán xét.
 

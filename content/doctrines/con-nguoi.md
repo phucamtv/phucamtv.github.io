@@ -11,9 +11,9 @@ weight: 8
 
 ## Câu gốc
 
-“Đức Chúa Trời phán rằng: Chúng ta hãy làm nên loài người như hình ta và theo tượng ta...” (Sáng Thế Ký 1:26)
+> “Đức Chúa Trời phán rằng: Chúng ta hãy làm nên loài người như hình ta và theo tượng ta...” (Sáng Thế Ký 1:26)
 
-“Vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời.” (Rô-ma 3:23)
+> “Vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời.” (Rô-ma 3:23)
 
 Con người, nam và nữ, được tạo dựng nên trong hình ảnh của Đức Chúa Trời với cá nhân tính, với quyền tự do suy nghĩ và hành động. Dù rằng được tạo nên với quyền tự do, mỗi cá nhân do sự hợp thành của thể, trí, linh, phải nhờ cậy vào Chúa để có sự sống, hơi thở và mọi sự. Khi tổ phụ loài người không vâng lời Thiên Chúa, họ muốn sống độc lập không cần Thiên Chúa và vì thế, đánh mất đi địa vị cao trọng của mình trước mặt Chúa. Hình ảnh của Thiên Chúa trong loài người bị lu mờ và con người phải rơi vào sự thống trị của sự chết. Con cháu của A-đam và Ê-va cũng bị di truyền bản thể tội lỗi nầy và cùng nhận hậu quả của tội lỗi. Loài người từ đó được sanh ra với sự yếu đuối và có khuynh hướng phạm tội. Nhưng Thiên Chúa qua Đức Chúa Giê-su hòa giải thế gian lại với Ngài và bởi Đức Thánh Linh phục hồi lại hình ảnh của Đấng Tạo Hoá trong mỗi người. Con người được tạo dựng nên vì vinh hiển của Thiên Chúa, họ được kêu gọi để yêu thương Ngài, yêu thương lẫn nhau và săn sóc thế giới họ đang sống.
 

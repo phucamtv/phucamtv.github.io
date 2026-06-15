@@ -6,7 +6,7 @@ weight: 10
 
 ## Câu gốc
 
-“Hỡi sự chết, sự thắng của mầy ở đâu? Hỡi sự chết, cái nọc của mầy ở đâu? Cái nọc của sự chết là tội lỗi, sức mạnh của tội lỗi là luật pháp. Nhưng, tạ ơn Đức Chúa Trời đã cho chúng ta sự thắng, nhờ Đức Chúa Giê-su Christ chúng ta.” (1 Cô-rinh-tô 15:55-57)
+> “Hỡi sự chết, sự thắng của mầy ở đâu? Hỡi sự chết, cái nọc của mầy ở đâu? Cái nọc của sự chết là tội lỗi, sức mạnh của tội lỗi là luật pháp. Nhưng, tạ ơn Đức Chúa Trời đã cho chúng ta sự thắng, nhờ Đức Chúa Giê-su Christ chúng ta.” (1 Cô-rinh-tô 15:55-57)
 
 Nhờ đời sống Chúa Cứu Thế hoàn toàn vâng theo ý muốn của Thiên Chúa, nhờ sự đau đớn, sự chết và sự phục sinh của Ngài mà Thiên Chúa đã dự bị cho chúng ta phương tiện chuộc tội cho loài người. Tất cả những ai nhờ đức-tin tiếp nhận phương tiện chuộc tội nầy sẽ nhận được sự sống đời đời.
 

@@ -11,7 +11,7 @@ weight: 7
 
 ## Câu gốc
 
-“Lạy Đức Chúa Trời là Chúa chúng tôi, Chúa đáng được vinh hiển, tôn quí và quyền lực; vì Chúa đã dựng nên muôn vật và ấy là vì ý muốn Chúa mà muôn vật mới có và đã được dựng nên.” (Khải Huyền 4:11)
+> “Lạy Đức Chúa Trời là Chúa chúng tôi, Chúa đáng được vinh hiển, tôn quí và quyền lực; vì Chúa đã dựng nên muôn vật và ấy là vì ý muốn Chúa mà muôn vật mới có và đã được dựng nên.” (Khải Huyền 4:11)
 
 Thiên Chúa là Đấng dựng nên muôn loài vạn vật. Ngài đã bày tỏ trong Thánh Kinh rõ ràng chính xác hành động tạo thế của Ngài. Trong sáu ngày Đức Chúa Trời đã dựng nên trời và đất, cùng mọi sự trên đất và Ngài đã yên nghỉ trong ngày thứ bảy của tuần lễ đầu tiên. Như vậy, Ngài đã thiết lập ngày thứ bảy Sa-bát là một dấu hiệu kỷ niệm đời đời cho công cuộc tạo thế trọn vẹn của Ngài. Người nam và nữ đầu tiên được dựng nên theo hình ảnh của Đức Chúa Trời, là tác phẩm tuyệt diệu nhất của Đấng Tạo Hoá. Họ được ban cho quyền cai trị cả thế giới và chịu trách nhiệm săn sóc thế giới. Khi thế giới mới được tạo dựng xong, mọi sự đều tốt lành, bày tỏ vinh hiển của Đức Chúa Trời Toàn Năng.
 

@@ -6,7 +6,7 @@ weight: 21
 
 ## Câu gốc
 
-“Ai trung tín trong việc rất nhỏ, cũng trung tín trong việc lớn; ai bất nghĩa trong việc rất nhỏ, cũng bất nghĩa trong việc lớn.” (Lu-ca 16:10)
+> “Ai trung tín trong việc rất nhỏ, cũng trung tín trong việc lớn; ai bất nghĩa trong việc rất nhỏ, cũng bất nghĩa trong việc lớn.” (Lu-ca 16:10)
 
 
 Chúng ta là những quản gia của Thiên Chúa, được Ngài giao phó thời gian, cơ hội, khả năng và tài sản, cùng thế giới và những tài nguyên trong đó. Chúng ta chịu trách nhiệm trước mặt Chúa để sử dụng những điều này cách đúng đắn. Chúng ta công nhận chủ quyền của Thiên Chúa bằng cách phục vụ Ngài và tha nhân cách trung thành, cùng hoàn trả phần mười và dâng hiến để rao truyền tin lành, cũng như hỗ trợ sự phát triển của Hội Thánh Ngài. Chức vụ quản gia là một đặc ân mà Thiên Chúa ban cho chúng ta để nuôi dưỡng tình yêu thương và phương cách để chiến thắng lòng ích kỷ và tham lam. Người quản gia vui mừng vì những phước hạnh đem đến cho người khác qua sự trung tín của mình.
