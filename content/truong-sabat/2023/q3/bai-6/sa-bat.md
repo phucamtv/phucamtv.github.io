@@ -1,0 +1,25 @@
+---
+build: { render: never }
+title: "Sự Mầu Nhiệm Của Tin Lành"
+dayLabel: "Sa-bát"
+weight: 1
+---
+> Câu gốc
+>
+> “Vả, Đức Chúa Trời, bởi quyền lực cảm động trong chúng ta, có thể làm trổi hơn vô cùng mọi việc chúng ta cầu xin hoặc suy tưởng, nguyền Ngài được vinh hiển trong Hội Thánh, và trong Đức Chúa Giê-su Cơ-đốc, trải các thời đại, đời đời vô cùng. A-men.” (Ê-phê-sô 3:20,21)
+
+### Nghiên Cứu Kinh Thánh
+
+Ê-phê-sô 3; Gióp 11:5–9; Ê-xê-chi-ên 43:13–16; A-mốt 7:7, 8; Khải Huyền 11:1, 2.
+
+Trong Ê-phê-sô đoạn 3, Phao-lô mở đầu bằng chủ đề mà ông đã đề cập trước đó: “Dân Ngoại là kẻ đồng kế tự, là các chi của đồng một thể, đều có phần chung với chúng ta về lời hứa đã nhờ Tin lành mà lập trong Đức Chúa Giê-su Cơ-đốc” (Ê-phê-sô 3:6). Và mặc dù điều này có thể không gây ngạc nhiên đối với Hội Thánh ngày nay, khi mà hầu hết là người Ngoại, nhưng đó là điều dường như hoàn toàn mới đối với những người đọc thư của ông vào thời điểm đó.
+
+Sau đó, Phao-lô tiếp tục những lời được soi dẫn của mình, khi vị sứ đồ suy gẫm về niềm đam mê rao giảng phúc âm của Đức Chúa Giê-su cho dân Ngoại.
+
+Chúng ta cũng biết về những khó khăn hiện tại của ông trong việc mở rộng chức vụ đó bao gồm cả thời gian ở trong nhà tù La Mã.
+
+Và chúng ta cũng nghe lời cam kết của ông đối với sự mầu nhiệm là trọng tâm của phúc âm, mầu nhiệm mà trong Hội Thánh, người Ngoại được bình đẳng với anh chị em Y-sơ-ra-ên của họ. Chúng ta trải nghiệm sự phấn khích của ông đối với Hội Thánh và sứ mạng lớn lao đó. Chúng ta lắng nghe lời cầu nguyện, ca ngợi Chúa vì đã bày tỏ ân điển của Ngài qua Hội Thánh.
+
+Tóm lại, chúng ta được khuyến khích chia sẻ lòng nhiệt thành của Phao-lô đối với phúc âm.
+
+*\*Nghiên cứu bài học tuần này chuẩn bị cho Sa-bát ngày 15 tháng 8.*

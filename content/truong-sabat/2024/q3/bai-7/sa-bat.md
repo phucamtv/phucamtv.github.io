@@ -1,0 +1,23 @@
+---
+build: { render: never }
+title: "Dạy Dỗ Các Môn Đồ: Phần 1"
+dayLabel: "Sa-bát"
+weight: 1
+---
+> Câu gốc
+>
+> “Đoạn, Ngài kêu dân chúng và môn đồ, mà phán rằng: Nếu ai muốn theo ta, phải liều mình, vác thập tự giá mình mà theo ta.” (Mác 8:34).
+
+### Kinh Thánh nghiên cứu
+
+Mác 8:22–38; Ma-thi-ơ 20:29–34; Giăng 12:25; Mác 9:1–50; Ma-la-chi 4:5,6; Lu-ca 9:30,31.
+
+Nửa đầu sách Mác tập trung vào việc xác định xem Đức Chúa Giê-su là ai. Những bài giảng và phép lạ đầy quyền năng của Ngài đều hướng đến cùng một đáp án: Ngài là Đấng Mê-si. Tại thời điểm then chốt này trong câu chuyện, Đức Chúa Giê-su sẽ hỏi các môn đồ họ tin Ngài là ai.
+
+Phi-e-rơ sẽ đưa ra câu trả lời dõng dạc cho câu hỏi đó, và Đức Chúa Giê-su sẽ ngay lập tức bắt đầu giải thích con đường Ngài sẽ sắp đi với tư cách là Đấng Mê-si, mà chúng ta đều biết đó là con đường đến thập giá.
+
+Trong phần cuối của Mác 8 cho đến hết Mác 10, Đức Chúa Giê-su tập trung vào việc dạy dỗ các môn đồ về hành trình của Ngài. Trong những đoạn này, Ngài sẽ đưa ra những dự đoán về sự đóng đinh, tiếp theo đó là những chỉ dẫn đặc biệt về môn đồ hóa. Những bài học sâu sắc này vẫn còn ý nghĩa cho đến ngày nay.
+
+Phân đoạn này của Phúc Âm thứ hai được đánh dấu bằng sự chữa lành cho hai người mù khác nhau, một người trong Mác 8 và người kia trong phần cuối Mác 10. Những phép lạ “điểm nhấn đầu cuối” này minh họa một cách ấn tượng về việc môn đồ hóa bao gồm sự hiểu biết thiêng liêng về Đức Chúa Giê-su là ai và Ngài đang hướng đến đâu. Giống như những lời dạy của Ngài đã thách thức mười hai môn đồ 2.000 năm trước và cũng tiếp tục thách thức với các môn đồ ngày nay về cái giá rất đắt, và lợi ích của việc theo Đức Chúa Giê-su.
+
+*\*Nghiên cứu bài học tuần này để chuẩn bị cho Sa-bát ngày 17 tháng 8.*

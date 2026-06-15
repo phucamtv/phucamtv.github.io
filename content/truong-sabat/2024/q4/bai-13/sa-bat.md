@@ -1,0 +1,25 @@
+---
+build: { render: never }
+title: "Phần Kết: Biết Đức Chúa Giê-su Và Lời Của Ngài"
+dayLabel: "Sa-bát"
+weight: 1
+---
+> Câu gốc
+>
+> “Các ngươi dò xem Kinh Thánh, vì tưởng bởi đó được sự sống đời đời: Ấy là Kinh Thánh làm chứng về ta vậy.” (Giăng 5:39).
+
+### Kinh Thánh nghiên cứu
+
+Giăng 21; Giăng 11:9, 10; Giăng 8:42–44; Giăng 4:46–54; 2 Ti-mô-thê 3:16; Giăng 15:1–11.
+
+Bài học của Giăng, cũng như tin lành của Mác, cả hai đều có phần kết là cuộc gặp gỡ tại Ga-li-lê. Chương cuối cùng trong Giăng cũng là cuộc gặp gỡ tại đó, nhưng nó được kết hợp với chủ đề cách nhận biết Đức Chúa Giê-su và Lời của Ngài – một khái niệm xuyên suốt Phúc Âm thứ tư.
+
+Mặc dù các môn đồ đã ở với Đức Chúa Giê-su hơn ba năm và Ngài cũng đã nhiều lần nói cùng họ về những gì sẽ xảy ra, nhưng họ vẫn chưa sẵn sàng để hiểu việc Chúa bị đóng đinh và sống lại là thể nào.
+
+Thật không may, họ đã không tin lời Ngài.
+
+Ngày nay chúng ta có nguy cơ làm điều tương tự như họ: nghe hoặc thậm chí đọc Lời Chúa, nhưng không vâng phục, không tuân giữ và không ở trong Ngài. Nghĩa là chúng ta không xem Lời Chúa như sự sáng dẫn đường cho tâm trí và hành động của chúng ta. Thật không may, đây là điều mà có lẽ quá nhiều Cơ-đốc nhân phạm phải.
+
+Trong tuần cuối cùng nghiên cứu tin lành này, chúng ta sẽ xem xét một số điều trọng tâm, là những điều có thể giúp chúng ta không chỉ hiểu biết đơn thuần về Đức Chúa Giê-su; nhưng thay vào đó, chúng ta phải biết rõ hơn về Ngài, phải ở trong Ngài và trong Lời của Ngài.
+
+*\*Nghiên cứu bài học tuần để chuẩn bị cho Sa-bát ngày 28 tháng 12.*

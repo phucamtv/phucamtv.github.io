@@ -24,7 +24,13 @@ DAY_FILES = [
 VIET_MONTHS = {i: f"Tháng {i}" for i in range(1, 13)}
 
 # Quarters whose day titles should be re-title-cased (fix lowercase đ/ơ/ă at word starts).
-FIX_DAY_TITLE_CASE = {"2024-01"}
+FIX_DAY_TITLE_CASE = {"2024-01", "2020-03", "2021-01", "2021-02", "2022-02", "2023-03"}
+
+# Manual quarter-title overrides. Source occasionally has typos in the quarterly title.
+QUARTER_TITLE_OVERRIDES = {
+    "2020-03": "Kết bạn với mọi người vì danh Chúa: Chia sẻ niềm vui về sứ mệnh của Chúa",
+    "2022-02": "Sáng-thế Ký: Sách của sự khởi đầu",
+}
 
 
 def smart_title_vi(s):
@@ -114,6 +120,160 @@ LESSON_TITLE_OVERRIDES = {
         12: "Ba-by-lôn và Ha-ma-ghê-đôn",
         13: "Sự trở lại của Đức Chúa Giê-su, Chúa chúng ta",
     },
+    "2025-03": {
+        6:  "Hành trình vượt Biển Đỏ",
+    },
+    "2024-04": {
+        1:  "Dấu lạ chỉ đường",
+        2:  "Dấu hiệu của thần tánh",
+        3:  "Câu chuyện ngày ấy: lời mở đầu",
+        4:  "Lời chứng của Đấng Cơ-đốc như thể Đấng Mê-si",
+        5:  "Lời chứng của người Sa-ma-ri",
+        6:  "Nhiều lời chứng khác về Đức Chúa Giê-su",
+        7:  "Phước cho những kẻ tin",
+        8:  "Sự ứng nghiệm những lời tiên tri trong Cựu Ước",
+        9:  "Nguồn sự sống",
+        10: "Đường đi, lẽ thật và sự sống",
+        11: "Đức Cha, Đức Con và Đức Thánh Linh",
+        12: "Giờ vinh hiển: thập giá và sự phục sinh",
+        13: "Phần kết: biết Đức Chúa Giê-su và lời của Ngài",
+    },
+    "2024-03": {
+        1:  "Sự khởi đầu của Phúc Âm",
+        2:  "Một ngày trong chức vụ của Đức Chúa Giê-su",
+        3:  "Những cuộc tranh luận",
+        4:  "Những dụ ngôn",
+        5:  "Những phép lạ xung quanh hồ Ga-li-lê",
+        6:  "Từ trong người ra",
+        7:  "Dạy dỗ các môn đồ: phần 1",
+        8:  "Dạy dỗ các môn đồ: phần 2",
+        9:  "Sự tranh luận tại Giê-ru-sa-lem",
+        10: "Những ngày sau rốt",
+        11: "Hãy lấy và ăn",
+        12: "Chịu thương khó và bị đóng đinh",
+        13: "Chúa sống lại",
+    },
+    "2023-03": {
+        1:  "Phao-lô và thư tín Ê-phê-sô",
+        2:  "Kế hoạch vĩ đại của Đức Chúa Trời đặt Đấng Cơ-đốc làm trung tâm",
+        3:  "Quyền năng cao cả của Đức Chúa Giê-su",
+        4:  "Đức Chúa Trời cứu chúng ta thế nào",
+        5:  "Thập giá và Hội Thánh",
+        6:  "Sự mầu nhiệm của Tin Lành",
+        7:  "Sự hiệp một trong thân thể Đấng Cơ-đốc",
+        8:  "Lời soi dẫn bởi Thánh Linh và sống theo khuôn mẫu của Đấng Cơ-đốc",
+        9:  "Sống khôn ngoan",
+        10: "Các cặp vợ chồng: bên nhau nơi thập tự giá",
+        11: "Thực hành lòng trung thành tuyệt đối với Đấng Cơ-đốc",
+        12: "Lời kêu gọi đứng vững",
+        13: "Dành lại sự bình an",
+        14: "Trọng tâm của thư tín Ê-phê-sô",
+    },
+    "2022-02": {
+        1:  "Sự sáng tạo",
+        2:  "Sự sa ngã",
+        3:  "Ca-in và dòng dõi ông",
+        4:  "Nước lụt",
+        5:  "Tháp Ba-bên và cả thế gian",
+        6:  "Dòng dõi Áp-ra-ham",
+        7:  "Giao ước với Áp-ra-ham",
+        8:  "Lời hứa của Đức Chúa Trời",
+        9:  "Gia-cốp chiếm quyền trưởng nam",
+        10: "Gia-cốp – Y-sơ-ra-ên",
+        11: "Giô-sép – bậc thầy của những giấc mơ",
+        12: "Giô-sép – tể tướng Ai Cập",
+        13: "Y-sơ-ra-ên ở Ê-díp-tô",
+    },
+    "2021-02": {
+        1:  "Điều gì đã xảy ra?",
+        2:  "Giao ước đầu tiên",
+        3:  "“Trải qua các đời mãi mãi”",
+        4:  "Giao ước đời đời",
+        5:  "Con trẻ của lời hứa",
+        6:  "Dòng dõi của Áp-ra-ham",
+        7:  "Giao ước tại Si-na-i",
+        8:  "Giao ước luật pháp",
+        9:  "Dấu của sự giao ước",
+        10: "Giao ước mới",
+        11: "Giao ước mới về đền thánh",
+        12: "Đức tin giao ước",
+        13: "Đời sống trong giao ước mới",
+    },
+    "2021-01": {
+        1:  "Sự khủng hoảng về bản sắc",
+        2:  "Sự khủng hoảng về lãnh đạo",
+        3:  "Khi thế giới riêng của bạn sụp đổ",
+        4:  "Con đường gian khó",
+        5:  "Chúa Bình An",
+        6:  "Đức Chúa Trời hành động",
+        7:  "Đánh bại người A-si-ri",
+        8:  "Hãy yên ủi dân Ta",
+        9:  "Phục vụ và cứu chuộc",
+        10: "Làm điều không thể tưởng tượng",
+        11: "Công giá của tình yêu",
+        12: "Ước nguyện của các quốc gia",
+        13: "Sự tái tạo địa cầu",
+    },
+    "2020-03": {
+        1:  "Tại sao phải làm chứng?",
+        2:  "Quyền năng của lời chứng cá nhân",
+        3:  "Nhìn con người bằng cái nhìn của Đức Chúa Giê-su",
+        4:  "Quyền năng của lời cầu nguyện: cầu thay cho người khác",
+        5:  "Chứng nhân được trao quyền",
+        6:  "Khả năng vô tận",
+        7:  "Chia sẻ Lời Chúa",
+        8:  "Phục vụ giống như Đức Chúa Giê-su",
+        9:  "Phát triển thái độ tích cực",
+        10: "Cách thú vị để tham gia vào nhóm nhỏ",
+        11: "Chia sẻ về Đức Chúa Giê-su",
+        12: "Sứ điệp cần được chia sẻ",
+        13: "Bước đi trong đức tin",
+    },
+    "2020-02": {
+        1:  "Sự độc đáo của Kinh Thánh",
+        2:  "Nguồn gốc và thần tính của Kinh Thánh",
+        3:  "Đức Chúa Giê-su và quan điểm của các sứ đồ về Kinh Thánh",
+        4:  "Kinh Thánh nguồn có thẩm quyền thần học của chúng ta",
+        5:  "Kinh Thánh là duy nhất",
+        6:  "Tại sao sự diễn giải là cần thiết",
+        7:  "Ngôn ngữ văn bản và ngữ cảnh",
+        8:  "Sáng tạo Sáng Thế Ký là nền tảng Phần 1",
+        9:  "Sự sáng tạo Sáng Thế Ký là nền tảng Phần 2",
+        10: "Kinh Thánh như là lịch sử",
+        11: "Kinh Thánh và lời tiên tri",
+        12: "Xử lý các phân đoạn Kinh Thánh khó hiểu",
+        13: "Sống bằng lời của Đức Chúa Trời",
+    },
+    "2019-02": {
+        1:  "Nhịp điệu cuộc sống",
+        2:  "Những sự chọn lựa của chúng ta",
+        3:  "Chuẩn bị cho sự thay đổi",
+        4:  "Khi cô đơn",
+        5:  "Những lời khôn ngoan dành cho gia đình",
+        6:  "Bản tình ca từ Thiên Đàng",
+        7:  "Bí quyết để gia đình hiệp nhất",
+        8:  "Trách nhiệm nuôi dạy con cái",
+        9:  "Những thời kỳ mất mát",
+        10: "Khoảnh khắc rắc rối",
+        11: "Những gia đình tin kính",
+        12: "Tha nhân đã thấy gì trong gia đình bạn?",
+        13: "Trở lại trong thời kỳ cuối cùng",
+    },
+    "2018-03": {
+        1:  "Các ngươi sẽ là nhân chứng cho Ta",
+        2:  "Lễ Ngũ Tuần",
+        3:  "Trong thời kỳ Hội Thánh ban đầu",
+        4:  "Những nhà lãnh đạo Hội Thánh ban đầu",
+        5:  "Sự biến đổi của Phao-lô",
+        6:  "Chức vụ của Phi-e-rơ",
+        7:  "Cuộc hành trình truyền giáo đầu tiên của Phao-lô",
+        8:  "Hội nghị tại thành Giê-ru-sa-lem",
+        9:  "Hành trình truyền giáo thứ hai",
+        10: "Chuyến truyền giáo lần thứ ba",
+        11: "Bị bắt tại Giê-ru-sa-lem",
+        12: "Bị giam tại Sê-sa-rê",
+        13: "Hành trình đến Rô-ma",
+    },
     "2020-01": {
         1:  "Đọc và hiểu",
         2:  "Từ Giê-ru-sa-lem đến Ba-by-lôn",
@@ -134,6 +294,50 @@ LESSON_TITLE_OVERRIDES = {
 # Manual day title overrides by year-quarter. Source returns Title Case with broken
 # Vietnamese proper-noun hyphenation and decomposed characters; we curate each.
 DAY_TITLE_OVERRIDES = {
+    "2025-03": {
+        (6,  1): "Hành trình vượt Biển Đỏ",
+        (12, 4): "Xin Cho Con Được Chiêm Ngưỡng Vinh Hiển Của Ngài!",
+    },
+    "2021-01": {
+        (4, 7): "Nghiên Cứu Bổ Túc",
+    },
+    "2024-03": {
+        (12, 2): "“Ấy Chính Ngươi Là Vua Dân Giu-đa Phải Không?”",
+    },
+    "2023-03": {
+        (5,  1): "Thập Giá Và Hội Thánh",
+        (5,  5): "Đức Chúa Giê-su, Đấng Rao Truyền Sự Bình An",
+        (10, 1): "Các Cặp Vợ Chồng: Bên Nhau Nơi Thập Tự Giá",
+    },
+    "2022-02": {
+        (5,  2): "Cham Bị Rủa Sả",
+        (5,  3): "Gia Phổ Trong Sáng-thế Ký",
+        (5,  5): "“Chúng Ta Hãy Xuống”",
+        (6,  2): "Áp-ram Ra Khỏi Quê Hương",
+        (7,  1): "Giao Ước Với Áp-ra-ham",
+        (7,  3): "Áp-ra-ham Nghi Ngờ",
+        (9,  4): "Kẻ Phỉnh Gạt Bị Lừa Gạt",
+        (10, 3): "Anh Em Gặp Nhau",
+        (10, 4): "Đi-na Bị Xâm Phạm",
+        (12, 6): "“Tôi Là Giô-sép Em Các Anh”",
+        (13, 1): "Y-sơ-ra-ên Ở Ê-díp-tô",
+    },
+    "2019-02": {
+        (12, 1): "Tha Nhân Đã Thấy Gì Trong Gia Đình Bạn?",
+        (12, 2): "Học Từ Lỗi Lầm Của Nhà Vua",
+        (12, 3): "Đầu Tiên Là Người Trong Gia Đình",
+        (12, 4): "Hòa Bình Thi Thắng",
+        (12, 5): "Cuộc Sống Gia Đình Là Để Chia Sẻ",
+        (12, 6): "Trung Tâm Của Mọi Tương Giao",
+        (12, 7): "Nghiên Cứu Bổ Túc",
+        (13, 1): "Trở Lại Trong Thời Kỳ Cuối Cùng",
+        (13, 2): "Trở Lại Qua Lời Tiên Tri",
+        (13, 3): "Trở Lại Cùng Gia Đình",
+        (13, 4): "Trở Lại Tại Bàn Thờ",
+        (13, 5): "Trở Lại Tại Sông Giô-đanh",
+        (13, 6): "Trở Lại Trong Ngày Cuối Cùng",
+        (13, 7): "Nghiên Cứu Bổ Túc",
+    },
     "2023-02": {
         (1, 1): "Đức Chúa Giê-su chiến thắng - Sa-tan thất bại",
         (1, 4): "Chấp Nhận Sự Chiến Thắng Của Đức Chúa Giê-su",
@@ -310,9 +514,28 @@ def apply_terminology(text):
         ("Ơ Phơ Rát", "Ơ-phơ-rát"),
         ("A Ma Ghê Đôn", "Ha-ma-ghê-đôn"),
         ("Christ", "Cơ-đốc"),
+        ("Môi-Se", "Môi-se"),
+        ("Phao Lô", "Phao-lô"),
+        ("Đa Vít", "Đa-vít"),
+        ("Sa Lô Môn", "Sa-lô-môn"),
+        ("Ê Xê Chia", "Ê-xê-chia"),
+        ("San Chê Ríp", "San-chê-ríp"),
+        ("Gia Cốp", "Gia-cốp"),
     ]
     for pat, repl in proper_nouns:
         text = re.sub(re.escape(pat), repl, text)
+    # Words with 2+ uppercase letters AND (non-ASCII char OR a hyphen): lowercase
+    # everything after the first letter. Catches 'ĐOạn'→'Đoạn', 'ĐỨC'→'Đức',
+    # 'Phi-E-Rơ'→'Phi-e-rơ', 'Si-Na-I'→'Si-na-i' (transliterated names with no
+    # diacritics). ASCII acronyms (USA, BBC) are left alone because they have neither
+    # a non-ASCII character nor a hyphen.
+    def _fix_broken_caps(m):
+        w = m.group(0)
+        upper = sum(1 for c in w if c.isupper())
+        if upper >= 2 and (any(ord(c) > 127 for c in w) or '-' in w):
+            return w[0] + w[1:].lower()
+        return w
+    text = re.sub(r"[A-Za-zÀ-ỹ]+(?:-[A-Za-zÀ-ỹ]+)*", _fix_broken_caps, text)
     # Jesus references
     text = re.sub(r"[Đđ]ức [Cc]húa [Gg]iê-?[sx]u", "Đức Chúa Giê-su", text)
     text = re.sub(r"(?<![Đđ]ức )(?<![Đđ]ức )[Cc]húa [Gg]iê-?[sx]u", "Đức Chúa Giê-su", text)
@@ -455,13 +678,20 @@ def write_lesson(year, q, n, base_url, out_root, title_override=None):
         if (n, day_idx) in day_overrides:
             day_title = day_overrides[(n, day_idx)]
         else:
-            day_title = apply_terminology(day_contents[i]["title"])
+            raw_title = day_contents[i]["title"] or ""
+            # All-caps source titles: lowercase then re-Title-Case before terminology rules.
+            if raw_title and raw_title.upper() == raw_title and any(c.isalpha() for c in raw_title):
+                raw_title = smart_title_vi(raw_title.lower())
+            day_title = apply_terminology(raw_title)
             if f"{year}-{q:02d}" in FIX_DAY_TITLE_CASE:
-                day_title = smart_title_vi(day_title)
-                # Strip leading/trailing curly quotes that wrap entire title
-                day_title = day_title.strip().strip('“”"').strip()
+                # Re-apply terminology after smart_title_vi so case-sensitive rules
+                # (e.g. 'Cơ Đốc' → 'Cơ-đốc') fire on the newly-capitalized form.
+                day_title = apply_terminology(smart_title_vi(day_title)).strip()
+                # Strip outer quotes only when both ends are quotes (entire title wrapped).
+                if len(day_title) >= 2 and day_title[0] in '“”"' and day_title[-1] in '“”"':
+                    day_title = day_title[1:-1].strip()
         body_md = html_to_md(content_html)
-        if day_label == "Thứ Sáu" and "NGHIÊN CỨU BỔ TÚC" not in body_md:
+        if day_label == "Thứ Sáu" and "NGHIÊN CỨU BỔ TÚC" not in body_md.upper():
             body_md = "NGHIÊN CỨU BỔ TÚC\n\n" + body_md
         day_path = os.path.join(lesson_dir, fname)
         header = [
@@ -481,7 +711,8 @@ def write_lesson(year, q, n, base_url, out_root, title_override=None):
 
 
 def write_quarter_index(year, q, quarter_info, out_dir):
-    title = apply_terminology(quarter_info["title"])
+    key = f"{year}-{q:02d}"
+    title = QUARTER_TITLE_OVERRIDES.get(key) or apply_terminology(quarter_info["title"])
     content = f'''---
 title: "Quý {q}, {year} – {title}"
 layout: quarter

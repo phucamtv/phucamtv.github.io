@@ -1,0 +1,19 @@
+---
+build: { render: never }
+title: "Chức Vụ Của Phi-e-rơ"
+dayLabel: "Sa-bát"
+weight: 1
+---
+### Kinh Thánh nghiên cứu
+
+Công-vụ 9:32–43, Công-vụ 10:9–16, Ê-phê-sô 2:11–19, Công-vụ 11:1–26, Công-vụ 12:1–18.
+
+> Câu gốc
+>
+> “Phi-e-rơ bèn mở miệng nói rằng: Quả thật, ta biết Đức Chúa Trời chẳng hề vị nể ai, nhưng trong các dân, hễ ai kính sợ Ngài và làm sự công bình, thì nấy được đẹp lòng Chúa” (Công-vụ 10:34).
+
+Cùng đi với Phao-lô đến Tạt-sơ, Phi-e-rơ lại là nhân vật chính trong tường thuật của Lu-ca trong những ngày đầu của Hội Thánh Cơ đốc giáo. Phi-e-rơ được miêu tả như một nhân vật với chức vụ lưu động khắp vùng Giu-đê và các vùng lân cận. Công việc ở đây kể về hai phép lạ ngắn, sự chữa lành của Ê-nê và sự phục sinh của Ta-bi-tha (Đô-ca), sau đó là câu chuyện của Cọt-nây trong đoạn 10.
+
+Việc cải đạo Dân Ngoại là vấn đề gây tranh cãi nhiều nhất trong Hội Thánh thời các sứ đồ. Mặc dù các cuộc thảo luận sau khi làm phép báp-têm cho Cọt-nây đã giải quyết được tất cả những khó khăn, sự tuôn đổ của Đức Thánh Linh tại nơi này; và việc gợi nhớ lại những gì đã xảy ra vào Lễ Ngũ Tuần, đã thuyết phục Phi-e-rơ và các anh em ở Giê-ru-sa-lem rằng những ơn phước của phúc âm không chỉ giới hạn cho người Do Thái. Trong khi đó, Hội Thánh ở An-ti-ốt cũng đã bắt đầu tiến về phía người Ngoại.
+
+Bài học tuần này cũng bao gồm sự gia tăng của cuộc đàn áp mới và ngắn - thời gian này dưới thời vua Hê-rốt - và ảnh hưởng của nó đối với các sứ đồ, những người đã được tha trong cuộc bức hại do Phao-lô thực hiện.

@@ -1,0 +1,13 @@
+---
+build: { render: never }
+title: "Lợi Ích Của Việc Học Lời Đức Chúa Trời"
+dayLabel: "Thứ Ba"
+weight: 4
+---
+“Có nhiều lợi ích của việc học Lời Đức Chúa Trời. Sứ đồ Phi-e-rơ nói với chúng ta rằng qua những lời hứa trong Kinh Thánh, chúng ta trở thành “người dự phần bản tính thiên thượng” (2 Phi-e-rơ 1:4). Gia-cơ nói về “lời đã trồng trong anh em, là lời cứu được linh hồn của anh em” (Gia-cơ 1:21). Phao-lô nói thêm rằng “đạo của ơn Ngài… có thể gây dựng, và ban gia tài cho anh em chung với hết thảy những người được nên thánh” (Công vụ 20:32). Kinh Thánh có một mục đích cứu chuộc. Khi nhìn thấy Đức Chúa Giê-su trong trọn Kinh Thánh, chúng ta được thay đổi. Bằng cách tiếp nhận Ngài qua lời của Ngài, chúng ta trở nên giống như Ngài (2 Cô-rinh-tô 3:18). Đây là một luật cả về trí tuệ lẫn bản tính tâm linh rằng chúng ta trở nên thay đổi. Tâm trí dần dần thích nghi với các sự việc mà nó được phép nghĩ tới.” (Ellen G. White, Thiện Ác Đấu Tranh, trang 555).
+
+`Đọc 2 Ti-mô-thê 3:14-17 và Giăng 17:14-17. Những lợi ích bổ sung nào đến từ việc học Lời Đức Chúa Trời?`
+
+Viết cho người đồng công trẻ Ti-mô-thê, sứ đồ Phao-lô kêu gọi ông hãy trung thành với Kinh Thánh và chia sẻ những lợi ích của việc học lời được soi dẫn. Theo Phao-lô, Kinh Thánh “có ích cho sự dạy dỗ”. Nó bày tỏ lẽ thật và phơi bày sự sai lầm. Nó phác thảo kế hoạch của Đức Chúa Trời cho dòng dõi loài người. Nó cáo trách tội lỗi chúng ta, sửa chữa suy nghĩ sai lầm của chúng ta và hướng chúng ta trong sự công bình. Kinh Thánh bày tỏ sự công bình của Đấng Cơ-đốc. Nó dẫn chúng ta từ sự điên rồ của tội lỗi đến vẻ đẹp về sự công bình của Ngài. Khi chúng ta thấy tình yêu không vị kỷ của Đức Chúa Giê-su trái ngược với sự tự cao tự đại của chúng ta, chúng ta sẽ ngỡ ngàng. Khi chúng ta nhìn trong Kinh Thánh, chiều sâu của lòng trắc ẩn và sự quan tâm của Ngài, cuộc sống của chúng ta sẽ thay đổi. Khi chúng ta chia sẻ lời của Ngài với người khác, họ cũng được biến đổi hoàn toàn. Nhìn thấy Đức Chúa Giê-su trong lời của Ngài, chúng ta trở nên giống Ngài hơn. Làm chứng ​​không phải là để chia sẻ những gì chúng ta nghĩ hoặc thậm chí những gì chúng ta tin tưởng. Đó là về việc chia sẻ những lẽ thật đời đời được tìm thấy trong Lời Đức Chúa Trời. Khi Lời Chúa đã ban phước cho cuộc sống của chúng ta, chúng ta sẽ có bằng cớ để nói với người khác về cách nó cũng có thể ban phước cho cuộc sống của họ.
+
+`Hãy suy nghĩ về một thời điểm khó khăn mà cá nhân bạn phải đối mặt và làm thế nào Lời Chúa chứng tỏ được quyền năng cho bạn. Bạn đã học được gì từ kinh nghiệm đó?`

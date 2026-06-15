@@ -1,0 +1,24 @@
+---
+build: { render: never }
+title: "Ê-phê-sô:  Bức Thư  Tập Trung Vào Đấng Cơ-đốc"
+dayLabel: "Thứ Năm"
+weight: 6
+---
+`Phao-lô giới thiệu chủ đề bức thư của ông như thế nào? Đọc Ê-phê-sô 1:9,10.`
+
+Sứ điệp trong thư Ê-phê-sô có thể được tóm tắt như thế nào? Từ trong tù, Phao-lô đã trình bày sự hiện thấy về Đấng Cơ-đốc là trung tâm của kế hoạch Đức Chúa Trời khi thời kỳ được trọn và vai trò của Hội Thánh trong kế hoạch ấy. Đức Chúa Trời đã hành động trong Đấng Cơ-đốc để bắt đầu kế hoạch của Ngài “hội hiệp muôn vật lại trong Đấng Cơ-đốc, cả vật ở trên trời và vật ở dưới đất” (Ê-phê-sô 1:10), Ngài làm như vậy bằng cách tạo dựng một Hội Thánh gồm cả người Giu-đa và người Ngoại hiệp một với nhau (Ê-phê-sô 2:14). Các tín hữu được kêu gọi để hành động trong sự hòa hợp với kế hoạch thánh này, thông báo cho các thế lực gian ác biết rằng mục đích cuối cùng của Đức Chúa Trời đang được thực hiện (Ê-phê-sô 3:10).
+
+Ê-phê-sô 1:9,10 tuyên bố, Đức Chúa Trời theo ý Ngài lập nên sự hiệp một trong Đấng Cơ-đốc. Vì vậy, không có gì phải ngạc nhiên khi khám phá ra rằng thư Ê-phê-sô là bức thư tập trung vào Đấng Cơ-đốc, chỗ nào trong thư cũng ca ngợi cách Đức Chúa Trời hành động trong Đấng Cơ-đốc và ngợi khen việc các tín hữu tiếp cận với các nguồn phước thiêng liêng đã ban cho họ qua Đấng Cơ-đốc. Phao-lô sử dụng cụm từ “trong Đấng Cơ-đốc” và những cụm từ tương tự như vậy hơn ba mươi lần, và ở khắp nơi để tôn cao Đức Chúa Giê-su. Khi chúng ta đọc thư, để ý những cụm từ này và theo dõi Phao-lô tập trung vào Đức Chúa Giê-su theo nhiều cách.
+
+Phao-lô tìm cách tái khẳng định lời cam kết thiêng liêng của các tín hữu trong thư Ê-phê-sô bằng cách nhắc nhở họ rằng họ là một phần của Hội Thánh, là trung tâm của kế hoạch Đức Chúa Trời để hiệp muôn vật lại trong Đấng Cơ-đốc. Khi ông sử dụng từ “Hội Thánh” (tiếng Hy Lạp là ekklẽsia) trong bức thư, ông muốn nói đến Hội Thánh “của mọi người” hoặc Hội Thánh chung (chứ không nói đến Hội Thánh địa phương).
+
+Chiến lược chính mà ông sử dụng là nói về Hội Thánh, ông làm như vậy bằng cách dùng những ẩn dụ sống động, trong số đó có bốn ẩn dụ được ông trình bày qua một số chi tiết.
+
+1.  Hội Thánh là thân thể (Ê-phê-sô 1:22,23; Ê-phê-sô 2:16; Ê-phê-sô 3:6; Ê-phê-sô 4:1–16,25; Ê-phê-sô 5:23,29,30).
+2.  Hội Thánh là ngôi nhà /đền thờ (Ê-phê-sô 2:19-22).
+3.  Hội Thánh là cô dâu (Ê-phê-sô 5:22-27).
+4.  Hội Thánh là đạo binh (Ê-phê-sô 6:10-20).
+
+Mỗi hình ảnh này đều có cách riêng của nó, bày tỏ về mục đích và ý định của Đức Chúa Trời dành cho Hội Thánh là gì?
+
+`Trong một giáo hội mà bạn là một thuộc viên của Giáo hội Cơ-đốc Phục Lâm, Đức Chúa Trời đang quy tụ một cộng đồng xuyên quốc gia, đa ngôn ngữ, đa chủng tộc, đa văn hóa (Khải Huyền 14:6,7), điều đó chứng tỏ kế hoạch của Ngài được hoàn thành để hội hiệp mọi sự trong Đấng Cơ-đốc (Ê-phê-sô 1:9,10). Bằng cách nào chúng ta có thể làm việc phù hợp với kế hoạch vĩ đại của Đức Chúa Trời?`

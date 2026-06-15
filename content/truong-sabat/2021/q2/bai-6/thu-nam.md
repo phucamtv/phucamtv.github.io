@@ -1,0 +1,23 @@
+---
+build: { render: never }
+title: "Y-sơ-ra-ên Thiêng Liêng"
+dayLabel: "Thứ Năm"
+weight: 6
+---
+Dù có sai lầm và thất bại của dân Y-sơ-ra-ên xưa, Chúa vẫn chưa kết thúc kế hoạch tạo ra một dân trung thành để phụng sự Ngài. Trên thực tế, Cựu Ước mong đợi một thời gian mà Chúa sẽ tạo ra một dân Y-sơ-ra-ên thiêng liêng, một dân tộc trung tín gồm các tín đồ, người Do Thái và dân ngoại, những người sẽ thực hiện công việc rao giảng phúc âm cho thế giới. Chào mừng đến với Hội Thánh đầu tiên.
+
+**Đọc Ga-la-ti 3:26–29.**
+
+`1. Phao-lô nói về lời hứa nào trong câu 29?`
+
+`2. Yếu tố chính khiến một người trở thành người thừa kế những lời hứa này là gì? (Ga-la-ti 3:26).`
+
+`3. Tại sao Phao-lô phá bỏ sự phân biệt về giới tính, quốc tịch và địa vị xã hội?`
+
+`4. “Hiệp một trong Đấng Cơ-đốc” có nghĩa là gì?`
+
+`5. Đọc Rô-ma 4:16,17. Làm thế nào những câu này giúp chúng ta hiểu những gì Phao-lô đang nói trong Ga-la-ti 3:26–29?`
+
+Là con cháu của Áp-ra-ham, theo một ý nghĩa đặc biệt, Đấng Cơ-đốc đã trở thành người thừa kế các lời hứa trong giao ước. Bằng phép báp têm, chúng ta có được quan hệ họ hàng với Đấng Cơ-đốc và nhờ Ngài được quyền tham gia vào những lời đã hứa với Áp-ra-ham. Như vậy, tất cả những gì Đức Chúa Trời đã hứa với Áp-ra-ham đều được tìm thấy trong Đấng Cơ-đốc, và những lời hứa trở thành của chúng ta, không phải vì quốc tịch, chủng tộc hay giới tính mà là nhờ ân điển, Đức Chúa Trời ban cho chúng ta qua đức tin.
+
+“Ơn ban cho Áp-ra-ham và dòng dõi của ông không chỉ bao gồm đất Ca-na-an, mà còn cả trái đất. Sứ đồ nói: “Lời hứa rằng ông nên làm người thừa kế thế gian, không phải cho Áp-ra-ham, hay dòng dõi ông, nhờ luật pháp, nhưng nhờ sự công bình của đức tin” (Rô-ma 4:13). Kinh Thánh dạy rõ ràng rằng những lời hứa với Áp-ra-ham sẽ được thực hiện qua Đấng Cơ-đốc... Các tín đồ trở thành người thừa kế “một cơ nghiệp không bị hư hỏng, không bị ô uế, và điều đó sẽ không biến mất” 1 Phi-e-rơ 1:4 — trái đất được giải phóng khỏi lời nguyền rủa của tội lỗi”- Ellen G. White, Tổ phụ và Tiên tri, tr. 170. Lời hứa này sẽ được thực hiện theo nghĩa đen khi các thánh đồ sống trên đất mới mãi mãi với Đấng Cơ-đốc (Đa-ni-ên 7:27).

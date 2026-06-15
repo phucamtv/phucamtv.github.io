@@ -1,0 +1,25 @@
+---
+build: { render: never }
+title: "Đức Chúa Giê-su Và Nguồn Gốc Lịch Sử Của Kinh Thánh"
+dayLabel: "Thứ Tư"
+weight: 5
+---
+Đức Chúa Giê-su đã dạy rằng, Kinh Thánh là Lời Chúa, theo nghĩa là những lời được phán dạy trong Kinh Thánh biểu thị cho lời của Đức Chúa Trời. Nguồn gốc của nó được tìm thấy nơi Đức Chúa Trời và, do đó, chứa đựng quyền phép tối cao cho mọi khía cạnh của cuộc sống. Chúa đã làm việc qua các thời kỳ lịch sử để bày tỏ ý muốn của Ngài cho muôn dân qua Kinh Thánh.
+
+Chẳng hạn, trong Ma-thi-ơ 19:4,5, Đức Chúa Giê-su đề cập đến một câu nói được viết bởi Môi-se. Nhưng Đức Chúa Giê-su lấy và phán: “Đấng Tạo Hóa, hồi ban đầu, dựng nên một người nam, một người nữ và có phán rằng”, “vì cớ đó người nam sẽ lìa cha mẹ”. Thay vì nói, “Kinh Thánh chép rằng”, thì Đức Chúa Giê-su lại nói “Đấng Tạo Hóa … có phán rằng”, điều này bổ sung rằng người viết nên sách Sáng-thế Ký là Đấng Tạo Hóa. Trên thực tế, Chúa được coi là tác giả của những câu nói này, mặc dù nó được viết bởi Môi-se.
+
+**Đọc những câu Kinh Thánh dưới đây. Đức Chúa Giê-su hiểu nhân vật lịch sử và các sự kiện trong Kinh Thánh như thế nào?**
+
+`Ma-thi-ơ 12:3,4`
+
+`Mác 10:6-8`
+
+`Lu-ca 4:25-27`
+
+`Lu-ca 11:51`
+
+`Ma-thi-ơ 24:38`
+
+Đức Chúa Giê-su luôn coi con người, địa điểm và sự kiện trong Cựu Ước là sự thật lịch sử. Ngài đề cập đến Sáng-thế ký 1 và 2, A-bên trong Sáng-thế ký 4, Đa-vít ăn bánh bày ra và Ê-li trong số các nhân vật lịch sử khác. Ngài liên tục nói về những đau khổ của những tiên tri thời xưa (Ma-thi-ơ 5:12, 13:57, 23:34-36, Mác 6:4). Trong một thông điệp cảnh báo, Đức Chúa Giê-su cũng mô tả những ngày của Nô-ê: “người ta ăn, uống, cưới, gả như thường cho đến ngày Nô-ê vào tàu, và người ta không ngờ chi hết cho đến khi nước lụt tới mà đùa đem đi hết thảy, khi Con người đến cũng vậy” (Ma-thi-ơ 24:38,39). Mọi dấu hiệu cho thấy Đức Chúa Giê-su đã đề cập đến hành động mạnh mẽ này là sự phán xét của Đức Chúa Trời như là một sự kiện lịch sử.
+
+`Bởi vì chính Đức Chúa Giê-su đề cập những người lịch sử này là có thật, điều này nói gì về sức mạnh của sự lừa dối của Sa-tan mà nhiều người ngày nay, thậm chí đã xưng danh là Cơ đốc nhân, thường phủ nhận sự tồn tại của họ? Tại sao phải để chính mình không bao giờ rơi vào cái bẫy đó?`

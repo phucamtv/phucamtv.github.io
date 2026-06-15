@@ -1,0 +1,19 @@
+---
+build: { render: never }
+title: "Cuộc Hành Trình Truyền Giáo Đầu Tiên Của Phao-lô"
+dayLabel: "Sa-bát"
+weight: 1
+---
+### Kinh Thánh nghiên cứu
+
+Công-vụ 13; 2 Cô-rinh-tô 4:7-10; Rô-ma 10:1-4; Rô-ma 3:19; Công-vụ 14:1-26; Rô-ma 9-11
+
+> Câu gốc
+>
+> “Vậy, hỡi anh em, khá biết rằng nhờ Đấng đó mà sự tha tội được rao truyền cho anh em; lại nhờ Ngài mà hễ ai tin thì được xưng công bình về mọi điều theo luật pháp Môi-se chẳng có thể được xưng công bình” (Công-vụ 13:38-39).
+
+hắc chắn rằng, tin lành đã đi đến với dân Ngoại cũng như đến với dân Do Thái. Đây là một thông điệp chậm mà chắc mà những Cơ đốc nhân Do Thái thời kỳ đầu đã bắt đầu thấu hiểu.
+
+Báo cáo đầu tiên và rất rõ ràng của chúng tôi về việc số lượng lớn dân Ngoại tin đạo cho thấy có liên quan đến thành An-ti-ốt. Nói cách khác, thành An-ti-ốt là nơi mà Hội Thánh đầu tiên của dân Ngoại được thành lập, ngay cả khi ở nơi đó có một số lượng lớn người Do Thái (Ga-la-ti 2:11-13). Nhờ vào lòng nhiệt huyết truyền giáo của những người thành lập Hội Thánh, và sự thúc đẩy của Ba-na-ba và Phao-lô thì Hội Thánh đã phát triển một cách nhanh chóng và trở thành trung tâm Cơ đốc quan trọng đầu tiên ngoài vùng Giu-đê. Trên thực tế, nơi này còn vượt qua Hội Thánh ở Giê-ru-sa-lem một số mặt.
+
+Với việc các sứ đồ vẫn trú ngụ tại Giê-ru-sa-lem, An-ti-ốt đã trở thành cái nôi của sứ mạng truyền giáo của Cơ đốc nhân. Chính từ đó, với sự hỗ trợ ban đầu của tín hữu địa phương, nơi Phao-lô đã khởi hành cả ba chuyến truyền giáo của mình. Đó là bởi vì cam kết của họ là Cơ đốc giáo trở thành như những gì Đức Chúa Giê-su đã dự định: một tôn giáo trên toàn thế giới, tôn giáo mà tin lành sẽ được truyền bá ra cho “mọi nước, mọi chi phái, mọi tiếng, và mọi dân tộc” (Khải Huyền 14:6).

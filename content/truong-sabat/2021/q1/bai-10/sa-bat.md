@@ -1,0 +1,25 @@
+---
+build: { render: never }
+title: "Làm Điều Không Thể Tưởng Tượng"
+dayLabel: "Sa-bát"
+weight: 1
+---
+> Câu gốc
+>
+> “Nhưng người đã vì tội lỗi chúng ta mà bị vết, vì sự gian ác chúng ta mà bị thương, bởi sự sửa phạt người chịu chúng ta được bình an, bởi lằn roi người chúng ta được lành bịnh”. (Ê-sai 53:5).
+
+### Kinh Thánh nghiên cứu
+
+Ê-sai 50:4-10; 52:13-53:12; 53:3-9; 53:10-12.
+
+Lough Fook là một Cơ-đốc nhân người Trung Quốc, đã thực hành lòng thương xót đối với những người đồng hương của mình trở thành nô lệ trong các mỏ than ở Phi Châu. Anh muốn mang đến cho họ hy vọng của phúc âm, nhưng làm thế nào anh có thể tiếp cận họ?
+
+Giải pháp của anh là tự bán mình làm nô lệ với thời hạn 5 năm. Anh được chuyển tới Demerara, nơi mà anh làm việc cực nhọc trong các hầm mỏ và kể về Đức Chúa Giê-su cho những đồng nghiệp của mình.
+
+Lough Fook đã chết, nhưng chưa tới 200 người được giải cứu khỏi sự tuyệt vọng bằng cách chấp nhận Đức Chúa Giê-su làm Đấng Cứu Chuộc của họ.
+
+Một tấm gương thật tuyệt vời về sự hy sinh bản thân vì lợi ích của người khác!
+
+Cũng một thể ấy, Đức Chúa Giê-su đã làm điều không thể tưởng tượng, Ngài mặc lấy sự khiêm nhường “tự bỏ mình đi, lấy hình tôi tớ” (Phi-líp 2:7) đã tiếp cận bạn và tôi và tất cả những người đang bị chìm đắm trong vực sâu của tội lỗi ở thế gian.
+
+Bài học tuần này chúng ta sẽ xem xét một sự kiện đáng kinh ngạc đã được nói tiên tri hàng trăm năm trước khi nó xảy ra.

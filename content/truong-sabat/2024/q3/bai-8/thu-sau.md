@@ -1,0 +1,23 @@
+---
+build: { render: never }
+title: "Nghiên Cứu Bổ Túc"
+dayLabel: "Thứ Sáu"
+weight: 7
+---
+NGHIÊN CỨU BỔ TÚC
+
+Đọc chương “Phước hạnh của con trẻ” và “Thứ chúng ta còn thiếu” trong tác phẩm Nguyện Ước Thời Đại của bà Ellen G. White, trang 511-523.
+
+“Đức Chúa Giê-su yêu thương trẻ thơ. Ngài đón nhận sự trắc ẩn và tình yêu hồn nhiên và đơn sơ của trẻ nhỏ. Lời khen ngợi từ đôi môi thánh khiết của các em là âm nhạc trong tai Ngài và làm mới lại tình thần của Ngài khi phải tiếp xúc với những con người xảo quyệt và đạo đức giả. Bất cứ nơi nào Ngài đi đến thì khuôn mặt hiền lành và cách cư xử dịu dàng, tử tế của Ngài dành được tình yêu thương và sự tin tưởng của trẻ nhỏ.”, Nguyện Ước Thời Đại, Ellen G. White, trang 511.
+
+Đối với những ai, giống như người trai trẻ giàu có, đang ở vị trí cao của sự tin cậy và có tài sản lớn, có vẻ như đó là một sự hy sinh quá lớn để từ bỏ tất cả để theo Đức Chúa Giê-su. Nhưng đây là quy tắc ứng xử cho tất cả những ai sẽ trở thành môn đồ của Ngài. Không có khác ngoại trừ sự vâng lời có thể được chấp nhận. Sự đầu phục là bản chất của những lời dạy của Đấng Cơ-đốc. Thường thì nó được trình bày và kèm theo trong ngôn ngữ có thẩm quyền, bởi vì không có cách nào khác để cứu con người hơn là cắt bỏ những thứ mà nếu được sẽ làm hư mất tinh thần và toàn bộ con người.”, Nguyện Ước Thời Đại, trang 153.
+
+**Câu hỏi thảo luận**:
+
+`Bạn có những cách gì để có thể giúp trẻ em và thanh niên kết nối với Đức Chúa Giê-su và Hội Thánh? Tại sao điều đó rất quan trọng để chúng ta làm việc này?`
+
+`Đôi khi chúng ta nghe mọi người nói rằng họ không quan tâm đến tiền. Điều đó không đúng. Mọi người đều quan tâm đến tiền bạc, và không có gì sai với điều đó. Vậy thì, vấn đề tiền bạc có thể là gì, và tại sao các Cơ-đốc nhân trung thành, giàu hay nghèo, phải cẩn thận trong cách họ liên quan đến tiền bạc?`
+
+`Nếu Đức Chúa Giê-su hỏi bạn, "Con muốn Ta làm gì cho con?", bạn sẽ đáp lại như thế nào?`
+
+`Hãy tập trung nhiều hơn vào những lời của Đức Chúa Giê-su trong Mác 10:43–45. Sống như thế này có nghĩa là gì? Làm thế nào để chúng ta học cách phục vụ thay vì được phục vụ? Điều này có ý nghĩa gì liên quan đến cách chúng ta sống và tương tác với người khác?`
