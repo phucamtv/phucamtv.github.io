@@ -1,0 +1,20 @@
+---
+build: { render: never }
+title: "Ân tứ thuộc linh"
+dayLabel: "Sa-bát"
+weight: 1
+---
+
+> <p>Câu gốc</p>
+> "Hãy nôn nả tìm kiếm tình yêu thương. Cũng hãy ước ao các sự ban cho thiêng liêng, nhứt là sự ban cho nói tiên tri" (1 Cô-rinh-tô 14:1).
+
+### Kinh Thánh nghiên cứu
+1 Cô-rinh-tô 12; Ê-phê-sô 4:11–13; 1 Cô-rinh-tô 13; 1 Phi-e-rơ 4:8–11; 1 Cô-rinh-tô 14:27; A-mốt 3:7.
+
+Giống như thân thể con người, Hội Thánh là một nhưng có nhiều chi thể, mỗi chi thể có vai trò, chức năng và ân tứ khác nhau. Khi được thực hành với tình yêu thương, các ân tứ thuộc linh này thúc đẩy ý thức về sự hiệp một phản ánh bản tính của Đức Chúa Trời ba ngôi.
+
+Tuần này chúng ta sẽ khảo sát 1 Cô-rinh-tô 12–14 cùng sự dạy dỗ của các đoạn này về ân tứ thuộc linh. Phần này nằm trong một đơn vị lớn hơn một chút, nơi Phao-lô bàn về hành vi Cơ-đốc nhân được mong đợi trong bối cảnh tôn giáo (1 Cô-rinh-tô 11–14). Mối quan tâm chính của Phao-lô liên quan đến vấn đề những buổi nhóm họp mất trật tự. Câu trả lời của ông cho vấn đề này là Hội Thánh giống như một thân thể, mà các bộ phận có những chức năng khác nhau cùng góp phần "gây dựng thân thể Đấng Cơ-đốc" (Ê-phê-sô 4:12). Tóm lại, Đức Chúa Trời ban cho Hội Thánh các ân tứ thuộc linh để thúc đẩy sự hiệp một qua sự đa dạng.
+
+Chắc chắn Phao-lô vẫn còn nghĩ đến vấn đề bè phái được đề cập trong bốn đoạn đầu của 1 Cô-rinh-tô, nơi câu trả lời cho sự thiếu hiệp ý giữa các tín hữu trong Hội Thánh là sự hiệp một trong Đấng Cơ-đốc. Bây giờ, ông phát triển ý tưởng đó bằng cách trình bày sự hiểu biết của mình về vai trò của các ân tứ thuộc linh. Theo Phao-lô, sự hiệp một trong Đấng Cơ-đốc và trong Thánh Linh là phương cách duy nhất để tránh chia rẽ.
+
+_Nghiên cứu bài học tuần này để chuẩn bị cho ngày Sa-bát, ngày 8 tháng 8._

@@ -1,0 +1,18 @@
+---
+build: { render: never }
+title: "Tinh thần phục vụ giống như Đấng Cơ-đốc"
+dayLabel: "Thứ Tư"
+weight: 5
+---
+
+`Đọc 1 Cô-rinh-tô 4:1, 2. Đoạn Kinh Thánh này dạy gì về cái nhìn đúng đắn mà một người phải có về các nhà lãnh đạo loài người?`
+
+Trong 1 Cô-rinh-tô 3:1–4, Phao-lô ngụ ý rằng các phe nhóm hình thành từ sự thiếu trưởng thành thuộc linh. Tuy nhiên, trước khi đề cập đến chủ đề này, ông xác quyết: "Chúng ta có ý của Đấng Cơ-đốc" (1 Cô-rinh-tô 2:16). Cụm từ này có lẽ ám chỉ đến cách suy nghĩ và hành động của Đấng Cơ-đốc. Nói cách khác, người tín hữu có "ý của Đấng Cơ-đốc" khi người ấy suy nghĩ và hành động như Đấng Cơ-đốc. Tuy nhiên, đem cái ý này ra thực hành trong mọi vấn đề của cuộc sống không dễ dàng cho lắm, phải không? Trong thế giới Hy-La, có nhiều sự ganh đua giữa các nhân vật chính trị, các triết gia, các nhà tư tưởng và các nhà lãnh đạo tôn giáo. Lòng khao khát được văn hóa đương thời tán thưởng dường như đã khiến Hội Thánh Cô-rinh-tô đi theo các tiêu chuẩn thế tục. Đây cũng có thể là một mối nguy cho Hội Thánh ngày nay.
+
+`Đọc Phi-líp 2:5–8. Đoạn văn này giúp chúng ta hiểu cụm từ "ý của Đấng Cơ-đốc" (1 Cô-rinh-tô 2:16) như thế nào?`
+
+Cũng giống như tại Cô-rinh-tô, những sự chia rẽ cũng đang diễn ra trong Hội Thánh Phi-líp (Phi-líp 2:1–4), có lẽ ở mức độ nhẹ hơn. Phi-líp 2:1–8 dạy chúng ta rằng tinh thần phục vụ giống như Đấng Cơ-đốc đòi hỏi sự chết đi cho cái tôi và cho những tham vọng ích kỷ, và thay vào đó tìm cách làm ích cho người khác hơn chính mình, như Đức Chúa Giê-su đã làm.
+
+Tinh thần phục vụ giống như Đấng Cơ-đốc chính là điều Phao-lô muốn nói qua cụm từ "đầy tớ của Đấng Cơ-đốc" (1 Cô-rinh-tô 4:1). Cụm từ này có thể truyền đạt ý tưởng rằng họ phục vụ Đấng Cơ-đốc với tư cách là người phụ tá hay thuộc cấp. Rõ ràng là một cái nhìn đúng đắn về các nhà lãnh đạo loài người được đặt trên nền tảng gương lãnh đạo của Đấng Cơ-đốc. Các đầy tớ ấy còn được mô tả là những "kẻ phân phát" (1 Cô-rinh-tô 4:1, 2). Người phân phát là người được giao phó việc quản trị tài sản của một người khác. Và bất cứ điều gì chúng ta có, dù sao tất cả đều thuộc về Đấng Cơ-đốc.
+
+`Hãy cầu nguyện và suy gẫm về sứ điệp của Phi-líp 2:5–8. Làm thế nào chúng ta nắm bắt được điều mà đoạn này cho chúng ta biết về tình yêu thương quên mình của Đức Chúa Trời dành cho chúng ta? Và tại sao chúng ta cũng cần chết đi cho cái tôi để, trong phạm vi của mình, chúng ta có thể noi theo tình yêu thương ấy?`

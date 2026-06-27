@@ -1,0 +1,18 @@
+---
+build: { render: never }
+title: "Lấy Đức Chúa Giê-su làm trung tâm"
+dayLabel: "Thứ Hai"
+weight: 3
+---
+
+`Đọc 1 Cô-rinh-tô 1:10. Bạn nghĩ Phao-lô muốn nói gì qua câu "hiệp một ý một lòng cùng nhau"?`
+
+Việc kết thành các phe nhóm ở đây cấu thành một sự chối bỏ lòng trung thành của một người đối với Đấng Cơ-đốc (1 Cô-rinh-tô 1:10). Đức Chúa Trời đã gọi chúng ta "vào sự thông công với Con Ngài, là Đức Chúa Jêsus Cơ-đốc, Chúa chúng ta" (1 Cô-rinh-tô 1:9). Chúa của chúng ta là Đấng Cơ-đốc, và chúng ta phải lấy Ngài làm trung tâm. Vì vậy, câu trả lời cho những câu hỏi tu từ "Đấng Cơ-đốc bị phân rẽ ra sao? Có phải Phao-lô đã chịu đóng đinh trên cây thập tự thế cho anh em chăng? Hay là anh em đã nhân danh Phao-lô mà chịu phép báp-têm sao?" (1 Cô-rinh-tô 1:13) là một tiếng "Không!" vang dội. Đấng Cơ-đốc không bị phân rẽ. Chính Đấng Cơ-đốc là Đấng đã chịu đóng đinh thế cho chúng ta. Chúng ta đã chịu phép báp-têm "nhân danh Đức Cha, Đức Con, và Đức Thánh Linh" (Ma-thi-ơ 28:19).
+
+Phao-lô đề cập rằng chúng ta là "thân của Đấng Cơ-đốc, và là chi thể của thân, ai riêng phần nấy" (1 Cô-rinh-tô 12:27; nhấn mạnh được thêm vào). Tuy thân thể có nhiều bộ phận—mỗi bộ phận có chức năng riêng—nhưng nó vẫn là một thân thể. Để thân thể vận hành đúng cách, mỗi bộ phận phải làm công việc của mình tùy theo khả năng của nó. Hình ảnh ẩn dụ này cho thấy Phao-lô đang tìm kiếm sự hiệp một, chứ không phải sự đồng nhất rập khuôn. Ông tìm kiếm sự hiệp một trong sự đa dạng. Hơn thế nữa, ông tìm kiếm sự hiệp một bất chấp sự đa dạng.
+
+Tuy nhiên, mọi tư tưởng và ý kiến đều phải được đầu phục Đấng Cơ-đốc, là Chúa chúng ta. Sự kiện Đấng Cơ-đốc là Chúa chúng ta là một khái niệm quan trọng đối với Phao-lô đến nỗi ông nhắc đi nhắc lại nhiều lần trong phần mở đầu của 1 Cô-rinh-tô (1 Cô-rinh-tô 1:2, 7, 8, 9, 10). Vì vậy, trước khi Phao-lô giải quyết vấn đề các phe nhóm và các nhà lãnh đạo loài người, trước hết ông nhấn mạnh rằng tất cả chúng ta đều có Đức Chúa Giê-su là Chúa của mình. Hội Thánh không lấy các nhà lãnh đạo loài người làm trung tâm. Người Cơ-đốc lấy Đức Chúa Giê-su làm trung tâm.
+
+Việc nhấn mạnh đến quyền tể trị của Đức Chúa Giê-su trong những câu đầu của sách 1 Cô-rinh-tô giúp chúng ta hiểu Phao-lô muốn nói gì qua những lời: "Hiệp một ý một lòng cùng nhau" (1 Cô-rinh-tô 1:10). Từ Hy-lạp được dịch là "hiệp một" đến từ động từ _katartizō_, hàm ý rằng một điều gì đó cần được phục hồi về tình trạng đúng đắn của nó. Khi các phe nhóm hình thành xung quanh các nhà lãnh đạo loài người, các mối quan hệ trong Hội Thánh cần được phục hồi về tình trạng đúng đắn của chúng, và điều đó có thể xảy ra qua sự hiệp một trong Đấng Cơ-đốc và sự chết đi cho cái tôi mà nó đòi hỏi.
+
+`Trong vài thập kỷ qua, một số bộ phận của Giáo Hội Cơ-đốc Phục Lâm đã nhấn mạnh đến việc học Kinh Thánh theo nhóm nhỏ. Sự khác biệt giữa phe nhóm và nhóm nhỏ là gì? Làm thế nào để chúng ta cẩn thận giữ cho các nhóm nhỏ không biến thành các phe nhóm?`
