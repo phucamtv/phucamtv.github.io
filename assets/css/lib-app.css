@@ -325,8 +325,74 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 .lib-source { font-size: 13px; color: var(--kt-text-3); margin-top: 28px; }
 .lib-source a { color: var(--kt-accent-deep); font-weight: 600; }
 
-/* floating app nav bar — hidden by default; shown in the rail-float band */
+/* ============================================================
+   Floating app nav bar — between the 3-column layout (≥1160px) and
+   the mobile layout (≤960px), the rail collapses to a bottom bar.
+   The 960px mobile block below is the floor and is untouched.
+   ============================================================ */
 .lib-navbar { display: none; }
+
+/* the bar's look (only rendered when .rail-float adds it to the flow) */
+.lib-app .lib-navbar {
+  position: absolute; left: 0; right: 0; bottom: 0; z-index: 35;
+  justify-content: center; align-items: stretch; pointer-events: none;
+}
+.lib-app .lib-navbar > * { pointer-events: auto; }
+.lib-navbar-inner {
+  flex: 1; display: flex; align-items: stretch; justify-content: space-around;
+  gap: 2px; padding: 6px 8px calc(6px + env(safe-area-inset-bottom));
+  background: linear-gradient(180deg,
+    color-mix(in srgb, var(--kt-accent) 24%, #1d1610),
+    color-mix(in srgb, var(--kt-accent) 15%, #130f08));
+  border-top: 1px solid rgba(255, 255, 255, .1);
+  box-shadow: var(--kt-sh-win);
+  -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
+}
+
+/* items — icon + label (default) */
+.lib-app .lib-navbar-item {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 3px; padding: 7px 12px; border-radius: 14px; cursor: pointer;
+  color: var(--lib-rail-text); font-size: 11px; font-weight: 600; line-height: 1.1;
+  white-space: nowrap; background: none; border: none; font-family: inherit;
+  transition: background .15s, color .15s;
+}
+.lib-navbar-item svg { width: 21px; height: 21px; opacity: .85; }
+.lib-navbar-item:hover { background: rgba(255, 255, 255, .07); color: #fff; }
+.lib-navbar-item:hover svg { opacity: 1; }
+.lib-navbar-item.is-active { background: color-mix(in srgb, var(--kt-accent) 40%, transparent); color: #fff; }
+.lib-navbar-item.is-active svg { opacity: 1; }
+.lib-navbar-item.is-child { color: var(--lib-rail-text-2); }
+.lib-navbar-item.is-child:hover { color: #fff; }
+
+/* parent + inline children that unfold left→right on click */
+.lib-navbar-parent { display: flex; align-items: stretch; gap: 2px; }
+.lib-navbar-kids {
+  display: grid; grid-template-columns: 0fr; min-width: 0; overflow: hidden;
+  transition: grid-template-columns .32s cubic-bezier(.3, .8, .25, 1);
+}
+.lib-navbar-parent.open .lib-navbar-kids { grid-template-columns: 1fr; margin-left: 2px; }
+.lib-navbar-kids-track { display: flex; gap: 2px; min-width: 0; }
+.lib-navbar-kids .lib-navbar-item {
+  opacity: 0; transform: translateX(-8px);
+  transition: opacity .2s .04s, transform .28s cubic-bezier(.3, .8, .25, 1);
+}
+.lib-navbar-parent.open .lib-navbar-kids .lib-navbar-item { opacity: 1; transform: none; }
+.lib-navbar-parent.open .lib-navbar-kids .lib-navbar-item:nth-child(2) { transition-delay: .12s, .12s; }
+
+/* THE STATE — applied automatically in the 961–1160px band. Equal grid mins
+   so mid + detail share the space cleanly. No JS. */
+@media (min-width: 961px) and (max-width: 1160px) {
+  .lib-app:not(.no-mid) {
+    grid-template-columns: minmax(280px, var(--lib-mid-w)) minmax(280px, 1fr);
+  }
+  .lib-app:not(.no-mid) .lib-rail { display: none; }
+  .lib-app:not(.no-mid) .lib-mid { grid-column: 1; }
+  .lib-app:not(.no-mid) .lib-detail { grid-column: 2; }
+  .lib-app:not(.no-mid) .lib-navbar { display: flex; }
+  /* keep the mid list's last row clear of the floating bar */
+  .lib-app:not(.no-mid) .lib-mid-body { padding-bottom: 84px; }
+}
 
 /* ============================================================
    Mobile — drawer rail + master/detail stack
