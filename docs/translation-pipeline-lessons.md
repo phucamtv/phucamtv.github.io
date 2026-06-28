@@ -129,12 +129,84 @@ A 2-hour single subagent dispatch is at the edge of practical reliability. The a
 - Glossary comment in `data/egw-translation/glossary.yaml` still says "for The Great Controversy" — should be "for Ellen G. White writings" now that it's shared.
 - Move blockquote/Bible resolution out of the translate stage into a dedicated post-process stage, so retroactive fixes (like #5 above) don't require re-running translate against the API.
 
+## The Desire of Ages run (book 130, "Khát Vọng Muôn Đời", 87 chapters)
+
+### 9. egwwritings.org is now behind Cloudflare — scrape from the EPUB instead
+
+The live chapter pages (`m.egwwritings.org/en/book/130...`) now return a Cloudflare
+"Just a moment..." JS challenge (HTTP 403) to plain `fetch`, regardless of User-Agent.
+The content API at `a.egwwritings.org` exists but needs auth (401). WebFetch is also
+403'd.
+
+**Fix:** the White Estate media host `media2.egwwritings.org` is NOT Cloudflare-protected
+and serves the official EPUB directly (`/epub/en_<CODE>.epub`, e.g. `en_DA.epub`). Added
+`scripts/egw_scrape/extract_epub.ts` to download + parse the EPUB into the same
+`chNN.txt` + `chapters.json` the downstream pipeline expects. `content01.xhtml` =
+chapter 1, etc. No code changes needed downstream.
+
+**Copyright note:** the underlying 1898 DA text is US public domain (pre-1923) and freely
+translatable. The EPUB's `aboutbook.xhtml` carries a White Estate EULA on *that file's*
+distribution — use the EPUB only to obtain the PD text, don't treat its EULA as granting
+rights. Consistent with how the site already describes its translations ("dịch từ ấn bản
+Anh ngữ công cộng"). NB: LDE (1992) is NOT public domain; DA (1898) is on firmer ground.
+
+### 10. Reconstructing `DA N.M` citations from the EPUB
+
+The EPUB has NO `DA N.M` paragraph citations (those are a web-reader feature). But each
+paragraph has an `id="pN"` anchor and the text contains `<span class="pagebreak"
+title="N">[N]</span>` markers whose `title` is the print page number. The canonical
+citation is `<page>.<ordinal-on-page>` where the page is the one in effect when the
+paragraph *begins* — a paragraph containing a `[N]` break still belongs to the page
+*before* it. The chapter's opening page is implicit (`firstMarkerPage − 1`). Verified
+against egwwritings ground truth: ch1 para 1 = DA 19.1, the para after `[20]` = DA 20.1.
+
+Two gotchas, both caught only by checking against ground truth (always do this before
+translating a single chapter):
+- The pagebreak span has `title="N"` BEFORE `class="pagebreak"` — order-independent
+  regex required.
+- The visible `[N]` text inside the span must be stripped from the reading text (the
+  other books have zero `[NN]` markers); the page number comes from the `title` attr.
+
+### 11. Resolver edge cases the model emits (fixed in `bible.ts`, all TDD)
+
+- **Multi-chapter comma lists**: the model batches refs like `[[BIBLE:John 8:28,6:57,8:50,7:18]]`
+  (= John 8:28, 6:57, 8:50, 7:18). Each comma group may carry its own `chapter:`; bare
+  groups inherit the prior chapter. `parseRef` now walks segments.
+- **Verses omitted from VI1934**: e.g. Mark 9:44 is genuinely absent (like Matt 17:21).
+  A range `9:43-45` must resolve from 43 + 45, skipping the gap. `lookupVerses` now skips
+  individually-missing verses, returning null only if NOTHING in the ref resolves.
+- **Bare whole-chapter ref** (`[[BIBLE:Psalm 117]]`, no verse): rare (1 in 2,692 paras).
+  Not worth whole-chapter expansion; fixed as a one-off content edit. If it recurs often,
+  expand `parseRef` to handle bare chapters for short psalms.
+- **`assembleBody` now runs a final resolver pass** (pass a `BibleLookup`). This means a
+  resolver fix can be applied to already-translated chapters by re-running *assemble*
+  only — no model re-call. (This was the "move resolution to a post-process stage"
+  follow-up; partially done — translate still resolves per-chunk too.)
+
+### 12. Ellipsis normalization (lint)
+
+The model emits ASCII `...` and spaced `. . .` inside verse quotes and prose. CLAUDE.md
+mandates `…`. `lint.ts` now collapses both to `…` (spaced form first so its dots aren't
+half-consumed).
+
+### 13. Parallel batch translation (`scripts/egw_translate/batch.ts`)
+
+87 chapters ≈ 3× the largest prior book. Ran 4 parallel `batch.ts` processes over disjoint
+chapter ranges (each runs chunk→translate→assemble per chapter sequentially, logs to
+`data/<book>-translated/batch-logs/`). ~210 chunks, full book in ~2h wall with 4-way
+parallelism, 0 `.err` files. Resume-by-file-existence makes this safe to interrupt/restart.
+Watch the coarse "DONE" counter lag behind in-flight large chapters — count fresh `claude`
+proc ages to confirm liveness, not just the DONE count.
+
 ## Pattern: when the next book starts
 
 1. Add `scripts/egw_scrape/books/<slug>.ts` and `scripts/egw_translate/books/<slug>.ts`.
-2. Add the slug to the `BOOKS` registry in `scrape.ts` and `egw_translate/run.ts`.
-3. Add `data/<slug>-translated/` to `.gitignore`.
-4. Hugo stub directory: 1 frontmatter-only `chuong-NN.md` per chapter, optionally seeded with English source (see `scripts/egw_scrape/seed_chapters.ts`).
-5. Run: `bun scripts/egw_scrape/scrape.ts <slug> all` then `bun scripts/egw_translate/run.ts all --book <slug>`.
-6. Spot-check `chuong-01.md` and the longest chapter before committing the batch.
-7. Manual review + flip `draft: false` per chapter.
+   Include `epubUrl` + `paragraphCitationPrefix` if scraping from the EPUB.
+2. Add the slug to the `BOOKS` registry in `scrape.ts`, `extract_epub.ts`, `egw_translate/run.ts`, and `seed_chapters.ts`.
+3. Add `data/<slug>-source/` and `data/<slug>-translated/` to `.gitignore`.
+4. Acquire source: `bun scripts/egw_scrape/extract_epub.ts <slug>` (EPUB) OR `scrape.ts <slug> all` (if live pages reachable).
+   **Verify reconstructed citations against egwwritings ground truth before translating anything.**
+5. Hugo stub directory: 1 frontmatter-only `chuong-NN.md` per chapter (authored VN titles, `draft: true`).
+6. Translate: `bun scripts/egw_translate/batch.ts --book <slug> --from 1 --to N` (split into parallel batches for big books).
+7. Verify: 0 bare `[NN]` markers, 0 unresolved sentinels, 0 ASCII `...`, citation count == source paragraph count, citations ascend across chapters, Hugo builds.
+8. Flip `draft: false`, confirm the book lists on `/sach/` and `/sach/egw/`, commit.
