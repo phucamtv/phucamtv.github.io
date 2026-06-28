@@ -1,0 +1,23 @@
+{{- /* Floating app nav bar (library shell). Rendered from the same nav data
+       as the rail. Hidden by CSS except in the rail-float band (961–1160px).
+       Call with the same dict as the rail: (dict "active" "<key>"). */ -}}
+{{- $a := .active -}}
+{{- $nav := partial "lib/nav-data.html" . -}}
+<nav class="lib-navbar" aria-label="Thư viện">
+  <div class="lib-navbar-inner">
+    {{- range $nav }}
+    {{- if .children }}
+    <div class="lib-navbar-parent" data-parent>
+      <button type="button" class="lib-navbar-item is-parent{{ if and .key (eq $a .key) }} is-active{{ end }}" data-toggle>{{ partial "lib/nav-icon.html" .icon }}<span>{{ .label }}</span></button>
+      <div class="lib-navbar-kids"><div class="lib-navbar-kids-track">
+        {{- range .children }}
+        <a class="lib-navbar-item is-child{{ if and .key (eq $a .key) }} is-active{{ end }}" href="{{ .href }}">{{ partial "lib/nav-icon.html" .icon }}<span>{{ .label }}</span></a>
+        {{- end }}
+      </div></div>
+    </div>
+    {{- else }}
+    <a class="lib-navbar-item{{ if and .key (eq $a .key) }} is-active{{ end }}" href="{{ .href }}">{{ partial "lib/nav-icon.html" .icon }}<span>{{ .label }}</span></a>
+    {{- end }}
+    {{- end }}
+  </div>
+</nav>

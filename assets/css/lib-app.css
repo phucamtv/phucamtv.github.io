@@ -325,6 +325,9 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 .lib-source { font-size: 13px; color: var(--kt-text-3); margin-top: 28px; }
 .lib-source a { color: var(--kt-accent-deep); font-weight: 600; }
 
+/* floating app nav bar — hidden by default; shown in the rail-float band */
+.lib-navbar { display: none; }
+
 /* ============================================================
    Mobile — drawer rail + master/detail stack
    ============================================================ */
