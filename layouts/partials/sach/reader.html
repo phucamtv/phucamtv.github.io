@@ -1,6 +1,6 @@
 {{- /* Shared Tủ Sách chapter reader, rendered inside the divine-library detail.
        Used by sach/chapter.html and sach/lde-chapter.html. Preserves the EGW
-       content fix-ups (malformed quotes, citations, GC/COL/LDE paragraph refs). */ -}}
+       content fix-ups (malformed quotes, citations, GC/COL/LDE/DA paragraph refs). */ -}}
 {{- $book := .Parent -}}
 {{- $chapter := .Params.chapter -}}
 {{- $title := replaceRE "^Chương [0-9]+: " "" .Title -}}
@@ -9,7 +9,7 @@
 {{- $c = replaceRE `(?s)&gt;\s*&ldquo;(.+?)&rdquo;` `<q class="ch-iq">$1</q>` $c -}}
 {{- $c = replaceRE `(?s)<blockquote>\s*<p>\s*<cite>([^<]+)</cite>(?:&\w+;|[^<\pL])*(.*?)</p>\s*</blockquote>` `<p><span class="ch-cite">$1</span>$2</p>` $c -}}
 {{- $c = replaceRE `<cite>([^<]+)</cite>(?:&\w+;|[^<\pL])*` `<span class="ch-cite">$1</span> ` $c -}}
-{{- $c = replaceRE `\s*((?:GC|COL|LDE)\s+\d+\.\d+)` ` <span class="ch-ref">$1</span>` $c -}}
+{{- $c = replaceRE `\s*((?:GC|COL|LDE|DA)\s+\d+\.\d+)` ` <span class="ch-ref">$1</span>` $c -}}
 
 <article class="lib-doc">
   <button class="lib-dtrigger" type="button" aria-label="Mở mục lục">
