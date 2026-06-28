@@ -26,9 +26,9 @@ Vâng theo mệnh lệnh của Đấng Christ, họ [các môn đồ] chờ đ�
 > "Môn đồ cứ ở trong đền thờ luôn, ngợi khen Đức Chúa Trời."
 > <cite>(Lu-ca 24:53)</cite>
 
-... LDE 184.1
+… LDE 184.1
 
-Trong khi các môn đồ chờ đợi sự ứng nghiệm của lời hứa, họ hạ mình trong sự ăn năn chân thật và xưng nhận sự vô tín của mình.... Các môn đồ cầu nguyện với lòng sốt sắng mãnh liệt để được trang bị hầu gặp gỡ mọi người và trong sự giao tiếp hằng ngày của họ nói những lời sẽ dẫn dắt tội nhân đến với Đấng Christ. Dẹp bỏ mọi sự bất đồng, mọi ham muốn về địa vị cao nhất, họ đến gần nhau trong tình thông công Cơ-đốc.—The Acts of the Apostles, 35-37 (1911). LDE 184.2
+Trong khi các môn đồ chờ đợi sự ứng nghiệm của lời hứa, họ hạ mình trong sự ăn năn chân thật và xưng nhận sự vô tín của mình.… Các môn đồ cầu nguyện với lòng sốt sắng mãnh liệt để được trang bị hầu gặp gỡ mọi người và trong sự giao tiếp hằng ngày của họ nói những lời sẽ dẫn dắt tội nhân đến với Đấng Christ. Dẹp bỏ mọi sự bất đồng, mọi ham muốn về địa vị cao nhất, họ đến gần nhau trong tình thông công Cơ-đốc.—The Acts of the Apostles, 35-37 (1911). LDE 184.2
 
 Chính sau khi các môn đồ đã đạt đến sự hiệp một trọn vẹn, khi họ không còn tranh giành địa vị cao nhất nữa, thì Đức Thánh Linh đã được đổ xuống.—Testimonies for the Church 8:20 (1904). LDE 184.3
 
@@ -36,13 +36,13 @@ Sự đổ Đức Thánh Linh xuống trong thời các sứ đồ là sự kh�
 
 ## Hậu Quả Của Mưa Đầu Mùa Tại Lễ Ngũ Tuần
 
-Dưới sự cảm hóa của Đức Thánh Linh, những lời ăn năn và xưng tội hòa lẫn với những bài ca ngợi khen vì tội lỗi đã được tha thứ.... Hàng ngàn người đã được trở lại đạo trong một ngày.... LDE 185.1
+Dưới sự cảm hóa của Đức Thánh Linh, những lời ăn năn và xưng tội hòa lẫn với những bài ca ngợi khen vì tội lỗi đã được tha thứ.… Hàng ngàn người đã được trở lại đạo trong một ngày.… LDE 185.1
 
-Đức Thánh Linh ... đã ban cho họ khả năng nói lưu loát những ngôn ngữ mà trước đây họ chưa từng biết đến.... Đức Thánh Linh đã làm cho họ điều mà họ không thể tự mình hoàn thành dù trong cả một đời người.—The Acts of the Apostles, 38-40 (1911). LDE 185.2
+Đức Thánh Linh … đã ban cho họ khả năng nói lưu loát những ngôn ngữ mà trước đây họ chưa từng biết đến.… Đức Thánh Linh đã làm cho họ điều mà họ không thể tự mình hoàn thành dù trong cả một đời người.—The Acts of the Apostles, 38-40 (1911). LDE 185.2
 
 Lòng họ tràn đầy một tình yêu thương quảng đại, đầy tràn, sâu sắc và bao la đến nỗi thúc giục họ đi đến các đầu cùng đất, làm chứng về quyền năng của Đấng Christ.—The Acts of the Apostles, 46 (1911). LDE 185.3
 
-Kết quả của sự đổ Đức Thánh Linh xuống vào ngày lễ Ngũ Tuần là gì? Tin lành về một Đấng Cứu Thế đã sống lại được mang đến những nơi xa xôi nhất của thế giới có người sinh sống.... Hội Thánh nhìn thấy những người trở lại đạo từ khắp mọi hướng đổ về với mình. Những kẻ bội đạo đã được trở lại.... Hoài bão của các tín đồ là bày tỏ hình ảnh của bản tánh Đấng Christ và lao động cho sự mở rộng nước Ngài.—The Acts of the Apostles, 48 (1911). LDE 185.4
+Kết quả của sự đổ Đức Thánh Linh xuống vào ngày lễ Ngũ Tuần là gì? Tin lành về một Đấng Cứu Thế đã sống lại được mang đến những nơi xa xôi nhất của thế giới có người sinh sống.… Hội Thánh nhìn thấy những người trở lại đạo từ khắp mọi hướng đổ về với mình. Những kẻ bội đạo đã được trở lại.… Hoài bão của các tín đồ là bày tỏ hình ảnh của bản tánh Đấng Christ và lao động cho sự mở rộng nước Ngài.—The Acts of the Apostles, 48 (1911). LDE 185.4
 
 ## Lời Hứa Về Mưa Cuối Mùa
 
@@ -58,17 +58,17 @@ Công việc sẽ tương tự như công việc trong Ngày lễ Ngũ Tuần. N
 
 Vào thời điểm đó, "mưa cuối mùa," hay sự tươi mới từ sự hiện diện của Chúa, sẽ đến để ban quyền năng cho tiếng nói lớn của thiên sứ thứ ba, và chuẩn bị các thánh đồ đứng vững trong thời kỳ khi bảy tai vạ cuối cùng sẽ được đổ xuống.—Early Writings, 86 (1854). LDE 186.4
 
-Tôi nghe những người mặc áo giáp rao truyền lẽ thật với quyền năng lớn lao. Điều đó có hiệu lực.... Tôi hỏi điều gì đã tạo ra sự thay đổi lớn lao này. Một thiên sứ trả lời: "Đó là mưa cuối mùa, sự tươi mới từ sự hiện diện của Chúa, tiếng kêu lớn của thiên sứ thứ ba."—Early Writings, 271 (1858). LDE 186.5
+Tôi nghe những người mặc áo giáp rao truyền lẽ thật với quyền năng lớn lao. Điều đó có hiệu lực.… Tôi hỏi điều gì đã tạo ra sự thay đổi lớn lao này. Một thiên sứ trả lời: "Đó là mưa cuối mùa, sự tươi mới từ sự hiện diện của Chúa, tiếng kêu lớn của thiên sứ thứ ba."—Early Writings, 271 (1858). LDE 186.5
 
 ## B. Sự Áp Dụng Cá Nhân Cho Từng Cơ-đốc Nhân
 
 ## Mưa Đầu Mùa Sanh Ra Sự Hoán Cải; Mưa Cuối Mùa Phát Triển Tánh Tình Giống Đấng Christ
 
-Không có thời điểm nào trong kinh nghiệm của chúng ta mà chúng ta có thể bỏ qua sự trợ giúp của điều đã giúp chúng ta khởi đầu. Những phước lành nhận được dưới mưa đầu mùa là cần thiết cho chúng ta cho đến cuối cùng.... Khi chúng ta tìm kiếm Đức Chúa Trời để xin Đức Thánh Linh, Ngài sẽ tác động trong chúng ta sự nhu mì, sự khiêm nhường trong tâm trí, một sự ý thức nương cậy nơi Đức Chúa Trời để nhận được mưa cuối mùa làm cho trọn vẹn.—Testimonies to Ministers and Gospel Workers, 507, 509 (1897). LDE 187.1
+Không có thời điểm nào trong kinh nghiệm của chúng ta mà chúng ta có thể bỏ qua sự trợ giúp của điều đã giúp chúng ta khởi đầu. Những phước lành nhận được dưới mưa đầu mùa là cần thiết cho chúng ta cho đến cuối cùng.… Khi chúng ta tìm kiếm Đức Chúa Trời để xin Đức Thánh Linh, Ngài sẽ tác động trong chúng ta sự nhu mì, sự khiêm nhường trong tâm trí, một sự ý thức nương cậy nơi Đức Chúa Trời để nhận được mưa cuối mùa làm cho trọn vẹn.—Testimonies to Ministers and Gospel Workers, 507, 509 (1897). LDE 187.1
 
 Đức Thánh Linh tìm cách ngự trong mỗi linh hồn. Nếu Ngài được tiếp đón như một vị khách quý, những ai tiếp nhận Ngài sẽ được trở nên trọn vẹn trong Đấng Christ. Công việc tốt lành đã khởi sự sẽ được hoàn tất; những tư tưởng thánh khiết, những tình cảm thiên thượng, và những hành động giống Đấng Christ sẽ thay thế cho những tư tưởng ô uế, những tình cảm tà vạy, và những hành vi phản nghịch.—Counsels on Health, 561 (1896). LDE 187.2
 
-Chúng ta có thể đã nhận được một phần Thánh Linh của Đức Chúa Trời, nhưng bằng sự cầu nguyện và đức tin, chúng ta phải liên tục tìm kiếm thêm nhiều Thánh Linh hơn nữa. Sẽ không bao giờ được phép ngưng nỗ lực của chúng ta. Nếu chúng ta không tiến bộ, nếu chúng ta không đặt mình trong tư thế sẵn sàng để nhận cả mưa đầu mùa và mưa cuối mùa, chúng ta sẽ mất linh hồn mình, và trách nhiệm sẽ thuộc về chính chúng ta.... LDE 187.3
+Chúng ta có thể đã nhận được một phần Thánh Linh của Đức Chúa Trời, nhưng bằng sự cầu nguyện và đức tin, chúng ta phải liên tục tìm kiếm thêm nhiều Thánh Linh hơn nữa. Sẽ không bao giờ được phép ngưng nỗ lực của chúng ta. Nếu chúng ta không tiến bộ, nếu chúng ta không đặt mình trong tư thế sẵn sàng để nhận cả mưa đầu mùa và mưa cuối mùa, chúng ta sẽ mất linh hồn mình, và trách nhiệm sẽ thuộc về chính chúng ta.… LDE 187.3
 
 Các buổi nhóm của Hội Thánh, như các trại họp, các buổi nhóm của Hội Thánh tại nhà, và tất cả những dịp có sự lao động cá nhân cho các linh hồn, đều là những cơ hội do Đức Chúa Trời chỉ định để ban mưa đầu mùa và mưa cuối mùa.—Testimonies to Ministers and Gospel Workers, 508 (1897). LDE 188.1
 
@@ -104,7 +104,7 @@ Hỡi những người Cơ-đốc, hãy dẹp bỏ mọi sự bất hòa và hi�
 
 ## Hãy Yêu Thương Lẫn Nhau
 
-Cơ-đốc Giáo là sự bày tỏ tình cảm dịu dàng nhất đối với nhau.... Đấng Christ phải nhận được tình yêu tối thượng từ những sinh linh mà Ngài đã tạo dựng. Và Ngài cũng đòi hỏi rằng con người phải gìn giữ một sự tôn trọng thiêng liêng đối với đồng loại của mình. Mỗi linh hồn được cứu sẽ được cứu nhờ tình yêu thương, là tình yêu bắt đầu từ Đức Chúa Trời. Sự cải đạo thật là sự biến đổi từ tính ích kỷ sang tình cảm thánh hóa dành cho Đức Chúa Trời và cho nhau.—Selected Messages 1:114, 115 (1901). LDE 191.2
+Cơ-đốc Giáo là sự bày tỏ tình cảm dịu dàng nhất đối với nhau.… Đấng Christ phải nhận được tình yêu tối thượng từ những sinh linh mà Ngài đã tạo dựng. Và Ngài cũng đòi hỏi rằng con người phải gìn giữ một sự tôn trọng thiêng liêng đối với đồng loại của mình. Mỗi linh hồn được cứu sẽ được cứu nhờ tình yêu thương, là tình yêu bắt đầu từ Đức Chúa Trời. Sự cải đạo thật là sự biến đổi từ tính ích kỷ sang tình cảm thánh hóa dành cho Đức Chúa Trời và cho nhau.—Selected Messages 1:114, 115 (1901). LDE 191.2
 
 Những đức tính mà Đức Chúa Trời quý trọng nhất là lòng bác ái và sự trong sạch. Mỗi Cơ-đốc nhân nên trân quý những đức tính này.—Testimonies for the Church 5:85 (1882). LDE 191.3
 
@@ -127,7 +127,7 @@ Tôi đã thấy rằng không ai có thể được dự phần trong "sự tư
 
 Việc sửa chữa những khiếm khuyết trong bản tánh chúng ta, làm sạch đền thờ tâm hồn khỏi mọi sự ô uế, là tùy thuộc nơi chúng ta. Bấy giờ mưa cuối mùa sẽ đổ trên chúng ta như mưa đầu mùa đã đổ trên các môn đồ trong ngày lễ Ngũ Tuần.—Testimonies for the Church 5:214 (1882). LDE 192.3
 
-Không có điều gì Sa-tan sợ hãi cho bằng việc dân sự Đức Chúa Trời dọn đường bằng cách loại bỏ mọi trở ngại, để Chúa có thể đổ Thánh Linh Ngài trên một Hội Thánh đang suy yếu.... Mọi cám dỗ, mọi ảnh hưởng đối nghịch, dù công khai hay bí mật, đều có thể bị chống cự cách thắng lợi,
+Không có điều gì Sa-tan sợ hãi cho bằng việc dân sự Đức Chúa Trời dọn đường bằng cách loại bỏ mọi trở ngại, để Chúa có thể đổ Thánh Linh Ngài trên một Hội Thánh đang suy yếu.… Mọi cám dỗ, mọi ảnh hưởng đối nghịch, dù công khai hay bí mật, đều có thể bị chống cự cách thắng lợi,
 
 > "Người đáp lại rằng: Đây là lời của Đức Giê-hô-va phán cho Xô-rô-ba-bên, rằng: Ấy chẳng phải là bởi quyền thế, cũng chẳng phải là bởi năng lực, bèn là bởi Thần ta, Đức Giê-hô-va vạn quân phán vậy."
 > <cite>(Xa-cha-ri 4:6)</cite>
@@ -138,7 +138,7 @@ Mưa cuối mùa sẽ đến, và phước lành của Đức Chúa Trời sẽ 
 
 ## Hãy Trở Thành Những Người Lao Động Tích Cực Trong Sự Phục Vụ Đấng Christ
 
-Khi các Hội Thánh trở nên những Hội Thánh sống động, hoạt động, Đức Thánh Linh sẽ được ban cho để đáp lại lời cầu xin chân thành của họ.... Bấy giờ các cửa sổ trên trời sẽ mở ra để đổ xuống mưa cuối mùa.—The Review and Herald, ngày 25 tháng 2, 1890. LDE 193.2
+Khi các Hội Thánh trở nên những Hội Thánh sống động, hoạt động, Đức Thánh Linh sẽ được ban cho để đáp lại lời cầu xin chân thành của họ.… Bấy giờ các cửa sổ trên trời sẽ mở ra để đổ xuống mưa cuối mùa.—The Review and Herald, ngày 25 tháng 2, 1890. LDE 193.2
 
 Sự đổ ra cách dồi dào của Đức Thánh Linh, là điều sẽ làm sáng cả trái đất bằng sự vinh hiển của Ngài, sẽ không đến cho đến khi chúng ta có được một dân tộc được khai sáng, biết bằng kinh nghiệm ý nghĩa của việc trở thành những người cùng làm việc với Đức Chúa Trời. Khi chúng ta dâng mình trọn vẹn, hết lòng cho sự phục vụ Đấng Christ, Đức Chúa Trời sẽ công nhận sự thật ấy bằng cách đổ Đức Thánh Linh của Ngài cách không hạn lượng; nhưng điều này sẽ không xảy ra chừng nào phần lớn Hội Thánh chưa phải là những người cùng làm việc với Đức Chúa Trời.—Christian Service, 253 (1896). LDE 193.3
 

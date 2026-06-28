@@ -10,7 +10,7 @@ Tên đôi khi có thể giống như nhãn hiệu. Chúng liên kết chặt ch
 
 Vào thời kỳ Kinh Thánh, người dân vùng Cận Đông rất coi trọng ý nghĩa của tên. “Người Hê-bơ-rơ luôn nghĩ về một cái tên để chỉ đặc điểm cá nhân của người được đặt tên, hoặc suy nghĩ và cảm xúc của người đặt tên, hoặc hoàn cảnh của người phục vụ tại thời điểm tên được đặt.” - SDA Kinh Thánh Lược Khảo, tập 1, tr. 523.
 
-Khi Đức Chúa Trời lần đầu tiên bắt đầu mối quan hệ giao ước với Áp-ram, Ngài đã cho tộc trưởng biết đến chính Ngài dưới tên Giê-hô-va (bản in là Chúa, viết hoa trong \[Sáng-thế-ký 15:7\] và được phát âm là Giê-hô-va). Vì vậy, Sáng-thế Ký 15:7 đọc theo nghĩa đen, “Ta là Đức Giê-hô-va, Đấng đã dẫn ngươi ra khỏi...”
+Khi Đức Chúa Trời lần đầu tiên bắt đầu mối quan hệ giao ước với Áp-ram, Ngài đã cho tộc trưởng biết đến chính Ngài dưới tên Giê-hô-va (bản in là Chúa, viết hoa trong \[Sáng-thế-ký 15:7\] và được phát âm là Giê-hô-va). Vì vậy, Sáng-thế Ký 15:7 đọc theo nghĩa đen, “Ta là Đức Giê-hô-va, Đấng đã dẫn ngươi ra khỏi…”
 
 Danh Giê-hô-va, mặc dù xuất hiện 6.828 lần trong Cựu Ước, nhưng phần nào bị che đậy trong bí ẩn. Danh dường như là một dạng của động từ hayah, 'tương lai', trong trường hợp đó nó có nghĩa là, "Đấng vĩnh cửu", "Đấng hiện hữu", "Đấng tự hữu", "Đấng tự đủ” hoặc “Đấng sống đời đời”. Các thuộc tính thiêng liêng dường như được nhấn mạnh bởi tiêu đề này là sự tự tồn tại và sự trung tín. Chúng chỉ về Chúa là Đức Chúa Trời hằng sống, Nguồn sự sống, trái ngược với các vị thần của người ngoại đạo, không có sự tồn tại nào ngoài trí tưởng tượng của họ từ những người thờ phượng .
 

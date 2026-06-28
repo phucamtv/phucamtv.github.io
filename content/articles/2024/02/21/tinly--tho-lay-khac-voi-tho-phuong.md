@@ -25,7 +25,7 @@ Luận điểm này đặc biệt dựa vào bản dịch tiếng Việt của P
 
 Khi đọc đoạn Kinh Thánh trong Giăng chương 4, từ câu 20 đến câu 24, chúng ta thấy cả hai từ "thờ lạy" và "thờ phượng" đều xuất hiện:
 
-> Tổ phụ chúng tôi đã **thờ lạy** trên hòn núi này, còn dân Do Thái lại nói rằng nơi đáng **thờ lạy** là tại thành Giê-ru-sa-lem. Đức Chúa Giêsu phán rằng: "Hỡi người đàn bà, hãy tin ta, giờ đến khi các ngươi **thờ lạy** Cha, chẳng tại trên hòn núi này, cũng chẳng tại thành Giê-ru-sa-lem... Nhưng giờ hầu đến, và đã đến rồi, khi những kẻ **thờ phượng** thật lấy tâm thần và lẽ thật mà **thờ phượng** Cha... Đức Chúa Trời là thần, nên ai **thờ lạy** Ngài thì phải lấy tâm thần và lẽ thật mà **thờ lạy**."
+> Tổ phụ chúng tôi đã **thờ lạy** trên hòn núi này, còn dân Do Thái lại nói rằng nơi đáng **thờ lạy** là tại thành Giê-ru-sa-lem. Đức Chúa Giêsu phán rằng: "Hỡi người đàn bà, hãy tin ta, giờ đến khi các ngươi **thờ lạy** Cha, chẳng tại trên hòn núi này, cũng chẳng tại thành Giê-ru-sa-lem… Nhưng giờ hầu đến, và đã đến rồi, khi những kẻ **thờ phượng** thật lấy tâm thần và lẽ thật mà **thờ phượng** Cha… Đức Chúa Trời là thần, nên ai **thờ lạy** Ngài thì phải lấy tâm thần và lẽ thật mà **thờ lạy**."
 >
 > --- Giăng 4:20-24
 

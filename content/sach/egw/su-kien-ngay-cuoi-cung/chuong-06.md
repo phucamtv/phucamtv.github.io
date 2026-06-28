@@ -44,7 +44,7 @@ Mỗi buổi sáng hãy dâng chính mình và con cái mình cho Đức Chúa T
 
 [Xem “The Observance of the Sabbath,” trong Testimonies for the Church 6:349-368.] Cha thiên thượng của chúng ta mong muốn qua việc giữ ngày Sa-bát để gìn giữ sự hiểu biết về chính Ngài giữa loài người. Ngài muốn rằng ngày Sa-bát sẽ hướng tâm trí chúng ta đến với Ngài như là Đức Chúa Trời chân thật và hằng sống, và qua việc nhận biết Ngài chúng ta có được sự sống và sự bình an.—Testimonies for the Church 6:349 (1900). LDE 77.4
 
-Suốt cả tuần chúng ta phải ghi nhớ ngày Sa-bát trong tâm trí và chuẩn bị để giữ ngày ấy theo điều răn. Chúng ta không phải chỉ giữ ngày Sa-bát như một vấn đề luật lệ. Chúng ta phải hiểu ý nghĩa thuộc linh của nó đối với mọi giao dịch trong đời sống.... LDE 77.5
+Suốt cả tuần chúng ta phải ghi nhớ ngày Sa-bát trong tâm trí và chuẩn bị để giữ ngày ấy theo điều răn. Chúng ta không phải chỉ giữ ngày Sa-bát như một vấn đề luật lệ. Chúng ta phải hiểu ý nghĩa thuộc linh của nó đối với mọi giao dịch trong đời sống.… LDE 77.5
 
 Khi ngày Sa-bát được ghi nhớ như vậy, những việc tạm bợ sẽ không được phép xâm phạm đến những việc thuộc linh. Không có bổn phận nào thuộc về sáu ngày làm việc sẽ được để lại cho ngày Sa-bát.—Testimonies for the Church 6:353, 354 (1900). LDE 78.1
 
@@ -52,7 +52,7 @@ Những nhu cầu thiết yếu của đời sống phải được chăm lo, ng
 
 ## Trung Tín Trong Phần Mười Và Của Lễ
 
-Phần mười là thánh, được Đức Chúa Trời dành riêng cho chính Ngài. Phần mười phải được đem vào kho của Ngài để dùng vào việc nuôi dưỡng những người lao động trong công việc tin lành.... Hãy đọc cẩn thận chương ba sách Ma-la-chi và xem Đức Chúa Trời phán gì về phần mười.—Testimonies for the Church 9:249 (1909). LDE 78.3
+Phần mười là thánh, được Đức Chúa Trời dành riêng cho chính Ngài. Phần mười phải được đem vào kho của Ngài để dùng vào việc nuôi dưỡng những người lao động trong công việc tin lành.… Hãy đọc cẩn thận chương ba sách Ma-la-chi và xem Đức Chúa Trời phán gì về phần mười.—Testimonies for the Church 9:249 (1909). LDE 78.3
 
 Tân Ước không tái ban hành luật về phần mười, cũng như không tái ban hành luật về ngày Sa-bát; vì giá trị hiệu lực của cả hai đều được giả định là đương nhiên, và ý nghĩa thuộc linh sâu sắc của chúng đã được giải thích.—Counsels on Stewardship, 66 (1882). LDE 78.4
 
@@ -70,7 +70,7 @@ Một số người có thể nói: "Nếu Chúa sắp tái lâm, thì cần gì
 
 Ấy là ý định của Chúa rằng chúng ta phải không ngừng phát triển những tài năng mà Ngài đã ban cho chúng ta. Chúng ta không thể làm điều đó trừ khi chúng ta sử dụng chúng. Viễn cảnh về sự tái lâm sắp đến của Đấng Christ không nên dẫn chúng ta đến sự lười biếng. Trái lại, nó phải dẫn chúng ta làm tất cả những gì có thể để ban phước và đem lại lợi ích cho nhân loại.—Medical Ministry 268 (1902). LDE 79.5
 
-Một công việc lớn lao phải được thực hiện khắp mọi nơi trên thế giới, và đừng ai kết luận rằng vì ngày tận thế đã gần kề nên không cần phải nỗ lực đặc biệt để xây dựng các cơ sở khác nhau theo nhu cầu của công việc Chúa.... Khi nào Chúa truyền lệnh cho chúng ta không cần nỗ lực xây dựng thêm các nhà thờ và thành lập các trường học, các viện điều dưỡng, và các cơ sở xuất bản nữa, thì đó sẽ là lúc chúng ta khoanh tay lại và để Chúa kết thúc công việc, nhưng hiện nay là cơ hội của chúng ta để bày tỏ lòng nhiệt thành đối với Đức Chúa Trời và tình yêu thương đối với nhân loại.—Testimonies for the Church 6:440 (1900). LDE 80.1
+Một công việc lớn lao phải được thực hiện khắp mọi nơi trên thế giới, và đừng ai kết luận rằng vì ngày tận thế đã gần kề nên không cần phải nỗ lực đặc biệt để xây dựng các cơ sở khác nhau theo nhu cầu của công việc Chúa.… Khi nào Chúa truyền lệnh cho chúng ta không cần nỗ lực xây dựng thêm các nhà thờ và thành lập các trường học, các viện điều dưỡng, và các cơ sở xuất bản nữa, thì đó sẽ là lúc chúng ta khoanh tay lại và để Chúa kết thúc công việc, nhưng hiện nay là cơ hội của chúng ta để bày tỏ lòng nhiệt thành đối với Đức Chúa Trời và tình yêu thương đối với nhân loại.—Testimonies for the Church 6:440 (1900). LDE 80.1
 
 ## Công Việc Truyền Giáo Y Tế
 
@@ -106,15 +106,15 @@ Men của sự tin kính chưa hoàn toàn mất quyền năng. Vào thời đi�
 
 ## Trọn Vẹn Tin Cậy Đức Chúa Trời
 
-Vì có những người làm việc chưa được biệt riêng ra thánh, nên đôi khi mọi việc sẽ trở nên không như ý. Anh chị em có thể khóc về hậu quả của con đường sai lạc của những người khác, nhưng đừng lo lắng. Công việc đang ở dưới sự giám sát của Đấng Chủ Tể đầy ơn phước. Tất cả những gì Ngài đòi hỏi là những người làm việc phải đến với Ngài để nhận mệnh lệnh, và vâng theo sự chỉ dẫn của Ngài. Tất cả các phần của công việc—các Hội Thánh chúng ta, các khu truyền giáo, các trường Sa-bát, các cơ sở—đều được mang trên lòng Ngài. Tại sao phải lo lắng? Lòng khao khát mãnh liệt được thấy Hội Thánh tràn đầy sức sống phải được dung hòa với sự trọn vẹn tin cậy nơi Đức Chúa Trời.... LDE 83.2
+Vì có những người làm việc chưa được biệt riêng ra thánh, nên đôi khi mọi việc sẽ trở nên không như ý. Anh chị em có thể khóc về hậu quả của con đường sai lạc của những người khác, nhưng đừng lo lắng. Công việc đang ở dưới sự giám sát của Đấng Chủ Tể đầy ơn phước. Tất cả những gì Ngài đòi hỏi là những người làm việc phải đến với Ngài để nhận mệnh lệnh, và vâng theo sự chỉ dẫn của Ngài. Tất cả các phần của công việc—các Hội Thánh chúng ta, các khu truyền giáo, các trường Sa-bát, các cơ sở—đều được mang trên lòng Ngài. Tại sao phải lo lắng? Lòng khao khát mãnh liệt được thấy Hội Thánh tràn đầy sức sống phải được dung hòa với sự trọn vẹn tin cậy nơi Đức Chúa Trời.… LDE 83.2
 
-Đừng ai sử dụng quá mức những năng lực Đức Chúa Trời ban cho để gắng sức đẩy mạnh công việc của Chúa cho mau chóng hơn. Sức của con người không thể làm cho công việc tiến nhanh được; phải kết hợp với điều này là quyền năng của các đấng thông sáng trên trời.... Dù tất cả những người làm việc hiện đang gánh vác những gánh nặng nhất đều bị đặt sang một bên, công việc của Đức Chúa Trời vẫn sẽ được tiến hành.—Testimonies for the Church 7:298 (1902). LDE 83.3
+Đừng ai sử dụng quá mức những năng lực Đức Chúa Trời ban cho để gắng sức đẩy mạnh công việc của Chúa cho mau chóng hơn. Sức của con người không thể làm cho công việc tiến nhanh được; phải kết hợp với điều này là quyền năng của các đấng thông sáng trên trời.… Dù tất cả những người làm việc hiện đang gánh vác những gánh nặng nhất đều bị đặt sang một bên, công việc của Đức Chúa Trời vẫn sẽ được tiến hành.—Testimonies for the Church 7:298 (1902). LDE 83.3
 
 ## Sự Thờ Phượng Gia Đình
 
 Vào buổi sáng và buổi tối, hãy cùng con cái mình thờ phượng Đức Chúa Trời, đọc Lời Ngài và hát ngợi khen Ngài. Hãy dạy chúng lặp lại luật pháp của Đức Chúa Trời.—Evangelism, 499 (1904). LDE 83.4
 
-Hãy để những giờ thờ phượng gia đình ngắn gọn và đầy sinh khí. Đừng để con cái hoặc bất cứ thành viên nào trong gia đình bạn sợ hãi những giờ ấy vì sự tẻ nhạt hay thiếu hứng thú. Khi một chương dài được đọc và giải thích, rồi một lời cầu nguyện dài được dâng lên, thì giờ thờ phượng quý báu này trở nên mệt mỏi, và người ta cảm thấy nhẹ nhõm khi nó kết thúc.... LDE 84.1
+Hãy để những giờ thờ phượng gia đình ngắn gọn và đầy sinh khí. Đừng để con cái hoặc bất cứ thành viên nào trong gia đình bạn sợ hãi những giờ ấy vì sự tẻ nhạt hay thiếu hứng thú. Khi một chương dài được đọc và giải thích, rồi một lời cầu nguyện dài được dâng lên, thì giờ thờ phượng quý báu này trở nên mệt mỏi, và người ta cảm thấy nhẹ nhõm khi nó kết thúc.… LDE 84.1
 
 Người cha hãy chọn một đoạn Kinh Thánh thú vị và dễ hiểu; vài câu sẽ đủ để cung cấp một bài học có thể được suy gẫm và thực hành suốt cả ngày. Có thể đặt ra những câu hỏi, đưa ra một vài nhận xét tha thiết và thú vị, hoặc kể một câu chuyện ngắn gọn, đi vào trọng tâm để minh họa. Ít nhất hãy hát vài câu của một bài thánh ca đầy sức sống, và lời cầu nguyện dâng lên phải ngắn gọn và đi thẳng vào vấn đề. Người dẫn dắt cầu nguyện không nên cầu nguyện về mọi điều, mà nên bày tỏ nhu cầu của mình bằng những lời đơn sơ, và ngợi khen Đức Chúa Trời với lòng tạ ơn.—Child Guidance, 521, 522 (1884). LDE 84.2
 
@@ -137,7 +137,7 @@ Chúng ta nên hợp nhất với những người khác đến mức tối đa 
 
 Những người Cơ-đốc có nhiều nguồn hạnh phúc trong tầm tay, và họ có thể nói với sự chính xác không sai lầm những thú vui nào là hợp pháp và đúng đắn. Họ có thể thưởng thức những trò giải trí mà sẽ không làm tâm trí buông thả hoặc làm hạ thấp linh hồn, những trò giải trí sẽ không làm thất vọng và để lại ảnh hưởng buồn bã sau đó nhằm phá hủy lòng tự trọng hoặc cản trở con đường hữu ích. Nếu họ có thể đem Đức Chúa Giê-su đi cùng và giữ một tinh thần cầu nguyện thì họ hoàn toàn an toàn.—Messages to Young People, 38 (1884). LDE 85.5
 
-Những buổi nhóm họp của chúng ta nên được tổ chức, và chúng ta nên cư xử thế nào, để khi trở về nhà chúng ta có thể có một lương tâm không phạm lỗi đối với Đức Chúa Trời và loài người, một ý thức rằng chúng ta đã không làm tổn thương hay làm hại bất cứ cách nào đối với những người mà chúng ta đã giao tiếp hoặc đã có ảnh hưởng xấu trên họ.... LDE 86.1
+Những buổi nhóm họp của chúng ta nên được tổ chức, và chúng ta nên cư xử thế nào, để khi trở về nhà chúng ta có thể có một lương tâm không phạm lỗi đối với Đức Chúa Trời và loài người, một ý thức rằng chúng ta đã không làm tổn thương hay làm hại bất cứ cách nào đối với những người mà chúng ta đã giao tiếp hoặc đã có ảnh hưởng xấu trên họ.… LDE 86.1
 
 Bất cứ sự tiêu khiển nào mà bạn có thể tham gia, cầu xin sự ban phước của Đức Chúa Trời trên nó bằng đức tin, sẽ không nguy hiểm. Nhưng bất cứ sự tiêu khiển nào làm cho bạn không thể cầu nguyện riêng tư, không thể sốt sắng nơi bàn thờ cầu nguyện, hoặc không thể tham dự buổi nhóm cầu nguyện, thì không an toàn, nhưng nguy hiểm.—Messages to Young People, 386 (1913). LDE 86.2
 
@@ -145,7 +145,7 @@ Bất cứ sự tiêu khiển nào mà bạn có thể tham gia, cầu xin sự 
 
 Như con cái Y-sơ-ra-ên trên hành trình băng qua đồng vắng đã làm vui lòng nhau bằng âm nhạc của những bài thánh ca, thì ngày nay Đức Chúa Trời cũng truyền bảo con cái Ngài làm cho cuộc đời lữ hành của mình thêm vui tươi. Có ít phương tiện nào hữu hiệu hơn trong việc khắc ghi lời Ngài vào trí nhớ bằng cách lặp lại những lời ấy qua bài hát. Và bài hát như thế có một quyền năng kỳ diệu. Nó có quyền năng chế ngự những bản tánh thô lỗ và chưa được trau dồi, quyền năng khơi dậy tư tưởng và đánh thức lòng cảm thông, thúc đẩy sự hài hòa trong hành động, và xua tan sự u sầu cùng những điềm gở vốn hủy hoại lòng can đảm và làm suy yếu nỗ lực.—Education, 167, 168 (1903). LDE 86.3
 
-Âm nhạc là một phần trong sự thờ phượng Đức Chúa Trời nơi triều đình trên cao, và trong những bài ca ngợi khen, chúng ta phải cố gắng tiến đến gần hết sức có thể sự hài hòa của những ban hợp xướng thiên đàng.... Ca hát, như một phần của nghi lễ tôn giáo, cũng là một hành động thờ phượng giống như cầu nguyện vậy.—Patriarchs and Prophets, 594 (1890). LDE 86.4
+Âm nhạc là một phần trong sự thờ phượng Đức Chúa Trời nơi triều đình trên cao, và trong những bài ca ngợi khen, chúng ta phải cố gắng tiến đến gần hết sức có thể sự hài hòa của những ban hợp xướng thiên đàng.… Ca hát, như một phần của nghi lễ tôn giáo, cũng là một hành động thờ phượng giống như cầu nguyện vậy.—Patriarchs and Prophets, 594 (1890). LDE 86.4
 
 Việc sử dụng các nhạc cụ không hề đáng phản đối. Những nhạc cụ ấy đã được dùng trong các nghi lễ tôn giáo thời xưa. Những người thờ phượng đã ngợi khen Đức Chúa Trời bằng đàn hạc và chập chỏa, và âm nhạc phải có chỗ đứng của nó trong các buổi nhóm của chúng ta.—Evangelism, 500, 501 (1898). LDE 87.1
 
@@ -173,7 +173,7 @@ Vẻ bề ngoài là một dấu hiệu chỉ về tấm lòng.—Testimonies Fo
 
 Cần phát hành các ấn phẩm, được viết bằng ngôn ngữ rõ ràng và đơn giản nhất, giải thích những đề tài có tầm quan trọng sống còn, và làm cho biết những điều sắp xảy đến trên thế gian.—The Home Missionary, ngày 1 tháng 2, 1890. LDE 89.2
 
-Sứ điệp thứ nhất và thứ hai đã được rao truyền vào năm 1843 và 1844, và hiện nay chúng ta đang ở dưới sự công bố của sứ điệp thứ ba, nhưng cả ba sứ điệp này vẫn còn phải được rao truyền... Chúng ta phải truyền những sứ điệp này cho thế gian qua các ấn phẩm, qua các bài giảng, chỉ ra theo dòng lịch sử tiên tri những điều đã xảy ra và những điều sẽ xảy ra.—Counsels to Writers and Editors, 26, 27 (1896). LDE 89.3
+Sứ điệp thứ nhất và thứ hai đã được rao truyền vào năm 1843 và 1844, và hiện nay chúng ta đang ở dưới sự công bố của sứ điệp thứ ba, nhưng cả ba sứ điệp này vẫn còn phải được rao truyền… Chúng ta phải truyền những sứ điệp này cho thế gian qua các ấn phẩm, qua các bài giảng, chỉ ra theo dòng lịch sử tiên tri những điều đã xảy ra và những điều sẽ xảy ra.—Counsels to Writers and Editors, 26, 27 (1896). LDE 89.3
 
 Lẽ thật mộc mạc phải được nói ra trong các tờ rơi và sách mỏng, và những tài liệu này phải được rải ra như lá mùa thu.—Testimonies for the Church 9:230 (1897). LDE 89.4
 
@@ -183,7 +183,7 @@ Bao lâu thời kỳ ân điển còn tiếp tục, thì người bán sách d�
 
 ## Không Có Những Lời Đâm Chích Trong Các Tờ Báo Của Chúng Ta
 
-Những người viết bài cho các tờ báo của chúng ta chớ nên đưa ra những lời đâm chích và ám chỉ thiếu tử tế, là điều chắc chắn sẽ gây hại và sẽ cản trở đường lối, ngăn trở chúng ta làm công việc mà chúng ta phải làm để tiếp cận mọi tầng lớp, kể cả người Công Giáo. Công việc của chúng ta là nói lẽ thật trong tình yêu thương, chớ pha trộn vào lẽ thật những yếu tố không thánh khiết của lòng tự nhiên, và chớ nói những lời mang cùng tinh thần như kẻ thù của chúng ta.... LDE 90.2
+Những người viết bài cho các tờ báo của chúng ta chớ nên đưa ra những lời đâm chích và ám chỉ thiếu tử tế, là điều chắc chắn sẽ gây hại và sẽ cản trở đường lối, ngăn trở chúng ta làm công việc mà chúng ta phải làm để tiếp cận mọi tầng lớp, kể cả người Công Giáo. Công việc của chúng ta là nói lẽ thật trong tình yêu thương, chớ pha trộn vào lẽ thật những yếu tố không thánh khiết của lòng tự nhiên, và chớ nói những lời mang cùng tinh thần như kẻ thù của chúng ta.… LDE 90.2
 
 Chúng ta không nên dùng những lời gay gắt và cay nghiệt. Hãy loại bỏ chúng khỏi từng bài viết, hãy bỏ chúng ra khỏi mỗi bài giảng. Hãy để Lời Đức Chúa Trời cắt xén, quở trách; hãy để con người hữu hạn ẩn náu và ở trong Đức Chúa Giê-su Christ.—Testimonies for the Church 9:240, 241, 244 (1909). LDE 90.3
 
@@ -193,17 +193,17 @@ Cơ-đốc Giáo không được biểu hiện qua những lời tố cáo và l
 
 ## Hãy Coi Chừng Những Vấn Đề Phụ
 
-Đức Chúa Trời không bỏ qua dân sự Ngài để chọn riêng một người ở đây và một người ở đó như những người duy nhất xứng đáng được tin cậy giao phó lẽ thật của Ngài. Ngài không ban cho một người ánh sáng mới trái ngược với đức tin đã được thiết lập của tập thể. Trong mọi cuộc cải cách, đã có những người dấy lên đưa ra lời tuyên bố này.... Đừng ai tự tin, như thể Đức Chúa Trời đã ban cho họ ánh sáng đặc biệt vượt trên anh em mình.... LDE 90.6
+Đức Chúa Trời không bỏ qua dân sự Ngài để chọn riêng một người ở đây và một người ở đó như những người duy nhất xứng đáng được tin cậy giao phó lẽ thật của Ngài. Ngài không ban cho một người ánh sáng mới trái ngược với đức tin đã được thiết lập của tập thể. Trong mọi cuộc cải cách, đã có những người dấy lên đưa ra lời tuyên bố này.… Đừng ai tự tin, như thể Đức Chúa Trời đã ban cho họ ánh sáng đặc biệt vượt trên anh em mình.… LDE 90.6
 
-Một người chấp nhận một ý tưởng mới mẻ và độc đáo nào đó dường như không xung đột với lẽ thật. Người ấy... cứ nghiền ngẫm nó cho đến khi nó dường như được khoác lên vẻ đẹp và sự quan trọng, vì Sa-tan có quyền tạo ra vẻ ngoài giả dối này. Cuối cùng, nó trở thành chủ đề thu hút toàn bộ tâm trí, một điểm trọng đại mà mọi sự đều xoay quanh, và lẽ thật bị nhổ bật ra khỏi tấm lòng.... LDE 91.1
+Một người chấp nhận một ý tưởng mới mẻ và độc đáo nào đó dường như không xung đột với lẽ thật. Người ấy… cứ nghiền ngẫm nó cho đến khi nó dường như được khoác lên vẻ đẹp và sự quan trọng, vì Sa-tan có quyền tạo ra vẻ ngoài giả dối này. Cuối cùng, nó trở thành chủ đề thu hút toàn bộ tâm trí, một điểm trọng đại mà mọi sự đều xoay quanh, và lẽ thật bị nhổ bật ra khỏi tấm lòng.… LDE 91.1
 
 Tôi cảnh báo các bạn hãy coi chừng những vấn đề phụ này, vì khuynh hướng của chúng là làm cho tâm trí xao lãng khỏi lẽ thật. Sai lầm không bao giờ là vô hại. Nó không bao giờ thánh hóa, mà luôn đem đến sự hỗn loạn và bất hòa.—Testimonies for the Church 5:291, 292 (1885). LDE 91.2
 
 ## Hãy Nhấn Mạnh Sự Hiệp Nhất, Chứ Không Phải Sự Khác Biệt
 
-Có hàng ngàn cám dỗ được ngụy trang chuẩn bị sẵn cho những ai đã nhận được ánh sáng lẽ thật, và sự an toàn duy nhất cho bất cứ ai trong chúng ta là không tiếp nhận bất kỳ giáo lý mới nào, bất kỳ sự giải thích mới nào về Kinh Thánh, mà trước hết không trình bày điều đó với các anh em có kinh nghiệm. Hãy trình bày trước mặt họ với tinh thần khiêm nhường, sẵn lòng học hỏi, cùng với sự cầu nguyện sốt sắng, và nếu họ không thấy ánh sáng trong đó, hãy thuận theo sự phán đoán của họ, vì "có nhiều mưu sĩ ắt được yên ổn".... LDE 91.3
+Có hàng ngàn cám dỗ được ngụy trang chuẩn bị sẵn cho những ai đã nhận được ánh sáng lẽ thật, và sự an toàn duy nhất cho bất cứ ai trong chúng ta là không tiếp nhận bất kỳ giáo lý mới nào, bất kỳ sự giải thích mới nào về Kinh Thánh, mà trước hết không trình bày điều đó với các anh em có kinh nghiệm. Hãy trình bày trước mặt họ với tinh thần khiêm nhường, sẵn lòng học hỏi, cùng với sự cầu nguyện sốt sắng, và nếu họ không thấy ánh sáng trong đó, hãy thuận theo sự phán đoán của họ, vì "có nhiều mưu sĩ ắt được yên ổn".… LDE 91.3
 
-Sẽ có những người nam và người nữ dấy lên tuyên bố rằng họ có ánh sáng mới hoặc một sự mạc khải mới nào đó mà khuynh hướng của nó là làm lung lay đức tin nơi những cột mốc cũ. Các giáo lý của họ sẽ không chịu nổi sự thử nghiệm của Lời Đức Chúa Trời, nhưng sẽ có những linh hồn bị lừa dối. Những tin đồn sai lạc sẽ được lan truyền, và một số người sẽ bị mắc vào cạm bẫy này.... Chúng ta không thể nào đề phòng quá mức trước mọi hình thức sai lạc, vì Sa-tan không ngừng tìm cách kéo loài người ra khỏi lẽ thật.—Testimonies for the Church 5:293, 295, 296 (1885). LDE 91.4
+Sẽ có những người nam và người nữ dấy lên tuyên bố rằng họ có ánh sáng mới hoặc một sự mạc khải mới nào đó mà khuynh hướng của nó là làm lung lay đức tin nơi những cột mốc cũ. Các giáo lý của họ sẽ không chịu nổi sự thử nghiệm của Lời Đức Chúa Trời, nhưng sẽ có những linh hồn bị lừa dối. Những tin đồn sai lạc sẽ được lan truyền, và một số người sẽ bị mắc vào cạm bẫy này.… Chúng ta không thể nào đề phòng quá mức trước mọi hình thức sai lạc, vì Sa-tan không ngừng tìm cách kéo loài người ra khỏi lẽ thật.—Testimonies for the Church 5:293, 295, 296 (1885). LDE 91.4
 
 Chúng ta phải làm cho việc hiệp nhất trở nên thiết yếu, không phải là chúng ta đòi hỏi người khác phải theo ý kiến của chúng ta, nhưng nếu tất cả đều tìm kiếm sự nhu mì và khiêm nhường của Đấng Christ, thì họ sẽ có tâm trí của Đấng Christ. Bấy giờ sẽ có sự hiệp nhất trong thần linh.—Letter 15, 1892. LDE 92.1
 

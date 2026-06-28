@@ -90,7 +90,7 @@ A-mốt 6:12 minh họa rõ: khi Y-sơ-ra-ên đổi sự công bình ra cay đ�
 
 ## Tiếng loa thứ sáu: Chuẩn bị cho trận chiến cuối cùng
 
-> "Vị thiên sứ thứ sáu thổi loa... rằng: Hãy cởi cho bốn vị thiên sứ bị trói trên bờ sông cái Ơ-phơ-rát. Bốn vị thiên sứ đã được sắm sẵn cho giờ ấy, ngày ấy, tháng ấy, năm ấy được cởi trói... Số binh kỵ mã của đạo quân là hai trăm triệu; số đó tôi đã nghe." (Khải Huyền 9:13–16)
+> "Vị thiên sứ thứ sáu thổi loa… rằng: Hãy cởi cho bốn vị thiên sứ bị trói trên bờ sông cái Ơ-phơ-rát. Bốn vị thiên sứ đã được sắm sẵn cho giờ ấy, ngày ấy, tháng ấy, năm ấy được cởi trói… Số binh kỵ mã của đạo quân là hai trăm triệu; số đó tôi đã nghe." (Khải Huyền 9:13–16)
 
 Bốn thiên sứ giờ đây được lệnh thả ra để hại người. Giăng nghe số đạo binh là **hai trăm triệu**, và ông nhấn mạnh: "số đó tôi đã nghe." Cụm từ này chỉ xuất hiện hai lần trong Khải Huyền: ở đây và ở Khải Huyền 7. Đây là gợi ý rằng tiếng loa thứ sáu mô tả cùng giai đoạn lịch sử với Khải Huyền 7.
 

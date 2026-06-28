@@ -48,7 +48,7 @@ Trưởng lão cũng nhắc nhở về việc quản lý tài chính: khi có d�
 
 Đây là điểm trưởng lão gọi là "khá nhạy cảm" nhưng không thể không nói. Ma-la-chi 3:10–11 chép:
 
-> *"Các ngươi hãy đem hết thảy phần mười vào kho, hầu cho có lương thực trong nhà ta... Ta sẽ mở các cửa sổ trên trời cho các ngươi, đổ xuống cho các ngươi đến nỗi không chỗ chứa chăng. Ta sẽ vì các ngươi ngăn cấm kẻ cắn nuốt..."*
+> *"Các ngươi hãy đem hết thảy phần mười vào kho, hầu cho có lương thực trong nhà ta… Ta sẽ mở các cửa sổ trên trời cho các ngươi, đổ xuống cho các ngươi đến nỗi không chỗ chứa chăng. Ta sẽ vì các ngươi ngăn cấm kẻ cắn nuốt…"*
 
 Dâng phần mười là **hợp đồng bảo hiểm thiêng liêng** — Đức Chúa Trời bảo đảm con cái Ngài sẽ không bao giờ nghèo khó nếu trung tín dâng phần mười. Thực tế, người đang thất nghiệp hay trong hoàn cảnh quá khó khăn không thể dâng phần mười đầy đủ — điều đó chứng tỏ người đang có việc làm và thu nhập ổn định mới có thể dâng. Khi Chúa ban điều kiện thuận lợi, việc đầu tiên cần nhớ là hoàn trả một phần mười cho Ngài.
 

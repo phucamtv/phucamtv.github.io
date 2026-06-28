@@ -14,6 +14,6 @@ Giống như phần còn lại của Tân Ước, Khải Huyền 1:7 nhấn mạ
 
 Sự chắc chắn về sự hiện đến của Đấng Cơ-đốc được khẳng định bằng những lời "Quả thật vậy, Amen" (Khải Huyền 1:7). “Quả thật vậy” xuất từ tiếng Hy lạp “nai”, và “amen” là một khẳng định trong tiếng Do Thái. Hai từ này xuất hiện cùng nhau, thể hiện sự chắc chắn. (Khải Huyền 22:20).
 
-"Niềm tin vào sự tái lâm của con người sẽ không làm cho Cơ đốc nhân trở nên vô ý và bất cẩn trong những công việc hằng ngày... Tính minh bạch, trung thành và chính trực của họ được kiểm chứng và chứng minh trong những việc làm của họ".— Ellen G. White, Những Lời Chứng Cho Hội Thánh, quyển 4, trang 309.
+"Niềm tin vào sự tái lâm của con người sẽ không làm cho Cơ đốc nhân trở nên vô ý và bất cẩn trong những công việc hằng ngày… Tính minh bạch, trung thành và chính trực của họ được kiểm chứng và chứng minh trong những việc làm của họ".— Ellen G. White, Những Lời Chứng Cho Hội Thánh, quyển 4, trang 309.
 
 `Một lời hứa chỉ thực sự vững chắc khi chúng ta tin tưởng vào khả năng của người đã hứa. Làm sao chúng ta đảm bảo rằng Chúa sẽ tái lâm khi lời hứa này được ban ra bởi Đức Chúa Trời; Đấng mà trong quá khứ đã giữ mọi lời hứa của Ngài cung cấp cho bạn một sự đảm bảo rằng Đấng Cơ-đốc sẽ trở lại như Ngài đã hứa.`

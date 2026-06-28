@@ -8,7 +8,7 @@ NGHIÊN CỨU BỔ TÚC
 
 Một bài học đáng ghi nhớ là pho tượng trong Đa-ni-ên 2 được làm bằng vàng và bạc, là những kim loại liên quan đến sức mạnh kinh tế. Pho tượng còn được làm từ đồng và sắt, những kim loại được sử dụng làm công cụ và vũ khí, và từ đất sét, là thứ được thế giới cổ đại sử dụng cho mục đích viết sách và sử dụng trong nhà. Vậy nên, pho tượng là một sự miêu tả sinh động về nhân loại và những thành tựu của họ. Thật thích hợp thay, những phần khác biệt của pho tượng cũng truyền đạt sự thành công của những quốc gia ở thế gian và sự bất hòa sau cùng sẽ chiếm ưu thế trong những ngày sau rốt của lịch sử nhân loại. Tuy nhiên, hòn đá được mô tả khác biệt vì chẳng phải bởi “tay người” tạo ra (Đa-ni-ên 2:45), là một sự nhắc nhở mạnh mẽ về cái kết siêu nhiên sẽ đến với thế gian tạm bợ này cùng tất cả những thành tựu do con người trong đó.
 
-Mặc dù “đối với mắt người, lịch sử nhân loại dường như là một sự tương tác đầy hỗn loạn của các thế lực và phe đối lập... Sách Đa-ni-ên đảm bảo cho chúng ta rằng đứng sau tất cả những thứ này là Đức Chúa Trời, vẫn đang quan sát chúng và thúc đẩy bên trong để đạt được những điều mà Chúa thấy là tốt nhất” (William H. Shea, Daniel: A Reader's Guide (Nampa, ID: Pacific Press, 2005), trang 98).
+Mặc dù “đối với mắt người, lịch sử nhân loại dường như là một sự tương tác đầy hỗn loạn của các thế lực và phe đối lập… Sách Đa-ni-ên đảm bảo cho chúng ta rằng đứng sau tất cả những thứ này là Đức Chúa Trời, vẫn đang quan sát chúng và thúc đẩy bên trong để đạt được những điều mà Chúa thấy là tốt nhất” (William H. Shea, Daniel: A Reader's Guide (Nampa, ID: Pacific Press, 2005), trang 98).
 
 **Câu hỏi thảo luận**
 

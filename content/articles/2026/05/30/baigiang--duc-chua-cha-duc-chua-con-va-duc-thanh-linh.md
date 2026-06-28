@@ -123,7 +123,7 @@ Hầu hết người ta không gặp khó khăn trong việc nhận biết Đứ
 
 **Về Đức Thánh Linh:**
 
-- Phi-e-rơ nói với A-na-nia: *"Sao quỉ Sa-tan đã đầy dẫy lòng ngươi, đến nỗi ngươi nói dối cùng **Đức Thánh Linh**?... Ấy chẳng phải ngươi nói dối loài người, bèn là nói dối **Đức Chúa Trời**"* (Công-vụ 5:3-4). Nói dối Đức Thánh Linh = nói dối Đức Chúa Trời. Đức Thánh Linh là Đức Chúa Trời.
+- Phi-e-rơ nói với A-na-nia: *"Sao quỉ Sa-tan đã đầy dẫy lòng ngươi, đến nỗi ngươi nói dối cùng **Đức Thánh Linh**?… Ấy chẳng phải ngươi nói dối loài người, bèn là nói dối **Đức Chúa Trời**"* (Công-vụ 5:3-4). Nói dối Đức Thánh Linh = nói dối Đức Chúa Trời. Đức Thánh Linh là Đức Chúa Trời.
 - *"Đức Thánh Linh đã dùng đấng tiên tri Ê-sai mà phán cùng tổ phụ của các ngươi"* (Công-vụ 28:25).
 - Đức Chúa Giê-su gọi Đức Thánh Linh là *"Đấng Yên-ủi… tức là Thần lẽ thật, Đấng mà ta sẽ bởi Cha sai xuống"* (Giăng 15:26).
 

@@ -24,13 +24,13 @@ Về đặc tính, lời hứa và bản thể, Đức Chúa Trời tuyệt đ�
 
 Trước khi nhìn về trời mới đất mới, cần hiểu vì sao trái đất hiện tại phải bị hủy diệt. Tiên tri Ê-sai 24:1–6 mô tả tình trạng đó:
 
-> Nầy, Đức Giê-hô-va làm cho đất trống không và hoang vu... Đất bị dân cư làm ô uế, vì họ đã phạm luật pháp, trái điều răn, dứt giao ước đời đời.
+> Nầy, Đức Giê-hô-va làm cho đất trống không và hoang vu… Đất bị dân cư làm ô uế, vì họ đã phạm luật pháp, trái điều răn, dứt giao ước đời đời.
 
 Nguyên nhân được nêu rõ: dân cư đã **vi phạm luật pháp**, **biến đổi điều răn**, và **phá bỏ giao ước đời đời**. Đây chính là điều khiến chúng ta hiểu vì sao thế giới đang xấu đi và sẽ còn xấu đi nữa. Quan niệm cầu nguyện cho thế giới ngày càng tốt lên là trái với những gì Kinh Thánh dạy. Thế giới sẽ không tốt hơn — nhưng cá nhân chúng ta có thể trở nên tốt hơn trong Đức Chúa Giê-su.
 
 Đoạn Ê-sai 24:18–23 tiếp tục mô tả ngày trái đất *lảo đảo như người say, dao động như chòi tranh*, và những kẻ gian ác sẽ bị giam trong ngục cho đến khi bị hình phạt sau *nhiều ngày* — chính là một ngàn năm, thiên hi niên.
 
-Giê-rê-mi 4:23–26 vẽ ra cảnh tượng kinh hoàng giống như trước sáng tạo: *Tôi xem đất, nầy, là vô hình và trống không; xem các từng trời, thì không có sự sáng... Tôi xem, nầy, không còn một người nào, hết thảy chim trời đều trốn đi.* Đây là hậu quả tất yếu của tội lỗi và sự lìa bỏ luật pháp Đức Chúa Trời.
+Giê-rê-mi 4:23–26 vẽ ra cảnh tượng kinh hoàng giống như trước sáng tạo: *Tôi xem đất, nầy, là vô hình và trống không; xem các từng trời, thì không có sự sáng… Tôi xem, nầy, không còn một người nào, hết thảy chim trời đều trốn đi.* Đây là hậu quả tất yếu của tội lỗi và sự lìa bỏ luật pháp Đức Chúa Trời.
 
 ---
 
@@ -42,7 +42,7 @@ Giữa bức tranh tăm tối, Kinh Thánh nâng tầm mắt chúng ta lên nh�
 
 Ê-sai 25:8 hứa: *Ngài đã nuốt sự chết đến đời đời. Chúa Giê-hô-va sẽ lau nước mắt khỏi mọi mặt.* Ê-sai 26:1–4 mở rộng lời hứa ấy: *Người nào để trí mình nương dựa nơi Ngài, thì Ngài sẽ gìn giữ người trong sự bình yên trọn vẹn.*
 
-1 Cô-rinh-tô 15:50–57 nối tiếp với lời tuyên bố mạnh mẽ về sự biến hóa: *Trong giây phút, trong nháy mắt, lúc tiếng kèn chót... kẻ chết đều sống lại được không hay hư nát, và chúng ta đều sẽ biến hóa.* Sự chết bị nuốt mất trong sự thắng. *Cái nọc sự chết là tội lỗi, sức mạnh tội lỗi là luật pháp. Nhưng tạ ơn Đức Chúa Trời đã cho chúng ta sự thắng, nhờ Đức Chúa Giê-su, Chúa chúng ta.*
+1 Cô-rinh-tô 15:50–57 nối tiếp với lời tuyên bố mạnh mẽ về sự biến hóa: *Trong giây phút, trong nháy mắt, lúc tiếng kèn chót… kẻ chết đều sống lại được không hay hư nát, và chúng ta đều sẽ biến hóa.* Sự chết bị nuốt mất trong sự thắng. *Cái nọc sự chết là tội lỗi, sức mạnh tội lỗi là luật pháp. Nhưng tạ ơn Đức Chúa Trời đã cho chúng ta sự thắng, nhờ Đức Chúa Giê-su, Chúa chúng ta.*
 
 ---
 
@@ -50,7 +50,7 @@ Giữa bức tranh tăm tối, Kinh Thánh nâng tầm mắt chúng ta lên nh�
 
 Giê-rê-mi 31:31–34 chứa đựng một trong những lời hứa trọng đại nhất của giao ước mới:
 
-> Đức Giê-hô-va phán: Nầy, những ngày đến, bấy giờ ta sẽ lập một giao ước mới với nhà Y-sơ-ra-ên và với nhà Giu-đa... Ta sẽ đặt luật pháp ta trong lòng họ và chép vào lòng. Ta sẽ làm Đức Chúa Trời họ, còn họ sẽ làm dân ta... Ta sẽ tha sự gian ác chúng nó, và chẳng nhớ tội chúng nó nữa.
+> Đức Giê-hô-va phán: Nầy, những ngày đến, bấy giờ ta sẽ lập một giao ước mới với nhà Y-sơ-ra-ên và với nhà Giu-đa… Ta sẽ đặt luật pháp ta trong lòng họ và chép vào lòng. Ta sẽ làm Đức Chúa Trời họ, còn họ sẽ làm dân ta… Ta sẽ tha sự gian ác chúng nó, và chẳng nhớ tội chúng nó nữa.
 
 Giao ước mới không loại bỏ luật pháp — trái lại, nó đem luật pháp vào tận đáy lòng người tin. Đó là sự khác biệt giữa giao ước cũ được khắc trên bảng đá và giao ước mới được khắc trên tấm lòng bằng thịt.
 
@@ -68,7 +68,7 @@ Ngày Sa-bát vẫn được giữ trong đất mới — đó là minh chứng 
 
 Ê-sai 65:21–25 mô tả sáu điều răn còn lại — mối quan hệ với người lân cận:
 
-> Họ sẽ xây nhà và ở; trồng vườn nho và ăn trái. Họ chẳng xây nhà cho người khác ở, chẳng trồng vườn nho cho người khác ăn... Muông sói với chiên con sẽ ăn chung, sư tử ăn rơm như bò.
+> Họ sẽ xây nhà và ở; trồng vườn nho và ăn trái. Họ chẳng xây nhà cho người khác ở, chẳng trồng vườn nho cho người khác ăn… Muông sói với chiên con sẽ ăn chung, sư tử ăn rơm như bò.
 
 Không có trộm cắp, không giết hại, không tham lam, không vu khống — vì lòng người đã được biến đổi. Trong đất mới, không cần bảng nhắc nhở các điều răn. Như A-đam và Ê-va trước khi sa ngã, các thiên sứ chưa từng thấy luật pháp được viết ra, vì điều đó hoàn toàn không cần thiết. Trong vương quốc Đức Chúa Trời, không ai cần được nhắc rằng *chớ giết người* — vì điều đó đơn giản không thể xảy ra.
 

@@ -10,7 +10,7 @@ weight: 1
 
 ### Kinh Thánh Nghiên Cứu
 
-Ma-thi-ơ 24:14, Khải-huyền 14:14-20, Ma-thi-ơ 16:27,Công vụ 1:9-11, Mác 4:26-29, Khải-huyền 16:1.
+Ma-thi-ơ 24:14, Khải-huyền 14:14-20, Ma-thi-ơ 16:27, Công vụ 1:9-11, Mác 4:26-29, Khải-huyền 16:1.
 
 Đức Chúa Trời luôn nói với dân sự Ngài, và ban cho họ bất kỳ lẽ thật nào liên quan đến thời điểm mà họ cần phải nghe. Từ lời cảnh báo về trận Đại Hồng Thủy (Sáng 6:7), tới lần đến thứ nhất của Đức Chúa Giê-su (Đa-ni-ên 9:24-27), đến thời kỳ tiền phán xét (Đa-ni-ên 7:9,10; Đa-ni-ên 8:14) rồi đến những sự kiện cuối cùng trước khi Đấng Cơ-đốc tái lâm (Khải-huyền 12-14), Đức Chúa Trời đều đã nói cho dân sự Ngài. Trong những ngày cuối cùng này của lịch sử nhân loại, Ngài gởi một sứ điệp đặc biệt cho thế gian và cho dân sự của Ngài hầu đáp ứng cho nhu cầu của thời đại. Ngài mô tả sứ điệp này qua hình ảnh ba thiên sứ bay giữa trời mang đến cho toàn thể nhân loại sứ điệp khẩn cấp của thời kỳ cuồi cùng.
 

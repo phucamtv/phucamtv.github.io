@@ -69,7 +69,7 @@ Sự khác biệt then chốt giữa Cơ-đốc Phục Lâm thời Miller và H�
 
 Sau Sự Thất Vọng Lớn, nhiều người Miller bám lấy ý tưởng "cánh cửa đóng" để giải thích điều đã xảy ra. Họ tin rằng cánh cửa cứu rỗi đã đóng, công việc đối với thế gian đã xong, và sự truyền giảng không còn ý nghĩa. William Miller viết:
 
-> Chúng ta đã hoàn thành công việc cảnh báo tội nhân... Đức Chúa Trời trong sự quan phòng của Ngài đã đóng cánh cửa.
+> Chúng ta đã hoàn thành công việc cảnh báo tội nhân… Đức Chúa Trời trong sự quan phòng của Ngài đã đóng cánh cửa.
 
 Họ ngừng truyền giảng và chỉ còn lo "giữ nhà" cho các thánh đồ chờ ngày Đức Chúa Giê-su đến — mà họ tưởng chỉ còn vài ngày, vài tháng, nhiều nhất là một năm.
 

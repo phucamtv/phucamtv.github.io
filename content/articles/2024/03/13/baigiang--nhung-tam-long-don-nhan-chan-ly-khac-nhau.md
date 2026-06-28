@@ -20,7 +20,7 @@ draft: false
 
 ## Giá Trị Của Việc Dùng Ẩn Dụ
 
-Đức Chúa Giê-su thường xuyên sử dụng ẩn dụ trong sự giảng dạy: muối, ánh sáng, chim trời, hoa huệ, nhà xây trên đá hay trên cát, bầu rượu da, men làm bánh... Cách giảng dạy bằng hình ảnh mang lại nhiều lợi ích: biến những điều trừu tượng thành cụ thể, lấy cái đã biết để giúp người ta hiểu cái chưa biết, thu hút người nghe, và quan trọng nhất — thúc đẩy người nghe tự khám phá ra chân lý. Một bài giảng không có ví dụ giống như căn nhà không có cửa sổ.
+Đức Chúa Giê-su thường xuyên sử dụng ẩn dụ trong sự giảng dạy: muối, ánh sáng, chim trời, hoa huệ, nhà xây trên đá hay trên cát, bầu rượu da, men làm bánh… Cách giảng dạy bằng hình ảnh mang lại nhiều lợi ích: biến những điều trừu tượng thành cụ thể, lấy cái đã biết để giúp người ta hiểu cái chưa biết, thu hút người nghe, và quan trọng nhất — thúc đẩy người nghe tự khám phá ra chân lý. Một bài giảng không có ví dụ giống như căn nhà không có cửa sổ.
 
 Tuy nhiên, cùng một ẩn dụ mà người này hiểu còn người kia thì không — đó là do chính tấm lòng của người tiếp nhận.
 

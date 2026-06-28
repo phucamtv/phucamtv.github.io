@@ -82,7 +82,7 @@ Phao-lô cùng với Lu-ca đã để lại gần phân nửa Tân Ước — 15
 
 > *"Anh em hãy giữ lấy mình và luôn cả bầy mà Đức Thánh Linh đã lập anh em làm kẻ coi sóc, để chăn Hội Thánh của Đức Chúa Trời mà Ngài đã mua bằng huyết chính mình."* (câu 28)
 
-> *"Còn tôi biết rằng sau khi tôi đi, sẽ có muôn sói dữ tợn xen vào trong vòng anh em... Lại giữa anh em cũng sẽ có những người nói lời hung ác dấy lên ráng sức dỗ môn đồ theo họ."* (câu 29-30)
+> *"Còn tôi biết rằng sau khi tôi đi, sẽ có muôn sói dữ tợn xen vào trong vòng anh em… Lại giữa anh em cũng sẽ có những người nói lời hung ác dấy lên ráng sức dỗ môn đồ theo họ."* (câu 29-30)
 
 Phao-lô không nói "sói" đứng bên ngoài gầm gừ. Ông nói "sói xen vào giữa anh em" — nghĩa là những kẻ giả danh lãnh đạo, giả danh người chăn bầy, nhưng thật ra đang dẫn dắt đàn chiên đi sai đường. Những "muôn sói" này phải có tầm cỡ mục sư, truyền đạo — vì chỉ người đứng ở vị trí lãnh đạo mới có thể ảnh hưởng rộng như vậy.
 

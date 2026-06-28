@@ -23,7 +23,7 @@ Có người lập luận rằng: Đức Chúa Giêsu dạy "Cha ta là người
 
 Chúng ta hãy đọc trọn phân đoạn Giăng 15:1-6:
 
-> "Ta là gốc nho thật, Cha ta là người trồng nho. Hễ nhánh nào trong ta mà không kết quả thì Ngài chặt hết, và Ngài tỉa sửa những nhánh nào kết quả để được sai trái hơn... Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong ta và ta trong họ thì sinh ra lắm trái, vì ngoài ta các ngươi chẳng làm chi được."
+> "Ta là gốc nho thật, Cha ta là người trồng nho. Hễ nhánh nào trong ta mà không kết quả thì Ngài chặt hết, và Ngài tỉa sửa những nhánh nào kết quả để được sai trái hơn… Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong ta và ta trong họ thì sinh ra lắm trái, vì ngoài ta các ngươi chẳng làm chi được."
 > — Giăng 15:1-5
 
 ## Đây là hình ảnh ẩn dụ, không phải nghĩa đen
@@ -56,7 +56,7 @@ Phi-líp-bơ trình bày rõ ràng: Đức Chúa Giêsu có bản thể ngang b�
 
 ## "Ai thấy ta tức là thấy Cha"
 
-> "Lời đã trở nên xác thịt ở giữa chúng ta... thật như vinh hiển của Con Một đến từ nơi Cha, đầy dẫy ơn và lẽ thật."
+> "Lời đã trở nên xác thịt ở giữa chúng ta… thật như vinh hiển của Con Một đến từ nơi Cha, đầy dẫy ơn và lẽ thật."
 > — Giăng 1:14
 
 > "Đức Chúa Giêsu đáp: Ta ở cùng các ngươi đã lâu thay mà các ngươi chưa biết ta. Ai thấy ta tức là thấy Cha. Sao ngươi lại nói rằng: Xin chỉ Cha cho chúng tôi?"

@@ -9,11 +9,11 @@ weight: 7
 
 Điều thú vị là, trong danh sách các thói hư tật xấu ở 1 Cô-rinh-tô 5:10, 11 và 1 Cô-rinh-tô 6:9, 10, sự thờ hình tượng và sự say sưa được liệt kê chung với sự gian dâm. Như Phao-lô nhắc lại trong 1 Cô-rinh-tô 10:7 (so sánh với Xuất Ê-díp-tô Ký 32:1–6), những lễ hội thờ hình tượng thường đi kèm với việc ăn uống quá độ, mở cửa cho sự gian dâm (1 Cô-rinh-tô 10:8). Bà Ellen G. White nói:
 
-"Không thể nào một người có thể tận hưởng phước lành của sự nên thánh trong khi họ ích kỷ và háu ăn... Khả năng của cơ thể con người chống lại những sự lạm dụng đặt trên nó là điều kỳ diệu, nhưng những thói quen sai trái dai dẳng trong việc ăn uống quá độ sẽ làm suy yếu mọi chức năng của cơ thể. Trong việc thỏa mãn lòng thèm khát và dục vọng đồi bại, ngay cả những người tự xưng là Cơ-đốc nhân cũng làm tê liệt thiên nhiên trong công việc của nó và làm giảm sức mạnh thể chất, tinh thần và đạo đức."—The Sanctified Life, tr. 25, 26.
+"Không thể nào một người có thể tận hưởng phước lành của sự nên thánh trong khi họ ích kỷ và háu ăn… Khả năng của cơ thể con người chống lại những sự lạm dụng đặt trên nó là điều kỳ diệu, nhưng những thói quen sai trái dai dẳng trong việc ăn uống quá độ sẽ làm suy yếu mọi chức năng của cơ thể. Trong việc thỏa mãn lòng thèm khát và dục vọng đồi bại, ngay cả những người tự xưng là Cơ-đốc nhân cũng làm tê liệt thiên nhiên trong công việc của nó và làm giảm sức mạnh thể chất, tinh thần và đạo đức."—The Sanctified Life, tr. 25, 26.
 
 "Khi một người được hoàn toàn dốc sạch cái tôi, khi mọi thần tượng giả dối bị trục xuất khỏi linh hồn, khoảng trống đó sẽ được lấp đầy bởi sự tuôn đổ của Thánh Linh Đấng Cơ-đốc. Người như vậy có đức tin hành động bởi tình yêu thương và làm sạch linh hồn khỏi mọi sự ô uế đạo đức và thuộc linh."—Ellen G. White, The Home Missionary, tháng 11 năm 1893.
 
-"Đức Chúa Trời đang tìm cách nâng chúng ta lên tiêu chuẩn cao quý, tinh sạch, thuộc thiên của Ngài. Vì mục đích này, Thánh Linh Ngài liên tục tranh đấu với chúng ta... Những khuynh hướng tự nhiên của chúng ta, nếu không được Đức Thánh Linh của Đức Chúa Trời sửa chữa, sẽ mang trong chúng những hạt giống của sự chết đạo đức."—Ellen G. White, Manuscript 12, 1888.
+"Đức Chúa Trời đang tìm cách nâng chúng ta lên tiêu chuẩn cao quý, tinh sạch, thuộc thiên của Ngài. Vì mục đích này, Thánh Linh Ngài liên tục tranh đấu với chúng ta… Những khuynh hướng tự nhiên của chúng ta, nếu không được Đức Thánh Linh của Đức Chúa Trời sửa chữa, sẽ mang trong chúng những hạt giống của sự chết đạo đức."—Ellen G. White, Manuscript 12, 1888.
 
 **Câu hỏi thảo luận:**
 

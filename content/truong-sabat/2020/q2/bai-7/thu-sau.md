@@ -6,7 +6,7 @@ weight: 7
 ---
 NGHIÊN CỨU BỔ TÚC
 
-“Qua lời phán của Ngài, Đức Chúa Trời đã cam kết với con người những sự hiểu biết cần thiết cho sự cứu rỗi. Kinh Thánh phải được chấp nhận như một sự khải thị có thẩm quyền, không thể sai lầm về ý muốn của Ngài. Nó là tiêu chuẩn của một dân tộc, sự khải thị về giáo lý và thử nghiệm kinh nghiệm... Tuy nhiên, thực tế là Đức Chúa Trời đã tiết lộ ý muốn của Ngài cho con người qua lời của Ngài, đã không cần đến sự hiện diện và hướng dẫn liên tục của Đức Thánh Linh. Trái lại, Đức Thánh Linh được Đấng Cứu Rỗi của chúng ta hứa ban để mở lời cho các tôi tớ của Ngài, để soi sáng và áp dụng giáo huấn của nó. Và vì chính Đức Thánh Linh đã soi dẫn cho Kinh Thánh, nên việc dạy của Đức Thánh Linh không bao giờ có thể trái ngược với lời Ngài” (Ellen G. White, Thiện Ác Đấu Tranh, trang 9).
+“Qua lời phán của Ngài, Đức Chúa Trời đã cam kết với con người những sự hiểu biết cần thiết cho sự cứu rỗi. Kinh Thánh phải được chấp nhận như một sự khải thị có thẩm quyền, không thể sai lầm về ý muốn của Ngài. Nó là tiêu chuẩn của một dân tộc, sự khải thị về giáo lý và thử nghiệm kinh nghiệm… Tuy nhiên, thực tế là Đức Chúa Trời đã tiết lộ ý muốn của Ngài cho con người qua lời của Ngài, đã không cần đến sự hiện diện và hướng dẫn liên tục của Đức Thánh Linh. Trái lại, Đức Thánh Linh được Đấng Cứu Rỗi của chúng ta hứa ban để mở lời cho các tôi tớ của Ngài, để soi sáng và áp dụng giáo huấn của nó. Và vì chính Đức Thánh Linh đã soi dẫn cho Kinh Thánh, nên việc dạy của Đức Thánh Linh không bao giờ có thể trái ngược với lời Ngài” (Ellen G. White, Thiện Ác Đấu Tranh, trang 9).
 
 **Câu hỏi thảo luận**:
 

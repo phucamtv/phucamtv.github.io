@@ -13,7 +13,7 @@ Việc dùng từ "đầu" (head) theo nghĩa bóng để chỉ vị trí lãnh 
 2. Dân-số Ký 31:26 – "Các trưởng tộc của các gia đình"
 3. Phục-truyền 28:13 – Đức Chúa Trời hứa sẽ làm cho dân Y-sơ-ra-ên trở nên "đầu chứ không phải đuôi" nếu họ vâng lời Ngài.
 4. Ê-sai 7:8 – "Thủ đô của Sy-ri là Đa-mách, và vua Đa-mách là Rê-xin."
-5. Ô-sê 1:11 – "Con cái Giu-đa và Y-sơ-ra-ên sẽ... lập cho mình một thủ lãnh."
+5. Ô-sê 1:11 – "Con cái Giu-đa và Y-sơ-ra-ên sẽ… lập cho mình một thủ lãnh."
 6. Mi-chê 3:9 – "Hỡi các người lãnh đạo nhà Gia-cốp, các quan cai nhà Y-sơ-ra-ên"
 7. 1 Cô-rinh-tô 11:3 – "Đầu của người nam là Đấng Cơ-đốc."
 

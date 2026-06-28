@@ -21,7 +21,7 @@ Từ những đột phá trong trí tuệ nhân tạo đến việc giải mã b
 
 Giữa làn sóng tiến bộ này, một lời tiên tri được ghi chép từ hơn hai thiên niên kỷ trước bỗng trở nên sống động một cách đặc biệt. Trong sách Tiên Tri Đa-ni-ên chương 12, câu 4:
 
-> *"...sự học thức sẽ được thêm lên."*
+> *"…sự học thức sẽ được thêm lên."*
 
 Lời tiên tri này không chỉ đơn thuần là một dự đoán về sự phát triển của tri thức, mà còn là một dấu hiệu quan trọng về thời kỳ sau rốt mà Thánh Kinh đã báo trước.
 
@@ -85,7 +85,7 @@ Lời của Phao-lô vang lên như một tiếng chuông cảnh tỉnh, thúc g
 
 Trở lại Ma-thi-ơ chương 24, Đức Chúa Giê-su khuyên bảo:
 
-> *"Vậy hãy tỉnh thức, vì các ngươi không biết ngày nào Chúa mình sẽ đến... Vậy thì các ngươi cũng hãy chực cho sẵn, vì Con Người sẽ đến trong giờ các ngươi không ngờ."* — Ma-thi-ơ 24:42, 44
+> *"Vậy hãy tỉnh thức, vì các ngươi không biết ngày nào Chúa mình sẽ đến… Vậy thì các ngươi cũng hãy chực cho sẵn, vì Con Người sẽ đến trong giờ các ngươi không ngờ."* — Ma-thi-ơ 24:42, 44
 
 Những lời này không chỉ là một lời cảnh báo, mà còn là một lời kêu gọi yêu thương từ Đức Chúa Trời. Sự chuẩn bị cho ngày trở lại của Ngài không bắt nguồn từ sự sợ hãi, mà từ đức tin và sự vâng lời.
 

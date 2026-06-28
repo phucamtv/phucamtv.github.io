@@ -14,7 +14,7 @@ Mặc dù Sáng-thế Ký 2:2,3 không đè cập ngày thứ bảy là ngày Sa
 
 `Tại sao chính Chúa lại nghỉ ngơi vào ngày thứ bảy? Ngài có cần nó không? Mục đích khác cho việc nghỉ ngày Sa-bát của Chúa là gì?`
 
-Mặc dù một số nhà bình luận cho rằng Chúa cần nghỉ ngơi về thể xác sau tuần lễ Sáng tạo, mục đích thực sự cho việc nghỉ ngơi của Chúa là để cung cấp một ví dụ thiêng liêng cho loài người. Họ cũng phải làm việc trong sáu ngày và sau đó nghỉ ngơi vào ngày Sa-bát thứ Bảy. Nhà thần học Karl Barth cho rằng việc Chúa nghỉ sau tuần lễ Sáng tạo là một phần trong ân điển giao ước, mà trong đó loài người được mời đến để nghỉ ngơi với Ngài... để tham gia vào nghỉ ngơi.” – Church Dogmatics, tập 3, phần 1 (Edinburgh, Scotland: T & T Clark Ltd., 1958), trang 98.
+Mặc dù một số nhà bình luận cho rằng Chúa cần nghỉ ngơi về thể xác sau tuần lễ Sáng tạo, mục đích thực sự cho việc nghỉ ngơi của Chúa là để cung cấp một ví dụ thiêng liêng cho loài người. Họ cũng phải làm việc trong sáu ngày và sau đó nghỉ ngơi vào ngày Sa-bát thứ Bảy. Nhà thần học Karl Barth cho rằng việc Chúa nghỉ sau tuần lễ Sáng tạo là một phần trong ân điển giao ước, mà trong đó loài người được mời đến để nghỉ ngơi với Ngài… để tham gia vào nghỉ ngơi.” – Church Dogmatics, tập 3, phần 1 (Edinburgh, Scotland: T & T Clark Ltd., 1958), trang 98.
 
 Đức Chúa Trời trong tình yêu của Ngài đã kêu gọi người nam và người nữ vào ngày sau khi họ được tạo ra để được thông công, để thiết lập sự hiệp nhất mật thiết với Ngài với hình ảnh mà họ đã được tạo ra. Sự thông công và hiệp nhất đó sẽ tồn tại mãi mãi. Kể từ khi loài người sụp đổ, nó đã mang đến một điểm cao hàng tuần về cuộc sống của một người với Đấng Cứu Chuộc.
 

@@ -24,7 +24,7 @@ Người đi đường xa tiêu biểu cho Đấng Christ, là Đấng mà khi p
 > "Vì chưng anh em đã được chuộc bằng giá cao rồi. Vậy, hãy lấy thân thể mình làm sáng danh Đức Chúa Trời."
 > <cite>(I Cô-rinh-tô 6:20)</cite>
 
-), không phải "bằng vật hay hư nát như bạc hoặc vàng... bèn là bởi huyết báu Đấng Christ" (
+), không phải "bằng vật hay hư nát như bạc hoặc vàng… bèn là bởi huyết báu Đấng Christ" (
 
 > "vì biết rằng chẳng phải bởi vật hay hư nát như bạc hoặc vàng mà anh em đã được chuộc khỏi sự ăn ở không ra chi của tổ tiên truyền lại cho mình, bèn là bởi huyết báu Đấng Cơ-đốc, dường như huyết của chiên con không lỗi không vít,"
 > <cite>(I Phi-e-rơ 1:18-19)</cite>

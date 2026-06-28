@@ -19,9 +19,9 @@ Mặc dù mọi sự Đức Chúa Trời đã tạo dựng đều hoàn hảo tr
 
 Hãy ra khỏi các thành phố càng sớm càng tốt và mua một mảnh đất nhỏ, nơi bạn có thể có một khu vườn, nơi con cái bạn có thể ngắm nhìn các loài hoa lớn lên và học từ chúng những bài học về sự giản dị và tinh khiết.—Selected Messages 2:356 (1903). LDE 95.1
 
-Hãy ra khỏi các thành phố, đó là sứ điệp của tôi vào lúc này. Hãy tin chắc rằng lời kêu gọi dành cho dân sự chúng ta là hãy định cư cách xa các thành phố lớn nhiều dặm. Chỉ cần nhìn vào San Francisco như hiện nay cũng đủ nói với tâm trí thông minh của bạn, cho bạn thấy sự cần thiết phải ra khỏi các thành phố.... LDE 95.2
+Hãy ra khỏi các thành phố, đó là sứ điệp của tôi vào lúc này. Hãy tin chắc rằng lời kêu gọi dành cho dân sự chúng ta là hãy định cư cách xa các thành phố lớn nhiều dặm. Chỉ cần nhìn vào San Francisco như hiện nay cũng đủ nói với tâm trí thông minh của bạn, cho bạn thấy sự cần thiết phải ra khỏi các thành phố.… LDE 95.2
 
-Chúa kêu gọi dân sự Ngài hãy định cư xa các thành phố, vì trong giờ các ngươi không ngờ, lửa và diêm sinh sẽ từ trời giáng xuống trên các thành phố này. Sự thăm phạt sẽ tương xứng với tội lỗi của chúng. Khi một thành phố bị hủy diệt, dân sự chúng ta đừng xem đây là chuyện nhỏ, và đừng nghĩ rằng nếu có cơ hội thuận tiện, họ có thể xây nhà cho mình ngay trong thành phố đã bị hủy diệt đó.... LDE 95.3
+Chúa kêu gọi dân sự Ngài hãy định cư xa các thành phố, vì trong giờ các ngươi không ngờ, lửa và diêm sinh sẽ từ trời giáng xuống trên các thành phố này. Sự thăm phạt sẽ tương xứng với tội lỗi của chúng. Khi một thành phố bị hủy diệt, dân sự chúng ta đừng xem đây là chuyện nhỏ, và đừng nghĩ rằng nếu có cơ hội thuận tiện, họ có thể xây nhà cho mình ngay trong thành phố đã bị hủy diệt đó.… LDE 95.3
 
 Hãy để tất cả những ai muốn hiểu ý nghĩa của những điều này đọc chương mười một của sách Khải Huyền. Hãy đọc từng câu, và học biết những điều sắp xảy ra trong các thành phố. Cũng hãy đọc những cảnh tượng được mô tả trong chương mười tám của cùng sách ấy.—MR 1518 (May 10, 1906). LDE 95.4
 
@@ -41,7 +41,7 @@ Hiện nay, một số người buộc phải lao động ở Chicago, nhưng h�
 
 ## Phước Lành Dồi Dào Trong Môi Trường Thiên Nhiên
 
-Chúng ta xin nhắc lại, "Hãy ra khỏi các thành phố." Đừng xem việc bạn phải đi vào các vùng đồi núi là một sự thiệt thòi lớn, nhưng hãy tìm kiếm nơi ẩn dật ấy, nơi bạn có thể ở một mình với Đức Chúa Trời, để học biết ý muốn và đường lối của Ngài.... LDE 97.1
+Chúng ta xin nhắc lại, "Hãy ra khỏi các thành phố." Đừng xem việc bạn phải đi vào các vùng đồi núi là một sự thiệt thòi lớn, nhưng hãy tìm kiếm nơi ẩn dật ấy, nơi bạn có thể ở một mình với Đức Chúa Trời, để học biết ý muốn và đường lối của Ngài.… LDE 97.1
 
 Tôi tha thiết kêu gọi dân sự chúng ta hãy lấy việc tìm kiếm đời sống thuộc linh làm công việc của cả cuộc đời mình. Đấng Christ đang đứng nơi cửa. Đây là lý do tôi nói với dân sự chúng ta rằng: "Đừng xem đó là một sự thiếu thốn khi anh chị em được kêu gọi rời bỏ các thành phố và đi đến những vùng thôn quê. Tại đó đang chờ đợi những phước lành dồi dào cho những ai biết nắm lấy chúng. Khi chiêm ngưỡng những cảnh sắc thiên nhiên, những công trình của Đấng Tạo Hóa, khi nghiên cứu các tác phẩm tay Đức Chúa Trời làm ra, một cách không nhận biết được, anh chị em sẽ được biến đổi nên giống như hình ảnh ấy."—Selected Messages 2:355, 356 (1908). LDE 97.2
 
@@ -77,7 +77,7 @@ Hãy chỉ định những người có óc phán đoán đúng đắn, không p
 
 ## Cooranbong, New South Wales
 
-Trường Kinh Thánh Úc Châu của chúng ta nên được đặt ở đâu? ... Nếu các trường được đặt trong các thành phố hoặc cách xa thành phố vài dặm, thì sẽ rất khó để chống lại ảnh hưởng của nền giáo dục trước đây mà học sinh đã nhận được liên quan đến những ngày lễ này và những thực hành đi kèm với chúng, chẳng hạn như đua ngựa, cá cược và việc trao giải thưởng.... LDE 100.2
+Trường Kinh Thánh Úc Châu của chúng ta nên được đặt ở đâu? … Nếu các trường được đặt trong các thành phố hoặc cách xa thành phố vài dặm, thì sẽ rất khó để chống lại ảnh hưởng của nền giáo dục trước đây mà học sinh đã nhận được liên quan đến những ngày lễ này và những thực hành đi kèm với chúng, chẳng hạn như đua ngựa, cá cược và việc trao giải thưởng.… LDE 100.2
 
 Chúng ta sẽ thấy cần thiết phải thành lập các trường của mình ra ngoài, và xa khỏi, các thành phố, nhưng không quá xa đến mức không thể tiếp xúc với chúng, để làm điều tốt cho chúng, để ánh sáng chiếu giữa bóng tối luân lý.—Fundamentals of Christian Education, 310, 313 (1894). LDE 101.1
 
@@ -97,11 +97,11 @@ Gần đây có người hỏi tôi: "Liệu có nên bán đất trường ở 
 
 ## Berrien Springs, Michigan
 
-Tôi nghe rằng có ý định đặt trường học tại Berrien Springs ở phía tây nam tiểu bang Michigan. Tôi rất hài lòng với phần mô tả về nơi này.... Tại một địa điểm như Berrien Springs, trường học có thể trở thành một bài học minh họa, và tôi hy vọng rằng sẽ không ai cản trở việc tiến hành công việc này.—Manuscript Releases 4:407 (July 12, 1901). LDE 102.4
+Tôi nghe rằng có ý định đặt trường học tại Berrien Springs ở phía tây nam tiểu bang Michigan. Tôi rất hài lòng với phần mô tả về nơi này.… Tại một địa điểm như Berrien Springs, trường học có thể trở thành một bài học minh họa, và tôi hy vọng rằng sẽ không ai cản trở việc tiến hành công việc này.—Manuscript Releases 4:407 (July 12, 1901). LDE 102.4
 
 Bàn tay tốt lành của Chúa đã ở cùng dân sự của chúng ta trong việc lựa chọn một địa điểm cho trường học. Nơi này tương ứng với những điều đã được tỏ cho tôi về địa điểm mà trường học cần được đặt. Nó cách xa các thành phố, và có rất nhiều đất đai cho mục đích nông nghiệp, cùng đủ không gian để các ngôi nhà không cần phải được xây sát cạnh nhau. Có nhiều đất đai để các học sinh có thể được giáo dục trong việc canh tác đất đai.—The Review and Herald, January 28, 1902. LDE 102.5
 
-Trong việc dời trường cao đẳng khỏi Battle Creek và thành lập tại Berrien Springs, Anh Magan và Anh Sutherland đã hành động phù hợp với ánh sáng mà Đức Chúa Trời đã ban cho. Họ đã làm việc chăm chỉ giữa những khó khăn lớn lao.... Đức Chúa Trời đã ở cùng họ. Ngài đã chấp thuận những nỗ lực của họ.—Manuscript Releases 4:260, 261 (1904). LDE 103.1
+Trong việc dời trường cao đẳng khỏi Battle Creek và thành lập tại Berrien Springs, Anh Magan và Anh Sutherland đã hành động phù hợp với ánh sáng mà Đức Chúa Trời đã ban cho. Họ đã làm việc chăm chỉ giữa những khó khăn lớn lao.… Đức Chúa Trời đã ở cùng họ. Ngài đã chấp thuận những nỗ lực của họ.—Manuscript Releases 4:260, 261 (1904). LDE 103.1
 
 ## Stoneham, Massachusetts
 
@@ -143,14 +143,14 @@ Nơi đây có những thuận lợi tuyệt vời cho một trường học. N�
 
 Nơi này, Loma Linda, có những thuận lợi tuyệt vời, và nếu những ai đang ở đây trung tín tận dụng các thuận lợi để trở thành những giáo sĩ y tế chân chính, thì họ sẽ chiếu ánh sáng của mình ra cho những người xung quanh. Chúng ta phải tìm kiếm Đức Chúa Trời mỗi ngày để Ngài ban cho chúng ta sự khôn ngoan của Ngài.—Letter 374, 1907. LDE 107.3
 
-Tại đây chúng ta có những thuận lợi lý tưởng cho một trường học và cho một dưỡng đường. Tại đây có những thuận lợi cho sinh viên và những thuận lợi lớn cho bệnh nhân. Tôi đã được chỉ dẫn rằng tại đây chúng ta phải có một trường học, được điều hành theo các nguyên tắc của những trường tiên tri thời cổ đại.... Các bác sĩ sẽ nhận được sự giáo dục của mình tại đây.—Medical Ministry, 75, 76 (1907). LDE 107.4
+Tại đây chúng ta có những thuận lợi lý tưởng cho một trường học và cho một dưỡng đường. Tại đây có những thuận lợi cho sinh viên và những thuận lợi lớn cho bệnh nhân. Tôi đã được chỉ dẫn rằng tại đây chúng ta phải có một trường học, được điều hành theo các nguyên tắc của những trường tiên tri thời cổ đại.… Các bác sĩ sẽ nhận được sự giáo dục của mình tại đây.—Medical Ministry, 75, 76 (1907). LDE 107.4
 
 ## Angwin, California
 
-Khi tôi đã xem xét tài sản này, tôi tuyên bố rằng nó vượt trội về nhiều phương diện. Trường học không thể được đặt ở một địa điểm nào tốt hơn. Nó cách St. Helena tám dặm và không bị ảnh hưởng bởi những cám dỗ của thành phố.... LDE 107.5
+Khi tôi đã xem xét tài sản này, tôi tuyên bố rằng nó vượt trội về nhiều phương diện. Trường học không thể được đặt ở một địa điểm nào tốt hơn. Nó cách St. Helena tám dặm và không bị ảnh hưởng bởi những cám dỗ của thành phố.… LDE 107.5
 
 Theo thời gian, sẽ phải xây thêm nhiều ngôi nhà nhỏ cho các học sinh, và chính các học sinh có thể dựng những ngôi nhà này dưới sự hướng dẫn của các giáo viên có năng lực. Gỗ có thể được chuẩn bị ngay tại chỗ cho công việc này, và các học sinh có thể được dạy cách xây dựng một cách đáng khen ngợi. LDE 108.1
 
-Chúng ta không cần phải sợ uống nước không tinh khiết, vì ở đây nước được cung cấp dồi dào cho chúng ta từ kho báu của Chúa. Tôi không biết làm thế nào để bày tỏ đủ lòng biết ơn về những lợi thế đa dạng này.... LDE 108.2
+Chúng ta không cần phải sợ uống nước không tinh khiết, vì ở đây nước được cung cấp dồi dào cho chúng ta từ kho báu của Chúa. Tôi không biết làm thế nào để bày tỏ đủ lòng biết ơn về những lợi thế đa dạng này.… LDE 108.2
 
-Chúng ta nhận thức rằng Chúa biết điều chúng ta cần và chính sự quan phòng của Ngài đã đem chúng ta đến đây.... Đức Chúa Trời muốn chúng ta ở đây và Ngài đã đặt chúng ta tại đây. Tôi đã chắc chắn về điều này khi tôi đến những khu đất này.... Tôi tin rằng khi quý vị đi qua những khu đất này, quý vị sẽ đi đến cùng một quyết định—rằng Chúa đã chỉ định nơi này cho chúng ta.—Manuscript Releases 1:340, 341, 343 (1909). LDE 108.3
+Chúng ta nhận thức rằng Chúa biết điều chúng ta cần và chính sự quan phòng của Ngài đã đem chúng ta đến đây.… Đức Chúa Trời muốn chúng ta ở đây và Ngài đã đặt chúng ta tại đây. Tôi đã chắc chắn về điều này khi tôi đến những khu đất này.… Tôi tin rằng khi quý vị đi qua những khu đất này, quý vị sẽ đi đến cùng một quyết định—rằng Chúa đã chỉ định nơi này cho chúng ta.—Manuscript Releases 1:340, 341, 343 (1909). LDE 108.3

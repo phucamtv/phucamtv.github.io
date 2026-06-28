@@ -94,7 +94,7 @@ Nếu con người vốn bất tử theo bản chất, thì Đức Chúa Giê-su
 
 Sự ứng nghiệm của lời hứa Sáng Thế Ký 3:21 được tìm thấy trong Giăng 19:23–24. Khi các họa sĩ vẽ Đức Chúa Giê-su trên thập tự giá, họ thường vẽ một mảnh vải che thân. Nhưng Kinh Thánh dạy rằng Ngài bị treo giữa trời và đất hoàn toàn trần truồng.
 
-> "Quân lính đã đóng đinh Đức Chúa Giê-su trên cây thập tự rồi, bèn lấy áo xống của Ngài chia làm bốn phần... Còn áo dài của Ngài thì không có đường may, vốn dệt liền tự trên chí dưới. Vậy, họ nói với nhau rằng: Đừng xé áo nầy ra, song chúng ta hãy bắt thăm xem ai được."
+> "Quân lính đã đóng đinh Đức Chúa Giê-su trên cây thập tự rồi, bèn lấy áo xống của Ngài chia làm bốn phần… Còn áo dài của Ngài thì không có đường may, vốn dệt liền tự trên chí dưới. Vậy, họ nói với nhau rằng: Đừng xé áo nầy ra, song chúng ta hãy bắt thăm xem ai được."
 
 Đây không phải là một chi tiết phụ. Đây là **hình bóng thuộc linh**. Đức Chúa Cha đã nhìn Đức Chúa Giê-su như là kẻ có tội, vì Ngài đã gánh lấy sự trần truồng thuộc linh của chúng ta. II Cô-rinh-tô 5:21 nói: "Đức Chúa Trời đã làm cho Đấng vốn chẳng biết tội lỗi trở nên tội lỗi vì chúng ta." Khi đã gánh sự trần truồng thuộc linh của chúng ta, Ngài cũng gánh lấy sự trần truồng thuộc thể trên thập tự, và cuối cùng gánh lấy sự trần truồng tột cùng — sự chết — thay cho A-đam, Ê-va, và toàn thể dòng dõi của họ.
 

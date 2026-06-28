@@ -10,7 +10,7 @@ Mục đích của sách Khải-huyền dành cho thế hệ của chúng ta là
 
 Từ “kính sợ” trong Khải-huyền 14:7 theo Kinh Thánh Tân Ước trong ngôn ngữ Hy Lạp là phobeo. Nó được dùng ở đây không phải để diễn tả cảm giác của sự sợ hãi trước mặt Đức Chúa Trời, nhưng là một thái độ sùng bái, tôn trọng và kính sợ. Nó truyền đạt tư tưởng về lòng trung thành tuyệt đối với Đức Chúa Trời và đầu phục theo ý muốn của Ngài một cách trọn vẹn. Đó là một thái độ của tâm trí lấy Đức Chúa Trời làm trung tâm hơn là tự cho mình là trung tâm. Nó đối nghịch với thái độ của Lu-xi-phe trong Ê-sai 14:13,14, khi bụng bảo dạ rằng, “Ta sẽ lên trời, sẽ nhắc ngai ta lên trên các ngôi sao Đức Chúa Trời. Ta sẽ ngồi trên núi hội về cuối cùng phương bắc. Ta sẽ lên trên cao những đám mây, làm ra mình bằng Đấng Rất Cao”.
 
-Thay vào đó là thái độ của Đấng Cơ-đốc, là Đấng mà dù: “có hình Đức Chúa Trời... tự hạ mình xuống, vâng phục cho đến chết, thậm chí chết trên cây thập tự” (Phi-líp 2:6,8).
+Thay vào đó là thái độ của Đấng Cơ-đốc, là Đấng mà dù: “có hình Đức Chúa Trời… tự hạ mình xuống, vâng phục cho đến chết, thậm chí chết trên cây thập tự” (Phi-líp 2:6,8).
 
 Tính chất của cuộc thiện ác đấu tranh xoay quanh việc quy phục Đức Chúa Trời. Lu-xi-phe tự cho mình là trung tâm. Hắn từ chối phục tùng bất kỳ uy quyền nào ngoại trừ quyền lực của chính hắn. Thay vì phục tùng Đấng ngự trên ngai, Lu-xi-phe khao khát được ngồi trên ngai đó và cai trị muôn loài. Nói một cách đơn giản, kính sợ Đức Chúa Trời là đặt Ngài ở vị trí cao nhất trong tâm tư của chúng ta. Đó là từ bỏ tính tự cao tự đại của chúng ta và dâng hiến trọn vẹn cuộc đời của chúng ta cho Ngài.
 

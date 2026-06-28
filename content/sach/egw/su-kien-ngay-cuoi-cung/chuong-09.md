@@ -11,7 +11,7 @@ summary: ""
 
 ## Sa-tan Thách Thức Quyền Tối Cao Của Đức Chúa Trời
 
-Đức Chúa Trời lên án Ba-by-lôn "vì mọi dân tộc đều uống rượu dâm loạn buông tuồng của nó."... LDE 123.1
+Đức Chúa Trời lên án Ba-by-lôn "vì mọi dân tộc đều uống rượu dâm loạn buông tuồng của nó."… LDE 123.1
 
 Đức Chúa Trời đã dựng nên thế gian trong sáu ngày và nghỉ vào ngày thứ bảy, biệt riêng ngày này ra thánh, tách biệt khỏi mọi ngày khác để dành riêng cho chính Ngài, để dân Ngài tuân giữ qua các thế hệ. Nhưng kẻ tội lỗi, tự tôn mình lên trên Đức Chúa Trời, ngồi trong đền thờ Đức Chúa Trời, và tự xưng mình là Đức Chúa Trời, đã nghĩ đến việc đổi thay các kỳ hạn và luật pháp. Quyền lực này, nghĩ rằng để chứng tỏ mình không những ngang hàng với Đức Chúa Trời, mà còn trên Đức Chúa Trời, đã đổi ngày nghỉ, đặt ngày thứ nhất trong tuần vào chỗ mà ngày thứ bảy phải được giữ. Và thế giới Tin Lành đã nhận đứa con này của giáo hoàng làm điều thánh. Trong Lời Đức Chúa Trời, điều này được gọi là sự dâm loạn của nó [Khải-huyền 14:8].—The S.D.A. Bible Commentary 7:979 (1900). LDE 123.2
 
@@ -30,7 +30,7 @@ Một số người sẽ tìm cách đặt những trở ngại trên con đư�
 
 ## Phong Trào Luật Chủ Nhật Vào Thập Niên 1880
 
-[Để có thêm thông tin nền tảng hữu ích và các trích dẫn phong phú hơn của E. G. White, xin xem Selected Messages 3:380-402, và Testimonies for the Church 5:711-718.] Đã nhiều năm chúng ta trông đợi một Luật Chủ Nhật sẽ được ban hành tại đất nước chúng ta, và giờ đây khi phong trào này đang đến ngay trước mặt chúng ta, chúng ta hỏi rằng: Dân sự chúng ta sẽ làm gì trong vấn đề này?... Chúng ta đặc biệt phải tìm kiếm Đức Chúa Trời để xin ân điển và quyền năng được ban cho dân Ngài ngay bây giờ. Đức Chúa Trời hằng sống, và chúng ta không tin rằng đã đến thời điểm Ngài muốn các quyền tự do của chúng ta bị hạn chế. LDE 125.1
+[Để có thêm thông tin nền tảng hữu ích và các trích dẫn phong phú hơn của E. G. White, xin xem Selected Messages 3:380-402, và Testimonies for the Church 5:711-718.] Đã nhiều năm chúng ta trông đợi một Luật Chủ Nhật sẽ được ban hành tại đất nước chúng ta, và giờ đây khi phong trào này đang đến ngay trước mặt chúng ta, chúng ta hỏi rằng: Dân sự chúng ta sẽ làm gì trong vấn đề này?… Chúng ta đặc biệt phải tìm kiếm Đức Chúa Trời để xin ân điển và quyền năng được ban cho dân Ngài ngay bây giờ. Đức Chúa Trời hằng sống, và chúng ta không tin rằng đã đến thời điểm Ngài muốn các quyền tự do của chúng ta bị hạn chế. LDE 125.1
 
 Vị tiên tri đã thấy
 
@@ -46,15 +46,15 @@ Một thiên sứ khác, từ phương đông đi lên, kêu lớn tiếng cùng
 
 ## Những Người Cổ Vũ Luật Chủ Nhật Không Nhận Thức Được Việc Mình Đang Làm
 
-Phong trào Chủ Nhật hiện đang tiến hành trong bóng tối. Các nhà lãnh đạo đang che giấu vấn đề thực sự, và nhiều người tham gia vào phong trào này không tự nhận thấy được dòng chảy ngầm đang dẫn đến đâu.... Họ đang hoạt động trong sự mù quáng. Họ không thấy rằng nếu một chính phủ Tin Lành hy sinh các nguyên tắc đã làm cho họ trở thành một quốc gia tự do và độc lập, và thông qua luật pháp đưa vào Hiến pháp những nguyên tắc sẽ lan truyền sự dối trá và ảo tưởng của giáo hoàng, thì họ đang lao mình vào những sự khủng khiếp của La-mã trong thời kỳ Trung Cổ.—The Review and Herald Extra, ngày 11 tháng 12, 1888. LDE 125.3
+Phong trào Chủ Nhật hiện đang tiến hành trong bóng tối. Các nhà lãnh đạo đang che giấu vấn đề thực sự, và nhiều người tham gia vào phong trào này không tự nhận thấy được dòng chảy ngầm đang dẫn đến đâu.… Họ đang hoạt động trong sự mù quáng. Họ không thấy rằng nếu một chính phủ Tin Lành hy sinh các nguyên tắc đã làm cho họ trở thành một quốc gia tự do và độc lập, và thông qua luật pháp đưa vào Hiến pháp những nguyên tắc sẽ lan truyền sự dối trá và ảo tưởng của giáo hoàng, thì họ đang lao mình vào những sự khủng khiếp của La-mã trong thời kỳ Trung Cổ.—The Review and Herald Extra, ngày 11 tháng 12, 1888. LDE 125.3
 
-Có nhiều người, ngay cả trong số những người tham gia vào phong trào ép buộc giữ ngày Chủ Nhật này, bị mù quáng trước những hậu quả sẽ theo sau hành động này. Họ không thấy rằng họ đang trực tiếp tấn công vào quyền tự do tôn giáo. Có nhiều người chưa bao giờ hiểu được những đòi hỏi của ngày Sa-bát theo Kinh Thánh và nền tảng giả dối mà thể chế Chủ Nhật đang dựa trên đó.... LDE 126.1
+Có nhiều người, ngay cả trong số những người tham gia vào phong trào ép buộc giữ ngày Chủ Nhật này, bị mù quáng trước những hậu quả sẽ theo sau hành động này. Họ không thấy rằng họ đang trực tiếp tấn công vào quyền tự do tôn giáo. Có nhiều người chưa bao giờ hiểu được những đòi hỏi của ngày Sa-bát theo Kinh Thánh và nền tảng giả dối mà thể chế Chủ Nhật đang dựa trên đó.… LDE 126.1
 
 Những người đang nỗ lực thay đổi Hiến pháp và bảo đảm một luật buộc phải tuân giữ ngày Chủ Nhật ít nhận thức được kết quả sẽ ra sao. Một cuộc khủng hoảng đã ở ngay trước mắt chúng ta.—Testimonies for the Church 5:711, 753 (1889). LDE 126.2
 
 ## Không Ngồi Yên, Không Làm Gì Cả
 
-Bổn phận của chúng ta là làm tất cả những gì trong khả năng mình để ngăn chặn mối nguy hiểm đang đe dọa.... Một trách nhiệm lớn lao đang đổ xuống trên những người nam và người nữ biết cầu nguyện khắp xứ, để cầu xin Đức Chúa Trời quét sạch đám mây tội ác này, và ban thêm một vài năm ân điển nữa để làm việc cho Chủ.—The Review and Herald Extra, December 11, 1888. LDE 126.3
+Bổn phận của chúng ta là làm tất cả những gì trong khả năng mình để ngăn chặn mối nguy hiểm đang đe dọa.… Một trách nhiệm lớn lao đang đổ xuống trên những người nam và người nữ biết cầu nguyện khắp xứ, để cầu xin Đức Chúa Trời quét sạch đám mây tội ác này, và ban thêm một vài năm ân điển nữa để làm việc cho Chủ.—The Review and Herald Extra, December 11, 1888. LDE 126.3
 
 Những người hiện đang giữ các điều răn của Đức Chúa Trời cần phải tự thúc giục mình để nhận được sự giúp đỡ đặc biệt mà chỉ một mình Đức Chúa Trời mới có thể ban cho họ. Họ nên làm việc sốt sắng hơn để trì hoãn càng lâu càng tốt tai họa đang đe dọa kia.—The Review and Herald, December 18, 1888. LDE 126.4
 
@@ -62,7 +62,7 @@ Trong thời điểm này, dân sự giữ các điều răn của Đức Chúa 
 
 Chúng ta không làm theo ý muốn của Đức Chúa Trời nếu chúng ta ngồi yên, không làm gì để gìn giữ tự do lương tâm. Những lời cầu nguyện nhiệt thành, có hiệu nghiệm phải được dâng lên trời để tai họa này được hoãn lại cho đến khi chúng ta có thể hoàn thành công việc đã bị bỏ bê quá lâu. Hãy có những lời cầu nguyện hết sức sốt sắng, và rồi chúng ta hãy làm việc hòa hợp với những lời cầu nguyện ấy.—Testimonies for the Church 5:714 (1889). LDE 127.2
 
-Có nhiều người đang an nhàn, dường như đang ngủ. Họ nói: "Nếu lời tiên tri đã báo trước về việc cưỡng bách giữ ngày Chủ Nhật thì luật ấy chắc chắn sẽ được ban hành," và sau khi đi đến kết luận này, họ ngồi xuống trong sự bình thản chờ đợi biến cố ấy xảy ra, tự an ủi mình với ý nghĩ rằng Đức Chúa Trời sẽ bảo vệ dân Ngài trong ngày hoạn nạn. Nhưng Đức Chúa Trời sẽ không cứu chúng ta nếu chúng ta không nỗ lực làm công việc Ngài đã giao phó cho chúng ta.... LDE 127.3
+Có nhiều người đang an nhàn, dường như đang ngủ. Họ nói: "Nếu lời tiên tri đã báo trước về việc cưỡng bách giữ ngày Chủ Nhật thì luật ấy chắc chắn sẽ được ban hành," và sau khi đi đến kết luận này, họ ngồi xuống trong sự bình thản chờ đợi biến cố ấy xảy ra, tự an ủi mình với ý nghĩ rằng Đức Chúa Trời sẽ bảo vệ dân Ngài trong ngày hoạn nạn. Nhưng Đức Chúa Trời sẽ không cứu chúng ta nếu chúng ta không nỗ lực làm công việc Ngài đã giao phó cho chúng ta.… LDE 127.3
 
 Là những người canh giữ trung thành, anh chị em phải thấy gươm đến và phát lời cảnh báo, để những người nam và người nữ không vì thiếu hiểu biết mà theo đuổi một con đường mà họ sẽ tránh nếu họ biết lẽ thật.—The Review and Herald Extra, December 24, 1889. LDE 127.4
 
@@ -70,7 +70,7 @@ Là những người canh giữ trung thành, anh chị em phải thấy gươm 
 
 Chúng ta không thể làm việc để làm vui lòng những người sẽ dùng ảnh hưởng của họ để đàn áp tự do tôn giáo và thiết lập những biện pháp áp bức nhằm dẫn dắt hay ép buộc đồng loại của mình giữ ngày Chủ Nhật làm ngày Sa-bát. Ngày thứ nhất trong tuần không phải là ngày cần được tôn kính. Đó là một ngày sa-bát giả mạo, và các thành viên trong gia đình của Chúa không thể tham dự cùng với những người tôn vinh ngày này và vi phạm luật pháp Đức Chúa Trời bằng cách chà đạp ngày Sa-bát của Ngài. Dân sự Đức Chúa Trời không được bỏ phiếu đưa những người như thế vào chức vụ, vì khi làm như vậy, họ trở thành kẻ dự phần với những người đó trong các tội lỗi mà họ phạm khi đang tại chức.—Fundamentals of Christian Education, 475 (1899). LDE 127.5
 
-Tôi thật mong rằng tiếng kèn sẽ trỗi lên rõ ràng về phong trào Luật Chủ Nhật này. Tôi nghĩ rằng tốt hơn hết là trên các tờ báo của chúng ta, đề tài về sự trường tồn của luật pháp Đức Chúa Trời nên được trình bày như một chuyên đề.... Bây giờ chúng ta nên cố gắng hết sức để đánh bại Luật Chủ Nhật này.—Counsels to Writers and Editors, 97, 98 (1906). LDE 128.1
+Tôi thật mong rằng tiếng kèn sẽ trỗi lên rõ ràng về phong trào Luật Chủ Nhật này. Tôi nghĩ rằng tốt hơn hết là trên các tờ báo của chúng ta, đề tài về sự trường tồn của luật pháp Đức Chúa Trời nên được trình bày như một chuyên đề.… Bây giờ chúng ta nên cố gắng hết sức để đánh bại Luật Chủ Nhật này.—Counsels to Writers and Editors, 97, 98 (1906). LDE 128.1
 
 ## Hoa Kỳ Sẽ Ban Hành Luật Chủ Nhật
 
@@ -82,7 +82,7 @@ Sớm hay muộn, Luật Chủ Nhật sẽ được ban hành.—The Review and 
 
 Chẳng bao lâu nữa các Luật Chủ Nhật sẽ được thi hành, và những người đang ở các chức vụ trọng yếu sẽ trở nên cay đắng chống lại nhóm nhỏ dân sự giữ các điều răn của Đức Chúa Trời.—Manuscript Releases 4:278 (1909). LDE 129.1
 
-Lời tiên tri trong Khải Huyền 13 tuyên bố rằng quyền lực được tượng trưng bởi con thú có hai sừng giống chiên con sẽ khiến "đất và những kẻ ở trên đất" thờ lạy giáo hoàng — được tượng trưng tại đó bởi con thú "giống như con beo".... Lời tiên tri này sẽ được ứng nghiệm khi Hoa Kỳ cưỡng bức việc giữ ngày Chủ Nhật, là điều mà La-mã tuyên bố như là sự công nhận đặc biệt cho quyền tối thượng của mình.... LDE 129.2
+Lời tiên tri trong Khải Huyền 13 tuyên bố rằng quyền lực được tượng trưng bởi con thú có hai sừng giống chiên con sẽ khiến "đất và những kẻ ở trên đất" thờ lạy giáo hoàng — được tượng trưng tại đó bởi con thú "giống như con beo".… Lời tiên tri này sẽ được ứng nghiệm khi Hoa Kỳ cưỡng bức việc giữ ngày Chủ Nhật, là điều mà La-mã tuyên bố như là sự công nhận đặc biệt cho quyền tối thượng của mình.… LDE 129.2
 
 Sự tham nhũng chính trị đang phá hủy lòng yêu mến công lý và sự tôn trọng đối với chân lý, và ngay cả ở nước Mỹ tự do, các nhà cầm quyền và các nhà lập pháp, để giành được sự ủng hộ của quần chúng, sẽ nhượng bộ trước đòi hỏi của đại chúng về một đạo luật cưỡng bức việc giữ ngày Chủ Nhật.—The Great Controversy, 578, 579, 592 (1911). LDE 129.3
 
@@ -96,7 +96,7 @@ Chính tầng lớp này đưa ra lời tuyên bố rằng sự sa đọa lan tr
 
 Tin Lành sẽ bắt tay liên hiệp với thế lực La-mã. Bấy giờ sẽ có một luật chống lại ngày Sa-bát của sự sáng tạo của Đức Chúa Trời, và bấy giờ Đức Chúa Trời sẽ làm "công việc lạ lùng" của Ngài trên đất.—The S.D.A. Bible Commentary 7:910 (1886). LDE 130.1
 
-Làm sao giáo hội La-mã có thể tự thanh minh khỏi sự cáo buộc về việc thờ hình tượng thì chúng ta không thể thấy được.... Và đây là tôn giáo mà những người Tin Lành đang bắt đầu nhìn với nhiều thiện cảm, và rốt cuộc sẽ hiệp nhất với Tin Lành. Tuy nhiên, sự hiệp nhất này sẽ không được thực hiện bởi một sự thay đổi trong Công Giáo, vì La-mã không bao giờ thay đổi. Bà ta tự xưng là không thể sai lầm. Chính Tin Lành sẽ thay đổi. Việc chấp nhận những ý tưởng phóng khoáng về phần mình sẽ đưa Tin Lành đến chỗ có thể nắm tay Công Giáo.—The Review and Herald, ngày 1 tháng 6, 1886. LDE 130.2
+Làm sao giáo hội La-mã có thể tự thanh minh khỏi sự cáo buộc về việc thờ hình tượng thì chúng ta không thể thấy được.… Và đây là tôn giáo mà những người Tin Lành đang bắt đầu nhìn với nhiều thiện cảm, và rốt cuộc sẽ hiệp nhất với Tin Lành. Tuy nhiên, sự hiệp nhất này sẽ không được thực hiện bởi một sự thay đổi trong Công Giáo, vì La-mã không bao giờ thay đổi. Bà ta tự xưng là không thể sai lầm. Chính Tin Lành sẽ thay đổi. Việc chấp nhận những ý tưởng phóng khoáng về phần mình sẽ đưa Tin Lành đến chỗ có thể nắm tay Công Giáo.—The Review and Herald, ngày 1 tháng 6, 1886. LDE 130.2
 
 Thế giới được xưng là Tin Lành sẽ kết liên minh với người của tội lỗi, và Hội Thánh cùng thế gian sẽ ở trong sự hòa hợp bại hoại.—The S.D.A. Bible Commentary 7:975 (1891). LDE 130.3
 
@@ -104,9 +104,9 @@ Công Giáo La-mã ở Cựu Thế Giới, và Tin Lành bội đạo ở Tân T
 
 ## Luật Chủ Nhật Tôn Vinh La-mã
 
-Khi các Hội Thánh đứng đầu tại Hoa Kỳ liên hiệp với nhau trên những điểm giáo lý mà họ cùng nắm giữ, sẽ gây ảnh hưởng trên nhà nước để thi hành các sắc lệnh của họ và ủng hộ các định chế của họ, thì khi ấy nước Mỹ Tin Lành sẽ hình thành một hình tượng của phẩm trật La-mã, và kết quả tất yếu sẽ là việc giáng các hình phạt dân sự trên những người bất đồng chính kiến.... LDE 131.1
+Khi các Hội Thánh đứng đầu tại Hoa Kỳ liên hiệp với nhau trên những điểm giáo lý mà họ cùng nắm giữ, sẽ gây ảnh hưởng trên nhà nước để thi hành các sắc lệnh của họ và ủng hộ các định chế của họ, thì khi ấy nước Mỹ Tin Lành sẽ hình thành một hình tượng của phẩm trật La-mã, và kết quả tất yếu sẽ là việc giáng các hình phạt dân sự trên những người bất đồng chính kiến.… LDE 131.1
 
-Việc các Hội Thánh Tin Lành cưỡng bách giữ ngày Chủ Nhật là sự cưỡng bách tôn thờ giáo hoàng.... LDE 131.2
+Việc các Hội Thánh Tin Lành cưỡng bách giữ ngày Chủ Nhật là sự cưỡng bách tôn thờ giáo hoàng.… LDE 131.2
 
 Chính trong hành động cưỡng bách thi hành một bổn phận tôn giáo bằng quyền lực thế tục, các Hội Thánh sẽ tự mình hình thành một hình tượng của con thú; do đó việc cưỡng bách giữ ngày Chủ Nhật tại Hoa Kỳ sẽ là sự cưỡng bách tôn thờ con thú và hình tượng nó.—The Great Controversy, 445, 448, 449 (1911). LDE 131.3
 
@@ -124,7 +124,7 @@ Trong các phong trào hiện đang diễn ra tại Hoa Kỳ nhằm bảo đảm
 
 ## Một Đạo Luật Chủ Nhật Quốc Gia Nghĩa Là Sự Bội Đạo Của Quốc Gia
 
-Để giành lấy lòng dân và sự ủng hộ, các nhà lập pháp sẽ nhượng bộ trước đòi hỏi về một đạo luật Chủ Nhật. Bằng sắc lệnh áp đặt thể chế của giáo hoàng vi phạm luật pháp Đức Chúa Trời, đất nước chúng ta sẽ tự hoàn toàn cắt đứt khỏi sự công bình.... LDE 132.4
+Để giành lấy lòng dân và sự ủng hộ, các nhà lập pháp sẽ nhượng bộ trước đòi hỏi về một đạo luật Chủ Nhật. Bằng sắc lệnh áp đặt thể chế của giáo hoàng vi phạm luật pháp Đức Chúa Trời, đất nước chúng ta sẽ tự hoàn toàn cắt đứt khỏi sự công bình.… LDE 132.4
 
 Như sự tiến đến gần của các đạo quân La-mã là một dấu hiệu cho các môn đồ về sự hủy diệt sắp xảy đến của thành Giê-ru-sa-lem, thì sự bội đạo này cũng có thể là một dấu hiệu cho chúng ta rằng giới hạn của sự nhịn nhục của Đức Chúa Trời đã đạt đến.—Testimonies for the Church 5:451 (1885). LDE 133.1
 
@@ -148,7 +148,7 @@ Khi nhà nước sẽ dùng quyền lực của mình để cưỡng bách các 
 
 ## Luật Chủ Nhật Toàn Cầu
 
-Lịch sử sẽ tái diễn. Tôn giáo giả dối sẽ được tôn cao. Ngày thứ nhất trong tuần, một ngày làm việc bình thường, không hề có tính chất thánh khiết nào, sẽ được dựng lên như hình tượng của Ba-by-lôn. Mọi dân, mọi nước và mọi thứ tiếng sẽ bị buộc phải thờ phượng ngày sa-bát giả mạo này.... Sắc lệnh áp đặt sự thờ phượng ngày này sẽ được ban ra khắp thế giới.—The S.D.A. Bible Commentary 7:976 (1897). LDE 134.5
+Lịch sử sẽ tái diễn. Tôn giáo giả dối sẽ được tôn cao. Ngày thứ nhất trong tuần, một ngày làm việc bình thường, không hề có tính chất thánh khiết nào, sẽ được dựng lên như hình tượng của Ba-by-lôn. Mọi dân, mọi nước và mọi thứ tiếng sẽ bị buộc phải thờ phượng ngày sa-bát giả mạo này.… Sắc lệnh áp đặt sự thờ phượng ngày này sẽ được ban ra khắp thế giới.—The S.D.A. Bible Commentary 7:976 (1897). LDE 134.5
 
 Khi nước Mỹ, vùng đất của tự do tôn giáo, liên kết với giáo hoàng trong việc cưỡng ép lương tâm và bắt buộc người ta phải tôn vinh ngày sa-bát giả, thì dân chúng của mọi quốc gia trên trái đất sẽ bị dẫn dắt noi theo gương của nước Mỹ.—Testimonies for the Church 6:18 (1900). LDE 135.1
 
@@ -162,7 +162,7 @@ Sự thay thế luật pháp loài người cho luật pháp Đức Chúa Trời
 
 ## Cả Thế Giới Sẽ Ủng Hộ Luật Chủ Nhật
 
-Những kẻ ác ... tuyên bố rằng họ có lẽ thật, rằng những phép lạ đã xảy ra giữa họ, rằng các thiên sứ từ trời nói chuyện và bước đi với họ, rằng những quyền năng lớn lao, các dấu kỳ và phép lạ đã được thực hiện giữa họ, và rằng đây là thiên hi niên trần thế mà họ đã trông đợi từ lâu. Cả thế giới đã được hoán cải và hòa hợp với Luật Chủ Nhật.—Selected Messages 3:427, 428 (1884). LDE 136.1
+Những kẻ ác … tuyên bố rằng họ có lẽ thật, rằng những phép lạ đã xảy ra giữa họ, rằng các thiên sứ từ trời nói chuyện và bước đi với họ, rằng những quyền năng lớn lao, các dấu kỳ và phép lạ đã được thực hiện giữa họ, và rằng đây là thiên hi niên trần thế mà họ đã trông đợi từ lâu. Cả thế giới đã được hoán cải và hòa hợp với Luật Chủ Nhật.—Selected Messages 3:427, 428 (1884). LDE 136.1
 
 Cả thế giới sẽ bị khuấy động với lòng thù địch chống lại những Cơ-đốc nhân Phục Lâm vì họ không chịu tỏ lòng tôn kính giáo hoàng bằng cách tôn trọng Chủ Nhật, là thể chế của quyền lực địch lại Đấng Christ này.—Testimonies to Ministers and Gospel Workers, 37 (1893). LDE 136.2
 
@@ -201,11 +201,11 @@ Lời khuyên này sẽ có giá trị thực sự cho tất cả những ai s�
 
 ## Tránh Làm Việc Vào Ngày Chủ Nhật
 
-Về cánh đồng miền Nam, [việc thi hành Luật Chủ Nhật đặc biệt khắc nghiệt tại các tiểu bang miền Nam Hoa Kỳ trong những năm 1880 và 1890. Xem American State Papers (The Review and Herald, 1943, 517-562).] công việc tại đó phải được thực hiện một cách khôn ngoan và cẩn trọng nhất có thể, và phải được tiến hành theo cách mà Đấng Christ sẽ làm. Chẳng bao lâu nữa người ta sẽ biết được anh em tin gì về ngày Chủ Nhật và ngày Sa-bát, vì họ sẽ đặt câu hỏi. Khi đó anh em có thể nói cho họ biết, nhưng không phải theo cách thu hút sự chú ý vào công việc của anh em. Anh em không cần phải làm gián đoạn công việc của mình bằng cách tự mình lao động vào ngày Chủ Nhật.... LDE 138.4
+Về cánh đồng miền Nam, [việc thi hành Luật Chủ Nhật đặc biệt khắc nghiệt tại các tiểu bang miền Nam Hoa Kỳ trong những năm 1880 và 1890. Xem American State Papers (The Review and Herald, 1943, 517-562).] công việc tại đó phải được thực hiện một cách khôn ngoan và cẩn trọng nhất có thể, và phải được tiến hành theo cách mà Đấng Christ sẽ làm. Chẳng bao lâu nữa người ta sẽ biết được anh em tin gì về ngày Chủ Nhật và ngày Sa-bát, vì họ sẽ đặt câu hỏi. Khi đó anh em có thể nói cho họ biết, nhưng không phải theo cách thu hút sự chú ý vào công việc của anh em. Anh em không cần phải làm gián đoạn công việc của mình bằng cách tự mình lao động vào ngày Chủ Nhật.… LDE 138.4
 
-Việc tránh làm việc vào ngày Chủ Nhật không phải là nhận dấu của con thú.... Tại những nơi mà sự chống đối mạnh đến mức gây ra bắt bớ nếu làm việc vào ngày Chủ Nhật, hãy để anh em chúng ta lấy ngày đó làm cơ hội để thực hiện công tác truyền giáo chân chính. — The Southern Work, 69, 70 (1895). LDE 139.1
+Việc tránh làm việc vào ngày Chủ Nhật không phải là nhận dấu của con thú.… Tại những nơi mà sự chống đối mạnh đến mức gây ra bắt bớ nếu làm việc vào ngày Chủ Nhật, hãy để anh em chúng ta lấy ngày đó làm cơ hội để thực hiện công tác truyền giáo chân chính. — The Southern Work, 69, 70 (1895). LDE 139.1
 
-Nếu họ đến đây và nói rằng: "Các anh phải đóng cửa công việc và máy in của các anh vào ngày Chủ Nhật," tôi sẽ không nói với anh em rằng:... "Hãy cho máy in chạy tiếp," vì cuộc xung đột không xảy ra giữa anh em và Đức Chúa Trời của anh em. — Manuscript 163, 1898. LDE 139.2
+Nếu họ đến đây và nói rằng: "Các anh phải đóng cửa công việc và máy in của các anh vào ngày Chủ Nhật," tôi sẽ không nói với anh em rằng:… "Hãy cho máy in chạy tiếp," vì cuộc xung đột không xảy ra giữa anh em và Đức Chúa Trời của anh em. — Manuscript 163, 1898. LDE 139.2
 
 Chúng ta không nên cảm thấy mình bắt buộc phải chọc tức những người láng giềng tôn sùng ngày Chủ Nhật bằng cách cố ý nỗ lực làm việc vào ngày đó trước mặt họ để phô bày một sự độc lập. Các chị em của chúng ta không cần chọn ngày Chủ Nhật làm ngày để phơi bày việc giặt giũ của mình. — Selected Messages 3:399 (1889). LDE 139.3
 
@@ -215,7 +215,7 @@ Tôi sẽ cố gắng trả lời câu hỏi của các bạn về việc các b
 
 Sự sáng mà Chúa đã ban cho tôi vào thời điểm chúng ta đang chờ đợi một cuộc khủng hoảng như các bạn dường như đang tiến đến, là khi dân chúng bị một quyền lực từ bên dưới thúc đẩy để cưỡng bách việc giữ ngày Chủ Nhật, thì những người Cơ-đốc Phục Lâm phải bày tỏ sự khôn ngoan bằng cách kiêng làm công việc thường ngày của mình trong ngày đó, mà dành ngày đó cho công việc truyền giáo. LDE 139.5
 
-Việc chống lại Luật Chủ Nhật chỉ làm cho những kẻ cuồng tín tôn giáo đang tìm cách thi hành các luật ấy thêm hung hãn trong sự bắt bớ. Đừng cho họ cơ hội nào để gọi các bạn là những kẻ phạm pháp... Một người không nhận lấy dấu của con thú khi người ấy bày tỏ rằng mình nhận ra sự khôn ngoan trong việc giữ hòa khí bằng cách kiêng làm công việc gây xúc phạm... LDE 140.1
+Việc chống lại Luật Chủ Nhật chỉ làm cho những kẻ cuồng tín tôn giáo đang tìm cách thi hành các luật ấy thêm hung hãn trong sự bắt bớ. Đừng cho họ cơ hội nào để gọi các bạn là những kẻ phạm pháp… Một người không nhận lấy dấu của con thú khi người ấy bày tỏ rằng mình nhận ra sự khôn ngoan trong việc giữ hòa khí bằng cách kiêng làm công việc gây xúc phạm… LDE 140.1
 
 Ngày Chủ Nhật có thể được sử dụng để tiến hành nhiều công việc khác nhau, hoàn thành nhiều việc cho Chúa. Vào ngày này, có thể tổ chức các buổi nhóm ngoài trời và các buổi nhóm tại nhà. Có thể làm công việc đi từ nhà này sang nhà khác. Những ai viết lách có thể dành ngày này để viết các bài báo của mình. Bất cứ khi nào có thể, hãy tổ chức các buổi thờ phượng vào ngày Chủ Nhật. Hãy làm cho các buổi nhóm này thật sinh động hấp dẫn. Hãy hát những bài thánh ca phục hưng chân thật, và rao giảng với quyền năng cùng sự xác tín về tình yêu của Đấng Cứu Thế.—Testimonies for the Church 9:232, 233 (1909). LDE 140.2
 
@@ -229,7 +229,7 @@ Thời điểm này, khi đang có một nỗ lực lớn lao như vậy để b
 
 ## Chúng Ta Phải Vâng Lời Đức Chúa Trời Hơn Là Vâng Lời Người Ta
 
-Những người tuân giữ lẽ thật giờ đây được kêu gọi phải lựa chọn giữa việc xem nhẹ một đòi hỏi rõ ràng của Lời Đức Chúa Trời hoặc từ bỏ quyền tự do của mình. Nếu chúng ta nhường bước Lời Đức Chúa Trời và chấp nhận những phong tục, truyền thống của loài người, có thể chúng ta vẫn được phép sống giữa loài người, được mua bán và được tôn trọng các quyền lợi của mình. Nhưng nếu chúng ta giữ lòng trung thành với Đức Chúa Trời, thì điều ấy phải đòi hỏi sự hi sinh các quyền lợi của chúng ta giữa loài người, vì các kẻ thù của luật pháp Đức Chúa Trời đã cấu kết với nhau để dập tắt sự phán đoán độc lập trong những vấn đề thuộc về đức tin tôn giáo và kiểm soát lương tâm con người.... LDE 141.2
+Những người tuân giữ lẽ thật giờ đây được kêu gọi phải lựa chọn giữa việc xem nhẹ một đòi hỏi rõ ràng của Lời Đức Chúa Trời hoặc từ bỏ quyền tự do của mình. Nếu chúng ta nhường bước Lời Đức Chúa Trời và chấp nhận những phong tục, truyền thống của loài người, có thể chúng ta vẫn được phép sống giữa loài người, được mua bán và được tôn trọng các quyền lợi của mình. Nhưng nếu chúng ta giữ lòng trung thành với Đức Chúa Trời, thì điều ấy phải đòi hỏi sự hi sinh các quyền lợi của chúng ta giữa loài người, vì các kẻ thù của luật pháp Đức Chúa Trời đã cấu kết với nhau để dập tắt sự phán đoán độc lập trong những vấn đề thuộc về đức tin tôn giáo và kiểm soát lương tâm con người.… LDE 141.2
 
 Dân sự Đức Chúa Trời sẽ công nhận chính quyền của loài người như một định chế do Đức Chúa Trời sắp đặt, và bằng lời dạy lẫn gương mẫu sẽ dạy dỗ sự vâng phục chính quyền ấy như một bổn phận thiêng liêng chừng nào thẩm quyền của nó còn được thi hành trong phạm vi chính đáng. Nhưng khi những đòi hỏi của nó xung đột với các đòi hỏi của Đức Chúa Trời, chúng ta phải chọn vâng lời Đức Chúa Trời hơn là vâng lời loài người. Lời Đức Chúa Trời phải được công nhận và vâng theo như một thẩm quyền cao hơn mọi luật pháp của loài người. Câu "Đức Giê-hô-va phán như vầy" không thể bị gạt qua một bên để nhường chỗ cho câu "Hội Thánh hay nhà nước phán như vầy". Mão triều thiên của Đấng Christ phải được nâng cao trên hết thảy các vương miện của những đấng quyền thế trên đất.—The Home Missionary, ngày 1 tháng 11 năm 1893. LDE 142.1
 

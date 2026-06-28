@@ -40,7 +40,7 @@ Từ thuở bình minh của nhân loại, qua từng thăng trầm của lịch
 
 Nhà tiên tri Ê-sai đã ghi lại lời hứa đẹp đẽ và xúc động này:
 
-> Hỡi... hết thảy các ngươi là dân sót..., hãy nghe Ta, Ta đã gánh vác các ngươi từ lúc mới sanh, bồng ẵm các ngươi từ trong lòng mẹ. Cho đến chừng các ngươi già cả, đầu râu tóc bạc, Ta cũng sẽ bồng ẵm các ngươi. Ta đã làm ra, thì sẽ còn gánh vác các ngươi nữa. Ta sẽ bồng ẵm và giải cứu các ngươi. — Ê-sai 46:3-4
+> Hỡi… hết thảy các ngươi là dân sót…, hãy nghe Ta, Ta đã gánh vác các ngươi từ lúc mới sanh, bồng ẵm các ngươi từ trong lòng mẹ. Cho đến chừng các ngươi già cả, đầu râu tóc bạc, Ta cũng sẽ bồng ẵm các ngươi. Ta đã làm ra, thì sẽ còn gánh vác các ngươi nữa. Ta sẽ bồng ẵm và giải cứu các ngươi. — Ê-sai 46:3-4
 
 Hình ảnh Thượng Đế "bồng ẵm" con người từ trong lòng mẹ cho đến khi đầu bạc không khác gì hình ảnh người mẹ ôm chặt các con trong ngọn lửa hung hãn. Đó là tình yêu không buông tay, không từ bỏ, không tính toán thiệt hơn.
 

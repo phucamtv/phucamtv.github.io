@@ -31,7 +31,7 @@ Trong Giô-suê đoạn 4, sau khi dân Y-sơ-ra-ên đã qua sông Giô-đanh, 
 
 Những hòn đá ấy là một đài tưởng niệm. Khi con cháu các đời sau đi ngang qua và tự hỏi mười hai hòn đá ấy có ý nghĩa gì, người cha người mẹ sẽ có cơ hội kể lại sự nhân từ của Đức Chúa Trời.
 
-Trong đời sống mỗi cá nhân và trong lịch sử Hội Thánh đều có những "hòn đá" như vậy — những câu chuyện giải cứu, những con người trung tín. Đa-ni-ên trong hang sư tử, Hoàng hậu Ê-xơ-tê, ba người Hê-bơ-rơ trong lò lửa hực... Mỗi câu chuyện nhắc cho chúng ta rằng cùng một Đức Chúa Trời đã ban can đảm cho dân Ngài thuở xưa cũng có thể ban can đảm cho chúng ta hôm nay.
+Trong đời sống mỗi cá nhân và trong lịch sử Hội Thánh đều có những "hòn đá" như vậy — những câu chuyện giải cứu, những con người trung tín. Đa-ni-ên trong hang sư tử, Hoàng hậu Ê-xơ-tê, ba người Hê-bơ-rơ trong lò lửa hực… Mỗi câu chuyện nhắc cho chúng ta rằng cùng một Đức Chúa Trời đã ban can đảm cho dân Ngài thuở xưa cũng có thể ban can đảm cho chúng ta hôm nay.
 
 ---
 

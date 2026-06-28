@@ -20,7 +20,7 @@ Nhưng có hai chê-ru-bin đặc biệt được nhắc đến nhiều lần. X
 
 Nắp thi ân chính là nắp đậy của hòm giao ước, và là nơi vinh quang Shekinah của Đức Chúa Trời ngự xuống. Trong đền thờ của Sa-lô-môn, ngoài hai chê-ru-bin trên hòm giao ước, còn có thêm hai chê-ru-bin đứng bên cạnh — tổng cộng bốn vị bao quanh ngai của Đức Chúa Trời.
 
-Điều này lý giải Thi Thiên 80:1: "Hỡi Đấng chăn giữ Y-sơ-ra-ên... Ngài là Đấng ngự trên các chê-ru-bin, hãy sáng sự rực rỡ Ngài ra." Đức Chúa Trời ngự giữa các chê-ru-bin, nơi vinh quang Ngài được tỏ bày.
+Điều này lý giải Thi Thiên 80:1: "Hỡi Đấng chăn giữ Y-sơ-ra-ên… Ngài là Đấng ngự trên các chê-ru-bin, hãy sáng sự rực rỡ Ngài ra." Đức Chúa Trời ngự giữa các chê-ru-bin, nơi vinh quang Ngài được tỏ bày.
 
 ---
 
@@ -42,7 +42,7 @@ Một quan niệm sai lầm phổ biến trong thế giới Cơ-đốc cho rằn
 
 Gióp 38:4–7 cho thấy các thiên sứ là một loài thọ tạo riêng biệt, đã tồn tại trước khi loài người được tạo dựng. Đức Chúa Trời hỏi Gióp:
 
-> "Khi ta đặt nền trái đất, ngươi ở đâu?... Khi các sao mai cùng nhau hát hòa, và các con trai Đức Chúa Trời cất tiếng reo mừng."
+> "Khi ta đặt nền trái đất, ngươi ở đâu?… Khi các sao mai cùng nhau hát hòa, và các con trai Đức Chúa Trời cất tiếng reo mừng."
 
 Như vậy, khi Đức Chúa Trời tạo dựng trái đất, các thiên sứ đã có mặt và reo mừng. Họ là một bậc thọ tạo tồn tại trước thế giới này.
 
@@ -88,7 +88,7 @@ Khải Huyền 11:19 xác nhận có một đền thờ trên trời với hòm 
 
 Ê-sai 14:12–14 phơi bày lòng kiêu ngạo của Lu-xi-phe:
 
-> "Ngươi vẫn bụng bảo dạ rằng: Ta sẽ lên trời, sẽ nhắc ngai ta lên trên các ngôi sao Đức Chúa Trời... Ta sẽ làm ra mình bằng Đấng Rất Cao."
+> "Ngươi vẫn bụng bảo dạ rằng: Ta sẽ lên trời, sẽ nhắc ngai ta lên trên các ngôi sao Đức Chúa Trời… Ta sẽ làm ra mình bằng Đấng Rất Cao."
 
 Từ khóa ở đây là "Ta". Ông không còn muốn Đức Chúa Trời cai trị; ông muốn chiếm lấy chính phủ của vũ trụ. Cùng cám dỗ này về sau được dùng với Ê-va: "Các ngươi sẽ như Đức Chúa Trời." Cám dỗ trên đất chỉ là bản sao của những gì đã xảy ra trên trời.
 
@@ -104,7 +104,7 @@ Từ "buôn bán" trong Ê-xê-chi-ên 28:16 cùng gốc với từ được d�
 
 Ở trang 499 cuốn *The Great Controversy*, Ellen White viết:
 
-> "Ông lặp đi lặp lại lời tuyên bố rằng các thiên sứ không cần ai kiểm soát, mà nên được để cho theo ý riêng mình... Ông tố cáo các quy chế thiêng liêng là sự hạn chế tự do của họ, và tuyên bố mục đích của ông là đảm bảo việc bãi bỏ luật pháp."
+> "Ông lặp đi lặp lại lời tuyên bố rằng các thiên sứ không cần ai kiểm soát, mà nên được để cho theo ý riêng mình… Ông tố cáo các quy chế thiêng liêng là sự hạn chế tự do của họ, và tuyên bố mục đích của ông là đảm bảo việc bãi bỏ luật pháp."
 
 Nếu hôm nay có ai dạy rằng luật pháp đã bị đóng đinh trên thập tự giá hoặc đã bị bãi bỏ, đó chính là sự lặp lại những lời dối trá của cha sự nói dối.
 
@@ -132,7 +132,7 @@ Ma-la-chi 4:1–3 báo trước hồi kết của Lu-xi-phe và những kẻ the
 
 Ê-xê-chi-ên 28:18–19 mô tả số phận cuối cùng:
 
-> "Ta sẽ khiến lửa ra từ giữa ngươi; nó sẽ thiêu nuốt ngươi, và ta sẽ làm cho ngươi trở nên tro trên đất... ngươi sẽ không còn nữa đời đời."
+> "Ta sẽ khiến lửa ra từ giữa ngươi; nó sẽ thiêu nuốt ngươi, và ta sẽ làm cho ngươi trở nên tro trên đất… ngươi sẽ không còn nữa đời đời."
 
 Na-hum 1:9 hứa rằng "sự hoạn nạn sẽ chẳng nổi dậy lần thứ hai". Khải Huyền 21:4 kết thúc câu chuyện: Đức Chúa Trời sẽ lau ráo nước mắt khỏi mắt họ, sẽ không còn sự chết, cũng không còn than khóc, kêu ca hay đau đớn nữa.
 

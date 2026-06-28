@@ -20,7 +20,7 @@ Bài giảng hôm nay là bài kế tiếp trong loạt về những niềm tin 
 
 ## Phần Kinh Thánh: Xuất Ê-díp-tô Ký 40
 
-Đức Giê-hô-va phán với Môi-se: "Ngày mồng một tháng giêng, ngươi sẽ dựng đền tạm. Hãy để hòm bảng chứng trong đó và lấy màn che hòm đi. Cũng hãy đem bàn vào, sắp đặt các đồ trên bàn cho có thứ tự, cùng chân đèn và thắp các đèn. Đặt bàn thờ bằng vàng để xông hương trước hòm bảng chứng, rồi xủ tấm màn nơi cửa đền tạm. Cũng hãy để bàn thờ về của lễ thiêu đằng trước cửa đền tạm, và để cái thùng ở giữa khoảng hội mạc và bàn thờ; rồi đổ nước vào... Hãy lấy dầu xức mà xức đền tạm và các đồ ở trong, rồi biệt riêng đền tạm ra thánh, thì sẽ làm thánh vậy. Cũng hãy xức dầu bàn thờ về của lễ thiêu, và các đồ phụ tùng của bàn thờ; rồi biệt riêng ra thánh, thì bàn thờ sẽ làm rất thánh."
+Đức Giê-hô-va phán với Môi-se: "Ngày mồng một tháng giêng, ngươi sẽ dựng đền tạm. Hãy để hòm bảng chứng trong đó và lấy màn che hòm đi. Cũng hãy đem bàn vào, sắp đặt các đồ trên bàn cho có thứ tự, cùng chân đèn và thắp các đèn. Đặt bàn thờ bằng vàng để xông hương trước hòm bảng chứng, rồi xủ tấm màn nơi cửa đền tạm. Cũng hãy để bàn thờ về của lễ thiêu đằng trước cửa đền tạm, và để cái thùng ở giữa khoảng hội mạc và bàn thờ; rồi đổ nước vào… Hãy lấy dầu xức mà xức đền tạm và các đồ ở trong, rồi biệt riêng đền tạm ra thánh, thì sẽ làm thánh vậy. Cũng hãy xức dầu bàn thờ về của lễ thiêu, và các đồ phụ tùng của bàn thờ; rồi biệt riêng ra thánh, thì bàn thờ sẽ làm rất thánh."
 
 Bốn điểm chính trong bài giảng: nền tảng từ Sáng Thế Ký và Xuất Ê-díp-tô Ký; lịch quốc gia mới của dân Hê-bơ-rơ; **vị trí trung tâm của bàn thờ sinh tế**; và lễ tấn phong đền thánh và các thầy tế lễ.
 
@@ -56,7 +56,7 @@ Có điều Mục sư gọi là **"sự khó xử thiêng liêng"**: một mặt
 
 Câu hỏi: **đồ vật nào trong đền thánh là thánh nhất?** Đa số người Cơ-đốc, kể cả các mục sư, sẽ trả lời ngay: hòm giao ước. Nhưng Kinh Thánh nói khác.
 
-Hãy đọc kỹ Xuất 40:9-10: "Hãy lấy dầu xức mà xức đền tạm và các đồ ở trong... thì sẽ làm thánh vậy. Cũng hãy xức dầu bàn thờ về của lễ thiêu... rồi biệt riêng ra thánh, thì **bàn thờ sẽ làm rất thánh**." Rất thánh — most holy. Không phải hòm giao ước, mà là **bàn thờ sinh tế** mới được gọi là chí thánh.
+Hãy đọc kỹ Xuất 40:9-10: "Hãy lấy dầu xức mà xức đền tạm và các đồ ở trong… thì sẽ làm thánh vậy. Cũng hãy xức dầu bàn thờ về của lễ thiêu… rồi biệt riêng ra thánh, thì **bàn thờ sẽ làm rất thánh**." Rất thánh — most holy. Không phải hòm giao ước, mà là **bàn thờ sinh tế** mới được gọi là chí thánh.
 
 Và Xuất 29:37 giải thích lý do: "Trong bảy ngày ngươi sẽ làm lễ chuộc tội cho bàn thờ và biệt nó riêng ra thánh; rồi bàn thờ sẽ trở nên rất thánh, **phàm vật chi đụng đến đều sẽ được nên thánh vậy**." Đó chính là câu trả lời: điều gì đụng đến bàn thờ sinh tế sẽ trở nên thánh — và điều đang đụng đến nó chính là **sự chuộc tội**.
 

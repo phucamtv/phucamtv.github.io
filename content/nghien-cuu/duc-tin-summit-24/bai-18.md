@@ -39,7 +39,7 @@ Bà Ellen White đã được bày tỏ trước về cuộc khủng hoảng nà
 
 Đây không chỉ là vấn đề thần học suông — đây là vấn đề liên quan đến sự cứu rỗi. Bà cũng thấy một số người bước lên nền tảng và vui mừng, nhưng những người khác bắt đầu tìm lỗi nơi nền tảng và muốn cải tiến nó. Họ nói: *"Sứ điệp này không thân thiện với khách. Sứ điệp này không tốt cho công cuộc truyền giáo."* Như thể chúng ta khôn ngoan hơn Đức Chúa Trời để đề nghị cải tiến điều mà Chúa đã ban cho.
 
-Trong *Counsels to Writers and Editors* trang 53, bà viết: *"Trong tương lai, mọi loại lừa dối sẽ trỗi lên, và chúng ta cần đất vững chắc dưới chân... Kẻ thù sẽ đem đến những lý thuyết sai lầm, chẳng hạn như giáo lý cho rằng không có đền thánh. Đây là một trong những điểm mà người ta sẽ lìa bỏ đức tin."*
+Trong *Counsels to Writers and Editors* trang 53, bà viết: *"Trong tương lai, mọi loại lừa dối sẽ trỗi lên, và chúng ta cần đất vững chắc dưới chân… Kẻ thù sẽ đem đến những lý thuyết sai lầm, chẳng hạn như giáo lý cho rằng không có đền thánh. Đây là một trong những điểm mà người ta sẽ lìa bỏ đức tin."*
 
 ---
 

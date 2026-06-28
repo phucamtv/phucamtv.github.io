@@ -73,7 +73,7 @@ Nếu chúng ta không nhìn biết đúng Đức Chúa Trời, không nhìn bi�
 
 Đa-ni-ên chương 7 cho chúng ta một hình ảnh khác về sự vinh hiển của Đấng Thượng Cổ:
 
-> "Áo Ngài trắng như tuyết, tóc trên đầu Ngài như lông chiên sạch; ngôi Ngài là những ngọn lửa... Hàng ngàn hầu hạ Ngài, và muôn muôn đứng trước mặt Ngài." -- Đa-ni-ên 7:9-10
+> "Áo Ngài trắng như tuyết, tóc trên đầu Ngài như lông chiên sạch; ngôi Ngài là những ngọn lửa… Hàng ngàn hầu hạ Ngài, và muôn muôn đứng trước mặt Ngài." -- Đa-ni-ên 7:9-10
 
 Sự vinh hiển của Đức Chúa Trời không phải điều bình thường -- nó vô cùng lớn lao, và Ngài không bao giờ nhường sự vinh hiển ấy cho bất kỳ ai.
 

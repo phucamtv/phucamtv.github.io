@@ -46,7 +46,7 @@ Những việc làm tốt là đáng trân trọng, nhưng càng được tôn t
 
 Ngài là Đấng thấy trong chỗ kín nhiệm, và Ngài chỉ thích ban thưởng cho kẻ thực hiện việc tốt trong chỗ kín nhiệm mà thôi. Kinh Thánh viết rõ ràng:
 
-> *"Hãy giữ, đừng làm sự công bình mình trước mặt người ta cho họ đều thấy. Bằng không, thì các ngươi chẳng được phần thưởng gì của Cha các ngươi ở trên trời... Cha ngươi là Đấng thấy trong chỗ kín nhiệm sẽ thưởng cho ngươi."* — Ma-thi-ơ 6:1, 4
+> *"Hãy giữ, đừng làm sự công bình mình trước mặt người ta cho họ đều thấy. Bằng không, thì các ngươi chẳng được phần thưởng gì của Cha các ngươi ở trên trời… Cha ngươi là Đấng thấy trong chỗ kín nhiệm sẽ thưởng cho ngươi."* — Ma-thi-ơ 6:1, 4
 
 ---
 

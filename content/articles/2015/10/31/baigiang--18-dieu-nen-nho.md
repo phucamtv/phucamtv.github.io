@@ -70,7 +70,7 @@ Dù hoàn cảnh có khó khăn đến đâu, đừng để nó biến ta từ n
 
 > *"Đức Chúa Trời ơi, hãy dựng nên trong tôi một lòng trong sạch, và làm cho mới lại trong tôi một thần linh ngay thẳng."* — Thi Thiên 51:10
 
-> *"Hãy mừng rỡ... hãy yên ủi mình, hiệp một tâm tình, ở cho hòa thuận, thì Đức Chúa Trời của sự yêu thương và sự bình an sẽ ở cùng anh em."* — II Cô-rinh-tô 13:11
+> *"Hãy mừng rỡ… hãy yên ủi mình, hiệp một tâm tình, ở cho hòa thuận, thì Đức Chúa Trời của sự yêu thương và sự bình an sẽ ở cùng anh em."* — II Cô-rinh-tô 13:11
 
 > *"Hãy vui mừng trong sự trông cậy, nhịn nhục trong sự hoạn nạn, bền lòng mà cầu nguyện."* — Rô-ma 12:12
 

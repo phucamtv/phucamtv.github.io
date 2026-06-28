@@ -87,7 +87,7 @@ Rồi tin mừng về một Đấng Cứu Thế đã sống lại được đem 
 > "Trong ngày đó, Đức Giê-hô-va sẽ làm Đấng bảo hộ của dân cư Giê-ru-sa-lem, và trong ngày đó kẻ rất yếu trong chúng nó sẽ như Đa-vít, nhà Đa-vít sẽ như Đức Chúa Trời, sẽ như thiên sứ của Đức Giê-hô-va ở trước mặt chúng nó."
 > <cite>(Xa-cha-ri 12:8)</cite>
 
-Mỗi Cơ-đốc nhân thấy nơi anh em mình hình ảnh thiêng liêng của lòng nhân từ và yêu thương. Một mối quan tâm chung ngự trị. Một mục tiêu nuốt chửng mọi điều khác. Mọi tấm lòng đập cùng một nhịp. Tham vọng duy nhất của các tín hữu là bày tỏ hình ảnh của bản tánh Đấng Christ, và lao nhọc để mở rộng vương quốc của Ngài. "Vả, người tin theo đông lắm, cứ một lòng một ý cùng nhau.... Các sứ đồ lại lấy quyền phép rất lớn mà làm chứng về sự sống lại của Đức Chúa Giê-su Christ; và hết thảy đều được phước lớn."
+Mỗi Cơ-đốc nhân thấy nơi anh em mình hình ảnh thiêng liêng của lòng nhân từ và yêu thương. Một mối quan tâm chung ngự trị. Một mục tiêu nuốt chửng mọi điều khác. Mọi tấm lòng đập cùng một nhịp. Tham vọng duy nhất của các tín hữu là bày tỏ hình ảnh của bản tánh Đấng Christ, và lao nhọc để mở rộng vương quốc của Ngài. "Vả, người tin theo đông lắm, cứ một lòng một ý cùng nhau.… Các sứ đồ lại lấy quyền phép rất lớn mà làm chứng về sự sống lại của Đức Chúa Giê-su Christ; và hết thảy đều được phước lớn."
 
 > "Vả, người tin theo đông lắm, cứ một lòng một ý cùng nhau. Chẳng ai kể của mình là của riêng; nhưng kể mọi vật là của chung cho nhau. Các sứ đồ lại lấy quyền phép rất lớn mà làm chứng về sự sống lại của Đức Chúa Giê-su Cơ-đốc; và hết thảy đều được phước lớn."
 > <cite>(Công-vụ các Sứ-đồ 4:32,33)</cite>

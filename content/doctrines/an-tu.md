@@ -6,10 +6,10 @@ weight: 17
 
 ## Câu gốc
 
-> “Đức Thánh Linh tỏ ra trong mỗi một người, cho ai nấy đều được sự ích chung... Mọi đều đó là công việc của đồng một Đức Thánh Linh mà thôi, theo ý Ngài muốn, phân phát sự ban cho riêng cho mỗi người.” (1 Cô-rinh-tô 12:7, 11)
+> “Đức Thánh Linh tỏ ra trong mỗi một người, cho ai nấy đều được sự ích chung… Mọi đều đó là công việc của đồng một Đức Thánh Linh mà thôi, theo ý Ngài muốn, phân phát sự ban cho riêng cho mỗi người.” (1 Cô-rinh-tô 12:7, 11)
 
 
-Thiên Chúa ban cho tất cả tín hữu trong Hội Thánh của Ngài ở mọi thời đại những ân tứ (tài năng) thiêng liêng, mà mỗi tín hữu cần phải sử dụng trong tình yêu thương để phục vụ đem lại lợi ích chung cho Hội Thánh và nhân loại. Ân tứ thiêng liêng được ban cho qua Đức Thánh Linh là Đấng ban phát cho mỗi người *tùy theo ý ngài mong muốn.* Những ân tứ nầy cung cấp những tài năng và phương tiện truyền giáo cần thiết cho Hội Thánh hầu chu tất sứ mạng thiêng liêng Chúa phó thác. Theo Thánh Kinh những ân tứ nầy gồm có: đức-tin, chữa bệnh, nói tiên tri, rao giảng, dạy dỗ, hành chánh, giảng hòa, thương xót và hy sinh làm việc thiện để giúp đỡ và khuyến khích người khác, v.v... (Rô-ma 12:6-8; 1 Cô-rinh-tô 12:4-11; Ê-phê-sô 4:11-13).
+Thiên Chúa ban cho tất cả tín hữu trong Hội Thánh của Ngài ở mọi thời đại những ân tứ (tài năng) thiêng liêng, mà mỗi tín hữu cần phải sử dụng trong tình yêu thương để phục vụ đem lại lợi ích chung cho Hội Thánh và nhân loại. Ân tứ thiêng liêng được ban cho qua Đức Thánh Linh là Đấng ban phát cho mỗi người *tùy theo ý ngài mong muốn.* Những ân tứ nầy cung cấp những tài năng và phương tiện truyền giáo cần thiết cho Hội Thánh hầu chu tất sứ mạng thiêng liêng Chúa phó thác. Theo Thánh Kinh những ân tứ nầy gồm có: đức-tin, chữa bệnh, nói tiên tri, rao giảng, dạy dỗ, hành chánh, giảng hòa, thương xót và hy sinh làm việc thiện để giúp đỡ và khuyến khích người khác, v.v… (Rô-ma 12:6-8; 1 Cô-rinh-tô 12:4-11; Ê-phê-sô 4:11-13).
 
 Có những tín hữu trong Hội Thánh được kêu gọi và xức dầu bởi Đức Thánh Linh, được Hội Thánh công nhận để làm mục sư, giảng đạo, truyền giáo, sứ đồ và dạy dỗ hầu trang bị tín hữu để phục vụ, gầy dựng Hội Thánh cho được trưởng thành trong tâm linh và nuôi dưỡng sự hiệp một trong đức-tin cũng như sự hiểu biết về Thiên Chúa. Khi tín hữu sử dụng những ân tứ nầy như những người quản gia trung thành của ơn Thiên Chúa, Hội Thánh sẽ được bảo vệ khỏi những giáo điều giả dối, sẽ phát triển theo tiêu chuẩn của Thiên Chúa và sẽ được gầy dựng trong đức-tin cũng như tình yêu thương.
 

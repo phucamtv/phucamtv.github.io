@@ -42,7 +42,7 @@ Khi phóng viên hỏi: "Nếu được chọn lại — có đủ hai tay hay m
 
 ## Giô-sép — Hiểu Được Kế Hoạch Của Chúa Khi Nhìn Lại
 
-I Cô-rinh-tô 13:12 nói: *"Ngày nay chúng ta xem như trong một cái gương mờ... ngày nay tôi biết chưa hết, nhưng đến bấy giờ tôi sẽ biết như Chúa đã biết tôi vậy."* Nhiều câu hỏi chỉ có lời giải khi gặp Chúa.
+I Cô-rinh-tô 13:12 nói: *"Ngày nay chúng ta xem như trong một cái gương mờ… ngày nay tôi biết chưa hết, nhưng đến bấy giờ tôi sẽ biết như Chúa đã biết tôi vậy."* Nhiều câu hỏi chỉ có lời giải khi gặp Chúa.
 
 Nhưng cũng có những lời giải đến ngay trong đời này. Giô-sép bị anh em quăng xuống hố, bị bán làm nô lệ, bị vu oan vào tù — ông hoàn toàn không biết tại sao. Chỉ đến khi được chọn làm tể tướng, ông mới xâu chuỗi lại mọi thử thách và hiểu rằng Chúa đã rèn luyện ông qua từng bước đường khổ nạn.
 

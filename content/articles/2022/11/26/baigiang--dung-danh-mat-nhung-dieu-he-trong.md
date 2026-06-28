@@ -44,7 +44,7 @@ Nhưng Sam-sôn đã đánh mất chính mình. Khi không còn là chính mình
 
 ## Điều Thứ Hai: Khi Đánh Mất Chính Mình, Chúng Ta Mất Tất Cả
 
-> *"Chỉ hãy giữ lấy ngươi, lo canh cẩn thận linh hồn mình, e ngươi quên những điều mà mắt mình đã thấy... phải dạy cho các con và cháu ngươi."* — Phục-truyền Luật-lệ Ký 4:9
+> *"Chỉ hãy giữ lấy ngươi, lo canh cẩn thận linh hồn mình, e ngươi quên những điều mà mắt mình đã thấy… phải dạy cho các con và cháu ngươi."* — Phục-truyền Luật-lệ Ký 4:9
 
 Đức Chúa Trời hiểu rằng dân sự Ngài có thể đánh mất đức tin. Chính vì thế, Ngài luôn sai các tôi tớ Chúa nhắc nhở dân sự: hãy giữ, hãy cẩn thận, đừng quên những gì Chúa đã làm. Và trách nhiệm không chỉ dừng lại ở bản thân — phải dạy cho con cái và cháu chắt.
 

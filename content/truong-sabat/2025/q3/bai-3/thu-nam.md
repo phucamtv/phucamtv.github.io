@@ -8,7 +8,7 @@ weight: 6
 
 Đức Chúa Trời tự giới thiệu mình với Môi-se Ngài là Đức Giê-hô-va, có nghĩa Ngài là Đức Chúa Trời của từng cá nhân và gần gũi với mọi người, Đức Chúa Trời của dân sự Ngài và là Đức Chúa Trời đã lập giao ước với họ.
 
-Đức Chúa Trời một lần nữa ra lệnh cho Môi-se đi nói chuyện với Pha-ra-ôn. Với sự thiếu tự tin, Môi-se một lần nữa phản ứng, “Tôi là một kẻ vụng miệng,... Pha-ra-ôn há sẽ khứng nghe lời tôi sao?”. Ở đây một lần nữa chúng ta có thể thấy Môi-se không chỉ khiêm nhường mà còn mong muốn thoát khỏi nhiệm vụ hết sức khó khăn, cho đến nay vẫn chưa có tiến triển tốt đẹp nào.
+Đức Chúa Trời một lần nữa ra lệnh cho Môi-se đi nói chuyện với Pha-ra-ôn. Với sự thiếu tự tin, Môi-se một lần nữa phản ứng, “Tôi là một kẻ vụng miệng,… Pha-ra-ôn há sẽ khứng nghe lời tôi sao?”. Ở đây một lần nữa chúng ta có thể thấy Môi-se không chỉ khiêm nhường mà còn mong muốn thoát khỏi nhiệm vụ hết sức khó khăn, cho đến nay vẫn chưa có tiến triển tốt đẹp nào.
 
 “Khi Đức Chúa Trời ra lệnh cho Môi-se quay trở lại với Pha-ra-ôn, Môi-se tỏ ra thiếu tự tin vì ‘vụng miệng’. Thuật ngữ ‘aral sepatayim (uncircumcised lips) - nghĩa đen là ‘môi không cắt bì’, được dùng ở đây để diễn tả khả năng ăn nói kém cỏi của Môi-se (6:12, 30) - tương tự như thuật ngữ được tìm thấy trong Xuất Ê-díp-tô Ký 4:10: ‘nói lắp bắp’ - Andrews Bible Commentary: Old Testament, “Exodus” (Berrien Springs, MI: Andrews University Press, 2020), trang 205.
 

@@ -59,7 +59,7 @@ Gia-cơ 2:10 cũng xác nhận: ai giữ trọn luật pháp mà phạm một đ
 
 ## Khải Huyền 3:18 - Lời Kêu Gọi Mặc Áo Trắng
 
-Chúa khuyên: *"Hãy mua vàng thử lửa... và áo trắng để mặc vào, hầu cho sự xấu hổ về sự trần truồng ngươi khỏi lộ ra."* Sự cứu rỗi che phủ mọi yếu đuối, huyết Đức Chúa Giê-su tẩy sạch mọi lỗi lầm, nhưng chúng ta phải chấp nhận khoác lên mình những luật lệ, quy định của Ngài.
+Chúa khuyên: *"Hãy mua vàng thử lửa… và áo trắng để mặc vào, hầu cho sự xấu hổ về sự trần truồng ngươi khỏi lộ ra."* Sự cứu rỗi che phủ mọi yếu đuối, huyết Đức Chúa Giê-su tẩy sạch mọi lỗi lầm, nhưng chúng ta phải chấp nhận khoác lên mình những luật lệ, quy định của Ngài.
 
 ## Kết Luận
 

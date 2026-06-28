@@ -29,7 +29,7 @@ Hê-bơ-rơ 9:22 viết: "Theo luật pháp thì hầu hết mọi vật đều 
 
 Trong Cựu Ước, người có tội phải dâng con sinh tế, đặt tay lên đầu nó, xưng ra tội lỗi rồi giết nó để thế mạng. Nhưng đó chỉ là hình bóng cho đến khi Chúa Cứu Thế Giê-su xuất hiện. Ngài là Thượng Đế trở thành con người, là của tế lễ trọn vẹn thay thế cho toàn nhân loại. Tất cả tội lỗi được đặt lên Ngài và Ngài chịu chết trên thập tự giá để chúng ta được tha thứ.
 
-Ê-sai 55:7 kêu gọi: "Kẻ ác khá bỏ đường mình, người bất nghĩa khá bỏ các ý tưởng; hãy trở lại cùng Đức Giê-hô-va, Ngài sẽ thương xót cho... vì Ngài tha thứ dồi dào." Mi-chê 7:18 cũng xác nhận: Ngài không cưu giận đời đời, vì Ngài lấy sự nhân từ làm vui thích.
+Ê-sai 55:7 kêu gọi: "Kẻ ác khá bỏ đường mình, người bất nghĩa khá bỏ các ý tưởng; hãy trở lại cùng Đức Giê-hô-va, Ngài sẽ thương xót cho… vì Ngài tha thứ dồi dào." Mi-chê 7:18 cũng xác nhận: Ngài không cưu giận đời đời, vì Ngài lấy sự nhân từ làm vui thích.
 
 Điều quan trọng là chúng ta phải xưng ra tội lỗi với Chúa. Câu chuyện về cậu bé đá banh làm gãy vòi nước minh họa điều này. Cậu giấu lỗi và bị bạn tống tiền suốt nhiều ngày. Nhưng khi cậu thú thật với cha, cha ôm cậu vào lòng và tha thứ. Từ đó cậu không còn sợ hãi nữa. Khi chúng ta nói ra lỗi lầm với Chúa, Ngài sẽ tha thứ và giải phóng chúng ta.
 

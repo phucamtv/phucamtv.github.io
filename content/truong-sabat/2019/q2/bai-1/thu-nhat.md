@@ -4,7 +4,7 @@ title: "Ngay Từ Buổi Ban Đầu"
 dayLabel: "Thứ Nhất"
 weight: 2
 ---
-Kinh Thánh bắt đầu ngay từ sự khởi đầu, không nghi ngờ gì tại sao nó lại bắt đầu bằng từ “ban đầu ...” (Sáng 1:1). Trọng tâm của chương này, tất nhiên, là sự chuyển hóa trái đất từ một trạng thái "vô hình và trống không" (Sáng 1:2) trở thành một thế giới mà chính Thiên Chúa, vào ngày thứ sáu, đã tuyên bố "rất tốt lành" (Sáng 1:31). Tóm lại, sự khởi đầu ở đây là sự khởi đầu của thế giới chúng ta.
+Kinh Thánh bắt đầu ngay từ sự khởi đầu, không nghi ngờ gì tại sao nó lại bắt đầu bằng từ “ban đầu …” (Sáng 1:1). Trọng tâm của chương này, tất nhiên, là sự chuyển hóa trái đất từ một trạng thái "vô hình và trống không" (Sáng 1:2) trở thành một thế giới mà chính Thiên Chúa, vào ngày thứ sáu, đã tuyên bố "rất tốt lành" (Sáng 1:31). Tóm lại, sự khởi đầu ở đây là sự khởi đầu của thế giới chúng ta.
 
 `Đọc Sáng-thế Ký 1. Mặc dù rất nhiều điều đang xảy ra, hãy tự hỏi rằng: Liệu có sự ngẫu nhiên hay cơ hội nào, hoặc là mọi thứ đã được thực hiện một cách rất trật tự với tất cả mọi thứ đúng thời gian và địa điểm của nó? Câu trả lời của bạn nói gì về tính hạnh của Đức Chúa Trời?`
 

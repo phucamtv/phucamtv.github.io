@@ -90,7 +90,7 @@ Trong suốt thời Cựu Ước, Tin Lành được báo trước qua hệ th�
 
 Có hai sự kiện quan trọng về hệ thống hiến tế cần được nhấn mạnh. **Thứ nhất**, thầy tế lễ dâng của lễ phải tuyệt đối không tì vết. Lê-vi Ký 21:17-21 chép rằng không người nào trong dòng dõi A-rôn có tật nguyền — mù, què, mặt méo, gãy chân, gãy tay, gù lưng, lùn, có tật trong mắt, ghẻ, lác — được phép đến gần dâng của lễ.
 
-**Thứ hai**, con sinh tế mà thầy tế lễ dâng cũng phải không tì vết. Lê-vi Ký 22:20-22 chép: "Phàm con thú nào có tì vít, các ngươi chớ dâng lên... mù, què, bị thương, ghẻ chốc, lác hay là có mụt rồi loét, các ngươi chớ dâng cho Đức Giê-hô-va."
+**Thứ hai**, con sinh tế mà thầy tế lễ dâng cũng phải không tì vết. Lê-vi Ký 22:20-22 chép: "Phàm con thú nào có tì vít, các ngươi chớ dâng lên… mù, què, bị thương, ghẻ chốc, lác hay là có mụt rồi loét, các ngươi chớ dâng cho Đức Giê-hô-va."
 
 Tại sao thầy tế lễ phải không tì vết và con sinh tế cũng phải không tì vết? Vì điều này chỉ về phía trước, đến sự kiện Đức Chúa Giê-su sẽ tự cử hành sự hiến tế của chính mình. Nhiều lần trong sách Hê-bơ-rơ, chúng ta được cho biết rằng Đức Chúa Giê-su đã dâng chính mình làm của lễ. Để dâng được của lễ ấy, Ngài phải là một thầy tế lễ không tì vết, và cũng phải là một của lễ không tì vết.
 
@@ -116,7 +116,7 @@ I Giăng 2:2 chép: "Ấy chính Ngài làm của lễ chuộc tội lỗi chún
 
 Vậy nếu Đức Chúa Giê-su đã trả giá cho tội lỗi của cả thế gian, có phải mọi người sẽ được cứu không? Không. Chúng ta đã nói về **món quà Tin Lành**, nhưng Kinh Thánh dạy rằng để hưởng được món quà ấy, chúng ta phải tiếp nhận nó.
 
-Rô-ma 6:23 chép: "Vì tiền công của tội lỗi là sự chết; nhưng sự ban cho của Đức Chúa Trời là sự sống đời đời trong Đức Chúa Giê-su Christ, Chúa chúng ta." Cứu rỗi là một **món quà**. Giăng 3:16 nói tiếp: "...hầu cho hễ ai tin Con ấy không bị hư mất mà được sự sống đời đời."
+Rô-ma 6:23 chép: "Vì tiền công của tội lỗi là sự chết; nhưng sự ban cho của Đức Chúa Trời là sự sống đời đời trong Đức Chúa Giê-su Christ, Chúa chúng ta." Cứu rỗi là một **món quà**. Giăng 3:16 nói tiếp: "…hầu cho hễ ai tin Con ấy không bị hư mất mà được sự sống đời đời."
 
 Hãy minh họa bằng hình ảnh một ngân hàng — gọi là Ngân Hàng Vũ Trụ. Một người vô cùng giàu có, là Đức Chúa Giê-su, gửi đủ tiền vào ngân hàng ấy để mọi người trên đất có thể trả hết mọi món nợ của mình: thẻ tín dụng, tiền nhà, tiền xe, vay học phí. Có đủ tiền trong ngân hàng để giải phóng mọi người khỏi nợ nần. Nhưng có một điều kiện: bạn phải đến ngân hàng và rút tiền ra. Nếu bạn không đến rút, bạn vẫn còn mắc nợ.
 
@@ -132,11 +132,11 @@ Dù Đức Chúa Giê-su đã trả cho mọi tội lỗi và sống đời số
 
 Công Vụ Các Sứ Đồ 2:38 chép: "Hãy hối cải, ai nấy phải nhân danh Đức Chúa Giê-su chịu phép báp-têm, để được tha tội mình, rồi sẽ được lãnh sự ban cho Đức Thánh Linh."
 
-Công Vụ Các Sứ Đồ 5:30-31 chép: "Đức Chúa Trời của tổ phụ chúng ta đã khiến Đức Chúa Giê-su sống lại... Đức Chúa Trời đã đem Đấng ấy lên bên hữu Ngài, làm Vua và Cứu Chúa, để ban lòng ăn năn và sự tha tội cho dân Y-sơ-ra-ên."
+Công Vụ Các Sứ Đồ 5:30-31 chép: "Đức Chúa Trời của tổ phụ chúng ta đã khiến Đức Chúa Giê-su sống lại… Đức Chúa Trời đã đem Đấng ấy lên bên hữu Ngài, làm Vua và Cứu Chúa, để ban lòng ăn năn và sự tha tội cho dân Y-sơ-ra-ên."
 
 Công Vụ Các Sứ Đồ 10:43 chép: "Hết thảy các đấng tiên tri đều làm chứng nầy về Ngài rằng hễ ai tin Ngài thì được sự tha tội vì danh Ngài." Hê-bơ-rơ 7:25 nói: "Ngài có thể cứu toàn vẹn những kẻ nhờ Ngài mà đến gần Đức Chúa Trời." I Giăng 1:9 chép: "Còn nếu chúng ta xưng tội mình, thì Ngài là thành tín công bình để tha tội cho chúng ta, và làm cho chúng ta sạch mọi điều gian ác."
 
-Khi một mục sư đứng lên và nói "chỉ cần tin Đức Chúa Giê-su là bạn sẽ được cứu", điều đó về mặt kỹ thuật không hoàn toàn đúng, vì Kinh Thánh nói rằng "các quỉ cũng tin... và run sợ". Phải có sự ăn năn thống hối, phải có sự xưng tội, và theo Kinh Thánh, phải có báp-têm vào Đấng Christ.
+Khi một mục sư đứng lên và nói "chỉ cần tin Đức Chúa Giê-su là bạn sẽ được cứu", điều đó về mặt kỹ thuật không hoàn toàn đúng, vì Kinh Thánh nói rằng "các quỉ cũng tin… và run sợ". Phải có sự ăn năn thống hối, phải có sự xưng tội, và theo Kinh Thánh, phải có báp-têm vào Đấng Christ.
 
 Ga-la-ti 3:26-27 chép: "Vì chưng anh em bởi tin Đức Chúa Giê-su Christ, nên hết thảy đều là con trai của Đức Chúa Trời. Vả, anh em thảy đều chịu phép báp-têm trong Đấng Christ, đều mặc lấy Đấng Christ." Trong báp-têm, chúng ta mặc lấy Đức Chúa Giê-su, không còn lõa lồ về thuộc linh nữa, mà được mặc bằng chiếc áo công bình hoàn hảo của Đấng Christ.
 
@@ -174,7 +174,7 @@ Khi chúng ta thật sự được biến cải, các việc lành có trong đ�
 
 Gia-cơ 2:14-24 nói rất rõ về điều này:
 
-> "Hỡi anh em, nếu ai nói mình có đức tin, song không có việc làm, thì ích chi chăng? Đức tin đó cứu người ấy được chăng?... Vậy, đức tin cũng vậy, nếu đức tin không sanh ra việc làm, thì tự mình nó chết. Hoặc có kẻ nói: Ngươi có đức tin, còn ta có việc làm. Hãy chỉ cho ta đức tin của ngươi không có việc làm, rồi ta sẽ chỉ cho ngươi đức tin bởi việc làm của ta. Ngươi tin rằng chỉ có một Đức Chúa Trời mà thôi, ngươi tin phải; ma quỉ cũng tin như vậy và run sợ."
+> "Hỡi anh em, nếu ai nói mình có đức tin, song không có việc làm, thì ích chi chăng? Đức tin đó cứu người ấy được chăng?… Vậy, đức tin cũng vậy, nếu đức tin không sanh ra việc làm, thì tự mình nó chết. Hoặc có kẻ nói: Ngươi có đức tin, còn ta có việc làm. Hãy chỉ cho ta đức tin của ngươi không có việc làm, rồi ta sẽ chỉ cho ngươi đức tin bởi việc làm của ta. Ngươi tin rằng chỉ có một Đức Chúa Trời mà thôi, ngươi tin phải; ma quỉ cũng tin như vậy và run sợ."
 
 Ma quỉ tin rằng Đức Chúa Giê-su đã chết trên thập tự, đã sống lại, và sẽ trở lại. Nếu đó là tất cả những gì bạn tin trong trí óc mình, xin lỗi vì phải nói thế, bạn không hơn gì ma quỉ. Đó là điều Gia-cơ đang muốn nói.
 

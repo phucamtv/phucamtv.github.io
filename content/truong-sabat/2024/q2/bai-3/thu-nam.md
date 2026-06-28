@@ -4,7 +4,7 @@ title: "Trận chiến tâm trí"
 dayLabel: "Thứ Năm"
 weight: 6
 ---
-`Đọc II Cô-rinh-tô 4:3-6. Câu Kinh Thánh “... cho những kẻ chẳng tin mà chúa đời này đã làm mù lòng họ” có ý nghĩa gì? Họ bị mù như thế nào? Làm thế nào để họ được mở mắt ra?`
+`Đọc II Cô-rinh-tô 4:3-6. Câu Kinh Thánh “… cho những kẻ chẳng tin mà chúa đời này đã làm mù lòng họ” có ý nghĩa gì? Họ bị mù như thế nào? Làm thế nào để họ được mở mắt ra?`
 
 Theo tiếng Hy-lạp, từ “lòng” \[tâm trí\] trong câu Kinh Thánh trên là “noema”. Nó có nghĩa đen là nhận thức hay là khả năng tinh thần của chúng ta. Quyển Cơ-đốc Phục Lâm Diễn Giải Kinh Thánh đưa ra một tuyên bố làm sáng tỏ ý nghĩa của câu này: “Trận chiến giữa Đấng Cơ-đốc và Sa-tan là trận chiến dành cho tâm trí của loài người. (Rô-ma 7:23,25; 12:2; II Cô-rinh-tô 3:14; 11:3; Phi-líp 2:5;4:7,8). Nguyên tắc hoạt động chính của Sa-tan là khiến tâm trí của con người bị mù quáng hoặc bị mê muội, không còn khả năng phân biệt phải trái, thiện ác. Để đạt được điều này, nó làm mọi cách ngăn cản họ học hỏi Lời Chúa, làm xáo trộn năng lực tâm trí của con người bằng sự quá tải của thể xác lẫn tinh thần, làm cho tâm trí con người bị chiếm hữu hoàn toàn bởi những ham mê vật chất và khiến cho con người trở nên kiêu ngạo, luôn tự đề cao bản thân mình”, Cơ-đốc Phục Lâm Diễn Giải Kinh Thánh quyển 6, trang 854.
 

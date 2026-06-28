@@ -33,7 +33,7 @@ Ba người bạn biết rõ hậu quả, nhưng khi tiếng trống nổi lên,
 
 ### 2. Thờ Phượng Ở Đâu — Người Đàn Bà Sa-ma-ri (Giăng 4:20–24)
 
-Cuộc đối thoại giữa Đức Chúa Giê-su và người phụ nữ Sa-ma-ri bên giếng nước đề cập trực tiếp vấn đề địa điểm thờ phượng. Bà hỏi: thờ phượng trên núi này hay tại Giê-ru-sa-lem? Đức Chúa Giê-su trả lời dứt khoát: *"Giờ đến... khi những kẻ thờ phượng thật lấy tâm thần và lẽ thật mà thờ phượng Cha."*
+Cuộc đối thoại giữa Đức Chúa Giê-su và người phụ nữ Sa-ma-ri bên giếng nước đề cập trực tiếp vấn đề địa điểm thờ phượng. Bà hỏi: thờ phượng trên núi này hay tại Giê-ru-sa-lem? Đức Chúa Giê-su trả lời dứt khoát: *"Giờ đến… khi những kẻ thờ phượng thật lấy tâm thần và lẽ thật mà thờ phượng Cha."*
 
 Sự thờ phượng thật không bị giới hạn bởi địa lý hay nghi lễ bên ngoài. Điều Đức Chúa Trời tìm kiếm là thái độ tâm linh bên trong — một tấm lòng thành thật, không phải một nơi chốn nhất định.
 

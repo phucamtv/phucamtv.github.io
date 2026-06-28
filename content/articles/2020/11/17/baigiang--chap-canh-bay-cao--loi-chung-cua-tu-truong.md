@@ -38,7 +38,7 @@ Người nào chưa cảm biết nỗi thống khổ của một tội nhân —
 
 ## Từ Nô Lệ Tội Lỗi Đến Tôi Mọi Sự Công Bình
 
-Sứ đồ Phao-lô đã viết trong thư Rô-ma đoạn 6, câu 18-19: "Vậy, anh em đã được buông tha khỏi tội lỗi, trở nên tôi mọi của sự công bình rồi... Anh em từng đặt chi thể mình làm tôi sự ô uế, thì bây giờ hãy đặt chi thể mình làm tôi sự công bình."
+Sứ đồ Phao-lô đã viết trong thư Rô-ma đoạn 6, câu 18-19: "Vậy, anh em đã được buông tha khỏi tội lỗi, trở nên tôi mọi của sự công bình rồi… Anh em từng đặt chi thể mình làm tôi sự ô uế, thì bây giờ hãy đặt chi thể mình làm tôi sự công bình."
 
 Đây là lời kêu gọi mạnh mẽ dành cho mỗi người đã được Chúa giải cứu. Trước kia, chúng ta là nô lệ của tội lỗi, bị giam cầm trong vòng lửa hủy diệt không lối thoát. Nhưng khi Đức Chúa Giê-su đưa tay kéo chúng ta ra, chúng ta được tự do — không phải để quay lại đời sống cũ, mà để sống một đời sống mới phục vụ sự công bình.
 

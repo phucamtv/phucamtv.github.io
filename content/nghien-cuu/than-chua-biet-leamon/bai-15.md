@@ -68,7 +68,7 @@ Nếu bạn còn phân vân không biết mình có thật sự yêu mến Đứ
 
 ## Lời cầu nguyện cho sự hiệp một
 
-> "Con chẳng những vì họ mà cầu xin thôi đâu, nhưng cũng vì kẻ sẽ nghe lời họ mà tin đến Con nữa, để cho ai nấy hiệp làm một..." *(Giăng 17:20–21)*
+> "Con chẳng những vì họ mà cầu xin thôi đâu, nhưng cũng vì kẻ sẽ nghe lời họ mà tin đến Con nữa, để cho ai nấy hiệp làm một…" *(Giăng 17:20–21)*
 
 Đây là một trong những đoạn cảm động nhất. Đức Chúa Giê-su đang cầu nguyện cho **chúng ta** — những người tin Ngài qua lời chứng của các sứ đồ. Có một "mệnh lệnh thường trực" đã được ban ra cho các thiên sứ: hãy đến tiếp cứu khi con cái Đức Chúa Trời cần giúp đỡ.
 

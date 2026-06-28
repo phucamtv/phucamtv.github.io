@@ -28,7 +28,7 @@ Thầy cảm thấy nhẹ nhõm trong lòng. Cả lớp im lặng một chút, r
 
 Thầy vỗ bàn quát hỏi: *"Tại sao các em cười?"*
 
-Một học sinh đứng lên, xin thầy tha lỗi rồi giải thích: *"Thưa thầy, trước đây chúng em gọi thầy là 'thầy Thấy'. Nay thầy đổi tên là Thắng. Nếu lỡ có đứa nào vô phép gọi 'thằng Thắng' thì hóa ra lại là... thằng thấy!"*
+Một học sinh đứng lên, xin thầy tha lỗi rồi giải thích: *"Thưa thầy, trước đây chúng em gọi thầy là 'thầy Thấy'. Nay thầy đổi tên là Thắng. Nếu lỡ có đứa nào vô phép gọi 'thằng Thắng' thì hóa ra lại là… thằng thấy!"*
 
 Thầy muốn đổi cho tốt hơn, nhưng lại hóa ra xấu hơn. Từ "thầy Thấy" lại trở thành "thằng thấy" — càng sửa càng tệ!
 

@@ -40,7 +40,7 @@ Trong Ma-thi-ơ 22:1-10, dụ ngôn tiệc cưới minh họa rõ điều này: 
 
 ## Nền Tảng Của Hội Thánh: Lời Xưng Nhận Về Đức Chúa Giê-su
 
-Trong Ma-thi-ơ 16:13-19, Đức Chúa Giê-su hỏi các môn đồ: "Theo lời người ta nói, Con Người là ai?" Sau nhiều câu trả lời, Si-môn Phi-e-rơ xưng nhận: "Chúa là Đấng Christ, Con Đức Chúa Trời Hằng Sống." Đức Chúa Giê-su phán: "Ngươi có phước vì chẳng phải thịt và máu tỏ cho ngươi biết điều này đâu, mà là Cha Ta ở trên trời... Ta sẽ lập Hội Thánh Ta trên đá này."
+Trong Ma-thi-ơ 16:13-19, Đức Chúa Giê-su hỏi các môn đồ: "Theo lời người ta nói, Con Người là ai?" Sau nhiều câu trả lời, Si-môn Phi-e-rơ xưng nhận: "Chúa là Đấng Christ, Con Đức Chúa Trời Hằng Sống." Đức Chúa Giê-su phán: "Ngươi có phước vì chẳng phải thịt và máu tỏ cho ngươi biết điều này đâu, mà là Cha Ta ở trên trời… Ta sẽ lập Hội Thánh Ta trên đá này."
 
 Nền tảng của Hội Thánh là lời xưng nhận rằng Đức Chúa Giê-su là Đấng Christ, Con Đức Chúa Trời Hằng Sống — là Vua và là Đấng cứu rỗi duy nhất. Một cộng đồng không dựa trên nền tảng này — dù có nhóm họp, có thờ phượng — không thể được gọi là Hội Thánh theo nghĩa Kinh Thánh. Lời xưng nhận đó không phải từ ý chí của con người mà đến từ sự mặc khải của Đức Chúa Cha.
 

@@ -34,7 +34,7 @@ Thực tế đau buồn là ngày nay nhiều Hội Thánh đã chia rẽ, phân
 
 ## Quyền Thừa Kế Và Sự Đóng Ấn Bằng Đức Thánh Linh (câu 11-14)
 
-> *"Ấy cũng là trong Ngài mà chúng ta đã nên kẻ dự phần kế nghiệp, như đã định trước cho chúng ta được điều đó... hầu cho sự vinh hiển của Ngài nhờ chúng ta là kẻ đã trước nhất đặt sự trông cậy trong Đấng Christ mà được ngợi khen."*
+> *"Ấy cũng là trong Ngài mà chúng ta đã nên kẻ dự phần kế nghiệp, như đã định trước cho chúng ta được điều đó… hầu cho sự vinh hiển của Ngài nhờ chúng ta là kẻ đã trước nhất đặt sự trông cậy trong Đấng Christ mà được ngợi khen."*
 
 Phao-lô nhấn mạnh rằng chúng ta được chọn để thừa hưởng cơ nghiệp cứu rỗi. Dù là con nuôi, chúng ta được nhìn nhận là con trong gia đình Đức Chúa Trời và được thừa kế các cơ nghiệp của Ngài. Đức Chúa Trời cho con người quyền tự do lựa chọn — Ngài không ấn định số phận ai phải hư mất. Ngài biết trước sự lựa chọn của mỗi người, và vì biết trước nên Ngài đã chuẩn bị kế hoạch cứu rỗi qua Đức Chúa Giê-su chết trên thập tự giá.
 

@@ -9,7 +9,7 @@ Kinh Thánh chứa đựng nhiều sứ điệp quý giá về mối quan hệ g
 
 **“Vậy ai tưởng mình đứng, hãy giữ kẻo ngã” (I Cô-rinh-tô 10:12).** Như Sam-sôn, nếu ỷ lại vào chính mình, bạn sẽ gục ngã.
 
-**“Đừng thổi kèn ra trước mặt mình như bọn đạo đức giả... để được người ta tôn vinh” (Ma-thi-ơ 6:2).** Đừng khoe khoang mình là người tốt! Hãy sống khiêm nhường, như Đức Chúa Giê-su đã sống khiêm nhường.
+**“Đừng thổi kèn ra trước mặt mình như bọn đạo đức giả… để được người ta tôn vinh” (Ma-thi-ơ 6:2).** Đừng khoe khoang mình là người tốt! Hãy sống khiêm nhường, như Đức Chúa Giê-su đã sống khiêm nhường.
 
 **“Nhưng Ta phán cùng các ngươi, hễ ai nhìn đàn bà mà ham muốn, thì trong lòng đã phạm tội tà dâm cùng người rồi. Nếu mắt phải làm ngươi phạm tội, hãy móc mà quăng đi” (Ma-thi-ơ 5:28–29).** Hãy làm mọi điều cần thiết để loại bỏ dục vọng khỏi lòng mình, vì đó là một rào cản giữa bạn và Đức Chúa Trời.
 

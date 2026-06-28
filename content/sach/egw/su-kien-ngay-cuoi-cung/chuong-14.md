@@ -30,7 +30,7 @@ Mặc dầu có sự tối tăm thuộc linh và sự xa cách Đức Chúa Tr�
 
 Việc này được thực hiện thế nào? Bằng cách ép buộc loài người chấp nhận một ngày sa-bát giả tạo.—Testimonies for the Church 8:94 (1904). LDE 198.2
 
-Tuy nhiên, hiện nay vẫn chưa thể nói rằng... "nó đã làm cho mọi nước uống rượu thạnh nộ về sự dâm dục của nó." Nó chưa khiến mọi nước làm điều này.... LDE 198.3
+Tuy nhiên, hiện nay vẫn chưa thể nói rằng… "nó đã làm cho mọi nước uống rượu thạnh nộ về sự dâm dục của nó." Nó chưa khiến mọi nước làm điều này.… LDE 198.3
 
 Sự sa ngã của Ba-by-lôn chỉ được trọn vẹn khi tình trạng này đến mức độ ấy, và sự liên hiệp giữa Hội Thánh với thế gian được hoàn tất khắp các nước theo Cơ-đốc Giáo. Sự thay đổi này diễn ra từng bước, và sự ứng nghiệm trọn vẹn của
 
@@ -99,7 +99,7 @@ Khi ấy, cũng như trong mùa lễ Ngũ Tuần, dân chúng sẽ nghe lẽ th�
 
 Trong các khải tượng ban đêm, những hình ảnh về một phong trào cải cách lớn lao giữa vòng dân sự Đức Chúa Trời đã diễn ra trước mặt tôi. Nhiều người ngợi khen Đức Chúa Trời. Người bệnh được chữa lành, và những phép lạ khác được thực hiện. Một tinh thần cầu thay được tỏ ra, giống như đã được biểu lộ trước ngày lễ Ngũ Tuần vĩ đại.—Testimonies for the Church 9:126 (1909). LDE 202.4
 
-Công cuộc trọng đại của tin lành sẽ không kết thúc với sự biểu lộ quyền năng của Đức Chúa Trời ít hơn so với lúc khởi đầu. Những lời tiên tri đã được ứng nghiệm trong sự đổ xuống của mưa đầu mùa lúc khởi đầu của tin lành, lại sẽ được ứng nghiệm trong mưa cuối mùa lúc kết thúc.... LDE 203.1
+Công cuộc trọng đại của tin lành sẽ không kết thúc với sự biểu lộ quyền năng của Đức Chúa Trời ít hơn so với lúc khởi đầu. Những lời tiên tri đã được ứng nghiệm trong sự đổ xuống của mưa đầu mùa lúc khởi đầu của tin lành, lại sẽ được ứng nghiệm trong mưa cuối mùa lúc kết thúc.… LDE 203.1
 
 Các tôi tớ của Đức Chúa Trời, với khuôn mặt rạng ngời và chiếu sáng bởi sự dâng mình thánh khiết, sẽ vội vã đi từ nơi này đến nơi khác để rao truyền sứ điệp từ trời. Bởi hàng ngàn tiếng nói, trên khắp thế giới, lời cảnh báo sẽ được loan ra. Những phép lạ sẽ được thực hiện, người bệnh sẽ được chữa lành, và những dấu kỳ phép lạ sẽ theo sau những người tin.—The Great Controversy, 611, 612 (1911). LDE 203.2
 
@@ -115,7 +115,7 @@ Ngài sẽ dấy lên từ giữa những người dân thường những ngư�
 
 ## Những Người Lao Động Được Đức Thánh Linh Trang Bị
 
-Trong công việc trang nghiêm cuối cùng, sẽ có ít vĩ nhân tham dự vào.... Đức Chúa Trời sẽ thực hiện một công việc trong thời đại chúng ta mà ít người mong đợi. Ngài sẽ dấy lên và tôn cao giữa vòng chúng ta những người được dạy dỗ bởi sự xức dầu của Đức Thánh Linh Ngài hơn là bởi sự huấn luyện bên ngoài của các học viện khoa học. Những phương tiện này không đáng bị coi thường hay lên án; chúng được Đức Chúa Trời sắp đặt, nhưng chúng chỉ có thể cung cấp những phẩm chất bên ngoài. Đức Chúa Trời sẽ tỏ ra rằng Ngài không phụ thuộc vào những kẻ phàm trần học rộng và tự cao.—Testimonies for the Church 5:80, 82 (1882). LDE 204.3
+Trong công việc trang nghiêm cuối cùng, sẽ có ít vĩ nhân tham dự vào.… Đức Chúa Trời sẽ thực hiện một công việc trong thời đại chúng ta mà ít người mong đợi. Ngài sẽ dấy lên và tôn cao giữa vòng chúng ta những người được dạy dỗ bởi sự xức dầu của Đức Thánh Linh Ngài hơn là bởi sự huấn luyện bên ngoài của các học viện khoa học. Những phương tiện này không đáng bị coi thường hay lên án; chúng được Đức Chúa Trời sắp đặt, nhưng chúng chỉ có thể cung cấp những phẩm chất bên ngoài. Đức Chúa Trời sẽ tỏ ra rằng Ngài không phụ thuộc vào những kẻ phàm trần học rộng và tự cao.—Testimonies for the Church 5:80, 82 (1882). LDE 204.3
 
 Cho những linh hồn đang tha thiết tìm kiếm sự sáng và vui mừng đón nhận mỗi tia sáng thiên thượng từ Lời thánh Ngài, chỉ cho những người ấy mà sự sáng sẽ được ban cho. Chính qua những linh hồn này mà Đức Chúa Trời sẽ bày tỏ sự sáng và quyền năng sẽ soi sáng cả trái đất bằng sự vinh hiển của Ngài.—Testimonies for the Church 5:729 (1889). LDE 205.1
 
@@ -141,17 +141,17 @@ Khi các đấng thông sáng trên trời thấy rằng loài người không c
 
 Các thiên sứ trên trời đang tác động trên tâm trí loài người để khơi dậy sự tra cứu các chủ đề trong Kinh Thánh. Một công việc lớn lao hơn nhiều so với những gì đã được thực hiện sẽ được hoàn thành, và không một chút vinh hiển nào của công việc đó sẽ thuộc về loài người, vì các thiên sứ phục vụ cho những người sẽ thừa hưởng sự cứu rỗi đang làm việc cả ngày lẫn đêm.—Counsels to Writers and Editors, 140 (1875). LDE 207.1
 
-Có nhiều người trong thế giới chúng ta giống như Cọt-nây.... Như Đức Chúa Trời đã làm việc cho Cọt-nây, thì Ngài cũng làm việc cho những người cầm cờ chân thật này.... Họ sẽ nhận được sự hiểu biết về Đức Chúa Trời như Cọt-nây đã nhận được qua sự viếng thăm của các thiên sứ từ trời.—Letter 197, 1904. LDE 207.2
+Có nhiều người trong thế giới chúng ta giống như Cọt-nây.… Như Đức Chúa Trời đã làm việc cho Cọt-nây, thì Ngài cũng làm việc cho những người cầm cờ chân thật này.… Họ sẽ nhận được sự hiểu biết về Đức Chúa Trời như Cọt-nây đã nhận được qua sự viếng thăm của các thiên sứ từ trời.—Letter 197, 1904. LDE 207.2
 
 Khi quyền năng thiêng liêng kết hợp với nỗ lực của con người, công việc sẽ lan rộng như lửa cháy trong rơm rạ. Đức Chúa Trời sẽ sử dụng những phương tiện mà nguồn gốc của chúng loài người sẽ không thể nhận ra. Các thiên sứ sẽ làm một công việc mà loài người lẽ ra đã có được phước hạnh hoàn thành nếu họ không bỏ bê việc đáp ứng những đòi hỏi của Đức Chúa Trời.—Selected Messages 1:118 (1885). LDE 207.3
 
 ## Phạm Vi Toàn Cầu Của Sự Rao Truyền
 
-Vị thiên sứ hiệp lại trong sự rao truyền sứ điệp của thiên sứ thứ ba sẽ làm cho cả trái đất được sáng rực bởi sự vinh hiển của mình. Một công việc có phạm vi toàn cầu với quyền năng phi thường được báo trước ở đây.... Các tôi tớ của Đức Chúa Trời, với gương mặt rạng rỡ và sáng ngời bởi sự hiến dâng thánh khiết, sẽ vội vàng đi từ nơi này đến nơi khác để rao truyền sứ điệp từ thiên đàng. Bằng hàng ngàn tiếng nói, khắp cả trái đất, lời cảnh báo sẽ được công bố.—The Great Controversy, 611, 612 (1911). LDE 207.4
+Vị thiên sứ hiệp lại trong sự rao truyền sứ điệp của thiên sứ thứ ba sẽ làm cho cả trái đất được sáng rực bởi sự vinh hiển của mình. Một công việc có phạm vi toàn cầu với quyền năng phi thường được báo trước ở đây.… Các tôi tớ của Đức Chúa Trời, với gương mặt rạng rỡ và sáng ngời bởi sự hiến dâng thánh khiết, sẽ vội vàng đi từ nơi này đến nơi khác để rao truyền sứ điệp từ thiên đàng. Bằng hàng ngàn tiếng nói, khắp cả trái đất, lời cảnh báo sẽ được công bố.—The Great Controversy, 611, 612 (1911). LDE 207.4
 
 Sứ điệp của vị thiên sứ theo sau thiên sứ thứ ba bây giờ phải được rao truyền đến mọi nơi trên thế giới. Đó sẽ là sứ điệp của mùa gặt, và cả trái đất sẽ được sáng rực bởi sự vinh hiển của Đức Chúa Trời.—Letter 86, 1900. LDE 208.1
 
-Khi cơn bão bắt bớ thực sự ập xuống trên chúng ta, ... thì bấy giờ sứ điệp của thiên sứ thứ ba sẽ vang dội thành tiếng kêu lớn, và cả trái đất sẽ được chiếu sáng bởi sự vinh hiển của Chúa.—Testimonies for the Church 6:401 (1900). LDE 208.2
+Khi cơn bão bắt bớ thực sự ập xuống trên chúng ta, … thì bấy giờ sứ điệp của thiên sứ thứ ba sẽ vang dội thành tiếng kêu lớn, và cả trái đất sẽ được chiếu sáng bởi sự vinh hiển của Chúa.—Testimonies for the Church 6:401 (1900). LDE 208.2
 
 Tại mỗi thành phố ở Mỹ, lẽ thật phải được rao truyền. Tại mỗi quốc gia trên thế giới, sứ điệp cảnh báo phải được công bố.—The General Conference Bulletin, March 30, 1903. LDE 208.3
 
@@ -205,7 +205,7 @@ sẽ "soi sáng như đuốc trong thế gian."—Prophets and Kings, 188, 189 (
 
 ## Hàng Ngàn Người Trở Lại Đạo Trong Một Ngày
 
-Hàng ngàn người vào giờ thứ mười một sẽ nhìn thấy và thừa nhận lẽ thật.... Những sự trở lại với lẽ thật này sẽ diễn ra với một tốc độ khiến Hội Thánh phải kinh ngạc, và chỉ một mình danh Đức Chúa Trời sẽ được tôn vinh.—Selected Messages 2:16 (1890). LDE 212.1
+Hàng ngàn người vào giờ thứ mười một sẽ nhìn thấy và thừa nhận lẽ thật.… Những sự trở lại với lẽ thật này sẽ diễn ra với một tốc độ khiến Hội Thánh phải kinh ngạc, và chỉ một mình danh Đức Chúa Trời sẽ được tôn vinh.—Selected Messages 2:16 (1890). LDE 212.1
 
 Sẽ có hàng ngàn người trở lại với lẽ thật trong một ngày, là những người vào giờ thứ mười một nhìn thấy và thừa nhận lẽ thật cùng những hoạt động của Đức Thánh Linh.—The Ellen G. White 1888 Materials, 755 (1890). LDE 212.2
 

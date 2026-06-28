@@ -19,7 +19,7 @@ draft: false
 
 Mục sư Dương Quang Thoại mở đầu buổi truyền giảng tại Hà Nội ngày 23 tháng 4 năm 2021 bằng một nhận định thẳng thắn: thế giới chúng ta đang sống ngày càng trở nên tồi tệ hơn. Dù con người không ngừng cố gắng xây dựng một xã hội tốt đẹp, nhưng song hành với đó là vô số điều xấu xa ngày càng nhân rộng.
 
-II Ti-mô-thê 3:1-5 mô tả chính xác thực trạng đó: "Hãy biết rằng trong ngày sau rốt, sẽ có những thời kỳ khó khăn. Vì người ta đều tư kỷ, tham tiền, khoe khoang, xấc xược, hay nói xấu, nghịch cha mẹ, bội bạc, không tin kính..." Đây không phải lời cảnh báo viễn vông — đây là bức tranh mà mỗi người trong chúng ta đang chứng kiến hằng ngày: những đứa con ruồng bỏ cha mẹ, những kẻ đạp trên xác người khác để kiếm tiền, những cuộc đời tan vỡ không hồi phục.
+II Ti-mô-thê 3:1-5 mô tả chính xác thực trạng đó: "Hãy biết rằng trong ngày sau rốt, sẽ có những thời kỳ khó khăn. Vì người ta đều tư kỷ, tham tiền, khoe khoang, xấc xược, hay nói xấu, nghịch cha mẹ, bội bạc, không tin kính…" Đây không phải lời cảnh báo viễn vông — đây là bức tranh mà mỗi người trong chúng ta đang chứng kiến hằng ngày: những đứa con ruồng bỏ cha mẹ, những kẻ đạp trên xác người khác để kiếm tiền, những cuộc đời tan vỡ không hồi phục.
 
 Ma-thi-ơ 24:21 cũng tiên báo rằng sẽ có hoạn nạn lớn chưa từng có kể từ khi trời đất được dựng nên. Chúng ta đang sống trong những ngày đó.
 

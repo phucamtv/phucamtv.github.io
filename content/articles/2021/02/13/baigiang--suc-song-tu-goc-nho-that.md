@@ -16,7 +16,7 @@ draft: false
 
 Giăng 15:1-6 là sứ điệp Đức Chúa Giê-su gửi gắm đến các môn đệ thân yêu — và qua đó, gửi đến toàn thể Hội Thánh của Ngài qua mọi thời đại:
 
-> *"Ta là gốc nho thật, Cha ta là người trồng nho... Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong ta và ta trong họ thì sinh ra lắm trái; vì ngoài ta, các ngươi chẳng làm chi được."*
+> *"Ta là gốc nho thật, Cha ta là người trồng nho… Ta là gốc nho, các ngươi là nhánh. Ai cứ ở trong ta và ta trong họ thì sinh ra lắm trái; vì ngoài ta, các ngươi chẳng làm chi được."*
 
 Trong hình ảnh này, chỉ có ba nhân vật: người làm vườn, gốc nho và nhánh nho — tức là Đức Cha, Đức Chúa Giê-su và chúng ta. Một mối tương quan vô cùng đặc biệt.
 
@@ -42,7 +42,7 @@ Quan trọng hơn, trái không ra từ người trồng nho, không ra từ g�
 
 Câu 4 là trọng tâm của toàn bộ phân đoạn:
 
-> *"Hãy cứ ở trong ta, thì ta sẽ ở trong các ngươi. Như nhánh nho, nếu không dính vào gốc nho, thì không tự mình kết quả được..."*
+> *"Hãy cứ ở trong ta, thì ta sẽ ở trong các ngươi. Như nhánh nho, nếu không dính vào gốc nho, thì không tự mình kết quả được…"*
 
 Chữ **"cứ"** mang ý nghĩa rất sâu sắc — đó là một tình trạng liên tục, không gián đoạn. Không phải ở trong Chúa được vài ngày rồi lại bước ra; không phải lúc kết nối lúc không. Đèn mà cứ chớp tắt chớp tắt thì chịu không nổi; tủ lạnh mà điện lúc có lúc không thì hỏng ngay. Đời sống tâm linh gián đoạn cũng vậy — không thể kết quả bền vững được.
 

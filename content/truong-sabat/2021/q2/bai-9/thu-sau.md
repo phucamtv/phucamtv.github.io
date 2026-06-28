@@ -12,7 +12,7 @@ Mười điều răn xác định một cách toàn diện và cơ bản các m�
 
 “Sự nên thánh của Thánh Linh báo hiệu sự khác biệt giữa những người có dấu ấn của Đức Chúa Trời và những người giữ ngày nghỉ giả.”
 
-“Khi thử thách đến, nó sẽ được hiển thị rõ ràng dấu ấn của con thú là gì. Đó là việc giữ ngày chủ nhật...”
+“Khi thử thách đến, nó sẽ được hiển thị rõ ràng dấu ấn của con thú là gì. Đó là việc giữ ngày chủ nhật…”
 
 “Đức Giê-hô-va phán rằng thứ bảy là ngày Sa-bát thánh của ta” (Xuất Ê-díp-tô Ký 31:13,17,16).
 

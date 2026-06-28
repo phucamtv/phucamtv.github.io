@@ -22,7 +22,7 @@ Giai đoạn thứ nhất là con thú rồng cai trị đơn độc, không có
 
 Giai đoạn thứ hai là khi mười sừng trỗi lên. Đa-ni-ên 7:24 nói: *"Mười cái sừng là mười vua sẽ dấy lên từ nước đó."* Đây là giai đoạn Đế Quốc Rô-ma bị chia cắt thành mười vương quốc do hậu quả của các cuộc xâm lăng man di từ phương bắc, hoàn tất vào năm 476 SCN. Mười vương quốc này về sau hình thành nên Tây Âu.
 
-Giai đoạn thứ ba là khi một cái sừng nhỏ trỗi lên giữa mười sừng đó. Đa-ni-ên 7:24-25 mô tả: *"Sau những vua đó sẽ có một vua dấy lên... vua đó sẽ nói những lời phạm đến Đấng Rất Cao, làm hao mòn các thánh của Đấng Rất Cao... Các thánh sẽ bị phó trong tay người cho đến một kỳ, những kỳ, và nửa kỳ."*
+Giai đoạn thứ ba là khi một cái sừng nhỏ trỗi lên giữa mười sừng đó. Đa-ni-ên 7:24-25 mô tả: *"Sau những vua đó sẽ có một vua dấy lên… vua đó sẽ nói những lời phạm đến Đấng Rất Cao, làm hao mòn các thánh của Đấng Rất Cao… Các thánh sẽ bị phó trong tay người cho đến một kỳ, những kỳ, và nửa kỳ."*
 
 Giai đoạn thứ tư — như chúng ta sẽ thấy — là khi cái sừng nhỏ trỗi lên một lần nữa vào thời kỳ cuối cùng sau khi đã bị mất quyền lực.
 
@@ -79,7 +79,7 @@ Vậy thanh gươm này là gì? Trong Kinh Thánh, gươm có hai ý nghĩa kh�
 
 Nhưng đây không phải thanh gươm đã làm bị thương con thú, vì hệ thống giáo hoàng không dùng Kinh Thánh để giết người — ngược lại, hệ thống này đã cấm đọc Kinh Thánh trong một thời gian dài.
 
-Thanh gươm thứ hai được mô tả trong Rô-ma 13:1-4: *"Mọi người phải vâng phục các đấng cầm quyền trên mình... vì người là chức việc của Đức Chúa Trời để làm ích cho ngươi. Song nếu ngươi làm ác, thì hãy sợ, vì người cầm gươm chẳng phải là vô cớ."* Đây là thanh gươm trong tay quyền lực dân sự — quyền lực nhà nước trừng phạt những vi phạm luật dân sự.
+Thanh gươm thứ hai được mô tả trong Rô-ma 13:1-4: *"Mọi người phải vâng phục các đấng cầm quyền trên mình… vì người là chức việc của Đức Chúa Trời để làm ích cho ngươi. Song nếu ngươi làm ác, thì hãy sợ, vì người cầm gươm chẳng phải là vô cớ."* Đây là thanh gươm trong tay quyền lực dân sự — quyền lực nhà nước trừng phạt những vi phạm luật dân sự.
 
 Đức Chúa Giê-su nhìn nhận hai vương quốc và hai thanh gươm. Khi Phi-e-rơ rút gươm trong vườn Ghết-sê-ma-nê, Đức Chúa Giê-su quở trách: *"Hãy nạp gươm vào vỏ; vì hễ ai cầm gươm thì sẽ bị chết vì gươm"* (Ma-thi-ơ 26:52). Trước Phi-lát, Ngài tuyên bố: *"Nước của ta chẳng phải thuộc về thế gian này. Ví bằng nước ta thuộc về thế gian này, thì tôi tớ của ta sẽ đánh trận"* (Giăng 18:36).
 
@@ -91,7 +91,7 @@ Vết thương chí mạng vì vậy không gì khác hơn là việc thanh gư�
 
 Vậy giáo hoàng đã có được thanh gươm bằng cách nào? Giữa các năm 300 và 476 SCN, các cuộc xâm lăng man di đã làm tan rã Đế Quốc Rô-ma. Khi hoàng đế cuối cùng — Romulus Augustulus — bị truất phế năm 476, đế quốc rơi vào hỗn loạn. Trong tình thế đó, các vương quốc man di đã nhờ giám mục Rô-ma đứng ra lập lại trật tự, không chỉ trong vấn đề thuộc linh mà cả trong vấn đề dân sự.
 
-Hồng y Henry Edward Manning của Giáo Hội Công Giáo đã viết: *"Các giáo hoàng thấy mình đứng một mình, là nguồn duy nhất của trật tự, hòa bình, luật pháp và an toàn... khi do sự can thiệp của Đức Chúa Trời, các xiềng xích đã rơi khỏi tay người kế vị Phi-e-rơ."* Manning còn nói: *"Hệ thống giáo hoàng đã chờ đợi cho đến khi Đức Chúa Trời bẻ gãy xiềng xích và giải phóng nó khỏi sự lệ thuộc vào quyền lực dân sự."*
+Hồng y Henry Edward Manning của Giáo Hội Công Giáo đã viết: *"Các giáo hoàng thấy mình đứng một mình, là nguồn duy nhất của trật tự, hòa bình, luật pháp và an toàn… khi do sự can thiệp của Đức Chúa Trời, các xiềng xích đã rơi khỏi tay người kế vị Phi-e-rơ."* Manning còn nói: *"Hệ thống giáo hoàng đã chờ đợi cho đến khi Đức Chúa Trời bẻ gãy xiềng xích và giải phóng nó khỏi sự lệ thuộc vào quyền lực dân sự."*
 
 Đây chính là điều sứ đồ Phao-lô nói đến trong II Tê-sa-lô-ni-ca 2:6-7 về "kẻ ngăn trở" cần phải bị cất đi để con người tội ác được tỏ ra. Các giáo phụ đầu tiên đều đồng ý: kẻ ngăn trở chính là Đế Quốc Rô-ma.
 
@@ -103,7 +103,7 @@ Năm 1302, Giáo Hoàng Boniface VIII ban hành sắc dụ *Unam Sanctam*, trong
 
 Đây chính là điều Khải Huyền 13 mô tả. Hệ thống giáo hoàng không tự mình hành quyết các thánh đồ — như chính Đức Chúa Giê-su không bị Tòa Công Luận hành quyết mà phải qua Phi-lát — mà sử dụng quyền lực dân sự làm công cụ.
 
-Nhà sử học John Fiji nhận xét: *"Vào thời Trung Cổ, Hội Thánh không phải là một nhà nước — nó là Nhà Nước; hay đúng hơn, quyền lực dân sự... chỉ đơn thuần là sở cảnh sát của Hội Thánh."*
+Nhà sử học John Fiji nhận xét: *"Vào thời Trung Cổ, Hội Thánh không phải là một nhà nước — nó là Nhà Nước; hay đúng hơn, quyền lực dân sự… chỉ đơn thuần là sở cảnh sát của Hội Thánh."*
 
 ---
 
@@ -113,7 +113,7 @@ Nếu con thú giết bằng gươm và sẽ bị giết bằng gươm, thì ch�
 
 Cách Mạng Pháp khởi đầu năm 1789 là một phản ứng chống lại sự bất khoan dung của vua chúa và quyền lực bị lạm dụng của hàng giáo phẩm. Ngày 12 tháng 2 năm 1798, tướng Berthier của Napoléon tiến vào Vatican, bắt giam Giáo Hoàng Pius VI, và đưa ông sang Pháp, nơi ông qua đời trong cảnh lưu đày.
 
-Các sử gia thế tục thời ấy đều xác nhận điều mà mọi người đều nghĩ — rằng hệ thống giáo hoàng đã chết: *"Hệ thống giáo hoàng đã tuyệt diệt. Không một dấu vết tồn tại nào còn lại... Thành phố vĩnh hằng không còn vua chúa hay giáo hoàng."* T. H. Gill viết trong sách *The Papal Drama*: *"Vô số người tưởng tượng rằng hệ thống giáo hoàng đang ở bên bờ vực của cái chết."*
+Các sử gia thế tục thời ấy đều xác nhận điều mà mọi người đều nghĩ — rằng hệ thống giáo hoàng đã chết: *"Hệ thống giáo hoàng đã tuyệt diệt. Không một dấu vết tồn tại nào còn lại… Thành phố vĩnh hằng không còn vua chúa hay giáo hoàng."* T. H. Gill viết trong sách *The Papal Drama*: *"Vô số người tưởng tượng rằng hệ thống giáo hoàng đang ở bên bờ vực của cái chết."*
 
 Một điều mỉa mai lịch sử: chính nước Pháp — qua vua Clovis của người Frank năm 508 — là quốc gia đầu tiên trao quyền lực dân sự cho Hội Thánh Công Giáo. Pháp được mệnh danh là *"con gái cả của hệ thống giáo hoàng."* Và chính nước Pháp năm 1798 đã rút lại quyền lực ấy.
 
@@ -123,7 +123,7 @@ Một điều mỉa mai lịch sử: chính nước Pháp — qua vua Clovis c�
 
 Khải Huyền 13:3 nói rằng vết thương chí mạng *sẽ được lành.* Nếu vết thương là việc thanh gươm bị tước khỏi tay con thú, thì sự chữa lành phải là việc thanh gươm được trao trả lại.
 
-Vậy điều gì đang giữ cho vết thương chưa lành? Linh mục Dòng Tên Malachi Martin viết năm 1986: *"Trong 1.500 năm và hơn nữa, Rô-ma đã giữ một bàn tay mạnh mẽ trong từng cộng đồng địa phương khắp thế giới rộng lớn... đó đã là quan điểm của Rô-ma cho đến khi 200 năm bất hoạt bị áp đặt lên hệ thống giáo hoàng bởi các cường quốc thế tục lớn của thế giới."*
+Vậy điều gì đang giữ cho vết thương chưa lành? Linh mục Dòng Tên Malachi Martin viết năm 1986: *"Trong 1.500 năm và hơn nữa, Rô-ma đã giữ một bàn tay mạnh mẽ trong từng cộng đồng địa phương khắp thế giới rộng lớn… đó đã là quan điểm của Rô-ma cho đến khi 200 năm bất hoạt bị áp đặt lên hệ thống giáo hoàng bởi các cường quốc thế tục lớn của thế giới."*
 
 Từ năm 1986 trở về trước 200 năm là thời điểm Cách Mạng Pháp. Chính các cường quốc thế tục đã giữ cho vết thương chưa lành. Một thế kỷ trước Malachi Martin, Ellen White đã viết: *"Hãy để cho những hạn chế hiện đang được áp đặt bởi các chính phủ thế tục được dỡ bỏ, và Rô-ma sẽ được phục hồi quyền lực trước đây của nó, và sẽ nhanh chóng có sự phục hưng của ách bạo ngược và bắt bớ."*
 
@@ -135,7 +135,7 @@ Nhà thần học cải chánh John W. Robbins — không phải là một tín 
 
 Dave Hunt trong sách *A Woman Rides the Beast* nhận định đúng rằng người đàn bà cưỡi con thú tượng trưng cho Hội Thánh Công Giáo Rô-ma, còn con thú tượng trưng cho các quyền lực dân sự của thế giới. Ông viết: *"Tại sao các nhà lãnh đạo thế giới muốn liên kết với Vatican? Các nguyên thủ quốc gia trong thế giới ngày nay đều nhìn nhận rằng giáo hoàng nắm giữ một quyền lực, mà về nhiều phương diện, còn lớn hơn cả quyền lực của họ."*
 
-Malachi Martin trong sách *The Keys of This Blood* nhận diện ba hệ thống đang tranh giành quyền thống trị thế giới: chủ nghĩa tư bản, chủ nghĩa cộng sản, và Công Giáo Rô-ma. Ông viết: *"Mỗi một hệ thống đều có trong tâm trí một thiết kế lớn cho một chính phủ thế giới duy nhất."* Và đáng kinh ngạc hơn, ông tiên đoán: *"Những ai trong chúng ta dưới 70 tuổi sẽ thấy ít nhất là cấu trúc cơ bản của chính phủ thế giới mới được thiết lập... Những ai dưới 40 tuổi chắc chắn sẽ sống dưới quyền lập pháp, hành pháp và tư pháp của nó."*
+Malachi Martin trong sách *The Keys of This Blood* nhận diện ba hệ thống đang tranh giành quyền thống trị thế giới: chủ nghĩa tư bản, chủ nghĩa cộng sản, và Công Giáo Rô-ma. Ông viết: *"Mỗi một hệ thống đều có trong tâm trí một thiết kế lớn cho một chính phủ thế giới duy nhất."* Và đáng kinh ngạc hơn, ông tiên đoán: *"Những ai trong chúng ta dưới 70 tuổi sẽ thấy ít nhất là cấu trúc cơ bản của chính phủ thế giới mới được thiết lập… Những ai dưới 40 tuổi chắc chắn sẽ sống dưới quyền lập pháp, hành pháp và tư pháp của nó."*
 
 ---
 

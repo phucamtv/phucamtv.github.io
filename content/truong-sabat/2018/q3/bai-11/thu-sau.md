@@ -6,7 +6,7 @@ weight: 7
 ---
 NGHIÊN CỨU BỔ TÚC
 
-“Trong dịp này, Phao-lô và những người bạn đồng hành trình bày cho các lãnh đạo tại Giê-ru-sa-lem những đóng góp mà các Hội Thánh người Ngoại đã giúp cho người nghèo trong vòng anh em người Giu-đa...
+“Trong dịp này, Phao-lô và những người bạn đồng hành trình bày cho các lãnh đạo tại Giê-ru-sa-lem những đóng góp mà các Hội Thánh người Ngoại đã giúp cho người nghèo trong vòng anh em người Giu-đa…
 
 Những sự dâng hiến tự nguyện này cho thấy những người Ngoại đã tin Chúa bày tỏ lòng trung thành với công việc của Ngài trên toàn thế giới, và việc này nên được mọi người chấp nhận với lòng biết ơn, thế nhưng, tinh thần bày tỏ tình yêu thương anh em được thể hiện qua những món quà đã không được đánh giá cao, bởi những người đang đứng trước Phao-lô và những người bạn đồng hành của ông” - Ellen G. White, Công Vụ Các Sứ Đồ, trang 399, 400.
 

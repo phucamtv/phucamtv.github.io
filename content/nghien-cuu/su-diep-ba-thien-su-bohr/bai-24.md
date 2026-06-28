@@ -66,7 +66,7 @@ Cảnh tượng này cũng được Đa-ni-ên thấy trước:
 
 Khải Huyền 14:17–20 mô tả mùa gặt thứ hai — mùa gặt của kẻ ác:
 
-> "Một thiên sứ khác từ đền thờ trên trời đi ra, cũng cầm lưỡi liềm bén... Hãy quăng lưỡi liềm bén của ngươi xuống mà hái những chùm nho ở dưới đất, vì nho đã chín rồi." (Khải Huyền 14:17–18)
+> "Một thiên sứ khác từ đền thờ trên trời đi ra, cũng cầm lưỡi liềm bén… Hãy quăng lưỡi liềm bén của ngươi xuống mà hái những chùm nho ở dưới đất, vì nho đã chín rồi." (Khải Huyền 14:17–18)
 
 Điều này nối liền trực tiếp với sứ điệp của thiên sứ thứ ba — sứ điệp cảnh báo rằng ai thờ lạy con thú, thờ lạy hình tượng nó và nhận dấu nó sẽ uống rượu thạnh nộ của Đức Chúa Trời. Khi nho đã hoàn toàn chín, kẻ ác đã hoàn toàn cố định trong sự gian ác của mình; dù có cho thêm hàng triệu năm, họ cũng sẽ không trở nên công bình.
 
@@ -116,7 +116,7 @@ Con số 1.600 dặm không nên được hiểu theo nghĩa đen. Sách Khải 
 
 Cũng vậy, con số 144.000 là 12 × 12 × 1.000 — biểu tượng cho một đoàn người lớn hơn nhiều so với con số theo nghĩa đen.
 
-Ngay cả bộ chú giải Kinh Thánh nổi tiếng của Jamieson, Fausset và Brown — không phải do người Cơ-đốc Phục Lâm viết — cũng nhận ra rằng "1.600 là một số bình phương, bốn nhân bốn nhân một trăm... biểu thị tính phổ quát của sự hủy diệt toàn cầu."
+Ngay cả bộ chú giải Kinh Thánh nổi tiếng của Jamieson, Fausset và Brown — không phải do người Cơ-đốc Phục Lâm viết — cũng nhận ra rằng "1.600 là một số bình phương, bốn nhân bốn nhân một trăm… biểu thị tính phổ quát của sự hủy diệt toàn cầu."
 
 ---
 

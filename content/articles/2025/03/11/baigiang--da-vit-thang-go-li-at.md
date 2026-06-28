@@ -40,7 +40,7 @@ Nhưng Đa-vít không hề run rẩy. Ông bình tĩnh đặt câu hỏi, khôn
 
 > *"Tóc trên đầu các ngươi đã đếm hết rồi. Vậy đừng sợ chi hết, vì các ngươi quý trọng hơn nhiều con chim sẻ."*
 
-Và Đức Chúa Giê-su còn hứa trong Giăng 14:27: *"Ta để sự bình an lại cho các ngươi... Lòng các ngươi chớ bối rối và đừng sợ hãi."*
+Và Đức Chúa Giê-su còn hứa trong Giăng 14:27: *"Ta để sự bình an lại cho các ngươi… Lòng các ngươi chớ bối rối và đừng sợ hãi."*
 
 Trái Thánh Linh bao gồm bình an (Ga-la-ti 5:22). Tình yêu thương trọn vẹn thì **"cất bỏ sự sợ hãi"** (1 Giăng 4:18). Khi chúng ta để Chúa ngự trị, sự sợ hãi không còn chỗ đứng.
 
@@ -66,7 +66,7 @@ Vua Sau-lơ và dân Y-sơ-ra-ên đã mất đức tin. Suốt 40 ngày, không
 
 Trước khi xung trận, Đa-vít tuyên bố rõ ràng với Gô-li-át:
 
-> *"Ngươi cầm gươm, giáo, lao mà đến cùng ta; còn ta, ta nhân danh Đức Giê-hô-va vạn binh mà đến — tức là Đức Chúa Trời của đạo binh Y-sơ-ra-ên mà ngươi đã sỉ nhục. Ngày nay Đức Giê-hô-va sẽ phó ngươi vào tay ta... để khắp thế gian biết rằng Y-sơ-ra-ên có một Đức Chúa Trời."* (câu 45–46)
+> *"Ngươi cầm gươm, giáo, lao mà đến cùng ta; còn ta, ta nhân danh Đức Giê-hô-va vạn binh mà đến — tức là Đức Chúa Trời của đạo binh Y-sơ-ra-ên mà ngươi đã sỉ nhục. Ngày nay Đức Giê-hô-va sẽ phó ngươi vào tay ta… để khắp thế gian biết rằng Y-sơ-ra-ên có một Đức Chúa Trời."* (câu 45–46)
 
 Đây không phải là sự tự tin kiêu ngạo của tuổi trẻ. Đây là **sự xác nhận chủ quyền của Đức Chúa Trời**. Đa-vít không chiến đấu vì danh tiếng cá nhân, không chiến đấu vì phần thưởng của vua Sau-lơ (dù phần thưởng có hấp dẫn). Ông chiến đấu **vì danh Chúa bị sỉ nhục**.
 

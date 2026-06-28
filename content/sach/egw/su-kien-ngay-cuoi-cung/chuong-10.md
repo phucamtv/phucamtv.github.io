@@ -11,7 +11,7 @@ summary: ""
 
 ## Một Thời Kỳ Hoạn Nạn Trước Khi Thời Kỳ Ân Điển Kết Thúc
 
-Trang 33 [của sách Early Writings] có ghi như sau: "... Vào lúc bắt đầu cơn đại nạn, chúng tôi được đầy dẫy Đức Thánh Linh khi đi ra rao giảng về ngày Sa-bát một cách đầy đủ hơn." LDE 143.1
+Trang 33 [của sách Early Writings] có ghi như sau: "… Vào lúc bắt đầu cơn đại nạn, chúng tôi được đầy dẫy Đức Thánh Linh khi đi ra rao giảng về ngày Sa-bát một cách đầy đủ hơn." LDE 143.1
 
 Khải tượng này được ban cho vào năm 1847 khi chỉ có rất ít anh em tín hữu Cơ-đốc Phục Lâm giữ ngày Sa-bát, và trong số đó chỉ có ít người cho rằng việc giữ ngày Sa-bát là đủ quan trọng để vạch ra ranh giới giữa con dân Đức Chúa Trời và những kẻ chẳng tin. Giờ đây sự ứng nghiệm của khải tượng đó đang bắt đầu được thấy. "Lúc bắt đầu của cơn đại nạn" được đề cập ở đây không nói đến thời điểm các tai vạ bắt đầu được đổ ra, mà là một khoảng thời gian ngắn ngay trước khi các tai vạ ấy được đổ ra, trong khi Đấng Christ còn ở trong đền thánh. Vào thời điểm đó, khi công cuộc cứu rỗi đang sắp kết thúc, sự hoạn nạn sẽ giáng trên đất, và các dân các nước sẽ nổi giận, nhưng vẫn bị kìm hãm để không ngăn trở được công việc của vị thiên sứ thứ ba.—Early Writings, 85, 86 (1854). LDE 143.2
 
@@ -29,7 +29,7 @@ Người Tin lành tại Hoa Kỳ sẽ đi đầu trong việc đưa tay qua v�
 
 Tất cả những ai không chịu cúi đầu trước sắc lệnh của các hội đồng quốc gia và tuân theo luật pháp quốc gia nhằm tôn vinh ngày sa-bát do người tội lỗi lập ra, mà coi thường ngày thánh của Đức Chúa Trời, sẽ cảm nhận được không chỉ quyền lực áp bức của giáo hoàng, mà còn của cả thế giới Tin Lành, tức hình tượng của con thú.—Selected Messages 2:380 (1886). LDE 145.1
 
-Các tổ chức tôn giáo nào từ chối lắng nghe những lời cảnh báo của Đức Chúa Trời sẽ bị lừa dối nặng nề và sẽ liên kết với quyền lực dân sự để bắt bớ các thánh đồ. Các Hội Thánh Tin Lành sẽ hiệp với quyền lực giáo hoàng để bắt bớ dân sự của Đức Chúa Trời, là những người tuân giữ các điều răn.... LDE 145.2
+Các tổ chức tôn giáo nào từ chối lắng nghe những lời cảnh báo của Đức Chúa Trời sẽ bị lừa dối nặng nề và sẽ liên kết với quyền lực dân sự để bắt bớ các thánh đồ. Các Hội Thánh Tin Lành sẽ hiệp với quyền lực giáo hoàng để bắt bớ dân sự của Đức Chúa Trời, là những người tuân giữ các điều răn.… LDE 145.2
 
 Quyền lực giống như chiên con này hiệp với con rồng để gây chiến với những người tuân giữ các điều răn của Đức Chúa Trời và có lời chứng của Đức Chúa Giê-su.—Manuscript Releases 14:162 (1899). LDE 145.3
 
@@ -48,7 +48,7 @@ Trong những trường hợp chúng ta bị đưa ra trước các tòa án, ch
 
 ## Những Người Cơ-đốc Phục Lâm Sẽ Bị Đối Xử Khinh Miệt
 
-Cùng một bộ óc chủ mưu đã âm mưu chống lại những người trung tín trong các thời đại đã qua nay vẫn đang tìm cách loại bỏ khỏi mặt đất những người kính sợ Đức Chúa Trời và vâng giữ luật pháp Ngài.... LDE 146.2
+Cùng một bộ óc chủ mưu đã âm mưu chống lại những người trung tín trong các thời đại đã qua nay vẫn đang tìm cách loại bỏ khỏi mặt đất những người kính sợ Đức Chúa Trời và vâng giữ luật pháp Ngài.… LDE 146.2
 
 Của cải, tài năng, học thức sẽ liên kết lại để đổ sự khinh miệt lên họ. Các nhà cầm quyền bắt bớ, các mục sư và các tín hữu Hội Thánh sẽ cấu kết chống lại họ. Bằng lời nói và ngòi bút, bằng sự khoe khoang, đe dọa và chế nhạo, chúng sẽ tìm cách lật đổ đức tin của họ.—Testimonies for the Church 5:450 (1885). LDE 146.3
 
@@ -76,7 +76,7 @@ Thời điểm đang đến khi chúng ta không thể bán với bất cứ gi�
 
 Trong cuộc xung đột lớn cuối cùng trong cuộc tranh đấu với Sa-tan, những ai trung thành với Đức Chúa Trời sẽ thấy mọi sự hỗ trợ trần thế bị cắt đứt. Vì họ từ chối vi phạm luật pháp của Ngài để vâng theo các quyền lực thế gian, nên họ sẽ bị cấm mua hoặc bán.—The Desire of Ages, 121, 122 (1898). LDE 148.4
 
-Sa-tan nói rằng... "Vì sợ thiếu lương thực và áo mặc, chúng sẽ hùa theo thế gian trong việc vi phạm luật pháp Đức Chúa Trời. Trái đất sẽ hoàn toàn nằm dưới quyền thống trị của ta."—Prophets and Kings, 183, 184 (khoảng 1914). LDE 149.1
+Sa-tan nói rằng… "Vì sợ thiếu lương thực và áo mặc, chúng sẽ hùa theo thế gian trong việc vi phạm luật pháp Đức Chúa Trời. Trái đất sẽ hoàn toàn nằm dưới quyền thống trị của ta."—Prophets and Kings, 183, 184 (khoảng 1914). LDE 149.1
 
 ## Một Số Người Bị Cầm Tù Vì Đức Tin Của Mình
 
@@ -96,7 +96,7 @@ Trước mắt chúng ta là viễn cảnh của một cuộc tranh đấu liên
 
 Người ta sẽ bị buộc phải tuân theo các sắc lệnh của loài người vi phạm luật pháp thiêng liêng. Những người trung thành với Đức Chúa Trời sẽ bị đe dọa, tố cáo, cấm đoán. Họ sẽ bị "cha mẹ, anh em, bà con, bạn hữu mình nộp", thậm chí đến chết.—Prophets and Kings, 588 (c. 1914). LDE 150.3
 
-Chúng ta sẽ không có lòng can đảm và sự kiên trì của những người tử đạo thuở xưa cho đến khi chúng ta được đặt vào hoàn cảnh mà họ đã trải qua... Nếu sự bắt bớ tái diễn, ân điển sẽ được ban cho để khơi dậy mọi năng lực của linh hồn nhằm thể hiện một sự dũng cảm thật sự.—Our High Calling, 125 (1889). LDE 150.4
+Chúng ta sẽ không có lòng can đảm và sự kiên trì của những người tử đạo thuở xưa cho đến khi chúng ta được đặt vào hoàn cảnh mà họ đã trải qua… Nếu sự bắt bớ tái diễn, ân điển sẽ được ban cho để khơi dậy mọi năng lực của linh hồn nhằm thể hiện một sự dũng cảm thật sự.—Our High Calling, 125 (1889). LDE 150.4
 
 Các môn đồ đã không được ban cho lòng can đảm và sự kiên trì của những người tử đạo cho đến khi ân điển ấy là cần thiết.—The Desire of Ages, 354 (1898). LDE 150.5
 
@@ -126,11 +126,11 @@ Thỉnh thoảng Chúa đã bày tỏ cách hành động của Ngài. Ngài lư
 
 Khi sự thách thức luật pháp của Đức Giê-hô-va trở nên gần như phổ biến, khi dân sự Ngài bị đồng loại đè ép trong cơn hoạn nạn, Đức Chúa Trời sẽ can thiệp. Những lời cầu nguyện sốt sắng của dân sự Ngài sẽ được nhậm, vì Ngài yêu thích khi dân sự Ngài tìm kiếm Ngài hết lòng và nương cậy nơi Ngài như Đấng Giải Cứu của họ.—The Review and Herald, ngày 15 tháng 6, 1897. LDE 153.1
 
-Trong một thời gian, những kẻ áp bức sẽ được phép đắc thắng trên những ai biết các điều răn thánh của Đức Chúa Trời.... Cho đến cuối cùng, Đức Chúa Trời cho phép Sa-tan bộc lộ bản chất của hắn như một kẻ nói dối, một kẻ tố cáo, và một kẻ giết người. Như vậy, sự đắc thắng cuối cùng của dân sự Ngài được trở nên rõ nét hơn, vinh hiển hơn, đầy đủ và trọn vẹn hơn.—Selected Messages 3:414 (1904). LDE 153.2
+Trong một thời gian, những kẻ áp bức sẽ được phép đắc thắng trên những ai biết các điều răn thánh của Đức Chúa Trời.… Cho đến cuối cùng, Đức Chúa Trời cho phép Sa-tan bộc lộ bản chất của hắn như một kẻ nói dối, một kẻ tố cáo, và một kẻ giết người. Như vậy, sự đắc thắng cuối cùng của dân sự Ngài được trở nên rõ nét hơn, vinh hiển hơn, đầy đủ và trọn vẹn hơn.—Selected Messages 3:414 (1904). LDE 153.2
 
 ## Hoạn Nạn Thanh Tẩy Dân Sự Đức Chúa Trời
 
-Chẳng bao lâu nữa, hoạn nạn sẽ xảy ra khắp thế giới. Mỗi người phải tìm cách nhận biết Đức Chúa Trời. Chúng ta không có thời giờ để chần chừ.... LDE 153.3
+Chẳng bao lâu nữa, hoạn nạn sẽ xảy ra khắp thế giới. Mỗi người phải tìm cách nhận biết Đức Chúa Trời. Chúng ta không có thời giờ để chần chừ.… LDE 153.3
 
 Tình yêu thương của Đức Chúa Trời dành cho Hội Thánh Ngài là vô hạn. Sự chăm sóc của Ngài đối với cơ nghiệp Ngài là không ngừng nghỉ. Ngài không cho phép một hoạn nạn nào đến trên Hội Thánh ngoại trừ những điều cần thiết cho sự thanh tẩy Hội Thánh, vì lợi ích hiện tại và đời đời của Hội Thánh. Ngài sẽ thanh tẩy Hội Thánh Ngài giống như Ngài đã thanh tẩy đền thờ vào lúc khởi đầu và lúc kết thúc chức vụ của Ngài trên đất. Tất cả những gì Ngài đem đến trên Hội Thánh qua sự thử thách và thử luyện đều đến để dân sự Ngài có thể đạt được lòng tin kính sâu sắc hơn và có thêm sức mạnh để mang sự đắc thắng của thập tự giá đến mọi nơi trên thế giới.—Testimonies for the Church 9:228 (1909). LDE 153.4
 

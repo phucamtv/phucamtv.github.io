@@ -44,7 +44,7 @@ Trong câu chuyện ấy xuất hiện một liên minh ba thế lực mà có t
 
 Điều đáng chú ý là phương cách kiểm soát mà lời tiên tri mô tả:
 
-> "Nó cũng khiến mọi người, nhỏ và lớn, giàu và nghèo, tự do và nô lệ, đều phải chịu ghi dấu... hầu cho ai không có dấu ấy thì không thể mua hay bán được." (Khải Huyền 13:16–17)
+> "Nó cũng khiến mọi người, nhỏ và lớn, giàu và nghèo, tự do và nô lệ, đều phải chịu ghi dấu… hầu cho ai không có dấu ấy thì không thể mua hay bán được." (Khải Huyền 13:16–17)
 
 Hãy chú ý ba từ khóa: *mọi người* (toàn cầu), *mua hoặc bán* (kinh tế), và *ngoại trừ* (điểm kiểm soát). Lời tiên tri 2.000 năm tuổi tuyên bố rằng sẽ có một quyền lực có khả năng áp đặt **sự kiểm soát kinh tế toàn cầu**. Trong suốt hai thiên niên kỷ, chưa có vương quốc nào — Rô-ma, Ba-by-lôn, Anh Quốc, Hoa Kỳ — làm được điều này. Lý do đơn giản: không có hệ thống tài chính toàn cầu và không có loại tiền tệ có thể kiểm soát được từ xa.
 
@@ -76,7 +76,7 @@ Nhiều người nhầm lẫn CBDC với hệ thống thanh toán điện tử h
 
 Lời tiên tri Khải Huyền không chỉ nói về kiểm soát kinh tế. Khải Huyền 13:15 mô tả "con thú thứ ba" có quyền "khiến những kẻ không thờ lạy đều phải bị giết" — tức là cưỡng ép thể xác. Trong giai đoạn đại dịch 2020–2022, lần đầu tiên trong lịch sử, gần như cả hành tinh cùng nói một thứ ngôn ngữ: "làm điều này thì được kết quả này, không làm thì sẽ chịu hậu quả kia." Ngôn ngữ ấy chính là ngôn ngữ cưỡng ép, và đã được chấp nhận trên quy mô toàn cầu — điều mà chỉ vài năm trước không ai tin có thể xảy ra.
 
-Mục tiêu cuối cùng theo Khải Huyền không phải tiền bạc, mà là **lòng trung thành thuộc linh**: "cả thế gian đều kinh ngạc đi theo con thú... và họ thờ lạy con rồng." Sử gia Sir Arnold Toynbee, sau khi nghiên cứu sự sụp đổ của các nền văn minh, kết luận rằng xung đột nền tảng không phải chính trị mà là tôn giáo. Mọi cuộc xung đột lớn — từ Bắc Ireland, vùng Balkan, Trung Đông cho đến Kashmir — đều có chiều kích thuộc linh ở đáy.
+Mục tiêu cuối cùng theo Khải Huyền không phải tiền bạc, mà là **lòng trung thành thuộc linh**: "cả thế gian đều kinh ngạc đi theo con thú… và họ thờ lạy con rồng." Sử gia Sir Arnold Toynbee, sau khi nghiên cứu sự sụp đổ của các nền văn minh, kết luận rằng xung đột nền tảng không phải chính trị mà là tôn giáo. Mọi cuộc xung đột lớn — từ Bắc Ireland, vùng Balkan, Trung Đông cho đến Kashmir — đều có chiều kích thuộc linh ở đáy.
 
 Hoa Kỳ được lập quốc trên nguyên tắc tách biệt nhà nước và tôn giáo. Nhưng năm 2022, CNN đưa tin: "Từng viên gạch một, bức tường ngăn cách giữa tôn giáo và chính quyền tại Mỹ đang sụp đổ." Tòa Tối cao Hoa Kỳ đang đảo ngược nhiều phán quyết về sự tách biệt này. Khi nền dân chủ lớn nhất thế giới đang xói mòn ranh giới ấy, các quốc gia khác — kể cả Úc, vốn lấy cảm hứng từ hiến pháp Mỹ — sẽ đi về đâu?
 

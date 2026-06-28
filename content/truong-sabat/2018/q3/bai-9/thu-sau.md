@@ -14,7 +14,7 @@ NGHIÊN CỨU BỔ TÚC
 
 **Câu Hỏi Thảo Luận**:
 
-`Trong đoạn cuối của ngày thứ Hai, hãy thảo luận trong lớp về ý nghĩa của tuyên bố sau: "Cần có sự chuẩn bị kỹ lưỡng hơn về phía các ứng cử viên phép báp-têm ... Các nguyên tắc của đời sống tín hữu phải được làm sáng tỏ cho những người mới đến với lẽ thật" – Ellen G. White, Các lời chứng cho Giáo hội, quyển 6, trang 91, 92.`
+`Trong đoạn cuối của ngày thứ Hai, hãy thảo luận trong lớp về ý nghĩa của tuyên bố sau: "Cần có sự chuẩn bị kỹ lưỡng hơn về phía các ứng cử viên phép báp-têm … Các nguyên tắc của đời sống tín hữu phải được làm sáng tỏ cho những người mới đến với lẽ thật" – Ellen G. White, Các lời chứng cho Giáo hội, quyển 6, trang 91, 92.`
 
 `Trong câu hỏi cuối cùng của ngày thứ Tư, làm thế nào chúng ta có thể thể hiện sự hiểu biết giống như Phao-lô về những khác biệt về văn hoá và sẵn lòng đáp ứng mọi người mà không làm tổn hại đến phúc âm hay bản sắc tôn giáo của chúng ta?`
 

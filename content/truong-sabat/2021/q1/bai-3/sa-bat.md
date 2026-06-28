@@ -6,7 +6,7 @@ weight: 1
 ---
 > Câu gốc
 >
-> “... Nếu các ngươi không tin, chắc chắn sẽ không đứng vững được” (Ê-sai 7:9).
+> “… Nếu các ngươi không tin, chắc chắn sẽ không đứng vững được” (Ê-sai 7:9).
 
 ### Kinh Thánh nghiên cứu
 

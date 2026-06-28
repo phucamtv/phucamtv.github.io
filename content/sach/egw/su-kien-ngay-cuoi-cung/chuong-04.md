@@ -11,11 +11,11 @@ summary: ""
 
 ## Dân Sự Đức Chúa Trời Giữ Các Điều Răn Của Ngài
 
-Đức Chúa Trời có một Hội Thánh trên đất đang nâng cao luật pháp bị giày đạp, và giới thiệu cho thế gian Chiên Con của Đức Chúa Trời, là Đấng cất tội lỗi của thế gian đi.... LDE 43.1
+Đức Chúa Trời có một Hội Thánh trên đất đang nâng cao luật pháp bị giày đạp, và giới thiệu cho thế gian Chiên Con của Đức Chúa Trời, là Đấng cất tội lỗi của thế gian đi.… LDE 43.1
 
-Hiện nay chỉ có một Hội Thánh duy nhất trên thế giới đang đứng nơi lỗ hổng và tu bổ hàng rào, xây dựng lại những nơi hoang phế cũ kỹ.... LDE 43.2
+Hiện nay chỉ có một Hội Thánh duy nhất trên thế giới đang đứng nơi lỗ hổng và tu bổ hàng rào, xây dựng lại những nơi hoang phế cũ kỹ.… LDE 43.2
 
-Hãy thận trọng đừng kêu rêu chống lại dân sự duy nhất đang ứng nghiệm sự mô tả về dân sót, là những người giữ các điều răn của Đức Chúa Trời và có đức tin nơi Đức Chúa Giê-su.... Đức Chúa Trời có một dân biệt riêng, một Hội Thánh trên đất, không thua kém ai, nhưng vượt trội tất cả trong khả năng dạy lẽ thật và bênh vực luật pháp Đức Chúa Trời.... Hỡi anh em tôi, nếu anh em đang giảng dạy rằng Hội Thánh Cơ-đốc Phục Lâm là Ba-by-lôn, thì anh em đã sai lầm.—Testimonies to Ministers and Gospel Workers, 50, 58, 59 (1893). [Sách Khải Huyền tập trung vào hai nhóm dân sự của Đức Chúa Trời—dân sót hữu hình (12:17) và "dân ta" ở trong Ba-by-lôn (18:4). Chương này nói về nhóm thứ nhất, và chương 14, "Tiếng Kêu Lớn," nói về nhóm thứ hai.] LDE 43.3
+Hãy thận trọng đừng kêu rêu chống lại dân sự duy nhất đang ứng nghiệm sự mô tả về dân sót, là những người giữ các điều răn của Đức Chúa Trời và có đức tin nơi Đức Chúa Giê-su.… Đức Chúa Trời có một dân biệt riêng, một Hội Thánh trên đất, không thua kém ai, nhưng vượt trội tất cả trong khả năng dạy lẽ thật và bênh vực luật pháp Đức Chúa Trời.… Hỡi anh em tôi, nếu anh em đang giảng dạy rằng Hội Thánh Cơ-đốc Phục Lâm là Ba-by-lôn, thì anh em đã sai lầm.—Testimonies to Ministers and Gospel Workers, 50, 58, 59 (1893). [Sách Khải Huyền tập trung vào hai nhóm dân sự của Đức Chúa Trời—dân sót hữu hình (12:17) và "dân ta" ở trong Ba-by-lôn (18:4). Chương này nói về nhóm thứ nhất, và chương 14, "Tiếng Kêu Lớn," nói về nhóm thứ hai.] LDE 43.3
 
 ## Họ Có Lời Chứng Của Đức Chúa Giê-su
 
@@ -39,7 +39,7 @@ Theo một nghĩa đặc biệt, những người Cơ-đốc Phục Lâm đã đ
 
 ## Những Lý Do Hội Thánh Cơ-đốc Phục Lâm Được Tổ Chức
 
-Khi số lượng chúng tôi gia tăng, rõ ràng là nếu không có một hình thức tổ chức nào đó thì sẽ có sự hỗn loạn lớn, và công việc sẽ không thể được tiến hành thành công. Để chu cấp cho việc nâng đỡ chức vụ giảng đạo, để đẩy mạnh công việc tại những vùng đất mới, để bảo vệ cả các Hội Thánh lẫn chức vụ giảng đạo khỏi những thành viên không xứng đáng, để giữ tài sản của Hội Thánh, để xuất bản lẽ thật qua báo chí, và vì nhiều mục tiêu khác nữa, sự tổ chức là điều không thể thiếu được.... LDE 46.1
+Khi số lượng chúng tôi gia tăng, rõ ràng là nếu không có một hình thức tổ chức nào đó thì sẽ có sự hỗn loạn lớn, và công việc sẽ không thể được tiến hành thành công. Để chu cấp cho việc nâng đỡ chức vụ giảng đạo, để đẩy mạnh công việc tại những vùng đất mới, để bảo vệ cả các Hội Thánh lẫn chức vụ giảng đạo khỏi những thành viên không xứng đáng, để giữ tài sản của Hội Thánh, để xuất bản lẽ thật qua báo chí, và vì nhiều mục tiêu khác nữa, sự tổ chức là điều không thể thiếu được.… LDE 46.1
 
 Sự sáng đã được Thánh Linh Ngài ban cho để biết rằng phải có trật tự và kỷ luật chặt chẽ trong Hội Thánh — rằng sự tổ chức là điều thiết yếu. Hệ thống và trật tự được thể hiện trong mọi công việc của Đức Chúa Trời trên khắp vũ trụ. Trật tự là luật của thiên đàng, và nó cũng phải là luật của dân Đức Chúa Trời trên đất. — Testimonies to Ministers and Gospel Workers, 26 (1902). LDE 46.2
 
@@ -69,9 +69,9 @@ Hội Thánh đang ở trong tình trạng Lao-đi-xê. Sự hiện diện của
 
 ## Sự Lạm Dụng Quyền Lực Tại Trụ Sở Hội Thánh
 
-Chính Tổng Hội cũng đang trở nên hư hoại bởi những quan điểm và nguyên tắc sai lầm.... LDE 49.2
+Chính Tổng Hội cũng đang trở nên hư hoại bởi những quan điểm và nguyên tắc sai lầm.… LDE 49.2
 
-Người ta đã lợi dụng cách bất công những ai mà họ cho là thuộc thẩm quyền của mình. Họ quyết tâm bắt các cá nhân phải tuân theo điều kiện của mình; họ sẽ cai trị hoặc hủy diệt.... LDE 49.3
+Người ta đã lợi dụng cách bất công những ai mà họ cho là thuộc thẩm quyền của mình. Họ quyết tâm bắt các cá nhân phải tuân theo điều kiện của mình; họ sẽ cai trị hoặc hủy diệt.… LDE 49.3
 
 Quyền lực ngạo mạn đã được phát triển, như thể chức vụ đã biến con người thành các thần, khiến tôi sợ hãi và đáng phải gây nên sự sợ hãi. Đó là sự rủa sả ở bất cứ nơi đâu và bởi bất cứ ai thực thi nó.—Testimonies to Ministers and Gospel Workers, 359-361 (1895). LDE 49.4
 
@@ -91,35 +91,35 @@ Việc những người này đứng ở một vị trí thánh thiêng, để t
 
 ## Không Cần Một Giáo Phái Mới
 
-Anh sẽ lấy những đoạn trong sách Lời Chứng nói về sự kết thúc thời kỳ ân điển, về sự rung chuyển giữa vòng dân sự Đức Chúa Trời, và anh sẽ nói về việc một dân tộc tinh sạch hơn, thánh khiết hơn sẽ nổi lên và tách ra khỏi dân nầy. Bây giờ tất cả điều nầy làm hài lòng kẻ thù.... Nếu nhiều người chấp nhận các quan điểm anh đưa ra, rồi bàn bạc và hành động theo đó, chúng ta sẽ chứng kiến một trong những cơn cuồng tín kích động lớn nhất từng xảy ra giữa vòng những người Cơ-đốc Phục Lâm. Đây chính là điều Sa-tan muốn.—Selected Messages 1:179 (1890). LDE 51.1
+Anh sẽ lấy những đoạn trong sách Lời Chứng nói về sự kết thúc thời kỳ ân điển, về sự rung chuyển giữa vòng dân sự Đức Chúa Trời, và anh sẽ nói về việc một dân tộc tinh sạch hơn, thánh khiết hơn sẽ nổi lên và tách ra khỏi dân nầy. Bây giờ tất cả điều nầy làm hài lòng kẻ thù.… Nếu nhiều người chấp nhận các quan điểm anh đưa ra, rồi bàn bạc và hành động theo đó, chúng ta sẽ chứng kiến một trong những cơn cuồng tín kích động lớn nhất từng xảy ra giữa vòng những người Cơ-đốc Phục Lâm. Đây chính là điều Sa-tan muốn.—Selected Messages 1:179 (1890). LDE 51.1
 
-Chúa không ban cho anh một sứ điệp để gọi những người Cơ-đốc Phục Lâm là Ba-by-lôn, và kêu gọi dân sự Đức Chúa Trời ra khỏi nó. Tất cả những lý do anh có thể đưa ra cũng không có sức nặng đối với tôi về vấn đề nầy, vì Chúa đã ban cho tôi ánh sáng rõ ràng đối nghịch với một sứ điệp như thế.... LDE 51.2
+Chúa không ban cho anh một sứ điệp để gọi những người Cơ-đốc Phục Lâm là Ba-by-lôn, và kêu gọi dân sự Đức Chúa Trời ra khỏi nó. Tất cả những lý do anh có thể đưa ra cũng không có sức nặng đối với tôi về vấn đề nầy, vì Chúa đã ban cho tôi ánh sáng rõ ràng đối nghịch với một sứ điệp như thế.… LDE 51.2
 
 Tôi biết rằng Chúa yêu Hội Thánh của Ngài. Hội Thánh không bị giải tán hay phân rã thành những thành phần độc lập. Không có chút nhất quán nào trong điều nầy; không có một chút bằng chứng nào cho thấy điều như vậy sẽ xảy ra.—Selected Messages 2:63, 68, 69 (1893). LDE 51.3
 
-Tôi nói cùng các anh em rằng, Chúa có một thân thể có tổ chức qua đó Ngài sẽ làm việc.... Khi bất cứ ai tách rời khỏi thân thể có tổ chức của những người tuân giữ điều răn của Đức Chúa Trời, khi người ấy bắt đầu cân đo Hội Thánh trên những chiếc cân của loài người và bắt đầu tuyên án nghịch lại họ, thì bấy giờ anh em có thể biết rằng Đức Chúa Trời không dẫn dắt người ấy. Người ấy đang đi sai đường.—Selected Messages 3:17, 18 (1893). LDE 51.4
+Tôi nói cùng các anh em rằng, Chúa có một thân thể có tổ chức qua đó Ngài sẽ làm việc.… Khi bất cứ ai tách rời khỏi thân thể có tổ chức của những người tuân giữ điều răn của Đức Chúa Trời, khi người ấy bắt đầu cân đo Hội Thánh trên những chiếc cân của loài người và bắt đầu tuyên án nghịch lại họ, thì bấy giờ anh em có thể biết rằng Đức Chúa Trời không dẫn dắt người ấy. Người ấy đang đi sai đường.—Selected Messages 3:17, 18 (1893). LDE 51.4
 
 ## Đức Chúa Trời Sẽ Sắp Đặt Mọi Sự Có Trật Tự
 
 Không cần phải nghi ngờ, sợ hãi rằng công việc sẽ không thành công. Đức Chúa Trời đang đứng đầu công việc, và Ngài sẽ sắp đặt mọi sự có trật tự. Nếu các vấn đề cần điều chỉnh ở vị trí đứng đầu công việc, Đức Chúa Trời sẽ lo liệu điều đó, và hành động để sửa chữa mọi điều sai trái. Chúng ta hãy có đức tin rằng Đức Chúa Trời sẽ đưa con tàu cao quý chở dân sự của Ngài cập bến cảng cách an toàn.—Selected Messages 2:390 (1892). LDE 52.1
 
-Đức Chúa Trời không có một Hội Thánh sống động sao? Ngài có một Hội Thánh, nhưng đó là Hội Thánh chiến đấu, chứ không phải Hội Thánh khải hoàn. Chúng ta lấy làm tiếc rằng có những thành viên thiếu sót, rằng có cỏ lùng lẫn lộn giữa lúa mì... Mặc dù có những điều ác đang tồn tại trong Hội Thánh, và sẽ còn tồn tại cho đến tận thế, Hội Thánh trong những ngày sau rốt nầy phải là sự sáng cho thế gian đã bị ô uế và suy đồi bởi tội lỗi. Hội Thánh, dù yếu đuối và khiếm khuyết, cần được quở trách, cảnh cáo và khuyên dạy, là đối tượng duy nhất trên đất mà Đấng Christ ban cho sự quan tâm tối cao của Ngài.—Testimonies to Ministers and Gospel Workers, 45, 49 (1893). LDE 52.2
+Đức Chúa Trời không có một Hội Thánh sống động sao? Ngài có một Hội Thánh, nhưng đó là Hội Thánh chiến đấu, chứ không phải Hội Thánh khải hoàn. Chúng ta lấy làm tiếc rằng có những thành viên thiếu sót, rằng có cỏ lùng lẫn lộn giữa lúa mì… Mặc dù có những điều ác đang tồn tại trong Hội Thánh, và sẽ còn tồn tại cho đến tận thế, Hội Thánh trong những ngày sau rốt nầy phải là sự sáng cho thế gian đã bị ô uế và suy đồi bởi tội lỗi. Hội Thánh, dù yếu đuối và khiếm khuyết, cần được quở trách, cảnh cáo và khuyên dạy, là đối tượng duy nhất trên đất mà Đấng Christ ban cho sự quan tâm tối cao của Ngài.—Testimonies to Ministers and Gospel Workers, 45, 49 (1893). LDE 52.2
 
 Các thành lũy của Sa-tan sẽ không bao giờ thắng thế. Sự đắc thắng sẽ đi cùng sứ điệp của thiên sứ thứ ba. Như Tướng Lãnh đạo binh của Chúa đã làm sụp đổ các bức tường thành Giê-ri-cô thể nào, thì dân sự giữ điều răn của Chúa cũng sẽ đắc thắng thể ấy, và mọi thế lực chống đối sẽ bị đánh bại.—Testimonies to Ministers and Gospel Workers, 410 (1898). LDE 52.3
 
 ## Kêu Gọi Phân Chia Trách Nhiệm
 
-Điều chúng ta cần bây giờ là một sự tái tổ chức. Chúng ta cần bắt đầu từ nền tảng, và xây dựng trên một nguyên tắc khác.... LDE 53.1
+Điều chúng ta cần bây giờ là một sự tái tổ chức. Chúng ta cần bắt đầu từ nền tảng, và xây dựng trên một nguyên tắc khác.… LDE 53.1
 
-Đây là những người đang đứng đầu các cơ sở khác nhau của chúng ta, đứng đầu các quyền lợi giáo dục, và đứng đầu các giáo hạt ở những địa phương khác nhau và những Tiểu bang khác nhau. Tất cả những người này phải đứng như những người đại diện, có tiếng nói trong việc định hình và lập nên những kế hoạch sẽ được thực hiện. Phải có hơn một, hai hoặc ba người để xem xét toàn bộ cánh đồng rộng lớn. Công việc thì lớn, và không một trí óc con người nào có thể hoạch định cho công việc cần phải được hoàn thành.... LDE 53.2
+Đây là những người đang đứng đầu các cơ sở khác nhau của chúng ta, đứng đầu các quyền lợi giáo dục, và đứng đầu các giáo hạt ở những địa phương khác nhau và những Tiểu bang khác nhau. Tất cả những người này phải đứng như những người đại diện, có tiếng nói trong việc định hình và lập nên những kế hoạch sẽ được thực hiện. Phải có hơn một, hai hoặc ba người để xem xét toàn bộ cánh đồng rộng lớn. Công việc thì lớn, và không một trí óc con người nào có thể hoạch định cho công việc cần phải được hoàn thành.… LDE 53.2
 
-Bây giờ tôi muốn nói rằng, Đức Chúa Trời đã không đặt bất kỳ quyền lực vương giả nào trong hàng ngũ chúng ta để kiểm soát ngành này hay ngành khác của công việc. Công việc đã bị hạn chế rất nhiều bởi những nỗ lực nhằm kiểm soát nó trong mọi lĩnh vực.... Phải có một sự đổi mới, một sự tái tổ chức; một quyền năng và sức mạnh phải được đem vào các ủy ban là điều cần thiết.” [Trích từ bài diễn văn khai mạc của Ellen White ngày 2 tháng 4 năm 1901, tại Kỳ Đại Hội Đồng Tổng Hội ở Battle Creek.]—The General Conference Bulletin, ngày 3 tháng 4 năm 1901, trang 25, 26. LDE 53.3
+Bây giờ tôi muốn nói rằng, Đức Chúa Trời đã không đặt bất kỳ quyền lực vương giả nào trong hàng ngũ chúng ta để kiểm soát ngành này hay ngành khác của công việc. Công việc đã bị hạn chế rất nhiều bởi những nỗ lực nhằm kiểm soát nó trong mọi lĩnh vực.… Phải có một sự đổi mới, một sự tái tổ chức; một quyền năng và sức mạnh phải được đem vào các ủy ban là điều cần thiết.” [Trích từ bài diễn văn khai mạc của Ellen White ngày 2 tháng 4 năm 1901, tại Kỳ Đại Hội Đồng Tổng Hội ở Battle Creek.]—The General Conference Bulletin, ngày 3 tháng 4 năm 1901, trang 25, 26. LDE 53.3
 
-Các Giáo hạt mới phải được thành lập. Việc tổ chức Liên hiệp Giáo hạt ở Úc châu là theo mệnh lệnh của Đức Chúa Trời.... Không cần thiết phải gửi đi hàng ngàn dặm đến Battle Creek để xin lời khuyên, rồi phải chờ đợi hàng tuần mới có câu trả lời. Những người đang ở ngay tại chỗ phải quyết định điều gì cần được thực hiện.—The General Conference Bulletin, ngày 5 tháng 4 năm 1901, trang 69, 70. LDE 53.4
+Các Giáo hạt mới phải được thành lập. Việc tổ chức Liên hiệp Giáo hạt ở Úc châu là theo mệnh lệnh của Đức Chúa Trời.… Không cần thiết phải gửi đi hàng ngàn dặm đến Battle Creek để xin lời khuyên, rồi phải chờ đợi hàng tuần mới có câu trả lời. Những người đang ở ngay tại chỗ phải quyết định điều gì cần được thực hiện.—The General Conference Bulletin, ngày 5 tháng 4 năm 1901, trang 69, 70. LDE 53.4
 
 ## Kỳ Hội Nghị Toàn Cầu Năm 1901 Đáp Ứng
 
-Anh chị em nghĩ ai đã ở giữa chúng ta từ khi Hội nghị này bắt đầu? Ai đã giữ cho những nét đáng phản đối thường xuất hiện trong các buổi họp như vậy không xảy ra? Ai đã bước đi lên xuống các lối đi trong Đền Tạm này? Đức Chúa Trời thiên đàng và các thiên sứ của Ngài. Và họ không đến đây để xé anh chị em ra từng mảnh, nhưng để ban cho anh chị em tâm trí ngay thẳng và bình an. Họ đã ở giữa chúng ta để thực hiện công việc của Đức Chúa Trời, để cản trở các thế lực của bóng tối, hầu cho công việc mà Đức Chúa Trời đã định phải hoàn thành không bị cản trở. Các thiên sứ của Đức Chúa Trời đã làm việc giữa chúng ta.... LDE 54.1
+Anh chị em nghĩ ai đã ở giữa chúng ta từ khi Hội nghị này bắt đầu? Ai đã giữ cho những nét đáng phản đối thường xuất hiện trong các buổi họp như vậy không xảy ra? Ai đã bước đi lên xuống các lối đi trong Đền Tạm này? Đức Chúa Trời thiên đàng và các thiên sứ của Ngài. Và họ không đến đây để xé anh chị em ra từng mảnh, nhưng để ban cho anh chị em tâm trí ngay thẳng và bình an. Họ đã ở giữa chúng ta để thực hiện công việc của Đức Chúa Trời, để cản trở các thế lực của bóng tối, hầu cho công việc mà Đức Chúa Trời đã định phải hoàn thành không bị cản trở. Các thiên sứ của Đức Chúa Trời đã làm việc giữa chúng ta.… LDE 54.1
 
 Tôi chưa bao giờ kinh ngạc hơn trong đời mình như trước hướng đi mà sự việc đã diễn ra tại buổi họp này. Đây không phải là công việc của chúng ta. Đức Chúa Trời đã mang nó đến. Sự chỉ dẫn về điều này đã được trình bày cho tôi, nhưng cho đến khi mọi sự được kết quả tại buổi họp này, tôi mới không thể hiểu được sự chỉ dẫn ấy. Các thiên sứ của Đức Chúa Trời đã bước đi lên xuống trong hội chúng này. Tôi muốn mỗi một người trong anh chị em ghi nhớ điều này, và tôi cũng muốn anh chị em nhớ rằng Đức Chúa Trời đã phán Ngài sẽ chữa lành các vết thương của dân Ngài.—The General Conference Bulletin, April 25, 1901, pp. 463, 464. LDE 54.2
 
@@ -151,7 +151,7 @@ Một ngày nọ vào buổi trưa, tôi đang viết về công việc đáng l
 
 Tôi đã viết đến đây thì mất ý thức, và dường như tôi đang chứng kiến một cảnh tượng tại Battle Creek. LDE 57.2
 
-Chúng tôi đã nhóm lại trong giảng đường của Đền Tạm. Lời cầu nguyện được dâng lên, một bài thánh ca được hát, và lời cầu nguyện lại được dâng lên. Lời nài xin thiết tha nhất đã được dâng lên Đức Chúa Trời. Buổi nhóm được đánh dấu bởi sự hiện diện của Đức Thánh Linh.... LDE 57.3
+Chúng tôi đã nhóm lại trong giảng đường của Đền Tạm. Lời cầu nguyện được dâng lên, một bài thánh ca được hát, và lời cầu nguyện lại được dâng lên. Lời nài xin thiết tha nhất đã được dâng lên Đức Chúa Trời. Buổi nhóm được đánh dấu bởi sự hiện diện của Đức Thánh Linh.… LDE 57.3
 
 Dường như không ai quá kiêu ngạo đến nỗi không thể xưng tội cách chân thành, và những người dẫn đầu trong công việc này là những người có ảnh hưởng, nhưng trước đó đã không có can đảm để xưng tội mình. LDE 57.4
 
@@ -175,7 +175,7 @@ Khi một Hội Thánh tỏ ra bất trung với lời của Chúa, dù địa v
 
 ## Được Phán Xét Bởi Ánh Sáng Đã Ban Cho
 
-Hội Thánh Cơ-đốc Phục Lâm sẽ được cân nhắc trên cán cân của đền thánh. Hội Thánh sẽ bị phán xét bởi những đặc ân và lợi thế mà mình đã nhận được. Nếu kinh nghiệm thuộc linh của Hội Thánh không tương xứng với những lợi thế mà Đấng Christ, với giá vô hạn, đã ban cho, nếu những phước lành đã ban không trang bị cho Hội Thánh để làm công việc đã được giao phó, thì bản án sẽ được tuyên trên Hội Thánh: "Bị thấy là thiếu kém." Hội Thánh sẽ bị phán xét bởi ánh sáng đã ban cho và những cơ hội đã được trao... LDE 59.3
+Hội Thánh Cơ-đốc Phục Lâm sẽ được cân nhắc trên cán cân của đền thánh. Hội Thánh sẽ bị phán xét bởi những đặc ân và lợi thế mà mình đã nhận được. Nếu kinh nghiệm thuộc linh của Hội Thánh không tương xứng với những lợi thế mà Đấng Christ, với giá vô hạn, đã ban cho, nếu những phước lành đã ban không trang bị cho Hội Thánh để làm công việc đã được giao phó, thì bản án sẽ được tuyên trên Hội Thánh: "Bị thấy là thiếu kém." Hội Thánh sẽ bị phán xét bởi ánh sáng đã ban cho và những cơ hội đã được trao… LDE 59.3
 
 Những lời cảnh báo trang nghiêm, được biểu lộ qua sự hủy diệt của những cơ sở phục vụ được trân quý [Bệnh viện Battle Creek, cơ sở Cơ-đốc Phục Lâm lớn nhất và nổi tiếng nhất trên thế giới, đã bị thiêu rụi vào ngày 18 tháng 2 năm 1902. Tiếp theo là sự hủy diệt của Hội Xuất Bản Review and Herald, cũng bởi hỏa hoạn, vào ngày 30 tháng 12 năm 1902.], nói với chúng ta:
 

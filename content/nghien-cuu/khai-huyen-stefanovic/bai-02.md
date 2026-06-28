@@ -32,7 +32,7 @@ Chính sách Khải Huyền minh họa rõ ý nghĩa ấy. Khải Huyền 12:1 c
 
 Giăng cũng dùng động từ ấy ở các sách khác. Trong Giăng 12:32–33, Đức Chúa Giê-su phán: "Khi nào ta được treo lên khỏi đất, ta sẽ kéo mọi người đến cùng ta"; và sứ đồ Giăng giải thích — *Ngài phán vậy để* ***chỉ ra*** *(bằng biểu tượng) cách Ngài sẽ chết.* Tương tự trong Giăng 21:18–19, khi Đức Chúa Giê-su nói với Phi-e-rơ về việc "giang tay ra", Giăng ghi chú rằng Ngài "chỉ ra (bằng biểu tượng) loại chết mà Phi-e-rơ sẽ lấy mà tôn vinh Đức Chúa Trời."
 
-Quan trọng hơn cả, khi Giăng viết Khải Huyền 1:1, ông có trong trí một bối cảnh Cựu Ước. Trong bản Bảy Mươi (Septuagint) của Đa-ni-ên 2:28, chính từ *sēmainō* được dùng: *"Có một Đức Chúa Trời ở trên trời tỏ ra (sēmainō) các điều kín nhiệm... Ngài đã cho vua Nê-bu-cát-nết-sa biết bằng biểu tượng những điều sẽ xảy ra trong những ngày sau rốt."* Pho tượng trong giấc chiêm bao của Nê-bu-cát-nết-sa là một bức tranh biểu tượng về dòng lịch sử thật.
+Quan trọng hơn cả, khi Giăng viết Khải Huyền 1:1, ông có trong trí một bối cảnh Cựu Ước. Trong bản Bảy Mươi (Septuagint) của Đa-ni-ên 2:28, chính từ *sēmainō* được dùng: *"Có một Đức Chúa Trời ở trên trời tỏ ra (sēmainō) các điều kín nhiệm… Ngài đã cho vua Nê-bu-cát-nết-sa biết bằng biểu tượng những điều sẽ xảy ra trong những ngày sau rốt."* Pho tượng trong giấc chiêm bao của Nê-bu-cát-nết-sa là một bức tranh biểu tượng về dòng lịch sử thật.
 
 ---
 

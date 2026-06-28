@@ -40,7 +40,7 @@ Trước khi nói đến Đấng Christ hay Đức Thánh Linh, phải đứng v
 
 Phao-lô khẳng định lại trong Tân Ước:
 
-> "Dầu có những thần được gọi là chư thần... song về phần chúng ta, chỉ có một Đức Chúa Trời mà thôi, là Đức Chúa Cha, muôn vật bởi Ngài mà ra." (I Cô-rinh-tô 8:5-6)
+> "Dầu có những thần được gọi là chư thần… song về phần chúng ta, chỉ có một Đức Chúa Trời mà thôi, là Đức Chúa Cha, muôn vật bởi Ngài mà ra." (I Cô-rinh-tô 8:5-6)
 
 Tín hữu Cơ-đốc hoàn toàn không liên hệ gì với các thần và nữ thần của triết học ngoại giáo, hay đa thần giáo Ấn Độ ngày nay. Đây cũng chính là chỗ Hồi giáo phản đối Cơ-đốc giáo: họ tin một Đức Chúa Trời, còn họ cho rằng chúng ta tin ba. Nhưng đó là hiểu lầm — người tin Ba Ngôi tin **một Đức Chúa Trời trong ba thân vị**. Chính chữ "Trinity" là viết tắt của *tri-unity* — sự hiệp nhất gồm ba.
 
@@ -54,7 +54,7 @@ Khi xét đến Đấng Christ, chúng ta thấy Ngài cũng được gọi là 
 
 > "Nầy, một gái đồng trinh sẽ chịu thai, sanh ra một trai, và đặt tên là Em-ma-nu-ên." (Ê-sai 7:14)
 
-> "Vì có một con trẻ sanh cho chúng ta... Ngài sẽ được xưng là Đấng Lạ Lùng, là Đấng Mưu Luận, là **Đức Chúa Trời Quyền Năng**, là Cha Đời Đời, là Chúa Bình An." (Ê-sai 9:6)
+> "Vì có một con trẻ sanh cho chúng ta… Ngài sẽ được xưng là Đấng Lạ Lùng, là Đấng Mưu Luận, là **Đức Chúa Trời Quyền Năng**, là Cha Đời Đời, là Chúa Bình An." (Ê-sai 9:6)
 
 Hơn nữa, Phao-lô còn cho biết Đấng Christ **bình đẳng** với Đức Chúa Cha:
 
@@ -115,7 +115,7 @@ Phạm thượng nghịch Đức Cha có thể được tha. Phạm thượng ng
 
 Trong câu chuyện A-na-nia và Sa-phi-ra, Phi-e-rơ phán:
 
-> "Hỡi A-na-nia, sao quỉ Sa-tan đã đầy dẫy lòng ngươi, đến nỗi ngươi nói dối cùng Đức Thánh Linh... Ngươi chẳng nói dối loài người, bèn là nói dối **Đức Chúa Trời**." (Công Vụ 5:3-4)
+> "Hỡi A-na-nia, sao quỉ Sa-tan đã đầy dẫy lòng ngươi, đến nỗi ngươi nói dối cùng Đức Thánh Linh… Ngươi chẳng nói dối loài người, bèn là nói dối **Đức Chúa Trời**." (Công Vụ 5:3-4)
 
 Nói dối Đức Thánh Linh **chính là** nói dối Đức Chúa Trời. Không thể rõ hơn.
 
@@ -221,7 +221,7 @@ Nếu câu này là chính thực, ta có toàn bộ giáo lý Ba Ngôi gói g�
 
 2. **Tertullian, ~208 SCN** — thầy của Cyprian, viết sớm hơn vài thập kỷ, đã ám chỉ rõ ràng đến câu này: "ba thân vị gắn kết, song phân biệt với nhau — **ba này là một bản thể, không phải một thân vị**, như đã chép: *Ta và Cha là một*." Lời đáp này nhằm chống lại tà giáo của Praxeas — kẻ dạy rằng Cha, Con và Đức Thánh Linh **là cùng một thân vị**. Đây là động cơ khiến các phái cải đoạn bản kinh sau này muốn lược bỏ câu I Giăng 5:7.
 
-3. **Lời mở đầu của Jerome cho các thư tín** — tìm thấy trong **Codex Fuldensis (~541 SCN)** — Jerome lên án các người sao chép vì đã **cố ý lược bỏ** câu này: "ở chính chỗ đặc biệt mà chúng ta đọc về sự hiệp nhất của Ba Ngôi... họ đã loại bỏ chứng cớ về Cha, Lời và Thánh Linh — chính câu mà đức tin Cơ-đốc được khẳng định nhất."
+3. **Lời mở đầu của Jerome cho các thư tín** — tìm thấy trong **Codex Fuldensis (~541 SCN)** — Jerome lên án các người sao chép vì đã **cố ý lược bỏ** câu này: "ở chính chỗ đặc biệt mà chúng ta đọc về sự hiệp nhất của Ba Ngôi… họ đã loại bỏ chứng cớ về Cha, Lời và Thánh Linh — chính câu mà đức tin Cơ-đốc được khẳng định nhất."
 
 4. **Priscillian (~385 SCN)** — viết rõ ràng: "Như Giăng đã nói: và có ba làm chứng dưới đất — nước, xác thịt và huyết, cả ba này hiệp một; và có ba làm chứng trên trời — Cha, Ngôi Lời và Thánh Linh, cả ba này hiệp một trong Đức Chúa Giê-su Christ." Một số học giả buộc Priscillian là người **bịa ra** câu này — nhưng giả thuyết ấy không hợp lý: bịa ra một câu mà mọi người sao Kinh Thánh thời ấy có thể kiểm tra ngay sẽ chỉ đẩy nhanh sự kết án của ông.
 

@@ -30,7 +30,7 @@ Ngay từ buổi sáng thế, Sáng Thế Ký 1:26 ghi lại: "Chúng ta hãy l�
 
 Tuy có ba thân vị riêng biệt, Kinh Thánh khẳng định Đức Chúa Trời là độc nhất thần, không phải đa thần. Phục Truyền Luật Lệ Ký 6:4 chép: "Hỡi Israel, hãy nghe: Giê-hô-va Đức Chúa Trời chúng ta là Giê-hô-va có một." 1 Ti-mô-thê 1:17 cũng viết về Vua muôn đời, Đức Chúa Trời có một mà thôi.
 
-Chính Đức Chúa Giêsu tuyên bố trong Giăng 10:30: "Ta với Cha là một." Khi Phi-líp xin Ngài chỉ Cha cho các môn đồ, Chúa Giêsu đáp: "Ai đã thấy Ta tức là đã thấy Cha... Ta ở trong Cha và Cha ở trong Ta" (Giăng 14:8-11). Sự hiệp nhất giữa ba thân vị trọn vẹn đến nỗi Kinh Thánh xác nhận chỉ có một Đức Chúa Trời duy nhất.
+Chính Đức Chúa Giêsu tuyên bố trong Giăng 10:30: "Ta với Cha là một." Khi Phi-líp xin Ngài chỉ Cha cho các môn đồ, Chúa Giêsu đáp: "Ai đã thấy Ta tức là đã thấy Cha… Ta ở trong Cha và Cha ở trong Ta" (Giăng 14:8-11). Sự hiệp nhất giữa ba thân vị trọn vẹn đến nỗi Kinh Thánh xác nhận chỉ có một Đức Chúa Trời duy nhất.
 
 ## Vị trí của Đức Thánh Linh
 

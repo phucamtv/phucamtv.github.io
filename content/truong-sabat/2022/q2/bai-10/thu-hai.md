@@ -10,7 +10,7 @@ Từ Phê-ni-ên, “đối mặt Đức Chúa Trời” (Sáng-thế Ký 32:30)
 
 Gia-cốp sấp mình bảy lần trước anh trai (Sáng-thế Ký 33:3), người mà nhiều lần ông gọilà “chúa tôi” (Sáng-thế Ký 33:8,13,15) và tự nhận mình là “kẻ tôi tớ anh” (Sáng-thế Ký 33:5; so sánh với Sáng-thế Ký 32:4,18,20). Đáng chú ý, Gia-cốp sấp mình bảy lần gợi ý rằng ông lặp lại bảy phước lành của cha ông (Sáng-thế Ký 27:27–29); hơn nữa, khi sấp mình, đặc biệt ônglàm trái ngược lời chúc phước của cha mình, về việc“Các nước phải quỳ lạy trước mặt con!” (Sáng-thế Ký 27:29).
 
-Dường như ý định của Gia-cốp là trả nợ cho anh trai mình và trả lại phước lành mà ông đã chiếm lấy (xem Sáng-thế Ký 33:11). Khi Ê-sau nhìn thấy em mình, tương phản với tất cả nhữngmong đợi, thay vì giết Gia-cốp,ông chạy đến với em mình “ômchoàng cổ mà hôn, rồi hai anh em đều khóc” (Sáng-thế Ký 33:4).
+Dường như ý định của Gia-cốp là trả nợ cho anh trai mình và trả lại phước lành mà ông đã chiếm lấy (xem Sáng-thế Ký 33:11). Khi Ê-sau nhìn thấy em mình, tương phản với tất cả những mong đợi, thay vì giết Gia-cốp, ông chạy đến với em mình “ôm choàng cổ mà hôn, rồi hai anh em đều khóc” (Sáng-thế Ký 33:4).
 
 Sau đó, Gia-cốp nói với Ê-sau: “em thấy được mặt anh khác nào người ta thấy được mặt Đức Chúa Trời” (Sáng-thế Ký 33:10). Lý do cho câu nói phi thường của Gia-cốp là ông hiểu rằng Ê-sau đã tha thứ cho ông. Động từ “ratsah” trong tiếng Hê-bơ-rơ, nghĩa là“đẹplòng” (Sáng-thế Ký 33:10) là một thuật ngữ thần học đề cập đến bất kỳ sự hy sinh nào “đẹp lòng”, được Đức Chúa Trời “nhậm lấy”, sau đó ngụ ý sự tha thứ của Đức Chúa Trời (Lê-vi Ký 22:27, A-mốt. 5:22).
 

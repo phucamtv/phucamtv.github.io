@@ -12,7 +12,7 @@ weight: 10
 
 Trong Sáng Thế Ký 2:16–17, Đức Chúa Trời phán dặn A-đam — lúc Ê-va chưa được dựng nên — rằng người có thể ăn mọi cây trong vườn, ngoại trừ cây biết điều thiện và điều ác; nếu ăn, "chắc chắn ngươi sẽ chết". Đây là một mạng lệnh rõ ràng kèm theo hậu quả rõ ràng.
 
-Đến Sáng Thế Ký 3, con rắn xuất hiện. Điều đáng chú ý là chiến thuật đầu tiên của Sa-tan không phải là phủ nhận trực tiếp Lời Đức Chúa Trời, mà là gieo nghi ngờ: "Đức Chúa Trời thật có phán...?" Sau khi đã làm cho Ê-va dao động, hắn mới mạnh dạn lật ngược: "Hai ngươi chẳng chết đâu."
+Đến Sáng Thế Ký 3, con rắn xuất hiện. Điều đáng chú ý là chiến thuật đầu tiên của Sa-tan không phải là phủ nhận trực tiếp Lời Đức Chúa Trời, mà là gieo nghi ngờ: "Đức Chúa Trời thật có phán…?" Sau khi đã làm cho Ê-va dao động, hắn mới mạnh dạn lật ngược: "Hai ngươi chẳng chết đâu."
 
 Mô-típ này lặp lại xuyên suốt Kinh Thánh, đạt đến đỉnh điểm khi Sa-tan cám dỗ Đức Chúa Giê-su trong đồng vắng sau bốn mươi ngày kiêng ăn. Vì vậy, biết chính xác Đức Chúa Trời đã phán điều gì là điều kiện tiên quyết để đứng vững trong đức tin.
 
@@ -52,7 +52,7 @@ Việc một câu Kinh Thánh không liệt kê đủ mười điều răn khôn
 
 ## "Mười Lời" — chứ không chỉ là mười luật lệ
 
-Xuất Ê-díp-tô Ký 20:1 chép: "Đức Chúa Trời phán mọi **lời** này..." Từ "lời" trong tiếng Hê-bơ-rơ là **debar** — một danh từ có thể dịch thành "lời", "tiếng phán", "việc", "điều răn", "biến cố", "nguyên cớ", và được dịch theo 85 cách khác nhau trong Kinh Thánh tiếng Anh bản King James, tùy ngữ cảnh.
+Xuất Ê-díp-tô Ký 20:1 chép: "Đức Chúa Trời phán mọi **lời** này…" Từ "lời" trong tiếng Hê-bơ-rơ là **debar** — một danh từ có thể dịch thành "lời", "tiếng phán", "việc", "điều răn", "biến cố", "nguyên cớ", và được dịch theo 85 cách khác nhau trong Kinh Thánh tiếng Anh bản King James, tùy ngữ cảnh.
 
 Vì vậy, theo cách Kinh Thánh tự gọi, đây là **Mười Lời** của Đức Chúa Trời (Xuất Ê-díp-tô Ký 34:28; Phục Truyền Luật Lệ Ký 4:13; 10:4). Chúng được gọi là *điều răn* vì hình thức mệnh lệnh tuyệt đối, nhưng cốt lõi vẫn là *những lời chính Đức Chúa Trời phán ra* để bày tỏ chính Ngài.
 
@@ -86,7 +86,7 @@ Một số người dùng những câu Kinh Thánh nói về luật nghi lễ đ
 
 **Luật đạo đức** — Mười Điều Răn — do chính Đức Chúa Trời phán ra và viết trên bảng đá, được gìn giữ trong hòm giao ước. Thi Thiên 119:89 chép: "Hỡi Đức Giê-hô-va, lời Ngài được vững lập đời đời trên trời." Chính Đức Chúa Giê-su phán trong Ma-thi-ơ 5:17–18:
 
-> "Các ngươi đừng tưởng Ta đến để hủy phá luật pháp... cho đến khi trời đất qua đi, một chấm một nét trong luật pháp cũng không qua đi được, cho đến khi mọi sự được trọn."
+> "Các ngươi đừng tưởng Ta đến để hủy phá luật pháp… cho đến khi trời đất qua đi, một chấm một nét trong luật pháp cũng không qua đi được, cho đến khi mọi sự được trọn."
 
 Sự kiện Đức Chúa Giê-su phải chịu chết để chuộc tội vi phạm luật ấy lại càng chứng minh luật ấy bất biến — bởi nếu có thể thay đổi luật, thì cái chết của Ngài là không cần thiết.
 

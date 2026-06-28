@@ -14,6 +14,6 @@ Cuối cùng, việc nhớ ngày Sa-bát cũng chỉ cho chúng ta về tương 
 
 Thật vậy, khi nhớ đến Tạo hóa và Người tạo ra nó, dân Chúa cũng nhớ những công việc cứu rỗi ân điển của Đức Chúa Trời (xem Phục-truyền Luật-lệ Ký 5:14, trong đó, ngày Sa-bát được xem như một dấu hiệu của sự giải thoát từ Ai Cập, một biểu tượng của sự cứu rỗi cuối cùng được tìm thấy trong Chúa). Sáng tạo và tái tạo thuộc về nhau. Cái trước làm nền tảng cho cái sau. Ngày Sa-bát là một dấu hiệu cho thấy Đức Chúa Trời là Đấng tạo dựng thế giới và là Đấng mang đến sự cứu rỗi cho chúng ta.
 
-“Việc giữ ngày Sa-bát của Ngài chứng tỏ rằng chúng ta là con cái của Ngài. Lời của Ngài tuyên bố ngày Sa-bát là một dấu hiệu để phân biệt những người giữ điều răn... Những người tuân giữ luật pháp Đức Chúa Trời sẽ hiệp một với Ngài trong cuộc phán xét lớn bắt đầu trên thiên đàng giữa Sa-tan và Đức Chúa Trời” – Phỏng theo Ellen G. White, Sứ Điệp Được Chọn, cuốn 2, trang 160.
+“Việc giữ ngày Sa-bát của Ngài chứng tỏ rằng chúng ta là con cái của Ngài. Lời của Ngài tuyên bố ngày Sa-bát là một dấu hiệu để phân biệt những người giữ điều răn… Những người tuân giữ luật pháp Đức Chúa Trời sẽ hiệp một với Ngài trong cuộc phán xét lớn bắt đầu trên thiên đàng giữa Sa-tan và Đức Chúa Trời” – Phỏng theo Ellen G. White, Sứ Điệp Được Chọn, cuốn 2, trang 160.
 
 `Nhìn vào tuyên bố này từ tôi tớ của Đức Chúa Trời. Điều gì về ngày Sa-bát làm cho nó trở thành một thứ gì thể phân biệt chúng ta với tư cách là người giữ điều răn nhiều hơn bất kỳ điều răn nào khác?`

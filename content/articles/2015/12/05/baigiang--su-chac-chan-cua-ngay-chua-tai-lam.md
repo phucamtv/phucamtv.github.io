@@ -40,7 +40,7 @@ Còn những ai giữ niềm tin và hy vọng nơi Chúa sẽ cầu nguyện nh
 
 ### Áp Lực Cuộc Sống Hằng Ngày
 
-Mục sư thẳng thắn thừa nhận rằng cuộc sống tạo áp lực quá lớn: tiền điện, tiền nước, tiền nhà, con cái học hành, chi phí kinh doanh... Mỗi sáng mở mắt ra là phải chạy bài toán tài chính trong đầu. Sức ép đó buộc sự tập trung của chúng ta phải hướng về những lo toan trước mắt, trong khi sự Tái Lâm lại có vẻ xa vời, viễn vông vì không nhìn thấy được.
+Mục sư thẳng thắn thừa nhận rằng cuộc sống tạo áp lực quá lớn: tiền điện, tiền nước, tiền nhà, con cái học hành, chi phí kinh doanh… Mỗi sáng mở mắt ra là phải chạy bài toán tài chính trong đầu. Sức ép đó buộc sự tập trung của chúng ta phải hướng về những lo toan trước mắt, trong khi sự Tái Lâm lại có vẻ xa vời, viễn vông vì không nhìn thấy được.
 
 Ông cũng bày tỏ sự cảm kích đối với những tín hữu vẫn dành thời gian đến thờ phượng giữa bao gánh nặng đời thường, đặc biệt khi ông chứng kiến cảnh những người bưng từng gánh hàng bán trên vỉa hè để kiếm từng đồng tiền lẻ.
 

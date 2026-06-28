@@ -8,7 +8,7 @@ Kinh Thánh cung cấp mối liên kết không bị gián đoạn giữa sự s
 
 `Đọc Sáng-thế ký 1:31, 2:15-17 và 3:1-7. Điều gì đã xảy ra với tác phẩm sáng tạo hoàn hảo nhất của Đức Chúa Trời?`
 
-Đức Chúa Trời đã tuyên bố sự sáng tạo của Ngài “rất tốt lành” (Sáng-thế Ký 1:31). Sự sáng tạo đã hoàn tất... Địa đàng đầy cây trái trên trái đất (Sáng-thế Ký 2:9). A-đam và Ê-va đã tự do đến gần cây sự sống. Không có dấu vết của tội lỗi hay bóng tối của cái chết hủy hoại sự sáng tạo tốt đẹp (Ellen G. White, Tộc trưởng và Tiên tri, trang 47). Chúa đã cảnh báo A-đam và Ê-va rằng nếu họ ăn trái cây cấm, chắc chắn họ sẽ chết (Sáng-thế Ký 2:15-17). Con rắn bắt đầu sự cám dỗ của mình bằng một câu hỏi và sau đó hoàn toàn mâu thuẫn với những gì Chúa đã phán: “Hai ngươi chẳng chết đâu” (Sáng-thế Ký 3:4). Sa-tan hứa với Ê-va sẽ có trí thông minh tuyệt vời và rằng bà sẽ giống như Chúa. Rõ ràng, bà đã tin nó.
+Đức Chúa Trời đã tuyên bố sự sáng tạo của Ngài “rất tốt lành” (Sáng-thế Ký 1:31). Sự sáng tạo đã hoàn tất… Địa đàng đầy cây trái trên trái đất (Sáng-thế Ký 2:9). A-đam và Ê-va đã tự do đến gần cây sự sống. Không có dấu vết của tội lỗi hay bóng tối của cái chết hủy hoại sự sáng tạo tốt đẹp (Ellen G. White, Tộc trưởng và Tiên tri, trang 47). Chúa đã cảnh báo A-đam và Ê-va rằng nếu họ ăn trái cây cấm, chắc chắn họ sẽ chết (Sáng-thế Ký 2:15-17). Con rắn bắt đầu sự cám dỗ của mình bằng một câu hỏi và sau đó hoàn toàn mâu thuẫn với những gì Chúa đã phán: “Hai ngươi chẳng chết đâu” (Sáng-thế Ký 3:4). Sa-tan hứa với Ê-va sẽ có trí thông minh tuyệt vời và rằng bà sẽ giống như Chúa. Rõ ràng, bà đã tin nó.
 
 `Làm thế nào để Phao-lô xác nhận tuyên bố của Chúa trong Sáng-thế Ký 2:15. Đọc Rô-ma 5:12 và 6:23. Những giáo lý này liên quan đến thuyết tiến hóa thế nào?`
 

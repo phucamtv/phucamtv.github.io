@@ -8,7 +8,7 @@ weight: 2
 
 Tin lành Giăng bắt đầu với tư tưởng hết sức kỳ diệu này: “Ban đầu có Ngôi Lời, Ngôi Lời ở cùng Đức Chúa Trời, và Ngôi Lời là Đức Chúa Trời” (Giăng 1:1). Lời giới thiệu tuyệt mỹ này chứa đựng một ý tưởng sâu sắc mà chúng ta khó có thể nắm bắt được trọn vẹn ý nghĩa của nó.
 
-Trước tiên, người viết có ý ám chỉ đến Công cuộc Tạo thế, Sáng thế Ký 1:1, “Ban đầu ...”. Ngôi Lời đã có từ trước khi vũ trụ bắt đầu. Do đó, Giăng khẳng định sự tồn tại vĩnh cửu của Đức Chúa Giê-su.
+Trước tiên, người viết có ý ám chỉ đến Công cuộc Tạo thế, Sáng thế Ký 1:1, “Ban đầu …”. Ngôi Lời đã có từ trước khi vũ trụ bắt đầu. Do đó, Giăng khẳng định sự tồn tại vĩnh cửu của Đức Chúa Giê-su.
 
 Kế đến, “Ngôi Lời ở cùng Đức Chúa Trời”. Trong Giăng 1:18, Giăng cho chúng ta biết rằng Ngài là: “Con một ở trong lòng Cha”. Cho dù chúng ta có cố gắng hình dung ý nghĩa chính xác của điều này là gì đi nữa, thì có một điều chắc chắn rằng: Đức Chúa Giê-su và Chúa Cha rất gần gũi với nhau.
 

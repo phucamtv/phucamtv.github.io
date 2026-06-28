@@ -12,7 +12,7 @@ weight: 6
 
 Khải Huyền 6:9–11 là một trong những phân đoạn thường bị hiểu lầm khi nói về tình trạng của người chết. Nhiều người dùng nó để dạy rằng linh hồn người chết rời khỏi thân thể và đi vào sự hiện diện của Đức Chúa Trời ngay lúc qua đời.
 
-> "Khi Chiên Con mở ấn thứ năm, tôi thấy dưới bàn thờ có linh hồn của những kẻ đã bị giết vì Đạo Đức Chúa Trời và vì lời chứng họ đã làm... Họ kêu lớn tiếng rằng: Lạy Chúa là Đấng thánh và chân thật, Chúa trì hoãn xét đoán và chẳng báo thù huyết chúng tôi trên những kẻ ở mặt đất cho đến chừng nào?" (Khải Huyền 6:9–10)
+> "Khi Chiên Con mở ấn thứ năm, tôi thấy dưới bàn thờ có linh hồn của những kẻ đã bị giết vì Đạo Đức Chúa Trời và vì lời chứng họ đã làm… Họ kêu lớn tiếng rằng: Lạy Chúa là Đấng thánh và chân thật, Chúa trì hoãn xét đoán và chẳng báo thù huyết chúng tôi trên những kẻ ở mặt đất cho đến chừng nào?" (Khải Huyền 6:9–10)
 
 Nhà chú giải Trưởng Lão Albert Barnes là tiêu biểu cho cách đọc phổ biến. Ông viết rằng đoạn này là "một trong những bằng chứng cho thấy linh hồn không ngừng tồn tại khi chết, và cũng không ngừng có ý thức cho đến lúc phục sinh." Theo cách hiểu đó, linh hồn các tử đạo đang sống, đang ghi nhớ, đang cầu nguyện trong sự hiện diện của Đức Chúa Trời.
 
@@ -40,7 +40,7 @@ Làm sao huyết của một người đã chết có thể nói? Câu trả l�
 
 Trong Cựu Ước, từ Hê-bơ-rơ *nephesh* lúc thì được dịch là "linh hồn", lúc thì là "sự sống". Và Kinh Thánh khẳng định sự sống ở trong huyết.
 
-Lê-vi Ký 17:11 (Bản Truyền Thống) chép: "Sanh mạng của xác thịt ở trong huyết... vì nhờ sanh mạng [linh hồn] mà huyết mới chuộc tội được." Bản NIV diễn đạt sát ý nguyên ngữ hơn: "vì *sự sống* của tạo vật ở trong huyết... chính huyết làm sự chuộc tội cho **chính các ngươi**" — không phải cho một "linh hồn" vô hình bay lên khi chết, mà cho chính con người.
+Lê-vi Ký 17:11 (Bản Truyền Thống) chép: "Sanh mạng của xác thịt ở trong huyết… vì nhờ sanh mạng [linh hồn] mà huyết mới chuộc tội được." Bản NIV diễn đạt sát ý nguyên ngữ hơn: "vì *sự sống* của tạo vật ở trong huyết… chính huyết làm sự chuộc tội cho **chính các ngươi**" — không phải cho một "linh hồn" vô hình bay lên khi chết, mà cho chính con người.
 
 Phục Truyền Luật Lệ Ký 12:23 cũng dạy: "chớ ăn huyết, vì huyết tức là sự sống [nephesh]." Hiển nhiên không thể dịch là "chớ ăn linh hồn." Trong Tân Ước, Ma-thi-ơ 20:28 nói Đức Chúa Giê-su đến "phó sự sống mình làm giá chuộc nhiều người" — chữ "sự sống" ở đây là *psyche*, đôi khi cũng được dịch là "linh hồn".
 
@@ -98,7 +98,7 @@ Vào cuối 1.260 năm — năm 1798 — con thú nhận một vết thương ch
 
 Vậy cái gì đã làm tổn thương giáo hoàng năm 1798? Chính cây gươm của nhà nước — thứ gươm mà giáo hoàng đã từng dùng để bắt bớ các thánh — nay quay lại đánh chính giáo hoàng. Trong Cách Mạng Pháp, Tướng Berthier dưới quyền Napoléon Bonaparte đã tiến vào Nhà Nguyện Sistine và bắt giam Giáo hoàng Piô VI — đúng vào năm 1798, đúng khi 1.260 năm kết thúc. Nước Pháp tự giải thoát khỏi quyền lực giáo hoàng và lập nên một nền cộng hòa tự do; sau đó các quốc gia phương Tây nối nhau lập các chính phủ dân chủ bảo đảm tự do dân sự và tự do tôn giáo.
 
-Một cựu tu sĩ Dòng Tên tên Malachi Martin, bạn thân của Giáo hoàng Gioan Phaolô II, đã viết năm 1986 rằng "trong hơn 1.500 năm, Rô-ma [giáo hoàng] đã giữ một bàn tay càng mạnh càng tốt trong mỗi cộng đồng địa phương khắp thế giới... cho đến khi 200 năm bất hoạt bị các cường quốc thế tục lớn của thế giới áp đặt lên giáo hoàng." Hai trăm năm trước 1986 chính là Cách Mạng Pháp. Hồng y Henry Edward Manning, viết năm 1862, cũng thừa nhận rằng nước Pháp Công Giáo, nước Đức Công Giáo, và nước Ý Công Giáo "đều đã từ bỏ cái ý tưởng đã sụp đổ này về quyền lực thế tục của giáo hoàng."
+Một cựu tu sĩ Dòng Tên tên Malachi Martin, bạn thân của Giáo hoàng Gioan Phaolô II, đã viết năm 1986 rằng "trong hơn 1.500 năm, Rô-ma [giáo hoàng] đã giữ một bàn tay càng mạnh càng tốt trong mỗi cộng đồng địa phương khắp thế giới… cho đến khi 200 năm bất hoạt bị các cường quốc thế tục lớn của thế giới áp đặt lên giáo hoàng." Hai trăm năm trước 1986 chính là Cách Mạng Pháp. Hồng y Henry Edward Manning, viết năm 1862, cũng thừa nhận rằng nước Pháp Công Giáo, nước Đức Công Giáo, và nước Ý Công Giáo "đều đã từ bỏ cái ý tưởng đã sụp đổ này về quyền lực thế tục của giáo hoàng."
 
 ---
 
@@ -122,10 +122,10 @@ Tội lớn của người dâm phụ là gì? "Tôi thấy người đàn bà �
 
 Khi bảy tai vạ giáng xuống, thiên sứ tuyên bố: "Lạy Đấng Hiện Có, Đã Có, Ngài là công bình, vì Ngài đã phán xét thể nầy; bởi vì chúng nó đã làm đổ huyết của các thánh đồ và của các đấng tiên tri, Ngài đã cho chúng nó uống huyết, thật là đáng lắm" (Khải Huyền 16:5–6). Sự đoán xét đã xong; nay là sự thi hành bản án. Khải Huyền 17:16 cho biết mười sừng — chính những vua từng tiếp tay cho hệ thống ấy — sẽ trở mặt: "ghét dâm phụ, sẽ làm cho nó ra cô độc và trần truồng, sẽ ăn thịt nó và thiêu nó bằng lửa." Giống như trong Cách Mạng Pháp, chính các quyền lực thế tục đã từng phục vụ giáo hoàng nay quay lại nghịch cùng giáo hoàng.
 
-Đến Khải Huyền 19:1–2, các thánh đã ở trên trời và cất tiếng hát: "Hãy ngợi khen Chúa!... Vì những sự phán xét của Ngài đều chân thật và công bình, Ngài đã đoán phạt đại dâm phụ... và Ngài đã **báo thù** huyết của các tôi tớ Ngài đã bị tay con dâm phụ đó làm đổ ra."
+Đến Khải Huyền 19:1–2, các thánh đã ở trên trời và cất tiếng hát: "Hãy ngợi khen Chúa!… Vì những sự phán xét của Ngài đều chân thật và công bình, Ngài đã đoán phạt đại dâm phụ… và Ngài đã **báo thù** huyết của các tôi tớ Ngài đã bị tay con dâm phụ đó làm đổ ra."
 
 Trở lại Khải Huyền 6:11: các tử đạo nhận áo trắng và được bảo "hãy còn nghỉ ngơi ít lâu nữa." Khải Huyền 7:14 cho biết áo trắng là gì: "ấy là những kẻ ra khỏi cơn đại nạn, đã giặt và phiếu trắng áo mình trong huyết Chiên Con." Áo trắng là sự công bình của Đức Chúa Giê-su; các tử đạo đã chết trong Ngài, và trường hợp của họ đã được bảo đảm. Nếu họ đang nghỉ ngơi, làm sao họ "kêu cầu"? Câu trả lời đã rõ: họ không kêu cầu trên trời. Chính **huyết của họ trên đất**, chính **sự sống đã bị tước đoạt**, đang kêu cầu công lý và sự báo thù.
 
-Trong một ngàn năm sau khi Đức Chúa Giê-su tái lâm, dân Đức Chúa Trời sẽ ở trên trời và **đoán xét những kẻ bắt bớ mình**. Khải Huyền 20:4 chép: "Tôi lại thấy những ngai... và những người ngồi trên đó được quyền xét đoán... Tôi thấy linh hồn của những kẻ đã bị chém vì lời chứng của Đức Chúa Giê-su và vì Đạo Đức Chúa Trời, linh hồn của những kẻ chẳng thờ lạy con thú cùng hình tượng nó... Các người ấy được sống và trị vì với Ngài trong một ngàn năm." Câu "các người ấy được sống" hàm ý họ đã chết trước đó. Sau cơn đại nạn, các tử đạo của cả hai giai đoạn được sống lại, được dự phần xét đoán, và sẽ thấy bản án bất công của các tòa án trần gian được Đức Chúa Trời đảo ngược.
+Trong một ngàn năm sau khi Đức Chúa Giê-su tái lâm, dân Đức Chúa Trời sẽ ở trên trời và **đoán xét những kẻ bắt bớ mình**. Khải Huyền 20:4 chép: "Tôi lại thấy những ngai… và những người ngồi trên đó được quyền xét đoán… Tôi thấy linh hồn của những kẻ đã bị chém vì lời chứng của Đức Chúa Giê-su và vì Đạo Đức Chúa Trời, linh hồn của những kẻ chẳng thờ lạy con thú cùng hình tượng nó… Các người ấy được sống và trị vì với Ngài trong một ngàn năm." Câu "các người ấy được sống" hàm ý họ đã chết trước đó. Sau cơn đại nạn, các tử đạo của cả hai giai đoạn được sống lại, được dự phần xét đoán, và sẽ thấy bản án bất công của các tòa án trần gian được Đức Chúa Trời đảo ngược.
 
 Có nhiều bất công trong thế giới này. Nhưng trong tòa án trên trời, và sau cùng khi Đức Chúa Giê-su trở lại, Ngài sẽ sửa lại tất cả những phán quyết sai trái mà các tòa án dưới đất đã tuyên. Dân Đức Chúa Trời sẽ được tưởng thưởng và sẽ ở với Chúa đời đời. Việc còn lại là bảo đảm rằng chúng ta thuộc về số những người được cứu, để có thể có mặt ở đó với Ngài.

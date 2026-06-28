@@ -26,7 +26,7 @@ Câu 4 của chương 18 là trung tâm của toàn bài: *"Hỡi dân ta, hãy 
 
 Lời kêu gọi này tiết lộ một sự thật đáng suy ngẫm: **trong Babylon có dân sự của Chúa**. Nếu Babylon chỉ toàn kẻ thù của Chúa, Ngài đã không cần lên tiếng kêu gọi "dân ta". Thực tế là có những người thật lòng tin Chúa, nhưng đang ở sai chỗ — trong các tổ chức, Hội Thánh hoặc hệ thống tôn giáo sai lầm mà vẫn mang danh thờ phượng Chúa.
 
-Mục sư nhấn mạnh: đừng lầm tưởng rằng Hội Thánh nào cũng thờ phượng Chúa một cách đúng đắn, hoặc "Hội Thánh nào cũng có chỗ tốt chỗ xấu, nên ở đâu cũng được." Đó là quan điểm sai lầm hoàn toàn. Đức Chúa Giê-su phán trong Giăng 10:16: *"Ta còn có chiên khác chẳng thuộc về chuồng này... sẽ chỉ có một bầy và một người chăn mà thôi."* Chúa có một bầy nhất định — và Ngài muốn những chiên lạc lối trong Babylon phải tìm về đúng bầy ấy.
+Mục sư nhấn mạnh: đừng lầm tưởng rằng Hội Thánh nào cũng thờ phượng Chúa một cách đúng đắn, hoặc "Hội Thánh nào cũng có chỗ tốt chỗ xấu, nên ở đâu cũng được." Đó là quan điểm sai lầm hoàn toàn. Đức Chúa Giê-su phán trong Giăng 10:16: *"Ta còn có chiên khác chẳng thuộc về chuồng này… sẽ chỉ có một bầy và một người chăn mà thôi."* Chúa có một bầy nhất định — và Ngài muốn những chiên lạc lối trong Babylon phải tìm về đúng bầy ấy.
 
 Lời kêu gọi "hỡi dân ta, hãy ra khỏi Babylon" không phải là lệnh truyền lạnh lùng, mà là tiếng lòng của Cha gọi con — tha thiết, khẩn thiết, và đầy yêu thương.
 

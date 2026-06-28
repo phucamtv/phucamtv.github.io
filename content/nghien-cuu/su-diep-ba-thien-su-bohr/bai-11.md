@@ -82,7 +82,7 @@ Biết rõ rằng sự liên kết Hội Thánh với nhà nước luôn dẫn �
 
 Nguyên tắc tách biệt Hội Thánh và nhà nước được biết đến qua hai khái niệm: **chủ nghĩa cộng hòa** (một quốc gia không có vua) và **chủ nghĩa Tin Lành** (một Hội Thánh không có giáo hoàng). Trong thời Trung Cổ, quyền lực chảy từ trên xuống dưới — vua quyết định mọi sự dân sự, giáo hoàng quyết định mọi sự tôn giáo. Các nhà lập quốc đã thử nghiệm một cuộc cách mạng: quyền lực chảy từ dưới lên — *"chính quyền của dân, do dân, và vì dân."*
 
-Trong *Thiện Ác Đấu Tranh* trang 441, bà Ellen White viết: *"Trong số những Cơ-đốc nhân lưu vong đầu tiên trốn đến Mỹ và tìm nơi nương náu khỏi sự áp bức của hoàng gia và sự bất khoan dung của giới thầy tế lễ, có nhiều người quyết tâm thiết lập một chính quyền trên nền tảng rộng lớn của tự do dân sự và tôn giáo... Chủ nghĩa cộng hòa và chủ nghĩa Tin Lành trở thành những nguyên tắc căn bản của quốc gia. Những nguyên tắc này là bí quyết của sức mạnh và sự thịnh vượng của nó."*
+Trong *Thiện Ác Đấu Tranh* trang 441, bà Ellen White viết: *"Trong số những Cơ-đốc nhân lưu vong đầu tiên trốn đến Mỹ và tìm nơi nương náu khỏi sự áp bức của hoàng gia và sự bất khoan dung của giới thầy tế lễ, có nhiều người quyết tâm thiết lập một chính quyền trên nền tảng rộng lớn của tự do dân sự và tôn giáo… Chủ nghĩa cộng hòa và chủ nghĩa Tin Lành trở thành những nguyên tắc căn bản của quốc gia. Những nguyên tắc này là bí quyết của sức mạnh và sự thịnh vượng của nó."*
 
 Benjamin Franklin từng nói: *"Khi tôn giáo là tốt, tôi cho rằng nó sẽ tự duy trì; còn khi nó không tự duy trì được, và Đức Chúa Trời không quan tâm hỗ trợ nó, đến mức những người tuyên xưng nó phải kêu gọi sự trợ giúp của các quyền lực dân sự, thì theo tôi đó là dấu hiệu cho thấy nó là một tôn giáo xấu."*
 

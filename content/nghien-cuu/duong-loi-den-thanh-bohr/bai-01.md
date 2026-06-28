@@ -82,7 +82,7 @@ Vượt qua bức màn là **nơi chí thánh**, chỉ có một vật dụng du
 
 > Đức Chúa Trời thật ngự trên đất nầy chăng? Kìa, trời, dầu đến đỗi trời của các từng trời chẳng có thể chứa Ngài được thay, phương chi cái đền nầy tôi đã cất!
 
-Sa-lô-môn cầu xin Đức Chúa Trời từ trên trời nhậm lời cầu nguyện hướng về đền thờ trên đất. Trong Công Vụ Các Sứ Đồ 7:47–50, Ê-tiên cũng nhắc lại nguyên tắc này: *"Đấng Rất Cao chẳng ở trong đền thờ bởi tay người ta làm ra... Trời là ngai ta, đất là bệ chân ta."*
+Sa-lô-môn cầu xin Đức Chúa Trời từ trên trời nhậm lời cầu nguyện hướng về đền thờ trên đất. Trong Công Vụ Các Sứ Đồ 7:47–50, Ê-tiên cũng nhắc lại nguyên tắc này: *"Đấng Rất Cao chẳng ở trong đền thờ bởi tay người ta làm ra… Trời là ngai ta, đất là bệ chân ta."*
 
 Hãy hình dung đền thánh trên đất như một mô hình kiến trúc thu nhỏ — đủ để cho biết hình dáng tổng thể, nhưng không phải là chính công trình. Hoặc giống như một tấm bản đồ California: bản đồ có thật, nhưng tiểu bang California lớn hơn nhiều. Hoặc giống một bức ảnh: bức ảnh giúp ta nhận ra một người, nhưng người thật cao trọng hơn bức ảnh rất nhiều.
 

@@ -48,7 +48,7 @@ Sau mười hai tháng, khi đang dạo trong hoàng cung Ba-by-lôn, vua Nê-bu
 
 ## Hình Ảnh Thứ Tư: Ăn Năn Thật Sự Và Trở Về Với Chúa
 
-Sau bảy kỳ chịu phạt, Nê-bu-cát-nết-sa ngước mắt lên trời, trí khôn phục lại, và ông ngợi khen tôn vinh Đức Chúa Trời rất cao: "Quyền thế Ngài là quyền thế còn mãi mãi, nước Ngài từ đời nọ đến đời kia... Kẻ nào bước đi kiêu ngạo, Ngài có thể hạ nó xuống" (Đa-ni-ên 4:34-37). Ngôi nước được phục hồi cho ông, và sự uy nghi quyền thế càng thêm.
+Sau bảy kỳ chịu phạt, Nê-bu-cát-nết-sa ngước mắt lên trời, trí khôn phục lại, và ông ngợi khen tôn vinh Đức Chúa Trời rất cao: "Quyền thế Ngài là quyền thế còn mãi mãi, nước Ngài từ đời nọ đến đời kia… Kẻ nào bước đi kiêu ngạo, Ngài có thể hạ nó xuống" (Đa-ni-ên 4:34-37). Ngôi nước được phục hồi cho ông, và sự uy nghi quyền thế càng thêm.
 
 Đây là hình ảnh thứ tư và là hình ảnh đáng ao ước nhất: những người thật sự ăn năn, thật sự quay về với Chúa. Họ công nhận rằng mọi đường lối của Đức Chúa Trời đều đúng và tốt lành, phó thác cuộc đời cho Ngài, và chỉ muốn sống để làm sáng danh Chúa. Dù gặp thành công hay thất bại, dù trong hoàn cảnh nào, họ vẫn tạ ơn và hướng mọi vinh hiển về cho Đức Chúa Trời.
 

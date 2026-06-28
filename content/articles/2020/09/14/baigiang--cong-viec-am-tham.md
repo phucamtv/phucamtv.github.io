@@ -20,4 +20,4 @@ Mẹ tôi thức dậy rất sớm, từ 5 giờ sáng, để đốt lửa, dọ
 
 Hãy chịu khó lưu tâm đến các bà nội trợ của chúng ta nhiều hơn, đừng quá hà tiện những lời khen tặng khi có món ăn vừa miệng hoặc thấy căn nhà sạch sẽ. Hãy trân trọng một trong những thiên chức phụ nữ của họ, biết ơn họ và giúp họ mỗi ngày càng trở nên tài đức hơn. Những phụ nữ Cơ-đốc cần học tập một cách sống mẫu mực để làm chị, làm vợ, làm mẹ, thật xứng đáng.
 
-> "Một người nữ tài đức, ai sẽ tìm được? Giá trị nàng trổi hơn châu ngọc... Nàng cảm thấy công việc mình được ích lợi, ban đêm đèn nàng chẳng tắt." — Châm ngôn 31:10, 18
+> "Một người nữ tài đức, ai sẽ tìm được? Giá trị nàng trổi hơn châu ngọc… Nàng cảm thấy công việc mình được ích lợi, ban đêm đèn nàng chẳng tắt." — Châm ngôn 31:10, 18

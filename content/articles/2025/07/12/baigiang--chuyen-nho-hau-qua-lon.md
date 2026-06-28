@@ -68,7 +68,7 @@ Bao nhiêu năm xây đắp hình ảnh, vun đắp mối quan hệ, gìn giữ 
 
 ## Những Việc Nhỏ Tốt Đẹp — Kết Quả Vượt Mong Đợi
 
-Nhưng câu chuyện không chỉ dừng ở những hậu quả tiêu cực. Gia-cơ 3:4 cũng nhắc nhở: *"Hãy xem những chiếc tàu dầu cho lớn máy và bị gió mạnh đưa đi... một bánh lái rất nhỏ cũng đủ lái nó tùy theo ý người cầm lái."*
+Nhưng câu chuyện không chỉ dừng ở những hậu quả tiêu cực. Gia-cơ 3:4 cũng nhắc nhở: *"Hãy xem những chiếc tàu dầu cho lớn máy và bị gió mạnh đưa đi… một bánh lái rất nhỏ cũng đủ lái nó tùy theo ý người cầm lái."*
 
 Chiếc tàu chở hàng trăm tấn hàng — được điều khiển bởi một bánh lái nhỏ phía sau. Cũng vậy, có những điều rất nhỏ trong đời sống chúng ta có thể định hướng cả tương lai.
 

@@ -12,7 +12,7 @@ Trong những năm gần đây, có một xu hướng xem Tuần lễ tạo th�
 
 Chữ yôm trong tiếng Do Thái, hay chữ “ngày” được sử dụng nhất quán trong suốt bài tường thuật về tuần lễ tạo thế theo nghĩa đen. Không có gì trong tường thuật về tuần lễ tạo thế chỉ ra rằng đang ám chỉ theo nghĩa bóng, như chính chúng ta hiểu đây là một ngày trong tuần. Trên thực tế, một số học giả không tin vào những ngày đó là ý thật sự theo nghĩa đen, tuy nhiên, chúng ta phải thừa nhận rằng ý định của tác giả là để mô tả những ngày theo nghĩa đen.
 
-Thật thú vị khi chính Chúa chỉ định tên này cho đơn vị thời gian đầu tiên (Sáng thế ký 1:5). Yôm, hay ngày, được định nghĩa bằng cụm từ và có buổi chiều và có buổi mai, (Sáng 1:5,8, v.v...). Thuật ngữ này được sử dụng ở số ít, không phải số nhiều, có nghĩa là một ngày.
+Thật thú vị khi chính Chúa chỉ định tên này cho đơn vị thời gian đầu tiên (Sáng thế ký 1:5). Yôm, hay ngày, được định nghĩa bằng cụm từ và có buổi chiều và có buổi mai, (Sáng 1:5,8, v.v…). Thuật ngữ này được sử dụng ở số ít, không phải số nhiều, có nghĩa là một ngày.
 
 Do đó, bảy ngày của tuần lễ tạo thế được hiểu là một đơn vị thời gian hoàn chỉnh, được giới thiệu bởi số đếm là “echad” (thứ nhất) theo sau là số thứ tự (thứ hai, thứ ba, thứ tư, v.v.). Mẫu này cho thấy một chuỗi ngày liên tiếp, cuối cùng vào ngày thứ Bảy. Không có dấu hiệu nào trong việc sử dụng các thuật ngữ hoặc trong hình thức kể chuyện rằng sẽ có bất kỳ khoảng cách nào giữa những ngày này. Thật vậy, bảy ngày của tuần lễ tạo thế là bảy ngày khi chúng ta phác họa như khi sử dụng cho ngày hôm nay.
 

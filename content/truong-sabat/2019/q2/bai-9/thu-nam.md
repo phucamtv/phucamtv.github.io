@@ -8,7 +8,7 @@ Là con người, chúng ta biết được thực tại của cái chết. Chú
 
 `Đọc 1 Cô-rinh-tô 15:26. Sự chết được mô tả như thế nào và tại sao nó được mô tả theo cách này?`
 
-Ai, khi mất người thân yêu, không tự trải nghiệm cho mình kẻ thù của sự chết to lớn như thể nào? Mặt khác, sự chết là “phước”. Nếu chết trong Chúa, họ nhắm mắt và dường như chỉ là một giây phút với họ, họ được sống lại bất tử. “Đối với tín hữu, sự chết chỉ là một vấn đề nhỏ ... Đối với Cơ-đốc nhân, sự chết chỉ là một giấc ngủ, một giây phút im lặng và tối tăm. Cuộc sống được giấu kín với Đấng Cơ-đốc trong Đức Chúa Trời, và “khi Đấng Cơ-đốc, Đấng là sự sống của chúng ta, sẽ hiện ra, thì các ngươi cũng sẽ hiện ra với Ngài trong sự vinh hiển.” -Ellen G. White, Nguyện Ước Thời Đại, trang 787.
+Ai, khi mất người thân yêu, không tự trải nghiệm cho mình kẻ thù của sự chết to lớn như thể nào? Mặt khác, sự chết là “phước”. Nếu chết trong Chúa, họ nhắm mắt và dường như chỉ là một giây phút với họ, họ được sống lại bất tử. “Đối với tín hữu, sự chết chỉ là một vấn đề nhỏ … Đối với Cơ-đốc nhân, sự chết chỉ là một giấc ngủ, một giây phút im lặng và tối tăm. Cuộc sống được giấu kín với Đấng Cơ-đốc trong Đức Chúa Trời, và “khi Đấng Cơ-đốc, Đấng là sự sống của chúng ta, sẽ hiện ra, thì các ngươi cũng sẽ hiện ra với Ngài trong sự vinh hiển.” -Ellen G. White, Nguyện Ước Thời Đại, trang 787.
 
 Đó không phải là phước, cho người còn sống, đặc biệt là những người bạn hoặc thành viên gia đình còn lại, những người biết sự đau khổ thực sự và thương tiếc theo sau sự chết. Thực tế thì đau khổ là một phản ứng tự nhiên, bình thường đối với sự mất mát. Đó là nỗi đau cảm xúc mà chúng ta trải nghiệm khi một cái gì đó hoặc một người mà chúng ta yêu thương bị cất đi.
 

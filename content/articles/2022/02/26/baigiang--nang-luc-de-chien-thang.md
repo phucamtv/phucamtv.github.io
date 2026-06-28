@@ -38,7 +38,7 @@ Bài học quan trọng: khi chúng ta quên đi nguồn gốc của sức mạn
 
 ## Ngày Nào Còn Giơ Tay Lên, Ngày Đó Còn Nhận Sức Mạnh
 
-Mục sư khích lệ Hội Thánh với sự thật rằng chính trong lúc yếu đuối nhất, sức mạnh của Đức Chúa Trời lại được bày tỏ trọn vẹn. **II Cô-rinh-tô 12:9–10**: "Ân điển ta đủ cho ngươi rồi, vì sức mạnh của ta nên trọn vẹn trong sự yếu đuối... vì khi tôi yếu đuối, ấy là lúc tôi mạnh mẽ."
+Mục sư khích lệ Hội Thánh với sự thật rằng chính trong lúc yếu đuối nhất, sức mạnh của Đức Chúa Trời lại được bày tỏ trọn vẹn. **II Cô-rinh-tô 12:9–10**: "Ân điển ta đủ cho ngươi rồi, vì sức mạnh của ta nên trọn vẹn trong sự yếu đuối… vì khi tôi yếu đuối, ấy là lúc tôi mạnh mẽ."
 
 Ngài cũng đề cập đến sứ đồ Phao-lô trong **II Cô-rinh-tô 10:4**: "Những khí giới mà chúng tôi dùng để chiến tranh là không phải thuộc về xác thịt đâu, bèn là bởi quyền năng của Đức Chúa Trời." Tiên tri Ê-li, tuy là con người yếu đuối như chúng ta, đã cầu nguyện và Đức Chúa Trời đáp lời — ba năm rưỡi không có mưa (Gia-cơ 5:17).
 

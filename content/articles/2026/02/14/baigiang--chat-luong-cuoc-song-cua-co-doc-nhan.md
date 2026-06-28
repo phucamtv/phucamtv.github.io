@@ -16,7 +16,7 @@ draft: false
 
 Ma-thi-ơ 5:13-16 là một trong những khúc Kinh Thánh quen thuộc nhất, nhưng không vì thế mà bớt đi sức nặng của nó:
 
-> *"Các ngươi là muối của đất; song nếu mất mặn đi, thì sẽ lấy giống chi mà làm cho mặn lại? Muối ấy không dùng chi được nữa, chỉ phải quăng ra ngoài và bị người ta đạp dưới chân. Các ngươi là sự sáng của thế gian... Sự sáng các ngươi hãy soi trước mặt người ta như vậy, đặng họ thấy những việc lành của các ngươi, và ngợi khen Cha các ngươi ở trên trời."*
+> *"Các ngươi là muối của đất; song nếu mất mặn đi, thì sẽ lấy giống chi mà làm cho mặn lại? Muối ấy không dùng chi được nữa, chỉ phải quăng ra ngoài và bị người ta đạp dưới chân. Các ngươi là sự sáng của thế gian… Sự sáng các ngươi hãy soi trước mặt người ta như vậy, đặng họ thấy những việc lành của các ngươi, và ngợi khen Cha các ngươi ở trên trời."*
 
 Chúa muốn chúng ta **hữu ích** — như muối và như ánh sáng. Một Cơ-Đốc nhân không mang lại ích lợi gì cho người chung quanh thì giống như muối đã mất mặn: chỉ để quăng ra ngoài.
 
@@ -46,7 +46,7 @@ Truyền Đạo 12:13-14 nhắc nhở: *"Kính sợ Đức Chúa Trời và gi�
 
 ## Điều Thứ Hai: Sức Khỏe Và Dinh Dưỡng
 
-1 Cô-rinh-tô 6:19-20 tuyên bố: *"Anh em há chẳng biết rằng thân thể mình là đền thờ của Đức Thánh Linh đang ngự trong anh em?... Vậy hãy lấy thân thể mình làm sáng danh Đức Chúa Trời."*
+1 Cô-rinh-tô 6:19-20 tuyên bố: *"Anh em há chẳng biết rằng thân thể mình là đền thờ của Đức Thánh Linh đang ngự trong anh em?… Vậy hãy lấy thân thể mình làm sáng danh Đức Chúa Trời."*
 
 Ngày xưa Đức Chúa Trời truyền dựng đền tạm trong đồng vắng — nơi thánh khiết đến mức người thường chạm vào hòm giao ước có thể bị phạt chết. Thế mà bây giờ Ngài gọi thân thể chúng ta là đền thờ Ngài ngự. Điều đó có nghĩa là chúng ta **không còn toàn quyền** trên thân thể mình nữa. Chúng ta không thể muốn ăn gì thì ăn, ngủ bao nhiêu thì ngủ, hay đối xử tùy tiện với sức khỏe của mình — vì đây là đền thờ của Chúa.
 

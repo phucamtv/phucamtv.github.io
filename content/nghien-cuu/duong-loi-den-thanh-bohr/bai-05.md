@@ -90,7 +90,7 @@ Một lời tiên tri khác nằm trong Xuất Ê-díp-tô Ký 12, về chiên c
 
 Thành ngữ Hê-bơ-rơ "vào lúc chiều tối" theo nghĩa đen là **"giữa hai buổi chiều"**. Buổi chiều thứ nhất bắt đầu khi mặt trời đến đỉnh và bắt đầu xuống — tức giữa trưa. Buổi chiều thứ hai là khi mặt trời lặn. Vậy giữa hai buổi chiều chính là **ba giờ chiều**.
 
-Kinh Thánh chép rằng vào giờ thứ chín, Đức Chúa Giê-su kêu lớn: *"Mọi việc đã được trọn... Cha ơi, Con xin giao linh hồn lại trong tay Cha"*, rồi tắt hơi. Theo cách tính của người Hê-bơ-rơ, giờ thứ nhất là 6 giờ sáng, giờ thứ ba là 9 giờ sáng, giờ thứ sáu là giữa trưa, **giờ thứ chín chính là 3 giờ chiều**, và giờ thứ mười hai là khi mặt trời lặn.
+Kinh Thánh chép rằng vào giờ thứ chín, Đức Chúa Giê-su kêu lớn: *"Mọi việc đã được trọn… Cha ơi, Con xin giao linh hồn lại trong tay Cha"*, rồi tắt hơi. Theo cách tính của người Hê-bơ-rơ, giờ thứ nhất là 6 giờ sáng, giờ thứ ba là 9 giờ sáng, giờ thứ sáu là giữa trưa, **giờ thứ chín chính là 3 giờ chiều**, và giờ thứ mười hai là khi mặt trời lặn.
 
 Đức Chúa Giê-su không những chết vào ngày 14 tháng Ni-san, mà còn chết đúng vào ba giờ chiều — chính xác như lời tiên tri Lễ Vượt Qua đã chỉ ra.
 
@@ -106,13 +106,13 @@ Tân Ước khẳng định rõ điều này:
 
 Lễ Vượt Qua cho biết giờ, ngày và tháng. Nhưng có một lời tiên tri khác cho biết **năm** Đức Chúa Giê-su sẽ chết — đó là lời tiên tri 70 tuần lễ trong Đa-ni-ên 9.
 
-> "Sau sáu mươi hai tuần lễ đó, Đấng Chịu Xức Dầu sẽ bị trừ đi, và không có chi hết... Người sẽ lập giao ước vững bền với nhiều người trong một tuần lễ, và đến giữa tuần ấy, người sẽ khiến của lễ và của dâng dứt đi." (Đa-ni-ên 9:26–27)
+> "Sau sáu mươi hai tuần lễ đó, Đấng Chịu Xức Dầu sẽ bị trừ đi, và không có chi hết… Người sẽ lập giao ước vững bền với nhiều người trong một tuần lễ, và đến giữa tuần ấy, người sẽ khiến của lễ và của dâng dứt đi." (Đa-ni-ên 9:26–27)
 
 Đấng Mê-si bị trừ đi không phải vì chính Ngài, mà vì người khác. Đức Chúa Giê-su bắt đầu chức vụ năm 27 SC khi Ngài chịu báp-tem. Ba năm rưỡi sau, vào giữa tuần lễ cuối cùng, Ngài bị đóng đinh trên thập tự giá. Rồi ba năm rưỡi sau nữa, thời kỳ ân điển khép lại đối với chế độ thần quyền Hê-bơ-rơ. Đức Chúa Giê-su chết chính xác **vào năm 31 SC**, vào mùa xuân, đúng kỳ Lễ Vượt Qua.
 
 Lời tiên tri cũng nói Ngài sẽ khiến của lễ và của dâng dứt đi. Ellen White trong tác phẩm *Desire of Ages* đã ghi lại khoảnh khắc Đức Chúa Giê-su chết: bức màn trong đền thờ bị xé ra từ trên xuống dưới, đất rúng động, và:
 
-> "Thầy tế lễ sắp giết con sinh tế, nhưng con dao rơi khỏi bàn tay rã rời của ông, và con chiên thoát đi... Hình bóng đã gặp thực thể trong sự chết của Con Đức Chúa Trời. Của lễ vĩ đại đã được dâng."
+> "Thầy tế lễ sắp giết con sinh tế, nhưng con dao rơi khỏi bàn tay rã rời của ông, và con chiên thoát đi… Hình bóng đã gặp thực thể trong sự chết của Con Đức Chúa Trời. Của lễ vĩ đại đã được dâng."
 
 Ngày hôm đó không có của lễ nào được dâng. Hình bóng đã gặp thực thể.
 
@@ -126,7 +126,7 @@ Nhiều lời tiên tri khác trong Cựu Ước cũng chỉ về sự chết c�
 
 **Ê-sai 53**, viết hơn 700 năm trước khi Đức Chúa Giê-su giáng sinh, mô tả Đấng Mê-si:
 
-> "Người đã vì tội lỗi chúng ta mà bị vết, vì sự gian ác chúng ta mà bị thương... và Đức Giê-hô-va đã làm cho tội lỗi của hết thảy chúng ta đều chất trên người." (Ê-sai 53:5–6)
+> "Người đã vì tội lỗi chúng ta mà bị vết, vì sự gian ác chúng ta mà bị thương… và Đức Giê-hô-va đã làm cho tội lỗi của hết thảy chúng ta đều chất trên người." (Ê-sai 53:5–6)
 
 Khi hoạn quan Ê-thi-ô-bi đang đọc đoạn này và không hiểu, Phi-líp đã "giảng cho người về Đức Chúa Giê-su" (Công Vụ 8:35). Phi-e-rơ cũng áp dụng Ê-sai 53 cho Đức Chúa Giê-su trong 1 Phi-e-rơ 2:23–24.
 
@@ -134,9 +134,9 @@ Khi hoạn quan Ê-thi-ô-bi đang đọc đoạn này và không hiểu, Phi-l�
 
 **Lê-vi Ký 21:17–21** cũng đòi hỏi thầy tế lễ phải không tì vết. Cả chiên con lẫn thầy tế lễ đều tượng trưng cho Đức Chúa Giê-su, vì Ngài vừa là Thầy Tế Lễ vừa là Chiên Con — chính Ngài dâng chính Ngài.
 
-> "Ấy đó thật là thầy tế lễ thượng phẩm mà chúng ta có cần dùng, thánh khiết, không tội, không ô uế, biệt khỏi kẻ có tội... Vì Ngài đã vì việc đó mà dâng chính mình Ngài làm của tế lễ, chỉ một lần đủ cả." (Hê-bơ-rơ 7:26–27)
+> "Ấy đó thật là thầy tế lễ thượng phẩm mà chúng ta có cần dùng, thánh khiết, không tội, không ô uế, biệt khỏi kẻ có tội… Vì Ngài đã vì việc đó mà dâng chính mình Ngài làm của tế lễ, chỉ một lần đủ cả." (Hê-bơ-rơ 7:26–27)
 
-> "Anh em đã được chuộc... bởi huyết báu Đấng Christ, dường như huyết của chiên con không lỗi không vít." (1 Phi-e-rơ 1:18–19)
+> "Anh em đã được chuộc… bởi huyết báu Đấng Christ, dường như huyết của chiên con không lỗi không vít." (1 Phi-e-rơ 1:18–19)
 
 Đức Chúa Giê-su là Thầy Tế Lễ không tì vết, là Chiên Con không tì vết, và Ngài chủ tế chính của lễ của Ngài. Khi sống lại, Ngài còn đem chính huyết của mình với tư cách Thầy Tế Lễ vào nơi thánh.
 
@@ -146,15 +146,15 @@ Khi hoạn quan Ê-thi-ô-bi đang đọc đoạn này và không hiểu, Phi-l�
 
 Một điểm cần làm rõ: những gì Đức Chúa Giê-su đã làm trong trại quân và trong sân là làm cho **mọi người** từng sống trên đất — không chỉ riêng cho người được cứu. Đời sống và sự chết của Ngài có giá trị cho mỗi người từng thở hơi sống.
 
-> "Chúng ta thấy Đức Chúa Giê-su... bởi ân điển của Đức Chúa Trời, vì mọi người mà nếm sự chết." (Hê-bơ-rơ 2:9)
+> "Chúng ta thấy Đức Chúa Giê-su… bởi ân điển của Đức Chúa Trời, vì mọi người mà nếm sự chết." (Hê-bơ-rơ 2:9)
 
-> "Có một Đức Chúa Trời và một Đấng Trung Bảo... là Đức Chúa Giê-su Christ, là người, Ngài đã phó chính mình làm giá chuộc mọi người." (1 Ti-mô-thê 2:5–6)
+> "Có một Đức Chúa Trời và một Đấng Trung Bảo… là Đức Chúa Giê-su Christ, là người, Ngài đã phó chính mình làm giá chuộc mọi người." (1 Ti-mô-thê 2:5–6)
 
 > "Ngài làm của lễ chuộc tội lỗi chúng ta, không những vì tội lỗi chúng ta thôi đâu, mà cũng vì tội lỗi cả thế gian nữa." (1 Giăng 2:2)
 
 Ellen White viết trong *Desire of Ages* trang 753:
 
-> "Tội lỗi của hết thảy chúng ta đã chất trên Đấng Christ, là Đấng thay thế và bảo lãnh chúng ta. Ngài đã bị kể là kẻ phạm pháp để chuộc chúng ta khỏi sự đoán phạt của luật pháp. **Tội lỗi của mỗi con cháu A-đam đè nặng trên lòng Ngài.** Cơn thạnh nộ của Đức Chúa Trời nghịch cùng tội lỗi... đã khiến tâm hồn Con Ngài kinh hoàng... Sự đau đớn của Ngài lớn đến nỗi sự đau đớn thể xác hầu như không được cảm thấy."
+> "Tội lỗi của hết thảy chúng ta đã chất trên Đấng Christ, là Đấng thay thế và bảo lãnh chúng ta. Ngài đã bị kể là kẻ phạm pháp để chuộc chúng ta khỏi sự đoán phạt của luật pháp. **Tội lỗi của mỗi con cháu A-đam đè nặng trên lòng Ngài.** Cơn thạnh nộ của Đức Chúa Trời nghịch cùng tội lỗi… đã khiến tâm hồn Con Ngài kinh hoàng… Sự đau đớn của Ngài lớn đến nỗi sự đau đớn thể xác hầu như không được cảm thấy."
 
 Nếu Ngài chết cho cả thế gian, vậy có phải mọi người sẽ được cứu không? Câu Kinh Thánh nổi tiếng nhất bao gồm tất cả nhưng cũng loại trừ một số:
 
@@ -168,7 +168,7 @@ Ngay trước câu này, Đức Chúa Giê-su nhắc lại hình ảnh con rắn
 
 Thùng rửa tượng trưng cho sự phục sinh của Đức Chúa Giê-su. Theo luật, ai đụng đến xác chết bị xem là ô uế. Khi Đức Chúa Giê-su chết, theo nghĩa hình bóng Ngài cũng bị kể là ô uế và cần được tẩy sạch — và sự tẩy sạch đó diễn ra tại sự phục sinh, tại thùng rửa.
 
-> "Ngài cứu chúng ta... bởi sự rửa về **sự lại sanh** và sự đổi mới của Đức Thánh Linh." (Tít 3:5)
+> "Ngài cứu chúng ta… bởi sự rửa về **sự lại sanh** và sự đổi mới của Đức Thánh Linh." (Tít 3:5)
 
 Từ Hy Lạp được dịch là "sự lại sanh" là *palingenesia* — ghép từ *palin* (lại, một lần nữa) và *genesis* (khởi đầu). Nghĩa đen là **bắt đầu lại**, **tái sinh**. Đức Chúa Giê-su "bắt đầu lại" khi nào? Khi Ngài sống lại từ kẻ chết.
 

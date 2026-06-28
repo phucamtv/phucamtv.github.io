@@ -46,7 +46,7 @@ Khi Hy-lạp "di chuyển bằng chân của Phe-rơ-sơ" — luật pháp khôn
 
 ## Chín Đặc Điểm Nhận Dạng Con Thú Từ Biển
 
-**Thứ nhất — trỗi dậy từ vùng đông dân.** Khải Huyền 17:15 giải nghĩa: "Những dòng nước ngươi đã thấy... là các dân tộc, các đoàn người, các nước và các tiếng." Quyền lực này trỗi dậy từ vùng Tây Âu đông dân.
+**Thứ nhất — trỗi dậy từ vùng đông dân.** Khải Huyền 17:15 giải nghĩa: "Những dòng nước ngươi đã thấy… là các dân tộc, các đoàn người, các nước và các tiếng." Quyền lực này trỗi dậy từ vùng Tây Âu đông dân.
 
 **Thứ hai — nhận quyền từ La-mã ngoại giáo.** Khải Huyền 13:2 nói con rồng ban cho nó sức mạnh, ngôi, và quyền lớn. Con rồng luôn dùng một kẻ đại diện. Trong câu chuyện Giáng Sinh, Sa-tan đứng đằng sau, La-mã đế quốc là gương mặt, và Hê-rốt là cá nhân thực hiện hành động giết các bé trai. Quan tổng đốc La-mã đã kết án Đức Chúa Giê-su, và lính La-mã đã đóng đinh Ngài. Trường Đại học La-mã, Khoa Lịch Sử ghi nhận: "Sự kế vị các Sê-sa được nối tiếp bởi sự kế vị các Giáo hoàng. Khi Constantine rời La-mã, ông đã trao **ghế của mình** cho Giáo hoàng."
 

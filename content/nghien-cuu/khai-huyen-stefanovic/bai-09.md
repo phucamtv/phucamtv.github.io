@@ -48,7 +48,7 @@ Trong nguyên ngữ Hy Lạp, đây là con ngựa "đỏ rực như lửa". Tro
 
 Con ngựa đỏ này theo sau con ngựa trắng — nghĩa là **bắt bớ là hậu quả tất yếu khi Tin Lành được rao giảng**. Khi Đức Chúa Giê-su qua Tin Lành đi chinh phục lòng người, các thế lực gian ác chống cự kịch liệt. Những ai chối bỏ Tin Lành thường quay lại bắt bớ những ai tiếp nhận.
 
-Chính Đức Chúa Giê-su đã phán trong Ma-thi-ơ 10:34-36: "Chớ tưởng rằng ta đến để đem sự bình an cho thế gian; ta đến, không phải đem sự bình an, mà là đem gươm... Và người ta sẽ có kẻ thù nghịch, là người nhà mình." Ấn thứ hai gần như là lời lặp lại trực tiếp của câu phán này.
+Chính Đức Chúa Giê-su đã phán trong Ma-thi-ơ 10:34-36: "Chớ tưởng rằng ta đến để đem sự bình an cho thế gian; ta đến, không phải đem sự bình an, mà là đem gươm… Và người ta sẽ có kẻ thù nghịch, là người nhà mình." Ấn thứ hai gần như là lời lặp lại trực tiếp của câu phán này.
 
 Bối cảnh Cựu Ước cũng rất rõ nét. Trong Các Quan Xét 7:22, Ê-sai 19:2, và Xa-cha-ri 14:13, mỗi khi kẻ thù của dân Đức Chúa Trời quay nghịch lại dân Ngài, cuối cùng chúng đều quay sang giết hại lẫn nhau.
 
@@ -56,7 +56,7 @@ Bối cảnh Cựu Ước cũng rất rõ nét. Trong Các Quan Xét 7:22, Ê-sa
 
 ## Ấn thứ ba: Con ngựa đen và nạn đói thuộc linh
 
-> "Tôi nhìn xem, thấy một con ngựa ô. Kẻ ngồi trên ngựa tay cầm cái cân... Một đấu lúa mì bán một đơ-ni-ê, ba đấu lúa mạch bán một đơ-ni-ê, còn dầu và rượu chớ động đến." (Khải Huyền 6:5-6)
+> "Tôi nhìn xem, thấy một con ngựa ô. Kẻ ngồi trên ngựa tay cầm cái cân… Một đấu lúa mì bán một đơ-ni-ê, ba đấu lúa mạch bán một đơ-ni-ê, còn dầu và rượu chớ động đến." (Khải Huyền 6:5-6)
 
 Người cưỡi con ngựa đen không cầm vũ khí mà cầm cân để cân lương thực. Lúa mì, lúa mạch, dầu và rượu là bốn loại nông sản chính ở vùng đất Pa-le-tin, là biểu tượng của sự sống thường nhật.
 

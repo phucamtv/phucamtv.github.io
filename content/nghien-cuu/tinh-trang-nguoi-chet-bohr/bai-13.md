@@ -38,7 +38,7 @@ Flavius Josephus, một người Pha-ri-si sinh năm 37 SCN, mô tả niềm tin
 
 **Thứ sáu**, dụ ngôn mô tả người giàu có **mắt**, có **lưỡi**, và La-xa-rơ có **ngón tay** — tức họ có các bộ phận của thân thể. Nhưng khi một người chết, thân thể họ được chôn trong mồ. Trong Ma-thi-ơ 5:29–30, Đức Chúa Giê-su phán rằng *"cả thân thể"*, chứ không phải linh hồn, sẽ bị quăng vào hỏa ngục — và điều này xảy ra vào ngày tận thế, không phải lúc chết.
 
-Ngay cả Robert Morey, một người tin và bênh vực thuyết linh hồn bất tử, cũng thừa nhận trong sách *Death and the Afterlife* rằng *"các ra-bi dùng những câu chuyện và đối thoại tưởng tượng làm phương pháp giảng dạy... mọi người đều hiểu rằng các đối thoại này chưa bao giờ thực sự xảy ra."*
+Ngay cả Robert Morey, một người tin và bênh vực thuyết linh hồn bất tử, cũng thừa nhận trong sách *Death and the Afterlife* rằng *"các ra-bi dùng những câu chuyện và đối thoại tưởng tượng làm phương pháp giảng dạy… mọi người đều hiểu rằng các đối thoại này chưa bao giờ thực sự xảy ra."*
 
 ---
 
@@ -82,7 +82,7 @@ Nhưng sự ứng nghiệm trọn vẹn còn ở phía trước. Trong Ma-thi-ơ
 
 Đức Chúa Giê-su mượn một câu chuyện đang lưu hành trong giới Pha-ri-si như một phương tiện để dạy một chân lý lớn: **phải tin Đức Chúa Giê-su là Đấng Mê-si-a, dựa trên Kinh Thánh và trên quyền năng của Đức Chúa Trời được tỏ ra qua chức vụ của Ngài.**
 
-Trong Giăng 5:39–40, Đức Chúa Giê-su phán: *"Các ngươi dò xem Kinh Thánh... ấy là Kinh Thánh làm chứng về ta. Các ngươi không muốn đến cùng ta để được sự sống."* Trên đường về Em-ma-út, Lu-ca 24:27 chép Ngài *"bắt đầu từ Môi-se, rồi kế đến mọi đấng tiên tri, mà cắt nghĩa cho hai người đó những lời chỉ về Ngài trong cả Kinh Thánh."* Và trong Lu-ca 24:44–46, Ngài nhắc các môn đồ rằng mọi điều chép về Ngài trong luật pháp Môi-se, các đấng tiên tri và Thi Thiên đều phải được ứng nghiệm — Đấng Christ phải chịu khổ nạn và **sống lại từ kẻ chết** vào ngày thứ ba.
+Trong Giăng 5:39–40, Đức Chúa Giê-su phán: *"Các ngươi dò xem Kinh Thánh… ấy là Kinh Thánh làm chứng về ta. Các ngươi không muốn đến cùng ta để được sự sống."* Trên đường về Em-ma-út, Lu-ca 24:27 chép Ngài *"bắt đầu từ Môi-se, rồi kế đến mọi đấng tiên tri, mà cắt nghĩa cho hai người đó những lời chỉ về Ngài trong cả Kinh Thánh."* Và trong Lu-ca 24:44–46, Ngài nhắc các môn đồ rằng mọi điều chép về Ngài trong luật pháp Môi-se, các đấng tiên tri và Thi Thiên đều phải được ứng nghiệm — Đấng Christ phải chịu khổ nạn và **sống lại từ kẻ chết** vào ngày thứ ba.
 
 Thay vì kết thúc trong lòng Áp-ra-ham, người công chính sẽ kết thúc trong vương quốc cùng với Đức Chúa Giê-su, được các thiên sứ đem đến với Ngài khi Ngài tái lâm — không phải đem xuống Hades. Và những kẻ chối bỏ Kinh Thánh cùng quyền năng của Đức Chúa Trời sẽ bị thiêu hủy trong lửa vào ngày tận thế.
 

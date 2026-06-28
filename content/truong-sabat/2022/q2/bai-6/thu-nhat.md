@@ -6,7 +6,7 @@ weight: 2
 ---
 `Đọc Sáng-thế Ký 12:1–9. Tại sao Đức Chúa Trời kêu gọi Áp-ram ra khỏi quê hương và gia đình của mình? Áp-ram hưởng ứng thế nào?`
 
-Lần cuối cùng mà Đức Chúa Trời đã nói với một người, ít nhất là như được ghi lại trong Kinh Thánh, đó là với Nô-ê, để trấn an ông sau nước lụt rằng Ngài sẽ thiết lập giao ước với tất cả các loài xác thịt (Sáng-thế Ký 9:15–17) và giao ước khác là sẽ không còn nướclụt trên phạm vi toàn thế giới. Bây giờ đối với Áp-ram,lời của Đức Chúa Trời khác hẳn và kết nối lại với lời hứa đó: tất cả các dân tộc trên đất sẽ được ban phước qua Áp-ram.
+Lần cuối cùng mà Đức Chúa Trời đã nói với một người, ít nhất là như được ghi lại trong Kinh Thánh, đó là với Nô-ê, để trấn an ông sau nước lụt rằng Ngài sẽ thiết lập giao ước với tất cả các loài xác thịt (Sáng-thế Ký 9:15–17) và giao ước khác là sẽ không còn nước lụt trên phạm vi toàn thế giới. Bây giờ đối với Áp-ram, lời của Đức Chúa Trời khác hẳn và kết nối lại với lời hứa đó: tất cả các dân tộc trên đất sẽ được ban phước qua Áp-ram.
 
 Sự ứng nghiệm của lời tiên tri đó bắt đầu bằng việc rời bỏ quá khứ. Áp-ram rời bỏ tất cả những gì quen thuộc với ông, gia đình và quê hương, thậm chí là một phần của bản thân ông. Cường độ của việc ra đi này được phản ánh trong việc lặp lại từ khóa “đi”, xuất hiện bảy lần trong bối cảnh này. Áp-ram trước tiên phải rời khỏi xứ mình, “U-rơ xứ Canh-đê” cũng là Ba-by-lôn (Sáng-thế Ký 11:31; Ê-sai 13:19). Lời kêu gọi “ra khỏi Ba-by-lôn” đã có một lịch sử lâu đời trong số các tiên tri của Kinh Thánh (Ê-sai 48:20, Khải Huyền 18:4).
 

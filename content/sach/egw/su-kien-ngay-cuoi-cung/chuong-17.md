@@ -13,7 +13,7 @@ summary: ""
 
 Những biến cố trọng đại đang ở trước mắt chúng ta vẫn còn phải xảy đến. Hết tiếng kèn này đến tiếng kèn khác sẽ vang lên; hết bát này đến bát khác sẽ lần lượt được đổ ra trên cư dân của trái đất.—Selected Messages 3:426 (1890). LDE 238.1
 
-Chẳng bao lâu nữa, thế gian sẽ bị thiên sứ của lòng thương xót lìa bỏ, và bảy tai vạ cuối cùng sẽ được đổ ra.... Những tia sấm sét của cơn thạnh nộ Đức Chúa Trời sắp giáng xuống, và khi Ngài bắt đầu trừng phạt những kẻ vi phạm thì sẽ không có một khoảng thời gian tạm nghỉ nào cho đến cuối cùng.—Testimonies to Ministers and Gospel Workers, 182 (1894). LDE 238.2
+Chẳng bao lâu nữa, thế gian sẽ bị thiên sứ của lòng thương xót lìa bỏ, và bảy tai vạ cuối cùng sẽ được đổ ra.… Những tia sấm sét của cơn thạnh nộ Đức Chúa Trời sắp giáng xuống, và khi Ngài bắt đầu trừng phạt những kẻ vi phạm thì sẽ không có một khoảng thời gian tạm nghỉ nào cho đến cuối cùng.—Testimonies to Ministers and Gospel Workers, 182 (1894). LDE 238.2
 
 ## Các Quốc Gia Trong Cuộc Xung Đột
 
@@ -44,7 +44,7 @@ Tình yêu thương của Đức Chúa Trời trong thời đại chúng ta đư
 > "Đó là điều ngươi đã làm, còn ta nín lặng; Ngươi tưởng rằng ta thật y như ngươi; Nhưng ta sẽ trách phạt ngươi, trương các điều đó ra trước mặt ngươi."
 > <cite>(Thi-thiên 50:21)</cite>
 
-Họ đo lường Đức Chúa Trời bằng chính mình. Họ lý luận về cách họ sẽ hành động trong những hoàn cảnh đó và quyết định rằng Đức Chúa Trời sẽ làm như họ tưởng tượng họ sẽ làm.... LDE 240.5
+Họ đo lường Đức Chúa Trời bằng chính mình. Họ lý luận về cách họ sẽ hành động trong những hoàn cảnh đó và quyết định rằng Đức Chúa Trời sẽ làm như họ tưởng tượng họ sẽ làm.… LDE 240.5
 
 Trong bất kỳ vương quốc hay chính phủ nào, không có việc để cho kẻ phạm pháp nói hình phạt nào sẽ được thi hành đối với những người đã vi phạm luật pháp. Tất cả những gì chúng ta có, tất cả những phước lành thuộc ân điển của Ngài mà chúng ta sở hữu, chúng ta đều mắc nợ Đức Chúa Trời. Tính chất nghiêm trọng của tội lỗi chống nghịch một Đức Chúa Trời như vậy không thể nào ước lượng được, cũng như không ai có thể đo các tầng trời bằng gang tay. Đức Chúa Trời vừa là Đấng Quản Trị đạo đức vừa là một người Cha. Ngài là Đấng Lập Pháp. Ngài làm ra và thi hành luật pháp của Ngài. Luật pháp không có hình phạt thì không có hiệu lực. LDE 241.1
 
@@ -94,7 +94,7 @@ Các tai vạ đang giáng trên cư dân của trái đất. Một số ngườ
 
 Tôi đã thấy rằng bốn vị thiên sứ sẽ giữ bốn ngọn gió cho đến khi công việc của Đức Chúa Giê-su trong đền thánh được hoàn tất, và rồi bảy tai vạ cuối cùng sẽ đến. Những tai vạ này khiến những kẻ ác nổi giận chống lại những người công bình; chúng nghĩ rằng chúng tôi đã đem sự phán xét của Đức Chúa Trời giáng trên chúng và nếu chúng có thể trừ khử chúng tôi khỏi mặt đất thì các tai vạ sẽ ngừng lại. Một sắc lệnh được ban ra để giết hại các thánh đồ, điều này khiến họ phải kêu cầu ngày đêm để được giải cứu.—Early Writings, 36, 37 (1851). LDE 245.1
 
-Và "các sông cùng các suối nước... biến ra huyết". Mặc dù những hình phạt này thật khủng khiếp, nhưng sự công bình của Đức Chúa Trời vẫn được biện minh trọn vẹn. Thiên sứ của Đức Chúa Trời tuyên bố:
+Và "các sông cùng các suối nước… biến ra huyết". Mặc dù những hình phạt này thật khủng khiếp, nhưng sự công bình của Đức Chúa Trời vẫn được biện minh trọn vẹn. Thiên sứ của Đức Chúa Trời tuyên bố:
 
 > "Vị thiên sứ thứ nhất đi trút bát mình xuống đất, thì trở nên ghẻ chốc dữ và đau trên những người có dấu con thú cùng thờ lạy hình tượng nó. Vị thiên sứ thứ hai, trút bát mình xuống biển, thì biển biến ra huyết, như huyết người chết; phàm sinh vật ở trong biển đều chết hết. Vị thiên sứ thứ ba, trút bát mình xuống các sông cùng các suối nước, thì nước biến ra huyết. Tôi nghe thiên sứ của nước nói rằng: Hỡi <i>Đấng hiện có, đã có,</i> tức là Đấng Thánh, Ngài là công bình, vì Ngài đã phán xét thể này; bởi vì chúng nó đã làm đổ huyết của các thánh đồ cùng của các đấng tiên tri, và Ngài đã cho chúng nó uống huyết: Thật là đáng lắm."
 > <cite>(Khải-huyền 16:2-6)</cite>
@@ -108,7 +108,7 @@ Trong tai vạ tiếp theo, quyền phép được ban cho mặt trời “để
 > "Vị thiên sứ thứ tư trút bát mình trên mặt trời, thì mặt trời được quyền lấy lửa làm sém loài người. Loài người bị lửa rất nóng làm sém, chúng nó nói phạm đến danh Đức Chúa Trời là Đấng có quyền trên các tai nạn ấy, và chúng nó cũng không ăn năn để dâng vinh hiển cho Ngài."
 > <cite>(Khải-huyền 16:8-9)</cite>
 
-Các tiên tri đã mô tả tình trạng của trái đất trong thời điểm khủng khiếp này như sau: “Đồng ruộng bị phá hoang,... vì lúa mì hư mất.... Hết thảy cây cối ngoài đồng đều khô héo; sự vui vẻ đã khô héo đi khỏi con trai loài người!” “Hột giống đã teo đi dưới những cục đất nó; kho đụn đã hủy phá.... Kìa, súc vật rên siết! Những bầy bò bối rối, vì không có đồng cỏ.... Các dòng nước đã khô, lửa đã nuốt những đám cỏ nơi đồng vắng.” “Trong ngày đó, những bài hát trong đền thờ sẽ là tiếng khóc than, Chúa Giê-hô-va phán vậy. Sẽ có nhiều xác chết mà người ta làm thinh quăng ra mọi nơi”
+Các tiên tri đã mô tả tình trạng của trái đất trong thời điểm khủng khiếp này như sau: “Đồng ruộng bị phá hoang,… vì lúa mì hư mất.… Hết thảy cây cối ngoài đồng đều khô héo; sự vui vẻ đã khô héo đi khỏi con trai loài người!” “Hột giống đã teo đi dưới những cục đất nó; kho đụn đã hủy phá.… Kìa, súc vật rên siết! Những bầy bò bối rối, vì không có đồng cỏ.… Các dòng nước đã khô, lửa đã nuốt những đám cỏ nơi đồng vắng.” “Trong ngày đó, những bài hát trong đền thờ sẽ là tiếng khóc than, Chúa Giê-hô-va phán vậy. Sẽ có nhiều xác chết mà người ta làm thinh quăng ra mọi nơi”
 
 > "Đồng ruộng bị phá hoang, và đất đương sầu thảm; vì lúa mì bị hủy hại, rượu mới đã cạn, dầu đã hao tổn. Hỡi kẻ cày ruộng, hãy hổ thẹn; hỡi kẻ làm vườn nho, hãy than khóc, vì cớ lúa mì và mạch nha, vì mùa ngoài đồng đã mất. Cây nho khô héo, cây vả hao mòn; cây lựu cũng như cây chà là, cây tần, mọi cây cối ngoài đồng đều khô héo; sự vui vẻ đã khô héo đi khỏi con trai loài người! Hột giống đã teo đi dưới những cục đất nó; kho đụn đã hủy phá, huân lẫm đổ nát, vì lúa mì khô héo. Kìa, súc vật rên siết! Kìa, bầy bò bối rối! Ấy là tại chúng nó không có đồng cỏ nữa! Những bầy chiên cũng khốn khổ. Hỡi Đức Giê-hô-va, tôi kêu cầu Ngài; vì lửa đã nuốt những đám cỏ nơi đồng vắng, ngọn lửa đã thiêu hết thảy cây cối ngoài đồng! Thật, những thú đồng cũng thở dốc cho Ngài, vì các dòng nước đã khô, lửa đã nuốt những đám cỏ nơi đồng vắng."
 > <cite>(Giô-ên 1:10-12,17-20)</cite>
@@ -122,7 +122,7 @@ Những tai vạ này không phải có tính phổ quát, vì nếu vậy thì 
 
 ## Tai Vạ Thứ Năm
 
-Với những tiếng reo hò chiến thắng, chế nhạo và nguyền rủa, đám đông những kẻ ác đang sắp xông vào con mồi của mình, thì kìa, một bóng tối dày đặc, sâu thẳm hơn cả bóng đêm, phủ xuống trên đất. Rồi một cầu vồng, chiếu sáng với vinh quang từ ngai của Đức Chúa Trời, vắt ngang các tầng trời, và dường như bao quanh mỗi nhóm người đang cầu nguyện. Đám đông giận dữ bỗng nhiên bị chặn đứng. Những tiếng chế nhạo của chúng tắt lịm. Những đối tượng của cơn thịnh nộ giết người của chúng bị lãng quên. Với những điềm báo đáng sợ, chúng nhìn chằm chằm vào biểu tượng giao ước của Đức Chúa Trời, và khao khát được che chở khỏi ánh sáng chói lòa áp đảo của nó.... LDE 246.2
+Với những tiếng reo hò chiến thắng, chế nhạo và nguyền rủa, đám đông những kẻ ác đang sắp xông vào con mồi của mình, thì kìa, một bóng tối dày đặc, sâu thẳm hơn cả bóng đêm, phủ xuống trên đất. Rồi một cầu vồng, chiếu sáng với vinh quang từ ngai của Đức Chúa Trời, vắt ngang các tầng trời, và dường như bao quanh mỗi nhóm người đang cầu nguyện. Đám đông giận dữ bỗng nhiên bị chặn đứng. Những tiếng chế nhạo của chúng tắt lịm. Những đối tượng của cơn thịnh nộ giết người của chúng bị lãng quên. Với những điềm báo đáng sợ, chúng nhìn chằm chằm vào biểu tượng giao ước của Đức Chúa Trời, và khao khát được che chở khỏi ánh sáng chói lòa áp đảo của nó.… LDE 246.2
 
 Chính vào lúc nửa đêm, Đức Chúa Trời tỏ bày quyền năng của Ngài để giải cứu dân sự Ngài. Mặt trời hiện ra, chiếu sáng trong sức mạnh của nó. Những dấu kỳ và phép lạ tiếp nối nhau nhanh chóng. Kẻ ác kinh hoàng và sửng sốt nhìn cảnh tượng ấy, trong khi người công bình chiêm ngưỡng với niềm vui trang trọng những dấu hiệu của sự giải cứu mình.—The Great Controversy, 635, 636 (1911). LDE 246.3
 
@@ -143,7 +143,7 @@ Tất cả đều đồng lòng trút sự lên án cay đắng nhất lên các
 
 Tại đây chúng ta thấy rằng Hội Thánh—đền thánh của Chúa—là nơi đầu tiên cảm nhận đòn giáng của cơn thạnh nộ Đức Chúa Trời. Những kẻ già cả [Ê-xê-chi-ên 9:6], những người mà Đức Chúa Trời đã ban ánh sáng lớn và đã đứng làm những kẻ canh giữ những lợi ích thiêng liêng của dân sự, đã phản bội sự tin cậy giao phó cho họ.—Testimonies for the Church 5:211 (1882). LDE 248.1
 
-Lời Đức Chúa Trời bị làm cho ra vô hiệu bởi những kẻ chăn giả dối.... Công việc của họ chẳng bao lâu sẽ phản ứng lại trên chính họ. Bấy giờ sẽ chứng kiến những cảnh tượng được mô tả trong Khải Huyền 18 khi sự phán xét của Đức Chúa Trời giáng xuống trên Ba-by-lôn huyền bí.—Manuscript 60, 1900. LDE 248.2
+Lời Đức Chúa Trời bị làm cho ra vô hiệu bởi những kẻ chăn giả dối.… Công việc của họ chẳng bao lâu sẽ phản ứng lại trên chính họ. Bấy giờ sẽ chứng kiến những cảnh tượng được mô tả trong Khải Huyền 18 khi sự phán xét của Đức Chúa Trời giáng xuống trên Ba-by-lôn huyền bí.—Manuscript 60, 1900. LDE 248.2
 
 ## Tai Vạ Thứ Sáu
 
@@ -202,4 +202,4 @@ Trận chiến Ha-ma-ghê-đôn sắp được khởi sự. Đấng mà trên á
 
 —The S.D.A. Bible Commentary 7:982 (1899). LDE 251.4
 
-Cả trái đất rung chuyển và phồng lên như những cơn sóng biển. Bề mặt của nó vỡ tung. Chính nền tảng của nó dường như sụp đổ. Các dãy núi đang chìm xuống. Các hòn đảo có người ở biến mất. Các hải cảng đã trở nên gian ác như Sô-đôm bị các dòng nước cuồng nộ nuốt chửng.... Những thành phố kiêu hãnh nhất trên đất bị san bằng. Các cung điện nguy nga, mà các bậc vĩ nhân của thế gian đã đổ ra của cải mình để tôn vinh chính mình, đang sụp đổ thành đống đổ nát trước mắt họ. Các tường nhà tù bị xé toạc, và dân sự của Đức Chúa Trời, là những người đã bị giam cầm vì đức tin của mình, được tự do.—The Great Controversy, 637 (1911). LDE 251.5
+Cả trái đất rung chuyển và phồng lên như những cơn sóng biển. Bề mặt của nó vỡ tung. Chính nền tảng của nó dường như sụp đổ. Các dãy núi đang chìm xuống. Các hòn đảo có người ở biến mất. Các hải cảng đã trở nên gian ác như Sô-đôm bị các dòng nước cuồng nộ nuốt chửng.… Những thành phố kiêu hãnh nhất trên đất bị san bằng. Các cung điện nguy nga, mà các bậc vĩ nhân của thế gian đã đổ ra của cải mình để tôn vinh chính mình, đang sụp đổ thành đống đổ nát trước mắt họ. Các tường nhà tù bị xé toạc, và dân sự của Đức Chúa Trời, là những người đã bị giam cầm vì đức tin của mình, được tự do.—The Great Controversy, 637 (1911). LDE 251.5

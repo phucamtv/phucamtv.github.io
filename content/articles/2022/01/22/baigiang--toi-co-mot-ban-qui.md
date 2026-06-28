@@ -12,7 +12,7 @@ draft: false
 
 {{< youtube "125G8fcqk_w" >}}
 
-Tình bạn là một điều vô cùng cao quý trong cuộc sống con người. La Fontaine đã từng nói rằng tình yêu đã hiếm, tình bạn chân thật còn hiếm hơn. Đức Chúa Trời đã ban cho chúng ta đầy đủ các loại tình yêu: tình cha con, tình mẹ con, tình vợ chồng, tình anh em, tình thầy trò, tình bạn... Tất cả đều là hình ảnh để chúng ta cảm nhận được phần nào tình yêu Đức Chúa Trời dành cho con người. Điều đặc biệt là chỉ riêng trong Cơ-đốc giáo, Đức Chúa Trời đã hạ mình xuống để trở thành bạn của loài người.
+Tình bạn là một điều vô cùng cao quý trong cuộc sống con người. La Fontaine đã từng nói rằng tình yêu đã hiếm, tình bạn chân thật còn hiếm hơn. Đức Chúa Trời đã ban cho chúng ta đầy đủ các loại tình yêu: tình cha con, tình mẹ con, tình vợ chồng, tình anh em, tình thầy trò, tình bạn… Tất cả đều là hình ảnh để chúng ta cảm nhận được phần nào tình yêu Đức Chúa Trời dành cho con người. Điều đặc biệt là chỉ riêng trong Cơ-đốc giáo, Đức Chúa Trời đã hạ mình xuống để trở thành bạn của loài người.
 
 ## 1. Tình bạn của Đa-vít và Giô-na-than
 

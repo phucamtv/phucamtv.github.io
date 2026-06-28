@@ -6,7 +6,7 @@ weight: 5
 ---
 `Xin đọc Đa-ni-ên 3:19-27. Có điều gì đã xảy ra? Ai là người còn lại (người thứ 4) trong lò lửa?`
 
-Sau khi ném những người thanh niên trung tín Do Thái vào lò lửa, Nê-bu-cát-nết-sa bối rối khi thấy sự hiện diện của người thứ tư bên trong lò lửa. Theo hiểu biết của mình, vua xác định nhân vật thứ tư là “...một con trai của các thần” (Đa-ni-ên 3:25).
+Sau khi ném những người thanh niên trung tín Do Thái vào lò lửa, Nê-bu-cát-nết-sa bối rối khi thấy sự hiện diện của người thứ tư bên trong lò lửa. Theo hiểu biết của mình, vua xác định nhân vật thứ tư là “…một con trai của các thần” (Đa-ni-ên 3:25).
 
 Vua không thể nói nhiều hơn nữa, nhưng chúng ta biết người thứ tư đó là ai. Người xuất hiện cùng Áp-ra-ham trước sự hủy diệt Sô-đôm và Gô-mô-rơ, vật lộn với Gia-cốp bên rạch Gia-bốc và bày tỏ Ngài cùng Môi-se trong bụi gai đang cháy. Ngài chính là Đức Chúa Giê-su Cơ-đốc trong hình thể con người, đến để bày tỏ rằng Đức Chúa Trời đang đứng giữa dân sự Ngài trong mọi hoạn nạn.
 

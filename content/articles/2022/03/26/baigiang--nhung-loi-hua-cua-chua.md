@@ -74,7 +74,7 @@ Qua tuổi 60, con người nhìn cuộc đời khác hẳn — nhận ra sự s
 
 ### Lời hứa về sự tái lâm và Nước Thiên Đàng
 
-> *"Lòng các ngươi chớ hề bối rối; hãy tin Đức Chúa Trời, cũng hãy tin ta nữa. Trong nhà Cha ta có nhiều chỗ ở... ta đi sắm sẵn cho các ngươi một chỗ. Khi ta đã đi và đã sắm sẵn cho các ngươi một chỗ rồi, ta sẽ trở lại đem các ngươi đi với ta."* — Giăng 14:1-3
+> *"Lòng các ngươi chớ hề bối rối; hãy tin Đức Chúa Trời, cũng hãy tin ta nữa. Trong nhà Cha ta có nhiều chỗ ở… ta đi sắm sẵn cho các ngươi một chỗ. Khi ta đã đi và đã sắm sẵn cho các ngươi một chỗ rồi, ta sẽ trở lại đem các ngươi đi với ta."* — Giăng 14:1-3
 
 Hãy đọc lời hứa này với tên của chính mình, và sẽ cảm nhận được rằng đây không phải là lời hứa chung chung xa xôi, mà là lời hứa cá nhân cho mỗi người.
 

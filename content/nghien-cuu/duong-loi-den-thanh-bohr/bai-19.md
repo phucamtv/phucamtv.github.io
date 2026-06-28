@@ -54,7 +54,7 @@ Sau sự thất vọng, Đức Chúa Giê-su không an ủi các môn đồ bằ
 
 > "Hỡi những kẻ dại dột, có lòng chậm tin lời các đấng tiên tri nói! Há chẳng phải Đấng Christ chịu thương khó thể ấy, mới được vào sự vinh hiển mình sao? Đoạn, Ngài bắt đầu từ Môi-se rồi kế đến mọi đấng tiên tri mà cắt nghĩa cho hai người đó những lời chỉ về Ngài trong cả Kinh Thánh." (Lu-ca 24:25-27)
 
-Trong căn phòng cao, Ngài lặp lại phương pháp ấy: "Mọi sự đã chép về ta trong luật pháp Môi-se, các sách tiên tri, cùng các Thi Thiên phải được ứng nghiệm... Đoạn, Ngài mở trí cho môn đồ được hiểu Kinh Thánh" (Lu-ca 24:44-45).
+Trong căn phòng cao, Ngài lặp lại phương pháp ấy: "Mọi sự đã chép về ta trong luật pháp Môi-se, các sách tiên tri, cùng các Thi Thiên phải được ứng nghiệm… Đoạn, Ngài mở trí cho môn đồ được hiểu Kinh Thánh" (Lu-ca 24:44-45).
 
 Hai môn đồ ở Em-ma-út đã thốt lên: "Khi nãy đi đường, Ngài nói cùng chúng ta và cắt nghĩa Kinh Thánh, lòng chúng ta há chẳng nóng nảy sao?" (Lu-ca 24:32). Họ đã đúng về thời điểm, nhưng sai về sự kiện. Khi sự sai lầm về sự kiện được sửa lại bởi Kinh Thánh, dư đảng nhỏ này trở thành hạt nhân của Hội Thánh Cơ-đốc, còn Do Thái Giáo — hệ thống tôn giáo đã từng là Hội Thánh của Đức Chúa Trời — thì rơi vào sự bội đạo vì khước từ bước vào nơi thánh cùng với Đấng Mê-si-a.
 
@@ -70,7 +70,7 @@ Khải Huyền 14:6-7 cũng tuyên bố "giờ phán xét của Ngài đã đế
 
 Dựa trên các lời tiên tri ấy, một phong trào thuộc linh lớn đã bùng lên tại Hoa Kỳ và lan ra nhiều xứ — phong trào liên giáo phái và xuyên lục địa được biết đến như cuộc Đại Tỉnh Thức Cơ-đốc Phục Lâm. Người dẫn đầu nổi tiếng nhất là William Miller, một nông dân và cựu chiến binh. Hơn 50.000 người chỉ riêng tại vùng New England đã rao giảng sứ điệp này. Nhưng họ đã mắc cùng một loại sai lầm như các môn đồ ngày xưa: họ đúng về thời điểm, nhưng sai về sự kiện. Họ giảng rằng Đức Chúa Giê-su sẽ trở lại đất vào ngày 22 tháng 10 năm 1844 để tẩy sạch trái đất bằng lửa và lập vương quốc đời đời.
 
-Trong sách *Christian Experience and Teachings*, trang 50, bà Ellen White — người đã đích thân tham dự phong trào — viết: "Tại mọi miền trong xứ, ánh sáng được ban cho về sứ điệp này, và tiếng kêu đã đánh thức hàng ngàn người... Đó là năm hạnh phúc nhất trong đời tôi."
+Trong sách *Christian Experience and Teachings*, trang 50, bà Ellen White — người đã đích thân tham dự phong trào — viết: "Tại mọi miền trong xứ, ánh sáng được ban cho về sứ điệp này, và tiếng kêu đã đánh thức hàng ngàn người… Đó là năm hạnh phúc nhất trong đời tôi."
 
 ---
 
@@ -78,7 +78,7 @@ Trong sách *Christian Experience and Teachings*, trang 50, bà Ellen White — 
 
 Ngày 22 tháng 10 năm 1844 đã đến và đã qua. Đức Chúa Giê-su không trở lại. Niềm vui ngọt như mật đã trở thành đắng cay — đúng như khải tượng trong Khải Huyền 10, khi sứ đồ Giăng nuốt cuốn sách nhỏ: ngọt trong miệng nhưng đắng trong bụng.
 
-Hiram Edson, một trong những người tham dự, đã ghi lại đêm hôm ấy: "Niềm trông mong của chúng tôi được nâng cao tột đỉnh, và chúng tôi chờ đợi Chúa cho đến khi đồng hồ điểm 12 giờ khuya. Ngày đã trôi qua, và sự thất vọng của chúng tôi đã thành sự thật. Mọi hy vọng yêu dấu nhất của chúng tôi đều tiêu tan, và một thần khóc lóc tràn xuống chúng tôi như tôi chưa từng kinh nghiệm... Chúng tôi khóc, khóc mãi cho đến khi trời sáng."
+Hiram Edson, một trong những người tham dự, đã ghi lại đêm hôm ấy: "Niềm trông mong của chúng tôi được nâng cao tột đỉnh, và chúng tôi chờ đợi Chúa cho đến khi đồng hồ điểm 12 giờ khuya. Ngày đã trôi qua, và sự thất vọng của chúng tôi đã thành sự thật. Mọi hy vọng yêu dấu nhất của chúng tôi đều tiêu tan, và một thần khóc lóc tràn xuống chúng tôi như tôi chưa từng kinh nghiệm… Chúng tôi khóc, khóc mãi cho đến khi trời sáng."
 
 Đây là những con người đã yêu mến Chúa hết lòng. Họ đã bỏ khoai tây không thu hoạch ngoài đồng vì tin rằng Đức Chúa Giê-su sẽ đến. Họ đã dùng tiền riêng để in sách báo công bố sự đến của Ngài, đã trả nợ cho anh em mình, đã cầu nguyện thâu đêm, đã xưng tội cùng nhau và làm hòa với mọi người. Nhưng hy vọng của họ tan vỡ vì họ đã hiểu sai về tiên tri.
 

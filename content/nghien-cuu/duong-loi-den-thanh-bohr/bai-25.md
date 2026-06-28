@@ -76,7 +76,7 @@ Kinh Thánh gọi kẻ địch lại Đấng Christ là "con của sự hư mấ
 
 Như vậy, kẻ địch lại Đấng Christ không phải là một kẻ phạm thượng từ bên ngoài, mà là **một kẻ nội bộ** xưng nhận hầu việc Đức Chúa Giê-su nhưng thực ra phản bội Ngài. Ngay cả tác giả Dave Hunt, dù chủ trương phương pháp giải kinh tương lai luận, đã viết rất chính xác trong cuốn *Global Peace*:
 
-> "Tiền tố Hy Lạp *anti* thường có nghĩa là 'chống lại', nhưng cũng có thể có nghĩa là 'thay thế'. Kẻ địch lại Đấng Christ sẽ thể hiện cả hai ý nghĩa này. Hắn sẽ chống lại Đấng Christ trong khi giả vờ là Đấng Christ. Thay vì tấn công Cơ-đốc Giáo trực diện, kẻ ác sẽ làm hư hỏng Hội Thánh từ bên trong bằng cách giả làm Đấng sáng lập của nó... Nếu kẻ địch lại Đấng Christ thực sự giả làm Đấng Christ, thì những kẻ theo hắn phải là những Cơ-đốc nhân."
+> "Tiền tố Hy Lạp *anti* thường có nghĩa là 'chống lại', nhưng cũng có thể có nghĩa là 'thay thế'. Kẻ địch lại Đấng Christ sẽ thể hiện cả hai ý nghĩa này. Hắn sẽ chống lại Đấng Christ trong khi giả vờ là Đấng Christ. Thay vì tấn công Cơ-đốc Giáo trực diện, kẻ ác sẽ làm hư hỏng Hội Thánh từ bên trong bằng cách giả làm Đấng sáng lập của nó… Nếu kẻ địch lại Đấng Christ thực sự giả làm Đấng Christ, thì những kẻ theo hắn phải là những Cơ-đốc nhân."
 
 Điều đáng tiếc là chính phương pháp tương lai luận đã làm mù mắt Dave Hunt, không cho ông thấy rằng giáo hoàng Rô-ma đã ứng nghiệm bức tranh này trong suốt thời Trung Cổ.
 
@@ -138,9 +138,9 @@ Khải Huyền 13:5-6 mô tả con thú "mở miệng nói những lời phạm 
 
 Bộ bách khoa Công giáo *Prompta Bibliotheca* định nghĩa: "Giáo hoàng có thể sửa đổi luật pháp thiên thượng, vì quyền của ông không phải của loài người mà của Đức Chúa Trời, và ông hành động thay cho Đức Chúa Trời trên đất."
 
-Giáo hoàng Nicholas I (cai trị 858-867 SCN) tuyên bố: "Hiển nhiên là các giáo hoàng không thể bị buộc hay bị tháo bỏ bởi bất cứ quyền lực trần gian nào, kể cả quyền lực của sứ đồ Phi-e-rơ nếu ông có trở lại trên đất... Thần tính không thể bị xét đoán bởi bất cứ người sống nào. Vậy chúng ta là không thể sai lầm."
+Giáo hoàng Nicholas I (cai trị 858-867 SCN) tuyên bố: "Hiển nhiên là các giáo hoàng không thể bị buộc hay bị tháo bỏ bởi bất cứ quyền lực trần gian nào, kể cả quyền lực của sứ đồ Phi-e-rơ nếu ông có trở lại trên đất… Thần tính không thể bị xét đoán bởi bất cứ người sống nào. Vậy chúng ta là không thể sai lầm."
 
-Giáo hoàng Leo XIII viết trong thông điệp ngày 10 tháng 1 năm 1890: "Sự hiệp nhất tâm trí... đòi hỏi sự phục tùng và vâng lời hoàn toàn của ý chí đối với Hội Thánh và đối với Giáo hoàng Rô-ma, **như đối với chính Đức Chúa Trời**." Ngày 20 tháng 6 năm 1894, ông tuyên bố: "Chúng tôi giữ trên đất này địa vị của Đức Chúa Trời Toàn Năng."
+Giáo hoàng Leo XIII viết trong thông điệp ngày 10 tháng 1 năm 1890: "Sự hiệp nhất tâm trí… đòi hỏi sự phục tùng và vâng lời hoàn toàn của ý chí đối với Hội Thánh và đối với Giáo hoàng Rô-ma, **như đối với chính Đức Chúa Trời**." Ngày 20 tháng 6 năm 1894, ông tuyên bố: "Chúng tôi giữ trên đất này địa vị của Đức Chúa Trời Toàn Năng."
 
 Đây không phải là sự tấn công vào những người Công giáo. Có rất nhiều Cơ-đốc nhân Công giáo chân thành, yêu Chúa, không biết những điều này. Khi họ nghe và bắt đầu tìm kiếm, nhiều người sẵn sàng bước ra và đón nhận lẽ thật trong Đức Chúa Giê-su. Đức Chúa Giê-su quở trách các thầy thông giáo và Pha-ri-si trong Tòa Công Luận, nhưng không quở trách những người Do Thái Giáo chân thành — Công Vụ Các Sứ Đồ 6:7 nói cả vô số thầy tế lễ đã đón nhận đức tin Cơ-đốc.
 

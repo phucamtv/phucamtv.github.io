@@ -24,7 +24,7 @@ Hai sừng giống chiên con — biểu tượng luôn luôn chỉ về Đức 
 
 Khải Huyền 17:15 cho chúng ta chìa khóa giải mã biểu tượng nước:
 
-> "Những dòng nước ngươi đã thấy... tức là các dân, các đoàn người, các nước và các tiếng."
+> "Những dòng nước ngươi đã thấy… tức là các dân, các đoàn người, các nước và các tiếng."
 
 Nếu nước tượng trưng cho khu vực đông dân, thì đất — đối lập với nước — phải tượng trưng cho khu vực thưa dân. Khi con thú từ biển (La Mã giáo hoàng) đang suy tàn ở thế giới cũ đông đúc, thì con thú thứ hai phải xuất hiện ở một vùng đất mới, ít dân cư.
 
@@ -83,7 +83,7 @@ Kể từ đó, mọi tổng thống Hoa Kỳ đều đã đến gặp giáo ho�
 
 ## Đặc điểm thứ năm: Tạo dựng hình tượng cho con thú
 
-> "Nó lừa dối dân cư trên đất... biểu họ phải làm hình tượng cho con thú đã bị thương bằng gươm và đã sống lại." (Khải Huyền 13:14)
+> "Nó lừa dối dân cư trên đất… biểu họ phải làm hình tượng cho con thú đã bị thương bằng gươm và đã sống lại." (Khải Huyền 13:14)
 
 Nhà nước không tự làm; nó *bảo dân chúng* làm. Tại Hoa Kỳ, chính quyền là "do dân, vì dân" — nên chính người dân phải yêu cầu điều này. Yêu cầu cái gì? Một hình tượng — một bản sao — của La Mã giáo hoàng.
 

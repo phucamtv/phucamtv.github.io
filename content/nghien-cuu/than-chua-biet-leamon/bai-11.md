@@ -18,17 +18,17 @@ Chương 13 đưa chúng ta đến tối Thứ Năm trong tuần lễ cuối cù
 
 ## "Trở về cùng Cha": cái nhìn của người tin
 
-Giăng 13:1 chép: *"Trước ngày lễ Vượt Qua, Đức Chúa Giê-su biết giờ mình phải lìa thế gian này mà về cùng Đức Chúa Cha đến rồi..."* Hãy chú ý điều Đức Chúa Giê-su đang nghĩ tới. Ngài không nghĩ "Tôi sắp phải chết", mà nghĩ "Tôi sắp được trở về nhà."
+Giăng 13:1 chép: *"Trước ngày lễ Vượt Qua, Đức Chúa Giê-su biết giờ mình phải lìa thế gian này mà về cùng Đức Chúa Cha đến rồi…"* Hãy chú ý điều Đức Chúa Giê-su đang nghĩ tới. Ngài không nghĩ "Tôi sắp phải chết", mà nghĩ "Tôi sắp được trở về nhà."
 
 Là một mục sư tuyên úy bệnh viện, tôi thường gặp những người sắp qua đời. Người có đức tin luôn nhìn cái chết theo cách này: *"Tôi sắp được về nhà."* Còn người không tin thì nói: *"Tôi sắp xong rồi, sắp chết rồi"*, vì họ không thấy gì bên kia sự chết. Đó là sự khác biệt đẹp đẽ giữa người tin và người không tin. Đức Chúa Giê-su rõ ràng thuộc về nhóm thứ nhất: Ngài ý thức rằng mình sắp lìa thế gian này để về cùng Đức Chúa Cha — không phải về với hư vô, mà về với Cha mình.
 
-Kinh Thánh chép tiếp: *"...Ngài đã yêu kẻ thuộc về mình trong thế gian, thì cứ yêu cho đến cuối cùng."* Có người thắc mắc: nếu Đức Chúa Giê-su cũng được sống lại sau ba ngày, vậy có phải Ngài về thẳng với Đức Chúa Cha lúc qua đời không? Theo trải nghiệm cá nhân, không có khoảng cách giữa sự chết và sự sống lại — nhưng theo dòng thời gian thực tế, vẫn có một khoảng cách. Cả hai cách hiểu đều đúng: chúng ta về với Cha, và chúng ta cũng về với Cha sau sự sống lại.
+Kinh Thánh chép tiếp: *"…Ngài đã yêu kẻ thuộc về mình trong thế gian, thì cứ yêu cho đến cuối cùng."* Có người thắc mắc: nếu Đức Chúa Giê-su cũng được sống lại sau ba ngày, vậy có phải Ngài về thẳng với Đức Chúa Cha lúc qua đời không? Theo trải nghiệm cá nhân, không có khoảng cách giữa sự chết và sự sống lại — nhưng theo dòng thời gian thực tế, vẫn có một khoảng cách. Cả hai cách hiểu đều đúng: chúng ta về với Cha, và chúng ta cũng về với Cha sau sự sống lại.
 
 ---
 
 ## Đức Chúa Giê-su mặc lấy hình dạng đầy tớ
 
-Giăng là người duy nhất ghi lại sự kiện kế tiếp này, vì ông muốn chúng ta thấy điều mà các sách phúc âm khác không nhấn mạnh. *"Đức Chúa Giê-su biết rằng Cha đã giao phó mọi sự trong tay mình, và mình đã từ Đức Chúa Trời đến, cũng sẽ trở về cùng Đức Chúa Trời, nên đứng dậy khỏi bàn, cởi áo ra..."*
+Giăng là người duy nhất ghi lại sự kiện kế tiếp này, vì ông muốn chúng ta thấy điều mà các sách phúc âm khác không nhấn mạnh. *"Đức Chúa Giê-su biết rằng Cha đã giao phó mọi sự trong tay mình, và mình đã từ Đức Chúa Trời đến, cũng sẽ trở về cùng Đức Chúa Trời, nên đứng dậy khỏi bàn, cởi áo ra…"*
 
 Ngài lấy khăn thắt ngang lưng — đó là dáng vẻ của một đầy tớ hay nô lệ thời ấy, sẵn sàng phục vụ và rửa ráy cho khách. Hãy nhớ rằng Đức Chúa Giê-su không chỉ là Chiên Con sinh tế, mà còn là Đấng Tạo Hóa của vũ trụ cùng với Đức Chúa Cha. Vậy mà đây, Ngài hạ mình xuống vị trí của một đầy tớ.
 
@@ -90,10 +90,10 @@ Ngay cả trong Hội Thánh — vốn xưng là Hội Thánh của Đức Chúa
 
 ## Điều răn mới: hãy yêu nhau
 
-Đức Chúa Giê-su nói trong câu 15: *"Vì ta đã làm gương cho các ngươi, để các ngươi cũng làm như ta đã làm cho các ngươi. Quả thật, quả thật, ta nói cùng các ngươi, đầy tớ chẳng lớn hơn chủ mình... Ví bằng các ngươi biết những sự này, thì có phước, miễn là các ngươi làm theo."* Ngài hứa rằng sự khiêm nhường mang lại phước hạnh thuộc linh lớn lao.
+Đức Chúa Giê-su nói trong câu 15: *"Vì ta đã làm gương cho các ngươi, để các ngươi cũng làm như ta đã làm cho các ngươi. Quả thật, quả thật, ta nói cùng các ngươi, đầy tớ chẳng lớn hơn chủ mình… Ví bằng các ngươi biết những sự này, thì có phước, miễn là các ngươi làm theo."* Ngài hứa rằng sự khiêm nhường mang lại phước hạnh thuộc linh lớn lao.
 
 Vài giờ trước thập tự giá, Đức Chúa Giê-su còn ban thêm một bài học cuối cùng. Khi các môn đồ muốn biết ai sẽ phản bội Ngài, Ngài đưa miếng bánh cho Giu-đa. *"Còn Giu-đa, khi đã lấy miếng bánh rồi, liền đi ra. Khi ấy đã tối."* Đức Chúa Giê-su có thể ngăn cản, nhưng Ngài đã không làm — vì Ngài đã quyết định thực hiện sinh tế khủng khiếp này. Ngài có thể dừng lại ở rất nhiều thời điểm khác nhau, nhưng Ngài đã không làm, vì Ngài muốn cứu chúng ta đến mức ấy.
 
-Sau khi Giu-đa rời đi, Đức Chúa Giê-su kết luận bài học đẹp đẽ của Giăng chương 13: *"Hỡi các con trẻ, ta còn ở với các ngươi một lúc nữa thôi... Ta ban cho các ngươi một điều răn mới, nghĩa là các ngươi phải yêu nhau; như ta đã yêu các ngươi thể nào, thì các ngươi cũng hãy yêu nhau thể ấy. Nếu các ngươi yêu nhau, thì ấy là tại điều đó mà thiên hạ sẽ nhận biết các ngươi là môn đồ ta."*
+Sau khi Giu-đa rời đi, Đức Chúa Giê-su kết luận bài học đẹp đẽ của Giăng chương 13: *"Hỡi các con trẻ, ta còn ở với các ngươi một lúc nữa thôi… Ta ban cho các ngươi một điều răn mới, nghĩa là các ngươi phải yêu nhau; như ta đã yêu các ngươi thể nào, thì các ngươi cũng hãy yêu nhau thể ấy. Nếu các ngươi yêu nhau, thì ấy là tại điều đó mà thiên hạ sẽ nhận biết các ngươi là môn đồ ta."*
 
 Hội Thánh phải trở nên một cộng đồng mà thế gian chưa từng thấy. Tôi không nghĩ rằng ngay cả Hội Thánh thời Tân Ước đã đạt đến điều ấy. Tôi tin Đức Chúa Giê-su đang kêu gọi chúng ta — trong những ngày cuối cùng của lịch sử trái đất — đến cộng đồng đó. Đây là chân lý lớn về Đức Chúa Trời: Ngài là tình yêu thương, khiêm nhường, phục vụ, không thiên vị một ai. Đây là Đức Chúa Trời mà thế gian chưa biết — nhưng tôi muốn Đức Chúa Trời ấy được nhận biết qua đời sống tôi, và qua đời sống bạn.

@@ -12,7 +12,7 @@ Nhiều người đã chịu đựng do hậu quả của nghiện ngập. Họ 
 
 **Câu hỏi thảo luận**
 
-`1. Sự tha thứ đóng vai trò gì trong sự mất lòng tin và việc chữa lành mối quan hệ bị tan vỡ? Ma-thi-ơ 6:12-15; 18:21, 22. “Tình yêu thương... không ghi lại những sai lầm mà người khác làm” (1 Cô-rinh-tô13: 5).`
+`1. Sự tha thứ đóng vai trò gì trong sự mất lòng tin và việc chữa lành mối quan hệ bị tan vỡ? Ma-thi-ơ 6:12-15; 18:21, 22. “Tình yêu thương… không ghi lại những sai lầm mà người khác làm” (1 Cô-rinh-tô13: 5).`
 
 `2. Lợi ích của việc suy ngẫm và đếm lại những thương xót của Đức Chúa Trời là gì trong khi chúng ta đang trải qua nỗi buồn và phiền não?`
 

@@ -42,7 +42,7 @@ Và Aesop nhắc nhở: *"Sự tử tế dù nhỏ như thế nào cũng không 
 
 Điều làm cho hành động của Đô-ca trở nên đặc biệt không chỉ là *số lượng* mà là *chất lượng* — bà đã làm việc lành **bằng tình yêu**.
 
-Câu 39 ghi: các góa phụ đến gặp Phi-e-rơ và giơ cho ông xem *"áo sống cũng như áo ngoài... lúc Đô-ca còn sống đã may cho."* Bà không chỉ cho tiền, không chỉ mua vải rồi đưa đi may — bà chính tay ngồi **đo từng người, cắt may từng chiếc áo**, đảm bảo mỗi chiếc áo vừa vặn với từng thân thể.
+Câu 39 ghi: các góa phụ đến gặp Phi-e-rơ và giơ cho ông xem *"áo sống cũng như áo ngoài… lúc Đô-ca còn sống đã may cho."* Bà không chỉ cho tiền, không chỉ mua vải rồi đưa đi may — bà chính tay ngồi **đo từng người, cắt may từng chiếc áo**, đảm bảo mỗi chiếc áo vừa vặn với từng thân thể.
 
 Khi những góa phụ mặc chiếc áo đó, họ không chỉ mặc tấm vải — **họ mặc tình yêu của bà lên người**. Mỗi mũi kim bà đã ngồi thức khuya dậy sớm để khâu đều gói trong đó sự quan tâm, sự chia sẻ và tình yêu thương thật sự.
 

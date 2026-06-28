@@ -82,7 +82,7 @@ Khi Phi-lát hỏi tiếp: "Vậy thì ngươi là vua sao?", Đức Chúa Giê-
 
 Ngài là Vua — nhưng không phải vua của các đạo quân (điều ấy sẽ đến vào ngày tận thế), mà là Vua của lẽ thật, Vua của tình yêu. Trước đó, trong Giăng chương 10, Ngài phán rằng chiên Ngài nghe tiếng Ngài. Giờ đây Ngài phán: ai thuộc về lẽ thật thì nghe tiếng Ngài. Ngay trong khoảnh khắc ấy, dường như Phi-lát cũng đang nghe được tiếng ấy.
 
-Phi-lát đáp lại: "Lẽ thật là gì?" Có lẽ đây là một câu hỏi đầy hoài nghi pha lẫn chân thành. Nhưng câu trả lời, ông đã có thể tìm thấy ngay trong Giăng 14: "Ta là... lẽ thật." Không thể mô tả Đức Chúa Trời bằng định nghĩa khô khan; chỉ có thể mô tả Ngài bằng một đời sống — đời sống của Đức Chúa Giê-su. Ngài là lẽ thật về Đức Chúa Trời, về vũ trụ, về sự sống, về sự cứu rỗi, về hạnh phúc, về bình an. Hãy nhìn Ngài, và bạn có tất cả.
+Phi-lát đáp lại: "Lẽ thật là gì?" Có lẽ đây là một câu hỏi đầy hoài nghi pha lẫn chân thành. Nhưng câu trả lời, ông đã có thể tìm thấy ngay trong Giăng 14: "Ta là… lẽ thật." Không thể mô tả Đức Chúa Trời bằng định nghĩa khô khan; chỉ có thể mô tả Ngài bằng một đời sống — đời sống của Đức Chúa Giê-su. Ngài là lẽ thật về Đức Chúa Trời, về vũ trụ, về sự sống, về sự cứu rỗi, về hạnh phúc, về bình an. Hãy nhìn Ngài, và bạn có tất cả.
 
 ---
 

@@ -36,7 +36,7 @@ Vì thế, người hầu việc Chúa cần nhận biết điều này một c�
 
 Sứ đồ Phao-lô trong thư thứ nhất gửi cho Hội Thánh Cô-rinh-tô đã nói đến một nguy cơ tinh tế hơn — đó là sự kiêu căng đến từ sự hay biết. Ông viết trong đoạn 8 câu 1-2:
 
-> "...Song, sự hay biết sanh kiêu căng, còn sự yêu thương làm gương tốt. Nếu có ai tưởng mình biết điều gì, thật người ấy chưa biết như mình nên biết." (I Cô-rinh-tô 8:1b, 2)
+> "…Song, sự hay biết sanh kiêu căng, còn sự yêu thương làm gương tốt. Nếu có ai tưởng mình biết điều gì, thật người ấy chưa biết như mình nên biết." (I Cô-rinh-tô 8:1b, 2)
 
 Tri thức và sự hiểu biết thuộc linh là điều quý giá, nhưng nếu không được đặt trong khuôn khổ của tình yêu thương và sự khiêm tốn, chúng rất dễ trở thành nguồn gốc của kiêu ngạo. Một người mục sư giảng hay, một người dạy Kinh Thánh sâu sắc, một người lãnh đạo có kinh nghiệm — tất cả đều phải cẩn thận trước cạm bẫy này. Sự hay biết càng nhiều, cám dỗ kiêu căng càng lớn.
 

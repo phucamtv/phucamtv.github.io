@@ -66,7 +66,7 @@ Khi chàng trai trẻ quay đi, Đức Chúa Giê-su phán cùng các môn đồ
 
 Một người giàu, với tư cách là người giàu, không thể bước vào thiên đàng. Sự giàu có của người không ban cho người quyền nào trên cơ nghiệp của các thánh đồ trong sự sáng. Chỉ nhờ ân điển vô điều kiện của Đấng Christ mà bất cứ ai cũng có thể tìm được lối vào thành của Đức Chúa Trời. COL 394.3
 
-Đối với người giàu cũng như đối với người nghèo, lời của Đức Thánh Linh được phán dạy: "Anh em chẳng phải thuộc về chính mình sao?... vì chưng anh em đã được chuộc bằng giá cao rồi."
+Đối với người giàu cũng như đối với người nghèo, lời của Đức Thánh Linh được phán dạy: "Anh em chẳng phải thuộc về chính mình sao?… vì chưng anh em đã được chuộc bằng giá cao rồi."
 
 > "Anh em há chẳng biết rằng thân thể mình là đền thờ của Đức Thánh Linh đang ngự trong anh em, là Đấng mà anh em đã nhận bởi Đức Chúa Trời, và anh em chẳng phải thuộc về chính mình sao? Vì chưng anh em đã được chuộc bằng giá cao rồi. Vậy, hãy lấy thân thể mình làm sáng danh Đức Chúa Trời."
 > <cite>(I Cô-rinh-tô 6:19,20)</cite>

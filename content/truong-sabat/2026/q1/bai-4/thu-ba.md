@@ -9,7 +9,7 @@ Ngày càng có nhiều công ty trên thế giới đang nghiên cứu công ng
 
 Theo một số cách thức, nó đã xuất hiện. Tâm trí của chúng ta giống như một chiếc máy tính, chỉ là vượt trội hơn nhiều. Luồng thông tin liên tục mà chúng ta tiếp xúc hàng ngày sẽ "lập trình" tâm trí của chúng ta, tác động đến suy nghĩ và hướng dẫn hành động của chúng ta. Khi chúng ta đắm chìm vào các phương tiện truyền thông, cách tư duy của mọi người trên thế gian sẽ in sâu dấu ấn của nó vào tâm trí mình, và chúng ta bắt đầu suy nghĩ theo cùng một cách như họ. Điều này chẳng khác nào tâm trí của người khác đã được cấy ghép hoặc hòa nhập vào tâm trí của chúng ta.
 
-Giống như Đức Chúa Giê-su, chúng ta phải "chăm về Thánh Linh" (Rô-ma 8:6). "Nếu không phải là Thánh Linh của Đức Chúa Trời, thì chẳng ai biết sự trong Đức Chúa Trời,... chúng ta nhận lấy Thánh Linh từ Đức Chúa Trời đến, hầu được hiểu biết những ơn mà chúng ta đã nhận lãnh bởi Đức Chúa Trời" (1 Cô-rinh-tô 2:11,12). Ai là thầy của chúng ta? Và chúng ta đang học điều gì?
+Giống như Đức Chúa Giê-su, chúng ta phải "chăm về Thánh Linh" (Rô-ma 8:6). "Nếu không phải là Thánh Linh của Đức Chúa Trời, thì chẳng ai biết sự trong Đức Chúa Trời,… chúng ta nhận lấy Thánh Linh từ Đức Chúa Trời đến, hầu được hiểu biết những ơn mà chúng ta đã nhận lãnh bởi Đức Chúa Trời" (1 Cô-rinh-tô 2:11,12). Ai là thầy của chúng ta? Và chúng ta đang học điều gì?
 
 `Đọc Phi-líp 2:5. Theo bạn, có "tâm tình giống Đấng Cơ-đốc" nghĩa là gì?`
 

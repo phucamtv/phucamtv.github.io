@@ -10,7 +10,7 @@ Dân tộc Do Thái đang trông đợi một Đấng Mê-si để giải cứu 
 
 Tuyên bố của Giăng Báp-tít xác nhận Đức Chúa Giê-su là Chiên Con của Đức Chúa Trời ủng hộ mục đích của Tin lành Giăng, là mang lại sự hiểu biết mới mẻ về công việc và bản chất của Đấng Mê-si. Đức Chúa Giê-su là Đấng làm trọn lời hứa về hệ thống dâng hiến, nhắc nhở mọi người nhớ lại lời hứa về Đấng Cứu Chuộc, lời hứa được đưa ra lần đầu tiên trong Sáng thế Ký 3:15.
 
-“Khi Đức Chúa Giê-su chịu phép báp-têm, Giăng đã thốt lên rằng Ngài là Chiên Con của Đức Chúa Trời, một sự sáng mới đã soi rọi vào nhiệm vụ của Đấng Mê-si. Tâm trí của nhà tiên tri hướng về những lời của Ê-sai: “Người bị hiếp đáp, nhưng khi chịu sự khốn khổ chẳng hề mở miệng. Như chiên con bị dắt đến hàng làm thịt...” – Ellen G. White, Nguyện Ước Thời Đại, trang 136.
+“Khi Đức Chúa Giê-su chịu phép báp-têm, Giăng đã thốt lên rằng Ngài là Chiên Con của Đức Chúa Trời, một sự sáng mới đã soi rọi vào nhiệm vụ của Đấng Mê-si. Tâm trí của nhà tiên tri hướng về những lời của Ê-sai: “Người bị hiếp đáp, nhưng khi chịu sự khốn khổ chẳng hề mở miệng. Như chiên con bị dắt đến hàng làm thịt…” – Ellen G. White, Nguyện Ước Thời Đại, trang 136.
 
 `Đọc Mác 10:45; Rô-ma 5:6; và I Phi-e-rơ 2:24. Những câu Kinh Thánh này giúp chúng ta hiểu về vai trò của Đức Chúa Giê-su là “Chiên Con của Đức Chúa Trời” như thế nào?`
 

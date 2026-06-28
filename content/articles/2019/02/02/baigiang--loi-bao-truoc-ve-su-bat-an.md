@@ -24,7 +24,7 @@ Hình ảnh người phụ nữ mang thai trong câu Kinh Thánh này mang một
 
 ### Tội Ác Và Sự Suy Đồi Đạo Đức
 
-Trong II Ti-mô-thê 3:1-5, Phao-lô liệt kê một danh sách dài những biểu hiện của tội ác trong ngày sau rốt: người ta tư kỷ, tham tiền, khoe khoang, xấc xược, nghịch cha mẹ, bội bạc, không tin kính, hay phao vu, không tiết độ, giữ tợn, lường thầy phản bạn... Thế giới ngày nay tràn ngập những tội ác khiến chúng ta không thể nào cảm thấy an toàn. Người hàng xóm mà hằng ngày chúng ta vẫn chào hỏi, chuyện trò, bất ngờ có thể là một kẻ phạm tội nguy hiểm.
+Trong II Ti-mô-thê 3:1-5, Phao-lô liệt kê một danh sách dài những biểu hiện của tội ác trong ngày sau rốt: người ta tư kỷ, tham tiền, khoe khoang, xấc xược, nghịch cha mẹ, bội bạc, không tin kính, hay phao vu, không tiết độ, giữ tợn, lường thầy phản bạn… Thế giới ngày nay tràn ngập những tội ác khiến chúng ta không thể nào cảm thấy an toàn. Người hàng xóm mà hằng ngày chúng ta vẫn chào hỏi, chuyện trò, bất ngờ có thể là một kẻ phạm tội nguy hiểm.
 
 ### Con Cái Và Gia Đình
 

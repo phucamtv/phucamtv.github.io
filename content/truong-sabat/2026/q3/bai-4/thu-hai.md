@@ -11,7 +11,7 @@ Xử lý những vấn đề liên quan đến tình dục luôn là điều kh�
 
 Phao-lô làm rõ trong 1 Cô-rinh-tô 5 rằng những vụ tai tiếng tình dục đòi hỏi kỷ luật của Hội Thánh. Ông nói rằng kẻ loạn luân phải bị trừ ra (1 Cô-rinh-tô 5:2), bị xét xử (1 Cô-rinh-tô 5:3), bị phó cho Sa-tan (1 Cô-rinh-tô 5:5), và "phải đuổi đi" (1 Cô-rinh-tô 5:13). Các tín hữu trong Hội Thánh được dặn "chớ làm bạn" với người ấy (1 Cô-rinh-tô 5:9, 11), cũng "đừng ăn chung với người như vậy" (1 Cô-rinh-tô 5:11). Phao-lô dùng những lời lẽ mạnh mẽ mà tai người hiện đại có thể nghe thấy chói tai, nhưng những lời của ông phải được hiểu trong bối cảnh lịch sử. Ngoài ra, chúng ta phải nhớ rằng ông đang xử lý một lối sống tội lỗi trắng trợn. Thông thường, trong những tình huống cực đoan, lời lẽ mạnh mẽ là cần thiết. Dù sao đi nữa, việc giải thích ngắn gọn một số cụm từ sẽ hữu ích.
 
-"Hãy... trừ kẻ gian ác ấy ra khỏi anh em" (1 Cô-rinh-tô 5:2; cũng xem 1 Cô-rinh-tô 5:13). Điều này nói đến kỷ luật của Hội Thánh.
+"Hãy… trừ kẻ gian ác ấy ra khỏi anh em" (1 Cô-rinh-tô 5:2; cũng xem 1 Cô-rinh-tô 5:13). Điều này nói đến kỷ luật của Hội Thánh.
 
 "Phó người đó cho Sa-tan" (1 Cô-rinh-tô 5:5). Vì người này không chọn ở dưới sự bảo vệ của Đức Chúa Trời bằng cách sống vâng phục Ngài, nên người ấy sẽ dễ bị tổn thương trước Sa-tan. Vì vậy, cụm từ này có thể chỉ đơn thuần mang ý nghĩa như là "Hãy để người ấy gặt lấy hậu quả của những quyết định của mình."
 

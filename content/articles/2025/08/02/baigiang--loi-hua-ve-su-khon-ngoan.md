@@ -24,7 +24,7 @@ Từ hai bài thơ đó, bài truyền giảng hướng đến một câu hỏi 
 
 Thi Thiên 14:1 ghi rõ: *"Kẻ ngu dại nói trong lòng rằng chẳng có Đức Chúa Trời."* Đây không phải là sự xúc phạm mà là một nhận định thần học nền tảng. Từ ngàn xưa, ông cha tổ tiên người Việt chưa có Kinh Thánh nhưng qua thiên nhiên, qua núi rừng sông biển, họ đã cảm nhận được có một Thượng Đế — thể hiện qua những câu ca dao như *"Lạy trời mưa xuống, lấy nước tôi uống, lấy ruộng tôi cày."* Người từ chối nhận biết Đức Chúa Trời là người Kinh Thánh gọi là ngu dại.
 
-Câu chuyện vua Sau-lơ là một minh họa thực tiễn. Tiên tri Sa-mu-ên đã quở trách vua: *"Ngươi thật có làm ngu dại, không vâng mạng lệnh của Giê-hô-va Đức Chúa Trời ngươi... sự cố chấp giống như tội trọng cúng lạy thần tượng."* Cố chấp — biết sai mà vẫn ngoan cố đi theo con đường đó — chính là dấu hiệu của sự ngu dại theo Kinh Thánh.
+Câu chuyện vua Sau-lơ là một minh họa thực tiễn. Tiên tri Sa-mu-ên đã quở trách vua: *"Ngươi thật có làm ngu dại, không vâng mạng lệnh của Giê-hô-va Đức Chúa Trời ngươi… sự cố chấp giống như tội trọng cúng lạy thần tượng."* Cố chấp — biết sai mà vẫn ngoan cố đi theo con đường đó — chính là dấu hiệu của sự ngu dại theo Kinh Thánh.
 
 Châm Ngôn 26:11 dùng hình ảnh mạnh hơn: kẻ ngu muội làm đi làm lại việc ngu dại của mình khác nào con chó mửa ra rồi liếm lại. Đó là vòng tròn của sự cố chấp — biết sai, làm sai, hối hận, rồi lại làm sai — không bao giờ thoát ra được.
 

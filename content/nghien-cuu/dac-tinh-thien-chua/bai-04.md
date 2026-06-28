@@ -87,7 +87,7 @@ Ma-thi-ơ 4 ghi lại sự cám dỗ đầu tiên Sa-tan dùng để thử Đứ
 
 Một năm sau sự kiện ma-na, dân sự rời En-lim đi về phía Ca-đe, và chỉ ba ngày đường họ lại bắt đầu lằm bằm. Bà Ellen White viết trong sách *Patriarchs and Prophets* trang 377:
 
-> "Sau ba ngày đường, những lời than phiền công khai bắt đầu nổi lên. Chúng phát xuất từ đám dân ô hợp, nhiều người trong họ chưa hoàn toàn hiệp một với Y-sơ-ra-ên, và luôn rình tìm cớ chỉ trích... Sự bất mãn dễ lây lan, và nó nhanh chóng lan ra khắp trại quân."
+> "Sau ba ngày đường, những lời than phiền công khai bắt đầu nổi lên. Chúng phát xuất từ đám dân ô hợp, nhiều người trong họ chưa hoàn toàn hiệp một với Y-sơ-ra-ên, và luôn rình tìm cớ chỉ trích… Sự bất mãn dễ lây lan, và nó nhanh chóng lan ra khắp trại quân."
 
 ---
 

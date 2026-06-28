@@ -26,7 +26,7 @@ Suốt 40 năm Đức Chúa Trời dẫn dắt, dân sự vẫn trải qua đói
 
 Ngày nay có những người hoang tưởng rằng khi được Chúa dẫn dắt thì không bao giờ bệnh hoạn, nghèo khổ, hay gặp tai ương. Nhưng thực tế Kinh Thánh cho thấy điều ngược lại: ngay khi được Đức Chúa Trời dẫn dắt, dân sự vẫn trải qua mọi thử thách. Sự khác biệt là Ngài luôn ở cùng họ.
 
-Phục Truyền 2:7 khẳng định: *"Giê-hô-va Đức Chúa Trời ngươi đã biết cuộc đi đường ngươi ngang qua đồng vắng lớn lao này... ngươi không thiếu gì hết."* Điều này cũng vang vọng trong Thi Thiên 23:1 của Đa-vít: *"Đức Giê-hô-va là Đấng chăn giữ tôi, tôi sẽ chẳng thiếu thốn gì."*
+Phục Truyền 2:7 khẳng định: *"Giê-hô-va Đức Chúa Trời ngươi đã biết cuộc đi đường ngươi ngang qua đồng vắng lớn lao này… ngươi không thiếu gì hết."* Điều này cũng vang vọng trong Thi Thiên 23:1 của Đa-vít: *"Đức Giê-hô-va là Đấng chăn giữ tôi, tôi sẽ chẳng thiếu thốn gì."*
 
 ---
 

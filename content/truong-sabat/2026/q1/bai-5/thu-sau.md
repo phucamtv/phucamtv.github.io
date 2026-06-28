@@ -15,6 +15,6 @@ weight: 7
 
 `Hãy nghĩ về lời cảnh báo trong trích dẫn trên về những người "từng bước khuất phục trước những đòi hỏi của thế gian và xuôi theo các phong tục của thế gian." Điều đó có thể bao gồm những hành động nào? Thảo luận về cách thức mà điều này có thể xảy ra, không chỉ cho các cá nhân mà còn cho toàn thể Hội Thánh.`
 
-`Đức Chúa Trời phán, "'Vì phàm ai tôn kính Ta, Ta sẽ làm cho được tôn trọng'" (1 Sa-mu-ên 2:30). Chúng ta tôn kính Đức Chúa Trời theo những cách nào? Có giống như "kính sợ... và tôn vinh Ngài" trong Khải huyền 14:7 không? Tại sao có hoặc tại sao không?`
+`Đức Chúa Trời phán, "'Vì phàm ai tôn kính Ta, Ta sẽ làm cho được tôn trọng'" (1 Sa-mu-ên 2:30). Chúng ta tôn kính Đức Chúa Trời theo những cách nào? Có giống như "kính sợ… và tôn vinh Ngài" trong Khải huyền 14:7 không? Tại sao có hoặc tại sao không?`
 
 `Làm thế nào để chúng ta hiểu được khái niệm về việc thực hiện sự cứu rỗi của chính mình mà không rơi vào bẫy của chủ nghĩa cậy luật pháp?`

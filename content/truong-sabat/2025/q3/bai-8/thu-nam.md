@@ -8,7 +8,7 @@ weight: 6
 
 Ý nghĩa trong tiếng Hê-bơ-rơ của từ dabarim được sử dụng trong sách Môi-se để mô tả Mười Điều Răn (Xuất Ê-díp-tô Ký 34:28; Phục-truyền Luật-lệ Ký 4:13; Phục-truyền Luật-lệ Ký 10:4) không có nghĩa là “mệnh lệnh” một cách chính xác, mà là “lời.” Từ “lời,” dabar (số ít), có thể mang ý nghĩa của một “lời hứa”. Vì vậy, trong nhiều chỗ (1 Các Vua 8:56; 2 Sử Ký 1:9; Nê-hê-mi 5:12,13; Phục-truyền Luật-lệ Ký 1:11; Phục-truyền Luật-lệ Ký 6:3; Phục-truyền Luật-lệ Ký 9:28; Giô-suê 9:21; Giô-suê 22:4; Giô-suê 23:5), dabar được dịch dưới dạng danh từ hoặc động từ thể hiện ý tưởng của lời hứa.
 
-Ellen G. White đưa ra một cái nhìn sâu sắc về chức năng của Mười Điều Răn: “Mười điều răn... là mười lời hứa.” (Ellen G. White Comments, The SDA Bible Commentary, tập 1, tr. 1105). Mười Điều Răn nên được hiểu như những lời hứa từ Đức Chúa Trời, hướng dẫn chúng ta đi đúng con đường để Ngài có thể làm những điều tuyệt vời cho chúng ta. Tuy nhiên, chúng ta phải vâng lời Ngài.
+Ellen G. White đưa ra một cái nhìn sâu sắc về chức năng của Mười Điều Răn: “Mười điều răn… là mười lời hứa.” (Ellen G. White Comments, The SDA Bible Commentary, tập 1, tr. 1105). Mười Điều Răn nên được hiểu như những lời hứa từ Đức Chúa Trời, hướng dẫn chúng ta đi đúng con đường để Ngài có thể làm những điều tuyệt vời cho chúng ta. Tuy nhiên, chúng ta phải vâng lời Ngài.
 
 `Đọc Rô-ma 10:4. Chúng ta nên hiểu lời của Phao-lô rằng Đấng Cơ-đốc là “tận cùng” của luật pháp như thế nào?`
 

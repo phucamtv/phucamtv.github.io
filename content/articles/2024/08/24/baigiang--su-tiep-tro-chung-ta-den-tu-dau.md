@@ -54,7 +54,7 @@ Câu chuyện đó đặt ra một câu hỏi không thể tránh: Ê-xê-chia t
 
 ## Sự Tiếp Trợ Của Đức Chúa Trời Khác Với Những Gì Ta Nghĩ
 
-Thi-thiên 121:2–5 tiếp tục: *"Sự tiếp trợ tôi đến từ Đức Giê-hô-va, là Đấng đã dựng nên trời và đất. Ngài không để cho chân ngươi siêu tó... Đấng gìn giữ ngươi không hề buồn ngủ."*
+Thi-thiên 121:2–5 tiếp tục: *"Sự tiếp trợ tôi đến từ Đức Giê-hô-va, là Đấng đã dựng nên trời và đất. Ngài không để cho chân ngươi siêu tó… Đấng gìn giữ ngươi không hề buồn ngủ."*
 
 Tác giả không chỉ nói *sự tiếp trợ đến từ Đức Giê-hô-va* — ông còn giải thích *tại sao*: vì Ngài là Đấng dựng nên trời và đất. Đấng Tạo Hóa, Đấng duy trì sự sống của toàn vũ trụ, chính là Đấng chăm sóc chúng ta. Bấy nhiêu đó đã bao gồm tất cả tình yêu và quyền năng.
 

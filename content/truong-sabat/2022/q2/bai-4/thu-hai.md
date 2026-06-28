@@ -4,7 +4,7 @@ title: "Nước Lụt"
 dayLabel: "Thứ Hai"
 weight: 3
 ---
-Động từ “asah”,“làm”, ám chỉ hành động của Nô-ê, cũng là một từ khóa trong phần ký thuậtcủa Sáng-thếký về sự Sáng tạo (Sáng-thế Ký 1:7,16,25,26,31; Sáng-thế Ký 2:2). Hành động vâng lời Đức Chúa Trời của Nô-ê cũng giống như công việc của Ngài khi tạo dựng. Những gì chúng ta có thể nhận thấy từ liên kết này rằng,nước lụt không chỉ là việc Đức Chúa Trời trừng phạt loài người, mà còn là việc Ngài cứu rỗi chúng ta.
+Động từ “asah”,“làm”, ám chỉ hành động của Nô-ê, cũng là một từ khóa trong phần ký thuậtcủa Sáng-thếký về sự Sáng tạo (Sáng-thế Ký 1:7,16,25,26,31; Sáng-thế Ký 2:2). Hành động vâng lời Đức Chúa Trời của Nô-ê cũng giống như công việc của Ngài khi tạo dựng. Những gì chúng ta có thể nhận thấy từ liên kết này rằng, nước lụt không chỉ là việc Đức Chúa Trời trừng phạt loài người, mà còn là việc Ngài cứu rỗi chúng ta.
 
 `Đọc Sáng-thế Ký đoạn 7. Tại sao mô tả vềnước lụt nhắc chúng ta nhớ đến câu chuyện Sáng Tạo? Chúng ta rút ra bài học gì từ sự tương đồng giữa hai sự kiện này?`
 

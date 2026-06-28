@@ -14,7 +14,7 @@ draft: false
 
 ## Ngày 10.5 - Nhắc Nhớ Đến
 
-Nhiều năm trước, có những người Pháp vô thần huênh hoang rằng, họ sẽ hủy phá hết tất cả các nhà thờ, sẽ tiêu diệt mọi vật nào có thể gợi lên hoặc nhắc nhở người ta nhớ đến Đức Chúa Trời, chẳng hạn: Kinh Thánh, Thánh ca, sách vở, tranh vẽ, hình ảnh...
+Nhiều năm trước, có những người Pháp vô thần huênh hoang rằng, họ sẽ hủy phá hết tất cả các nhà thờ, sẽ tiêu diệt mọi vật nào có thể gợi lên hoặc nhắc nhở người ta nhớ đến Đức Chúa Trời, chẳng hạn: Kinh Thánh, Thánh ca, sách vở, tranh vẽ, hình ảnh…
 
 Một bác nông dân mộc mạc đã trả lời với họ rằng: "Dù các anh có quyền lực để hủy diệt được tất cả, các anh vẫn không thể hủy diệt được mặt trời, mặt trăng và các vì sao. Ngày nào những thứ ấy còn rực sáng trên nền trời, thì ngày đó chúng vẫn sẽ còn nhắc con người nhớ đến Thượng Đế."
 

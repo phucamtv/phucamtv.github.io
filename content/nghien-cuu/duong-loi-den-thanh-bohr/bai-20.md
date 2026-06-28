@@ -20,7 +20,7 @@ Dầu vậy, Đức Chúa Trời vẫn có một dân sót trung tín. Khi cơn 
 
 ## Nô-ê: sứ giả của thời kỳ ân điển
 
-Sáng Thế Ký 6:9 và 7:1 giới thiệu Nô-ê là người công bình, trọn vẹn trong đời mình, và đồng đi cùng Đức Chúa Trời. Đức Chúa Trời đã chọn ông làm sứ giả cho thế giới và ấn định một thời kỳ ân điển rõ ràng. Sáng Thế Ký 6:3 chép: *"Thần Ta sẽ chẳng hằng ở trong loài người luôn... song ngày của loài người sẽ là một trăm hai mươi năm."*
+Sáng Thế Ký 6:9 và 7:1 giới thiệu Nô-ê là người công bình, trọn vẹn trong đời mình, và đồng đi cùng Đức Chúa Trời. Đức Chúa Trời đã chọn ông làm sứ giả cho thế giới và ấn định một thời kỳ ân điển rõ ràng. Sáng Thế Ký 6:3 chép: *"Thần Ta sẽ chẳng hằng ở trong loài người luôn… song ngày của loài người sẽ là một trăm hai mươi năm."*
 
 Trong 120 năm ấy, Nô-ê được gọi là "người giảng đạo công bình" (II Phi-e-rơ 2:5). Ông rao giảng rằng Đức Chúa Trời là Đấng đầy lòng thương xót, sẵn lòng tha thứ, nhưng nhờ quyền năng của Ngài mà con người phải sửa lại đời sống. Sứ điệp của ông được Đức Thánh Linh đồng công, vì chính Đức Chúa Trời đã phán Thần Ngài sẽ tranh chiến với loài người trong khoảng thời gian ấy.
 
@@ -76,7 +76,7 @@ Khi nào những kẻ ác bị hư mất — khi cánh cửa khép lại hay khi
 
 ## Sứ điệp tận thế trong sách Khải Huyền
 
-Đức Chúa Trời có một sứ điệp tận thế cho thế giới giống như Ngài đã có trong thời Nô-ê. Sứ điệp ấy được tìm thấy trong Khải Huyền 14:6–7 — sứ điệp của thiên sứ thứ nhất: *"Hãy kính sợ Đức Chúa Trời và tôn vinh Ngài, vì giờ phán xét của Ngài đã đến..."*
+Đức Chúa Trời có một sứ điệp tận thế cho thế giới giống như Ngài đã có trong thời Nô-ê. Sứ điệp ấy được tìm thấy trong Khải Huyền 14:6–7 — sứ điệp của thiên sứ thứ nhất: *"Hãy kính sợ Đức Chúa Trời và tôn vinh Ngài, vì giờ phán xét của Ngài đã đến…"*
 
 Đây là sứ điệp cuối cùng của Đức Chúa Trời cho thế gian, vì ngay sau ba sứ điệp của các thiên sứ, Đức Chúa Giê-su được thấy ngự trên mây, tay cầm lưỡi liềm, đến để gặt mùa màng của đất. Sứ điệp này có được Đức Thánh Linh đồng công không? Có — vì sau đó Kinh Thánh nói mùa gặt của đất đã chín, và điều làm chín mùa gặt chính là mưa cuối, tượng trưng cho Đức Thánh Linh.
 
@@ -94,7 +94,7 @@ Khải Huyền 22:10 chép: *"Chớ niêm phong những lời tiên tri trong s�
 
 Khải Huyền 22:11: *"Kẻ nào không công bình, cứ không công bình nữa; kẻ nào ô uế, cứ còn ô uế nữa; kẻ nào công bình, cứ làm điều công bình nữa; kẻ nào là thánh, cứ làm nên thánh nữa."* Mọi trường hợp đã được quyết định. Những từ "thánh" và "ô uế" là ngôn ngữ của đền thờ — chúng ta được làm sạch khi đến với Đức Chúa Giê-su trong sự ăn năn và xưng tội, tin cậy nơi công lao của Ngài.
 
-Hôm nay chúng ta có thể đến với Đức Chúa Giê-su với tội lỗi của mình, và Ngài sẽ tha thứ và làm sạch. Nhưng một thì giờ đang đến khi điều ấy không còn được nữa. Câu 12 nối tiếp: *"Nầy, Ta đến mau chóng, và đem phần thưởng theo với Ta..."* Trật tự rất rõ — sứ điệp được rao truyền, lời tuyên bố cuối cùng được công bố, rồi Đức Chúa Giê-su đến để ban thưởng.
+Hôm nay chúng ta có thể đến với Đức Chúa Giê-su với tội lỗi của mình, và Ngài sẽ tha thứ và làm sạch. Nhưng một thì giờ đang đến khi điều ấy không còn được nữa. Câu 12 nối tiếp: *"Nầy, Ta đến mau chóng, và đem phần thưởng theo với Ta…"* Trật tự rất rõ — sứ điệp được rao truyền, lời tuyên bố cuối cùng được công bố, rồi Đức Chúa Giê-su đến để ban thưởng.
 
 Vì lý do đó, Khải Huyền 22:18–19 cảnh cáo rằng ai thêm vào hay bớt đi những lời của sách này sẽ chịu các tai vạ chép trong sách, hoặc bị cất phần khỏi sách sự sống. Rao giảng Khải Huyền là việc nghiêm trọng — nhưng cũng là sứ điệp cứu rỗi không thể thiếu trong thời sau rốt.
 

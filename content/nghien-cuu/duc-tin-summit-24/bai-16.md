@@ -33,7 +33,7 @@ Giai đoạn thứ tư là lúc người nữ phải trốn vào đồng vắng,
 
 Trong tiếng Hy Lạp, liên từ "kai" thường nối một loạt sự kiện theo trình tự thời gian. Khải Huyền 12 là một ví dụ điển hình: khi con rồng thấy mình bị quăng xuống đất, **nó bắt bớ** người nữ. Con rồng bị quăng xuống đất khi nào? Tại thập tự giá.
 
-> "Người nữ được ban cho hai cánh chim phụng hoàng lớn, đặng bay về nơi đồng vắng... cho khỏi mặt con rắn." (Khải Huyền 12:14)
+> "Người nữ được ban cho hai cánh chim phụng hoàng lớn, đặng bay về nơi đồng vắng… cho khỏi mặt con rắn." (Khải Huyền 12:14)
 
 Vì người nữ trốn đi, con rắn phun nước như sông từ miệng nó để cuốn bà đi. Nhưng đất tiếp cứu người nữ — đất hả miệng nuốt sông nước con rồng đã phun ra. Chữ "sông" ở đây chỉ một dòng nước lũ, cùng từ ngữ được dùng cho "các dòng nước" trong dụ ngôn người xây nhà trên đá và trên cát.
 
@@ -79,11 +79,11 @@ Con rồng căm giận dân sót thuộc dòng dõi người nữ vì ba lý do.
 
 Thẩm quyền nào trong thời một kỳ, các kỳ và nửa kỳ tuyên bố đã thay đổi luật Đức Chúa Trời? Chính là chế độ giáo hoàng. Bằng chứng đến từ chính các nguồn Công giáo La Mã.
 
-John O'Brien viết: *"Hội Thánh không thay đổi Luật thần thượng buộc loài người phải thờ phượng, mà chỉ thay đổi ngày để sự thờ phượng công cộng được dâng lên... Sự thay đổi này được thực hiện khoảng 15 thế kỷ trước khi Tin Lành ra đời, và đến lúc ấy phong tục đã được giữ phổ quát."*
+John O'Brien viết: *"Hội Thánh không thay đổi Luật thần thượng buộc loài người phải thờ phượng, mà chỉ thay đổi ngày để sự thờ phượng công cộng được dâng lên… Sự thay đổi này được thực hiện khoảng 15 thế kỷ trước khi Tin Lành ra đời, và đến lúc ấy phong tục đã được giữ phổ quát."*
 
 Ông so sánh sự gắn bó của Tin Lành với Chủ Nhật như "đứa con trai bỏ nhà ra đi nhưng vẫn mang trong túi tấm hình của mẹ". Lý do các giáo hội Tin Lành sẽ trở về với Rô-ma là vì họ chưa bao giờ dứt bỏ hoàn toàn các giáo lý sai lạc của bà mẹ — họ vẫn tin linh hồn bất tử, vẫn tin Chủ Nhật là ngày yên nghỉ, vẫn tin địa ngục cháy đời đời.
 
-Thần học gia Công giáo H. Cafferata viết: *"Hội Thánh đã đổi sự tuân giữ ngày Sa-bát thành sự tuân giữ Chủ Nhật. Người Tin Lành... khi giữ Chủ Nhật, họ vâng phục thẩm quyền của Hội Thánh Công giáo dù không hay biết."*
+Thần học gia Công giáo H. Cafferata viết: *"Hội Thánh đã đổi sự tuân giữ ngày Sa-bát thành sự tuân giữ Chủ Nhật. Người Tin Lành… khi giữ Chủ Nhật, họ vâng phục thẩm quyền của Hội Thánh Công giáo dù không hay biết."*
 
 ---
 
@@ -101,7 +101,7 @@ Dòng dõi của người nữ là ai? Phần đầu của Khải Huyền 12 cho
 
 Ga-la-ti 3:16 khẳng định: *"Lời hứa đã được phán cho Áp-ra-ham và cho dòng dõi người. Không nói: và cho các dòng dõi, dường như chỉ về nhiều người; nhưng nói: và cho dòng dõi ngươi, dường như chỉ về một người mà thôi, tức là Đấng Christ."*
 
-Giăng 12:24 dùng hình ảnh hạt lúa mì: nếu hạt giống không rơi xuống đất và chết đi, nó cứ ở một mình; nhưng nếu chết đi, nó kết quả nhiều. Đức Chúa Giê-su là hạt giống đơn độc của Áp-ra-ham; nhưng Phao-lô tiếp tục trong Ga-la-ti 3:26–29: *"Vì hết thảy anh em, đã chịu phép báp-têm trong Đấng Christ, đều mặc lấy Đấng Christ... và nếu anh em thuộc về Đấng Christ, thì anh em là dòng dõi của Áp-ra-ham."*
+Giăng 12:24 dùng hình ảnh hạt lúa mì: nếu hạt giống không rơi xuống đất và chết đi, nó cứ ở một mình; nhưng nếu chết đi, nó kết quả nhiều. Đức Chúa Giê-su là hạt giống đơn độc của Áp-ra-ham; nhưng Phao-lô tiếp tục trong Ga-la-ti 3:26–29: *"Vì hết thảy anh em, đã chịu phép báp-têm trong Đấng Christ, đều mặc lấy Đấng Christ… và nếu anh em thuộc về Đấng Christ, thì anh em là dòng dõi của Áp-ra-ham."*
 
 Một cây cà chua sinh ra từ một hạt giống, có thể cho năm mươi quả cà chua chứa hàng ngàn hạt — tất cả những hạt ấy đều là dòng dõi của hạt giống ban đầu. Tương tự, ai tiếp nhận Đức Chúa Giê-su đều là dòng dõi của dòng dõi. Báp-têm là sự tái diễn thu nhỏ điều đã xảy ra với Đức Chúa Giê-su: chết, được chôn, và sống lại trong sự sống mới.
 

@@ -16,7 +16,7 @@ draft: false
 
 Năm 2019, Hội Thánh Cơ-đốc Phục Lâm Cần Thơ chọn đề tài chung là *"Những Điều Kinh Thánh Báo Trước"*. Trong buổi truyền giảng tháng Tư, Mục sư Dương Quang Thoại trình bày về một trong những lời báo trước đang hiển hiện rõ ràng nhất trước mắt mọi người: tình trạng môi trường sống của địa cầu.
 
-Điểm khởi đầu là Sáng Thế Ký 1:31 — sau sáu ngày tạo dựng, Đức Chúa Trời nhìn nhận mọi vật đã làm là *"tốt lành vô cùng"*. Chủ đích ban đầu của Ngài rõ ràng trong Ê-sai 45:18: Đức Chúa Trời *"tạo thành đất và làm ra nó, đã lập nó cho bền vững... đã làm nên để dân ở"*. Thế giới được dựng nên với tình yêu, để con người tận hưởng và thờ phượng Đấng Tạo Hóa.
+Điểm khởi đầu là Sáng Thế Ký 1:31 — sau sáu ngày tạo dựng, Đức Chúa Trời nhìn nhận mọi vật đã làm là *"tốt lành vô cùng"*. Chủ đích ban đầu của Ngài rõ ràng trong Ê-sai 45:18: Đức Chúa Trời *"tạo thành đất và làm ra nó, đã lập nó cho bền vững… đã làm nên để dân ở"*. Thế giới được dựng nên với tình yêu, để con người tận hưởng và thờ phượng Đấng Tạo Hóa.
 
 ---
 
@@ -29,7 +29,7 @@ Mục sư dẫn ra nhiều hình ảnh cụ thể:
 - **Ô nhiễm đại dương**: Những con cá voi xanh chết dạt vào bờ, trong bụng chứa tới 40 kg rác thải nhựa. Sư tử biển từ lúc nhỏ đã bị dây nilon siết cổ lớn dần. Rùa biển — loài quý hiếm — bị ống nhựa dài hơn hai tấc mắc kẹt trong lỗ mũi.
 - **Ô nhiễm nguồn nước**: Các kênh rạch xanh trong đã chuyển thành màu đen do nhà máy xả nước thải. Sài Gòn mỗi tháng chi khoảng 30 tỷ đồng chỉ để vớt rác trên sông.
 - **Ô nhiễm đất**: Hóa chất và thuốc trừ sâu tràn ngập lòng đất; đất đai màu mỡ ngày một cạn kiệt. Có kẻ ngoại bang đem máy sang để hút sạch dung đất — loài sinh vật cải tạo đất — khỏi các ruộng đồng.
-- **Phá rừng**: Giê-rê-mi 9:19 than vãn: *"chúng ta bị hủy phá... vì họ đã phá đổ chỗ ở của chúng ta"*. Những cánh rừng già hàng trăm năm bị đốn hạ, hậu quả trực tiếp là lũ lụt ngày càng dữ dội.
+- **Phá rừng**: Giê-rê-mi 9:19 than vãn: *"chúng ta bị hủy phá… vì họ đã phá đổ chỗ ở của chúng ta"*. Những cánh rừng già hàng trăm năm bị đốn hạ, hậu quả trực tiếp là lũ lụt ngày càng dữ dội.
 - **Biến đổi khí hậu**: Nhiệt độ bên ngoài đo được 53°C; băng tan, gấu Bắc Cực chết đói; thành phố Bắc Kinh chìm trong khói mù đến mức không còn nhìn thấy gì ngoài màn hình quảng cáo LED.
 
 ---
@@ -44,7 +44,7 @@ Tại các nước phát triển như Mỹ, chính phủ xây những bức tư�
 
 ## Lời Kinh Thánh Báo Trước và Niềm Hy Vọng
 
-Kinh Thánh không chỉ mô tả thực trạng — nó đã tiên báo từ lâu rằng thế giới sẽ đi đến chỗ hủy diệt. II Phi-e-rơ 3:10 chép: *"Ngày của Chúa sẽ đến như kẻ trộm... đất cùng mọi công trình trên nó đều sẽ bị đốt cháy cả."* Khải Huyền 6:14 mô tả những thay đổi tận thế: *"trời sẽ bị dời đi như quyển sách cuốn tròn."*
+Kinh Thánh không chỉ mô tả thực trạng — nó đã tiên báo từ lâu rằng thế giới sẽ đi đến chỗ hủy diệt. II Phi-e-rơ 3:10 chép: *"Ngày của Chúa sẽ đến như kẻ trộm… đất cùng mọi công trình trên nó đều sẽ bị đốt cháy cả."* Khải Huyền 6:14 mô tả những thay đổi tận thế: *"trời sẽ bị dời đi như quyển sách cuốn tròn."*
 
 Nhưng đây không phải là lời kết thúc tuyệt vọng. II Phi-e-rơ 3:13 mang lại niềm hy vọng: *"chúng ta chờ đợi trời mới đất mới là nơi sự công chính ngự trị."* Ở đó sẽ không còn những đại gia tham lam, không còn lâm tặc phá rừng, không còn rác thải hủy hoại địa cầu.
 

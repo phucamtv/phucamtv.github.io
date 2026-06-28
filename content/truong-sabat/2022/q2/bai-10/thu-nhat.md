@@ -10,7 +10,7 @@ Và Chúa đã trả lời như thế nào?
 
 `Đọc Sáng-thế Ký 32:22–31 và Ô-sê 12:3,4. Câu chuyện đáng ngạc nhiên này có ý nghĩa thuộc linh gì?`
 
-Sau khi làm những gì ông có thể làm để bảo vệ gia đình mình,Gia-cốpđau khổlà điều có thể hiểu được bởi những gì đang xảy ra.Ông cắm trại qua đêm,sau đóông bất ngờ bị tấn công bởi “một người” (Sáng-thế Ký 32:24). Đây là một thuật ngữ có thể có những ý nghĩa đặc biệt, gợi lên sự hiện diện thiêng liêng. Đa-ni-ên dùng nó để chỉ thầy tế lễ trên trời Mi-ca-ên (Dân-số Ký 10:5); đó cũng là từ được Giô-suê dùng để mô tả “tướng đạo binh của Đức Giê-hô-va” chính là Đức Chúa Trời (Giô-suê 5:13–15).
+Sau khi làm những gì ông có thể làm để bảo vệ gia đình mình, Gia-cốp đau khổ là điều có thể hiểu được bởi những gì đang xảy ra. Ông cắm trại qua đêm, sau đó ông bất ngờ bị tấn công bởi “một người” (Sáng-thế Ký 32:24). Đây là một thuật ngữ có thể có những ý nghĩa đặc biệt, gợi lên sự hiện diện thiêng liêng. Đa-ni-ên dùng nó để chỉ thầy tế lễ trên trời Mi-ca-ên (Dân-số Ký 10:5); đó cũng là từ được Giô-suê dùng để mô tả “tướng đạo binh của Đức Giê-hô-va” chính là Đức Chúa Trời (Giô-suê 5:13–15).
 
 Thật vậy, giữa cuộc chiến, Gia-cốp hẳn đã thấy rõ rằng ông đang vật lộn cùng Đức Chúa Trời, như lời ông nói: “Tôi chẳng cho người đi đâu, nếu người không ban phước cho tôi” (Sáng-thế Ký 32:26). Tuy nhiên, lòngtha thiết của ông bám chặt vào Đức Chúa Trờicũng bộc lộ ước nguyện tha thứ và được ởvới Chúa.
 

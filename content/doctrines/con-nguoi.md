@@ -11,7 +11,7 @@ weight: 8
 
 ## Câu gốc
 
-> “Đức Chúa Trời phán rằng: Chúng ta hãy làm nên loài người như hình ta và theo tượng ta...” (Sáng Thế Ký 1:26)
+> “Đức Chúa Trời phán rằng: Chúng ta hãy làm nên loài người như hình ta và theo tượng ta…” (Sáng Thế Ký 1:26)
 
 > “Vì mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Đức Chúa Trời.” (Rô-ma 3:23)
 

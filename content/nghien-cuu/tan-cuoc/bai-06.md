@@ -88,7 +88,7 @@ Vậy tội gì đã được tìm thấy nơi ông? Câu 17: "Lòng ngươi đ�
 
 Bức chân dung thứ hai, trong Ê-sai 14, dùng hình ảnh vua Ba-by-lôn:
 
-> "Hỡi Lu-xi-phe, con trai của sao mai, sao ngươi từ trời sa xuống! Ngươi đã nói trong lòng rằng: Ta sẽ lên trời, sẽ nhắc ngai ta lên trên các ngôi sao Đức Chúa Trời. Ta sẽ ngồi trên núi hội về cuối cùng phương bắc... Ta sẽ làm ra mình bằng Đấng Rất Cao."
+> "Hỡi Lu-xi-phe, con trai của sao mai, sao ngươi từ trời sa xuống! Ngươi đã nói trong lòng rằng: Ta sẽ lên trời, sẽ nhắc ngai ta lên trên các ngôi sao Đức Chúa Trời. Ta sẽ ngồi trên núi hội về cuối cùng phương bắc… Ta sẽ làm ra mình bằng Đấng Rất Cao."
 
 Lu-xi-phe nghĩa là **con trai của sao mai**. Trong Kinh Thánh, các "ngôi sao" thường tượng trưng cho các thiên sứ. Ông muốn nâng ngai mình cao hơn các ngôi sao của Đức Chúa Trời — nghĩa là muốn trở thành thiên sứ đứng đầu. Ông muốn ngồi trên núi hội nơi phương bắc, vốn là chỗ ngự của Đức Chúa Trời theo các Thi Thiên của Đa-vít. Cuối cùng, ông muốn "làm ra mình bằng Đấng Rất Cao" — không phải để cùng tồn tại, mà để chiếm chỗ.
 
@@ -106,7 +106,7 @@ Khi học tiếng Hy Lạp, tôi phát hiện chữ "chiến tranh" ở đây c�
 
 Con rồng đã dùng đuôi mình kéo theo **một phần ba** các ngôi sao trên trời, nghĩa là một phần ba các thiên sứ đã đứng về phía lập luận của ông: rằng Đức Chúa Trời bất công, luật pháp Ngài thiếu sót, và Lu-xi-phe đáng được thờ phượng thay cho Ngài.
 
-Đến cuối Kinh Thánh, trong Khải Huyền 13, chúng ta gặp một bộ ba bóng tối — con rồng, con thú từ biển, và con thú từ đất — cùng làm việc cho một mục tiêu: "Chúng nó thờ phượng con rồng... và thờ phượng con thú." Vấn đề trung tâm của Khải Huyền là **sự thờ phượng**.
+Đến cuối Kinh Thánh, trong Khải Huyền 13, chúng ta gặp một bộ ba bóng tối — con rồng, con thú từ biển, và con thú từ đất — cùng làm việc cho một mục tiêu: "Chúng nó thờ phượng con rồng… và thờ phượng con thú." Vấn đề trung tâm của Khải Huyền là **sự thờ phượng**.
 
 Điều này lý giải vì sao ngay sau khi Đức Chúa Giê-su chịu báp-têm năm 27 SCN và kiêng ăn bốn mươi ngày trong đồng vắng, cám dỗ thứ ba mà Sa-tan đem đến chính là: "Ví bằng ngươi sấp mình xuống mà **thờ lạy** ta, ta sẽ cho ngươi hết thảy mọi sự này." Khao khát sâu xa nhất của lòng Sa-tan là được thờ phượng — bởi Đức Chúa Trời, bởi Đấng Mê-si, và bởi bạn.
 

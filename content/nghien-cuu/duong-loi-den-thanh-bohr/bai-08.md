@@ -48,7 +48,7 @@ Trong ngày Lễ Ngũ Tuần, Đức Thánh Linh được đổ xuống và các
 
 Ma-thi-ơ 5:14–16 ghi lời Đức Chúa Giê-su phán:
 
-> "Các ngươi là sự sáng của thế gian; một cái thành ở trên núi thì không khi nào bị khuất được... Sự sáng các ngươi hãy soi trước mặt người ta như vậy, đặng họ thấy những việc lành của các ngươi, và ngợi khen Cha các ngươi ở trên trời."
+> "Các ngươi là sự sáng của thế gian; một cái thành ở trên núi thì không khi nào bị khuất được… Sự sáng các ngươi hãy soi trước mặt người ta như vậy, đặng họ thấy những việc lành của các ngươi, và ngợi khen Cha các ngươi ở trên trời."
 
 Trong sách *Christian Service* trang 21, Ellen White viết: "Mỗi người được kết nối với Đức Chúa Trời sẽ truyền ánh sáng cho người khác. Nếu có ai không có ánh sáng để chia sẻ, ấy là vì người đó không kết nối với nguồn sáng."
 
@@ -86,7 +86,7 @@ Về mặt thuộc thể, chúng ta ăn bằng miệng. Về mặt thuộc linh,
 
 Trong *Messages to Young People* trang 271–272, Ellen White viết:
 
-> "Sa-tan biết rằng tâm trí phần lớn bị ảnh hưởng bởi thứ mà nó nuôi nấng. Nó đang tìm cách dẫn cả thanh niên lẫn người trưởng thành đọc các sách truyện, các câu chuyện hư cấu và các loại văn chương khác... Người đọc loại văn chương ấy trở nên không thích hợp với những bổn phận đang chờ đợi mình. Họ sống một cuộc đời không thực và không có lòng ham muốn tra cứu Kinh Thánh, ăn lấy ma-na thiên thượng."
+> "Sa-tan biết rằng tâm trí phần lớn bị ảnh hưởng bởi thứ mà nó nuôi nấng. Nó đang tìm cách dẫn cả thanh niên lẫn người trưởng thành đọc các sách truyện, các câu chuyện hư cấu và các loại văn chương khác… Người đọc loại văn chương ấy trở nên không thích hợp với những bổn phận đang chờ đợi mình. Họ sống một cuộc đời không thực và không có lòng ham muốn tra cứu Kinh Thánh, ăn lấy ma-na thiên thượng."
 
 Nếu một đứa trẻ chỉ quen ăn bánh quy, kem, và bánh ngọt, rồi quý vị đặt trước mặt nó một đĩa kem và một túi cà-rốt mà bảo nó chọn — nó sẽ chọn kem ngay. Cũng vậy, nếu chúng ta tự huấn luyện mình ăn đồ ăn rác thuộc linh, đó là điều chúng ta sẽ thèm khát.
 

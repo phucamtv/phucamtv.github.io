@@ -14,7 +14,7 @@ Vì là tín hữu Cơ-đốc Phục Lâm giữ ngày thứ bảy, chúng ta gá
 
 `Rô-ma 7:7`
 
-Phúc âm là tin lành,tin lành đó cho dù chúng ta đã phạm tội vi phạm luật pháp của Đức Chúa Trời, nhưng qua đức tin trong Đấng Cơ-đốc đã làm trên cây thập tự giá chúng ta có thể được tha thứ tội lỗi của chính mình, vì sự vi phạm pháp luật của Ngài. Ngoài ra, chúng ta đã được ban cho sức mạnh để vâng phục luật pháp của Ngài một cách trọn vẹn.
+Phúc âm là tin lành, tin lành đó cho dù chúng ta đã phạm tội vi phạm luật pháp của Đức Chúa Trời, nhưng qua đức tin trong Đấng Cơ-đốc đã làm trên cây thập tự giá chúng ta có thể được tha thứ tội lỗi của chính mình, vì sự vi phạm pháp luật của Ngài. Ngoài ra, chúng ta đã được ban cho sức mạnh để vâng phục luật pháp của Ngài một cách trọn vẹn.
 
 Không có gì bất ngờ, trong bối cảnh của những ngày cuối cùng, khi cuộc chiến khốc liệt diễn ra tàn bạo, dân sự của Đức Chúa Trời được miêu tả một cách cụ thể.
 

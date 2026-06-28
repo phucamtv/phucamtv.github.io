@@ -66,7 +66,7 @@ Vậy, cái việc cố gắng gán ghép một giá trị thiêng liêng, một
 
 Không một ai có thể phủ nhận cái đặc ân của dân Do Thái. Thánh Kinh đã được giao phó cho họ. Đấng Cứu Thế cũng đã sinh ra giữa vòng họ. Ấy là sự thật.
 
-Nhưng họ cũng đã có cái hành vi khước từ và đóng đinh Đấng Mê-si-a của chính mình đó vậy. Đức Chúa Giê-su đã cảnh báo những nhà lãnh đạo Do Thái chống đối Ngài rằng: "Các ngươi thuộc về cha mình là ma quỷ" (Giăng 8:44). Thiên Chúa, chớ nào có cái chuyện bênh vực vô điều kiện cho bất cứ kẻ nào. Ngài có thể ban phước, thì Ngài cũng có thể rủa sả, như đã chép: "Ngươi sẽ bị rủa sả khi đi ra và lúc đi vào... cho đến chừng nào ngươi bị hủy diệt" (Phục Truyền Luật Lệ Ký 28:19-20).
+Nhưng họ cũng đã có cái hành vi khước từ và đóng đinh Đấng Mê-si-a của chính mình đó vậy. Đức Chúa Giê-su đã cảnh báo những nhà lãnh đạo Do Thái chống đối Ngài rằng: "Các ngươi thuộc về cha mình là ma quỷ" (Giăng 8:44). Thiên Chúa, chớ nào có cái chuyện bênh vực vô điều kiện cho bất cứ kẻ nào. Ngài có thể ban phước, thì Ngài cũng có thể rủa sả, như đã chép: "Ngươi sẽ bị rủa sả khi đi ra và lúc đi vào… cho đến chừng nào ngươi bị hủy diệt" (Phục Truyền Luật Lệ Ký 28:19-20).
 
 Thậm chí, chính Ngài đã báo trước một điều khiến người ta phải giật mình suy nghĩ. Khi ra khỏi Đền thờ, Ngài tuyên bố rõ ràng với môn đồ (Ma-thi-ơ 24:1-2):
 
@@ -100,7 +100,7 @@ Nói cho cùng, ai mới thật sự là con cháu chân chính của Áp-ra-ham
 
 Có một điều cốt yếu mà chớ nào ít kẻ đã cố tình bỏ quên, hoặc là lảng tránh đi mất. Các lời tiên tri về sự phục hồi Israel trong Cựu Ước đều luôn luôn gắn liền với một điều kiện rõ ràng, minh bạch: ấy là sự ăn năn tập thể và cái sự quay về chân thật với Thiên Chúa.
 
-Thánh Kinh đã viết: "Các ngươi sẽ trở lại cùng Giê-hô-va... Ngài sẽ đem những phu tù ngươi trở về" (**Phục Truyền Luật Lệ Ký 30:2-3**). Cái chữ "trở lại" ở đây, chớ nào chỉ là chuyện về mặt địa lý thôi đâu. Đó là sự quay lưng lại với tội lỗi, quay về với Thiên Chúa bằng cả tấm lòng.
+Thánh Kinh đã viết: "Các ngươi sẽ trở lại cùng Giê-hô-va… Ngài sẽ đem những phu tù ngươi trở về" (**Phục Truyền Luật Lệ Ký 30:2-3**). Cái chữ "trở lại" ở đây, chớ nào chỉ là chuyện về mặt địa lý thôi đâu. Đó là sự quay lưng lại với tội lỗi, quay về với Thiên Chúa bằng cả tấm lòng.
 
 Thế mà cái sự thành lập quốc gia Israel vào năm một ngàn chín trăm bốn mươi tám kia, rõ ràng nó chỉ là một quá trình chính trị thuần túy. Do Liên Hiệp Quốc bỏ phiếu. Do sự ủng hộ của các cường quốc. Chớ nào có phải từ một sự hối cải tâm linh thật lòng của cả dân tộc kia đâu. Há chẳng thấy một dấu vết ăn năn tập thể nào ư?
 

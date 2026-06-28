@@ -8,7 +8,7 @@ weight: 6
 
 Trận chiến trên núi giữa Ê-li, là tiên tri của Đức Chúa Trời và 450 tiên tri của thần Ba-anh (kẻ làm ác nhiều hơn so với người làm lành). Trận chiến này chứng minh Đức Chúa Trời chân thật là ai? Ngài là Đấng đã dựng nên trời và đất hay là thần Ba-anh, là ảnh tượng của “con rồng” chuyên lừa dối cả thiên hạ. (Khải Huyền 12:9)
 
-Các tiên tri thần Ba-anh đã cầu khẩn thần của họ giáng lửa từ trời xuống để thiêu của lễ dâng của chúng. Chúng kêu cầu từ sáng cho đến tối. Ê-li nhạo chúng: “Khá la lớn lên đi, vì người là thần, ... có lẽ người đang ngủ và sẽ thức dậy” (1 Các Vua 18:27). Chúng điên cuồng gào thét, lấy gươm giáo gạch vào mình cho đến khi máu chảy ra, chúng liên tục làm như vậy cho đến giờ dâng của lễ chay ban chiều.
+Các tiên tri thần Ba-anh đã cầu khẩn thần của họ giáng lửa từ trời xuống để thiêu của lễ dâng của chúng. Chúng kêu cầu từ sáng cho đến tối. Ê-li nhạo chúng: “Khá la lớn lên đi, vì người là thần, … có lẽ người đang ngủ và sẽ thức dậy” (1 Các Vua 18:27). Chúng điên cuồng gào thét, lấy gươm giáo gạch vào mình cho đến khi máu chảy ra, chúng liên tục làm như vậy cho đến giờ dâng của lễ chay ban chiều.
 
 Của lễ thiêu mà Ê-li dâng được nhúng nước ba lần, nước được đổ đầy tràn ra chung quanh bàn thờ và ra đầy các mương. Tiên tri Ê-li nhẹ nhàng cầu nguyện cùng Đức Chúa Trời và Ngài đã giáng lửa xuống thiêu đốt mọi thứ: của lễ, củi, đá, bụi, và nước trong mương rút cạn. Quyền năng của Đức Giê-hô-va Đức Chúa Trời chân thật đã tỏ tường trước các thần Ba-anh.
 

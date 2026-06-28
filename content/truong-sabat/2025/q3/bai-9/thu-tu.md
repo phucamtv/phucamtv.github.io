@@ -10,7 +10,7 @@ Trong Bài Giảng Trên Núi, Đức Chúa Giê-su đã trích dẫn các đo�
 
 Tám phước lành trên núi, Đức Chúa Giê-su tìm cách sửa lại những sự giải thích sai lạc khi hướng thính giả trở lại với ý định và ý nghĩa nguyên thủy của những điều luật này.
 
-Phân đoạn trong Xuất Ê-díp-tô Ký 21:24 nói về “mắt đền mắt, răng đền răng,” được trích dẫn trong Ma-thi-ơ 5:38 (“Các ngươi có nghe lời phán rằng... nhưng Ta phán cùng các ngươi...”) và liên quan đến “lex talionis” tức luật báo thù. Luật này cũng được tìm thấy trong Lê-vi Ký 24:20 và Phục-truyền Luật-lệ Ký 19:21.
+Phân đoạn trong Xuất Ê-díp-tô Ký 21:24 nói về “mắt đền mắt, răng đền răng,” được trích dẫn trong Ma-thi-ơ 5:38 (“Các ngươi có nghe lời phán rằng… nhưng Ta phán cùng các ngươi…”) và liên quan đến “lex talionis” tức luật báo thù. Luật này cũng được tìm thấy trong Lê-vi Ký 24:20 và Phục-truyền Luật-lệ Ký 19:21.
 
 Ý định ban đầu của luật này là để ngăn chặn sự báo thù cá nhân. Nó nhằm chấm dứt các cuộc báo thù đẫm máu hoặc sự trả thù không qua điều tra thích đáng. Mọi tổn thương phải được đánh giá bởi các quan xét và sau đó sẽ có một khoản tiền bồi thường hợp lý được ấn định để trả cho nạn nhân. Quy trình này nhằm ngăn cản con người tự mình thi hành công lý theo cách riêng của họ. Công lý phải được thực hiện, nhưng nó phải tuân theo luật pháp của Đức Chúa Trời.
 

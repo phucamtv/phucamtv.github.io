@@ -22,11 +22,11 @@ Bấy giờ, Đức Thánh Linh ngăn giữ sẽ được rút khỏi trái đ�
 
 Khi sứ điệp của thiên sứ thứ ba chấm dứt, lòng thương xót không còn cầu thay cho những cư dân tội lỗi của trái đất nữa. Dân sự của Đức Chúa Trời đã hoàn thành công việc của họ. Họ đã nhận được "mưa cuối mùa", "sự tươi mới từ sự hiện diện của Chúa", và họ được chuẩn bị cho giờ thử thách trước mặt họ. LDE 253.2
 
-Các thiên sứ đang hối hả đi lại trên thiên đàng. Một thiên sứ trở về từ trái đất thông báo rằng công việc của mình đã xong; thử thách cuối cùng đã được đem đến cho thế gian, và tất cả những ai đã chứng tỏ mình trung thành với các giới mạng thiêng liêng đã nhận được "ấn của Đức Chúa Trời hằng sống". Rồi Đức Chúa Giê-su chấm dứt sự cầu thay của Ngài trong đền thánh ở trên trời.... Đấng Christ đã làm sự chuộc tội cho dân sự Ngài, và đã xóa bỏ tội lỗi của họ. Số lượng thần dân của Ngài đã đầy đủ; "nước, quyền thế và sự tôn đại của muôn nước ở dưới cả trời" sắp được ban cho những người thừa kế sự cứu rỗi, và Đức Chúa Giê-su sẽ trị vì là Vua của các vua, và Chúa của các chúa.—The Great Controversy, 613, 614 (1911). LDE 254.1
+Các thiên sứ đang hối hả đi lại trên thiên đàng. Một thiên sứ trở về từ trái đất thông báo rằng công việc của mình đã xong; thử thách cuối cùng đã được đem đến cho thế gian, và tất cả những ai đã chứng tỏ mình trung thành với các giới mạng thiêng liêng đã nhận được "ấn của Đức Chúa Trời hằng sống". Rồi Đức Chúa Giê-su chấm dứt sự cầu thay của Ngài trong đền thánh ở trên trời.… Đấng Christ đã làm sự chuộc tội cho dân sự Ngài, và đã xóa bỏ tội lỗi của họ. Số lượng thần dân của Ngài đã đầy đủ; "nước, quyền thế và sự tôn đại của muôn nước ở dưới cả trời" sắp được ban cho những người thừa kế sự cứu rỗi, và Đức Chúa Giê-su sẽ trị vì là Vua của các vua, và Chúa của các chúa.—The Great Controversy, 613, 614 (1911). LDE 254.1
 
 ## Khủng Khiếp Vượt Quá Sức Tưởng Tượng
 
-Mùa khốn khổ và đau đớn trước mặt chúng ta sẽ đòi hỏi một đức tin có thể chịu đựng được sự mệt mỏi, trì hoãn và đói khát—một đức tin không ngất xỉu, dù bị thử thách nặng nề.... LDE 254.2
+Mùa khốn khổ và đau đớn trước mặt chúng ta sẽ đòi hỏi một đức tin có thể chịu đựng được sự mệt mỏi, trì hoãn và đói khát—một đức tin không ngất xỉu, dù bị thử thách nặng nề.… LDE 254.2
 
 "Cơn đại nạn chưa từng có" sắp mở ra trên chúng ta; và chúng ta sẽ cần một kinh nghiệm mà hiện tại chúng ta chưa có, và nhiều người quá lười biếng để có được. Thường thì hoạn nạn lớn hơn trong sự dự đoán so với thực tế; nhưng điều này không đúng với cuộc khủng hoảng đang ở trước mặt chúng ta. Sự trình bày sống động nhất cũng không thể đạt tới mức độ to lớn của thử thách ấy.—The Great Controversy, 621, 622 (1911). LDE 254.3
 
@@ -34,13 +34,13 @@ Khi Đức Chúa Giê-su rời khỏi nơi chí thánh, Đức Thánh Linh kiề
 
 ## Nhiều Người Sẽ Được An Nghỉ Trước Cơn Đại Nạn
 
-Không phải lúc nào cũng an toàn khi cầu xin sự chữa lành vô điều kiện.... Ngài biết rõ những người mà chúng ta cầu thay cho có thể chịu đựng được những thử thách và thử nghiệm sẽ đến trên họ nếu họ còn sống hay không. Ngài biết sự cuối cùng từ buổi ban đầu. Nhiều người sẽ được an nghỉ trước khi thử thách dữ dội của cơn đại nạn giáng xuống thế gian chúng ta.—Counsels on Health, 375 (1892). LDE 255.2
+Không phải lúc nào cũng an toàn khi cầu xin sự chữa lành vô điều kiện.… Ngài biết rõ những người mà chúng ta cầu thay cho có thể chịu đựng được những thử thách và thử nghiệm sẽ đến trên họ nếu họ còn sống hay không. Ngài biết sự cuối cùng từ buổi ban đầu. Nhiều người sẽ được an nghỉ trước khi thử thách dữ dội của cơn đại nạn giáng xuống thế gian chúng ta.—Counsels on Health, 375 (1892). LDE 255.2
 
 Chúa đã thường chỉ dạy tôi rằng nhiều trẻ thơ sẽ được cất đi trước cơn đại nạn. Chúng ta sẽ gặp lại con cái mình. Chúng ta sẽ gặp và nhận biết chúng trong các sân thiên đàng.—Selected Messages 2:259 (1899). LDE 255.3
 
 ## Mục tiêu của Sa-tan: Tiêu diệt tất cả những người giữ ngày Sa-bát
 
-Kẻ đại lừa dối nói rằng: ... "Mối quan tâm chủ yếu của chúng ta là làm cho cái nhóm những người giữ ngày Sa-bát này phải im lặng.... Cuối cùng chúng ta sẽ có một đạo luật để tiêu diệt tất cả những ai không chịu phục tùng quyền hành của chúng ta."—Testimonies to Ministers and Gospel Workers, 472, 473 (1884). LDE 255.4
+Kẻ đại lừa dối nói rằng: … "Mối quan tâm chủ yếu của chúng ta là làm cho cái nhóm những người giữ ngày Sa-bát này phải im lặng.… Cuối cùng chúng ta sẽ có một đạo luật để tiêu diệt tất cả những ai không chịu phục tùng quyền hành của chúng ta."—Testimonies to Ministers and Gospel Workers, 472, 473 (1884). LDE 255.4
 
 Mục đích của Sa-tan là làm cho họ bị xóa sạch khỏi mặt đất, hầu cho quyền tối thượng của hắn trên thế gian không bị tranh cãi.—Testimonies to Ministers and Gospel Workers, 37 (1893). LDE 255.5
 
@@ -52,13 +52,13 @@ Tôi thấy bốn vị thiên sứ sẽ giữ bốn ngọn gió cho đến khi c
 
 Khi thiên sứ của lòng thương xót xếp cánh và ra đi, Sa-tan sẽ làm những việc ác mà nó từ lâu đã muốn làm. Bão tố và giông gió, chiến tranh và đổ máu—nó vui thích trong những điều này, và như vậy nó gặt hái mùa màng của mình. Và loài người sẽ bị nó lừa dối hoàn toàn đến nỗi họ sẽ tuyên bố rằng những tai họa này là kết quả của việc xúc phạm đến ngày thứ nhất trong tuần lễ. Từ các bục giảng của những Hội Thánh phổ thông, người ta sẽ nghe lời tuyên bố rằng thế giới đang bị trừng phạt vì ngày Chủ Nhật không được tôn trọng như đáng phải có.—The Review and Herald, September 17, 1901. LDE 256.3
 
-Người ta sẽ nài nỉ rằng số ít người đứng lên chống lại một định chế của Hội Thánh và một luật pháp của nhà nước thì không nên được dung thứ; thà để họ chịu khổ còn hơn là để cả các quốc gia bị rơi vào sự rối loạn và vô luật pháp. Cùng một lý lẽ ấy, một ngàn tám trăm năm trước, đã được “những kẻ cai trị dân” đưa ra để chống lại Đấng Christ.... Lý lẽ này sẽ tỏ ra có sức thuyết phục.—The Great Controversy, 615 (1911). LDE 257.1
+Người ta sẽ nài nỉ rằng số ít người đứng lên chống lại một định chế của Hội Thánh và một luật pháp của nhà nước thì không nên được dung thứ; thà để họ chịu khổ còn hơn là để cả các quốc gia bị rơi vào sự rối loạn và vô luật pháp. Cùng một lý lẽ ấy, một ngàn tám trăm năm trước, đã được “những kẻ cai trị dân” đưa ra để chống lại Đấng Christ.… Lý lẽ này sẽ tỏ ra có sức thuyết phục.—The Great Controversy, 615 (1911). LDE 257.1
 
 ## Sự chết dành cho tất cả những ai không tôn kính ngày Chủ Nhật
 
 Một sắc lệnh được ban hành để giết các thánh đồ, khiến họ kêu cầu ngày đêm để được giải cứu.—Early Writings, 36, 37 (1851). LDE 257.2
 
-Như Nê-bu-cát-nết-sa, vua Ba-by-lôn, đã ra sắc lệnh rằng tất cả những ai không cúi xuống thờ lạy pho tượng đều phải bị giết, thì cũng vậy, một thông cáo sẽ được ban hành rằng tất cả những ai không tôn kính chế độ Chủ Nhật sẽ bị trừng phạt bằng tù đày và cái chết.... Hãy để mọi người đọc kỹ chương mười ba sách Khải Huyền, vì nó liên quan đến mỗi con người, lớn cũng như nhỏ.—Manuscript Releases 14:91 (1896). LDE 257.3
+Như Nê-bu-cát-nết-sa, vua Ba-by-lôn, đã ra sắc lệnh rằng tất cả những ai không cúi xuống thờ lạy pho tượng đều phải bị giết, thì cũng vậy, một thông cáo sẽ được ban hành rằng tất cả những ai không tôn kính chế độ Chủ Nhật sẽ bị trừng phạt bằng tù đày và cái chết.… Hãy để mọi người đọc kỹ chương mười ba sách Khải Huyền, vì nó liên quan đến mỗi con người, lớn cũng như nhỏ.—Manuscript Releases 14:91 (1896). LDE 257.3
 
 Cơn đại nạn sắp giáng xuống trên dân sự của Đức Chúa Trời. Khi ấy, sắc lệnh sẽ được ban ra cấm những người giữ ngày Sa-bát của Chúa được mua hoặc bán, và đe dọa họ bằng hình phạt, thậm chí là cái chết, nếu họ không tuân giữ ngày thứ nhất trong tuần như ngày Sa-bát.—In Heavenly Places, 344 (1908). LDE 257.4
 
@@ -90,7 +90,7 @@ Dân sót nhỏ bé này, không thể tự bảo vệ mình trong cuộc xung �
 
 ## Dân sự Đức Chúa Trời chạy trốn khỏi các thành phố; nhiều người bị cầm tù
 
-Khi sắc lệnh do các nhà cầm quyền khác nhau của Cơ-đốc Giáo ban hành chống lại những người giữ các điều răn rút lại sự bảo vệ của chính quyền, và phó mặc họ cho những kẻ muốn tiêu diệt họ, thì dân sự Đức Chúa Trời sẽ chạy trốn khỏi các thành phố và làng mạc, kết hợp với nhau thành từng nhóm, cư ngụ tại những nơi hoang vu và cô quạnh nhất. Nhiều người sẽ tìm nơi nương náu trong các pháo đài của núi non.... Nhưng nhiều người thuộc mọi quốc gia và mọi tầng lớp, sang hèn, giàu nghèo, da đen và da trắng, sẽ bị ném vào sự nô lệ bất công và tàn nhẫn nhất. Những người yêu dấu của Đức Chúa Trời sẽ trải qua những ngày mỏi mệt bị xiềng xích trói buộc, bị giam sau song sắt nhà tù, bị kết án tử hình, một số dường như bị bỏ mặc cho chết đói trong những ngục tối tăm tối và ghê tởm.—The Great Controversy, 626 (1911). LDE 259.4
+Khi sắc lệnh do các nhà cầm quyền khác nhau của Cơ-đốc Giáo ban hành chống lại những người giữ các điều răn rút lại sự bảo vệ của chính quyền, và phó mặc họ cho những kẻ muốn tiêu diệt họ, thì dân sự Đức Chúa Trời sẽ chạy trốn khỏi các thành phố và làng mạc, kết hợp với nhau thành từng nhóm, cư ngụ tại những nơi hoang vu và cô quạnh nhất. Nhiều người sẽ tìm nơi nương náu trong các pháo đài của núi non.… Nhưng nhiều người thuộc mọi quốc gia và mọi tầng lớp, sang hèn, giàu nghèo, da đen và da trắng, sẽ bị ném vào sự nô lệ bất công và tàn nhẫn nhất. Những người yêu dấu của Đức Chúa Trời sẽ trải qua những ngày mỏi mệt bị xiềng xích trói buộc, bị giam sau song sắt nhà tù, bị kết án tử hình, một số dường như bị bỏ mặc cho chết đói trong những ngục tối tăm tối và ghê tởm.—The Great Controversy, 626 (1911). LDE 259.4
 
 Mặc dù một sắc lệnh chung đã ấn định thời điểm những người giữ các điều răn có thể bị xử tử, nhưng kẻ thù của họ trong một số trường hợp sẽ đoán trước sắc lệnh, và trước thời gian đã định, sẽ tìm cách lấy mạng sống họ. Nhưng không ai có thể vượt qua được những người canh giữ quyền năng đặt quanh mỗi linh hồn trung tín. Một số bị tấn công trong khi chạy trốn khỏi các thành phố và làng mạc; nhưng những thanh gươm giơ lên chống lại họ bị gãy và rơi xuống bất lực như cọng rơm. Những người khác được các thiên sứ trong hình hài chiến binh bảo vệ.—The Great Controversy, 631 (1911). LDE 260.1
 
@@ -100,9 +100,9 @@ Dân sự Đức Chúa Trời lúc bấy giờ không cùng ở một nơi. Họ
 
 ## Nhà cửa và Đất đai Sẽ Vô Ích
 
-Nhà cửa và đất đai sẽ chẳng ích lợi gì cho các thánh đồ trong cơn đại nạn, vì khi ấy họ sẽ phải chạy trốn trước những đám đông cuồng nộ, và lúc đó tài sản của họ không thể được bán đi để đẩy mạnh công việc của lẽ thật hiện tại.... LDE 261.1
+Nhà cửa và đất đai sẽ chẳng ích lợi gì cho các thánh đồ trong cơn đại nạn, vì khi ấy họ sẽ phải chạy trốn trước những đám đông cuồng nộ, và lúc đó tài sản của họ không thể được bán đi để đẩy mạnh công việc của lẽ thật hiện tại.… LDE 261.1
 
-Tôi đã thấy rằng nếu ai cứ bám giữ tài sản của mình, và không cầu hỏi Chúa về bổn phận của họ, thì Ngài sẽ không tỏ cho họ biết bổn phận, và họ sẽ được phép giữ tài sản của mình, và trong cơn đại nạn, tài sản đó sẽ hiện ra trước mặt họ như một ngọn núi đè bẹp họ, và họ sẽ cố gắng bán đi, nhưng sẽ không thể được.... Nhưng nếu họ mong muốn được dạy dỗ, thì Ngài sẽ dạy họ, trong lúc cần kíp, khi nào nên bán và bán bao nhiêu.—Early Writings, 56, 57 (1851). LDE 261.2
+Tôi đã thấy rằng nếu ai cứ bám giữ tài sản của mình, và không cầu hỏi Chúa về bổn phận của họ, thì Ngài sẽ không tỏ cho họ biết bổn phận, và họ sẽ được phép giữ tài sản của mình, và trong cơn đại nạn, tài sản đó sẽ hiện ra trước mặt họ như một ngọn núi đè bẹp họ, và họ sẽ cố gắng bán đi, nhưng sẽ không thể được.… Nhưng nếu họ mong muốn được dạy dỗ, thì Ngài sẽ dạy họ, trong lúc cần kíp, khi nào nên bán và bán bao nhiêu.—Early Writings, 56, 57 (1851). LDE 261.2
 
 Bây giờ đã quá trễ để bám víu vào những kho tàng thế gian. Chẳng bao lâu nữa, nhà cửa và đất đai không cần thiết sẽ chẳng ích lợi gì cho ai cả, vì sự rủa sả của Đức Chúa Trời sẽ giáng xuống trên đất ngày càng nặng nề hơn. Tiếng gọi vang lên:
 
@@ -115,7 +115,7 @@ Sứ điệp này phải được rao truyền cách trung tín—thúc giục t
 
 Cuối cùng, một sắc lệnh sẽ được ban hành chống lại những người tôn vinh ngày Sa-bát theo điều răn thứ tư, lên án họ là đáng phải chịu hình phạt nặng nề nhất, và cho phép dân chúng, sau một thời gian nhất định, được tự do giết họ. Công Giáo La-mã ở Cựu Thế Giới và Tin Lành bội đạo ở Tân Thế Giới sẽ theo đuổi một đường lối tương tự đối với những người tôn trọng mọi mệnh lệnh của Đức Chúa Trời. Dân sự của Đức Chúa Trời lúc bấy giờ sẽ bị nhấn chìm trong những cảnh khổ nạn và khốn khổ mà tiên tri đã mô tả là thời kỳ hoạn nạn của Gia-cốp.—The Great Controversy, 615, 616 (1911). LDE 261.4
 
-Theo cách nhìn của con người, dường như dân sự của Đức Chúa Trời sắp phải đóng ấn lời chứng của họ bằng chính huyết mình, như những người tử đạo trước họ đã làm. Chính họ cũng bắt đầu lo sợ rằng Chúa đã bỏ mặc họ ngã xuống bởi tay kẻ thù. Đó là thời kỳ thống khổ kinh hoàng. Ngày đêm họ kêu cầu Đức Chúa Trời giải cứu... Giống như Gia-cốp, tất cả đều đang vật lộn với Đức Chúa Trời. Vẻ mặt của họ biểu lộ cuộc tranh chiến nội tâm. Nét xanh xao hiện trên mọi khuôn mặt. Tuy nhiên họ không ngừng tha thiết khẩn cầu.—The Great Controversy, 630 (1911). LDE 262.1
+Theo cách nhìn của con người, dường như dân sự của Đức Chúa Trời sắp phải đóng ấn lời chứng của họ bằng chính huyết mình, như những người tử đạo trước họ đã làm. Chính họ cũng bắt đầu lo sợ rằng Chúa đã bỏ mặc họ ngã xuống bởi tay kẻ thù. Đó là thời kỳ thống khổ kinh hoàng. Ngày đêm họ kêu cầu Đức Chúa Trời giải cứu… Giống như Gia-cốp, tất cả đều đang vật lộn với Đức Chúa Trời. Vẻ mặt của họ biểu lộ cuộc tranh chiến nội tâm. Nét xanh xao hiện trên mọi khuôn mặt. Tuy nhiên họ không ngừng tha thiết khẩn cầu.—The Great Controversy, 630 (1911). LDE 262.1
 
 Kinh nghiệm của Gia-cốp trong đêm vật lộn và đau khổ ấy tiêu biểu cho cuộc thử thách mà dân sự của Đức Chúa Trời phải trải qua ngay trước khi Đấng Christ tái lâm. Tiên tri Giê-rê-mi, trong sự hiện thấy thánh đã nhìn về thời kỳ này, có nói:
 
@@ -128,7 +128,7 @@ Kinh nghiệm của Gia-cốp trong đêm vật lộn và đau khổ ấy tiêu 
 
 Trong cơn đại nạn, nếu dân sự Đức Chúa Trời có những tội lỗi chưa xưng ra hiện lên trước mắt họ trong khi bị giày vò bởi sợ hãi và đau đớn, thì họ sẽ bị áp đảo; sự tuyệt vọng sẽ cắt đứt đức tin của họ, và họ sẽ không thể có lòng tin cậy để khẩn cầu Đức Chúa Trời giải cứu. Nhưng dù họ có ý thức sâu sắc về sự không xứng đáng của mình, họ không có điều sai trái nào bị che giấu để phải tỏ lộ. Tội lỗi của họ đã được đem ra phán xét trước và đã được xóa bỏ; nên họ không thể nhớ lại được nữa.—The Great Controversy, 620 (1911). LDE 263.1
 
-Dân sự Đức Chúa Trời... sẽ có ý thức sâu sắc về những thiếu sót của mình, và khi xem lại cuộc đời mình, hy vọng của họ sẽ chìm xuống. Nhưng khi nhớ đến sự nhân từ lớn lao của Đức Chúa Trời và sự ăn năn chân thành của chính mình, họ sẽ nài xin những lời hứa của Ngài đã ban qua Đấng Christ cho những tội nhân ăn năn không nơi nương tựa. Đức tin của họ sẽ không suy bại vì những lời cầu nguyện của họ không được đáp ứng ngay lập tức. Họ sẽ nắm chặt sức mạnh của Đức Chúa Trời, như Gia-cốp đã nắm chặt Thiên Sứ, và ngôn ngữ của linh hồn họ sẽ là: "Tôi chẳng cho Ngài đi đâu, nếu Ngài không ban phước cho tôi."—Patriarchs and Prophets, 202 (1890). LDE 263.2
+Dân sự Đức Chúa Trời… sẽ có ý thức sâu sắc về những thiếu sót của mình, và khi xem lại cuộc đời mình, hy vọng của họ sẽ chìm xuống. Nhưng khi nhớ đến sự nhân từ lớn lao của Đức Chúa Trời và sự ăn năn chân thành của chính mình, họ sẽ nài xin những lời hứa của Ngài đã ban qua Đấng Christ cho những tội nhân ăn năn không nơi nương tựa. Đức tin của họ sẽ không suy bại vì những lời cầu nguyện của họ không được đáp ứng ngay lập tức. Họ sẽ nắm chặt sức mạnh của Đức Chúa Trời, như Gia-cốp đã nắm chặt Thiên Sứ, và ngôn ngữ của linh hồn họ sẽ là: "Tôi chẳng cho Ngài đi đâu, nếu Ngài không ban phước cho tôi."—Patriarchs and Prophets, 202 (1890). LDE 263.2
 
 ## Các thánh đồ sẽ không mất mạng sống mình
 
@@ -144,7 +144,7 @@ Chúa đã nhiều lần tỏ cho tôi thấy rằng việc tích trữ bất c�
 
 Khi ấy sẽ là thời điểm để chúng ta hoàn toàn tin cậy nơi Đức Chúa Trời, và Ngài sẽ nâng đỡ chúng ta. Tôi thấy rằng bánh và nước của chúng ta sẽ chắc chắn được ban cho trong thời điểm đó, và chúng ta sẽ không thiếu thốn hay đói khát, vì Đức Chúa Trời có thể dọn bàn cho chúng ta trong đồng vắng. Nếu cần thiết, Ngài sẽ sai chim quạ đến nuôi chúng ta, như Ngài đã nuôi Ê-li, hay làm mưa ma-na từ trời xuống, như Ngài đã làm cho dân Y-sơ-ra-ên.—Early Writings, 56 (1851). LDE 264.4
 
-Tôi thấy rằng một cơn đại nạn đang ở trước mặt chúng ta, khi sự cần thiết khắc nghiệt sẽ buộc dân sự của Đức Chúa Trời phải sống bằng bánh và nước.... Trong cơn đại nạn không ai sẽ làm việc bằng đôi tay của mình. Những đau khổ của họ sẽ thuộc về tinh thần, và Đức Chúa Trời sẽ chu cấp lương thực cho họ.—Manuscript 2, 1858. LDE 265.1
+Tôi thấy rằng một cơn đại nạn đang ở trước mặt chúng ta, khi sự cần thiết khắc nghiệt sẽ buộc dân sự của Đức Chúa Trời phải sống bằng bánh và nước.… Trong cơn đại nạn không ai sẽ làm việc bằng đôi tay của mình. Những đau khổ của họ sẽ thuộc về tinh thần, và Đức Chúa Trời sẽ chu cấp lương thực cho họ.—Manuscript 2, 1858. LDE 265.1
 
 Cơn đại nạn đang ở ngay trước mặt chúng ta, và khi đó sự cần thiết khắc nghiệt sẽ đòi hỏi dân sự của Đức Chúa Trời phải từ bỏ chính mình và chỉ ăn vừa đủ để duy trì sự sống, nhưng Đức Chúa Trời sẽ chuẩn bị chúng ta cho thời điểm đó. Trong giờ khủng khiếp ấy, sự cần thiết của chúng ta sẽ là cơ hội của Đức Chúa Trời để ban truyền quyền năng làm vững mạnh của Ngài và để nâng đỡ dân sự Ngài.—Testimonies For The Church 1:206 (1859). LDE 265.2
 
@@ -154,15 +154,15 @@ Trong cơn đại nạn, ngay trước sự đến của Đấng Christ, những
 
 ## Không Có Đấng Trung Bảo, Nhưng Liên Tục Thông Công Với Đấng Christ
 
-Đấng Christ đã làm sự chuộc tội cho dân Ngài và xóa bỏ tội lỗi của họ. Số những thần dân của Ngài đã đầy đủ.... LDE 265.5
+Đấng Christ đã làm sự chuộc tội cho dân Ngài và xóa bỏ tội lỗi của họ. Số những thần dân của Ngài đã đầy đủ.… LDE 265.5
 
 Khi Ngài rời khỏi đền thánh, bóng tối bao trùm cư dân trên đất. Trong thời điểm đáng sợ ấy, người công bình phải sống trước mặt Đức Chúa Trời thánh khiết mà không có đấng trung bảo.—The Great Controversy, 613, 614 (1911). LDE 265.6
 
-Liệu Chúa có quên dân Ngài trong giờ thử thách này không?... Dầu kẻ thù có thể tống họ vào ngục, nhưng những bức tường ngục tối không thể cắt đứt sự thông công giữa linh hồn họ với Đấng Christ. Đấng nhìn thấy mọi sự yếu đuối của họ, Đấng biết rõ mọi thử thách, là Đấng ở trên mọi quyền lực trần gian, và các thiên sứ sẽ đến với họ trong những phòng giam cô đơn, mang theo ánh sáng và sự bình an từ thiên đàng. Nhà tù sẽ trở thành cung điện, vì những kẻ giàu đức tin ngự tại đó, và những bức tường u ám sẽ được chiếu sáng bởi ánh sáng thiên đàng như khi Phao-lô và Si-la cầu nguyện và hát ngợi khen vào lúc nửa đêm trong ngục tối tại Phi-líp.—The Great Controversy, 626, 627 (1911). LDE 266.1
+Liệu Chúa có quên dân Ngài trong giờ thử thách này không?… Dầu kẻ thù có thể tống họ vào ngục, nhưng những bức tường ngục tối không thể cắt đứt sự thông công giữa linh hồn họ với Đấng Christ. Đấng nhìn thấy mọi sự yếu đuối của họ, Đấng biết rõ mọi thử thách, là Đấng ở trên mọi quyền lực trần gian, và các thiên sứ sẽ đến với họ trong những phòng giam cô đơn, mang theo ánh sáng và sự bình an từ thiên đàng. Nhà tù sẽ trở thành cung điện, vì những kẻ giàu đức tin ngự tại đó, và những bức tường u ám sẽ được chiếu sáng bởi ánh sáng thiên đàng như khi Phao-lô và Si-la cầu nguyện và hát ngợi khen vào lúc nửa đêm trong ngục tối tại Phi-líp.—The Great Controversy, 626, 627 (1911). LDE 266.1
 
-Nếu loài người có thể nhìn bằng nhãn quan thiên đàng, họ sẽ thấy các đoàn thiên sứ trổi hơn về sức mạnh đứng quanh những người đã giữ lời nhịn nhục của Đấng Christ. Với lòng cảm thương dịu dàng, các thiên sứ đã chứng kiến nỗi khốn khổ của họ và đã nghe lời cầu nguyện của họ. Họ đang chờ đợi lệnh của Đấng Chỉ huy để giật họ ra khỏi cảnh hiểm nghèo.... Đấng Cứu Thế quý báu sẽ gửi sự giúp đỡ đến đúng khi chúng ta cần.—The Great Controversy, 630, 633 (1911). LDE 266.2
+Nếu loài người có thể nhìn bằng nhãn quan thiên đàng, họ sẽ thấy các đoàn thiên sứ trổi hơn về sức mạnh đứng quanh những người đã giữ lời nhịn nhục của Đấng Christ. Với lòng cảm thương dịu dàng, các thiên sứ đã chứng kiến nỗi khốn khổ của họ và đã nghe lời cầu nguyện của họ. Họ đang chờ đợi lệnh của Đấng Chỉ huy để giật họ ra khỏi cảnh hiểm nghèo.… Đấng Cứu Thế quý báu sẽ gửi sự giúp đỡ đến đúng khi chúng ta cần.—The Great Controversy, 630, 633 (1911). LDE 266.2
 
-Không thể nào hình dung được kinh nghiệm của dân sự Đức Chúa Trời còn sống trên đất khi vinh quang thiên đàng và sự lặp lại của những cuộc bắt bớ trong quá khứ hòa quyện với nhau. Họ sẽ bước đi trong ánh sáng phát ra từ ngai Đức Chúa Trời. Nhờ các thiên sứ, sẽ có sự liên lạc liên tục giữa trời và đất.... LDE 266.3
+Không thể nào hình dung được kinh nghiệm của dân sự Đức Chúa Trời còn sống trên đất khi vinh quang thiên đàng và sự lặp lại của những cuộc bắt bớ trong quá khứ hòa quyện với nhau. Họ sẽ bước đi trong ánh sáng phát ra từ ngai Đức Chúa Trời. Nhờ các thiên sứ, sẽ có sự liên lạc liên tục giữa trời và đất.… LDE 266.3
 
 Giữa cơn đại nạn sắp đến—một cơn đại nạn chưa từng có kể từ khi có một dân tộc—dân được chọn của Đức Chúa Trời sẽ đứng vững không lay chuyển. Sa-tan và đạo binh của hắn không thể tiêu diệt họ, vì các thiên sứ trổi hơn về sức mạnh sẽ bảo vệ họ.—Testimonies for the Church 9:16, 17 (1909). LDE 267.1
 
@@ -207,13 +207,13 @@ Nền của trái đất rung chuyển, các tòa nhà lung lay và đổ sập 
 
 Khi sự bảo vệ của luật pháp loài người bị rút khỏi những người tôn kính luật pháp Đức Chúa Trời, sẽ có, tại các xứ khác nhau, một cuộc vận động đồng thời để tiêu diệt họ. Khi thời điểm đã định trong sắc lệnh đến gần, dân chúng sẽ âm mưu tận diệt cái giáo phái bị căm ghét đó. Người ta sẽ quyết định giáng một đòn quyết định trong một đêm, để dập tắt hoàn toàn tiếng nói bất đồng và quở trách. LDE 269.4
 
-Dân sự Đức Chúa Trời—một số bị giam trong ngục tù, một số ẩn náu nơi hẻo lánh trong rừng và trên núi—vẫn cầu xin sự bảo vệ thiêng liêng, trong khi ở khắp mọi nơi, các đoàn người vũ trang, được thúc đẩy bởi các đạo binh ác quỷ, đang chuẩn bị cho công việc giết chóc.... Với những tiếng reo hò đắc thắng, chế giễu và rủa sả, đám đông những kẻ ác sắp lao vào con mồi của chúng thì, kìa, một bóng tối dày đặc, sâu hơn cả bóng tối của đêm, ập xuống trên đất.... LDE 270.1
+Dân sự Đức Chúa Trời—một số bị giam trong ngục tù, một số ẩn náu nơi hẻo lánh trong rừng và trên núi—vẫn cầu xin sự bảo vệ thiêng liêng, trong khi ở khắp mọi nơi, các đoàn người vũ trang, được thúc đẩy bởi các đạo binh ác quỷ, đang chuẩn bị cho công việc giết chóc.… Với những tiếng reo hò đắc thắng, chế giễu và rủa sả, đám đông những kẻ ác sắp lao vào con mồi của chúng thì, kìa, một bóng tối dày đặc, sâu hơn cả bóng tối của đêm, ập xuống trên đất.… LDE 270.1
 
-Chính vào lúc nửa đêm, Đức Chúa Trời tỏ bày quyền năng của Ngài để giải cứu dân sự Ngài.... Giữa các tầng trời cuồng nộ có một khoảng quang đãng với vinh hiển khôn tả, từ đó phát ra tiếng của Đức Chúa Trời như tiếng của nhiều dòng nước, phán rằng:
+Chính vào lúc nửa đêm, Đức Chúa Trời tỏ bày quyền năng của Ngài để giải cứu dân sự Ngài.… Giữa các tầng trời cuồng nộ có một khoảng quang đãng với vinh hiển khôn tả, từ đó phát ra tiếng của Đức Chúa Trời như tiếng của nhiều dòng nước, phán rằng:
 
 > "Vị thiên sứ thứ bảy trút bát mình trong không khí, thì có tiếng lớn trong đền thờ vang ra, từ ngôi đến mà phán rằng: Xong rồi!"
 > <cite>(Khải-huyền 16:17)</cite>
 
-Tiếng phán ấy làm rung chuyển các tầng trời và trái đất.... LDE 270.2
+Tiếng phán ấy làm rung chuyển các tầng trời và trái đất.… LDE 270.2
 
 Những thành phố kiêu hãnh nhất của trái đất bị san bằng. Các cung điện nguy nga, mà những vĩ nhân của thế gian đã hoang phí của cải để tôn vinh chính mình, đang sụp đổ thành đống tàn tích trước mắt họ. Tường ngục bị xé toạc, và dân sự Đức Chúa Trời, những người đã bị giam giữ vì đức tin của mình, được trả tự do.—The Great Controversy, 635-637 (1911). LDE 270.3

@@ -10,6 +10,6 @@ Cụm từ được lặp đi lặp lại “Hê-nóc đồng đi cùng Đức C
 
 **Câu hỏi thảo luận**:
 
-`1. Tại sao Ca-in lại giết em mình? Hãy đọc bình luận sau đây của Elie Wiesel: “Tại sao Ca-in lại làm điều đó? Có lẽ ông muốn ở lại một mình: một đứa con duy nhất và sau sự chết của cha mẹ mình sẽ trở thành con người duy nhất. Một mình như Chúa và có lẽ một mình thay cho Chúa... Ca-in giết người để trở thành Chúa...Bất kỳ người nào tự mình thay Đức Chúa Trời, cuối cùng sẽ ám sát người ta”- Elie Wiesel, Messengers of God: Biblical Portraits and Legends (New York: Random House, 1976), trang 58. Làm thế nào chúng ta có thể cẩn thận không phản ánh thái độ của Ca-in ngay cả khi chúng ta không phạm tội giết người?`
+`1. Tại sao Ca-in lại giết em mình? Hãy đọc bình luận sau đây của Elie Wiesel: “Tại sao Ca-in lại làm điều đó? Có lẽ ông muốn ở lại một mình: một đứa con duy nhất và sau sự chết của cha mẹ mình sẽ trở thành con người duy nhất. Một mình như Chúa và có lẽ một mình thay cho Chúa… Ca-in giết người để trở thành Chúa…Bất kỳ người nào tự mình thay Đức Chúa Trời, cuối cùng sẽ ám sát người ta”- Elie Wiesel, Messengers of God: Biblical Portraits and Legends (New York: Random House, 1976), trang 58. Làm thế nào chúng ta có thể cẩn thận không phản ánh thái độ của Ca-in ngay cả khi chúng ta không phạm tội giết người?`
 
 `2. So sánh tuổi thọ của những người sống trước đại hồng thủy (Sáng-thế Ký 5) với tuổi thọ của những tộc trưởng. Chúng ta giải thích thế nào về con người giảm tuổi thọ? Sự thoái hóa này chống lại các tiền đề của học thuyết Đác-uyn hiện đại như thế nào?`

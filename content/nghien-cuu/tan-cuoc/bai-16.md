@@ -40,7 +40,7 @@ Chỉ riêng trong Tân Ước đã có hơn 2.000 chỗ nhắc đến sự tái
 
 Trong đêm cuối cùng trước khi chịu thương khó, Đức Chúa Giê-su đã phán với các môn đồ:
 
-> "Lòng các ngươi chớ hề bối rối; hãy tin Đức Chúa Trời, cũng hãy tin Ta nữa. Trong nhà Cha Ta có nhiều chỗ ở... Ta đi sắm sẵn cho các ngươi một chỗ. Khi Ta đã đi và đã sắm sẵn cho các ngươi một chỗ rồi, Ta sẽ trở lại."
+> "Lòng các ngươi chớ hề bối rối; hãy tin Đức Chúa Trời, cũng hãy tin Ta nữa. Trong nhà Cha Ta có nhiều chỗ ở… Ta đi sắm sẵn cho các ngươi một chỗ. Khi Ta đã đi và đã sắm sẵn cho các ngươi một chỗ rồi, Ta sẽ trở lại."
 
 Đó là lý do sứ đồ Phao-lô gọi sự tái lâm là **"sự trông cậy hạnh phước và sự hiện ra vinh hiển của Đức Chúa Giê-su Christ"** — Cứu Chúa của chúng ta.
 
@@ -68,7 +68,7 @@ Kinh Thánh dạy năm đặc điểm rõ ràng về cách Đức Chúa Giê-su 
 
 **Thứ ba: Sự tái lâm là đầy uy quyền.** Đức Chúa Giê-su phán rằng Con Người sẽ đến trong sự vinh hiển của Cha Ngài cùng với các thiên sứ. Khi Môi-se chỉ thấy lưng của Đức Chúa Trời tại núi Si-na-i, mặt ông sáng đến nỗi dân Y-sơ-ra-ên phải bảo ông che mặt lại. Còn tại sự tái lâm, Đức Chúa Giê-su đến trong sự vinh hiển trọn vẹn của Đức Chúa Cha cùng tất cả các thiên sứ — đây sẽ là khoảnh khắc rực rỡ nhất trong lịch sử nhân loại. Khải Huyền 6 chép rằng trời sẽ dời đi như cuộn sách cuốn lại, mọi núi và đảo đều bị chuyển khỏi chỗ mình.
 
-**Thứ tư: Sự tái lâm là công khai.** Đức Chúa Giê-su phán: "Khi ấy, nếu có ai nói với các ngươi rằng: Kìa, Đấng Christ ở đây, hay là: Ở đó, thì đừng tin... Vậy, nếu người ta nói với các ngươi rằng: Nầy, Ngài ở trong đồng vắng, thì đừng đi đến; nầy, Ngài ở trong nhà kín, thì đừng tin." Nếu cần ai đó thông báo rằng Đức Chúa Giê-su đã trở lại, thì đó không phải là Đức Chúa Giê-su thật. Vì mọi mắt sẽ thấy, cả thế giới sẽ than khóc — không ai có thể bỏ lỡ.
+**Thứ tư: Sự tái lâm là công khai.** Đức Chúa Giê-su phán: "Khi ấy, nếu có ai nói với các ngươi rằng: Kìa, Đấng Christ ở đây, hay là: Ở đó, thì đừng tin… Vậy, nếu người ta nói với các ngươi rằng: Nầy, Ngài ở trong đồng vắng, thì đừng đi đến; nầy, Ngài ở trong nhà kín, thì đừng tin." Nếu cần ai đó thông báo rằng Đức Chúa Giê-su đã trở lại, thì đó không phải là Đức Chúa Giê-su thật. Vì mọi mắt sẽ thấy, cả thế giới sẽ than khóc — không ai có thể bỏ lỡ.
 
 Điều này dẫn đến một cảnh báo về giáo lý sự cất lên bí mật. Vào những năm 1830, John Darby — thuộc nhóm Plymouth Brethren và được xem là cha đẻ của thuyết dispensationalism hiện đại — đã khởi xướng quan điểm rằng dân Đức Chúa Trời sẽ được cất lên cách bí mật trước khi cơn hoạn nạn xảy ra. C. I. Scofield, một luật sư trong hội chúng của Darby, đã đưa giáo lý này vào cuốn Kinh Thánh chú giải Scofield. Ngày nay, khoảng 40–50% tín hữu Tin Lành tin vào sự cất lên bí mật, dù trước năm 1830 không hề có giáo lý nào như vậy. Sứ đồ Phao-lô đã nói rõ rằng chúng ta phải trải qua nhiều nỗi khó khăn mới vào được nước Đức Chúa Trời.
 
@@ -94,7 +94,7 @@ Tại thời điểm Đức Chúa Giê-su trở lại, có hai nhóm người: n
 
 Lý do nó bị xiềng được nêu rõ: "để nó không đi lừa dối các dân được nữa." Sa-tan bị xiềng bởi chính hoàn cảnh — vì người công chính đang ở với Đức Chúa Giê-su trên trời, còn kẻ gian ác thì đang chết. Nó không còn ai để lừa dối. Đây là sự xiềng xích mạnh hơn bất kỳ chuỗi tràng hạt vật chất nào.
 
-**Các thánh đồ ngồi trên ngôi và xét đoán.** Khải Huyền 20 chép: "Tôi lại thấy những ngai, và những người ngồi trên ngai được quyền xét đoán... họ sống và trị vì với Đấng Christ trong một ngàn năm." Phao-lô hỏi tín hữu Cô-rinh-tô: "Anh em há chẳng biết chúng ta sẽ xét đoán các thiên sứ sao?" — tức là các thiên sứ sa ngã.
+**Các thánh đồ ngồi trên ngôi và xét đoán.** Khải Huyền 20 chép: "Tôi lại thấy những ngai, và những người ngồi trên ngai được quyền xét đoán… họ sống và trị vì với Đấng Christ trong một ngàn năm." Phao-lô hỏi tín hữu Cô-rinh-tô: "Anh em há chẳng biết chúng ta sẽ xét đoán các thiên sứ sao?" — tức là các thiên sứ sa ngã.
 
 Mục đích của việc xét đoán này không phải vì Đức Chúa Trời cần thông tin. Mục đích là vì chúng ta. Khi đến thiên đàng và phát hiện một người mà chúng ta nghĩ chắc chắn sẽ ở đó lại không có mặt, chúng ta sẽ có câu hỏi. Đức Chúa Trời không muốn chúng ta sống đời đời với những thắc mắc còn ngổn ngang về sự công bình của Ngài. Vì thế Ngài cho chúng ta một ngàn năm để xem xét hồ sơ và tự thuyết phục rằng những gì Ngài đã làm là đúng.
 

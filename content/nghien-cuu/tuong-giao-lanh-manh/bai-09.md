@@ -83,7 +83,7 @@ Hãy ngồi xuống cùng nhau, nhìn vào nhau, và dành cho nhau sự chú t�
 
 ## "Câu chuyện tôi đang dựng lên trong đầu"
 
-Đây là một công cụ rất hữu ích khi cần đề cập đến chủ đề nhạy cảm. Thay vì buộc tội hoặc giả định, hãy bắt đầu bằng câu: **"Câu chuyện tôi đang dựng lên trong đầu là..."** rồi bày tỏ những gì bạn nghĩ, đồng thời sẵn sàng để người kia điều chỉnh hoặc viết lại câu chuyện ấy.
+Đây là một công cụ rất hữu ích khi cần đề cập đến chủ đề nhạy cảm. Thay vì buộc tội hoặc giả định, hãy bắt đầu bằng câu: **"Câu chuyện tôi đang dựng lên trong đầu là…"** rồi bày tỏ những gì bạn nghĩ, đồng thời sẵn sàng để người kia điều chỉnh hoặc viết lại câu chuyện ấy.
 
 Cách nói này có hai lợi ích lớn. Thứ nhất, nó loại bỏ giọng buộc tội — bạn không khẳng định điều mình nghĩ là sự thật, mà chỉ chia sẻ cảm nhận của mình. Thứ hai, nó mở ra không gian cho người bạn đời giải thích phía họ.
 

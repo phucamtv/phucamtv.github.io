@@ -62,7 +62,7 @@ Họ lập luận rằng:
 
 ### Lời Dạy Của Chúa Về Lời Thề (Ma-thi-ơ 5:33–37)
 
-Mục sư đối chiếu với lời dạy của Đức Chúa Giê-su trong Bài Giảng Trên Núi: *"Đừng thề chi hết... Lời các ngươi phải là phải, không là không."*
+Mục sư đối chiếu với lời dạy của Đức Chúa Giê-su trong Bài Giảng Trên Núi: *"Đừng thề chi hết… Lời các ngươi phải là phải, không là không."*
 
 Lý do Chúa không muốn chúng ta thề vì:
 1. **Con người không có quyền năng kiểm soát tương lai** — không thể làm cho một sợi tóc trắng hay đen, không kiểm soát được tai nạn hay hỏa hoạn.

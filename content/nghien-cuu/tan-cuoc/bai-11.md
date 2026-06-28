@@ -120,7 +120,7 @@ Từ đó Chúa Nhật được nâng lên trên ngày Sa-bát. Sách giáo lý 
 
 Viện Kinh Thánh Moody nói: "Sa-bát đã có hiệu lực từ vườn Ê-đen và vẫn còn hiệu lực từ đó đến nay. Điều răn thứ tư bắt đầu bằng chữ 'hãy nhớ', cho thấy ngày Sa-bát đã tồn tại trước khi Đức Chúa Trời viết luật pháp trên hai bảng đá. Làm sao người ta có thể tuyên bố rằng chỉ riêng điều răn này đã bị bãi bỏ trong khi vẫn thừa nhận chín điều răn còn lại có hiệu lực?"
 
-Một thông báo của Giáo Xứ Thánh Catherine ở Michigan năm 1995 kết luận thẳng thắn: "Có lẽ điều mạnh dạn nhất, sự thay đổi cách mạng nhất mà Hội Thánh từng làm xảy ra trong thế kỷ thứ nhất. Ngày thánh, ngày Sa-bát, được đổi từ thứ Bảy sang Chúa Nhật... Những người nghĩ rằng Kinh Thánh phải là thẩm quyền duy nhất thì lẽ ra theo logic phải trở thành tín hữu Cơ-đốc Phục Lâm và giữ thứ Bảy làm ngày thánh."
+Một thông báo của Giáo Xứ Thánh Catherine ở Michigan năm 1995 kết luận thẳng thắn: "Có lẽ điều mạnh dạn nhất, sự thay đổi cách mạng nhất mà Hội Thánh từng làm xảy ra trong thế kỷ thứ nhất. Ngày thánh, ngày Sa-bát, được đổi từ thứ Bảy sang Chúa Nhật… Những người nghĩ rằng Kinh Thánh phải là thẩm quyền duy nhất thì lẽ ra theo logic phải trở thành tín hữu Cơ-đốc Phục Lâm và giữ thứ Bảy làm ngày thánh."
 
 ---
 

@@ -82,7 +82,7 @@ Nếu có ngày Sa-bát thứ bảy thì cũng phải có sáu ngày trước đ
 
 Niềm hy vọng lớn của Cơ-đốc nhân được tỏ rõ trong 1 Cô-rinh-tô 15:51–54:
 
-> "Chúng ta sẽ biến hóa hết thảy, trong giây phút, trong nháy mắt, lúc tiếng kèn chót... vì kèn sẽ thổi, kẻ chết đều sống lại được không hay hư nát, và chúng ta đều sẽ biến hóa."
+> "Chúng ta sẽ biến hóa hết thảy, trong giây phút, trong nháy mắt, lúc tiếng kèn chót… vì kèn sẽ thổi, kẻ chết đều sống lại được không hay hư nát, và chúng ta đều sẽ biến hóa."
 
 Phi-líp 3:20–21 cho biết Đức Chúa Giê-su sẽ "biến hóa thân thể hèn mạt chúng ta ra giống như thân thể vinh hiển Ngài." Hơn nữa, ngay khi còn sống trong thân thể hay hư nát này, Cơ-đốc nhân vẫn có thể đắc thắng những dục vọng tội lỗi nhờ quyền năng Đức Thánh Linh — điều mà các triết gia Hy Lạp cho là không thể (2 Cô-rinh-tô 4:16; Rô-ma 8:5–11).
 
@@ -132,7 +132,7 @@ Ellen White viết hai lời cảnh báo quan trọng:
 
 > "Sa-tan có quyền đem đến trước mặt loài người hình dạng của những bạn hữu đã qua đời của họ. Sự giả mạo thật hoàn hảo; gương mặt quen thuộc, lời nói, giọng điệu được tái tạo cách diệu kỳ." (*Great Controversy*, tr. 552)
 
-> "Tôi thấy rằng các thánh đồ phải có sự hiểu biết thấu đáo về lẽ thật hiện tại... Họ phải hiểu tình trạng của người chết, vì các tà linh sẽ hiện ra với họ, xưng là bạn hữu thân yêu và bà con, để tuyên bố với họ rằng ngày Sa-bát đã được thay đổi, cùng các giáo lý phi Kinh Thánh khác." (*Early Writings*, tr. 87)
+> "Tôi thấy rằng các thánh đồ phải có sự hiểu biết thấu đáo về lẽ thật hiện tại… Họ phải hiểu tình trạng của người chết, vì các tà linh sẽ hiện ra với họ, xưng là bạn hữu thân yêu và bà con, để tuyên bố với họ rằng ngày Sa-bát đã được thay đổi, cùng các giáo lý phi Kinh Thánh khác." (*Early Writings*, tr. 87)
 
 Nếu một "thân nhân đã khuất" hiện về và nói rằng Đức Chúa Giê-su đã sai họ đến bảo bạn giữ ngày Chủ Nhật làm ngày yên nghỉ, bạn phải làm gì? Nếu bạn tin vào sự bất tử của linh hồn, bạn sẽ tin theo. Nhưng nếu bạn dựa vào Kinh Thánh, bạn sẽ nói: "Khoan đã. Kinh Thánh dạy rằng kẻ chết chẳng biết chi hết, vậy ngươi không thể là thân nhân của ta. Và Kinh Thánh dạy rằng ngày Sa-bát thứ bảy là ngày yên nghỉ của Đức Chúa Trời." Khi có mâu thuẫn với Kinh Thánh, dù người hiện ra giống thân nhân đến đâu, dù chạm đến cảm xúc đến đâu, chúng ta không tin.
 
@@ -144,7 +144,7 @@ Năm 1958, nhà thần học Lutheran Oscar Cullmann xuất bản cuốn *Immort
 
 Giáo lý về linh hồn bất tử không đến từ Kinh Thánh. Nó xâm nhập vào người Do Thái qua sự tiếp xúc với triết học Hy Lạp trong thời kỳ tản lạc, rồi vào Hội Thánh sơ khai qua các giáo phụ chịu ảnh hưởng văn hóa Hy Lạp. Sau đó, giáo hội Công Giáo La Mã tiếp nhận giáo lý này cùng với ngày Chủ Nhật và hỏa ngục đời đời. Khi phong trào Tin Lành tách khỏi Công Giáo La Mã, họ đã không loại bỏ được ba tà giáo này.
 
-*Encyclopedia Britannica* xác nhận: "Khái niệm Cơ-đốc về sự lưỡng phân giữa thân thể và linh hồn bắt nguồn từ người Hy Lạp cổ và được du nhập vào thần học Cơ-đốc vào thời kỳ rất sớm bởi Thánh Gregory of Nyssa và Thánh Augustine." *The Jewish Encyclopedia* viết: "Niềm tin rằng linh hồn tiếp tục tồn tại sau khi thân thể tan rã là một suy đoán... không hề được dạy ở đâu trong Kinh Thánh. Niềm tin về sự bất tử của linh hồn đến với người Do Thái từ sự tiếp xúc với tư tưởng Hy Lạp, chủ yếu qua triết học của Plato." *International Standard Bible Encyclopedia* cũng xác nhận điều tương tự: ý niệm Plato rằng thân thể chết nhưng linh hồn bất tử "hoàn toàn trái ngược với ý thức của người Y-sơ-ra-ên và không được tìm thấy ở đâu trong Cựu Ước."
+*Encyclopedia Britannica* xác nhận: "Khái niệm Cơ-đốc về sự lưỡng phân giữa thân thể và linh hồn bắt nguồn từ người Hy Lạp cổ và được du nhập vào thần học Cơ-đốc vào thời kỳ rất sớm bởi Thánh Gregory of Nyssa và Thánh Augustine." *The Jewish Encyclopedia* viết: "Niềm tin rằng linh hồn tiếp tục tồn tại sau khi thân thể tan rã là một suy đoán… không hề được dạy ở đâu trong Kinh Thánh. Niềm tin về sự bất tử của linh hồn đến với người Do Thái từ sự tiếp xúc với tư tưởng Hy Lạp, chủ yếu qua triết học của Plato." *International Standard Bible Encyclopedia* cũng xác nhận điều tương tự: ý niệm Plato rằng thân thể chết nhưng linh hồn bất tử "hoàn toàn trái ngược với ý thức của người Y-sơ-ra-ên và không được tìm thấy ở đâu trong Cựu Ước."
 
 ---
 

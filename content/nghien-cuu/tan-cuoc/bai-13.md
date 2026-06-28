@@ -46,7 +46,7 @@ Trong tâm trí của Đức Chúa Giê-su, sự chết được ví như giấc
 
 Vua Sa-lô-môn, người khôn ngoan nhất, viết trong Truyền Đạo:
 
-> "Kẻ sống biết mình sẽ chết; nhưng kẻ chết chẳng biết chi hết... sự yêu, sự ghét, sự ganh gỗ của họ thảy đều tiêu mất."
+> "Kẻ sống biết mình sẽ chết; nhưng kẻ chết chẳng biết chi hết… sự yêu, sự ghét, sự ganh gỗ của họ thảy đều tiêu mất."
 
 Sách Gióp — quyển sách đầu tiên được viết trong Kinh Thánh — cũng dạy rằng khi một người chết, các con trai có được tôn trọng cũng không hay biết, vì kẻ chết chẳng biết gì hết.
 
@@ -64,7 +64,7 @@ Nếu có ai sẽ ngợi khen Đức Chúa Trời sau khi chết, hẳn phải l
 
 Khoảng một ngàn năm sau, vào ngày Lễ Ngũ Tuần, sứ đồ Phi-e-rơ đứng lên giảng cho dân Do Thái. Ông tuyên bố:
 
-> "Hỡi anh em, ta thật có thể nói cách vững vàng với anh em về tổ Đa-vít rằng người đã chết và chôn rồi, mộ người ở giữa chúng ta cho đến ngày nay... Vì vua Đa-vít chẳng hề lên trời."
+> "Hỡi anh em, ta thật có thể nói cách vững vàng với anh em về tổ Đa-vít rằng người đã chết và chôn rồi, mộ người ở giữa chúng ta cho đến ngày nay… Vì vua Đa-vít chẳng hề lên trời."
 
 Đa-vít không lên thiên đàng — không phải vì ông phạm tội, mà vì khi một người chết, người ấy đi vào mồ mả và ngủ.
 
@@ -76,7 +76,7 @@ Gióp viết: "Người nằm xuống chẳng vùng đứng dậy nữa; cho đ�
 
 Vậy khi nào những người ngủ sẽ thức dậy? Sứ đồ Phao-lô đã trả lời câu hỏi này khi viết cho Hội Thánh tại Tê-sa-lô-ni-ca. Tín hữu tại đó đang lo lắng vì người thân của họ qua đời trước khi Đức Chúa Giê-su trở lại. Phao-lô viết:
 
-> "Hỡi anh em, chúng tôi chẳng muốn anh em không biết về phần người đã ngủ, hầu cho anh em chớ buồn rầu như người khác không có sự trông cậy. Vì... chính mình Chúa sẽ từ trên trời giáng xuống với tiếng kêu lớn của thiên sứ trưởng và tiếng kèn của Đức Chúa Trời, thì những kẻ chết trong Đấng Christ sẽ sống lại trước hết."
+> "Hỡi anh em, chúng tôi chẳng muốn anh em không biết về phần người đã ngủ, hầu cho anh em chớ buồn rầu như người khác không có sự trông cậy. Vì… chính mình Chúa sẽ từ trên trời giáng xuống với tiếng kêu lớn của thiên sứ trưởng và tiếng kèn của Đức Chúa Trời, thì những kẻ chết trong Đấng Christ sẽ sống lại trước hết."
 
 Những người đã ngủ sẽ được đánh thức bằng tiếng kèn vĩ đại của Đức Chúa Trời, tiếng của thiên sứ trưởng và tiếng kêu lớn. Sau đó, những ai đang sống sẽ được cất lên cùng họ trong các tầng mây, để gặp Chúa giữa không trung.
 
@@ -142,7 +142,7 @@ Về nhà ma, sách Gióp dạy:
 
 Nếu Kinh Thánh là đúng, người chết không thể quay về căn nhà cũ. Vậy ai đang gây ra những hiện tượng siêu nhiên đó? Câu trả lời là **ma quỷ** — một phần ba các thiên sứ đã theo Lu-xi-phe trong cuộc phản loạn ban đầu.
 
-Kinh Thánh cảnh báo rất nghiêm khắc: "Ở giữa ngươi chớ nên có... thầy bói... thầy phù thủy, thầy pháp, kẻ hay dùng ếm chú, người đi hỏi đồng cốt, kẻ thuật số, kẻ đi cầu vong, vì Đức Giê-hô-va lấy làm gớm ghiếc kẻ làm các việc ấy." Lý do không phải vì Đức Chúa Trời sợ chúng ta liên lạc với người chết — vì người chết không biết gì — mà vì chúng ta thực sự đang giao tiếp với ma quỷ.
+Kinh Thánh cảnh báo rất nghiêm khắc: "Ở giữa ngươi chớ nên có… thầy bói… thầy phù thủy, thầy pháp, kẻ hay dùng ếm chú, người đi hỏi đồng cốt, kẻ thuật số, kẻ đi cầu vong, vì Đức Giê-hô-va lấy làm gớm ghiếc kẻ làm các việc ấy." Lý do không phải vì Đức Chúa Trời sợ chúng ta liên lạc với người chết — vì người chết không biết gì — mà vì chúng ta thực sự đang giao tiếp với ma quỷ.
 
 Ma quỷ là các thiên sứ sa ngã. Theo Kinh Thánh, thiên sứ là những hữu thể thiêng liêng có thể vô hình hoặc hiện hữu, có sức mạnh phi thường — một thiên sứ tốt trong Cựu Ước đã tiêu diệt 250.000 quân địch chỉ trong một đêm — và di chuyển nhanh như chớp. Khi một bà đồng "gọi" được người thân đã chết và biết những điều bí mật chỉ người đó mới biết, thực ra ma quỷ đã quan sát suốt đời người ấy và đang giả dạng để lừa dối.
 

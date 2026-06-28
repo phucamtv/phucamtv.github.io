@@ -64,6 +64,6 @@ Tâm trí con người giống như một cái hộp: nếu chứa đầy buồn
 
 ## Bước Đi Vững Vàng Trong Đức Tin
 
-Cô-lô-se 2:6–7 kết lại bài giảng: *"Anh em đã nhận Đức Chúa Giê-su Christ thể nào thì hãy bước đi trong Ngài thể ấy, hãy châm rễ và lập nền trong Ngài, lấy đức tin làm cho bền vững... và hãy dư dật trong sự cảm tạ."*
+Cô-lô-se 2:6–7 kết lại bài giảng: *"Anh em đã nhận Đức Chúa Giê-su Christ thể nào thì hãy bước đi trong Ngài thể ấy, hãy châm rễ và lập nền trong Ngài, lấy đức tin làm cho bền vững… và hãy dư dật trong sự cảm tạ."*
 
 Điều quan trọng trong cuộc sống không phải là đối diện với nan đề nào, mà là chúng ta có những suy nghĩ như thế nào để đối diện với nan đề đó. Là con cái Chúa, chúng ta hãy châm rễ lập nền trong Ngài, mạnh mẽ trong đức tin, dư dật trong sự cảm tạ, và luôn nuôi dưỡng những suy nghĩ tích cực để vững vàng cho đến ngày Chúa trở lại.

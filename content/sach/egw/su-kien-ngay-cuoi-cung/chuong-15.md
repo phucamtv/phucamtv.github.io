@@ -52,7 +52,7 @@ Chúng ta sẽ không phải chịu trách nhiệm về ánh sáng chưa đến 
 
 Những quyết định trong ngày sau rốt sẽ tùy thuộc vào lòng nhân từ thực tiễn của chúng ta. Đấng Christ công nhận mỗi hành động nhân từ như được làm cho chính Ngài.—Testimonies to Ministers and Gospel Workers, 400 (1896). LDE 218.3
 
-Khi các dân tộc được nhóm lại trước mặt Ngài, sẽ chỉ có hai hạng người, và số phận đời đời của họ sẽ được quyết định bởi những gì họ đã làm hoặc đã bỏ qua không làm cho Ngài qua những kẻ nghèo khó và đau khổ.... LDE 218.4
+Khi các dân tộc được nhóm lại trước mặt Ngài, sẽ chỉ có hai hạng người, và số phận đời đời của họ sẽ được quyết định bởi những gì họ đã làm hoặc đã bỏ qua không làm cho Ngài qua những kẻ nghèo khó và đau khổ.… LDE 218.4
 
 Trong vòng những người ngoại đạo có những kẻ thờ phượng Đức Chúa Trời cách vô tri, những kẻ chưa bao giờ được ánh sáng đem đến qua phương tiện loài người, nhưng họ sẽ không hư mất. Dù không biết đến luật pháp thành văn của Đức Chúa Trời, họ đã nghe tiếng Ngài phán với họ qua thiên nhiên, và đã làm những điều mà luật pháp đòi hỏi. Việc làm của họ là bằng chứng cho thấy Đức Thánh Linh đã chạm đến lòng họ, và họ được nhìn nhận là con cái của Đức Chúa Trời. LDE 218.5
 
@@ -101,7 +101,7 @@ Chúng ta có đang nỗ lực với tất cả những năng lực mà Đức C
 
 ## Trong Thời Kỳ Đóng Ấn Hiện Nay
 
-Tôi thấy rằng sự thử nghiệm hiện tại về ngày Sa-bát không thể đến cho đến khi sự cầu thay của Đức Chúa Giê-su trong nơi thánh kết thúc và Ngài đã đi vào trong bức màn thứ hai; vì vậy những người Cơ-đốc đã ngủ trước khi cánh cửa được mở vào nơi chí thánh, khi tiếng kêu lúc nửa đêm chấm dứt, vào tháng thứ bảy năm 1844, và những người đã không giữ ngày Sa-bát thật, giờ đây đang yên nghỉ trong hy vọng, vì họ không có sự sáng và sự thử nghiệm về ngày Sa-bát mà chúng ta hiện đang có kể từ khi cánh cửa đó được mở. Tôi thấy rằng Sa-tan đang cám dỗ một số con dân của Đức Chúa Trời về điểm này. Vì có rất nhiều Cơ-đốc nhân tốt đã ngủ trong sự đắc thắng của đức tin và đã không giữ ngày Sa-bát thật, nên họ nghi ngờ về việc đó có phải là sự thử nghiệm cho chúng ta hiện nay hay không.... LDE 222.2
+Tôi thấy rằng sự thử nghiệm hiện tại về ngày Sa-bát không thể đến cho đến khi sự cầu thay của Đức Chúa Giê-su trong nơi thánh kết thúc và Ngài đã đi vào trong bức màn thứ hai; vì vậy những người Cơ-đốc đã ngủ trước khi cánh cửa được mở vào nơi chí thánh, khi tiếng kêu lúc nửa đêm chấm dứt, vào tháng thứ bảy năm 1844, và những người đã không giữ ngày Sa-bát thật, giờ đây đang yên nghỉ trong hy vọng, vì họ không có sự sáng và sự thử nghiệm về ngày Sa-bát mà chúng ta hiện đang có kể từ khi cánh cửa đó được mở. Tôi thấy rằng Sa-tan đang cám dỗ một số con dân của Đức Chúa Trời về điểm này. Vì có rất nhiều Cơ-đốc nhân tốt đã ngủ trong sự đắc thắng của đức tin và đã không giữ ngày Sa-bát thật, nên họ nghi ngờ về việc đó có phải là sự thử nghiệm cho chúng ta hiện nay hay không.… LDE 222.2
 
 Sa-tan hiện đang sử dụng mọi mưu chước trong thời kỳ đóng ấn này để giữ tâm trí của con dân Đức Chúa Trời khỏi lẽ thật hiện tại và khiến họ dao động.—Early Writings, 42, 43 (1851). LDE 222.3
 
@@ -128,7 +128,7 @@ Dấu của con thú là ngày sa-bát của giáo hoàng.—Evangelism, 234 (18
 
 Khi sự thử thách đến, sẽ được tỏ rõ dấu của con thú là gì. Đó là sự giữ ngày Chủ Nhật.—The S.D.A. Bible Commentary 7:980 (1900). LDE 224.2
 
-Dấu, hay ấn, của Đức Chúa Trời được tỏ ra trong việc tuân giữ ngày Sa-bát thứ bảy, kỷ niệm sự sáng tạo của Chúa.... Dấu của con thú thì ngược lại với điều này—đó là việc giữ ngày thứ nhất trong tuần.—Testimonies for the Church 8:117 (1904). LDE 224.3
+Dấu, hay ấn, của Đức Chúa Trời được tỏ ra trong việc tuân giữ ngày Sa-bát thứ bảy, kỷ niệm sự sáng tạo của Chúa.… Dấu của con thú thì ngược lại với điều này—đó là việc giữ ngày thứ nhất trong tuần.—Testimonies for the Church 8:117 (1904). LDE 224.3
 
 > "Nó cũng khiến mọi người, nhỏ và lớn, giàu và nghèo, tự chủ và tôi mọi, đều chịu ghi dấu hoặc trên tay hữu, hoặc trên trán,"
 > <cite>(Khải-huyền 13:16)</cite>

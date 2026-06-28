@@ -40,7 +40,7 @@ Người khôn ngoan không thử sơn sau khi đã đọc tấm biển. Họ ti
 
 Sự tò mò vốn không xấu. Nó thúc đẩy con người học hỏi, khám phá và phát triển. Nhưng khi sự tò mò hướng đến điều Chúa đã rõ ràng cảnh báo, nó trở thành công cụ của kẻ thù.
 
-Rắn trong vườn Ê-đen không bắt buộc Eva phải ăn trái cấm. Nó chỉ cần khơi dậy một câu hỏi: *"Có phải Đức Chúa Trời phán rằng...?"* Đặt nghi vấn vào lời Chúa là đủ. Khi lòng đã dao động, tay sẽ đưa ra.
+Rắn trong vườn Ê-đen không bắt buộc Eva phải ăn trái cấm. Nó chỉ cần khơi dậy một câu hỏi: *"Có phải Đức Chúa Trời phán rằng…?"* Đặt nghi vấn vào lời Chúa là đủ. Khi lòng đã dao động, tay sẽ đưa ra.
 
 Sa-tan không thay đổi chiến thuật. Ngày hôm nay, nó vẫn thì thầm: *Liệu Lời Chúa có thật sự đúng không? Có lẽ chỉ lần này thôi sẽ không sao đâu?* Và nhiều người đọc xong tấm biển, gật đầu hiểu, rồi vẫn đưa ngón tay ra.
 

@@ -42,7 +42,7 @@ Giê-rê-mi 5:25 xác nhận: *"Sự gian ác các ngươi đã làm cho những
 
 Rô-ma 7:15-21 mô tả trung thực cuộc đấu tranh bên trong mỗi người:
 
-> *"Tôi không hiểu điều mình làm; tôi chẳng làm điều mình muốn nhưng làm điều mình ghét... Tôi không làm điều lành mình muốn, nhưng làm điều dữ mình không muốn."*
+> *"Tôi không hiểu điều mình làm; tôi chẳng làm điều mình muốn nhưng làm điều mình ghét… Tôi không làm điều lành mình muốn, nhưng làm điều dữ mình không muốn."*
 
 Chúng ta muốn nói ngọt ngào với cha mẹ nhưng không nói được. Chúng ta muốn hòa thuận nhưng cơn giận lại thắng. Trong mỗi người có một cuộc chiến thực sự giữa điều thiện và điều ác — và cuộc chiến trong nội tâm mới là cuộc chiến quan trọng nhất, không phải tranh cãi hay ganh đua với người khác.
 
@@ -68,7 +68,7 @@ Gia-cơ 3:17 mô tả sự khôn ngoan đến từ Chúa:
 
 > *"Nhưng sự khôn ngoan từ trên trời mà xuống thì trước hết là thanh sạch, sau lại hòa thuận, tiết độ, nhu mì, đầy dẫy lòng thương xót và bông trái lành, không có sự hai lòng và giả hình."*
 
-Phi-líp 4:8 kêu gọi: *"Hỡi anh em, phàm điều chi chân thật, điều chi đáng tôn, điều chi công bình, điều chi thanh sạch, điều chi đáng yêu chuộng, điều chi có tiếng tốt... thì anh em phải nghĩ đến."* Tập suy nghĩ đến những điều tốt đẹp mỗi ngày sẽ thúc đẩy chúng ta đến hành động tốt đẹp.
+Phi-líp 4:8 kêu gọi: *"Hỡi anh em, phàm điều chi chân thật, điều chi đáng tôn, điều chi công bình, điều chi thanh sạch, điều chi đáng yêu chuộng, điều chi có tiếng tốt… thì anh em phải nghĩ đến."* Tập suy nghĩ đến những điều tốt đẹp mỗi ngày sẽ thúc đẩy chúng ta đến hành động tốt đẹp.
 
 Sự tiết độ — làm gì cũng có chừng mực, kiểm soát bản thân — là một đức tính Kinh Thánh nhấn mạnh (Tích 2:6). Cuộc sống hạnh phúc hay đau khổ phụ thuộc phần lớn vào khả năng kiểm soát hành vi của chính mình.
 

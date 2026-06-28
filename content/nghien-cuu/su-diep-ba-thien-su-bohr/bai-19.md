@@ -44,7 +44,7 @@ Khải Huyền 12:3–4 mô tả con rồng dùng đuôi mình kéo một phần
 
 Nội dung lời vu khống của Lu-xi-phe là gì? Theo những gì được ghi trong sách *Patriarchs and Prophets* trang 37 và *The Great Controversy* trang 499, hắn gieo nghi ngờ rằng các thiên sứ — vốn là những hữu thể cao trọng — không cần luật pháp ràng buộc, vì sự khôn ngoan riêng của họ đủ để hướng dẫn họ. Hắn tuyên bố mục đích của hắn là bãi bỏ luật pháp.
 
-Ma quỉ đã dùng cùng một cám dỗ ấy với bà Ê-va. Trong Sáng Thế Ký 3:1–5, hắn bắt đầu bằng câu hỏi *"Mà chi! Đức Chúa Trời há có phán dặn...?"* — đặt vấn đề ngay với lời Đức Chúa Trời. Rồi hắn quả quyết: *"Hai ngươi chẳng chết đâu... vào ngày nào hai ngươi ăn trái cây đó, mắt mình mở ra, sẽ như Đức Chúa Trời, biết điều thiện và điều ác."*
+Ma quỉ đã dùng cùng một cám dỗ ấy với bà Ê-va. Trong Sáng Thế Ký 3:1–5, hắn bắt đầu bằng câu hỏi *"Mà chi! Đức Chúa Trời há có phán dặn…?"* — đặt vấn đề ngay với lời Đức Chúa Trời. Rồi hắn quả quyết: *"Hai ngươi chẳng chết đâu… vào ngày nào hai ngươi ăn trái cây đó, mắt mình mở ra, sẽ như Đức Chúa Trời, biết điều thiện và điều ác."*
 
 Đằng sau lời dụ dỗ ấy là một thông điệp: con người không cần Đức Chúa Trời định đoạt điều gì là thiện và điều gì là ác — chính họ có thể tự mình định đoạt. Đây là lập luận hậu hiện đại đầu tiên trong lịch sử nhân loại: nguồn của đạo đức nằm bên trong con người, chứ không phải ở một luật pháp khách quan bên ngoài. Đó cũng chính là điều thế gian đang dạy ngày nay.
 
@@ -68,7 +68,7 @@ Trong cả Cựu Ước lẫn Tân Ước, hai từ "luật pháp" và "điều 
 
 Rô-ma 13:8–10 minh họa rõ điều này: *"Ai yêu kẻ lân cận mình, ấy là đã làm trọn luật pháp."* Rồi Phao-lô liệt kê các điều răn — chớ phạm tội tà dâm, chớ giết người, chớ trộm cướp, chớ tham lam — như là những điều mà luật pháp đòi hỏi.
 
-Điều này quan trọng vì lời tiên tri trong Đa-ni-ên 7:25 và 2 Tê-sa-lô-ni-ca 2:3–8 nói rằng cái sừng nhỏ và người tội ác sẽ tìm cách thay đổi luật pháp của Đức Chúa Trời. *"Người sẽ nói những lời phạm đến Đấng Rất Cao... và định ý đổi những thì giờ và luật pháp."* Còn 2 Tê-sa-lô-ni-ca 2:7 gọi đó là *"sự mầu nhiệm của điều bội nghịch"* — tức là sự bội nghịch luật pháp.
+Điều này quan trọng vì lời tiên tri trong Đa-ni-ên 7:25 và 2 Tê-sa-lô-ni-ca 2:3–8 nói rằng cái sừng nhỏ và người tội ác sẽ tìm cách thay đổi luật pháp của Đức Chúa Trời. *"Người sẽ nói những lời phạm đến Đấng Rất Cao… và định ý đổi những thì giờ và luật pháp."* Còn 2 Tê-sa-lô-ni-ca 2:7 gọi đó là *"sự mầu nhiệm của điều bội nghịch"* — tức là sự bội nghịch luật pháp.
 
 ---
 

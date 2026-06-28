@@ -51,7 +51,7 @@ Hầu hết các thông điệp của Đức Chúa Giê-su đều xoay quanh nư
 
 Hê-bơ-rơ 11:13-16 mô tả những người tin kính từ thời xưa:
 
-> *"Hết thảy những người đó đều chết trong đức tin, chưa nhận lãnh những điều hứa cho mình, chỉ trông thấy và chào mừng những điều đó từ đằng xa... họ ham mến một quê hương tốt hơn, tức là quê hương ở trên trời. Nên Đức Chúa Trời không hổ thẹn mà xưng mình là Đức Chúa Trời của họ, vì Ngài đã sắm sẵn cho họ một thành."*
+> *"Hết thảy những người đó đều chết trong đức tin, chưa nhận lãnh những điều hứa cho mình, chỉ trông thấy và chào mừng những điều đó từ đằng xa… họ ham mến một quê hương tốt hơn, tức là quê hương ở trên trời. Nên Đức Chúa Trời không hổ thẹn mà xưng mình là Đức Chúa Trời của họ, vì Ngài đã sắm sẵn cho họ một thành."*
 
 Chúng ta sanh ra tại Việt Nam, nhưng đây không phải là quê hương vĩnh cửu. Đây chỉ là nơi tạm trú. Quê hương vĩnh cửu là nước mà Đức Chúa Trời đã sắm sẵn cho những ai tin Ngài.
 

@@ -83,7 +83,7 @@ Wycliffe biết mình không thể làm tất cả một mình. Ông dịch Kinh
 
 Một thế kỷ sau, Martin Luther viết:
 
-> *"Tôi đã giảng dạy và giữ tất cả những quan điểm của Jan Hus mà không hay biết... Tóm lại, tất cả chúng tôi đều là tín đồ của Hus mà không biết."*
+> *"Tôi đã giảng dạy và giữ tất cả những quan điểm của Jan Hus mà không hay biết… Tóm lại, tất cả chúng tôi đều là tín đồ của Hus mà không biết."*
 
 Ngọn lửa Cải Chánh được truyền từ Wycliffe sang Hus, rồi đến Luther.
 

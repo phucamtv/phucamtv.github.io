@@ -79,7 +79,7 @@ Câu chuyện của Việt Nam minh họa một chân lý địa chính trị ca
 
 Vua Đa-vít — một trong những chiến binh và chiến lược gia vĩ đại nhất trong lịch sử — đã viết:
 
-> "Vì tôi không nhờ cậy nơi cung tôi, cũng không trông cậy nơi gươm tôi mà cứu tôi đâu... nhưng Chúa đã cứu chúng tôi khỏi các kẻ cừu địch." — Thi Thiên 44:6
+> "Vì tôi không nhờ cậy nơi cung tôi, cũng không trông cậy nơi gươm tôi mà cứu tôi đâu… nhưng Chúa đã cứu chúng tôi khỏi các kẻ cừu địch." — Thi Thiên 44:6
 
 Đây không phải là lời của một kẻ hèn nhát. Đây là tuyên bố của một vị vua đã đánh bại tên khổng lồ Gô-li-át, đã dẫn đầu quân đội Israel qua vô số chiến thắng. Nếu có ai có quyền tự hào về sức mạnh, đó chính là Đa-vít. Tuy nhiên, ông hiểu một sự thật sâu sắc: dù cung tên và gươm giáo có thể đem lại chiến thắng tạm thời, chúng không phải là nguồn đảm bảo cuối cùng.
 
@@ -119,7 +119,7 @@ Nếu ngay cả những lời thề nghiêm trọng nhất trong đời sống c
 
 ### Lời hứa tranh cử
 
-Trong mỗi chiến dịch tranh cử, các ứng cử viên đưa ra vô số cam kết: giảm thuế, cải thiện y tế, tạo công ăn việc làm, tăng lương tối thiểu, chống tham nhũng, bảo vệ môi trường... Nhưng bao nhiêu trong số những lời hứa này được thực hiện sau khi bầu cử kết thúc?
+Trong mỗi chiến dịch tranh cử, các ứng cử viên đưa ra vô số cam kết: giảm thuế, cải thiện y tế, tạo công ăn việc làm, tăng lương tối thiểu, chống tham nhũng, bảo vệ môi trường… Nhưng bao nhiêu trong số những lời hứa này được thực hiện sau khi bầu cử kết thúc?
 
 Hiện tượng này phổ biến đến mức cử tri đã trở nên hoài nghi một cách có hệ thống. Nhiều người thậm chí không còn mong đợi các chính trị gia sẽ giữ lời.
 

@@ -18,7 +18,7 @@ Kế đến, Đức Chúa Giê-su rời trần gian và bước vào **nơi thá
 
 Công Vụ Các Sứ Đồ 1:9–11 mô tả cảnh thăng thiên của Ngài từ núi Ô-li-ve:
 
-> "Khi Ngài phán bấy nhiêu lời rồi, thì được cất lên trong lúc các người đó nhìn xem Ngài, có một đám mây tiếp Ngài khuất đi, không thấy nữa... Hỡi người Ga-li-lê, sao các ngươi đứng ngóng lên trời làm chi? Đức Chúa Giê-su nầy đã được cất lên trời khỏi giữa các ngươi, cũng sẽ trở lại như cách các ngươi đã thấy Ngài lên trời vậy."
+> "Khi Ngài phán bấy nhiêu lời rồi, thì được cất lên trong lúc các người đó nhìn xem Ngài, có một đám mây tiếp Ngài khuất đi, không thấy nữa… Hỡi người Ga-li-lê, sao các ngươi đứng ngóng lên trời làm chi? Đức Chúa Giê-su nầy đã được cất lên trời khỏi giữa các ngươi, cũng sẽ trở lại như cách các ngươi đã thấy Ngài lên trời vậy."
 
 ---
 

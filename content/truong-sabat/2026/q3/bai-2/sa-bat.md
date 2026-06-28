@@ -13,7 +13,7 @@ weight: 1
 
 Cicero, một văn sĩ và nhà hùng biện ngoại giáo người La Mã, đã bảo dân La Mã đừng nghĩ đến thập tự giá, vì nó là một phương thức xử tử đáng ghê tởm đến thế. Mặc dù Cicero qua đời khoảng nửa thế kỷ trước khi Đức Chúa Giê-su giáng sinh, lời tuyên bố của ông minh họa sự khinh miệt mà người La Mã dành cho thập tự giá. Nó tồi tệ đến mức người ta thậm chí không nên nghĩ đến nó.
 
-Ngược lại, Phao-lô lại viết: "Lời giảng về thập tự giá... là quyền phép của Đức Chúa Trời" (1 Cô-rinh-tô 1:18). Đối với Phao-lô, thập tự giá là phương tiện hòa giải giữa Đức Chúa Trời và con người (Ê-phê-sô 2:16; Cô-lô-se 1:20), là biểu tượng tối cao về sự khiêm nhường của Đức Chúa Giê-su (Phi-líp 2:8), và là nơi món nợ khổng lồ của chúng ta đã được trả (Cô-lô-se 2:14).
+Ngược lại, Phao-lô lại viết: "Lời giảng về thập tự giá… là quyền phép của Đức Chúa Trời" (1 Cô-rinh-tô 1:18). Đối với Phao-lô, thập tự giá là phương tiện hòa giải giữa Đức Chúa Trời và con người (Ê-phê-sô 2:16; Cô-lô-se 1:20), là biểu tượng tối cao về sự khiêm nhường của Đức Chúa Giê-su (Phi-líp 2:8), và là nơi món nợ khổng lồ của chúng ta đã được trả (Cô-lô-se 2:14).
 
 Thập tự giá là câu trả lời của Phao-lô cho những vấn đề tại Cô-rinh-tô. Bạn không cần đọc xa lắm trong sách 1 Cô-rinh-tô để nhận ra rằng ông rất quan tâm đến một vấn đề lớn: sự chia rẽ trong Hội Thánh. Phao-lô bối rối đến nỗi ngay sau lời chào thăm (1 Cô-rinh-tô 1:1–3) và phần tạ ơn (1 Cô-rinh-tô 1:4–9), đây là chủ đề đầu tiên ông đề cập đến (1 Cô-rinh-tô 1:10–17). Tuần này, chúng ta sẽ hướng đến sứ điệp đầy quyền năng của thập tự giá như là câu trả lời cho vấn đề này và cho những vấn đề khác tại Cô-rinh-tô.
 

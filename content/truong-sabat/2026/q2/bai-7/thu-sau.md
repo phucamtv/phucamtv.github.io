@@ -5,7 +5,7 @@ dayLabel: "Thứ Sáu"
 weight: 7
 ---
 
-“Nếu chúng ta suy nghĩ và hầu chuyện về Đức Chúa Giê-su nhiều hơn, và về bản thân ít hơn, thì chúng ta sẽ có sự hiện diện của Ngài nhiều hơn nữa.”,Ellen G. White, Con Đường Bình An, tr. 102.
+“Nếu chúng ta suy nghĩ và hầu chuyện về Đức Chúa Giê-su nhiều hơn, và về bản thân ít hơn, thì chúng ta sẽ có sự hiện diện của Ngài nhiều hơn nữa.”, Ellen G. White, Con Đường Bình An, tr. 102.
 
 “Nếu chúng ta thường bàn luận với những sự nghi ngờ và sợ hãi, hay cố tìm cách giải quyết mọi điều mà mình chưa thấy rõ ràng trước khi tin cậy Chúa, thì những rắc rối trên chỉ càng thêm gia tăng và trở nên tồi tệ hơn. Nhưng nếu chúng ta đến cùng Đức Chúa Trời, cảm nhận sự bất lực và lệ thuộc của mình cách chân thật, và trong đức tin khiêm nhường, tin cậy mà bày tỏ những nhu cầu của ta cho Ngài là Đấng có tri thức vô hạn, thấy mọi sự trong cả công cuộc sáng tạo, và cai trị mọi sự bởi ý muốn cùng lời phán Ngài, thì Ngài có thể và sẽ lắng nghe tiếng van nài của chúng ta, và sẽ cho sự sáng soi chiếu trong lòng ta.”, Con Đường Bình An, tr. 96, 97.
 

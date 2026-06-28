@@ -80,7 +80,7 @@ Tháng 12 năm 1914, phòng thí nghiệm của Thomas Edison bốc cháy — th
 
 ## Câu 9 & 10 — Tận Hưởng Biết Hậu Quả — Giũ Bỏ Phiền Não
 
-*"Hỡi người trẻ tuổi, hãy vui mừng trong tuổi thiếu niên... nhưng phải biết rằng vì mọi việc ấy, Đức Chúa Trời sẽ đem con ra mà xét xử."*
+*"Hỡi người trẻ tuổi, hãy vui mừng trong tuổi thiếu niên… nhưng phải biết rằng vì mọi việc ấy, Đức Chúa Trời sẽ đem con ra mà xét xử."*
 
 Truyền Đạo luôn nói đến hiện tại và tương lai — cái gieo và cái gặt. Tận hưởng cuộc sống là điều tốt, nhưng phải biết hậu quả. Mọi việc mình làm đều sẽ được Đức Chúa Trời đem ra xét đoán. Câu 10 kết lại với một lời kêu gọi tích cực nhất: *"Hãy xua phiền não khỏi tấm lòng, và cất bỏ điều tai hại khỏi thân xác của con."* Đây là lời kêu gọi giũ bỏ tất cả những gì tiêu cực — những phiền não, những điều tai hại — để sống trọn vẹn và tích cực trong Chúa.
 

@@ -38,7 +38,7 @@ Kinh Thánh nhiều lần khẳng định người chết không còn nhận bi�
 
 > *"Hơi thở tắt đi, loài người bèn trở về bụi đất mình; trong chánh ngày đó các mưu mô nó liền mất đi."* — Thi Thiên 146:4
 
-> *"Kẻ sống biết mình sẽ chết; nhưng kẻ chết chẳng biết chi hết... sự ghi nhớ họ đã bị quên đi."* — Truyền Đạo 9:5
+> *"Kẻ sống biết mình sẽ chết; nhưng kẻ chết chẳng biết chi hết… sự ghi nhớ họ đã bị quên đi."* — Truyền Đạo 9:5
 
 > *"Mọi việc tay ngươi làm được, hãy làm hết sức mình; vì dưới Âm phủ, là nơi ngươi đi đến, chẳng có việc làm, chẳng có mưu kế, cũng chẳng có tri thức, hay là sự khôn ngoan."* — Truyền Đạo 9:10
 
@@ -52,7 +52,7 @@ Khi A-đam chết, thân thể tan rã, bộ não tan rã, và toàn bộ 930 n�
 
 Đa-ni-ên 7:9–10 mô tả khung cảnh phán xét trên thiên đàng:
 
-> *"Ta nhìn xem cho đến chừng các ngôi đã đặt, và có Đấng Thượng Cổ ngồi ở trên... Sự xét đoán đã sẵn sàng, và các sách mở ra."*
+> *"Ta nhìn xem cho đến chừng các ngôi đã đặt, và có Đấng Thượng Cổ ngồi ở trên… Sự xét đoán đã sẵn sàng, và các sách mở ra."*
 
 Các sách ấy chứa những gì? Trong II Cô-rinh-tô 5:10, Phao-lô viết: *"Vì chúng ta thảy đều phải ứng hầu trước tòa án Đấng Christ, hầu cho mỗi người nhận lãnh tùy theo điều thiện hay điều ác mình đã làm lúc còn trong xác thịt."* Mọi việc thiện và ác đều được ghi lại.
 

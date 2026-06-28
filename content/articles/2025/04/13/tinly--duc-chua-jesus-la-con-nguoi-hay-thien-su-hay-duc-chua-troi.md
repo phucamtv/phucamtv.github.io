@@ -66,7 +66,7 @@ Hê-bơ-rơ chương 1 là đoạn Kinh Thánh then chốt:
 
 Tiếp đó, Hê-bơ-rơ 1:5-8 so sánh trực tiếp giữa Con và thiên sứ:
 
-> Đức Chúa Trời há có bao giờ phán cùng thiên sứ nào rằng: "Ngươi là Con Ta, ngày nay Ta đã sanh Ngươi"?... Còn khi Ngài đưa Con đầu lòng mình vào thế gian thì phán rằng: "Mọi thiên sứ của Đức Chúa Trời phải thờ lạy Con."
+> Đức Chúa Trời há có bao giờ phán cùng thiên sứ nào rằng: "Ngươi là Con Ta, ngày nay Ta đã sanh Ngươi"?… Còn khi Ngài đưa Con đầu lòng mình vào thế gian thì phán rằng: "Mọi thiên sứ của Đức Chúa Trời phải thờ lạy Con."
 >
 > --- Hê-bơ-rơ 1:5-6
 

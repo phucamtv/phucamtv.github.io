@@ -45,7 +45,7 @@ Không thể gọi là gia đình Cơ-đốc nếu không có Đấng Cơ-đốc
 
 Lời Chúa dạy rõ ràng:
 
-> *"Hỡi kẻ làm vợ, phải vâng phục chồng mình như vâng phục Chúa... Hỡi người làm chồng, hãy yêu vợ mình, như Đấng Christ đã yêu Hội Thánh, phó chính mình vì Hội Thánh."* — Ê-phê-sô 5:22, 25
+> *"Hỡi kẻ làm vợ, phải vâng phục chồng mình như vâng phục Chúa… Hỡi người làm chồng, hãy yêu vợ mình, như Đấng Christ đã yêu Hội Thánh, phó chính mình vì Hội Thánh."* — Ê-phê-sô 5:22, 25
 
 > *"Hỡi kẻ làm con, mọi sự hãy vâng phục cha mẹ mình, vì điều đó đẹp lòng Chúa."* — Cô-lô-se 3:20
 

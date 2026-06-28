@@ -84,7 +84,7 @@ Giờ chúng ta chuyển sang Ba-by-lôn, cùng thời với Khổng Tử. Đa-n
 
 Khi Đa-ni-ên đã già, gần đến mốc 70 năm, ông nhận một khải tượng cho thấy thời gian dường như bị kéo dài thành 2.300 năm. Đa-ni-ên cầu nguyện thiết tha. Đáp lại, Đức Chúa Trời sai một thiên sứ đến giải nghĩa trong Đa-ni-ên 9:
 
-> Có **70 tuần lễ** đã định cho dân ngươi và thành thánh ngươi... để xức dầu cho Đấng Rất Thánh.
+> Có **70 tuần lễ** đã định cho dân ngươi và thành thánh ngươi… để xức dầu cho Đấng Rất Thánh.
 
 "Đấng Rất Thánh" — *Đấng Được Xức Dầu*, *Đấng Mê-si-a*, *Đấng Christ*. Lời tiên tri tiếp tục:
 
@@ -142,7 +142,7 @@ Nhân vật Đức Chúa Giê-su không phải là huyền thoại. Các sử gi
 
 - **Thallus** (52 SCN) ghi chép về cái chết của Đức Chúa Giê-su người Na-xa-rét.
 - **Mara bar Serapion** (73 SCN) viết về việc *vua dân Do Thái* bị xử tử.
-- **Josephus**, sử gia Do Thái nổi tiếng, viết: *"Có một người tên là Giê-su, một người khôn ngoan, vì người làm những việc kỳ lạ... Phi-lát, theo lời gợi ý của những người đứng đầu trong chúng tôi, đã kết án người trên thập tự giá."*
+- **Josephus**, sử gia Do Thái nổi tiếng, viết: *"Có một người tên là Giê-su, một người khôn ngoan, vì người làm những việc kỳ lạ… Phi-lát, theo lời gợi ý của những người đứng đầu trong chúng tôi, đã kết án người trên thập tự giá."*
 - **Tacitus** ghi: *"Christ, từ Đấng ấy mà tên gọi Cơ-đốc bắt nguồn, đã chịu hình phạt cao nhất dưới đời Ti-be-rơ, do tay quan Bôn-xơ Phi-lát."*
 
 Không có lý do gì để các sử gia ngoại đạo này bịa ra một con người không hề tồn tại.
@@ -177,6 +177,6 @@ Nếu Đức Chúa Giê-su thực sự là Đấng Mê-si-a, là thánh nhân đ
 
 Trong cơn bão một buổi tối, mất điện, ngồi nghe Kinh Thánh thu âm, tôi đã nghe đoạn Đức Chúa Giê-su cầu nguyện trong Giăng 17 ngay trước khi Ngài chịu chết:
 
-> Con chẳng cầu nguyện cho những người này mà thôi, nhưng cũng cho những kẻ sẽ tin Con bởi lời họ giảng. Để cho ai nấy hiệp làm một, như Cha ở trong Con, và Con ở trong Cha; lại để cho họ cũng ở trong chúng ta... Con đã ban cho họ sự vinh hiển mà Cha đã ban cho Con... Cha ơi, Con muốn Con ở đâu, thì những kẻ Cha đã giao cho Con cũng ở đó với Con, để họ ngắm xem sự vinh hiển của Con... để cho tình yêu thương mà Cha đã yêu Con ở trong họ, và Con cũng ở trong họ nữa.
+> Con chẳng cầu nguyện cho những người này mà thôi, nhưng cũng cho những kẻ sẽ tin Con bởi lời họ giảng. Để cho ai nấy hiệp làm một, như Cha ở trong Con, và Con ở trong Cha; lại để cho họ cũng ở trong chúng ta… Con đã ban cho họ sự vinh hiển mà Cha đã ban cho Con… Cha ơi, Con muốn Con ở đâu, thì những kẻ Cha đã giao cho Con cũng ở đó với Con, để họ ngắm xem sự vinh hiển của Con… để cho tình yêu thương mà Cha đã yêu Con ở trong họ, và Con cũng ở trong họ nữa.
 
 Đức Chúa Giê-su cầu nguyện rằng tình yêu mà Đức Chúa Cha dành cho Đức Chúa Con cũng chính là tình yêu Ngài dành cho mỗi tín hữu. Đó là phép lạ thật sự của lời tiên tri đã ứng nghiệm: vị Shang Di vĩ đại của vũ trụ, vị Elohim mà Đa-ni-ên thờ phượng, đã sai Con Ngài đến đúng giờ — và Ngài muốn bạn biết rằng Ngài biết bạn, và Ngài yêu bạn.

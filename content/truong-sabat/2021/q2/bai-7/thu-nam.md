@@ -1,6 +1,6 @@
 ---
 build: { render: never }
-title: "Những Lời Hứa... (Xuất Ê-díp-tô Ký 19:8)"
+title: "Những Lời Hứa… (Xuất Ê-díp-tô Ký 19:8)"
 dayLabel: "Thứ Năm"
 weight: 6
 ---

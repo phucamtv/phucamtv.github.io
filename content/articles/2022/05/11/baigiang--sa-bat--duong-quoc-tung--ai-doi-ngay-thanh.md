@@ -242,7 +242,7 @@ Lẽ thật luôn luôn là lẽ thật. Lẽ thật không thể nào bị tiê
 - (6) S.R.E. Humbert, Adversus Graecorum Calumnias 6, PL 143, 937. Ðọc Samuele Bacchiocchi, From Sabbath to Sunday, The Pontifical Gregorian University Press 1977, trang 194,195.
 - (7) Augustus Neander, History of the Christians’ Religion and Church During the Three First Century. Translated by Henry John Rose. London: J.G. F. & J. Rivington, 1842, Vol. 1, trang 336.
 - (8)) Gaston H. Halsberghe, The Cult of Sol Invictus (Leiden, 1972), trang 26,44.
-- (9) E. Kirschbaum, the Tomb of St. Peter and Paul (London, 1959),pp. 35,36; Bacchiocchi, From Sabbath to Sunday, trang 253,254.
+- (9) E. Kirschbaum, the Tomb of St. Peter and Paul (London, 1959), pp. 35,36; Bacchiocchi, From Sabbath to Sunday, trang 253,254.
 - (10) Samuele Bacchiocchi, From Sabbath to Sunday, The Pontifical Gregorian University Press, 1977, trang 256-261.
 - (11) Corpus Juris Civilis Code, lib. 3, tit. 12,3.
 - (12) Charles J. Hefele, A History of the Councils of the Church, trans. Henry N. Oxenham, Edingburgh, 1896, Vol. 2, trang 316.

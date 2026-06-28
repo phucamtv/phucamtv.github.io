@@ -62,7 +62,7 @@ Bà Ellen White đã cảnh báo trong *Great Controversy* trang 564: "Hãy đ�
 
 Ở trang 581, bà viết tiếp: "Rô-ma đang nhắm tái lập quyền lực, để khôi phục địa vị tối cao đã mất. Hãy để nguyên tắc một lần được thiết lập tại Hoa Kỳ rằng Hội Thánh có thể sử dụng hoặc kiểm soát quyền lực của nhà nước, rằng các nghi lễ tôn giáo có thể được thi hành bằng luật dân sự — thì chiến thắng của Rô-ma tại đất nước này được bảo đảm."
 
-Thậm chí nữ triết gia Ayn Rand năm 1967 đã viết: "Hội Thánh Công giáo chưa bao giờ từ bỏ hy vọng tái lập sự kết hợp thời trung cổ giữa Hội Thánh và nhà nước, với mục tiêu cuối cùng là một nhà nước toàn cầu và một thần quyền toàn cầu... Hội Thánh-nhà nước Rô-ma trong thế kỷ 20 là một định chế đang phục hồi từ một vết thương chí tử. Nếu và khi nó lấy lại được toàn bộ quyền lực và thẩm quyền, nó sẽ áp đặt một chế độ tà ác hơn bất cứ điều gì hành tinh này từng thấy."
+Thậm chí nữ triết gia Ayn Rand năm 1967 đã viết: "Hội Thánh Công giáo chưa bao giờ từ bỏ hy vọng tái lập sự kết hợp thời trung cổ giữa Hội Thánh và nhà nước, với mục tiêu cuối cùng là một nhà nước toàn cầu và một thần quyền toàn cầu… Hội Thánh-nhà nước Rô-ma trong thế kỷ 20 là một định chế đang phục hồi từ một vết thương chí tử. Nếu và khi nó lấy lại được toàn bộ quyền lực và thẩm quyền, nó sẽ áp đặt một chế độ tà ác hơn bất cứ điều gì hành tinh này từng thấy."
 
 ---
 
@@ -78,7 +78,7 @@ Cuộc tấn công cuối cùng tập trung vào bảng thứ nhất của luậ
 
 II Tê-sa-lô-ni-ca 2:9 chép: "Sự đến của kẻ vô luật pháp là theo sự hành động của Sa-tan, với mọi quyền phép, dấu lạ, phép kỳ dối giả." Ba từ "quyền phép, dấu lạ, phép kỳ" cũng được dùng trong Công Vụ Các Sứ Đồ 2:22 để mô tả các phép lạ của Đức Chúa Giê-su. Như vậy Antichrist sẽ thực hiện chính những dấu lạ giống như Đức Chúa Giê-su đã làm — chỉ khác là bởi quyền lực của Sa-tan.
 
-Trong Ma-thi-ơ 24:23–27, Đức Chúa Giê-su cảnh báo: "Vì nhiều christ giả và tiên tri giả sẽ dấy lên, làm những dấu lớn, phép lạ, nếu có thể được thì họ cũng dỗ dành chính những người được chọn... Vì như chớp phát ra từ phương đông, nháng đến phương tây, thì sự Con Người đến cũng thể ấy."
+Trong Ma-thi-ơ 24:23–27, Đức Chúa Giê-su cảnh báo: "Vì nhiều christ giả và tiên tri giả sẽ dấy lên, làm những dấu lớn, phép lạ, nếu có thể được thì họ cũng dỗ dành chính những người được chọn… Vì như chớp phát ra từ phương đông, nháng đến phương tây, thì sự Con Người đến cũng thể ấy."
 
 Bà Ellen White trong *Great Controversy* trang 624 mô tả khải tượng về sự lừa dối cuối cùng: "Như hành động đỉnh cao trong vở kịch lừa dối lớn, chính Sa-tan sẽ giả mạo Đấng Christ. Hội Thánh từ lâu đã xưng nhận trông đợi sự đến của Đấng Cứu Rỗi như sự thành toàn của hy vọng mình. Bấy giờ kẻ lừa dối lớn sẽ làm cho có vẻ như Đấng Christ đã đến. Tại nhiều nơi trên trái đất, Sa-tan sẽ tỏ mình ra giữa loài người như một thực thể oai nghiêm rực rỡ chói lòa."
 
@@ -104,4 +104,4 @@ II Tê-sa-lô-ni-ca 2:10–12 giải thích lý do tại sao đa số sẽ bị 
 
 Vấn đề ở thời kỳ cuối cùng rất đơn giản: bạn có vâng giữ điều răn của Đức Chúa Trời vì lòng yêu mến Ngài không? Bạn có sẵn lòng chết để trung thành với Ngài không — không phải như một kẻ luật pháp chủ nghĩa, mà như một người yêu mến Đức Chúa Giê-su đến nỗi không chịu cúi đầu trước con thú, hình tượng nó, hay nhận dấu của nó?
 
-Giống như Sa-đơ-rắc, Mê-sác và A-bết-Nê-gô — đối với họ, sự trung thành với Đức Chúa Trời và không cúi lạy hình tượng do Nê-bu-cát-nết-sa dựng lên còn quan trọng hơn cả mạng sống. Họ sống bởi mọi lời ra từ miệng Đức Chúa Trời. Khi Đức Chúa Giê-su bị cám dỗ trong đồng vắng, cả ba lần Ngài đều đáp: "Có lời chép rằng..." Đó là tiêu chuẩn duy nhất để xét nghiệm mọi điều — không phải khoa học, không phải triết học, không phải sử gia, mà là lời thánh tuyệt đối của Đức Chúa Trời.
+Giống như Sa-đơ-rắc, Mê-sác và A-bết-Nê-gô — đối với họ, sự trung thành với Đức Chúa Trời và không cúi lạy hình tượng do Nê-bu-cát-nết-sa dựng lên còn quan trọng hơn cả mạng sống. Họ sống bởi mọi lời ra từ miệng Đức Chúa Trời. Khi Đức Chúa Giê-su bị cám dỗ trong đồng vắng, cả ba lần Ngài đều đáp: "Có lời chép rằng…" Đó là tiêu chuẩn duy nhất để xét nghiệm mọi điều — không phải khoa học, không phải triết học, không phải sử gia, mà là lời thánh tuyệt đối của Đức Chúa Trời.

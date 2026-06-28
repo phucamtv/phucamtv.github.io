@@ -68,7 +68,7 @@ Chữ "tôi nhớ đến" cho thấy đã có lúc Giô-na lãng quên. Và sự
 
 Giê-rê-mi 2:32 ghi lại lời trách rất đau đớn: *"Con gái đồng trinh há quên đồ trang sức mình sao? Nàng dâu mới há quên áo đẹp của mình sao? Nhưng dân ta đã quên ta từ những ngày không tính ra được."* Một trinh nữ không bao giờ quên trang sức, một cô dâu mới không bao giờ quên váy cưới — vậy mà dân Chúa đã quên Ngài.
 
-Ô-sê 13:6 cũng cảnh báo: *"Chúng nó đã được no nê... rồi thì chúng nó sanh lòng kiêu ngạo; vậy nên chúng nó đã quên ta."* Khi được ban phước dư dật, con người dễ kiêu ngạo và quên đấng đã ban phước.
+Ô-sê 13:6 cũng cảnh báo: *"Chúng nó đã được no nê… rồi thì chúng nó sanh lòng kiêu ngạo; vậy nên chúng nó đã quên ta."* Khi được ban phước dư dật, con người dễ kiêu ngạo và quên đấng đã ban phước.
 
 Sự lãng quên đến rất từ từ — mỗi ngày một chút, sóng bận rộn, sóng áp lực, sóng bạn bè, sóng thú vui — dần phủ lấp lòng yêu mến Đức Chúa Trời. Đến khi nhận ra thì không tính được từ lúc nào đã quên Ngài.
 

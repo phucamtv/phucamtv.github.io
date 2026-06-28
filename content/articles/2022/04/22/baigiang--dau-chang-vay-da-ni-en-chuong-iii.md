@@ -47,7 +47,7 @@ Vua tuyên bố mình có quyền sinh quyền sát — ai không thờ tượng
 
 Khi bị điệu đến trước mặt vua và được cơ hội thứ hai để quy phục, Sa-ra-đơ-rác, Mê-sác và A-bết-Nê-gô trả lời dứt khoát (Đa-ni-ên 3:16-18):
 
-> "Hỡi vua, về sự này chúng tôi không cần phải tâu lại cho vua biết. Đức Chúa Trời mà chúng tôi hầu việc có thể cứu chúng tôi thoát khỏi lò lửa... Dầu chẳng vậy, hỡi vua, xin biết rằng chúng tôi không thờ các thần của vua và không quỳ lạy pho tượng vàng mà vua đã dựng."
+> "Hỡi vua, về sự này chúng tôi không cần phải tâu lại cho vua biết. Đức Chúa Trời mà chúng tôi hầu việc có thể cứu chúng tôi thoát khỏi lò lửa… Dầu chẳng vậy, hỡi vua, xin biết rằng chúng tôi không thờ các thần của vua và không quỳ lạy pho tượng vàng mà vua đã dựng."
 
 Mục Sư chỉ ra rằng ba người không cần cơ hội thứ hai, không cần dài dòng giải thích. Họ biết rõ vua là ai, họ biết rõ Đức Chúa Trời của mình là ai — và lập trường của họ không thể bị lung lạc bởi địa vị hay quyền lực của vua.
 

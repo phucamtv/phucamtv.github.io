@@ -26,7 +26,7 @@ Tuy nhiên, tình yêu của con người là hữu hạn, chịu tác động c
 
 ## Điều thứ hai: Đừng tưởng niềm tin không ảnh hưởng
 
-Khi chọn lựa bạn đời, nhiều người đưa ra những tiêu chí: cuộc sống ổn định, gương mặt dễ coi, tính tình siêng năng, chung thủy... nhưng ít ai đặt tiêu chí niềm tin lên hàng đầu. Trong khi đó, niềm tin chính là nền tảng cho mọi điều khác.
+Khi chọn lựa bạn đời, nhiều người đưa ra những tiêu chí: cuộc sống ổn định, gương mặt dễ coi, tính tình siêng năng, chung thủy… nhưng ít ai đặt tiêu chí niềm tin lên hàng đầu. Trong khi đó, niềm tin chính là nền tảng cho mọi điều khác.
 
 Bài học từ vua Sa-lô-môn trong I Các Vua 11:1-13 là lời cảnh báo nghiêm trọng. Một con người khôn ngoan bậc nhất, đầy ơn Chúa, cuối cùng đã bị các hoàng hậu ngoại bang dẫn dắt đến chỗ thờ lạy hình tượng. Không chỉ cho phép xây đền thờ tà thần, ông còn chính mình bước vào thờ lạy. Nếu Sa-lô-môn còn gục ngã, huống chi chúng ta.
 

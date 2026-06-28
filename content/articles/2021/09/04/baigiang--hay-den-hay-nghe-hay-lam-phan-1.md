@@ -42,7 +42,7 @@ Thứ nhất, họ đóng cửa nước thiên đàng trước mặt người ta
 
 ## Thờ Phượng Vô Ích Khiến Chúa Khó Chịu
 
-Hệ quả thứ ba: việc gọi Chúa mà không làm theo lời Ngài là hoàn toàn vô ích, thậm chí làm Chúa khó chịu. Ê-sai 1:13-17 ghi lại lời Chúa phán đầy nghiêm khắc: "Thôi đừng dâng của lễ chay vô ích cho ta nữa! Ta gớm ghét mùi hương... Thật lòng ta ghét những kỳ lễ của các ngươi, là nặng nề cho ta. Khi các ngươi giơ tay thì ta che mắt khỏi các ngươi; khi các ngươi cầu nguyện rườm rà, ta chẳng thèm nghe."
+Hệ quả thứ ba: việc gọi Chúa mà không làm theo lời Ngài là hoàn toàn vô ích, thậm chí làm Chúa khó chịu. Ê-sai 1:13-17 ghi lại lời Chúa phán đầy nghiêm khắc: "Thôi đừng dâng của lễ chay vô ích cho ta nữa! Ta gớm ghét mùi hương… Thật lòng ta ghét những kỳ lễ của các ngươi, là nặng nề cho ta. Khi các ngươi giơ tay thì ta che mắt khỏi các ngươi; khi các ngươi cầu nguyện rườm rà, ta chẳng thèm nghe."
 
 Đây là những lời vô cùng nặng nề. Đức Chúa Trời là Đấng luôn muốn lắng nghe, luôn giang tay chờ đón — vậy mà Ngài phải nói rằng "ta chẳng thèm nghe," "ta che mắt khỏi các ngươi." Điều này khiến chúng ta phải xem lại: sự thờ phượng của mình có phải bằng tấm lòng tôn kính thật, hay chỉ là làm cho xong trách nhiệm?
 

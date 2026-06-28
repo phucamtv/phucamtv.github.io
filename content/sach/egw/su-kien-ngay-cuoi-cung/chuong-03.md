@@ -29,7 +29,7 @@ Nhiều người tự xưng là tín đồ Cơ-đốc Phục Lâm đã ấn đ�
 
 "—Testimonies for the Church 4:307 (1879). LDE 32.3
 
-Chúng ta không được biết thời điểm chính xác về sự đổ ra của Đức Thánh Linh hoặc về sự tái lâm của Đấng Christ.... Tại sao Đức Chúa Trời đã không ban cho chúng ta sự hiểu biết này?—Bởi vì chúng ta sẽ không sử dụng nó một cách đúng đắn nếu Ngài ban cho. Sự hiểu biết này sẽ tạo ra một tình trạng giữa vòng dân sự chúng ta khiến công việc của Đức Chúa Trời trong việc chuẩn bị một dân tộc để đứng vững trong ngày trọng đại sắp đến bị trì hoãn rất nhiều. Chúng ta không được sống trong sự kích động về thời gian.... LDE 33.1
+Chúng ta không được biết thời điểm chính xác về sự đổ ra của Đức Thánh Linh hoặc về sự tái lâm của Đấng Christ.… Tại sao Đức Chúa Trời đã không ban cho chúng ta sự hiểu biết này?—Bởi vì chúng ta sẽ không sử dụng nó một cách đúng đắn nếu Ngài ban cho. Sự hiểu biết này sẽ tạo ra một tình trạng giữa vòng dân sự chúng ta khiến công việc của Đức Chúa Trời trong việc chuẩn bị một dân tộc để đứng vững trong ngày trọng đại sắp đến bị trì hoãn rất nhiều. Chúng ta không được sống trong sự kích động về thời gian.… LDE 33.1
 
 Anh em sẽ không thể nói rằng Ngài sẽ đến trong vòng một, hai hay năm năm nữa, anh em cũng không được trì hoãn sự đến của Ngài bằng cách tuyên bố rằng có thể phải mười hay hai mươi năm nữa Ngài mới đến.—The Review and Herald, March 22, 1892. LDE 33.2
 
@@ -79,7 +79,7 @@ Thời kỳ thử thách đang ở ngay trước chúng ta, vì tiếng kêu l�
 
 Đêm dài tăm tối thật là thử thách, nhưng buổi sáng được dời lại bởi lòng thương xót, vì nếu Đức Chúa đến ngay bây giờ thì sẽ có rất nhiều người không sẵn sàng.—Testimonies for the Church 2:194 (1868). LDE 37.4
 
-Nếu sau cơn đại thất vọng năm 1844, những người theo phong trào Cơ-đốc Phục Lâm đã nắm vững đức tin của mình và cùng nhau bước theo sự dẫn dắt đang mở ra của Đức Chúa Trời, tiếp nhận sứ điệp của thiên sứ thứ ba và rao truyền sứ điệp đó cho thế gian trong quyền năng của Đức Thánh Linh, thì hẳn họ đã được thấy sự cứu rỗi của Đức Chúa Trời, Chúa hẳn đã hành động mạnh mẽ qua nỗ lực của họ, công việc hẳn đã được hoàn tất, và Đấng Christ hẳn đã đến từ trước đó để đón dân Ngài về nơi phần thưởng của họ.... Đó không phải là ý muốn của Đức Chúa Trời rằng sự đến của Đấng Christ phải bị trì hoãn như vậy.... LDE 37.5
+Nếu sau cơn đại thất vọng năm 1844, những người theo phong trào Cơ-đốc Phục Lâm đã nắm vững đức tin của mình và cùng nhau bước theo sự dẫn dắt đang mở ra của Đức Chúa Trời, tiếp nhận sứ điệp của thiên sứ thứ ba và rao truyền sứ điệp đó cho thế gian trong quyền năng của Đức Thánh Linh, thì hẳn họ đã được thấy sự cứu rỗi của Đức Chúa Trời, Chúa hẳn đã hành động mạnh mẽ qua nỗ lực của họ, công việc hẳn đã được hoàn tất, và Đấng Christ hẳn đã đến từ trước đó để đón dân Ngài về nơi phần thưởng của họ.… Đó không phải là ý muốn của Đức Chúa Trời rằng sự đến của Đấng Christ phải bị trì hoãn như vậy.… LDE 37.5
 
 Trong bốn mươi năm, sự vô tín, sự lằm bằm và sự nổi loạn đã ngăn cản dân Y-sơ-ra-ên xưa vào đất Ca-na-an. Cũng chính những tội lỗi ấy đã làm chậm trễ việc dân Y-sơ-ra-ên thời nay tiến vào Ca-na-an trên trời. Trong cả hai trường hợp, những lời hứa của Đức Chúa Trời đều không hề sai trật. Chính sự vô tín, sự thế tục, sự thiếu hiến dâng, và sự tranh chấp giữa vòng những người xưng nhận là dân của Chúa đã giữ chúng ta lại trong thế giới đầy tội lỗi và đau buồn này suốt bao nhiêu năm.—Evangelism, 695, 696 (1883). LDE 38.1
 
@@ -87,7 +87,7 @@ Nếu Hội Thánh của Đấng Christ đã làm trọn công việc đã đư�
 
 ## Lời Hứa Của Đức Chúa Trời Là Có Điều Kiện
 
-Các thiên sứ của Đức Chúa Trời trong các sứ điệp của họ gởi đến cho loài người trình bày thời gian là rất ngắn ngủi. [Xem Rô-ma 13:11-12; I Cô-rinh-tô 7:29; I Tê-sa-lô-ni-ca 4:15, 17; Hê-bơ-rơ 10:25; Gia-cơ 5:8-9; I Phi-e-rơ 4:7; Khải-huyền 22:6-7.] Điều ấy đã luôn được trình bày cho tôi như vậy. Thật là đúng khi thời gian đã kéo dài hơn so với những gì chúng ta đã mong đợi trong những ngày đầu tiên của sứ điệp này. Đấng Cứu Thế của chúng ta đã không hiện đến sớm như chúng ta hy vọng. Nhưng có phải Lời của Chúa đã thất bại không? Không bao giờ! Cần phải nhớ rằng các lời hứa và lời đe dọa của Đức Chúa Trời đều có điều kiện như nhau. [Xem Giê-rê-mi 18:7-10; Giô-na 3:4-10.]... LDE 38.3
+Các thiên sứ của Đức Chúa Trời trong các sứ điệp của họ gởi đến cho loài người trình bày thời gian là rất ngắn ngủi. [Xem Rô-ma 13:11-12; I Cô-rinh-tô 7:29; I Tê-sa-lô-ni-ca 4:15, 17; Hê-bơ-rơ 10:25; Gia-cơ 5:8-9; I Phi-e-rơ 4:7; Khải-huyền 22:6-7.] Điều ấy đã luôn được trình bày cho tôi như vậy. Thật là đúng khi thời gian đã kéo dài hơn so với những gì chúng ta đã mong đợi trong những ngày đầu tiên của sứ điệp này. Đấng Cứu Thế của chúng ta đã không hiện đến sớm như chúng ta hy vọng. Nhưng có phải Lời của Chúa đã thất bại không? Không bao giờ! Cần phải nhớ rằng các lời hứa và lời đe dọa của Đức Chúa Trời đều có điều kiện như nhau. [Xem Giê-rê-mi 18:7-10; Giô-na 3:4-10.]… LDE 38.3
 
 Chúng ta có thể phải lưu lại trong thế gian này vì sự bất tuân của mình thêm nhiều năm nữa, như con cái Y-sơ-ra-ên đã từng, nhưng vì cớ Đấng Christ, dân sự của Ngài không nên chồng chất tội lỗi này lên tội lỗi khác bằng cách buộc tội Đức Chúa Trời về hậu quả của con đường hành động sai trái của chính họ.—Evangelism, 695, 696 (1901). LDE 39.1
 
@@ -112,7 +112,7 @@ Với sự chính xác không sai sót, Đấng Vô Hạn vẫn ghi sổ với m
 
 Đức Chúa Trời ghi sổ với các dân tộc. Những con số đang chồng chất chống lại họ trong sổ sách thiên đàng, và khi việc vi phạm ngày thứ nhất trong tuần lễ trở thành một luật lệ phải bị trừng phạt, thì chén của họ sẽ đầy.—The S.D.A. Bible Commentary 7:910 (1886). LDE 40.1
 
-Đức Chúa Trời ghi sổ với các dân tộc... Khi thời điểm đã trọn mà sự gian ác đạt đến ranh giới mà Đức Chúa Trời đã ấn định cho lòng thương xót của Ngài, thì sự nhịn nhục của Ngài sẽ chấm dứt. Khi những con số tích lũy trong sổ sách của thiên đàng đánh dấu tổng số vi phạm đã đầy, cơn thịnh nộ sẽ giáng xuống.—Testimonies for the Church 5:524 (1889). LDE 40.2
+Đức Chúa Trời ghi sổ với các dân tộc… Khi thời điểm đã trọn mà sự gian ác đạt đến ranh giới mà Đức Chúa Trời đã ấn định cho lòng thương xót của Ngài, thì sự nhịn nhục của Ngài sẽ chấm dứt. Khi những con số tích lũy trong sổ sách của thiên đàng đánh dấu tổng số vi phạm đã đầy, cơn thịnh nộ sẽ giáng xuống.—Testimonies for the Church 5:524 (1889). LDE 40.2
 
 Trong khi lòng thương xót của Đức Chúa Trời nhịn nhục lâu dài với kẻ vi phạm, vẫn có một giới hạn mà con người không thể vượt qua trong tội lỗi. Khi đến giới hạn đó, những lời ban cho sự thương xót sẽ bị thu lại, và sự thi hành phán xét sẽ bắt đầu.—Patriarchs and Prophets, 162, 165 (1890). LDE 40.3
 

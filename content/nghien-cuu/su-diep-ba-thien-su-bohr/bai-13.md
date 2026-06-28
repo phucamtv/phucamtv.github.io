@@ -92,7 +92,7 @@ Văn bản *Hiến Tặng Của Constantine* viết: "Như Phi-e-rơ được l�
 
 Dù là giả mạo, ngôn ngữ của *Hiến Tặng* — bao gồm tước hiệu Vicarius Filii Dei — đã được đưa vào **Sắc Lệnh của Gratian** năm 1140, một văn bản giáo luật chính thức của Hội Thánh Công giáo Rô-ma. Như vậy, tước hiệu này đã trở thành chính thức.
 
-Hồng y Henry Edward Manning dùng tước hiệu này trong tác phẩm *Quyền Lực Thế Tục Của Người Thay Quyền Đức Chúa Giê-su* (1862). Giáo hoàng Gioan Phao-lô II trong *Bước Qua Ngưỡng Cửa Hy Vọng* viết: "Giáo hoàng được đức tin định nghĩa là người thay quyền Đức Chúa Giê-su... được xem là người trên đất đại diện Con Đức Chúa Trời, người chiếm vị trí của Ngôi Hai trong Ba Ngôi Đức Chúa Trời Toàn Năng." Học giả giáo phụ học hàng đầu của Công giáo Rô-ma, Johannes Quasten, cũng xác nhận Vicarius Christi và Vicarius Filii Dei là tước hiệu chính thức của giáo hoàng.
+Hồng y Henry Edward Manning dùng tước hiệu này trong tác phẩm *Quyền Lực Thế Tục Của Người Thay Quyền Đức Chúa Giê-su* (1862). Giáo hoàng Gioan Phao-lô II trong *Bước Qua Ngưỡng Cửa Hy Vọng* viết: "Giáo hoàng được đức tin định nghĩa là người thay quyền Đức Chúa Giê-su… được xem là người trên đất đại diện Con Đức Chúa Trời, người chiếm vị trí của Ngôi Hai trong Ba Ngôi Đức Chúa Trời Toàn Năng." Học giả giáo phụ học hàng đầu của Công giáo Rô-ma, Johannes Quasten, cũng xác nhận Vicarius Christi và Vicarius Filii Dei là tước hiệu chính thức của giáo hoàng.
 
 ---
 
@@ -122,7 +122,7 @@ Gọi ai đó là thủ lãnh hàng giáo phẩm, hay thủ lãnh triều đình
 
 Khi rời thế gian, Đức Chúa Giê-su không để lại một giáo hoàng làm đại diện cho Ngài. Trong Giăng 14:16-18, chính Ngài phán:
 
-> "Ta sẽ cầu xin Cha, và Cha sẽ ban cho các con một Đấng An Ủi khác, để ở với các con đời đời, tức là Thần Lẽ Thật... Ta sẽ chẳng để các con mồ côi đâu, ta sẽ đến cùng các con."
+> "Ta sẽ cầu xin Cha, và Cha sẽ ban cho các con một Đấng An Ủi khác, để ở với các con đời đời, tức là Thần Lẽ Thật… Ta sẽ chẳng để các con mồ côi đâu, ta sẽ đến cùng các con."
 
 Đấng đại diện mà Đức Chúa Giê-su sai đến trên đất là **Đức Thánh Linh**. Theo sắp đặt của Đức Chúa Giê-su, Ngài là Đầu hữu hình ở trên trời, còn Đức Thánh Linh là Đầu vô hình ở trên đất. Hội Thánh Công giáo Rô-ma đã đảo ngược trật tự này: họ tuyên bố Đầu vô hình của Hội Thánh là Đức Chúa Giê-su ở trên trời, còn Đầu hữu hình của Hội Thánh là giáo hoàng trên đất. Như vậy, giáo hoàng không chỉ chiếm đoạt vị trí của Đức Chúa Giê-su mà còn chiếm đoạt cả vị trí của Đức Thánh Linh. Đó là đỉnh cao của sự lộng ngôn.
 

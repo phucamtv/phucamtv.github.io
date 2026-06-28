@@ -10,7 +10,7 @@ NGHIÊN CỨU BỔ TÚC
 
 “Những người tự coi mình khôn ngoan hơn lời Chúa, khôn ngoan hơn cả Chúa; và thay vì đặt chân lên nền tảng không thể lay chuyển, và đưa mọi thứ vào thử thách lời Chúa, họ kiểm tra lời Chúa bằng ý tưởng khoa học và tự nhiên của chính họ, và nếu nó không giống với ý tưởng khoa học của họ, thì nó bị loại bỏ như là không có sự xứng đáng để tin cậy.” (Ellen G. White, Dấu hiệu của thời đại, ngày 27 tháng 3, 1884, trang 1).
 
-“Những người nào trở nên rất quen thuộc với sự khôn ngoan và mục đích của Chúa như được bày tỏ trong lời của Ngài, trở thành những người nam và nữ có sức mạnh tinh thần; và họ có thể trở thành những người làm việc hiệu quả với Nhà giáo dục vĩ đại, Đấng Cơ-đốc... Chúa đã ban cho dân của Ngài lời sự thật và tất cả được kêu gọi hành động để làm cho thế gian biết đến những lời này... Không có sự biến cải nên thánh ngoài lẽ thật, lời Chúa. Làm sao, mọi người hiểu từng lời đó cho được!” (Ellen G. White, Nguyên tắc cơ bản của giáo dục Cơ-đốc, trang 432).
+“Những người nào trở nên rất quen thuộc với sự khôn ngoan và mục đích của Chúa như được bày tỏ trong lời của Ngài, trở thành những người nam và nữ có sức mạnh tinh thần; và họ có thể trở thành những người làm việc hiệu quả với Nhà giáo dục vĩ đại, Đấng Cơ-đốc… Chúa đã ban cho dân của Ngài lời sự thật và tất cả được kêu gọi hành động để làm cho thế gian biết đến những lời này… Không có sự biến cải nên thánh ngoài lẽ thật, lời Chúa. Làm sao, mọi người hiểu từng lời đó cho được!” (Ellen G. White, Nguyên tắc cơ bản của giáo dục Cơ-đốc, trang 432).
 
 **Câu hỏi thảo luận**
 

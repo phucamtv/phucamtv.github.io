@@ -82,7 +82,7 @@ Rồi Ngài ban một mạng lệnh: *Điều răn của Ta đây nầy: Các ng
 
 ## Không còn là tôi tớ, mà là bạn hữu
 
-> *Ta chẳng gọi các ngươi là tôi tớ nữa... nhưng Ta đã gọi các ngươi là bạn hữu, vì Ta từng tỏ cho các ngươi biết mọi điều Ta đã nghe nơi Cha Ta.*
+> *Ta chẳng gọi các ngươi là tôi tớ nữa… nhưng Ta đã gọi các ngươi là bạn hữu, vì Ta từng tỏ cho các ngươi biết mọi điều Ta đã nghe nơi Cha Ta.*
 
 Tôi tớ chỉ biết phần việc trước mắt, không cần hiểu toàn cảnh. Nhưng Đức Chúa Giê-su tuyên bố Ngài không giấu điều gì với chúng ta nữa. Ngài cho chúng ta biết toàn bộ tâm trí và tấm lòng của Đức Chúa Trời, mọi điều sâu nhiệm của Đấng Thiêng Liêng. Ngài đã dựng nên chúng ta với khả năng cảm theo cảm xúc của Ngài, suy nghĩ theo tư tưởng của Ngài, nghe theo tiếng lòng của Ngài.
 

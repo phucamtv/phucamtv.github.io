@@ -51,7 +51,7 @@ Khi những thử thách dày đặc xung quanh chúng ta, cả sự chia rẽ l
 
 Tôi đã hỏi về ý nghĩa của sự rung chuyển mà tôi đã thấy, và được chỉ cho biết rằng nó sẽ được gây ra bởi lời chứng ngay thẳng được kêu gọi bởi lời khuyên của Đấng Chứng Nhân Chân Thật cho người Lao-đi-xê. Điều này sẽ có tác động trên tấm lòng của người tiếp nhận, và sẽ dẫn người ấy nâng cao tiêu chuẩn và rao truyền lẽ thật ngay thẳng. Một số người sẽ không chịu nổi lời chứng ngay thẳng này. Họ sẽ chống lại nó, và điều này sẽ gây nên một sự rung chuyển giữa vòng dân sự của Đức Chúa Trời.—Testimonies For The Church 1:181 (1857). LDE 175.3
 
-Có những người ở giữa chúng ta sẽ thú tội, như A-can đã làm, quá muộn để tự cứu mình. ... Họ không hòa hợp với lẽ phải. Họ khinh dể lời chứng ngay thẳng chạm đến tấm lòng, và sẽ vui mừng khi thấy mọi người đưa ra lời quở trách bị bịt miệng.—Testimonies for the Church 3:272 (1873). LDE 175.4
+Có những người ở giữa chúng ta sẽ thú tội, như A-can đã làm, quá muộn để tự cứu mình. … Họ không hòa hợp với lẽ phải. Họ khinh dể lời chứng ngay thẳng chạm đến tấm lòng, và sẽ vui mừng khi thấy mọi người đưa ra lời quở trách bị bịt miệng.—Testimonies for the Church 3:272 (1873). LDE 175.4
 
 Chúa kêu gọi sự đổi mới lời chứng ngay thẳng đã được rao truyền trong những năm qua. Ngài kêu gọi sự đổi mới đời sống thuộc linh. Năng lực thuộc linh của dân sự Ngài đã lâu nay tê liệt, nhưng sẽ có một sự sống lại từ tình trạng dường như chết. Bằng sự cầu nguyện và xưng tội, chúng ta phải dọn sạch đường cái của Vua.—Testimonies for the Church 8:297 (1904). LDE 176.1
 
@@ -85,7 +85,7 @@ Sự lừa dối cuối cùng của Sa-tan sẽ là làm cho chứng ngôn của
 
 Sa-tan sẽ hoạt động một cách tinh vi, bằng nhiều cách khác nhau và qua nhiều phương tiện khác nhau, để làm lung lay lòng tin của dân sót của Đức Chúa Trời vào chứng ngôn chân thật.—Selected Messages 1:48 (1890). LDE 177.5
 
-Kẻ thù đã nỗ lực một cách điêu luyện để làm lung lay đức tin của chính dân sự chúng ta vào các Chứng Ngôn.... Đây chính là điều Sa-tan đã có ý đồ phải xảy ra, và những ai đã dọn đường cho dân sự không lưu tâm đến những lời cảnh báo và quở trách của các Chứng Ngôn của Thánh Linh Đức Chúa Trời sẽ thấy một làn sóng đủ loại sai lạc bùng phát.—Selected Messages 3:83 (1890). LDE 178.1
+Kẻ thù đã nỗ lực một cách điêu luyện để làm lung lay đức tin của chính dân sự chúng ta vào các Chứng Ngôn.… Đây chính là điều Sa-tan đã có ý đồ phải xảy ra, và những ai đã dọn đường cho dân sự không lưu tâm đến những lời cảnh báo và quở trách của các Chứng Ngôn của Thánh Linh Đức Chúa Trời sẽ thấy một làn sóng đủ loại sai lạc bùng phát.—Selected Messages 3:83 (1890). LDE 178.1
 
 Đó là kế hoạch của Sa-tan nhằm làm suy yếu đức tin của dân sự Đức Chúa Trời vào các Chứng Ngôn. Tiếp theo là sự hoài nghi về những điểm trọng yếu của đức tin chúng ta, những trụ cột của lập trường chúng ta, rồi đến sự nghi ngờ về Kinh Thánh, và sau đó là cuộc xuống dốc đến chỗ diệt vong. Khi các Chứng Ngôn, vốn từng được tin nhận, bị nghi ngờ và bị từ bỏ, Sa-tan biết rằng những kẻ bị lừa dối sẽ không dừng lại ở đó; và nó tăng cường gấp đôi nỗ lực cho đến khi đẩy họ vào sự phản loạn công khai, trở nên không thể chữa lành và kết thúc trong sự hủy diệt.—Testimonies for the Church 4:211. LDE 178.2
 
@@ -93,7 +93,7 @@ Kẻ thù đã nỗ lực một cách điêu luyện để làm lung lay đức 
 
 Nhiều ngôi sao mà chúng ta từng ngưỡng mộ vì sự rực rỡ của chúng, lúc bấy giờ sẽ tắt lịm trong bóng tối.—Prophets and Kings, 188 (khoảng năm 1914). LDE 178.3
 
-Những người mà Ngài đã tôn vinh cách lớn lao, trong những cảnh kết thúc của lịch sử trần gian này, sẽ đi theo khuôn mẫu của dân Y-sơ-ra-ên xưa.... Sự xa rời những nguyên tắc cao cả mà Đấng Christ đã đặt ra trong sự dạy dỗ của Ngài, sự thực hiện những dự án theo ý loài người, việc sử dụng Kinh Thánh để biện minh cho một đường lối hành động sai trái dưới sự tác động xảo quyệt của Lu-xi-phe, sẽ khiến người ta càng vững tin trong sự hiểu lầm, và lẽ thật mà họ cần để giữ họ khỏi những thói quen sai trái sẽ rò rỉ khỏi linh hồn như nước rò rỉ khỏi một chiếc bình bị nứt.—Manuscript Releases 13:379, 381 (1904). LDE 178.4
+Những người mà Ngài đã tôn vinh cách lớn lao, trong những cảnh kết thúc của lịch sử trần gian này, sẽ đi theo khuôn mẫu của dân Y-sơ-ra-ên xưa.… Sự xa rời những nguyên tắc cao cả mà Đấng Christ đã đặt ra trong sự dạy dỗ của Ngài, sự thực hiện những dự án theo ý loài người, việc sử dụng Kinh Thánh để biện minh cho một đường lối hành động sai trái dưới sự tác động xảo quyệt của Lu-xi-phe, sẽ khiến người ta càng vững tin trong sự hiểu lầm, và lẽ thật mà họ cần để giữ họ khỏi những thói quen sai trái sẽ rò rỉ khỏi linh hồn như nước rò rỉ khỏi một chiếc bình bị nứt.—Manuscript Releases 13:379, 381 (1904). LDE 178.4
 
 Nhiều người sẽ chứng tỏ rằng họ không hiệp một với Đấng Christ, rằng họ chưa chết đối với thế gian, để họ có thể sống với Ngài; và sự bội đạo của những người đã nắm giữ các chức vụ trọng trách sẽ xảy ra thường xuyên.—The Review and Herald, ngày 11 tháng 9, 1888. LDE 179.1
 
@@ -101,7 +101,7 @@ Nhiều người sẽ chứng tỏ rằng họ không hiệp một với Đấng
 
 Vấn đề lớn lao đã gần kề [việc thi hành Luật Chủ Nhật] sẽ loại bỏ những kẻ Đức Chúa Trời không bổ nhiệm, và Ngài sẽ có một đội ngũ mục vụ thanh sạch, chân thật, được thánh hóa, sẵn sàng cho mưa cuối mùa.—Selected Messages 3:385 (1886). LDE 179.2
 
-Nhiều kẻ sẽ đứng trên các tòa giảng của chúng ta với ngọn đuốc tiên tri giả trong tay, được thắp lên từ ngọn đuốc địa ngục của Sa-tan.... LDE 179.3
+Nhiều kẻ sẽ đứng trên các tòa giảng của chúng ta với ngọn đuốc tiên tri giả trong tay, được thắp lên từ ngọn đuốc địa ngục của Sa-tan.… LDE 179.3
 
 Một số người sẽ rời khỏi chúng ta, là những kẻ không còn khiêng hòm giao ước nữa. Nhưng những kẻ ấy không thể dựng nên những bức tường để ngăn cản lẽ thật; vì lẽ thật sẽ tiếp tục tiến lên và vươn cao cho đến cuối cùng.—Testimonies to Ministers and Gospel Workers, 409, 411 (1898). LDE 179.4
 
@@ -113,7 +113,7 @@ Sự rung chuyển của Đức Chúa Trời thổi bay vô số người như n
 
 Trấu như một đám mây sẽ bị gió cuốn đi, ngay cả từ những nơi mà chúng ta chỉ thấy là sàn lúa mì phong phú.—Testimonies for the Church 5:81 (1882). LDE 180.2
 
-Chẳng bao lâu nữa, dân sự Đức Chúa Trời sẽ bị thử thách bởi những thử thách lửa, và phần lớn những người hiện nay tỏ ra là chân chính và trung tín sẽ tỏ ra chỉ là kim loại tầm thường.... LDE 180.3
+Chẳng bao lâu nữa, dân sự Đức Chúa Trời sẽ bị thử thách bởi những thử thách lửa, và phần lớn những người hiện nay tỏ ra là chân chính và trung tín sẽ tỏ ra chỉ là kim loại tầm thường.… LDE 180.3
 
 Khi tôn giáo của Đấng Christ bị khinh bỉ nhất, khi luật pháp của Ngài bị coi thường nhất, thì lòng nhiệt thành của chúng ta phải nồng nàn nhất, và sự can đảm cùng kiên định của chúng ta phải vững vàng không lay chuyển nhất. Đứng lên bảo vệ lẽ thật và sự công bình khi số đông từ bỏ chúng ta, chiến đấu trong các trận chiến của Chúa khi các chiến sĩ thưa thớt—đó sẽ là thử thách của chúng ta. Trong thời điểm này, chúng ta phải gom lấy hơi ấm từ sự lạnh lẽo của người khác, sự can đảm từ sự hèn nhát của họ, và lòng trung thành từ sự phản bội của họ.—Testimonies for the Church 5:136 (1882). LDE 180.4
 

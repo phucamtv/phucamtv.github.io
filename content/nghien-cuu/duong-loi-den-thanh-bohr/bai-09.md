@@ -98,7 +98,7 @@ Cô-lô-se 2:16–17 là phân đoạn thường bị hiểu sai để bác bỏ
 
 **Còn các "ngày Sa-bát" được nhắc đến?** Đây không phải là Sa-bát ngày thứ bảy. Cô-lô-se 2:17 nói rõ rằng các điều này đều là **bóng của các việc sẽ tới**. Sa-bát ngày thứ bảy không phải là bóng của điều sẽ đến — Sa-bát được lập **trước khi tội lỗi vào thế gian** và **chỉ ngược về** công cuộc sáng tạo, không chỉ tới trước. Vậy các "Sa-bát" trong Cô-lô-se 2 là các Sa-bát nghi lễ: Lễ Thổi Kèn, Lễ Chuộc Tội (ngày nghỉ), năm Sa-bát mỗi bảy năm, và năm Hân Hỉ mỗi năm mươi năm.
 
-Lê-vi Ký 23 phân biệt rất rõ. Sau khi Đức Chúa Trời nói "đây là các kỳ lễ Ta", câu 3 đặt riêng Sa-bát ngày thứ bảy ra: "Người ta làm việc trong sáu ngày, nhưng qua ngày thứ bảy là ngày Sa-bát, một ngày nghỉ, tức một sự nhóm hiệp thánh." Rồi đến cuối chương, sau khi liệt kê bảy lễ trong năm, câu 37–38 chép: "Đó là các kỳ lễ của Đức Giê-hô-va... ngoài những ngày Sa-bát của Đức Giê-hô-va." Bảy lễ ấy đứng riêng biệt, **bên cạnh** Sa-bát của Đức Giê-hô-va. Sa-bát ngày thứ bảy đứng tách biệt như một kỷ niệm về sự sáng tạo.
+Lê-vi Ký 23 phân biệt rất rõ. Sau khi Đức Chúa Trời nói "đây là các kỳ lễ Ta", câu 3 đặt riêng Sa-bát ngày thứ bảy ra: "Người ta làm việc trong sáu ngày, nhưng qua ngày thứ bảy là ngày Sa-bát, một ngày nghỉ, tức một sự nhóm hiệp thánh." Rồi đến cuối chương, sau khi liệt kê bảy lễ trong năm, câu 37–38 chép: "Đó là các kỳ lễ của Đức Giê-hô-va… ngoài những ngày Sa-bát của Đức Giê-hô-va." Bảy lễ ấy đứng riêng biệt, **bên cạnh** Sa-bát của Đức Giê-hô-va. Sa-bát ngày thứ bảy đứng tách biệt như một kỷ niệm về sự sáng tạo.
 
 ---
 

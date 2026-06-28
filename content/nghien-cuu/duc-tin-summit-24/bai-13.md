@@ -37,7 +37,7 @@ Tuy vậy, Đa-ni-ên 2 chỉ dành một câu rưỡi cho ba vương quốc đ�
 
 Đa-ni-ên 7 làm rõ ba giai đoạn của La Mã qua hình ảnh Con Thú thứ tư:
 
-> Con Thú thứ tư sẽ là vương quốc thứ tư trên đất... Mười sừng là mười vua sẽ dấy lên từ vương quốc nầy; và một vua khác sẽ dấy lên sau chúng nó, khác với những vua trước. (Đa-ni-ên 7:23–24)
+> Con Thú thứ tư sẽ là vương quốc thứ tư trên đất… Mười sừng là mười vua sẽ dấy lên từ vương quốc nầy; và một vua khác sẽ dấy lên sau chúng nó, khác với những vua trước. (Đa-ni-ên 7:23–24)
 
 Giai đoạn thứ ba — cái sừng nhỏ — khác hẳn với các vương quốc trước vì nó không chỉ là một vương quốc chính trị, mà còn là một **vương quốc tôn giáo**: nó nói lời phạm thượng, bắt bớ các thánh đồ, và tưởng có thể đổi luật pháp Đức Chúa Trời.
 
@@ -107,7 +107,7 @@ Mười sừng cai trị cùng một thời điểm, nhưng các đầu thì kh�
 
 J. N. Andrews đã hiểu điều này khi viết trong sách *The Three Angels' Messages of Revelation 14*:
 
-> Bảy đầu là bảy hình thức quyền lực dân sự lần lượt cai trị. Bảy đầu này thuộc về cả con rồng của Khải Huyền 12, Con Thú của Khải Huyền 13, và Con Thú của Khải Huyền 17... không phải có ba bộ bảy đầu, nhưng bằng chứng cho thấy các đầu là những hình thức quyền lực kế tiếp nhau, cai trị từng cái một rồi nhường chỗ cho cái khác.
+> Bảy đầu là bảy hình thức quyền lực dân sự lần lượt cai trị. Bảy đầu này thuộc về cả con rồng của Khải Huyền 12, Con Thú của Khải Huyền 13, và Con Thú của Khải Huyền 17… không phải có ba bộ bảy đầu, nhưng bằng chứng cho thấy các đầu là những hình thức quyền lực kế tiếp nhau, cai trị từng cái một rồi nhường chỗ cho cái khác.
 
 Khi giáo hoàng cai trị trong một kỳ các kỳ và nửa kỳ, bốn đầu đầu tiên — Ba-by-lôn, Mê-đi và Phe-rơ-sơ, Hy Lạp, và Đế quốc La Mã — đã phai nhòa khỏi lịch sử. Chỉ có **đầu thứ năm** đang phun ra dòng nước bắt bớ.
 

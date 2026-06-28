@@ -42,4 +42,4 @@ Sứ đồ Gia-cơ đã nhắc nhở những ai hay khoe khoang về kế hoạc
 
 Đây là một thái độ sống khiêm nhường, nhận biết giới hạn của bản thân và tôn cao quyền tể trị của Đức Chúa Trời trên mọi khía cạnh của cuộc đời. Khi chúng ta sống với tinh thần phó thác như vậy, tương lai không còn là nỗi lo sợ mà trở thành niềm hy vọng, vì nó nằm trong bàn tay yêu thương của Đấng Toàn Năng.
 
-> "Hỡi anh em, là kẻ nói rằng: Hôm nay hoặc ngày mai, ta sẽ đi đến thành kia, ở đó một năm, buôn bán và phát tài... Anh em phải nói trái lại: Ví bằng Chúa muốn, và ta còn sống, thì ta sẽ làm việc nọ việc kia." — Gia-cơ 4:13, 15
+> "Hỡi anh em, là kẻ nói rằng: Hôm nay hoặc ngày mai, ta sẽ đi đến thành kia, ở đó một năm, buôn bán và phát tài… Anh em phải nói trái lại: Ví bằng Chúa muốn, và ta còn sống, thì ta sẽ làm việc nọ việc kia." — Gia-cơ 4:13, 15

@@ -6,13 +6,13 @@ weight: 1
 ---
 > Câu gốc
 >
-> “Bởi cớ đó đặt tên thành là Ba-bên,vì nơi đó Đức Giê-hô-va làm lộn xộn tiếng nói của cả thế gian, và từ đây Ngài làm cho loài người tản ra khắp trên mặt đất” (Sáng-thế Ký 11:9).
+> “Bởi cớ đó đặt tên thành là Ba-bên, vì nơi đó Đức Giê-hô-va làm lộn xộn tiếng nói của cả thế gian, và từ đây Ngài làm cho loài người tản ra khắp trên mặt đất” (Sáng-thế Ký 11:9).
 
 ### Kinh Thánh nghiên cứu
 
 Sáng-thế Ký 9:18 – 11:9, Lu-ca 10:1, Ma-thi-ơ 1:1-17, Lu-ca 1:26-33, Thi Thiên 139:7-12, Sáng-thế Ký 1:28, Sáng-thế Ký 9:1.
 
-Sau nước lụt, phần ký thuật của Kinh Thánh thay đổi từ sự tập trung vào cá nhân duy nhất là Nô-ê sang ba người con trai của ông là Sem, Cham và Gia-phết. Sự chú ý đặc biệt về Cham, tổ phụ của Ca-na-an (Sáng-thế Ký 10:6,15)giới thiệu về “xứ Ca-na-an”, là miền Đất Hứa (Sáng-thế Ký 12:5) và sự đoán trước về Áp-ra-ham,các nước sẽ nhờ Áp-ra-ham mà được phước (Sáng-thế Ký 12:3).
+Sau nước lụt, phần ký thuật của Kinh Thánh thay đổi từ sự tập trung vào cá nhân duy nhất là Nô-ê sang ba người con trai của ông là Sem, Cham và Gia-phết. Sự chú ý đặc biệt về Cham, tổ phụ của Ca-na-an (Sáng-thế Ký 10:6,15)giới thiệu về “xứ Ca-na-an”, là miền Đất Hứa (Sáng-thế Ký 12:5) và sự đoán trước về Áp-ra-ham, các nước sẽ nhờ Áp-ra-ham mà được phước (Sáng-thế Ký 12:3).
 
 Tuy nhiên, mọi thứ đã bị phá vỡ bởi tháp Ba-bên (Sáng-thế Ký 11:1-9). Một lần nữa, kế hoạch của Đức Chúa Trời dành cho loài người bị gián đoạn. Những gì được cho là phước lành, sự ra đời của tất cả các nước lại là dịp cho một sự rủa sả khác. Các nước hợp nhất cố gắng chiếm lấy cương vị của Đức Chúa Trời; Đức Chúa Trời đáp lại bằng sự phán xét trên họ; và do sự lộn xộn tiếng nói mà con người phân tán khắp thế giới (Sáng-thế Ký 11:8), cũng nhờ đó mà kế hoạch ban đầu của Đức Chúa Trời làcác dân tộc “đầy dẫy trên mặt đất” (Sáng-thế Ký 9:1).
 

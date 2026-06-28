@@ -174,7 +174,7 @@ Nhiều người không ngừng hỏi: "Ta sẽ đem vật gì chầu trước m
 > "Ta sẽ đem vật gì chầu trước mặt Đức Giê-hô-va và quì lạy trước mặt Đức Chúa Trời rất cao? Ta sẽ đến trước mặt Ngài với những của lễ thiêu và với những bò con giáp niên sao? Đức Giê-hô-va há có thích những hàng ngàn chiên đực hay là hàng vạn sông dầu sao? Ta há nên dâng con đầu lòng của ta vì sự phạm pháp ta, và trái của thân thể ta vì tội lỗi linh hồn ta sao? Hỡi người! Ngài đã tỏ cho ngươi điều gì là thiện; cái điều mà Đức Giê-hô-va đòi ngươi há chẳng phải là làm sự công bình, ưa sự nhân từ và bước đi cách khiêm nhường với Đức Chúa Trời ngươi sao?"
 > <cite>(Mi-chê 6:6-8)</cite> COL 210.2
 
-Đây là sự phục vụ mà Đức Chúa Trời đã chọn—"mở xiềng hung ác, tháo những gánh nặng, và buông tha kẻ bị hà hiếp, bẻ gãy mọi ách, ... chớ hờ hững với kẻ ruột thịt mình."
+Đây là sự phục vụ mà Đức Chúa Trời đã chọn—"mở xiềng hung ác, tháo những gánh nặng, và buông tha kẻ bị hà hiếp, bẻ gãy mọi ách, … chớ hờ hững với kẻ ruột thịt mình."
 
 > "Sự kiêng ăn mà ta chọn lựa, há chẳng phải là bẻ những xiềng hung ác, mở những trói của ách, thả cho kẻ bị ức hiếp được tự do, bẻ gãy mọi ách, hay sao? Há chẳng phải là chia bánh cho kẻ đói, đem những kẻ nghèo khổ đã bị đuổi đi về nhà mình, khi thấy kẻ trần truồng thì mặc cho, và chớ hề trớ trinh những kẻ cốt nhục mình, hay sao?"
 > <cite>(Ê-sai 58:6-7)</cite>

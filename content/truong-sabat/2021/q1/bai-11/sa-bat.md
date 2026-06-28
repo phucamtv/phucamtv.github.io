@@ -14,7 +14,7 @@ weight: 1
 
 Một người Do Thái, hướng dẫn buổi thờ phượng và vợ sống ở Lincoln, Nebraska, nhận được những cú điện thoại thô tục đầy sự đe dọa. Họ khám phá ra rằng những cú điện thoại này đến từ thủ lĩnh của một nhóm phân biệt chủng tộc người Mỹ, Ku Klux Klan. Biết được nhận dạng của anh ta, họ có thể báo cho cảnh sát, nhưng họ quyết định tiếp cận một cách êm thắm hơn. Khi họ biết rằng anh ta bị khuyết tật, họ đến nhà anh ta cùng với món gà cho bữa ăn tối! Điều này khiến anh ta hoàn toàn bối rối. Lòng căm ghét của anh ta tan chảy trước tình yêu thương của họ. Hai vợ chồng tiếp tục thăm viếng anh ta và tình bạn đã phát triển. Thậm chí anh ta nghĩ đến việc trở thành người Do Thái!
 
-“Sự kiêng ăn mà ta chọn lựa, há chẳng phải là bẻ những xiềng hung ác, mở những trói của ách, thả cho kẻ bị ức hiếp được tự do, bẻ gãy mọi ách, hay sao? Há chẳng phải là chia bánh cho kẻ đói...?” (Ê-sai 58:6,7).
+“Sự kiêng ăn mà ta chọn lựa, há chẳng phải là bẻ những xiềng hung ác, mở những trói của ách, thả cho kẻ bị ức hiếp được tự do, bẻ gãy mọi ách, hay sao? Há chẳng phải là chia bánh cho kẻ đói…?” (Ê-sai 58:6,7).
 
 Trớ trêu thay, đôi vợ chồng ở Lincoln đã thực hiện sự kiêng ăn bằng cách chia sẻ bữa ăn cho kẻ đàn áp đang đói, nhờ đó giúp anh ta thoát khỏi sự trói buộc của thành kiến bất công!
 

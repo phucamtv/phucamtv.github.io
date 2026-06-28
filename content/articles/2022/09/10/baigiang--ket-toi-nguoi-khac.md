@@ -46,6 +46,6 @@ I Cô-rinh-tô 4:5 dặn: "Chớ xét đoán sớm quá, hãy đợi Chúa đế
 
 ## 5. Chỉ Mình Chúa Có Quyền Phán Xét
 
-Gia-cơ 4:12 khẳng định: "Chỉ có một Đấng lập ra luật pháp và một Đấng xét đoán... Nhưng ngươi là ai, mà dám xét đoán kẻ lân cận mình?" Chúa lập luật, Chúa xét đoán, Chúa cứu được và diệt được. Chúng ta không có bất kỳ thẩm quyền nào để kết tội ai.
+Gia-cơ 4:12 khẳng định: "Chỉ có một Đấng lập ra luật pháp và một Đấng xét đoán… Nhưng ngươi là ai, mà dám xét đoán kẻ lân cận mình?" Chúa lập luật, Chúa xét đoán, Chúa cứu được và diệt được. Chúng ta không có bất kỳ thẩm quyền nào để kết tội ai.
 
 Giăng 10:16 mở rộng tầm nhìn: "Ta còn có chiên khác chẳng thuộc về chuồng nầy; ta cũng phải dẫn nó về nữa." Hội Thánh của Chúa là Hội Thánh vô hình, rộng lớn hơn bất kỳ hệ phái nào. Thay vì diệt trừ nhau, kết tội nhau, hãy lo phần thuộc linh của chính mình, khích lệ nhau giữ đức tin, và để quyền phán xét thuộc về Đấng duy nhất có thẩm quyền ấy.

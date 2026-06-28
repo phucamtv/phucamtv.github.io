@@ -184,7 +184,7 @@ Tại sao chúng ta sẽ đến thờ phượng từ tháng này qua tháng kia?
 
 Một câu hỏi đáng lưu ý: Khi đã được sống lại trong sự bất tử và không hư nát, sao chúng ta còn cần "chữa lành"? Chữ Hy Lạp ở đây là *therapeut* — gốc của chữ "therapy". Lời giải thích hay nhất tôi tìm được là từ sách *Thiện Ác Đấu Tranh*, trang 644:
 
-> "Tất cả đều ra khỏi mồ với cùng một vóc dạng như khi họ bước vào mồ... Được phục hồi nơi cây sự sống trong vườn Ê-đen đã mất từ lâu, những kẻ được chuộc sẽ 'lớn lên' đến tầm vóc trọn vẹn của loài người trong vinh quang nguyên thủy của nó."
+> "Tất cả đều ra khỏi mồ với cùng một vóc dạng như khi họ bước vào mồ… Được phục hồi nơi cây sự sống trong vườn Ê-đen đã mất từ lâu, những kẻ được chuộc sẽ 'lớn lên' đến tầm vóc trọn vẹn của loài người trong vinh quang nguyên thủy của nó."
 
 Vậy sự "chữa lành" của lá cây không phải là chữa từ chết sang sống, mà là để dân sự của Đức Chúa Trời được lớn lên đến tầm vóc của chủng tộc nguyên thủy.
 

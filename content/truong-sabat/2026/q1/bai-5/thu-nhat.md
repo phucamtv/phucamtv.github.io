@@ -9,7 +9,7 @@ Vừa mới trình bày về Đức Chúa Giê-su như một tấm gương hoàn
 
 Sau khi trình bày tấm gương về cuộc đời của Đấng Cơ-đốc và thập tự giá như con đường dẫn đến sự cứu rỗi, Phao-lô giờ đây tập trung trực tiếp hơn vào cách thức tất cả những điều này hoạt động trong thực tế.
 
-`Đọc Phi-líp 2:12,13. Phao-lô có ý gì khi nói, "Hãy... làm nên sự cứu chuộc mình"? Bạn sẽ mô tả mối quan hệ giữa đức tin và việc làm như thế nào?`
+`Đọc Phi-líp 2:12,13. Phao-lô có ý gì khi nói, "Hãy… làm nên sự cứu chuộc mình"? Bạn sẽ mô tả mối quan hệ giữa đức tin và việc làm như thế nào?`
 
 Trong hai câu này, Phao-lô đã trình bày một lẽ thật không hề khác so với những gì ông đã viết trong Rô-ma và các bức thư khác của mình. Chúng ta có thể chắc chắn rằng sứ điệp của ông ở đây phù hợp với lẽ thật về sự cứu rỗi bởi đức tin, mà ông cũng đã rao giảng ở Phi-líp và những nơi khác. Nhưng cũng rất quan trọng khi xem xét tất cả những gì Kinh Thánh nói về một chủ đề nhất định, đặc biệt là chủ đề về sự cứu rỗi – một chủ đề rất dễ bị hiểu lầm.
 

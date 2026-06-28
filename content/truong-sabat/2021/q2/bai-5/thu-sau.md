@@ -8,7 +8,7 @@ NGHIÊN CỨU BỔ TÚC
 
 Đọc Ellen G. White, “Áp-ra-ham ở Ca-na-an” tr. 132–144 và “Thử thách đức tin” tr. 145–155, trong Tộc trưởng và Tiên tri.
 
-“Do đó, không có thử thách nhẹ nào được thực hiện trên Áp-ra-ham, không có sự hy sinh nhỏ nào được yêu cầu đối với ông... Nhưng ông không ngần ngại tuân theo tiếng gọi. Ông không có câu hỏi nào để hỏi về miền đất hứa... Đức Chúa Trời đã phán, và tôi tớ Ngài phải tuân theo; nơi hạnh phúc nhất trên trái đất đối với ông là nơi mà Chúa sẽ cho ông trú ngụ”- Ellen G. White, Tộc trưởng và Tiên tri, tr. 126.
+“Do đó, không có thử thách nhẹ nào được thực hiện trên Áp-ra-ham, không có sự hy sinh nhỏ nào được yêu cầu đối với ông… Nhưng ông không ngần ngại tuân theo tiếng gọi. Ông không có câu hỏi nào để hỏi về miền đất hứa… Đức Chúa Trời đã phán, và tôi tớ Ngài phải tuân theo; nơi hạnh phúc nhất trên trái đất đối với ông là nơi mà Chúa sẽ cho ông trú ngụ”- Ellen G. White, Tộc trưởng và Tiên tri, tr. 126.
 
 Khi Áp-ram vào Ca-na-an, trong khi Áp-ra-ham ở tại đất đó thì Chúa hiện ra với ông và nói rõ rằng vùng đất đó sẽ được ban cho dòng dõi của ông (Sáng-thế Ký 12:7). Chúa đã lặp lại lời hứa này nhiều lần (xem Sáng-thế Ký 13:14,15,17; Sáng-thế Ký 15:13,16,18; Sáng-thế Ký 17:8; Sáng-thế Ký 28:13,15; Sáng-thế Ký 35:12). Khoảng bốn trăm năm sau, để thực hiện lời hứa (Sáng-thế Ký 15:13,16), Chúa phán với Môi-se rằng Ngài sẽ đưa Y-sơ-ra-ên ra khỏi Ai Cập vào một vùng đất màu mỡ đượm sữa và mật (Xuất Ê-díp-tô Ký 3:8,17; Xuất Ê-díp-tô Ký 6:8). Đức Chúa Trời lặp lại lời hứa với Giô-suê (Giô-suê 1:3), và vào thời Đa-vít, điều đó được thực hiện phần lớn nhưng không hoàn toàn (Sáng-thế Ký 15:18–21; 2 Sa-mu-ên 8:1–14; 1 Các Vua 4:21, 1 Sử ký 19:1–19).
 

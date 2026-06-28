@@ -24,13 +24,13 @@ Nói cách khác, ngay cả tài sản chúng ta tích lũy được cũng khôn
 
 Lê-vi Ký 27:30 và 32 nói rất rõ:
 
-> "Phàm thuế một phần mười thổ sản, bất kỳ vật gieo hay là hoa quả của cây, đều thuộc về Đức Giê-hô-va; ấy là một vật thánh, biệt riêng ra cho Đức Giê-hô-va... Còn về một phần mười của bầy bò hay là chiên, tức là mọi vật chi đi ngang dưới gậy, con thứ mười sẽ là thánh, biệt riêng ra cho Đức Giê-hô-va."
+> "Phàm thuế một phần mười thổ sản, bất kỳ vật gieo hay là hoa quả của cây, đều thuộc về Đức Giê-hô-va; ấy là một vật thánh, biệt riêng ra cho Đức Giê-hô-va… Còn về một phần mười của bầy bò hay là chiên, tức là mọi vật chi đi ngang dưới gậy, con thứ mười sẽ là thánh, biệt riêng ra cho Đức Giê-hô-va."
 
 Phần mười là vật thánh và thuộc về Đức Chúa Trời theo một cách đặc biệt. Nhưng phần mười được dùng để làm gì?
 
 Dân Y-sơ-ra-ên gồm mười hai chi phái. Mỗi chi phái nhận một phần đất ở Ca-na-an để chia cho các gia đình, ngoại trừ chi phái Lê-vi. Dân Số Ký 18:20 ghi lời Đức Chúa Trời phán cùng A-rôn: "Ngươi sẽ không có cơ nghiệp trong xứ dân Y-sơ-ra-ên; và chẳng sẽ có phần cho ngươi giữa dân đó; ta là phần của ngươi, và là cơ nghiệp của ngươi giữa dân Y-sơ-ra-ên."
 
-Vậy người Lê-vi sẽ sống bằng cách nào? Câu kế tiếp trả lời: "Còn về con cháu Lê-vi, nầy ta đã ban cho làm cơ nghiệp, mọi thuế một phần mười của Y-sơ-ra-ên... đặng bù lại công việc mình làm trong hội mạc."
+Vậy người Lê-vi sẽ sống bằng cách nào? Câu kế tiếp trả lời: "Còn về con cháu Lê-vi, nầy ta đã ban cho làm cơ nghiệp, mọi thuế một phần mười của Y-sơ-ra-ên… đặng bù lại công việc mình làm trong hội mạc."
 
 Một chi tiết quan trọng cần ghi nhớ: **Đức Chúa Trời ban cho người Lê-vi phần mười**. Người Lê-vi không nhận lương từ các thành viên trong hội chúng — họ nhận lương từ chính Đức Chúa Trời. Ngày nay, có nhiều tín hữu giữ lại phần mười khi họ không hài lòng với mục sư, vì nghĩ rằng "chúng tôi trả lương cho ông". Nhưng Kinh Thánh dạy ngược lại: chính Đức Chúa Trời trả lương cho người hầu việc Ngài.
 
@@ -40,7 +40,7 @@ Một chi tiết quan trọng cần ghi nhớ: **Đức Chúa Trời ban cho ng�
 
 Một chi tiết thú vị: ngay cả người Lê-vi cũng phải dâng phần mười. Dân Số Ký 18:26 ghi:
 
-> "Ngươi cũng phải truyền cho người Lê-vi rằng: Khi nào các ngươi đã lãnh của dân Y-sơ-ra-ên thuế một phần mười... thì hãy lấy một phần mười của vật thuế một phần mười, làm của lễ dâng giơ lên cho Đức Giê-hô-va."
+> "Ngươi cũng phải truyền cho người Lê-vi rằng: Khi nào các ngươi đã lãnh của dân Y-sơ-ra-ên thuế một phần mười… thì hãy lấy một phần mười của vật thuế một phần mười, làm của lễ dâng giơ lên cho Đức Giê-hô-va."
 
 Lý do rất đơn giản: người Lê-vi là những người hầu việc Đức Chúa Trời, và họ phải làm gương cho hội chúng. Người chăn bầy không thể đòi hỏi tín hữu trung tín dâng phần mười trong khi chính mình không trung tín. Mục sư phải là tấm gương cho bầy chiên của mình.
 

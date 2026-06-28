@@ -1,5 +1,5 @@
 ---
-title: "Nếu Các Ngươi Yêu Nhau..."
+title: "Nếu Các Ngươi Yêu Nhau…"
 date: 2025-03-01
 url: /baigiang/neu-cac-nguoi-yeu-nhau/
 description: "Bài giảng suy gẫm về tình yêu thương giữa các môn đồ của Chúa dựa trên Giăng 13:35 - nếu các ngươi yêu nhau thì thiên hạ sẽ nhận biết các ngươi là môn đồ ta."

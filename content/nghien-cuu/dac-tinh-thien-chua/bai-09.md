@@ -24,7 +24,7 @@ Kinh Thánh xác nhận chân lý này qua nhiều phân đoạn:
 
 > "Chúng ta đã biết và tin sự yêu thương của Đức Chúa Trời đối với chúng ta. Đức Chúa Trời là sự yêu thương." *(1 Giăng 4:16)*
 
-> "Đấng Cao Cả, ở nơi đời đời vô cùng, danh Ngài là Thánh, có phán như vầy: Ta ngự trong nơi cao và thánh..." *(Ê-sai 57:15)*
+> "Đấng Cao Cả, ở nơi đời đời vô cùng, danh Ngài là Thánh, có phán như vầy: Ta ngự trong nơi cao và thánh…" *(Ê-sai 57:15)*
 
 > "Mọi ân điển tốt lành cùng sự ban cho trọn vẹn đều đến từ nơi cao và bởi Cha sáng láng mà xuống, trong Ngài chẳng có sự thay đổi, cũng chẳng có bóng của sự biến cải nào." *(Gia-cơ 1:17)*
 
@@ -36,11 +36,11 @@ Khi Kinh Thánh nói Đức Chúa Trời là Đấng "hôm qua, ngày nay, và c
 
 Luật pháp của tình yêu là nền tảng của chính phủ Đức Chúa Trời. Bà Ellen White mô tả tình trạng của vũ trụ trước khi tội lỗi xuất hiện:
 
-> "Luật pháp của tình yêu là nền tảng của chính phủ Đức Chúa Trời. Hạnh phúc của mọi tạo vật có lý trí tùy thuộc vào sự hòa hợp trọn vẹn của họ với những nguyên tắc lớn lao của sự công chính... Bao lâu mọi tạo vật còn nhìn nhận lòng trung thành của tình yêu thương, thì sự hòa hợp trọn vẹn ngự trị khắp vũ trụ Đức Chúa Trời." *(Tổ Phụ và Tiên Tri, tr. 34)*
+> "Luật pháp của tình yêu là nền tảng của chính phủ Đức Chúa Trời. Hạnh phúc của mọi tạo vật có lý trí tùy thuộc vào sự hòa hợp trọn vẹn của họ với những nguyên tắc lớn lao của sự công chính… Bao lâu mọi tạo vật còn nhìn nhận lòng trung thành của tình yêu thương, thì sự hòa hợp trọn vẹn ngự trị khắp vũ trụ Đức Chúa Trời." *(Tổ Phụ và Tiên Tri, tr. 34)*
 
 Đức Chúa Trời không lấy làm vui trong sự vâng phục bị ép buộc. Ngài ban cho mọi tạo vật **sự tự do của ý chí**, để họ có thể dâng lên Ngài sự phục vụ tự nguyện. Đây là một nguyên tắc nền tảng: tình yêu, sự hòa hợp, và sự bình an chân thật chỉ có thể tồn tại nơi có ý chí tự do.
 
-Thi Thiên 102:25–27 mô tả sự bất biến của Đức Chúa Trời giữa một vũ trụ đang biến đổi: "Thuở xưa Chúa lập nền trái đất, các từng trời là công việc của tay Chúa. Trời đất sẽ bị hư hoại, song Chúa hằng còn... nhưng Chúa vẫn y nguyên, các năm Chúa không hề cùng."
+Thi Thiên 102:25–27 mô tả sự bất biến của Đức Chúa Trời giữa một vũ trụ đang biến đổi: "Thuở xưa Chúa lập nền trái đất, các từng trời là công việc của tay Chúa. Trời đất sẽ bị hư hoại, song Chúa hằng còn… nhưng Chúa vẫn y nguyên, các năm Chúa không hề cùng."
 
 Gióp 38:7 cho thấy buổi tạo thiên lập địa diễn ra trong tiếng hát mừng vui: "các sao mai đồng hát hòa nhau, và các con trai Đức Chúa Trời cất tiếng reo mừng." Vũ trụ trước khi tội lỗi xâm nhập là một nơi của niềm vui, sự ca ngợi, và sự hợp nhất trọn vẹn.
 
@@ -50,7 +50,7 @@ Gióp 38:7 cho thấy buổi tạo thiên lập địa diễn ra trong tiếng h
 
 Khải Huyền và các sách tiên tri cho chúng ta biết rằng Lu-xi-phe — trước khi trở thành Sa-tan — là một tạo vật toàn hảo. Ê-xê-chi-ên 28:11–15 ghi lại lời phán của Đức Chúa Trời:
 
-> "Ngươi gồm đủ tất cả, đầy sự khôn ngoan, tốt đẹp trọn vẹn. Ngươi vốn ở trong Ê-đen, là vườn của Đức Chúa Trời... Ngươi là một chê-ru-bim được xức dầu đương che phủ; ta đã lập ngươi lên trên hòn núi thánh của Đức Chúa Trời... Đường lối ngươi trọn vẹn từ ngày ngươi được dựng nên, cho đến lúc thấy sự gian ác trong ngươi."
+> "Ngươi gồm đủ tất cả, đầy sự khôn ngoan, tốt đẹp trọn vẹn. Ngươi vốn ở trong Ê-đen, là vườn của Đức Chúa Trời… Ngươi là một chê-ru-bim được xức dầu đương che phủ; ta đã lập ngươi lên trên hòn núi thánh của Đức Chúa Trời… Đường lối ngươi trọn vẹn từ ngày ngươi được dựng nên, cho đến lúc thấy sự gian ác trong ngươi."
 
 Lu-xi-phe ở vị trí cao nhất trong các tạo vật được dựng nên. Ông được đặt làm chê-ru-bim che phủ, đứng kề ngôi Đức Chúa Trời. Ông kinh nghiệm sự bình an, sự thỏa lòng trọn vẹn, và sự chấp thuận đầy trọn của Đức Chúa Trời. Không có gì thiếu sót trong vị trí của ông.
 
@@ -62,7 +62,7 @@ Thế nhưng — "cho đến lúc thấy sự gian ác trong ngươi." Một đi
 
 Một trong những trích dẫn quan trọng nhất của bà Ellen White về tình trạng thiên đàng trước khi có sự phản nghịch nằm trong *Bài Giảng trên Núi*, trang 109:
 
-> "Ý muốn của Đức Chúa Trời được bày tỏ trong các điều răn của luật thánh Ngài, và các nguyên tắc của luật pháp này là các nguyên tắc của thiên đàng... Nhưng tại thiên đàng, sự phục vụ không được dâng lên trong tinh thần của lề luật. Khi Sa-tan nổi loạn chống lại luật pháp của Đức Giê-hô-va, ý tưởng rằng **có một luật pháp** đến với các thiên sứ gần như là một sự thức tỉnh về điều mà họ chưa từng nghĩ đến."
+> "Ý muốn của Đức Chúa Trời được bày tỏ trong các điều răn của luật thánh Ngài, và các nguyên tắc của luật pháp này là các nguyên tắc của thiên đàng… Nhưng tại thiên đàng, sự phục vụ không được dâng lên trong tinh thần của lề luật. Khi Sa-tan nổi loạn chống lại luật pháp của Đức Giê-hô-va, ý tưởng rằng **có một luật pháp** đến với các thiên sứ gần như là một sự thức tỉnh về điều mà họ chưa từng nghĩ đến."
 
 Điều này không có nghĩa là luật pháp không tồn tại trước đó. Trái lại — luật pháp ấy đã được sống ra cách tự nhiên trong sự hòa hợp đến nỗi không cần phải được "nhắc lại" hay "công bố." Các thiên sứ phục vụ Đức Chúa Trời không phải như tôi mọi mà như **con cái**. Sự vâng phục đối với họ không phải là gánh nặng, vì lòng yêu mến Đức Chúa Trời khiến sự phục vụ trở thành niềm vui.
 
@@ -106,6 +106,6 @@ Bà cũng kể lại khải tượng về một thế giới khác, nơi cư dâ
 
 Great Controversy kết thúc bằng một viễn cảnh tương ứng đối xứng với câu mở đầu của *Tổ Phụ và Tiên Tri*:
 
-> "Cuộc đại tranh chấp đã chấm dứt. Tội lỗi và tội nhân không còn nữa. Toàn vũ trụ được sạch sẽ. Một nhịp đập của sự hòa hợp và niềm vui mừng đập xuyên qua toàn bộ tạo vật bao la... Mọi vật, hữu tri và vô tri, trong vẻ đẹp không vẩn bóng và niềm vui trọn vẹn, đều tuyên bố rằng Đức Chúa Trời là tình yêu thương."
+> "Cuộc đại tranh chấp đã chấm dứt. Tội lỗi và tội nhân không còn nữa. Toàn vũ trụ được sạch sẽ. Một nhịp đập của sự hòa hợp và niềm vui mừng đập xuyên qua toàn bộ tạo vật bao la… Mọi vật, hữu tri và vô tri, trong vẻ đẹp không vẩn bóng và niềm vui trọn vẹn, đều tuyên bố rằng Đức Chúa Trời là tình yêu thương."
 
 Sự bình an, sự hòa hợp, và tình yêu thương chân thật đòi hỏi ý chí tự do. Đó là điều thế gian không hiểu, và đó là điều Đức Chúa Trời đã, đang, và sẽ mãi mãi bày tỏ qua luật pháp đời đời của Ngài.

@@ -32,7 +32,7 @@ Trong câu trả lời của mình, Đức Chúa Giê-su nêu ba luận điểm:
 2. Đức Chúa Trời có quyền năng toàn năng để làm cho kẻ chết sống lại.
 3. Quan trọng nhất, chính Torah — năm sách của Môi-se mà họ tuyên bố tin trọn vẹn — đã dạy về sự sống lại của kẻ chết.
 
-Lu-ca 20:34–38 ghi lại: *"Con cái của đời này cưới gả, nhưng những kẻ đã được kể đáng dự phần đời sau và đáng từ kẻ chết sống lại, thì không cưới vợ và cũng không lấy chồng... Còn về sự kẻ chết sống lại, Môi-se đã cho biết trong câu chuyện về Bụi gai, khi người gọi Chúa là Đức Chúa Trời của Áp-ra-ham, Đức Chúa Trời của Y-sác và Đức Chúa Trời của Gia-cốp. Vậy, Đức Chúa Trời không phải là Đức Chúa Trời của kẻ chết, nhưng của kẻ sống; vì ai nấy đều sống cho Ngài."*
+Lu-ca 20:34–38 ghi lại: *"Con cái của đời này cưới gả, nhưng những kẻ đã được kể đáng dự phần đời sau và đáng từ kẻ chết sống lại, thì không cưới vợ và cũng không lấy chồng… Còn về sự kẻ chết sống lại, Môi-se đã cho biết trong câu chuyện về Bụi gai, khi người gọi Chúa là Đức Chúa Trời của Áp-ra-ham, Đức Chúa Trời của Y-sác và Đức Chúa Trời của Gia-cốp. Vậy, Đức Chúa Trời không phải là Đức Chúa Trời của kẻ chết, nhưng của kẻ sống; vì ai nấy đều sống cho Ngài."*
 
 ---
 
@@ -44,7 +44,7 @@ Xét theo cái nhìn của chúng ta, vào thời điểm Đức Chúa Giê-su p
 
 Bà Ellen White bình luận về ý này trong *Desire of Ages* trang 606:
 
-> Đức Chúa Trời kể những điều chưa có như đã có. Ngài thấy điểm cuối từ điểm đầu, và nhìn kết quả công việc của Ngài như thể đã được hoàn tất... Tình trạng này, được dự liệu trong ý định của Ngài, được Đức Chúa Trời nhìn thấy như thể đã đang hiện hữu. Những kẻ chết sống cho Ngài.
+> Đức Chúa Trời kể những điều chưa có như đã có. Ngài thấy điểm cuối từ điểm đầu, và nhìn kết quả công việc của Ngài như thể đã được hoàn tất… Tình trạng này, được dự liệu trong ý định của Ngài, được Đức Chúa Trời nhìn thấy như thể đã đang hiện hữu. Những kẻ chết sống cho Ngài.
 
 Lưu ý: kẻ chết không sống đối với chúng ta. Kẻ chết chỉ sống đối với Đức Chúa Trời.
 
@@ -92,13 +92,13 @@ Mâu thuẫn này chỉ là bề ngoài. Khải Huyền 17:8 nói về **tiền 
 
 Sứ đồ Phi-e-rơ viết trong 1 Phi-e-rơ 1:1–2 rằng những người được chọn là *"theo sự biết trước (prognosis) của Đức Chúa Trời, là Cha."* Từ Hy-lạp *prognosis* có nghĩa là biết trước một điều gì đó — chính là gốc của từ *prognosis* trong tiếng Anh.
 
-Rô-ma 8:29 nói rõ trật tự này: *"Vì những kẻ Ngài đã biết trước, thì Ngài cũng đã định sẵn để nên giống như hình bóng Con Ngài... Ngài cũng đã gọi; những kẻ Ngài đã gọi, Ngài cũng đã xưng là công bình; những kẻ Ngài đã xưng là công bình, thì Ngài cũng đã làm cho vinh hiển."* Ngài biết trước, rồi Ngài định sẵn.
+Rô-ma 8:29 nói rõ trật tự này: *"Vì những kẻ Ngài đã biết trước, thì Ngài cũng đã định sẵn để nên giống như hình bóng Con Ngài… Ngài cũng đã gọi; những kẻ Ngài đã gọi, Ngài cũng đã xưng là công bình; những kẻ Ngài đã xưng là công bình, thì Ngài cũng đã làm cho vinh hiển."* Ngài biết trước, rồi Ngài định sẵn.
 
 Điều này soi sáng cho Rô-ma 9:10–13, nơi Đức Chúa Trời phán trước khi Gia-cốp và Ê-sau chào đời rằng anh sẽ phục em — *"Ta yêu Gia-cốp, và ghét Ê-sau."* Đây không phải là sắc lệnh chuyên quyền của Đức Chúa Trời, mà là vì Ngài biết trước những chọn lựa mà Gia-cốp và Ê-sau sẽ thực hiện. Tương tự, Đức Chúa Trời báo trước về Giu-đa cả ngàn năm trước khi sự việc xảy ra (Công Vụ Các Sứ Đồ 1:20). Đức Chúa Trời không ép Giu-đa phản bội Đức Chúa Giê-su; sẽ không công bình nếu Đức Chúa Trời lên án một người vì hành động mà người ấy không có quyền lựa chọn.
 
 Hãy hình dung một người lái tàu hỏa đến chỗ đường ray rẽ nhánh. Có hai cách để tàu rẽ: hoặc bộ chuyển hướng được điều khiển từ xa bởi một người ngoài tàu, trong trường hợp đó người lái không có lựa chọn nào; hoặc bộ chuyển hướng được người lái tàu trên tàu điều khiển, lúc đó anh ta có lựa chọn thật sự. Đức Chúa Trời biết trước chúng ta sẽ chọn sự cứu rỗi hay sự hư mất, nhưng Ngài không điều khiển từ xa thay cho chúng ta.
 
-Ê-phê-sô 1:4–5 nói Đức Chúa Trời *"đã chọn chúng ta trong Đấng Christ trước khi sáng thế... đã định trước cho chúng ta được làm con nuôi của Ngài bởi Đức Chúa Giê-su Christ."* Đức Chúa Trời biết trước chọn lựa của chúng ta, và do đó Ngài tiền định chúng ta đến sự cứu rỗi. Bà Ellen White từng viết trong nhật ký ngày 15 tháng 3 năm 1891 rằng *trong tâm trí của Đức Chúa Trời, mục vụ của nam và nữ đã hiện hữu trước khi thế giới được dựng nên* — không phải *sẽ hiện hữu*, mà là *đã hiện hữu*.
+Ê-phê-sô 1:4–5 nói Đức Chúa Trời *"đã chọn chúng ta trong Đấng Christ trước khi sáng thế… đã định trước cho chúng ta được làm con nuôi của Ngài bởi Đức Chúa Giê-su Christ."* Đức Chúa Trời biết trước chọn lựa của chúng ta, và do đó Ngài tiền định chúng ta đến sự cứu rỗi. Bà Ellen White từng viết trong nhật ký ngày 15 tháng 3 năm 1891 rằng *trong tâm trí của Đức Chúa Trời, mục vụ của nam và nữ đã hiện hữu trước khi thế giới được dựng nên* — không phải *sẽ hiện hữu*, mà là *đã hiện hữu*.
 
 ---
 

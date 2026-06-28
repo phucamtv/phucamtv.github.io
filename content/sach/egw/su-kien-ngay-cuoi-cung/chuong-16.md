@@ -11,7 +11,7 @@ summary: ""
 
 ## Không Ai Biết Khi Nào Thời Kỳ Ân Điển Sẽ Kết Thúc
 
-Đức Chúa Trời đã không bày tỏ cho chúng ta thời điểm khi nào sứ điệp này sẽ kết thúc hoặc khi nào thời kỳ ân điển sẽ chấm dứt. Những điều đã được bày tỏ thì chúng ta sẽ tiếp nhận cho chính mình và cho con cái mình, nhưng chúng ta chớ tìm cách biết những điều đã được giữ kín trong sự khôn ngoan của Đấng Toàn Năng.... LDE 227.1
+Đức Chúa Trời đã không bày tỏ cho chúng ta thời điểm khi nào sứ điệp này sẽ kết thúc hoặc khi nào thời kỳ ân điển sẽ chấm dứt. Những điều đã được bày tỏ thì chúng ta sẽ tiếp nhận cho chính mình và cho con cái mình, nhưng chúng ta chớ tìm cách biết những điều đã được giữ kín trong sự khôn ngoan của Đấng Toàn Năng.… LDE 227.1
 
 Nhiều thư đã gửi đến tôi hỏi xem tôi có ánh sáng đặc biệt nào về thời điểm khi thời kỳ ân điển sẽ kết thúc hay không, và tôi xin trả lời rằng tôi chỉ có sứ điệp này để truyền đạt, ấy là bây giờ chính là lúc phải làm việc khi ngày còn, vì đêm sắp đến là lúc không ai có thể làm việc được.—Selected Messages 1:191 (1894). LDE 227.2
 
@@ -21,7 +21,7 @@ Chúa đã chỉ cho tôi thấy rõ ràng rằng hình tượng của con thú 
 
 "Hình tượng của con thú" là gì? Và nó sẽ được hình thành như thế nào? Hình tượng được làm bởi con thú hai sừng, và là một hình tượng cho con thú. Nó cũng được gọi là hình tượng của con thú. [Con thú hai sừng trong Khải-huyền 13:11-17 làm một hình tượng cho con thú được mô tả trong Khải-huyền 13:1-10.] Vậy thì để biết hình tượng đó như thế nào và được hình thành ra sao, chúng ta phải nghiên cứu các đặc điểm của chính con thú ấy—giáo hoàng. LDE 228.1
 
-Khi Hội Thánh thời kỳ đầu trở nên bại hoại do từ bỏ sự đơn sơ của tin lành và chấp nhận các nghi lễ và phong tục ngoại giáo, Hội Thánh đã đánh mất Đức Thánh Linh và quyền năng của Đức Chúa Trời; và để kiểm soát lương tâm của dân chúng, Hội Thánh đã tìm kiếm sự ủng hộ của quyền lực thế tục. Kết quả là giáo hoàng, một Hội Thánh kiểm soát quyền lực của nhà nước, và sử dụng nó để thúc đẩy các mục đích riêng của mình, đặc biệt là để trừng phạt "tà giáo". Để Hoa Kỳ hình thành một hình tượng của con thú, quyền lực tôn giáo phải kiểm soát chính quyền dân sự đến mức quyền lực của nhà nước cũng sẽ được Hội Thánh sử dụng để hoàn thành các mục đích riêng của mình.... LDE 228.2
+Khi Hội Thánh thời kỳ đầu trở nên bại hoại do từ bỏ sự đơn sơ của tin lành và chấp nhận các nghi lễ và phong tục ngoại giáo, Hội Thánh đã đánh mất Đức Thánh Linh và quyền năng của Đức Chúa Trời; và để kiểm soát lương tâm của dân chúng, Hội Thánh đã tìm kiếm sự ủng hộ của quyền lực thế tục. Kết quả là giáo hoàng, một Hội Thánh kiểm soát quyền lực của nhà nước, và sử dụng nó để thúc đẩy các mục đích riêng của mình, đặc biệt là để trừng phạt "tà giáo". Để Hoa Kỳ hình thành một hình tượng của con thú, quyền lực tôn giáo phải kiểm soát chính quyền dân sự đến mức quyền lực của nhà nước cũng sẽ được Hội Thánh sử dụng để hoàn thành các mục đích riêng của mình.… LDE 228.2
 
 "Hình tượng của con thú" tượng trưng cho hình thức của Tin Lành bội đạo sẽ phát triển khi các Hội Thánh Tin Lành tìm kiếm sự trợ giúp của quyền lực dân sự để thi hành các giáo điều của họ.—The Great Controversy, 443, 445 (1911). LDE 228.3
 
@@ -37,18 +37,18 @@ Một thiên sứ trở về từ trái đất loan báo rằng công việc c�
 
 ## Thời Kỳ Ân Điển Sẽ Kết Thúc Cách Bất Ngờ, Không Ngờ Trước
 
-Khi Đức Chúa Giê-su ngừng cầu thay cho loài người, số phận của mọi người đều được định đoạt mãi mãi.... Thời kỳ ân điển khép lại; sự cầu thay của Đấng Christ trên thiên đàng chấm dứt. Thời điểm này cuối cùng sẽ đến bất ngờ với tất cả mọi người, và những ai đã sao lãng việc tinh sạch hóa linh hồn mình bằng cách vâng theo lẽ thật sẽ bị bắt gặp trong tình trạng ngủ mê.—Testimonies for the Church 2:191 (1868). LDE 229.4
+Khi Đức Chúa Giê-su ngừng cầu thay cho loài người, số phận của mọi người đều được định đoạt mãi mãi.… Thời kỳ ân điển khép lại; sự cầu thay của Đấng Christ trên thiên đàng chấm dứt. Thời điểm này cuối cùng sẽ đến bất ngờ với tất cả mọi người, và những ai đã sao lãng việc tinh sạch hóa linh hồn mình bằng cách vâng theo lẽ thật sẽ bị bắt gặp trong tình trạng ngủ mê.—Testimonies for the Church 2:191 (1868). LDE 229.4
 
 Khi thời kỳ ân điển kết thúc, nó sẽ đến cách bất ngờ, không ngờ trước—vào lúc chúng ta ít mong đợi nhất. Nhưng hôm nay chúng ta có thể có một hồ sơ trong sạch trên thiên đàng, và biết rằng Đức Chúa Trời chấp nhận chúng ta.—The S.D.A. Bible Commentary 7:989 (1906). LDE 230.1
 
-Khi công việc của sự phán xét tra xét kết thúc, số phận của mọi người sẽ được định đoạt cho sự sống hoặc sự chết. Thời kỳ ân điển kết thúc một thời gian ngắn trước khi Chúa hiện ra trong các đám mây trên trời.... LDE 230.2
+Khi công việc của sự phán xét tra xét kết thúc, số phận của mọi người sẽ được định đoạt cho sự sống hoặc sự chết. Thời kỳ ân điển kết thúc một thời gian ngắn trước khi Chúa hiện ra trong các đám mây trên trời.… LDE 230.2
 
 Trước cơn Đại hồng thủy, sau khi Nô-ê vào tàu, Đức Chúa Trời đóng cửa lại, nhốt ông ở bên trong và đóng cửa với những kẻ không tin kính ở bên ngoài; nhưng trong bảy ngày, dân chúng, không biết rằng số phận mình đã được định đoạt, vẫn tiếp tục cuộc sống vô tư, ham mê khoái lạc, và chế nhạo những lời cảnh cáo về sự phán xét sắp đến. Đấng Cứu Thế phán:
 
 > "và người ta không ngờ chi hết cho đến khi nước lụt tới mà đùa đem đi hết thảy, --- khi Con người đến cũng như vậy."
 > <cite>(Ma-thi-ơ 24:39)</cite>
 
-Cách thầm lặng, không ai chú ý như kẻ trộm lúc nửa đêm, giờ phút quyết định ấy sẽ đến, đánh dấu sự định đoạt số phận của mỗi người, sự rút lại cuối cùng lời mời thương xót dành cho loài người tội lỗi.... LDE 230.3
+Cách thầm lặng, không ai chú ý như kẻ trộm lúc nửa đêm, giờ phút quyết định ấy sẽ đến, đánh dấu sự định đoạt số phận của mỗi người, sự rút lại cuối cùng lời mời thương xót dành cho loài người tội lỗi.… LDE 230.3
 
 Trong khi nhà doanh nghiệp đang mải miết theo đuổi lợi lộc, trong khi kẻ ham vui đang tìm kiếm thú tiêu khiển, trong khi cô gái thời thượng đang sắp xếp trang sức của mình—có thể chính trong giờ phút ấy, Đấng Phán Xét cả thế gian sẽ tuyên bản án:
 
@@ -69,7 +69,7 @@ Lúa mì và cỏ lùng "cùng lớn lên cho đến mùa gặt." Trong khi chu 
 
 ## Sự Vô Tín Và Những Thú Vui Bị Cấm Vẫn Tiếp Diễn
 
-Chủ nghĩa hoài nghi và những điều được gọi là khoa học đã làm suy yếu đức tin của thế giới Cơ-đốc nơi Kinh Thánh đến một mức độ lớn. Sai lầm và những truyện hoang đường được vui vẻ chấp nhận, để họ có thể theo đuổi con đường thỏa mãn bản thân mà không phải lo sợ, vì họ đang cố gắng không lưu giữ Đức Chúa Trời trong tâm trí mình. Họ nói rằng: “Ngày mai sẽ như ngày hôm nay và còn dư dật hơn nữa.” Nhưng giữa sự vô tín và những thú vui không kính sợ Đức Chúa Trời của họ, tiếng kêu của thiên sứ trưởng và tiếng kèn của Đức Chúa Trời sẽ vang lên.... LDE 232.1
+Chủ nghĩa hoài nghi và những điều được gọi là khoa học đã làm suy yếu đức tin của thế giới Cơ-đốc nơi Kinh Thánh đến một mức độ lớn. Sai lầm và những truyện hoang đường được vui vẻ chấp nhận, để họ có thể theo đuổi con đường thỏa mãn bản thân mà không phải lo sợ, vì họ đang cố gắng không lưu giữ Đức Chúa Trời trong tâm trí mình. Họ nói rằng: “Ngày mai sẽ như ngày hôm nay và còn dư dật hơn nữa.” Nhưng giữa sự vô tín và những thú vui không kính sợ Đức Chúa Trời của họ, tiếng kêu của thiên sứ trưởng và tiếng kèn của Đức Chúa Trời sẽ vang lên.… LDE 232.1
 
 Khi mọi sự trong thế giới chúng ta đang bận rộn hoạt động, chìm đắm trong tham vọng ích kỷ vì lợi lộc, Đức Chúa Giê-su sẽ đến như kẻ trộm.—Manuscript 15b, 1886. LDE 232.2
 
@@ -93,7 +93,7 @@ Dầu đến lúc nào, ngày của Đức Chúa Trời sẽ đến bất ngờ 
 
 Trong cơn đại nạn, Sa-tan kích động kẻ ác, và chúng vây quanh dân sự của Đức Chúa Trời để hủy diệt họ. Nhưng nó không biết rằng chữ "tha thứ" đã được ghi bên cạnh tên của họ trong các sách trên thiên đàng.—The Review and Herald, ngày 19 tháng 11 năm 1908. LDE 234.1
 
-Như Sa-tan đã xui giục Ê-sau tiến đánh Gia-cốp, thì nó cũng sẽ kích động kẻ ác để hủy diệt dân sự của Đức Chúa Trời trong cơn đại nạn.... Nó thấy rằng các thiên sứ thánh đang canh giữ họ, và nó suy đoán rằng tội lỗi của họ đã được tha thứ, nhưng nó không biết rằng các trường hợp của họ đã được quyết định tại đền thánh ở trên cao.—The Great Controversy, 618 (1911). LDE 234.2
+Như Sa-tan đã xui giục Ê-sau tiến đánh Gia-cốp, thì nó cũng sẽ kích động kẻ ác để hủy diệt dân sự của Đức Chúa Trời trong cơn đại nạn.… Nó thấy rằng các thiên sứ thánh đang canh giữ họ, và nó suy đoán rằng tội lỗi của họ đã được tha thứ, nhưng nó không biết rằng các trường hợp của họ đã được quyết định tại đền thánh ở trên cao.—The Great Controversy, 618 (1911). LDE 234.2
 
 ## Cơn Đói Khát Lời Đức Chúa Trời
 

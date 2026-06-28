@@ -36,7 +36,7 @@ Kính sợ Đức Chúa Trời quý hơn mọi của cải trần gian. Châm Ng
 
 Vậy thực sự kính sợ Đức Chúa Trời nghĩa là gì? Theo định nghĩa, đó là tấm lòng tôn trọng, kính nể, tôn kính và thờ phượng dành cho Đức Chúa Trời. Lý do chúng ta phải có thái độ ấy là vì **Ngài là Đấng Tạo Hóa và chúng ta là tạo vật của Ngài**.
 
-Thi Thiên 33:6–9 chép: *"Các từng trời được làm nên bởi lời Đức Giê-hô-va, cả cơ binh trời bởi hơi thở của miệng Ngài mà có... Khắp thiên hạ khá kính sợ Đức Giê-hô-va; các dân thế gian hãy kinh khủng Ngài."* Tại sao phải kính sợ và run rẩy trước Ngài? Đơn giản vì Đức Chúa Trời là Đấng Tạo Hóa, còn chúng ta là loài thọ tạo.
+Thi Thiên 33:6–9 chép: *"Các từng trời được làm nên bởi lời Đức Giê-hô-va, cả cơ binh trời bởi hơi thở của miệng Ngài mà có… Khắp thiên hạ khá kính sợ Đức Giê-hô-va; các dân thế gian hãy kinh khủng Ngài."* Tại sao phải kính sợ và run rẩy trước Ngài? Đơn giản vì Đức Chúa Trời là Đấng Tạo Hóa, còn chúng ta là loài thọ tạo.
 
 Giê-rê-mi 10:6–10 mở rộng thêm ý này: *"Hỡi Đức Giê-hô-va, chẳng ai giống như Ngài! Ngài là lớn, danh Ngài có sức mạnh lớn lắm. Hỡi Vua các nước! ai chẳng nên sợ Ngài?"*
 
@@ -52,9 +52,9 @@ Kính sợ Đức Chúa Trời cũng bao gồm việc tôn kính **danh thánh**
 
 Điều răn thứ ba (Xuất Ê-díp-tô Ký 20:7) dạy: *"Ngươi chớ lấy danh Giê-hô-va Đức Chúa Trời ngươi mà làm chơi."* Trong Bài Cầu Nguyện Chung (Ma-thi-ơ 6:9), Đức Chúa Giê-su dạy: *"Danh Cha được thánh."* Người Do Thái xưa thậm chí không dám phát âm danh thánh của Đức Chúa Trời vì danh ấy quá uy nghi. Ngày nay, không chỉ phim ảnh thường xuyên lạm dụng danh Ngài, mà ngay cả Cơ-đốc nhân cũng đôi khi dùng những tiếng lóng là biến thể của danh Đức Chúa Trời hay danh Đức Chúa Giê-su, lặp đi lặp lại trong lời cầu nguyện và trò chuyện hằng ngày mà không nhận ra tính chất thiêng liêng của danh ấy.
 
-Lòng kính sợ Đức Chúa Trời cũng định hình **cách chúng ta thờ phượng**. 1 Sử Ký 16:29–30 chứa đầy đủ các từ khoá của sứ điệp thiên sứ thứ nhất: *"Hãy tôn vinh hiển cho danh Đức Giê-hô-va... hãy mặc lấy trang sức thánh khiết mà thờ lạy Đức Giê-hô-va; hỡi khắp thiên hạ, khá run sợ trước mặt Ngài."* Dâng vinh hiển — thờ phượng — kính sợ.
+Lòng kính sợ Đức Chúa Trời cũng định hình **cách chúng ta thờ phượng**. 1 Sử Ký 16:29–30 chứa đầy đủ các từ khoá của sứ điệp thiên sứ thứ nhất: *"Hãy tôn vinh hiển cho danh Đức Giê-hô-va… hãy mặc lấy trang sức thánh khiết mà thờ lạy Đức Giê-hô-va; hỡi khắp thiên hạ, khá run sợ trước mặt Ngài."* Dâng vinh hiển — thờ phượng — kính sợ.
 
-Ngày nay nhiều Hội Thánh đến nhà thờ như đi dự tiệc. Nhưng dân Y-sơ-ra-ên thờ phượng Đức Chúa Trời với lòng khiêm nhường, không kiêu ngạo. 2 Sử Ký 7:3 mô tả lễ khánh thành đền thờ: *"Hết thảy dân Y-sơ-ra-ên... đều cúi mặt sấp xuống đất trên nền lót, thờ lạy Đức Giê-hô-va và cảm tạ Ngài."* Mọi nhân vật vĩ đại trong Kinh Thánh khi gặp Đức Chúa Trời đều choáng ngợp trước sự hiện diện của Ngài. Ê-sai trong khải tượng đền thờ trên trời (Ê-sai 6) đã thốt lên: *"Khốn nạn cho tôi! Xong đời tôi rồi! Vì tôi là người có môi dơ dáy."* Môi-se bên bụi gai cháy đã cúi mặt xuống đất. Phi-e-rơ sau khi gặp Đức Chúa Giê-su phục sinh đã thưa: *"Lạy Chúa, hãy lìa khỏi tôi, vì tôi là người có tội."*
+Ngày nay nhiều Hội Thánh đến nhà thờ như đi dự tiệc. Nhưng dân Y-sơ-ra-ên thờ phượng Đức Chúa Trời với lòng khiêm nhường, không kiêu ngạo. 2 Sử Ký 7:3 mô tả lễ khánh thành đền thờ: *"Hết thảy dân Y-sơ-ra-ên… đều cúi mặt sấp xuống đất trên nền lót, thờ lạy Đức Giê-hô-va và cảm tạ Ngài."* Mọi nhân vật vĩ đại trong Kinh Thánh khi gặp Đức Chúa Trời đều choáng ngợp trước sự hiện diện của Ngài. Ê-sai trong khải tượng đền thờ trên trời (Ê-sai 6) đã thốt lên: *"Khốn nạn cho tôi! Xong đời tôi rồi! Vì tôi là người có môi dơ dáy."* Môi-se bên bụi gai cháy đã cúi mặt xuống đất. Phi-e-rơ sau khi gặp Đức Chúa Giê-su phục sinh đã thưa: *"Lạy Chúa, hãy lìa khỏi tôi, vì tôi là người có tội."*
 
 Chữ "khiêm nhường" trong tiếng La-tinh bắt nguồn từ *humus* — nghĩa là **bụi đất**. Khiêm nhường nghĩa là nhận biết rằng chúng ta chỉ là bụi đất. Mà Đức Chúa Trời đã dựng nên chúng ta từ đâu? Từ bụi đất. Khi đến thờ phượng Ngài, chúng ta nhận biết mình chỉ là bụi đất — nhưng trong mắt Ngài, là bụi đất quý giá vô cùng. Thi Thiên 9:20 chép: *"Hỡi Đức Giê-hô-va, xin hãy làm cho chúng nó sợ hãi, để các dân biết rằng mình chẳng qua là người phàm."* Câu chuyện Nê-bu-cát-nết-sa cũng minh họa điều này — khi vua kiêu căng tự nhận công lao xây dựng Ba-by-lôn, Đức Chúa Trời lập tức cất đi lý trí của ông, và sau cùng vua phải xưng nhận: *"Đức Chúa Trời trên trời có thể hạ kẻ bước đi kiêu ngạo."*
 
@@ -84,7 +84,7 @@ Phục Truyền Luật Lệ Ký 5:29 cho thấy ước ao của chính Đức Ch
 
 Khi Áp-ra-ham đưa Y-sác lên núi Mô-ri-a và sẵn sàng giơ dao lên, tiếng Chúa phán trong Sáng Thế Ký 22:12: *"Đừng tra tay vào mình con trẻ và chớ làm chi hại đến nó; vì bây giờ ta biết rằng ngươi thật kính sợ Đức Chúa Trời, bởi cớ không tiếc với ta con ngươi, tức con một ngươi."* Lòng kính sợ Đức Chúa Trời đã dẫn Áp-ra-ham đến chỗ vâng lời cho đến mức sẵn sàng dâng con mình.
 
-Về Gióp, Đức Chúa Trời phán với Sa-tan trong Gióp 1:8: *"Ngươi có nhìn thấy Gióp, tôi tớ của ta chăng? ... một người trọn vẹn và ngay thẳng, kính sợ Đức Chúa Trời, và lánh khỏi điều ác."* Kính sợ Đức Chúa Trời thì lánh khỏi điều ác. Mà điều gì cho chúng ta biết điều nào là ác? — Luật pháp thánh của Đức Chúa Trời.
+Về Gióp, Đức Chúa Trời phán với Sa-tan trong Gióp 1:8: *"Ngươi có nhìn thấy Gióp, tôi tớ của ta chăng? … một người trọn vẹn và ngay thẳng, kính sợ Đức Chúa Trời, và lánh khỏi điều ác."* Kính sợ Đức Chúa Trời thì lánh khỏi điều ác. Mà điều gì cho chúng ta biết điều nào là ác? — Luật pháp thánh của Đức Chúa Trời.
 
 Gióp 28:28 chép: *"Kính sợ Chúa, ấy là sự khôn ngoan; tránh khỏi điều ác, ấy là sự thông sáng."* Châm Ngôn 8:13 nói thẳng: *"Sự kính sợ Đức Giê-hô-va, ấy là ghét điều ác."* Châm Ngôn 16:6 và 3:7 đều xác quyết: nhờ sự kính sợ Đức Giê-hô-va mà người ta tránh khỏi điều ác.
 
@@ -102,7 +102,7 @@ Truyền Đạo 12:13–14 — phần kết của cả sách — nghe rất gầ
 
 Kinh Thánh ban những lời hứa diệu kỳ cho những người kính sợ danh Đức Chúa Trời. Ma-la-chi 3:16 chép: *"Bấy giờ những kẻ kính sợ Đức Giê-hô-va nói cùng nhau, thì Đức Giê-hô-va để ý mà nghe; và một sách để ghi nhớ được chép trước mặt Ngài cho những kẻ kính sợ Đức Giê-hô-va và tưởng đến danh Ngài."* Tên của những người kính sợ Chúa được ghi vào sách ghi nhớ.
 
-Thi Thiên 103:11–14: *"Vì hễ các từng trời cao trên đất bao nhiêu, thì sự nhân từ Ngài càng lớn cho kẻ nào kính sợ Ngài bấy nhiêu... Đức Giê-hô-va thương xót kẻ kính sợ Ngài, khác nào cha thương xót con cái mình vậy. Vì Ngài biết chúng tôi nắn nên bởi giống gì, Ngài nhớ lại rằng chúng tôi bằng bụi đất."*
+Thi Thiên 103:11–14: *"Vì hễ các từng trời cao trên đất bao nhiêu, thì sự nhân từ Ngài càng lớn cho kẻ nào kính sợ Ngài bấy nhiêu… Đức Giê-hô-va thương xót kẻ kính sợ Ngài, khác nào cha thương xót con cái mình vậy. Vì Ngài biết chúng tôi nắn nên bởi giống gì, Ngài nhớ lại rằng chúng tôi bằng bụi đất."*
 
 Chúng ta không thể kính sợ Đức Chúa Trời nếu không dành thời gian với Ngài. Chỉ khi đến biết Đức Chúa Trời, chúng ta mới có lòng tôn kính và kinh ngạc dành cho Ngài và mong muốn làm vui lòng Ngài. Càng đến gần Ngài, lòng tôn kính, kính nể và kính sợ trong chúng ta càng lớn.
 

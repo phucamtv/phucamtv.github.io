@@ -40,7 +40,7 @@ Bài học ấy nhắc nhở mỗi người: trước khi phê phán người kh
 
 ## 3. Tiếng Gọi Của Tình Yêu (câu 37-39)
 
-Sau những lời quở trách đanh thép, giọng của Đức Chúa Giê-su bỗng chuyển sang một giai điệu hoàn toàn khác. Ngài than thở: "Hỡi Giê-ru-sa-lem, Giê-ru-sa-lem... bao nhiêu lần ta muốn nhóm họp các con ngươi, như gà mái túc con mình lại ấp trong cánh, mà các ngươi chẳng khứng."
+Sau những lời quở trách đanh thép, giọng của Đức Chúa Giê-su bỗng chuyển sang một giai điệu hoàn toàn khác. Ngài than thở: "Hỡi Giê-ru-sa-lem, Giê-ru-sa-lem… bao nhiêu lần ta muốn nhóm họp các con ngươi, như gà mái túc con mình lại ấp trong cánh, mà các ngươi chẳng khứng."
 
 Hình ảnh gà mái túc con thật gần gũi và cảm động. Con gà mẹ khi ấp trứng thì nhịn ăn đến gầy mòn, chỉ lo ủ ấm cho trứng nở. Khi dẫn bầy con đi, nó bươi tìm thức ăn rồi mổ nhỏ ra cho con, tự mình không ăn. Lúc trời mưa, cả bầy gà con chui hết vào dưới đôi cánh mẹ — con nào cũng khô ráo ấm áp, trong khi gà mẹ thì ướt nhẹp. Đó chính là hình ảnh Đức Chúa Giê-su dùng để diễn tả tấm lòng của Đức Chúa Trời đối với dân sự Ngài.
 

@@ -120,7 +120,7 @@ Nhưng hãy hình dung điều gì xảy ra khi nhân loại đã chọn hệ th
 
 Phản ứng đầu tiên của họ là quay về Ba-by-lôn để tìm câu trả lời và sự bảo vệ. Nhưng khi đó, **tai vạ thứ năm giáng trực tiếp trên ngôi của con thú**:
 
-> "Thiên sứ thứ năm trút bát mình trên ngôi con thú, nước của nó bèn trở nên tối tăm; người ta đều cắn lưỡi vì đau đớn... song cũng không ăn năn việc làm của mình." (Khải Huyền 16:10-11)
+> "Thiên sứ thứ năm trút bát mình trên ngôi con thú, nước của nó bèn trở nên tối tăm; người ta đều cắn lưỡi vì đau đớn… song cũng không ăn năn việc làm của mình." (Khải Huyền 16:10-11)
 
 Nếu một người đến hứa cho bạn 100.000 đô-la để giải quyết khủng hoảng tài chính, rồi sau đó bạn phát hiện chính người ấy còn không đủ tiền mua đồ ăn — lời hứa đó còn giá trị gì? Cũng vậy, khi nhân loại nổi loạn nhìn thấy chính Ba-by-lôn cũng không thể tự cứu mình, họ nhận ra Ba-by-lôn không thể cứu họ. Đây chính là chìa khóa để hiểu tai vạ thứ sáu tiếp theo.
 

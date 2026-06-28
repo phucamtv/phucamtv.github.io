@@ -32,7 +32,7 @@ Nền tảng của sự hiệp nhất phải là tình yêu, không phải tranh
 
 Câu 15 nói Ngài đã đem thân mình mà trừ bỏ luật pháp của các điều răn chép thành điều lệ. Cần phân biệt rõ ba loại luật pháp trong Cựu Ước: luật pháp Mười Điều Răn, luật tế lễ, và luật dân sự. Luật dân sự không thể áp đặt trên đời sống Cơ-đốc nhân trong ân điển. Luật tế lễ đã được ứng nghiệm nơi Con Chiên thật trên thập tự giá. Nhưng với Mười Điều Răn, chính Đức Chúa Giê-su cũng dạy rằng muốn được cứu rỗi thì phải giữ điều răn.
 
-Vậy "luật pháp của các điều răn chép thành điều lệ" ở đây là gì? Đó chính là hàng ngàn quy định mà các giáo phái Do Thái tự đặt thêm trên nền tảng Mười Điều Răn — quy định ngày Sa-bát được làm gì, không được làm gì, đi bao xa, thế nào là hiếu kính cha mẹ... Chính những điều này đã ngăn cản con đường đức tin của người ngoại Do Thái và cản trở sự hiệp nhất.
+Vậy "luật pháp của các điều răn chép thành điều lệ" ở đây là gì? Đó chính là hàng ngàn quy định mà các giáo phái Do Thái tự đặt thêm trên nền tảng Mười Điều Răn — quy định ngày Sa-bát được làm gì, không được làm gì, đi bao xa, thế nào là hiếu kính cha mẹ… Chính những điều này đã ngăn cản con đường đức tin của người ngoại Do Thái và cản trở sự hiệp nhất.
 
 Tương tự, khi Đức Chúa Giê-su chữa lành vào ngày Sa-bát hay khi môn đệ bứt bông lúa mì, Ngài không phá bỏ điều răn — Ngài lên án những điều lệ do con người đặt thêm, và muốn chúng ta giữ điều răn trong tinh thần yêu thương. Đức Chúa Trời tạo nên luật pháp bởi tình yêu, và Ngài muốn chúng ta thực hiện tất cả bằng tình yêu.
 

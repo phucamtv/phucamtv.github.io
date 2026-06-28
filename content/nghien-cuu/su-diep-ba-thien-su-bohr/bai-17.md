@@ -50,7 +50,7 @@ Nếu Đức Chúa Trời là lửa thiêu đốt, và vinh quang Ngài là lử
 
 Ma-la-chi 4:1, 3 mô tả ngày phán xét sau cùng:
 
-> "Vì nầy, ngày đến, cháy như lò lửa. Mọi kẻ kiêu ngạo, mọi kẻ làm sự gian ác sẽ như rơm cỏ; Đức Giê-hô-va vạn quân phán: Ngày ấy đến, thiêu đốt chúng nó, chẳng để lại cho chúng nó hoặc rễ hoặc nhành... Các ngươi sẽ giày đạp những kẻ ác, vì trong ngày ta làm, chúng nó sẽ như là tro dưới bàn chân các ngươi."
+> "Vì nầy, ngày đến, cháy như lò lửa. Mọi kẻ kiêu ngạo, mọi kẻ làm sự gian ác sẽ như rơm cỏ; Đức Giê-hô-va vạn quân phán: Ngày ấy đến, thiêu đốt chúng nó, chẳng để lại cho chúng nó hoặc rễ hoặc nhành… Các ngươi sẽ giày đạp những kẻ ác, vì trong ngày ta làm, chúng nó sẽ như là tro dưới bàn chân các ngươi."
 
 Làm sao kẻ ác có thể là tro mà vẫn tiếp tục cháy đời đời? Điều đó không thể được. Tro là kết quả khi mọi thứ có thể cháy đã cháy hết. Khi đến lúc đó, lửa cũng tắt — nhưng nguồn của lửa thì không tắt, vì nguồn ấy chính là vinh quang Đức Chúa Trời.
 
@@ -96,7 +96,7 @@ Vì vậy khi Khải Huyền 20:10 nói Sa-tan sẽ chịu khổ "đời đời 
 
 Ê-xê-chi-ên 28:18-19 nói tiên tri trực tiếp về Sa-tan, kẻ chê-ru-bin che phủ:
 
-> "Ta đã khiến lửa ra từ giữa ngươi; nó đã thiêu nuốt ngươi, và ta đã làm cho ngươi trở nên tro trên đất... ngươi đã trở nên một sự kinh khiếp, và sẽ không còn nữa đời đời."
+> "Ta đã khiến lửa ra từ giữa ngươi; nó đã thiêu nuốt ngươi, và ta đã làm cho ngươi trở nên tro trên đất… ngươi đã trở nên một sự kinh khiếp, và sẽ không còn nữa đời đời."
 
 Ma quỉ sẽ bị thiêu thành tro. Hắn sẽ cháy ra tro. Theo nghĩa nào lửa là đời đời? Theo nghĩa vinh quang Đức Chúa Trời thiêu hủy Sa-tan là đời đời. Lửa tạo ra kết quả đời đời, nhưng ngay cả sau khi Sa-tan bị tiêu diệt, Đức Chúa Trời vẫn còn vinh quang Ngài; Ngài vẫn là lửa thiêu đốt đời đời.
 

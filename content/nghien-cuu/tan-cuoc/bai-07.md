@@ -60,7 +60,7 @@ Khải tượng cung cấp **mười manh mối** rất cụ thể về thế l�
 
 Suốt nhiều thế kỷ, các nhà thần học Tin Lành đã đối chiếu mười manh mối này với lịch sử và đi đến cùng một kết luận. Đây không phải lời cáo buộc mới; đây là quan điểm được đồng thuận rộng rãi trong thời Cải Chánh.
 
-Martin Luther, vốn là một tu sĩ Công Giáo, viết: "Chúng tôi xác tín rằng chế độ Giáo Hoàng là ngai của an-ti-cơ-rít thật và đích thực... Ai là 'người tội ác' và 'con của sự hư mất' nếu không phải là kẻ qua giáo lý và lễ nghi của mình mà gia tăng tội lỗi và sự hư mất của các linh hồn trong Hội Thánh, trong khi vẫn ngồi trong Hội Thánh như thể chính mình là Đức Chúa Trời?"
+Martin Luther, vốn là một tu sĩ Công Giáo, viết: "Chúng tôi xác tín rằng chế độ Giáo Hoàng là ngai của an-ti-cơ-rít thật và đích thực… Ai là 'người tội ác' và 'con của sự hư mất' nếu không phải là kẻ qua giáo lý và lễ nghi của mình mà gia tăng tội lỗi và sự hư mất của các linh hồn trong Hội Thánh, trong khi vẫn ngồi trong Hội Thánh như thể chính mình là Đức Chúa Trời?"
 
 John Calvin viết rằng những lời của Phao-lô trong 2 Tê-sa-lô-ni-ca 2 "không thể được hiểu theo bất cứ cách nào khác ngoài việc áp dụng cho chế độ Giáo Hoàng".
 
@@ -88,7 +88,7 @@ Khi đặt từng manh mối cạnh lịch sử của chế độ Giáo Hoàng, 
 
 **Khác biệt.** Pháp, Đức, Anh khởi đầu là quyền lực chính trị thuần túy. Riêng chế độ Giáo Hoàng từ lúc sinh ra đã là quyền lực tôn giáo lồng ghép với quyền lực chính trị.
 
-**Người làm đầu.** Giáo Hoàng đứng đầu hệ thống. Giáo Hoàng Leo XIII viết: "Giáo Hoàng là đầu tuyệt đối của Hội Thánh... Sự hiệp một tâm trí đòi hỏi phải hoàn toàn quy phục và vâng lời Đức Giáo Hoàng La Mã như đối với chính Đức Chúa Trời."
+**Người làm đầu.** Giáo Hoàng đứng đầu hệ thống. Giáo Hoàng Leo XIII viết: "Giáo Hoàng là đầu tuyệt đối của Hội Thánh… Sự hiệp một tâm trí đòi hỏi phải hoàn toàn quy phục và vâng lời Đức Giáo Hoàng La Mã như đối với chính Đức Chúa Trời."
 
 **Lời phạm thượng.** Tài liệu chính thức ghi: "Trên đất này, chúng ta giữ địa vị của Đức Chúa Trời toàn năng." Tự điển giáo hội định nghĩa Giáo Hoàng "không phải chỉ là một con người, mà như thể là Đức Chúa Trời, và là đại diện của Đức Chúa Trời".
 
@@ -128,7 +128,7 @@ Sách giáo lý Công Giáo trả lời thẳng thừng câu hỏi này: "Tại 
 
 Hồng Y Gibbons, một trong những thần học gia hàng đầu của Công Giáo, công nhận: "Bạn có thể đọc Kinh Thánh từ Sáng Thế Ký đến Khải Huyền và sẽ không tìm được một dòng nào cho phép thánh hóa ngày Chủ Nhật. Kinh Thánh chỉ buộc giữ ngày Thứ Bảy — ngày mà chúng tôi không bao giờ thánh hóa."
 
-Một tài liệu Công Giáo khác viết: "Chính Hội Thánh Công Giáo, bởi quyền của Đức Chúa Giê-su Christ, đã chuyển sự yên nghỉ sang Chủ Nhật... Việc người Tin Lành giữ Chủ Nhật là sự tôn vinh họ dành cho Hội Thánh Công Giáo bất kể chính họ. Nếu người Tin Lành theo Kinh Thánh, họ phải thờ phượng Đức Chúa Trời vào ngày Sa-bát, là Thứ Bảy. Khi giữ Chủ Nhật, họ đang tuân theo luật của Hội Thánh Công Giáo."
+Một tài liệu Công Giáo khác viết: "Chính Hội Thánh Công Giáo, bởi quyền của Đức Chúa Giê-su Christ, đã chuyển sự yên nghỉ sang Chủ Nhật… Việc người Tin Lành giữ Chủ Nhật là sự tôn vinh họ dành cho Hội Thánh Công Giáo bất kể chính họ. Nếu người Tin Lành theo Kinh Thánh, họ phải thờ phượng Đức Chúa Trời vào ngày Sa-bát, là Thứ Bảy. Khi giữ Chủ Nhật, họ đang tuân theo luật của Hội Thánh Công Giáo."
 
 Bản thân Hội Thánh Công Giáo công khai nhìn nhận sự thay đổi ngày Sa-bát là dấu hiệu thẩm quyền tôn giáo của họ.
 

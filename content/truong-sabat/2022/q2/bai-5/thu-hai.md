@@ -4,7 +4,7 @@ title: "Gia Phổ Trong Sáng-thế Ký"
 dayLabel: "Thứ Hai"
 weight: 3
 ---
-Thông tin về thứ tự niên đại trong thời Nô-ê khiến chúng ta nhận ra rằng Nô-ê đóng vai trò như là mối liên kết giữa các nền văn minh trước và sau nướclụt. Hai câu Kinh Thánh cuối của câu chuyện trước (Sáng-thế Ký 9:28,29) đưa chúng ta trở lại liên kết sau cùng của gia phổ A-đam (Sáng-thế Ký 5:32). Vì A-đam chết khi cha của Nô-ê là Lê-méc được 56 tuổi, nên Nô-ê chắc chắn đã nghe những câu chuyện về A-đam mà ông có thể đã truyền cho con cháu mình trước và sau nước lụt.
+Thông tin về thứ tự niên đại trong thời Nô-ê khiến chúng ta nhận ra rằng Nô-ê đóng vai trò như là mối liên kết giữa các nền văn minh trước và sau nước lụt. Hai câu Kinh Thánh cuối của câu chuyện trước (Sáng-thế Ký 9:28,29) đưa chúng ta trở lại liên kết sau cùng của gia phổ A-đam (Sáng-thế Ký 5:32). Vì A-đam chết khi cha của Nô-ê là Lê-méc được 56 tuổi, nên Nô-ê chắc chắn đã nghe những câu chuyện về A-đam mà ông có thể đã truyền cho con cháu mình trước và sau nước lụt.
 
 `Đọc Sáng thế ký 10. Mục đích của gia phổ này trong Kinh Thánh là gì? (Đọc thêm Lu-ca 3:23–38)`
 

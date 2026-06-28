@@ -22,7 +22,7 @@ Khải Huyền 7 không phải là một phân đoạn rời rạc. Nó được
 
 Khải Huyền 7:1–3 chép:
 
-> "Sau việc ấy, tôi thấy bốn vị thiên sứ đứng ở bốn góc đất, cầm bốn hướng gió lại, hầu cho không gió nào thổi trên đất, trên biển hay là trên cây nào. Tôi lại thấy một vị thiên sứ khác, từ phía mặt trời mọc mà lên, cầm ấn của Đức Chúa Trời hằng sống..."
+> "Sau việc ấy, tôi thấy bốn vị thiên sứ đứng ở bốn góc đất, cầm bốn hướng gió lại, hầu cho không gió nào thổi trên đất, trên biển hay là trên cây nào. Tôi lại thấy một vị thiên sứ khác, từ phía mặt trời mọc mà lên, cầm ấn của Đức Chúa Trời hằng sống…"
 
 Trong Kinh Thánh, **gió** thường mang ý nghĩa biểu tượng cho sự đoán phạt của Đức Chúa Trời trên các dân không tin kính. Ô-sê 13:15, Xa-cha-ri 6, Giê-rê-mi 49:36 và Đa-ni-ên 7:2–3 đều dùng hình ảnh các ngọn gió để mô tả sự xáo trộn và hình phạt giáng trên xã hội loài người. Người Do Thái thời sách Khải Huyền cũng hiểu rõ biểu tượng này — sách Ecclesiasticus (không thuộc kinh điển nhưng được người Do Thái đọc rộng rãi) viết rằng các ngọn gió được tạo ra để báo thù, và đến kỳ tận chung sẽ trút cơn giận của Đấng Tạo Hóa.
 
@@ -72,7 +72,7 @@ Số mười hai trong Kinh Thánh là biểu tượng của dân Đức Chúa T
 
 Vậy con số một ngàn có ý nghĩa gì? Trong tiếng Hê-bơ-rơ, từ **eleph** mang hai nghĩa. Trong thời bình, nó chỉ một thị tộc, một đại gia tộc. Nhưng khi Y-sơ-ra-ên ra trận, từ này mang nghĩa nghiêm ngặt là **"một ngàn" — đơn vị quân sự cơ bản**.
 
-Dân Số Ký 31:4–6 mô tả: "Các ngươi phải sai mỗi chi phái một ngàn người ra trận... Vậy trong dân Y-sơ-ra-ên người ta cứ mỗi chi phái chọn ra một ngàn lính, thành ra mười hai ngàn người sẵn sàng ra trận." Khi dân Y-sơ-ra-ên xin một vua, Sa-mu-ên cảnh báo vua sẽ đặt cho mình các quan tướng cai một ngàn và năm mươi.
+Dân Số Ký 31:4–6 mô tả: "Các ngươi phải sai mỗi chi phái một ngàn người ra trận… Vậy trong dân Y-sơ-ra-ên người ta cứ mỗi chi phái chọn ra một ngàn lính, thành ra mười hai ngàn người sẵn sàng ra trận." Khi dân Y-sơ-ra-ên xin một vua, Sa-mu-ên cảnh báo vua sẽ đặt cho mình các quan tướng cai một ngàn và năm mươi.
 
 Vậy 144.000 không phải là con số đếm đầu người, mà là **144 đơn vị quân sự**. Giăng đang mô tả dân sự Đức Chúa Trời như **Hội Thánh chiến đấu**, đã được tổ chức và sẵn sàng bước vào cơn đại nạn cuối cùng — bảy tai vạ cuối cùng và trận chiến Ha-ma-ghê-đôn — theo cách Y-sơ-ra-ên xưa được tổ chức thành các đơn vị một ngàn khi ra trận.
 

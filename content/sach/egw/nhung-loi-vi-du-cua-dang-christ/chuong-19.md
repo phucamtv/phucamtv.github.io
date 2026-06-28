@@ -73,7 +73,7 @@ Trong lời khuyên dặn Ti-mô-thê, Phao-lô, viết bởi Đức Thánh Linh
 > "hãy giảng đạo, cố khuyên, bất luận gặp thời hay không gặp thời, hãy đem lòng rất nhịn nhục mà bẻ trách, nài khuyên, sửa trị, cứ dạy dỗ chẳng thôi."
 > <cite>(II Ti-mô-thê 4:2)</cite>
 
-Và viết cho Tít, ông nói: "Vả, có nhiều người nhất là trong những người chịu cắt bì, chẳng chịu vâng phục, hay nói hư không và phỉnh dỗ... Vậy hãy quở nặng họ, hầu cho họ có đức tin vẹn lành."
+Và viết cho Tít, ông nói: "Vả, có nhiều người nhất là trong những người chịu cắt bì, chẳng chịu vâng phục, hay nói hư không và phỉnh dỗ… Vậy hãy quở nặng họ, hầu cho họ có đức tin vẹn lành."
 
 > "Vả, có nhiều người, nhứt là trong những người chịu cắt bì, chẳng chịu vâng phục, hay nói hư không và phỉnh dỗ, đáng phải bịt miệng họ đi. Họ vì mối lợi đáng bỉ mà dạy điều không nên dạy, và phá đổ cả nhà người ta. Một người trong bọn họ, tức là bậc tiên tri của họ, có nói rằng: Người Cơ-rết hay nói dối, là thú dữ, ham ăn mà làm biếng. Lời chứng ấy quả thật lắm. Vậy hãy quở nặng họ, hầu cho họ có đức tin vẹn lành,"
 > <cite>(Tít 1:10-13)</cite> COL 248.3

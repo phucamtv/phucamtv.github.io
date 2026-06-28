@@ -42,7 +42,7 @@ Nhân cơ hội này, Đức Chúa Giê-su dạy: *"Chẳng phải điều chi v
 
 Người Pha-ri-si đứng rình rập để soi mói cái bên ngoài của người khác. Ngày nay đôi khi chúng ta cũng sống như vậy — đi nhà thờ lo người ta nhìn mình mặc áo nào, để tóc kiểu nào, mang giày gì.
 
-Kinh Thánh dạy trong I Phi-e-rơ 3:3-4: *"Chớ tìm kiếm sự trang sức bề ngoài... nhưng hãy tìm kiếm sự trang sức bề trong giấu ở trong lòng, tức là sự tinh sạch chẳng hư nát của tâm thần dịu dàng im lặng, ấy là giá quí trước mặt Đức Chúa Trời."*
+Kinh Thánh dạy trong I Phi-e-rơ 3:3-4: *"Chớ tìm kiếm sự trang sức bề ngoài… nhưng hãy tìm kiếm sự trang sức bề trong giấu ở trong lòng, tức là sự tinh sạch chẳng hư nát của tâm thần dịu dàng im lặng, ấy là giá quí trước mặt Đức Chúa Trời."*
 
 Nếu nặng về hình thức bên ngoài thì nhẹ về bên trong — giống như cán cân hai đĩa. Tất cả những gì bên ngoài rồi sẽ tàn phai, nhưng tâm hồn thì còn lại. Đừng quá quan tâm đến những gì người ta nghĩ về mình; hãy quan tâm đến những gì Đức Chúa Trời nghĩ về chúng ta.
 

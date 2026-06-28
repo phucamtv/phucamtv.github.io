@@ -77,7 +77,7 @@ Chúng ta phải nhìn thấy trong lịch sử sự ứng nghiệm của lời 
 
 ## Đặc Biệt Hãy Nghiên Cứu Sách Đa-ni-ên và Khải Huyền
 
-Cần phải nghiên cứu Lời Đức Chúa Trời cách kỹ lưỡng hơn nhiều; đặc biệt sách Đa-ni-ên và Khải Huyền phải được chú ý hơn bao giờ hết.... Ánh sáng mà Đa-ni-ên đã nhận được từ Đức Chúa Trời được ban cách đặc biệt cho những ngày sau rốt này.—Testimonies to Ministers and Gospel Workers, 112, 113 (1896). LDE 15.3
+Cần phải nghiên cứu Lời Đức Chúa Trời cách kỹ lưỡng hơn nhiều; đặc biệt sách Đa-ni-ên và Khải Huyền phải được chú ý hơn bao giờ hết.… Ánh sáng mà Đa-ni-ên đã nhận được từ Đức Chúa Trời được ban cách đặc biệt cho những ngày sau rốt này.—Testimonies to Ministers and Gospel Workers, 112, 113 (1896). LDE 15.3
 
 Chúng ta hãy đọc và nghiên cứu chương thứ mười hai của sách Đa-ni-ên. Đó là một lời cảnh báo mà tất cả chúng ta cần phải hiểu trước thời kỳ cuối cùng.—Manuscript Releases 15:228 (1903). LDE 15.4
 
@@ -98,7 +98,7 @@ Có một ngày mà Đức Chúa Trời đã chỉ định cho sự kết thúc 
 > "Tin lành này về nước Đức Chúa Trời sẽ được giảng ra khắp đất, để làm chứng cho muôn dân. Bấy giờ sự cuối cùng sẽ đến."
 > <cite>(Ma-thi-ơ 24:14)</cite>
 
-Lời tiên tri đang nhanh chóng được ứng nghiệm. Nhiều, nhiều hơn nữa, cần phải được nói về những đề tài hết sức quan trọng này. Ngày sắp đến gần khi vận mệnh của các linh hồn sẽ được định đoạt mãi mãi.... LDE 16.4
+Lời tiên tri đang nhanh chóng được ứng nghiệm. Nhiều, nhiều hơn nữa, cần phải được nói về những đề tài hết sức quan trọng này. Ngày sắp đến gần khi vận mệnh của các linh hồn sẽ được định đoạt mãi mãi.… LDE 16.4
 
 Cần phải hết sức cẩn thận để giữ đề tài này trước mặt dân chúng. Sự thật trang nghiêm này phải được giữ không chỉ trước mặt dân chúng của thế gian mà còn trước mặt các Hội Thánh của chúng ta nữa, rằng ngày của Chúa sẽ đến thình lình, bất ngờ. Lời cảnh cáo đáng sợ của lời tiên tri được nói với mỗi linh hồn. Đừng ai cảm thấy mình được an toàn khỏi nguy cơ bị bất ngờ. Đừng để cho sự giải nghĩa lời tiên tri của bất cứ ai cướp đi khỏi bạn niềm xác tín về sự hiểu biết các biến cố cho thấy biến cố trọng đại này đã gần kề.—Fundamentals of Christian Education, 335, 336 (1895). LDE 16.5
 

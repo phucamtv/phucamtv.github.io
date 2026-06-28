@@ -16,6 +16,6 @@ Bây giờ chúng ta tiếp tục tìm hiểu lịch sử gia đình của Y-sá
 
 Vì Gia-cốp lừa gạt cha mình và chiếm lấy phước lành từ anh trai, nên Gia-cốp sẽ phải chạy trốn.Trong cảnh sống lưu đày, Đức Chúa Trời giáp mặt ông tại Bê-tên (Sáng-thế Ký 28:10–22). Từ đó trở đi, Gia-cốp là người lừa gạt, sẽ tự mình trải nghiệm sự lừa gạt. Thay vì Ra-chên, người mà Gia-cốp yêu thương (Sáng-thế Ký 29), thì Lê-a là người con gái lớn lại được trao cho Gia-cốp và ông phải giúp việc 14 năm để cưới vợ.
 
-Tuy vậy, trong cảnh sống lưu đày này,Gia-cốp cũng trải nghiệm được ơn phước của Đức Chúa Trời,Ngài ban cho ông 11 người con trai, và gia tăng của cải của ông.
+Tuy vậy, trong cảnh sống lưu đày này, Gia-cốp cũng trải nghiệm được ơn phước của Đức Chúa Trời, Ngài ban cho ông 11 người con trai, và gia tăng của cải của ông.
 
 Vì thế, dù cho bất cứ điều gì khác chúng ta có thể thấy trong câu chuyện này, chúng ta đều nhận thấy cách Đức Chúa Trời sẽ thực hiện các lời hứa trong giao ước của Ngài, dù là bằng cách này hay cách khác, bất kể dân sự Ngài khiếm khuyết như thế nào.

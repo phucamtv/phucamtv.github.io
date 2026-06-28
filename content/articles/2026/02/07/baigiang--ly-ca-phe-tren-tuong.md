@@ -46,7 +46,7 @@ Hằng ngày, Chúa Cứu Thế có thể đang đi ngang qua trước cửa nh�
 
 Ma-thi-ơ 6:2-4 dạy:
 
-> *"Vậy khi ngươi bố thí, đừng thổi kèn trước mặt mình, như bọn giả hình làm trong nhà hội và ngoài đường, để được người ta tôn kính... Song khi ngươi bố thí, đừng cho tay tả biết tay hữu làm việc gì, hầu cho sự bố thí được kín nhiệm, và Cha ngươi là Đấng thấy trong chỗ kín nhiệm, sẽ thưởng cho ngươi."*
+> *"Vậy khi ngươi bố thí, đừng thổi kèn trước mặt mình, như bọn giả hình làm trong nhà hội và ngoài đường, để được người ta tôn kính… Song khi ngươi bố thí, đừng cho tay tả biết tay hữu làm việc gì, hầu cho sự bố thí được kín nhiệm, và Cha ngươi là Đấng thấy trong chỗ kín nhiệm, sẽ thưởng cho ngươi."*
 
 "Thổi kèn" ở đây là nghĩa bóng — chỉ mọi hình thức phô trương, muốn người khác biết và khen ngợi mình khi làm việc tốt. Đức Chúa Giê-su chỉ ra rằng ngay cả những người có chức vụ tôn giáo cũng có thể rơi vào bẫy này.
 
@@ -68,7 +68,7 @@ Kinh Thánh không dùng chữ "cho" cũng không dùng chữ "mượn" — mà 
 
 2 Cô-rinh-tô 9:6-11 xác nhận nguyên tắc này:
 
-> *"Hễ ai gieo ít thì gặt ít, ai gieo nhiều thì gặt nhiều... Đức Chúa Trời có quyền ban cho anh em đủ mọi thứ ơn đầy dẫy, hầu cho anh em hằng đủ điều cần dùng trong mọi sự, lại còn có rời rộng nữa để làm các thứ việc lành."*
+> *"Hễ ai gieo ít thì gặt ít, ai gieo nhiều thì gặt nhiều… Đức Chúa Trời có quyền ban cho anh em đủ mọi thứ ơn đầy dẫy, hầu cho anh em hằng đủ điều cần dùng trong mọi sự, lại còn có rời rộng nữa để làm các thứ việc lành."*
 
 Đức Chúa Trời không ban cho chúng ta để chúng ta hưởng thụ một mình — Ngài ban rời rộng để chúng ta trở thành cầu nối chia sẻ ơn phước cho người khác. Và mỗi hạt giống gieo ra đều được Ngài ghi nhận đầy đủ trong sổ sách của Ngài.
 

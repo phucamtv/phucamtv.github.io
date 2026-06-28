@@ -90,7 +90,7 @@ Bạn có nhận ra cuộc nổi loạn của Cô-rê và cuộc nổi loạn c�
 
 > "Ngươi trọn vẹn trong đường lối ngươi từ ngày ngươi được dựng nên, cho đến khi tìm thấy sự gian ác trong ngươi." (Ê-xê-chi-ên 28:15)
 
-> "Hỡi sao mai, con trai của sáng sớm kia, sao ngươi từ trời sa xuống... Ta sẽ lên trên cao những đám mây, ta sẽ làm ra mình bằng Đấng Rất Cao." (Ê-sai 14:12, 14)
+> "Hỡi sao mai, con trai của sáng sớm kia, sao ngươi từ trời sa xuống… Ta sẽ lên trên cao những đám mây, ta sẽ làm ra mình bằng Đấng Rất Cao." (Ê-sai 14:12, 14)
 
 Lu-xi-phe — chê-ru-bin che phủ — đã từng đứng kề bên Đức Chúa Giê-su trong các nơi vinh hiển trên trời. Nhưng ông đã ham muốn được như Đức Chúa Trời. Ông gieo lời chỉ trích chính phủ của Đức Chúa Trời một cách tinh vi: trước hết khêu gợi sự đồng tình nơi một vài thiên sứ thân cận, rồi gom các ý tưởng ấy lại trình bày trước các thiên sứ cao cấp như thể đó là tiếng nói của nhiều thiên thể khác nhau.
 
@@ -118,7 +118,7 @@ Tội lỗi sẽ không trỗi dậy lần thứ hai. Sự nổi loạn của Lu
 
 Giăng được tỏ cho thấy điểm cuối cùng ấy:
 
-> "Ngài sẽ lau ráo hết nước mắt khỏi mắt chúng, sẽ không có sự chết, cũng không có than khóc, kêu ca hay là đau đớn nữa; vì những sự thứ nhất đã qua rồi... Mọi điều đó đã xong rồi! Ta là An-pha và Ô-mê-ga, là Đầu và Cuối." (Khải Huyền 21:4, 6)
+> "Ngài sẽ lau ráo hết nước mắt khỏi mắt chúng, sẽ không có sự chết, cũng không có than khóc, kêu ca hay là đau đớn nữa; vì những sự thứ nhất đã qua rồi… Mọi điều đó đã xong rồi! Ta là An-pha và Ô-mê-ga, là Đầu và Cuối." (Khải Huyền 21:4, 6)
 
 Đức Chúa Trời đã từng phán "thật là tốt lành" sau công cuộc sáng tạo. Đức Chúa Giê-su đã phán "mọi việc đã được trọn" trên thập tự giá. Và Ngài sẽ phán "đã xong rồi" khi muôn vật được đổi mới.
 

@@ -68,7 +68,7 @@ Vì vậy, ông dâng lên Đức Chúa Trời một trong những lời cầu n
 
 Khi Đa-ni-ên kết thúc lời cầu nguyện, Gáp-ri-ên được sai đến với câu trả lời. Cần lưu ý rằng trong Đa-ni-ên 9:1–19 không có khải tượng mới nào, không có sự xuất hiện của hữu thể thiên thượng nào — chỉ có lời cầu nguyện.
 
-Đa-ni-ên 9:20–23 cho biết khi Đa-ni-ên còn đang cầu nguyện, Gáp-ri-ên — chính thiên sứ đã hiện ra với ông trong khải tượng đoạn 8 — bay nhanh đến và phán: "Hỡi Đa-ni-ên, bây giờ ta ra để ban sự khôn sáng cho ngươi được hiểu biết... Vậy, hãy suy nghĩ sự đó và hãy hiểu biết sự hiện thấy." Chữ "sự hiện thấy" cuối cùng này chính là *marae* — phần mà Đa-ni-ên đã không hiểu được trong đoạn 8.
+Đa-ni-ên 9:20–23 cho biết khi Đa-ni-ên còn đang cầu nguyện, Gáp-ri-ên — chính thiên sứ đã hiện ra với ông trong khải tượng đoạn 8 — bay nhanh đến và phán: "Hỡi Đa-ni-ên, bây giờ ta ra để ban sự khôn sáng cho ngươi được hiểu biết… Vậy, hãy suy nghĩ sự đó và hãy hiểu biết sự hiện thấy." Chữ "sự hiện thấy" cuối cùng này chính là *marae* — phần mà Đa-ni-ên đã không hiểu được trong đoạn 8.
 
 Gáp-ri-ên không cần giải thích lại con chiên đực, con dê, sừng đáng chú ý, bốn sừng, hay sừng nhỏ trong khía cạnh địa lý và tôn giáo của nó — tất cả đã được giải nghĩa rồi. Phần duy nhất ông cần giải thích là lời tiên tri 2300 ngày.
 
@@ -82,7 +82,7 @@ Dù không xuất hiện ở chỗ khác trong Kinh Thánh Hê-bơ-rơ, từ *ch
 
 Nếu một vật được cắt ra, nó phải được cắt ra **từ một cái gì đó**. Cũng như muốn cắt một nhánh khỏi cây thì phải có cái cây. Vậy 70 tuần lễ được cắt ra từ đâu? Câu trả lời duy nhất hợp lý: từ lời tiên tri 2300 ngày — phần lời tiên tri dài hơn mà 70 tuần là khúc đầu được cắt ra.
 
-Đa-ni-ên đoạn 10:1 xác nhận điều này: "Năm thứ ba đời Si-ru, vua Phe-rơ-sơ, có một sự tỏ ra cho Đa-ni-ên... Đa-ni-ên hiểu sự đó, và **được biết ý của sự hiện thấy**." Trước lời tiên tri 70 tuần, Đa-ni-ên không hiểu *marae*; sau lời tiên tri 70 tuần, ông hiểu. Vậy 70 tuần lễ chính là chìa khóa để giải nghĩa lời tiên tri 2300 ngày.
+Đa-ni-ên đoạn 10:1 xác nhận điều này: "Năm thứ ba đời Si-ru, vua Phe-rơ-sơ, có một sự tỏ ra cho Đa-ni-ên… Đa-ni-ên hiểu sự đó, và **được biết ý của sự hiện thấy**." Trước lời tiên tri 70 tuần, Đa-ni-ên không hiểu *marae*; sau lời tiên tri 70 tuần, ông hiểu. Vậy 70 tuần lễ chính là chìa khóa để giải nghĩa lời tiên tri 2300 ngày.
 
 ---
 
@@ -120,6 +120,6 @@ Thi Thiên 133 mô tả việc xức dầu A-rôn — dầu chảy xuống râu,
 
 ## Chìa Khóa Cho Năm 1844
 
-Đa-ni-ên đoạn 10:1 chép: "Năm thứ ba đời Si-ru, vua Phe-rơ-sơ, có một sự tỏ ra cho Đa-ni-ên... Lời ấy là thật, song chỉ về một thời gian dài; và người hiểu lời đó, hiểu biết sự hiện thấy." Cuối cùng Đa-ni-ên đã hiểu *marae* — vì Gáp-ri-ên đã giải nghĩa lời tiên tri 70 tuần.
+Đa-ni-ên đoạn 10:1 chép: "Năm thứ ba đời Si-ru, vua Phe-rơ-sơ, có một sự tỏ ra cho Đa-ni-ên… Lời ấy là thật, song chỉ về một thời gian dài; và người hiểu lời đó, hiểu biết sự hiện thấy." Cuối cùng Đa-ni-ên đã hiểu *marae* — vì Gáp-ri-ên đã giải nghĩa lời tiên tri 70 tuần.
 
 Vì 70 tuần lễ là phần đầu được cắt ra từ lời tiên tri 2300 ngày, nếu chúng ta biết khi nào 70 tuần bắt đầu, chúng ta cũng biết khi nào sự tẩy sạch nơi thánh khởi đầu — 2300 năm sau đó. Ngày tháng ấy chính là năm 1844. Cụ thể hơn, qua việc nghiên cứu các lễ hội Hê-bơ-rơ, chúng ta có thể xác định cả ngày lẫn tháng: ngày 22 tháng 10 năm 1844 — khi 2300 năm kết thúc, và tiến trình tẩy sạch nơi thánh bắt đầu.

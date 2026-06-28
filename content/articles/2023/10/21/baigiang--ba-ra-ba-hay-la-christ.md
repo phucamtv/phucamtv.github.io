@@ -48,7 +48,7 @@ Có khi chúng ta không chọn Chúa vì sợ khác biệt với người xung 
 
 Giô-suê 24:15 ghi lại lời Giô-suê nói với dân Y-sơ-ra-ên sau khi vào đất hứa:
 
-> *"Nếu chẳng thích cho các ngươi phục sự Đức Giê-hô-va, thì ngày nay hãy chọn ai mà mình muốn phục sự... nhưng ta và nhà ta sẽ phục sự Đức Giê-hô-va."*
+> *"Nếu chẳng thích cho các ngươi phục sự Đức Giê-hô-va, thì ngày nay hãy chọn ai mà mình muốn phục sự… nhưng ta và nhà ta sẽ phục sự Đức Giê-hô-va."*
 
 Chúa không ép buộc chúng ta. Ngài ban cho chúng ta quyền tự do lựa chọn — phục sự Chúa hay phục sự ma quỷ, chuẩn bị cho nước Thiên Đàng hay tiếp tục sống trong tội lỗi. Nhưng Chúa đang mong muốn dẫn dắt con cái Ngài trong vòng tay yêu thương.
 

@@ -32,7 +32,7 @@ Hãy nhìn sang người Nhật Bản nghiêng mình chào nhau, người Hàn Q
 
 ## Sự Bất Hiếu — Điều Đáng Sợ Nhất
 
-Phục Truyền Luật Lệ Ký 27:16 cảnh báo: *"Đáng rủa sả thay cho người nào khinh bỉ cha mẹ mình."* Ma-thi-ơ 15:4 còn ghi: *"Phải hiếu kính cha mẹ ngươi... ai mắng nhiếc cha mẹ thì phải chết."*
+Phục Truyền Luật Lệ Ký 27:16 cảnh báo: *"Đáng rủa sả thay cho người nào khinh bỉ cha mẹ mình."* Ma-thi-ơ 15:4 còn ghi: *"Phải hiếu kính cha mẹ ngươi… ai mắng nhiếc cha mẹ thì phải chết."*
 
 Hiếu thảo không chỉ là nuôi cha mẹ ăn. Hiếu thảo là làm cho cha mẹ vui, là dành thời gian ngồi bên họ — nghe ông bà kể đi kể lại câu chuyện cũ hai ba mươi lần. Ngày nào còn được ngồi bên cha mẹ già, dù lẩm cẩm, dù hay quên — đó là hạnh phúc.
 

@@ -30,7 +30,7 @@ Nhưng lời hứa trong Ê-xê-chi-ên 36:26-27 mang đến hy vọng: Đức C
 
 ## 2. Nhận Ra Mình — Biết Rõ Con Người Thật
 
-> *"Còn anh em đã chết vì lầm lỗi và tội ác mình..."* — Ê-phê-sô 2:1
+> *"Còn anh em đã chết vì lầm lỗi và tội ác mình…"* — Ê-phê-sô 2:1
 
 Mỗi ngày chúng ta nhìn gương và thấy khuôn mặt quen thuộc, nhưng liệu chúng ta có thật sự nhận ra chính mình về mặt tâm linh? Cuộc sống thay đổi, hoàn cảnh thay đổi, và đôi khi chúng ta không còn nhận ra con người thật của mình nữa. Sa-tan luôn muốn chúng ta mù lòa về tình trạng thuộc linh thật sự. Kinh Thánh nhắc nhở rằng trước khi gặp Chúa, tất cả chúng ta đều sống theo tư dục xác thịt. Nhận ra điều đó là bước đầu tiên để được biến đổi.
 

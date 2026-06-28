@@ -16,7 +16,7 @@ Sự nghiên cứu về nghĩa bóng của các lời tiên tri trong tuần nà
 
 `Đọc Đa-ni-ên 7:9-14; 8:14, 26. Điều gì xảy ra ở trên trời như được mô tả trong những câu Kinh Thánh này?`
 
-Sau thời kỳ bức hại thời trung cổ, chấm dứt vào năm 1798, với sự kiện tướng Berthier bắt giữ và giam cầm Giáo hoàng (Khải Huyền 13:3), Đa-ni-ên 7 và 8 nói về sự phán xét. Sự phán xét xảy ra trên trời nơi “Sự xét đoán đã sắm sẵn” (Đa-ni-ên 7:10) và “một người giống như Con Người, đến với những đám mây trên trời... tới đến Đấng Thượng cổ” (Đa-ni-ên 7:13). Đây là cảnh phán xét xảy ra sau năm 1798 và trước khi Đức Chúa Giê-su tái lâm.
+Sau thời kỳ bức hại thời trung cổ, chấm dứt vào năm 1798, với sự kiện tướng Berthier bắt giữ và giam cầm Giáo hoàng (Khải Huyền 13:3), Đa-ni-ên 7 và 8 nói về sự phán xét. Sự phán xét xảy ra trên trời nơi “Sự xét đoán đã sắm sẵn” (Đa-ni-ên 7:10) và “một người giống như Con Người, đến với những đám mây trên trời… tới đến Đấng Thượng cổ” (Đa-ni-ên 7:13). Đây là cảnh phán xét xảy ra sau năm 1798 và trước khi Đức Chúa Giê-su tái lâm.
 
 Cảnh phán xét trong Đa-ni-ên 7 song song với việc làm sạch đền thánh trong Đa-ni-ên 8:14. Cả hai đều nói về cùng một sự việc. Theo Đa-ni-ên 8:14, thời gian “nơi thánh được thanh sạch”, đó là thuật ngữ của Ngày Chuộc Tội, 2.300 buổi chiều và buổi mai, hay 2.300 ngày. Theo nguyên tắc một năm - một ngày, thì những ngày này tượng trưng cho 2.300 năm.
 

@@ -80,7 +80,7 @@ Không phải ngẫu nhiên mà bộ ba giả mạo cuối thời sẽ làm phé
 
 ## Cái chén thứ bảy và sự sụp đổ của Ba-by-lôn
 
-> "Có những chớp nhoáng, tiếng động, sấm sét và một cơn động đất lớn... Thành phố lớn bị chia làm ba phần, và các thành của các nước đều đổ nát. Đức Chúa Trời nhớ lại Ba-by-lôn lớn để cho nó uống chén rượu thạnh nộ Ngài." (Khải Huyền 16:18–19)
+> "Có những chớp nhoáng, tiếng động, sấm sét và một cơn động đất lớn… Thành phố lớn bị chia làm ba phần, và các thành của các nước đều đổ nát. Đức Chúa Trời nhớ lại Ba-by-lôn lớn để cho nó uống chén rượu thạnh nộ Ngài." (Khải Huyền 16:18–19)
 
 Kết cục của trận chiến Ha-ma-ghê-đôn là sự sụp đổ của Ba-by-lôn. Việc thành phố bị chia làm ba phần mang ý nghĩa biểu tượng quan trọng: Ba-by-lôn được cấu thành từ ba phần — rồng, thú, và tiên tri giả. Việc bị chia làm ba phần cho thấy **bộ ba giả mạo sẽ bị tiêu diệt hoàn toàn**.
 

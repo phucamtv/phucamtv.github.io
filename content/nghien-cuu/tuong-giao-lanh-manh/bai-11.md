@@ -35,7 +35,7 @@ Martin lớn lên trong một gia đình trung lưu thấp tại Ấn Độ. Ti�
 
 Từ nhỏ, cha mẹ Debbie đã dạy cô về việc trả lại phần mười cho Đức Chúa Trời. Đó không phải là điều con người "trả công" cho Đức Chúa Trời, mà là việc dâng lại phần đã thuộc về Ngài.
 
-> "Hãy đem hết thảy phần mười vào kho... và từ nay hãy lấy điều này mà thử ta, Đức Giê-hô-va vạn quân phán, xem ta có mở các cửa sổ trên trời cho các ngươi, đổ phước xuống cho các ngươi đến nỗi không chỗ chứa chăng!" (Ma-la-chi 3:10)
+> "Hãy đem hết thảy phần mười vào kho… và từ nay hãy lấy điều này mà thử ta, Đức Giê-hô-va vạn quân phán, xem ta có mở các cửa sổ trên trời cho các ngươi, đổ phước xuống cho các ngươi đến nỗi không chỗ chứa chăng!" (Ma-la-chi 3:10)
 
 Năm 10 tuổi, Debbie đã dâng 100 đô la — toàn bộ số tiền tiết kiệm — cho công việc truyền giáo. Vài tháng sau, cô nhận lại gấp đôi. Đây là nguyên tắc đầu tiên và quan trọng nhất: Đức Chúa Trời ban phước cho người trung tín dâng hiến.
 

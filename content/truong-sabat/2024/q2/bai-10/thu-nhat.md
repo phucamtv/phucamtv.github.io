@@ -10,7 +10,7 @@ weight: 2
 
 `Chỉ riêng câu Kinh Thánh này cho chúng ta biết điều gì về sự bất tử của linh hồn?`
 
-Chúa cấm dân sự Ngài tham gia vào bất kỳ sự cầu vong nào. Vì họ sẽ không được Ngài chấp nhận: “Ở giữa ngươi chớ nên có ... thầy bói, thầy phù thủy, thầy pháp, kẻ hay dùng ếm chú, người đi hỏi đồng cốt, kẻ thuật số, hay là kẻ đi cầu vong” (Phục truyền 18:11,12). Những người như vậy sẽ bị ném đá cho đến chết (Lê-vi Ký 20:27). Hình phạt có vẻ vô cùng khắc nghiệt nhưng nó được thiết lập để bảo vệ dân Y-sơ-ra-ên khỏi sự thờ các thần giả dối.
+Chúa cấm dân sự Ngài tham gia vào bất kỳ sự cầu vong nào. Vì họ sẽ không được Ngài chấp nhận: “Ở giữa ngươi chớ nên có … thầy bói, thầy phù thủy, thầy pháp, kẻ hay dùng ếm chú, người đi hỏi đồng cốt, kẻ thuật số, hay là kẻ đi cầu vong” (Phục truyền 18:11,12). Những người như vậy sẽ bị ném đá cho đến chết (Lê-vi Ký 20:27). Hình phạt có vẻ vô cùng khắc nghiệt nhưng nó được thiết lập để bảo vệ dân Y-sơ-ra-ên khỏi sự thờ các thần giả dối.
 
 Phù thủy là ma quỷ. Nó dụ dỗ con người đến sự thờ phượng sai lầm và tạo ra mối quan hệ giả mạo với Đức Chúa Trời, đồng thời nó cũng không bao giờ có thể đáp ứng những nhu cầu sâu xa nhất của tâm hồn. Vong hồn hiện thuyết là trọng tâm trong kế hoạch của Sa-tan nhằm nắm giữ thế giới. Nhưng Đức Chúa Giê-su, bằng quyền năng và ân điển của Ngài, đã giải thoát những kẻ bị giam cầm khỏi xiềng xích của cái ác đang trói buộc họ.
 

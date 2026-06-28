@@ -32,7 +32,7 @@ Vấn đề chính của cách giải thích truyền thống là người ta ch
 
 Nếu mở Khải Huyền 12 ra, chúng ta sẽ thấy rằng câu 9 nói Sa-tan bị quăng khỏi thiên đàng, nhưng bản văn tiếp tục từ câu 10 đến câu 12. Sau khi Sa-tan bị trục xuất, có một sự vui mừng lớn trên thiên đàng. Sứ đồ Giăng còn ghi lại nội dung bài ca được nghe nơi thiên đàng:
 
-> "Bây giờ sự cứu rỗi, quyền năng và nước của Đức Chúa Trời chúng ta đã đến cùng quyền phép của Đấng Christ Ngài..."
+> "Bây giờ sự cứu rỗi, quyền năng và nước của Đức Chúa Trời chúng ta đã đến cùng quyền phép của Đấng Christ Ngài…"
 
 Xin hỏi cách thành thật: khi Lu-xi-phe ban đầu nổi loạn chống Đức Chúa Trời và bị quăng khỏi thiên đàng, có phải đó là lúc thiên đàng cất tiếng hát rằng *sự cứu rỗi, quyền năng và nước của Đức Chúa Trời đã đến* không?
 
@@ -78,7 +78,7 @@ Kể từ giây phút đó, theo Tân Ước, hành tinh trái đất trở thà
 
 ## Bài ca trên thiên đàng trở nên có ý nghĩa
 
-Chỉ khi hiểu như vậy, bài ca trong Khải Huyền 12:10 mới thực sự có ý nghĩa: *"Bây giờ sự cứu rỗi, quyền năng và nước của Đức Chúa Trời chúng ta đã đến cùng quyền phép của Đấng Christ Ngài..."* Đây chính là quyền phép mà Đức Chúa Giê-su đã công bố trong Ma-thi-ơ 28: *"Hết cả quyền phép ở trên trời và dưới đất đã giao cho ta."* Vì Đức Chúa Giê-su đã ngự trên ngai thiên đàng, Ngài đang chiếm chỗ đó với tư cách Vua và Thầy Tế Lễ của chúng ta, cầu thay cho chúng ta và cai trị trên chúng ta. Sa-tan đã mất quyền của nó: nó không còn là kẻ cai trị trái đất, nó không còn ai để đại diện trong nơi thiên thượng.
+Chỉ khi hiểu như vậy, bài ca trong Khải Huyền 12:10 mới thực sự có ý nghĩa: *"Bây giờ sự cứu rỗi, quyền năng và nước của Đức Chúa Trời chúng ta đã đến cùng quyền phép của Đấng Christ Ngài…"* Đây chính là quyền phép mà Đức Chúa Giê-su đã công bố trong Ma-thi-ơ 28: *"Hết cả quyền phép ở trên trời và dưới đất đã giao cho ta."* Vì Đức Chúa Giê-su đã ngự trên ngai thiên đàng, Ngài đang chiếm chỗ đó với tư cách Vua và Thầy Tế Lễ của chúng ta, cầu thay cho chúng ta và cai trị trên chúng ta. Sa-tan đã mất quyền của nó: nó không còn là kẻ cai trị trái đất, nó không còn ai để đại diện trong nơi thiên thượng.
 
 Dù vậy, Sa-tan vẫn hoạt động. Khải Huyền 12:17 nói về một Sa-tan thịnh nộ — một kẻ thù giận dữ với người đàn bà, tức Hội Thánh — và chuẩn bị chiến tranh với *con cháu còn lại* của người đàn bà. Đặc điểm của những con cháu đó là: họ vâng giữ các điều răn của Đức Chúa Trời và có đức tin nơi Đức Chúa Giê-su. Chỉ có đức tin mới giữ chúng ta được an toàn và đứng về phía Đức Chúa Trời.
 
@@ -88,7 +88,7 @@ Dù vậy, Sa-tan vẫn hoạt động. Khải Huyền 12:17 nói về một Sa-
 
 Một số người sẽ hỏi: Ellen White đã nói gì về điều này? Trong *Seventh Day Adventist Bible Commentary*, tập 7, trang 973-974, bà viết:
 
-> "Việc đuổi Sa-tan với tư cách là kẻ kiện cáo anh em được hoàn thành nhờ công việc lớn lao của Đấng Christ trong sự dâng nộp mạng sống Ngài, bất chấp sự chống đối kiên trì của Sa-tan. Chương trình cứu chuộc đang được thực hiện. Loài người được xem là có giá trị đủ để Đấng Christ hy sinh mạng sống vì họ. Sa-tan, biết rằng cõi mà nó đã chiếm cuối cùng sẽ bị giật khỏi tay nó, quyết định không chừa một nỗ lực nào để hủy diệt càng nhiều càng tốt những tạo vật mà Đức Chúa Trời đã tạo dựng theo hình ảnh Ngài... Nó tiếp tục đường lối của mình với năng lượng càng dữ dội hơn vì tình trạng tuyệt vọng của chính nó."
+> "Việc đuổi Sa-tan với tư cách là kẻ kiện cáo anh em được hoàn thành nhờ công việc lớn lao của Đấng Christ trong sự dâng nộp mạng sống Ngài, bất chấp sự chống đối kiên trì của Sa-tan. Chương trình cứu chuộc đang được thực hiện. Loài người được xem là có giá trị đủ để Đấng Christ hy sinh mạng sống vì họ. Sa-tan, biết rằng cõi mà nó đã chiếm cuối cùng sẽ bị giật khỏi tay nó, quyết định không chừa một nỗ lực nào để hủy diệt càng nhiều càng tốt những tạo vật mà Đức Chúa Trời đã tạo dựng theo hình ảnh Ngài… Nó tiếp tục đường lối của mình với năng lượng càng dữ dội hơn vì tình trạng tuyệt vọng của chính nó."
 
 Những lời này giải thích chính điều chúng ta đọc trong Khải Huyền 12:17: Sa-tan giận dữ vì biết rằng số phận của nó đã được quyết định.
 

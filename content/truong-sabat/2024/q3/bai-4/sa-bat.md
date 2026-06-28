@@ -14,7 +14,7 @@ Mác 4:1-34; Gia-cơ 1:21; Ê-sai 6:1-13; Thi Thiên 104:12; Đa-ni-ên 4:10-12.
 
 Bài học tuần này đề cập đến các dụ ngôn¹ trong Mác 4. Phúc Âm Mác có ít dụ ngôn nhất trong các Phúc Âm Khái quát (Ma-thi-ơ, Mác, Lu-ca).
 
-Trong nhiều năm, các học giả đã tranh luận về ý nghĩa và cách giải thích các dụ ngôn của Đức Chúa Giê-su: Làm thế nào để giải thích chúng, chúng có ý nghĩa gì, tại sao Đức Chúa Giê-su sử dụng chúng, chúng đưa ra những bài học gì, và chúng phải được hiểu nghĩa đen như thế nào, hoặc liệu chúng có thuần túy là dụ ngôn...
+Trong nhiều năm, các học giả đã tranh luận về ý nghĩa và cách giải thích các dụ ngôn của Đức Chúa Giê-su: Làm thế nào để giải thích chúng, chúng có ý nghĩa gì, tại sao Đức Chúa Giê-su sử dụng chúng, chúng đưa ra những bài học gì, và chúng phải được hiểu nghĩa đen như thế nào, hoặc liệu chúng có thuần túy là dụ ngôn…
 
 Rõ ràng là chúng ta sẽ không giải quyết chừng ấy vấn đề trong bài học tuần này. Thay vào đó, chúng ta sẽ xem xét chúng, và, nhờ ơn Đức Chúa Trời, chúng ta sẽ hiểu được tư tưởng mà Đức Chúa Giê-su dạy dỗ qua các dụ ngôn này.
 

@@ -46,7 +46,7 @@ Mỗi bên lại chia ra hai nhóm nhỏ hơn: những người hiểu rõ đi�
 
 ### Từ Đa Thần Đến Nhất Thần
 
-Nhiều nền văn minh có những truyền thuyết thần thoại với nhiều vị thần: thần tình yêu, thần mưa nắng, thần bão tố, thần lửa... Tâm lý con người thường thích thờ nhiều thần — thấy gì linh thiêng, đáng sợ là sẵn sàng thờ. Từ quan điểm đa thần đó, người ta dần lãng quên rằng chỉ có một Đấng Tạo Hóa đáng được thờ phượng.
+Nhiều nền văn minh có những truyền thuyết thần thoại với nhiều vị thần: thần tình yêu, thần mưa nắng, thần bão tố, thần lửa… Tâm lý con người thường thích thờ nhiều thần — thấy gì linh thiêng, đáng sợ là sẵn sàng thờ. Từ quan điểm đa thần đó, người ta dần lãng quên rằng chỉ có một Đấng Tạo Hóa đáng được thờ phượng.
 
 Trong Công-vụ các Sứ-đồ 14:15, khi dân chúng tại Lít-trơ tưởng Phao-lô và Ba-na-ba là thần hiện xuống, Phao-lô đã nói rõ: chúng tôi chỉ là loài người giống như các bạn, giảng Tin Lành cho các bạn để trở về cùng Đức Chúa Trời hằng sống — Đấng đã dựng nên trời đất biển và muôn vật.
 

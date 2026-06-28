@@ -86,9 +86,9 @@ Một số người hiểu rằng "thần linh trở về cùng Đức Chúa Tr�
 
 Lu-ca 8:54–55 kể chuyện con gái Giai-ru: khi Đức Chúa Giê-su gọi cô bé sống lại, *"thần linh của cô bé trở lại"* — không phải bất kỳ thần linh nào, mà là chính thần linh của cô. Cô bé nhận ra cha mẹ mình và còn đói bụng. Trong Công Vụ 7:59, Ê-tiên kêu cầu: *"Lạy Đức Chúa Giê-su, xin tiếp lấy linh hồn tôi."* Lu-ca 23:46 ghi Đức Chúa Giê-su nói: *"Hỡi Cha, tôi giao linh hồn lại trong tay Cha."* Trong cả ba trường hợp đều là **của tôi** — bản sắc cá nhân, không chỉ là hơi thở.
 
-Bà Ellen White viết: *"Bản sắc cá nhân của chúng ta được giữ gìn trong sự sống lại... Thần linh, tánh hạnh của con người được trở về với Đức Chúa Trời để được gìn giữ. Trong sự sống lại, mỗi người sẽ có tánh hạnh riêng của mình."*
+Bà Ellen White viết: *"Bản sắc cá nhân của chúng ta được giữ gìn trong sự sống lại… Thần linh, tánh hạnh của con người được trở về với Đức Chúa Trời để được gìn giữ. Trong sự sống lại, mỗi người sẽ có tánh hạnh riêng của mình."*
 
-Gióp 19:25–27 bày tỏ niềm tin này: *"Tôi biết rằng Đấng Cứu Chuộc tôi vẫn sống... Sau khi da tôi bị tan nát, tôi vẫn sẽ thấy Đức Chúa Trời trong xác thịt mình. Chính tôi sẽ thấy Ngài, mắt tôi sẽ nhìn xem Ngài, chớ chẳng phải kẻ khác."* Khi sống lại, Gióp sẽ vẫn là chính Gióp.
+Gióp 19:25–27 bày tỏ niềm tin này: *"Tôi biết rằng Đấng Cứu Chuộc tôi vẫn sống… Sau khi da tôi bị tan nát, tôi vẫn sẽ thấy Đức Chúa Trời trong xác thịt mình. Chính tôi sẽ thấy Ngài, mắt tôi sẽ nhìn xem Ngài, chớ chẳng phải kẻ khác."* Khi sống lại, Gióp sẽ vẫn là chính Gióp.
 
 Điều này cũng đúng với kẻ ác. *Thiện Ác Đấu Tranh* trang 664 mô tả những vua chúa và tướng lãnh khi sống lại sau một ngàn năm: *"Trong sự chết, họ không hề thay đổi. Khi từ mồ mả ra, họ tiếp tục dòng tư tưởng của mình ngay tại nơi đã ngừng lại."* Họ vẫn bị thúc đẩy bởi cùng những tham vọng đã chi phối họ khi còn sống.
 

@@ -36,7 +36,7 @@ Khi Đức Chúa Giê-su lập Tiệc Thánh thay cho Lễ Vượt Qua, Ngài ph
 
 Đức Chúa Giê-su lập giao ước mạnh với nhiều người trong trọn một tuần lễ — tức bảy năm. Điều này có nghĩa là thời kỳ ân điển dành cho dân Do Thái không kết thúc khi Đức Chúa Giê-su bị đóng đinh, vì lúc đó mới chỉ là giữa tuần lễ cuối cùng. Còn ba năm rưỡi nữa.
 
-Trong Ma-thi-ơ 23:34, chỉ vài ngày trước khi chịu chết, Đức Chúa Giê-su phán: "Vậy nên, nầy, Ta sai các đấng tiên tri, kẻ khôn ngoan, và thầy thông giáo đến cùng các ngươi; trong những người ấy, kẻ thì các ngươi sẽ giết và đóng đinh trên thập tự giá, kẻ thì các ngươi sẽ đánh đập trong nhà hội mình, và đuổi bắt từ thành nầy qua thành kia." Sau khi sai thêm những sứ giả này, bản án mới được tuyên: "hầu cho hết thảy huyết người công bình đổ ra trên đất... đều đổ về các ngươi."
+Trong Ma-thi-ơ 23:34, chỉ vài ngày trước khi chịu chết, Đức Chúa Giê-su phán: "Vậy nên, nầy, Ta sai các đấng tiên tri, kẻ khôn ngoan, và thầy thông giáo đến cùng các ngươi; trong những người ấy, kẻ thì các ngươi sẽ giết và đóng đinh trên thập tự giá, kẻ thì các ngươi sẽ đánh đập trong nhà hội mình, và đuổi bắt từ thành nầy qua thành kia." Sau khi sai thêm những sứ giả này, bản án mới được tuyên: "hầu cho hết thảy huyết người công bình đổ ra trên đất… đều đổ về các ngươi."
 
 Đức Chúa Giê-su cũng cho biết chính xác thời điểm Đấng Mê-si sẽ bị trừ đi: "vào giữa tuần lễ." Giữa tuần lễ cuối cùng — giữa năm 27 và năm 31 SCN — Ngài sẽ "khiến của lễ và lễ vật chấm dứt."
 
@@ -58,7 +58,7 @@ Con chiên thoát đi vào chính lúc Đức Chúa Giê-su chết — "hình b�
 
 ## Sự tàn phá Giê-ru-sa-lem và sự gớm ghiếc tàn nát
 
-Ngay sau khi nói về việc chấm dứt của lễ, Đa-ni-ên 9:27 nói đến sự tàn phá Giê-ru-sa-lem: "trên cánh của những điều gớm ghiếc, sẽ có kẻ làm cho hoang tàn." Hai chữ chìa khóa "gớm ghiếc" và "hoang tàn" cũng xuất hiện trong Ma-thi-ơ 24:15–16, khi Đức Chúa Giê-su cảnh báo: "Khi các ngươi sẽ thấy sự gớm ghiếc tàn nát... đứng trong nơi thánh, thì những kẻ ở trong xứ Giu-đê hãy trốn lên núi."
+Ngay sau khi nói về việc chấm dứt của lễ, Đa-ni-ên 9:27 nói đến sự tàn phá Giê-ru-sa-lem: "trên cánh của những điều gớm ghiếc, sẽ có kẻ làm cho hoang tàn." Hai chữ chìa khóa "gớm ghiếc" và "hoang tàn" cũng xuất hiện trong Ma-thi-ơ 24:15–16, khi Đức Chúa Giê-su cảnh báo: "Khi các ngươi sẽ thấy sự gớm ghiếc tàn nát… đứng trong nơi thánh, thì những kẻ ở trong xứ Giu-đê hãy trốn lên núi."
 
 Lu-ca 21:20 là phân đoạn song song và làm rõ ý nghĩa: "Khi các ngươi sẽ thấy quân lính vây Giê-ru-sa-lem, hãy biết sự tàn phá thành ấy gần đến." Quân La-mã chính là sự gớm ghiếc tàn nát đó. Khi Đức Chúa Giê-su rời đền thờ, Ngài phán trong Ma-thi-ơ 23:38: "Nhà các ngươi sẽ bỏ hoang." Cùng một chữ Hê-bơ-rơ — "hoang tàn" — được dùng trong Đa-ni-ên 9:27. Sự tàn phá Giê-ru-sa-lem là hậu quả trực tiếp của việc dân Do Thái đã chối bỏ Đấng Mê-si.
 
@@ -95,7 +95,7 @@ Dù đã ba năm rưỡi sau khi Đức Chúa Giê-su chịu đóng đinh, lòng
 
 "Các kẻ làm chứng lấy áo xống mình để dưới chân một người trẻ tuổi tên là Sau-lơ" (Công Vụ Các Sứ Đồ 7:58). Đó là khoảnh khắc thể chế thần quyền của Y-sơ-ra-ên đã chấm dứt. Đức Chúa Trời đã chọn Y-sơ-ra-ên để chuẩn bị thế giới cho sự đến của Đấng Mê-si. Họ đã không hoàn thành sứ mạng đó. Vì vậy sứ điệp giờ đây phải đến với thế giới dân ngoại — và Đức Chúa Trời đã có sẵn người chiến sĩ cho dân ngoại: Sau-lơ thành Tạt-sơ.
 
-Trong dụ ngôn về vườn nho, Đức Chúa Giê-su đã báo trước: "Nước Đức Chúa Trời sẽ cất khỏi các ngươi, mà cho một dân khác là dân sẽ có kết quả của nước đó." Trong Công Vụ Các Sứ Đồ 22:20–21, chính Phao-lô làm chứng: "Khi Ê-tiên là kẻ làm chứng cho Chúa bị đổ huyết, tôi cũng có mặt tại đó, đành lòng về sự đó... Chúa phán cùng tôi rằng: Hãy đi, vì Ta toan sai ngươi đi đến cùng dân ngoại ở nơi xa."
+Trong dụ ngôn về vườn nho, Đức Chúa Giê-su đã báo trước: "Nước Đức Chúa Trời sẽ cất khỏi các ngươi, mà cho một dân khác là dân sẽ có kết quả của nước đó." Trong Công Vụ Các Sứ Đồ 22:20–21, chính Phao-lô làm chứng: "Khi Ê-tiên là kẻ làm chứng cho Chúa bị đổ huyết, tôi cũng có mặt tại đó, đành lòng về sự đó… Chúa phán cùng tôi rằng: Hãy đi, vì Ta toan sai ngươi đi đến cùng dân ngoại ở nơi xa."
 
 Cấu trúc của sách Công Vụ Các Sứ Đồ làm chứng cho điều này. Trong sáu chương đầu, công việc của các sứ đồ chỉ tập trung tại Giê-ru-sa-lem và Giu-đê. Sau khi Ê-tiên bị ném đá ở chương 7, Tin Lành lan đến Sa-ma-ri trong chương 8, Sau-lơ được hoán cải trong chương 9, và từ chương 10 trở đi, Tin Lành đến với dân ngoại.
 

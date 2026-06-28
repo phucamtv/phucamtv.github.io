@@ -32,7 +32,7 @@ Kinh Thánh miêu tả tội lỗi như một sự nô lệ. Khi đã vướng v
 
 Có một câu chuyện về người đánh cá ở miền Bắc Việt Nam, nuôi cả chục con chim cốc. Mỗi ngày ông lên thuyền, phà hơi thuốc phiện vào mũi những con chim. Sau đó, chim lặn xuống nước bắt cá, đem lên giao nộp cho chủ. Con nào bắt được nhiều cá thì được thưởng — cho hít hơi thuốc phiện. Ông còn đặt vòng sắt vào cổ chim để chúng không nuốt được cá. Những con chim siêng năng bắt cá suốt ngày, chỉ để được một hơi thuốc phiện. Đó là hình ảnh của con người bị ma quỷ điều khiển qua những cám dỗ tội lỗi.
 
-Sứ đồ Phao-lô, dù là người được Chúa dùng cách đặc biệt, cũng đã thốt lên lời than thở trong Rô-ma 7:15-21: *"Tôi không hiểu điều mình làm: tôi chẳng làm điều mình muốn, nhưng làm điều mình ghét... Tôi có ý muốn làm điều lành, nhưng không có quyền làm trọn."* Đây không chỉ là sự bất lực của Phao-lô, mà là sự bất lực của cả nhân loại trước sức mạnh của tội lỗi. Đừng bao giờ tự hào rằng mình có thể tự mình thắng được điều ác — chính suy nghĩ đó cũng đã là một suy nghĩ của tội lỗi.
+Sứ đồ Phao-lô, dù là người được Chúa dùng cách đặc biệt, cũng đã thốt lên lời than thở trong Rô-ma 7:15-21: *"Tôi không hiểu điều mình làm: tôi chẳng làm điều mình muốn, nhưng làm điều mình ghét… Tôi có ý muốn làm điều lành, nhưng không có quyền làm trọn."* Đây không chỉ là sự bất lực của Phao-lô, mà là sự bất lực của cả nhân loại trước sức mạnh của tội lỗi. Đừng bao giờ tự hào rằng mình có thể tự mình thắng được điều ác — chính suy nghĩ đó cũng đã là một suy nghĩ của tội lỗi.
 
 ---
 

@@ -56,6 +56,6 @@ Không có cô dâu nào trong ngày cưới lại quên chiếc áo cưới c�
 
 ## Lời kêu gọi: Hãy trở về
 
-Giê-rê-mi 3:12-14 vang lên lời kêu gọi: *"Hỡi Y-sơ-ra-ên bội nghịch, hãy trở về! Ta sẽ không lấy nét mặt giận nhìn ngươi đâu, vì ta hay thương xót... Đức Giê-hô-va phán: Hỡi con cái bội nghịch, hãy trở về; vì ta là chồng ngươi."*
+Giê-rê-mi 3:12-14 vang lên lời kêu gọi: *"Hỡi Y-sơ-ra-ên bội nghịch, hãy trở về! Ta sẽ không lấy nét mặt giận nhìn ngươi đâu, vì ta hay thương xót… Đức Giê-hô-va phán: Hỡi con cái bội nghịch, hãy trở về; vì ta là chồng ngươi."*
 
 Dù chúng ta đã quên Ngài bao lâu, dù tình yêu ban đầu đã phai mờ đến đâu — Ngài vẫn chờ đợi. Lời kêu gọi hôm nay không phải là lời kết án, mà là lời mời trở về. Hãy nhớ lại mình đã sa sút từ đâu, hãy ăn năn, và làm lại những công việc ban đầu. Hãy giữ lại màu đỏ của huyết Chúa Cứu Thế trong đời sống tâm linh — đừng để nó phai nhạt thành màu trắng nhờ nhợ, vì đó là dấu hiệu của một tâm linh đang nguy hiểm.

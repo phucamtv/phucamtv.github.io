@@ -12,7 +12,7 @@ Trước tiên, vua “tức giận nghịch cùng giao ước thánh”(Đa-ni-
 
 Thứ hai, vua tụ tập quân lính dấy lên,“làm ô uế nơi thánh” và “cất của lễ thiêu hằng dâng” (Đa-ni-ên. 11:31); điều tương tự được nói đến trong Đa-ni-ên 8:11: Cái sừng nhỏ làm mình nên lớn mạnh và “cất của lễ hằng dâng khỏi Ngài” và “nơi thánh của Ngài bị quăng xuống”. Điều này được hiểu như một cuộc tấn công tâm linh, chống lại Đức Chúa Trời nơi đền thánh trên trời.
 
-Thứ ba, kết quả của cuộc tấn công vào đền thánh là “sự gớm ghiếc tàn nát lập ra trong nơi thánh” và “tội ác sanh ra sự sự hoang vắng”, hai điều này cho biết các hành vi bội giáo và nổi loạn của cái sừng nhỏ (Đa-ni-ên 8:13).
+Thứ ba, kết quả của cuộc tấn công vào đền thánh là “sự gớm ghiếc tàn nát lập ra trong nơi thánh” và “tội ác sanh ra sự hoang vắng”, hai điều này cho biết các hành vi bội giáo và nổi loạn của cái sừng nhỏ (Đa-ni-ên 8:13).
 
 Thứ tư, thế lực này bức hại dân sự của Đức Chúa Trời: Trong những kẻ khôn sáng sẽ có mấy người sa ngã, hầu cho luyện lọc chúng nó, làm cho tinh sạch và trắng, cho đến kỳ sau rốt (Đa-ni-ên 11:35). Điều này khiến chúng ta nhớ đến cái sừng nhỏ, “làm cho đổ xuống đất một phần cơ binh và một phần trong các ngôi sao, rồi nó giày đạp lên” (Đa-ni-ên 8:10; so sánh với Đa-ni-ên 7:25).
 

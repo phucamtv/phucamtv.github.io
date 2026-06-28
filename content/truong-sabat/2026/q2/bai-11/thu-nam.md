@@ -15,7 +15,7 @@ Bạn đã bao giờ ước mình có thể thấy Đức Chúa Giê-su khi đan
 
 “Tôi cố tránh ánh mắt Ngài, cảm thấy không thể chịu nổi cái nhìn thấu suốt ấy, nhưng Ngài bước lại gần với nụ cười, đặt tay trên đầu tôi và phán: ‘Đừng sợ’. Âm thanh ngọt ngào trong giọng Ngài khiến lòng tôi trào dâng một niềm hạnh phúc chưa từng có. Tôi quá vui mừng đến nỗi không thể thốt nên lời, chỉ còn biết sấp mặt dưới chân Ngài, tràn ngập hạnh phúc không nói nên lời. Khi tôi nằm bất động ở đó, những cảnh tượng huy hoàng và rực rỡ hiện ra trước mắt tôi, và tôi dường như đã bước vào sự bình an, an toàn của thiên đàng. Cuối cùng, sức lực tôi trở lại, và tôi đứng lên. Đôi mắt yêu thương của Đức Chúa Giê-su vẫn nhìn tôi, và nụ cười Ngài làm tràn đầy tâm hồn tôi với niềm vui mừng khôn xiết. Sự hiện diện của Ngài trong tôi với lòng tôn kính thánh khiết và tràn đầy tình yêu khó tả…
 
-“Giấc mơ này đã đem lại cho tôi niềm hi vọng... và đức tin... Và vẻ đẹp cùng sự đơn sơ của việc tin cậy Đức Chúa Trời bắt đầu rạng chiếu nơi linh hồn tôi đang u tối.”, Ellen G. White, Early Writings, tr. 79–81.
+“Giấc mơ này đã đem lại cho tôi niềm hi vọng… và đức tin… Và vẻ đẹp cùng sự đơn sơ của việc tin cậy Đức Chúa Trời bắt đầu rạng chiếu nơi linh hồn tôi đang u tối.”, Ellen G. White, Early Writings, tr. 79–81.
 
 Giữa những thất bại và chán nản trong cuộc sống, chúng ta cần hướng lòng về Đức Chúa Giê-su và những điều Ngài bày tỏ về tình yêu của Đức Chúa Trời dành cho chúng ta.
 

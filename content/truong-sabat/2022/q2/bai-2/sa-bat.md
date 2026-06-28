@@ -16,6 +16,6 @@ Giữa tất cả những gì Đức Chúa Trời đã ban cho cha mẹ đầu t
 
 Chắc chắn chúng ta có thể hiểu tại sao, phải không?
 
-Hơn thế nữa, mối đe dọa về sự chết kèm theo lời cảnh báo về sự không vâng lời (Sáng-thế Ký 2:17) sẽ ứng nghiệm: họ sẽ chết (Sáng-thế Ký 3:19). Không chỉ bị cấm ăn trái cây, họ còn bị đuổi khỏi vườn Ê-đen (Sáng-thế Ký 3:24), do đó, giống như tội nhân,họ không được tiếp cận những gì có thể mang lại cho họ sự sống đời đời (Sáng-thế Ký 3:22).
+Hơn thế nữa, mối đe dọa về sự chết kèm theo lời cảnh báo về sự không vâng lời (Sáng-thế Ký 2:17) sẽ ứng nghiệm: họ sẽ chết (Sáng-thế Ký 3:19). Không chỉ bị cấm ăn trái cây, họ còn bị đuổi khỏi vườn Ê-đen (Sáng-thế Ký 3:24), do đó, giống như tội nhân, họ không được tiếp cận những gì có thể mang lại cho họ sự sống đời đời (Sáng-thế Ký 3:22).
 
 Tuy nhiên, ở giữa bi kịch này là niềm hy vọng được tìm thấy trong Sáng-thế Ký 3:15, được gọi là “protoevangelium”, hay còn gọi là “lời hứa phúc âm đầu tiên”. Đúng vậy, câu này trình bày lời hứa phúc âm đầu tiên được tìm thấy trong Kinh Thánh, bất chấp sự sa ngã, lần đầu tiên loài người được biết rằng, Đức Chúa Trời đã mở một lối thoát cho tất cả chúng ta.

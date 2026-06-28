@@ -65,7 +65,7 @@ Ngài phán cùng dân Y-sơ-ra-ên qua Môi-se sau bốn mươi năm trong đ�
 
 ## Điều răn thứ hai: Không hình tượng
 
-Phục Truyền 5:8–10 nói: *"Ngươi chớ làm tượng chạm cho mình... Ngươi chớ quỳ lạy trước các hình tượng đó, và cũng đừng hầu việc chúng nó... Ta là Đức Chúa Trời kỵ tà... làm ơn đến ngàn đời cho những kẻ yêu mến ta và giữ các điều răn ta."*
+Phục Truyền 5:8–10 nói: *"Ngươi chớ làm tượng chạm cho mình… Ngươi chớ quỳ lạy trước các hình tượng đó, và cũng đừng hầu việc chúng nó… Ta là Đức Chúa Trời kỵ tà… làm ơn đến ngàn đời cho những kẻ yêu mến ta và giữ các điều răn ta."*
 
 Đức Chúa Trời nhắc dân Ngài lần thứ hai rằng: nếu yêu mến Ngài, họ sẽ giữ các điều răn của Ngài. Câu nói này không phải Đức Chúa Giê-su mới đưa ra trong Tân Ước — chính Đức Chúa Trời đã phán điều đó từ thuở Cựu Ước.
 
@@ -127,7 +127,7 @@ Danh Đức Chúa Trời được khắc trên trán và trong lòng chính là 
 
 Giăng 8:31–34 chép Đức Chúa Giê-su phán: *"Nếu các ngươi hằng ở trong đạo ta, thì thật là môn đồ ta; các ngươi sẽ biết lẽ thật, và lẽ thật sẽ buông tha các ngươi."* Người Giu-đa thưa rằng họ là dòng dõi Áp-ra-ham, chưa hề làm tôi mọi ai. Nhưng Ngài đáp: *"Hễ ai phạm tội, thì làm tôi mọi tội lỗi."*
 
-Đến Giăng 8:44, Ngài nói thẳng: *"Các ngươi bởi cha mình là ma quỉ mà sanh ra... Khi nó nói dối, nó nói theo tánh riêng mình, vì nó vốn là kẻ nói dối, và là cha sự nói dối."*
+Đến Giăng 8:44, Ngài nói thẳng: *"Các ngươi bởi cha mình là ma quỉ mà sanh ra… Khi nó nói dối, nó nói theo tánh riêng mình, vì nó vốn là kẻ nói dối, và là cha sự nói dối."*
 
 Khi Kinh Thánh nói **đừng lấy Danh Đức Chúa Trời làm chơi**, điều đó nghĩa là *đừng nói dối về con người thật của bạn*. Nếu chúng ta vẫn còn xưng mình là Cơ-đốc nhân, là người Cơ-đốc Phục Lâm, nhưng vẫn ở dưới quyền lực của kẻ thù, dưới sự kiểm soát của cha sự nói dối, thì chúng ta đang phạm điều răn thứ ba.
 
@@ -137,7 +137,7 @@ Khi Kinh Thánh nói **đừng lấy Danh Đức Chúa Trời làm chơi**, đi�
 
 ## A-na-nia, Sa-phi-ra và sự thành thật trước Đức Chúa Trời
 
-Trong Công Vụ Các Sứ Đồ chương 5, A-na-nia và Sa-phi-ra xưng mình dâng tất cả cho Đức Chúa Trời, nhưng giữ lại một phần. Họ tìm cách lừa Phi-e-rơ và các sứ đồ. Phi-e-rơ hỏi: *"Sao ngươi nói dối cùng Đức Thánh Linh?... Ấy chẳng phải ngươi nói dối loài người, bèn là nói dối Đức Chúa Trời."*
+Trong Công Vụ Các Sứ Đồ chương 5, A-na-nia và Sa-phi-ra xưng mình dâng tất cả cho Đức Chúa Trời, nhưng giữ lại một phần. Họ tìm cách lừa Phi-e-rơ và các sứ đồ. Phi-e-rơ hỏi: *"Sao ngươi nói dối cùng Đức Thánh Linh?… Ấy chẳng phải ngươi nói dối loài người, bèn là nói dối Đức Chúa Trời."*
 
 Đây là điều mỗi người trong chúng ta phải tự hỏi. Tôi có đang giả vờ trước mặt Đức Chúa Trời không? Tôi có nói rằng mình sẵn sàng dâng tất cả nhưng vẫn nắm giữ điều gì đó? Đức Chúa Trời phán Ngài sẽ không kể là vô tội kẻ lấy Danh Ngài mà làm chơi.
 
@@ -149,7 +149,7 @@ Bạn có mang Danh Đức Chúa Giê-su trong cách bạn cư xử với chồn
 
 Hê-bơ-rơ 10:16–17 chép:
 
-> Chúa phán: Nầy là giao ước ta lập với chúng nó sau những ngày đó: Ta sẽ để luật pháp ta vào lòng chúng nó, và ghi tạc nơi trí khôn... Ta sẽ chẳng còn nhớ đến tội lỗi và gian ác của chúng nó nữa.
+> Chúa phán: Nầy là giao ước ta lập với chúng nó sau những ngày đó: Ta sẽ để luật pháp ta vào lòng chúng nó, và ghi tạc nơi trí khôn… Ta sẽ chẳng còn nhớ đến tội lỗi và gian ác của chúng nó nữa.
 
 Bạn không muốn có kinh nghiệm ấy sao — kinh nghiệm mà Đức Chúa Trời không còn nhớ đến những điều bạn đã làm sai? Khi bạn trở nên một với Đức Chúa Giê-su, các điều răn của Đức Chúa Trời trở thành kinh nghiệm sống trong bạn, và bạn vui thích làm theo ý muốn Ngài.
 

@@ -4,7 +4,7 @@ title: "Giô-sép Và Bê-gia-min"
 dayLabel: "Thứ Ba"
 weight: 4
 ---
-Gia-cốp không dễ dàng cho phép Bê-gia-min,con trai duy nhất của ông với Ra-chên vẫn còn sống với ôngra đicùng các anh mình. Ông sợ rằng mình sẽ mất đi Bê-gia-min, vì ông đã mất Giô-sép (Sáng-thế Ký 43:6–8). Ngoại trừ trong nhà không còn lương thực (Sáng-thế Ký 43:2) và Giu-đa cam kết đảm bảo Bên-gia-min sẽ trởvề (Sáng-thế Ký 43:9), cuối cùng Gia-cốp đồng ý cho chuyến đi thứ hai đến xứ Ê-díp-tô và cho phép Bên-gia-min đi cùng các anh.
+Gia-cốp không dễ dàng cho phép Bê-gia-min, con trai duy nhất của ông với Ra-chên vẫn còn sống với ông ra đi cùng các anh mình. Ông sợ rằng mình sẽ mất đi Bê-gia-min, vì ông đã mất Giô-sép (Sáng-thế Ký 43:6–8). Ngoại trừ trong nhà không còn lương thực (Sáng-thế Ký 43:2) và Giu-đa cam kết đảm bảo Bên-gia-min sẽ trở về (Sáng-thế Ký 43:9), cuối cùng Gia-cốp đồng ý cho chuyến đi thứ hai đến xứ Ê-díp-tô và cho phép Bên-gia-min đi cùng các anh.
 
 `Đọc Sáng-thế Ký 43. Sự hiện diện của Bên-gia-min có ảnh hưởng gì đến diễn biến các sựviệc?`
 
@@ -14,4 +14,4 @@ Giô-sép gọi Bên-gia-min là “Con út ơi!” thể hiện tình yêu thư
 
 Trong lúc các anh của Giô-sép sợ rằng họ sẽ bị tống vào tù vì số tiền đã được trả lại, thì Giô-sép chuẩn bị một bữa tiệc cho họ vì sự hiện diện của Bên-gia-min. Như thể Bên-gia-min đã có ảnh hưởngtoàn bộ đến sự chuộc lỗi. Khi tất cả các anh đều ngồi theo đúng thứ tự mình và tôn trọng các quy tắc, thì Bên-gia-min, người trẻ nhất, được phục vụ nhiều gấpnăm lần so với tất cả các anh (Sáng-thế Ký 43:33,34). Tuy nhiên, sự thiên vị này không khiến họ bận tâm, không giống như khi Giô-sép được cha mình yêu thích nhiều năm trước mà đã dẫn đến những hành động khủng khiếp của họ đối với cả người em cùng cha khác mẹ và cha ruột của họ (Sáng-thế Ký 37:3,4).
 
-“Bởi sự ưu ái này dành cho Bê-gia-min, ông có thể hy vọng chắc chắn người em út sẽ không bị đối xửbởi lòng đố kỵ và thù hận như trước đây. Vẫn cho rằng Giô-sép không hiểu ngôn ngữ của họ, hai anh em thoải mái trò chuyện với nhau; do đó ông đã có cơ hội tốt để tìm hiểu cảm xúc thực sự của họ. Giô-sép vẫn muốn thử họ thêm nữa, và trước khi họ trở về, ông đã truyền lệnh rằng phải giấu cái chén bằng bạc của mình tại miệng bao của người em út.”- Ellen G. White, Tộctrưởng và Tiên Tri, trang 228, 229.
+“Bởi sự ưu ái này dành cho Bê-gia-min, ông có thể hy vọng chắc chắn người em út sẽ không bị đối xử bởi lòng đố kỵ và thù hận như trước đây. Vẫn cho rằng Giô-sép không hiểu ngôn ngữ của họ, hai anh em thoải mái trò chuyện với nhau; do đó ông đã có cơ hội tốt để tìm hiểu cảm xúc thực sự của họ. Giô-sép vẫn muốn thử họ thêm nữa, và trước khi họ trở về, ông đã truyền lệnh rằng phải giấu cái chén bằng bạc của mình tại miệng bao của người em út.”- Ellen G. White, Tộc Trưởng và Tiên Tri, trang 228, 229.

@@ -15,7 +15,7 @@ Tôi thường hay suy nghĩ về một điều này: tại sao con người ta 
 
 Không cần phải là triết gia hay nhà tâm lý học, chúng ta cũng dễ dàng nhận ra rằng tham lam là một thứ bẩm sinh trong mỗi con người. Từ đứa trẻ thơ đã biết giành giật đồ chơi, đến người lớn tranh đấu vì danh vọng, tiền tài, quyền lực — tất cả đều xuất phát từ cùng một nguồn gốc: sự ham muốn sở hữu nhiều hơn, tốt hơn, cao hơn những gì mình đang có.
 
-Tham lam không chỉ là ham muốn vật chất. Nó còn là ham muốn được tôn trọng, được yêu thương, được ghi nhận. Nó là ham muốn trở thành người đặc biệt, khác biệt, vượt trội. Nó là ham muốn kiểm soát, thống trị, thậm chí là ham muốn trở thành... Thiên Chúa.
+Tham lam không chỉ là ham muốn vật chất. Nó còn là ham muốn được tôn trọng, được yêu thương, được ghi nhận. Nó là ham muốn trở thành người đặc biệt, khác biệt, vượt trội. Nó là ham muốn kiểm soát, thống trị, thậm chí là ham muốn trở thành… Thiên Chúa.
 
 ## Nguồn cơn của khổ đau
 
@@ -39,7 +39,7 @@ Trong vườn Ê-đen, người phụ nữ đầu tiên đã nhìn thấy cây m
 
 ## Kết quả của sự tham lam
 
-Và kết quả? Sự đau khổ đã bắt đầu từ đó. Không chỉ riêng hai người đầu tiên, mà cả nhân loại từ đó phải gánh chịu những đau khổ: sinh ly tử biệt, bệnh tật, nghèo khổ, chiến tranh, thù hận... Tất cả đều có nguồn gốc từ cái tham lam nguyên thủy ấy.
+Và kết quả? Sự đau khổ đã bắt đầu từ đó. Không chỉ riêng hai người đầu tiên, mà cả nhân loại từ đó phải gánh chịu những đau khổ: sinh ly tử biệt, bệnh tật, nghèo khổ, chiến tranh, thù hận… Tất cả đều có nguồn gốc từ cái tham lam nguyên thủy ấy.
 
 Mỗi chúng ta, khi sinh ra, đều mang trong mình di sản của sự tham lam này. Chúng ta muốn tự quyết định đường lối sống, muốn trở thành trung tâm của vũ trụ, muốn được thờ phượng và tôn vinh. Đó chính là lý do tại sao con người ta mãi mãi khổ đau.
 

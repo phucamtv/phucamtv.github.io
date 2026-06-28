@@ -31,7 +31,7 @@ Rô-ma 12:10 dạy: *"Hãy lấy lòng yêu thương mềm mại mà yêu nhau n
 
 Kinh Thánh thừa nhận rằng không phải mọi người lãnh đạo Hội Thánh đều hoàn hảo. II Sử-ký 10 ghi lại sự kiêu ngạo của Rô-bô-am – người nghe lời đám bạn trẻ hơn là cố vấn lão thành, dẫn đến sự phân rã vương quốc. Đó là hậu quả của những người chăn coi quyền lợi bản thân hơn đoàn chiên.
 
-Tuy nhiên, Hê-bơ-rơ 13:17 vẫn kêu gọi: *"Hãy vâng lời kẻ dắt dẫn anh em và chịu phục các người ấy, bởi các người ấy tỉnh thức về linh hồn anh em... hầu cho các người ấy lấy lòng vui mừng mà làm xong chức vụ mình."* I Ti-mô-thê 4:12, 16 nhắc người chăn phải làm gương qua lời nói, nết làm, sự yêu thương và đức tin. Khi người chăn sống đúng với cương vị mình, tín đồ có nền tảng để kính phục và chịu đựng.
+Tuy nhiên, Hê-bơ-rơ 13:17 vẫn kêu gọi: *"Hãy vâng lời kẻ dắt dẫn anh em và chịu phục các người ấy, bởi các người ấy tỉnh thức về linh hồn anh em… hầu cho các người ấy lấy lòng vui mừng mà làm xong chức vụ mình."* I Ti-mô-thê 4:12, 16 nhắc người chăn phải làm gương qua lời nói, nết làm, sự yêu thương và đức tin. Khi người chăn sống đúng với cương vị mình, tín đồ có nền tảng để kính phục và chịu đựng.
 
 ## Người Chăn Chịu Đựng Tín Đồ
 

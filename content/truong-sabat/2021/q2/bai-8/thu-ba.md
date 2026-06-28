@@ -6,7 +6,7 @@ weight: 4
 ---
 **Phục-truyền Luật-lệ Ký 10:12,13**
 
-Suy nghĩ đầu tiên của bạn khi nghĩ về luật pháp là gì? Cảnh sát, vé xe, thẩm phán, và nhà tù? Hay bạn nghĩ đến những hạn chế, quy tắc, sự độc đoán từ cha mẹ và hình phạt? Hoặc, có lẽ, bạn nghĩ về trật tự, hài hòa, ổn định? Hoặc thậm chí có thể... tình yêu?
+Suy nghĩ đầu tiên của bạn khi nghĩ về luật pháp là gì? Cảnh sát, vé xe, thẩm phán, và nhà tù? Hay bạn nghĩ đến những hạn chế, quy tắc, sự độc đoán từ cha mẹ và hình phạt? Hoặc, có lẽ, bạn nghĩ về trật tự, hài hòa, ổn định? Hoặc thậm chí có thể… tình yêu?
 
 Từ tiếng Hê-bơ-rơ “Torah” được dịch là “Luật pháp” trong Kinh Thánh của chúng ta, có nghĩa là “dạy dỗ” hoặc “hướng dẫn.” Thuật ngữ này có thể được sử dụng để chỉ tất cả sự dạy dỗ của Chúa, cho dù là đạo đức, dân sự, xã hội hay tôn giáo. Nó ngụ ý tất cả những lời khuyên khôn ngoan mà Đức Chúa Trời đã ban cho dân của Ngài, vì vậy họ có thể trải nghiệm một cuộc sống phong phú cả về thể chất và tâm linh. Không có gì ngạc nhiên khi tác giả Thi Thiên gọi người có phước là người “lấy làm vui vẻ về luật pháp của Đức Giê-hô-va; Và suy ngẫm luật pháp ấy ngày và đêm” (Thi Thiên 1:2).
 

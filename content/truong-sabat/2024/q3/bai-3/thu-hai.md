@@ -6,7 +6,7 @@ weight: 3
 ---
 `Đọc Mác 2:13-22. Lê-vi, con trai của A-phê là ai? Và tại sao lại có sự phản đối trong việc ông trở thành môn đồ của Đức Chúa Giê-su?`
 
-Vào thời Đức Chúa Giê-su, những người thu thuế đều là công chức dưới sự quản lý của chính quyền địa phương hoặc đế chế La Mã. Họ không được lòng người Do Thái ở xứ Giu-đê, bởi vì họ thường thu thuế cao hơn định mức và sớm trở nên giàu có với mức thu nhập của mình. Một bài nghị luận trong luật tôn giáo của người Do Thái có câu viết rằng: “Nếu những người thu thuế bước chân vào một ngôi nhà nào, thì tất cả những gì bên trong ngôi nhà đó đều trở nên ô uế...”.
+Vào thời Đức Chúa Giê-su, những người thu thuế đều là công chức dưới sự quản lý của chính quyền địa phương hoặc đế chế La Mã. Họ không được lòng người Do Thái ở xứ Giu-đê, bởi vì họ thường thu thuế cao hơn định mức và sớm trở nên giàu có với mức thu nhập của mình. Một bài nghị luận trong luật tôn giáo của người Do Thái có câu viết rằng: “Nếu những người thu thuế bước chân vào một ngôi nhà nào, thì tất cả những gì bên trong ngôi nhà đó đều trở nên ô uế…”.
 
 Vì vậy, không có gì đáng ngạc nhiên khi các thầy thông giáo bắt bẻ một cách gay gắt: “Người cùng ăn với một kẻ thâu thuế và một kẻ có tội sao?”.
 

@@ -41,7 +41,7 @@ Phạm vi chiến dịch không chỉ giới hạn trong chính quyền mà còn
 
 Tại Việt Nam, Tổng bí thư Nguyễn Phú Trọng đã phát động và lãnh đạo một chiến dịch chống tham nhũng mạnh mẽ, quyết liệt — được ví như "đốt lò" để làm trong sạch bộ máy Đảng và Nhà nước.
 
-Trước khi chiến dịch được đẩy mạnh, tham nhũng đã trở thành "quốc nạn" gây nhức nhối trong xã hội, làm sói mòn niềm tin của nhân dân. Các vụ đại án tham nhũng như PMU 18, Vinashin, Vinalines... đã phơi bày mức độ nghiêm trọng và tính phức tạp của tình trạng này.
+Trước khi chiến dịch được đẩy mạnh, tham nhũng đã trở thành "quốc nạn" gây nhức nhối trong xã hội, làm sói mòn niềm tin của nhân dân. Các vụ đại án tham nhũng như PMU 18, Vinashin, Vinalines… đã phơi bày mức độ nghiêm trọng và tính phức tạp của tình trạng này.
 
 Sau Đại hội Đảng thứ 12 (tháng 1 năm 2016), công cuộc chống tham nhũng đã được đẩy lên tầm cao mới với thông điệp: "Không có vùng cấm, không có ngoại lệ, bất kể người đó là ai" và hình ảnh: "Lò đã nóng lên thì củi tươi vào nó cũng cháy."
 
@@ -56,7 +56,7 @@ Hàng loạt vụ án lớn đã được đưa ra ánh sáng:
 - **Trịnh Xuân Thanh** — cựu lãnh đạo Tổng công ty Xây lắp Dầu khí Việt Nam (PVC).
 - **Phan Văn Anh Vũ** (Vũ "nhôm") — liên quan đến việc lợi dụng chức vụ, quyền hạn để thâu tóm đất công.
 - **Vụ án Việt Á** — nâng khống giá kit xét nghiệm COVID-19, gây thiệt hại lớn cho ngân sách Nhà nước.
-- Các vụ án tại Tập đoàn FLC, Vạn Thịnh Phát, "chuyến bay giải cứu"...
+- Các vụ án tại Tập đoàn FLC, Vạn Thịnh Phát, "chuyến bay giải cứu"…
 
 Tuy nhiên, sau khi Tổng bí thư Nguyễn Phú Trọng qua đời, di sản chiến dịch "đốt lò" vẫn còn đó nhưng ngọn lửa dường như đã không còn được duy trì với cường độ như trước. Nạn tham nhũng vẫn là một vấn đề nhức nhối trong xã hội.
 

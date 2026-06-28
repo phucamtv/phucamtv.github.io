@@ -24,4 +24,4 @@ Sống ở đời phải có thủy có chung. Hoàn cảnh thường khiến l�
 
 Việc quăng đồ cũ là việc nhỏ, nhưng Hồ Yểm nhìn thấy nơi thâm sâu đó một bản chất xấu lớn hơn. Chúng ta cần cẩn trọng trong cách xử sự, e rằng đâu đó thể hiện tính bất nghĩa: đặng cá quên nôm.
 
-> "Song, các ngươi hãy yêu kẻ thù mình; hãy làm ơn, hãy cho mượn, mà đừng ngã lòng... các ngươi sẽ làm con của Đấng Rất Cao, vì Ngài lấy sự nhơn từ đối đãi kẻ bội bạc và kẻ dữ." — Lu-ca 6:35
+> "Song, các ngươi hãy yêu kẻ thù mình; hãy làm ơn, hãy cho mượn, mà đừng ngã lòng… các ngươi sẽ làm con của Đấng Rất Cao, vì Ngài lấy sự nhơn từ đối đãi kẻ bội bạc và kẻ dữ." — Lu-ca 6:35

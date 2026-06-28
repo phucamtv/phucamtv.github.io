@@ -48,7 +48,7 @@ Nhóm Hải Đăng cho rằng tín lý Thiên Chúa ba thân vị chỉ bắt đ
 
 **Polycarp** (khoảng năm 70-155/160), học trò của sứ đồ Giăng, giám mục tại Hội Thánh Smyrna, đã cầu nguyện:
 
-> Hỡi Chúa, là Đức Chúa Trời toàn năng... tôi ngợi khen và chúc tụng Đức Chúa Trời bởi Con yêu dấu của Ngài... Thượng Phẩm đời đời, cùng với Đức Thánh Linh.
+> Hỡi Chúa, là Đức Chúa Trời toàn năng… tôi ngợi khen và chúc tụng Đức Chúa Trời bởi Con yêu dấu của Ngài… Thượng Phẩm đời đời, cùng với Đức Thánh Linh.
 
 **Ignatius** (khoảng năm 35-117), giám mục tại Hội Thánh An-ti-ốt, đã viết:
 
@@ -74,7 +74,7 @@ Các Công đồng Công giáo có đưa ra nhiều điều sai trật, nhưng k
 
 Trong Công vụ 28:25-27, sứ đồ Phao-lô trích lời tiên tri Ê-sai và nói:
 
-> Đức Thánh Linh đã phán phải lắm, khi Ngài dùng đấng tiên tri Ê-sai mà phán cùng tổ phụ các ngươi...
+> Đức Thánh Linh đã phán phải lắm, khi Ngài dùng đấng tiên tri Ê-sai mà phán cùng tổ phụ các ngươi…
 
 Nhưng khi đối chiếu với Ê-sai 6:8-10 trong Cựu Ước, chính Đức Giê-hô-va là Đấng phán những lời đó. Vậy Tân Ước nói Đức Thánh Linh phán, Cựu Ước nói Đức Giê-hô-va phán -- rõ ràng Đức Thánh Linh chính là Đức Giê-hô-va.
 
@@ -82,7 +82,7 @@ Nhưng khi đối chiếu với Ê-sai 6:8-10 trong Cựu Ước, chính Đức 
 
 Trong Hê-bơ-rơ 10:15-18, tác giả viết:
 
-> Đức Thánh Linh cũng làm chứng cho chúng ta như vậy; sau khi Ngài phán: "Đây là giao ước ta sẽ lập với chúng nó..."
+> Đức Thánh Linh cũng làm chứng cho chúng ta như vậy; sau khi Ngài phán: "Đây là giao ước ta sẽ lập với chúng nó…"
 
 Đối chiếu với Giê-rê-mi 31:33-34, chính Đức Giê-hô-va phán những lời giao ước đó. Một lần nữa, Thánh Kinh đồng nhất Đức Thánh Linh với Đức Giê-hô-va.
 

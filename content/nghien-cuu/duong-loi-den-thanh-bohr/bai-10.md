@@ -26,13 +26,13 @@ Ai đã khiến vua quên giấc chiêm bao? Chính Đức Chúa Trời. Và Ng�
 
 Những người Canh-đê thú nhận:
 
-> "Chẳng có ai trên đất này có thể tỏ ra việc của vua... ngoại trừ các thần, mà các thần thì không ở chung với loài xác thịt." (Đa-ni-ên 2:10–11)
+> "Chẳng có ai trên đất này có thể tỏ ra việc của vua… ngoại trừ các thần, mà các thần thì không ở chung với loài xác thịt." (Đa-ni-ên 2:10–11)
 
 Họ nói rằng các thần của họ là những vị thần giấu kín, không tỏ lộ. Nhưng Đức Chúa Trời của Kinh Thánh thì hoàn toàn ngược lại. A-mốt 3:7 chép:
 
 > "Cũng vậy, Chúa Giê-hô-va chẳng có làm một việc gì mà Ngài chưa tỏ sự kín nhiệm Ngài ra trước cho tôi tớ Ngài, là các đấng tiên tri."
 
-Các thần ngoại bang giấu kín; còn Đức Chúa Trời tỏ bày. Ba từ khóa mà người Canh-đê đã dùng — "các thần", "không ở", "xác thịt" — lại vang vọng cách kỳ diệu trong Giăng 1:1, 14: "Ban đầu có Ngôi Lời... Ngôi Lời đã trở nên xác thịt, ở giữa chúng ta." Đấng bày tỏ những điều kín nhiệm của Đức Chúa Trời chính là Đức Chúa Giê-su trong xác thịt.
+Các thần ngoại bang giấu kín; còn Đức Chúa Trời tỏ bày. Ba từ khóa mà người Canh-đê đã dùng — "các thần", "không ở", "xác thịt" — lại vang vọng cách kỳ diệu trong Giăng 1:1, 14: "Ban đầu có Ngôi Lời… Ngôi Lời đã trở nên xác thịt, ở giữa chúng ta." Đấng bày tỏ những điều kín nhiệm của Đức Chúa Trời chính là Đức Chúa Giê-su trong xác thịt.
 
 ---
 
@@ -82,7 +82,7 @@ Nhưng có một yếu tố mới được thêm vào: **đất sét của thợ
 
 Kinh Thánh tự giải nghĩa biểu tượng đất sét. Trong Giê-rê-mi 18:1–6, Đức Chúa Trời đưa Giê-rê-mi xuống nhà người thợ gốm và phán:
 
-> "Hỡi nhà Y-sơ-ra-ên, ta há chẳng có thể đãi các ngươi như người thợ gốm hay sao?... Như đất sét trong tay thợ gốm, các ngươi cũng ở trong tay ta vậy." (Giê-rê-mi 18:6)
+> "Hỡi nhà Y-sơ-ra-ên, ta há chẳng có thể đãi các ngươi như người thợ gốm hay sao?… Như đất sét trong tay thợ gốm, các ngươi cũng ở trong tay ta vậy." (Giê-rê-mi 18:6)
 
 Đất sét tượng trưng cho **dân của Đức Chúa Trời** — Hội Thánh Cựu Ước, một định chế tôn giáo.
 
@@ -118,7 +118,7 @@ Ellen White viết trong *Seventh-day Adventist Bible Commentary*, tập 4, tran
 
 Lời giải nghĩa ở câu 44:
 
-> "Trong đời các vua nầy, Đức Chúa Trời trên trời sẽ dựng nên một nước không bao giờ bị hủy diệt... nước ấy sẽ đứng đời đời."
+> "Trong đời các vua nầy, Đức Chúa Trời trên trời sẽ dựng nên một nước không bao giờ bị hủy diệt… nước ấy sẽ đứng đời đời."
 
 Hòn núi tượng trưng cho **vương quốc đời đời của Đức Chúa Giê-su** đầy khắp đất.
 

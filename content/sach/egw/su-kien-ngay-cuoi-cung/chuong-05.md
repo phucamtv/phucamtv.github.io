@@ -11,7 +11,7 @@ summary: ""
 
 ## Một đời sống hai mặt
 
-Trong thời đại này, ngay trước sự tái lâm của Đấng Christ trong đám mây trên trời, một công việc giống như công việc của Giăng [Báp-tít] phải được thực hiện. Đức Chúa Trời kêu gọi những người sẽ chuẩn bị một dân tộc để đứng vững trong ngày trọng đại của Chúa.... Để truyền đạt một sứ điệp như Giăng đã truyền, chúng ta phải có một kinh nghiệm thuộc linh giống như ông. Cùng một công việc ấy phải được thực hiện trong chúng ta. Chúng ta phải chiêm ngưỡng Đức Chúa Trời, và khi chiêm ngưỡng Ngài, chúng ta đánh mất cái nhìn về bản thân mình.—Testimonies for the Church 8:332, 333 (1904). LDE 63.1
+Trong thời đại này, ngay trước sự tái lâm của Đấng Christ trong đám mây trên trời, một công việc giống như công việc của Giăng [Báp-tít] phải được thực hiện. Đức Chúa Trời kêu gọi những người sẽ chuẩn bị một dân tộc để đứng vững trong ngày trọng đại của Chúa.… Để truyền đạt một sứ điệp như Giăng đã truyền, chúng ta phải có một kinh nghiệm thuộc linh giống như ông. Cùng một công việc ấy phải được thực hiện trong chúng ta. Chúng ta phải chiêm ngưỡng Đức Chúa Trời, và khi chiêm ngưỡng Ngài, chúng ta đánh mất cái nhìn về bản thân mình.—Testimonies for the Church 8:332, 333 (1904). LDE 63.1
 
 Sự thông công với Đức Chúa Trời sẽ làm cho phẩm cách và đời sống trở nên cao quý. Người ta sẽ nhận biết về chúng ta, như đã nhận biết về các môn đồ đầu tiên, rằng chúng ta đã ở với Đức Chúa Giê-su. Điều này sẽ ban cho người làm công một quyền năng mà không gì khác có thể ban cho được. Người ấy không được để mình bị tước đoạt quyền năng này. Chúng ta phải sống một đời sống hai mặt—một đời sống của tư tưởng và hành động, của sự cầu nguyện thầm lặng và lao động sốt sắng.—The Ministry of Healing, 512 (1905). LDE 63.2
 

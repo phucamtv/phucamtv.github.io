@@ -62,7 +62,7 @@ Khi tiên tri giả dạy dỗ sai lạc, hậu quả sẽ biểu hiện qua nă
 
 ## Phá Đổ Bức Tường Ngăn Cách
 
-Chúa Cứu Thế đã đến để phá đổ bức tường ngăn cách — giữa người Do Thái và người ngoại, giữa Đức Chúa Trời và con người, giữa các dân tộc, màu da, ngôn ngữ, nam nữ. Ngài bảo trong Giăng 10:16: *"Ta còn có chiên khác chẳng thuộc về chuồng này, ta cũng phải dẫn nó về... rồi sẽ chỉ có một bầy và một người chăn."*
+Chúa Cứu Thế đã đến để phá đổ bức tường ngăn cách — giữa người Do Thái và người ngoại, giữa Đức Chúa Trời và con người, giữa các dân tộc, màu da, ngôn ngữ, nam nữ. Ngài bảo trong Giăng 10:16: *"Ta còn có chiên khác chẳng thuộc về chuồng này, ta cũng phải dẫn nó về… rồi sẽ chỉ có một bầy và một người chăn."*
 
 Thế mà đôi khi những bài giảng, lối sống, và Hội Thánh của chúng ta lại tìm cách xây lên những bức tường ngăn cách — chê trách người này, chỉ trích người kia, cho người này là sai người nọ là tà. Trách nhiệm của Hội Thánh là cùng với Chúa Cứu Thế phá đổ tất cả những bức tường ấy, chứ không phải xây thêm.
 

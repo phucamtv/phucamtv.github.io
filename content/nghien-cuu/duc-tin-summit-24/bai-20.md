@@ -53,7 +53,7 @@ Thư này được viết cho ai? Câu 1 nói là gửi "cho những kẻ đã �
 
 Giu-đe nêu rõ hai vấn đề trong câu 4:
 
-> "Vì có mấy kẻ kia lẻn vào trong vòng chúng ta... là những kẻ chẳng tin kính, đổi ơn Đức Chúa Trời chúng ta ra việc tà ác, chối Đức Chúa Trời, là Chủ tể duy nhất, và Chúa chúng ta là Đức Chúa Giê-su."
+> "Vì có mấy kẻ kia lẻn vào trong vòng chúng ta… là những kẻ chẳng tin kính, đổi ơn Đức Chúa Trời chúng ta ra việc tà ác, chối Đức Chúa Trời, là Chủ tể duy nhất, và Chúa chúng ta là Đức Chúa Giê-su."
 
 Vấn đề thứ nhất là **giáo lý sai về sự cứu rỗi** — biến ân điển của Đức Chúa Trời thành cớ cho sự buông tuồng. Vấn đề thứ hai là **Cơ-đốc luận sai lạc** — chối bỏ vị thế thật của Đức Chúa Trời và Đức Chúa Giê-su.
 
@@ -85,7 +85,7 @@ Từ câu 5 trở đi, Giu-đe mô tả các giáo sư giả qua những hình �
 
 Câu 12 ví họ như "đám mây không nước, theo gió đưa đi đây đi đó". Khi một người không vững lập trên lẽ thật, mỗi luồng gió đạo lý mới sẽ kéo họ về một hướng khác nhau. Bất cứ điều gì mới mẻ họ nghe được, họ liền chạy theo. Đó là lý do chúng ta cần một nền tảng vững vàng trong điều mình tin.
 
-Câu 16 mô tả họ là "những kẻ hay lằm bằm, hay phàn nàn... miệng đầy lời kiêu căng, vì lợi mà nịnh hót người ta". Họ vào Hội Thánh, ban đầu không bộc lộ ý đồ, chỉ kết bạn và nịnh hót. Khi đã có vòng quan hệ, họ mới bắt đầu phát tán tài liệu và thuyết phục các tín hữu.
+Câu 16 mô tả họ là "những kẻ hay lằm bằm, hay phàn nàn… miệng đầy lời kiêu căng, vì lợi mà nịnh hót người ta". Họ vào Hội Thánh, ban đầu không bộc lộ ý đồ, chỉ kết bạn và nịnh hót. Khi đã có vòng quan hệ, họ mới bắt đầu phát tán tài liệu và thuyết phục các tín hữu.
 
 Câu 19 nói rõ: "Ấy chính chúng nó là kẻ gây nên phe đảng, thuộc về tánh xác thịt, không có Đức Thánh Linh." Vì sao Ellen White nói rằng thư tín này nên được đọc như thể được gửi đến tín hữu Cơ-đốc Phục Lâm? Bởi vì những kẻ thật sự gây chia rẽ chính là các giáo sư giả này. Đôi khi họ trở nên nổi tiếng đến mức khi có người đứng lên phản bác, người ta lại đổ lỗi cho người phản bác là kẻ chia rẽ. Nhưng nguyên nhân thật sự của sự chia rẽ là chính tà giáo họ rao giảng.
 
@@ -97,7 +97,7 @@ Nói về sai lạc thì dễ — nhưng vấn đề là tinh thần nào chúng
 
 Giu-đe 1:20–23 dạy chúng ta cách đối xử với các giáo sư giả:
 
-> "Hãy giữ mình trong sự yêu mến Đức Chúa Trời... Hãy thương xót những người nghi ngờ; hãy cứu kẻ khác bằng cách giật khỏi lửa..."
+> "Hãy giữ mình trong sự yêu mến Đức Chúa Trời… Hãy thương xót những người nghi ngờ; hãy cứu kẻ khác bằng cách giật khỏi lửa…"
 
 **"Hãy thương xót."** Vấn đề khi chúng ta đứng lên bảo vệ lẽ thật là chúng ta thường làm điều đúng nhưng với tinh thần sai. Vì vậy mà nhiều khi không có kết quả tốt — và còn cho người khác thêm cớ để khước từ điều chúng ta rao giảng. Như Phao-lô viết trong 1 Cô-rinh-tô 13, dù bạn nói tiên tri mà không có tình yêu thương, mọi sự cũng vô ích.
 

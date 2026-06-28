@@ -4,7 +4,7 @@ title: "Bài"
 dayLabel: "Thứ Nhất"
 weight: 2
 ---
-Bài học đầu tiên của quí nầy nói về “cuộc tranh cãi vũ trụ”,và thật bất hạnh, nó đã vượt qua khỏi vũ trụ và đến trái đất của chúng ta.
+Bài học đầu tiên của quí nầy nói về “cuộc tranh cãi vũ trụ”, và thật bất hạnh, nó đã vượt qua khỏi vũ trụ và đến trái đất của chúng ta.
 
 Vấn đề là, mặc dầu nhiều người, ngay cả những Cơ-đốc nhân, không tin có sự tranh đấu khốc liệt nầy, bởi vì họ không tin có Sa-tan. Đối với họ, Kinh Thánh nói về Sa-tan hay ma quỉ đó chỉ là những sự diễn đạt của một nền văn hóa xưa để giải thích về sự gian ác và đau khổ trong thế gian. Theo cách nghĩ của quá nhiều người về một nhân vật siêu phàm, một nhân vật có những mưu mô gian ác đối với con người đó là loại khoa học viễn tưởng, giống như Darth Vader trong “Cuộc chiến giữa các vì sao” hay tương tự như vậy.
 

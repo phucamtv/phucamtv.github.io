@@ -73,7 +73,7 @@ Sáng Thế Ký 3:15 theo nguyên bản Hê-bơ-rơ và bản King James chép: 
 
 ## Kinh Qur'an hạ bệ Đức Chúa Giê-su: nơi mặt nạ rơi xuống
 
-Qur'an (Surah 4:157-158) dạy rằng: "Và chúng (người Do Thái) nói rằng: Chúng ta đã giết Đấng Mê-si-a, Giê-su con của Mary, sứ giả của Đức Chúa Trời. Nhưng chúng không giết Ngài, cũng không đóng đinh Ngài; mà chỉ có vẻ như vậy đối với chúng... Đức Chúa Trời đã cất Ngài lên cùng Ngài." Nói cách khác, Qur'an dạy rằng Đức Chúa Giê-su không hề chết trên thập tự giá. Đây chính là giáo lý mà các nhà thần học huyền bí như Westcott và Hort đã ngấm ngầm truyền bá khi họ thực hiện các bản dịch Kinh Thánh hiện đại: phủ nhận sự chuộc tội bằng huyết.
+Qur'an (Surah 4:157-158) dạy rằng: "Và chúng (người Do Thái) nói rằng: Chúng ta đã giết Đấng Mê-si-a, Giê-su con của Mary, sứ giả của Đức Chúa Trời. Nhưng chúng không giết Ngài, cũng không đóng đinh Ngài; mà chỉ có vẻ như vậy đối với chúng… Đức Chúa Trời đã cất Ngài lên cùng Ngài." Nói cách khác, Qur'an dạy rằng Đức Chúa Giê-su không hề chết trên thập tự giá. Đây chính là giáo lý mà các nhà thần học huyền bí như Westcott và Hort đã ngấm ngầm truyền bá khi họ thực hiện các bản dịch Kinh Thánh hiện đại: phủ nhận sự chuộc tội bằng huyết.
 
 Qur'an cũng quả quyết rằng Đức Chúa Giê-su chỉ là một sứ giả như bao sứ giả khác, không phải Con Đức Chúa Trời, và rằng Đức Chúa Trời "phẫn nộ" nếu có ai tin Đấng Christ là Đức Chúa Trời. Đây chính xác là điều mà 1 Giăng 2:22 gọi là tinh thần của Anti-Christ: "Ai là kẻ nói dối, há chẳng phải kẻ chối Đức Chúa Giê-su là Đấng Christ sao? Ấy đó là Kẻ địch lại Đấng Christ, tức là kẻ chối Đức Cha và Đức Con."
 
@@ -85,7 +85,7 @@ Một người Hồi Giáo từng là giáo sĩ, sau khi quy đạo theo Đức 
 
 Albert Pike từng nói thẳng rằng Lucifer sẽ được tôn thờ khi "thuyết Cơ-đốc" và các tôn giáo khác đã bị cọ xát đến mức kiệt quệ, để rồi một tổng hợp mới ra đời. Cuộc xung đột đang được dàn dựng giữa "văn minh Do Thái — Cơ-đốc" và "văn minh Hồi Giáo" chính là phản đề tiếp theo sau khi chủ nghĩa cộng sản đã hoàn thành vai trò của nó trong thế kỷ 20.
 
-Các nhà lãnh đạo Tin Lành nổi bật đang dọn đường cho sự tổng hợp ấy. Billy Graham trên chương trình David Frost (30/5/1997) đã tuyên bố: "Hồi Giáo bị hiểu lầm... Tôi nghĩ chúng ta gần với Hồi Giáo hơn chúng ta tưởng." Robert Schuller, trên chương trình Larry King (24/12/1999), ca ngợi Đại Mufti Hồi Giáo là người mà ông cảm thấy "đồng điệu đức tin và triết lý" hơn bất cứ ai. Benjamin Chavis, cựu phó chủ tịch Hội Đồng Các Hội Thánh Quốc Gia Hoa Kỳ, đã chuyển sang Hồi Giáo năm 1997 với tuyên bố rằng "không có sự khác biệt giữa Hồi Giáo và Cơ-đốc Giáo".
+Các nhà lãnh đạo Tin Lành nổi bật đang dọn đường cho sự tổng hợp ấy. Billy Graham trên chương trình David Frost (30/5/1997) đã tuyên bố: "Hồi Giáo bị hiểu lầm… Tôi nghĩ chúng ta gần với Hồi Giáo hơn chúng ta tưởng." Robert Schuller, trên chương trình Larry King (24/12/1999), ca ngợi Đại Mufti Hồi Giáo là người mà ông cảm thấy "đồng điệu đức tin và triết lý" hơn bất cứ ai. Benjamin Chavis, cựu phó chủ tịch Hội Đồng Các Hội Thánh Quốc Gia Hoa Kỳ, đã chuyển sang Hồi Giáo năm 1997 với tuyên bố rằng "không có sự khác biệt giữa Hồi Giáo và Cơ-đốc Giáo".
 
 Hình ảnh Đức Giáo Hoàng cúi xuống hôn cuốn Qur'an do phái đoàn của tộc trưởng Raphael nước I-rắc dâng lên là một dấu chỉ không thể phủ nhận. Ngay từ đầu, Công Giáo La Mã đã nắm quyền kiểm soát Hồi Giáo, và Hồi Giáo chỉ là một công cụ trong tay những kẻ huyền bí để đưa nhân loại đến chỗ chấp nhận một tôn giáo thế giới duy nhất.
 

@@ -6,7 +6,7 @@ weight: 2
 ---
 `Xin đọc Thi Thiên 100:1-3. Sự hưởng ứng của con người đối với Đức Chúa Trời của sự sáng tạo là gì, và tại sao?`
 
-Trong Sáng-thế Ký 1, thông điệp đầu tiên của lời ký thuật về sự Sáng Tạo là “Đức Chúa Trời”. Chúng ta đã nghe thấy điều đó trong bản dịch: “Ban đầu Đức Chúa Trời...” (Sáng-thế Ký 1:1). Ngay ở dòng đầu tiên (Sáng-thế Ký 1:1), danh xưng “Đức Chúa Trời” được đặt ở giữa câu và được nhấn mạnh bằng lời lẽ mạnh nhất trong bài Kinh theo nghi lễ truyền thống của người Hê-bơ-rơ nhằm làm nổi bậc tầm quan trọng về Chúa. Sau đó đoạn Kinh Thánh bắt đầu với sự nhấn mạnh vào Đức Chúa Trời – là tác giả của sự Sáng Tạo.
+Trong Sáng-thế Ký 1, thông điệp đầu tiên của lời ký thuật về sự Sáng Tạo là “Đức Chúa Trời”. Chúng ta đã nghe thấy điều đó trong bản dịch: “Ban đầu Đức Chúa Trời…” (Sáng-thế Ký 1:1). Ngay ở dòng đầu tiên (Sáng-thế Ký 1:1), danh xưng “Đức Chúa Trời” được đặt ở giữa câu và được nhấn mạnh bằng lời lẽ mạnh nhất trong bài Kinh theo nghi lễ truyền thống của người Hê-bơ-rơ nhằm làm nổi bậc tầm quan trọng về Chúa. Sau đó đoạn Kinh Thánh bắt đầu với sự nhấn mạnh vào Đức Chúa Trời – là tác giả của sự Sáng Tạo.
 
 Thật ra, sách Sáng-thế Ký bắt đầu với hai cách trình bày khác nhau về Đức Chúa Trời. Bản ký thuật đầu tiên về sự Sáng Tạo (Sáng-thế Ký 1:1–2:4) bày tỏ rằng Đức Chúa Trời ở rất xa con người, một Đức Chúa Trời siêu việt, là “Elohim”, danh xưng này nói về quyền năng tối thượng của Đức Chúa Trời. Danh xưng “Elohim” biểu thị đặc tính siêu việt và sức mạnh, và khi sử dụng “Elohim” ở dạng số nhiều thể hiện ý tưởng về đặc tính uy nghi và siêu việt.
 

@@ -36,7 +36,7 @@ Tên Ê-va nghĩa là *sự sống*. Nếu không có người phụ nữ sẽ k
 
 ### 3. Thân phận người phụ nữ và vấn đề bình đẳng
 
-I Ti-mô-thê 2:11-15 ghi lời Phao-lô: *"Đàn bà phải yên lặng mà nghe dạy... Ta không cho phép đàn bà dạy dỗ, cũng không được cầm quyền trên đàn ông."* Đây là câu Kinh Thánh gây nhiều tranh cãi, ngay cả trong các đại hội giáo hội hiện đại.
+I Ti-mô-thê 2:11-15 ghi lời Phao-lô: *"Đàn bà phải yên lặng mà nghe dạy… Ta không cho phép đàn bà dạy dỗ, cũng không được cầm quyền trên đàn ông."* Đây là câu Kinh Thánh gây nhiều tranh cãi, ngay cả trong các đại hội giáo hội hiện đại.
 
 Cần hiểu đúng: không phải Kinh Thánh xem thường người phụ nữ. Vấn đề bình đẳng giới xuất phát từ thực tế là trong nhiều thế kỷ, phụ nữ đã bị chà đạp, bị xem như đồ vật. Khi trở về với Kinh Thánh, Chúa đã tạo nên Ê-va từ xương sườn của A-đam — nghĩa là người phụ nữ cần được *ôm ấp, nâng đỡ, chở che*. Khi người đàn ông không thực hiện đúng nhiệm vụ này, họ đã đi sai với Lời Chúa.
 

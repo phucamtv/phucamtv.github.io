@@ -14,6 +14,12 @@ When designing or building any UI, layout, or page in the library sections (Kinh
 - Divine names must be capitalized correctly: "Đức Chúa Trời" (not "Đức chúa trời"), "Đức Thánh Linh" (not "Đức thánh linh"), "Kinh Thánh" (not "Kinh thánh"), "Đức Chúa Giê-su" (not "Đức chúa Giê-su"), "Hội Thánh" (not "hội thánh")
 - Use "Chủ Nhật" instead of "Chủ Nhật"
 
+# Typos
+
+- After "," must have space.
+- Use "…" instead of "..."
+- Don't use . . . ", but "…"
+
 # Content
 
 Each content type has its own format spec under `docs/content/`. Read the relevant doc before creating or editing files in that section.

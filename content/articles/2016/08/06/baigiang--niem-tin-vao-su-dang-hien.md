@@ -36,7 +36,7 @@ Bản chất của việc dâng hiến chính là mối tương giao giữa chú
 
 ## Tích trữ của cải ở trên trời
 
-> "Các con đừng tích trữ của cải dưới đất, là nơi có mối mọt và gỉ sét làm hủy hoại... nhưng hãy tích trữ của cải các con ở trên trời... vì của cải các con ở đâu, lòng các con cũng ở đó." — Ma-thi-ơ 6:19-21
+> "Các con đừng tích trữ của cải dưới đất, là nơi có mối mọt và gỉ sét làm hủy hoại… nhưng hãy tích trữ của cải các con ở trên trời… vì của cải các con ở đâu, lòng các con cũng ở đó." — Ma-thi-ơ 6:19-21
 
 Đầu tư với Chúa trong sứ mạng của Ngài sẽ mang lại lợi nhuận lớn hơn bất kỳ khoản đầu tư nào trên đời. Điều tự nhiên của tâm trí con người là theo đuổi những gì mình cho là quan trọng. Nếu chúng ta xem công việc Chúa là ưu tiên, chúng ta sẽ dành cho Ngài trước thay vì để Ngài nhận phần dư thừa.
 

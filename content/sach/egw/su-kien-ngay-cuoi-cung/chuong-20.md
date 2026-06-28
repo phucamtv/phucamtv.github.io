@@ -35,11 +35,11 @@ Tốt hơn quyền sở hữu cung điện cao quý nhất trên đất là quy�
 
 Đức Chúa Giê-su đã đem thiên đàng vào tầm nhìn, và trình bày sự vinh hiển của nó trước mắt chúng ta để cõi đời đời không bị bỏ ra khỏi sự tính toán của chúng ta.—The Signs of the Times, ngày 4 tháng 4 năm 1895. LDE 284.1
 
-Với cõi đời đời trong tầm nhìn, chúng ta sẽ thường xuyên nuôi dưỡng những ý tưởng về sự hiện diện của Đức Chúa Trời. Điều này sẽ là một tấm khiên chống lại sự xâm nhập của kẻ thù; nó sẽ ban cho sức mạnh và sự bảo đảm, và nâng linh hồn lên trên nỗi sợ hãi. Hít thở bầu không khí của thiên đàng, chúng ta sẽ không hít thở khí độc của thế gian này... LDE 284.2
+Với cõi đời đời trong tầm nhìn, chúng ta sẽ thường xuyên nuôi dưỡng những ý tưởng về sự hiện diện của Đức Chúa Trời. Điều này sẽ là một tấm khiên chống lại sự xâm nhập của kẻ thù; nó sẽ ban cho sức mạnh và sự bảo đảm, và nâng linh hồn lên trên nỗi sợ hãi. Hít thở bầu không khí của thiên đàng, chúng ta sẽ không hít thở khí độc của thế gian này… LDE 284.2
 
-Đức Chúa Giê-su đến để trình bày những lợi ích và những hình ảnh tươi đẹp của thiên đàng, để những điều hấp dẫn của thiên đàng trở nên quen thuộc với tư tưởng, và sảnh đường ký ức được trang hoàng bằng những bức tranh về vẻ đẹp thiên thượng và đời đời... LDE 284.3
+Đức Chúa Giê-su đến để trình bày những lợi ích và những hình ảnh tươi đẹp của thiên đàng, để những điều hấp dẫn của thiên đàng trở nên quen thuộc với tư tưởng, và sảnh đường ký ức được trang hoàng bằng những bức tranh về vẻ đẹp thiên thượng và đời đời… LDE 284.3
 
-Vị Thầy vĩ đại ban cho con người một cái nhìn về thế giới tương lai. Ngài đem nó, với những sở hữu hấp dẫn của nó, vào trong tầm nhìn của con người... Nếu Ngài có thể giữ chặt tâm trí vào sự sống tương lai và sự phước hạnh của nó, so với những mối bận tâm tạm thời của thế gian này, thì sự tương phản rõ rệt đó sẽ in sâu vào tâm trí, thu hút lấy tấm lòng, linh hồn và toàn bộ con người.—Our High Calling, 285, 286 (1890). LDE 284.4
+Vị Thầy vĩ đại ban cho con người một cái nhìn về thế giới tương lai. Ngài đem nó, với những sở hữu hấp dẫn của nó, vào trong tầm nhìn của con người… Nếu Ngài có thể giữ chặt tâm trí vào sự sống tương lai và sự phước hạnh của nó, so với những mối bận tâm tạm thời của thế gian này, thì sự tương phản rõ rệt đó sẽ in sâu vào tâm trí, thu hút lấy tấm lòng, linh hồn và toàn bộ con người.—Our High Calling, 285, 286 (1890). LDE 284.4
 
 ## Động Cơ Của Cơ-đốc Nhân
 
@@ -56,7 +56,7 @@ Tôi yêu thích nhìn ngắm mọi điều đẹp đẽ trong thiên nhiên ở
 
 ## Một Nơi Thật Và Hữu Hình
 
-Thật là nguồn vui cho các môn đồ khi biết rằng họ có một Người Bạn như vậy ở trên trời để biện hộ cho họ! Qua sự thăng thiên hữu hình của Đấng Christ, tất cả những quan điểm và suy ngẫm của họ về thiên đàng đều đã thay đổi. Trước đây, tâm trí họ đã hình dung thiên đàng như một khu vực không gian vô hạn, nơi cư ngụ của những thần linh không có thể chất. Giờ đây, thiên đàng được gắn liền với ý tưởng về Đức Chúa Giê-su, Đấng mà họ đã yêu mến và tôn kính hơn tất cả mọi người, Đấng mà họ đã trò chuyện và đồng hành, Đấng mà họ đã chạm đến, ngay cả trong thân thể phục sinh của Ngài.... LDE 285.4
+Thật là nguồn vui cho các môn đồ khi biết rằng họ có một Người Bạn như vậy ở trên trời để biện hộ cho họ! Qua sự thăng thiên hữu hình của Đấng Christ, tất cả những quan điểm và suy ngẫm của họ về thiên đàng đều đã thay đổi. Trước đây, tâm trí họ đã hình dung thiên đàng như một khu vực không gian vô hạn, nơi cư ngụ của những thần linh không có thể chất. Giờ đây, thiên đàng được gắn liền với ý tưởng về Đức Chúa Giê-su, Đấng mà họ đã yêu mến và tôn kính hơn tất cả mọi người, Đấng mà họ đã trò chuyện và đồng hành, Đấng mà họ đã chạm đến, ngay cả trong thân thể phục sinh của Ngài.… LDE 285.4
 
 Thiên đàng không còn có thể hiện ra với họ như một không gian mơ hồ, không thể hiểu được, đầy dẫy những thần linh vô hình. Giờ đây họ nhìn thiên đàng như ngôi nhà tương lai của mình, nơi mà những chỗ ở đang được Đấng Cứu Chuộc yêu dấu chuẩn bị cho họ.—The Spirit of Prophecy 3:262 (1878). LDE 286.1
 
@@ -66,7 +66,7 @@ Trong trái đất được dựng nên mới, những người được cứu c
 
 ## Vinh Quang Khôn Tả
 
-Tôi đã thấy sự đáng yêu và vinh quang vô hạn của Đức Chúa Giê-su. Diện mạo Ngài sáng hơn mặt trời lúc giữa trưa. Áo Ngài trắng hơn cả màu trắng tinh khiết nhất. Làm sao tôi có thể... mô tả cho các bạn về vinh quang của thiên đàng, và các thiên sứ đáng yêu đang ca hát và gảy trên đàn cầm mười dây của họ!—Letter 3, 1851. LDE 286.4
+Tôi đã thấy sự đáng yêu và vinh quang vô hạn của Đức Chúa Giê-su. Diện mạo Ngài sáng hơn mặt trời lúc giữa trưa. Áo Ngài trắng hơn cả màu trắng tinh khiết nhất. Làm sao tôi có thể… mô tả cho các bạn về vinh quang của thiên đàng, và các thiên sứ đáng yêu đang ca hát và gảy trên đàn cầm mười dây của họ!—Letter 3, 1851. LDE 286.4
 
 Những điều kỳ diệu mà tôi đã thấy ở đó, tôi không thể nào mô tả được. Ôi, ước gì tôi có thể nói được tiếng Ca-na-an, thì khi ấy tôi có thể kể được đôi chút về vinh quang của thế giới tốt đẹp hơn.—Early Writings, 19 (1851). LDE 287.1
 
@@ -86,15 +86,15 @@ Có những dòng suối chảy không ngừng, trong vắt như pha lê, và b�
 
 Tôi thấy một cánh đồng khác đầy dẫy đủ loại hoa, và khi tôi hái chúng, tôi kêu lên: "Chúng sẽ không bao giờ tàn úa." Tiếp đó tôi thấy một cánh đồng cỏ cao, đẹp tuyệt vời để chiêm ngưỡng; nó xanh tươi sống động và có ánh phản chiếu của bạc và vàng, khi nó đong đưa cách kiêu hãnh để tôn vinh Vua Đức Chúa Giê-su. Rồi chúng tôi bước vào một cánh đồng đầy đủ loại muông thú — sư tử, chiên con, beo, và sói, tất cả cùng nhau trong sự hiệp nhất hoàn hảo. Chúng tôi đi ngang qua giữa chúng, và chúng bình an đi theo sau. LDE 288.2
 
-Rồi chúng tôi bước vào một khu rừng, không giống như những khu rừng tối tăm chúng ta có ở đây; không, không; nhưng sáng láng và rực rỡ vinh hiển khắp nơi; các cành cây đong đưa qua lại, và tất cả chúng tôi kêu lên: "Chúng ta sẽ ở yên ổn trong đồng vắng và ngủ trong rừng." Chúng tôi đi xuyên qua khu rừng, vì chúng tôi đang trên đường đến Núi Si-ôn... LDE 288.3
+Rồi chúng tôi bước vào một khu rừng, không giống như những khu rừng tối tăm chúng ta có ở đây; không, không; nhưng sáng láng và rực rỡ vinh hiển khắp nơi; các cành cây đong đưa qua lại, và tất cả chúng tôi kêu lên: "Chúng ta sẽ ở yên ổn trong đồng vắng và ngủ trong rừng." Chúng tôi đi xuyên qua khu rừng, vì chúng tôi đang trên đường đến Núi Si-ôn… LDE 288.3
 
-Trên núi có một đền thờ vinh hiển... Có đủ loại cây xung quanh đền thờ để làm đẹp nơi này: cây hoàng dương, cây thông, cây tùng, cây dầu, cây sim, cây lựu, và cây vả oằn xuống với sức nặng của những trái vả đúng mùa — những cây này làm cho cả nơi đó rực rỡ vinh hiển... LDE 289.1
+Trên núi có một đền thờ vinh hiển… Có đủ loại cây xung quanh đền thờ để làm đẹp nơi này: cây hoàng dương, cây thông, cây tùng, cây dầu, cây sim, cây lựu, và cây vả oằn xuống với sức nặng của những trái vả đúng mùa — những cây này làm cho cả nơi đó rực rỡ vinh hiển… LDE 289.1
 
 Và tôi thấy một cái bàn bằng bạc ròng; nó dài nhiều dặm, nhưng mắt chúng tôi có thể nhìn xuyên suốt nó. Tôi thấy trái của cây sự sống, ma-na, hạnh nhân, vả, lựu, nho, và nhiều loại trái cây khác. Tôi xin Đức Chúa Giê-su cho phép tôi ăn trái cây ấy. — Early Writings, 18, 19 (1851). LDE 289.2
 
 ## Sức Sống Của Tuổi Trẻ Đời Đời
 
-Mọi người sẽ ra khỏi mồ mả với cùng vóc dáng như khi họ được đặt vào trong đó. A-đam, đứng giữa đoàn người sống lại, có thân hình cao lớn và oai vệ, tầm vóc chỉ kém Con Đức Chúa Trời một chút. Ông tương phản rõ rệt với những người thuộc các thế hệ sau; chỉ riêng điểm này thôi cũng cho thấy sự suy thoái lớn lao của loài người. Nhưng tất cả đều sống lại với vẻ tươi mới và sức sống của tuổi trẻ đời đời.... Được phục hồi để đến bên cây sự sống trong vườn Ê-đen đã mất từ lâu, những người được cứu chuộc sẽ "lớn lên"
+Mọi người sẽ ra khỏi mồ mả với cùng vóc dáng như khi họ được đặt vào trong đó. A-đam, đứng giữa đoàn người sống lại, có thân hình cao lớn và oai vệ, tầm vóc chỉ kém Con Đức Chúa Trời một chút. Ông tương phản rõ rệt với những người thuộc các thế hệ sau; chỉ riêng điểm này thôi cũng cho thấy sự suy thoái lớn lao của loài người. Nhưng tất cả đều sống lại với vẻ tươi mới và sức sống của tuổi trẻ đời đời.… Được phục hồi để đến bên cây sự sống trong vườn Ê-đen đã mất từ lâu, những người được cứu chuộc sẽ "lớn lên"
 
 > "Nhưng về phần các ngươi là kẻ kính sợ danh ta, thì mặt trời công bình sẽ mọc lên cho, trong cánh nó có sự chữa bịnh; các ngươi sẽ đi ra và nhảy nhót như bò tơ của chuồng."
 > <cite>(Ma-la-chi 4:2)</cite>
@@ -103,7 +103,7 @@ Mọi người sẽ ra khỏi mồ mả với cùng vóc dáng như khi họ đ�
 
 Nếu A-đam, khi được sáng tạo, không được ban cho sinh lực gấp hai mươi lần loài người ngày nay, thì với những thói quen sống vi phạm luật tự nhiên hiện tại, loài người chắc đã bị tuyệt chủng.—Testimonies for the Church 3:138 (1872). LDE 289.4
 
-Không ai sẽ cần hay mong muốn nghỉ ngơi. Sẽ không có sự mệt mỏi khi làm theo ý muốn của Đức Chúa Trời và dâng lời ca ngợi danh Ngài. Chúng ta sẽ luôn cảm nhận được sự tươi mới của buổi sáng, và sẽ luôn ở rất xa lúc kết thúc của nó.... Việc thu thập kiến thức sẽ không làm mỏi mệt tâm trí hay làm cạn kiệt năng lực.—The Great Controversy, 676, 677 (1911). LDE 290.1
+Không ai sẽ cần hay mong muốn nghỉ ngơi. Sẽ không có sự mệt mỏi khi làm theo ý muốn của Đức Chúa Trời và dâng lời ca ngợi danh Ngài. Chúng ta sẽ luôn cảm nhận được sự tươi mới của buổi sáng, và sẽ luôn ở rất xa lúc kết thúc của nó.… Việc thu thập kiến thức sẽ không làm mỏi mệt tâm trí hay làm cạn kiệt năng lực.—The Great Controversy, 676, 677 (1911). LDE 290.1
 
 Thiên đàng hoàn toàn là sức khỏe.—Testimonies for the Church 3:172 (1872). LDE 290.2
 
@@ -146,7 +146,7 @@ Tặng phẩm cao quý nhất của Đức Chúa Trời chính là Đấng Chris
 
 Khi những trẻ sơ sinh bé bỏng bước ra bất tử khỏi mồ mả bụi đất, chúng lập tức bay vào vòng tay của mẹ chúng. Chúng gặp lại nhau và sẽ không bao giờ phải lìa xa nữa. Nhưng nhiều trẻ nhỏ không có mẹ ở đó. Chúng ta lắng nghe vô ích bài ca khải hoàn vui mừng của người mẹ. Các thiên sứ tiếp nhận những trẻ sơ sinh không có mẹ và dẫn chúng đến cây sự sống.—Selected Messages 2:260 (1858). LDE 293.1
 
-Một số người đã thắc mắc liệu những đứa trẻ nhỏ của ngay cả những bậc cha mẹ tin Chúa có được cứu hay không, vì chúng chưa từng trải qua sự thử thách về tánh hạnh, mà tất cả đều phải được thử nghiệm và tánh hạnh của họ phải được xác định qua sự thử thách. Câu hỏi được đặt ra là: "Làm thế nào những trẻ nhỏ có thể trải qua sự thử nghiệm và thử thách này?" Tôi xin trả lời rằng đức tin của cha mẹ tin Chúa che phủ con cái, như khi Đức Chúa Trời giáng sự phán xét của Ngài trên các con trưởng nam của người Ê-díp-tô.... LDE 293.2
+Một số người đã thắc mắc liệu những đứa trẻ nhỏ của ngay cả những bậc cha mẹ tin Chúa có được cứu hay không, vì chúng chưa từng trải qua sự thử thách về tánh hạnh, mà tất cả đều phải được thử nghiệm và tánh hạnh của họ phải được xác định qua sự thử thách. Câu hỏi được đặt ra là: "Làm thế nào những trẻ nhỏ có thể trải qua sự thử nghiệm và thử thách này?" Tôi xin trả lời rằng đức tin của cha mẹ tin Chúa che phủ con cái, như khi Đức Chúa Trời giáng sự phán xét của Ngài trên các con trưởng nam của người Ê-díp-tô.… LDE 293.2
 
 Còn về việc tất cả con cái của những bậc cha mẹ không tin có được cứu hay không, chúng ta không thể nói được, vì Đức Chúa Trời đã không bày tỏ ý định của Ngài về vấn đề này, và chúng ta nên để vấn đề đó ở nơi Đức Chúa Trời đã để, mà tập trung vào những đề tài đã được tỏ rõ trong Lời của Ngài.—Selected Messages 3:313-315 (1885). LDE 293.3
 
@@ -178,7 +178,7 @@ Tôi dường như đang ở đó, nơi mọi sự đều bình an, nơi không 
 
 Tiếng nói của họ hòa hợp một cách hoàn hảo. Họ không bao giờ làm điều sai trái với nhau. Các hoàng tử của thiên đàng, các bậc quyền uy của vương quốc hùng vĩ này, chỉ ganh đua nhau trong điều thiện, tìm kiếm hạnh phúc và niềm vui cho nhau. Người lớn nhất nơi đó là người ít tự cao nhất, và người nhỏ nhất là người lớn nhất trong lòng biết ơn và sự giàu có của tình yêu thương. LDE 296.3
 
-Không có những sai lầm tối tăm nào làm mây mù tâm trí. Lẽ thật và sự hiểu biết, rõ ràng, mạnh mẽ và trọn vẹn, đã đuổi đi mọi nghi ngờ, và không một bóng tối nghi ngờ nào còn phủ bóng tai hại của nó trên những cư dân hạnh phúc nơi đây. Không có tiếng tranh cãi nào làm tổn hại sự bình an ngọt ngào và trọn vẹn của thiên đàng. Cư dân của nó không biết đến sầu khổ, đau buồn, hay nước mắt. Tất cả đều hòa hợp hoàn hảo, trật tự hoàn hảo và phước hạnh hoàn hảo.... LDE 296.4
+Không có những sai lầm tối tăm nào làm mây mù tâm trí. Lẽ thật và sự hiểu biết, rõ ràng, mạnh mẽ và trọn vẹn, đã đuổi đi mọi nghi ngờ, và không một bóng tối nghi ngờ nào còn phủ bóng tai hại của nó trên những cư dân hạnh phúc nơi đây. Không có tiếng tranh cãi nào làm tổn hại sự bình an ngọt ngào và trọn vẹn của thiên đàng. Cư dân của nó không biết đến sầu khổ, đau buồn, hay nước mắt. Tất cả đều hòa hợp hoàn hảo, trật tự hoàn hảo và phước hạnh hoàn hảo.… LDE 296.4
 
 Thiên đàng là một mái nhà, nơi sự cảm thông sống động trong mọi tấm lòng, được bày tỏ qua mọi ánh nhìn. Tình yêu thương ngự trị nơi đó. Không có những yếu tố chói tai, không có sự bất hòa hay tranh chấp hay cuộc chiến của lời nói.—Manuscript Releases 9:104, 105 (1882). LDE 296.5
 
@@ -190,7 +190,7 @@ Tôi nghe những tiếng reo mừng chiến thắng từ các thiên sứ và t
 
 ## Sự Tương Giao Với Đức Chúa Cha Và Đức Chúa Con
 
-Dân sự của Đức Chúa Trời được đặc ân tương giao cách cởi mở với Đức Chúa Cha và Đức Chúa Con.... Chúng ta sẽ thấy Ngài mặt đối mặt, không còn một bức màn mờ ngăn cách giữa chúng ta và Ngài nữa.—The Great Controversy, 676, 677 (1911). LDE 297.3
+Dân sự của Đức Chúa Trời được đặc ân tương giao cách cởi mở với Đức Chúa Cha và Đức Chúa Con.… Chúng ta sẽ thấy Ngài mặt đối mặt, không còn một bức màn mờ ngăn cách giữa chúng ta và Ngài nữa.—The Great Controversy, 676, 677 (1911). LDE 297.3
 
 Chúng ta sẽ mãi mãi ở cùng và vui hưởng ánh sáng của diện mạo quý báu của Ngài. Lòng tôi nhảy nhót vui mừng trước viễn cảnh đầy phấn khởi nầy!—In Heavenly Places, 352 (1856). LDE 297.4
 
@@ -238,7 +238,7 @@ Vì sao cuộc tranh chấp lớn lại được cho phép tiếp diễn suốt 
 
 ## Ngợi Khen Đức Chúa Trời Bằng Âm Nhạc Du Dương Phong Phú
 
-Tại đó sẽ có âm nhạc và bài ca, thứ âm nhạc và bài ca mà, ngoại trừ trong các sự hiện thấy của Đức Chúa Trời, không tai phàm nào từng nghe hay tâm trí phàm nào từng nghĩ tới.... LDE 300.1
+Tại đó sẽ có âm nhạc và bài ca, thứ âm nhạc và bài ca mà, ngoại trừ trong các sự hiện thấy của Đức Chúa Trời, không tai phàm nào từng nghe hay tâm trí phàm nào từng nghĩ tới.… LDE 300.1
 
 Bài ca mà những người được cứu chuộc sẽ hát—bài ca về kinh nghiệm của họ—sẽ tuyên bố sự vinh hiển của Đức Chúa Trời:
 
@@ -253,11 +253,11 @@ Không phải như một người sầu khổ, mà như một vị vua vinh hi�
 
 ## Tìm Kiếm Những Kho Tàng Của Vũ Trụ
 
-Tại đó, khi bức màn che mờ tầm nhìn của chúng ta được cất đi, và mắt chúng ta sẽ chiêm ngưỡng thế giới xinh đẹp mà giờ đây chúng ta chỉ thoáng thấy qua kính hiển vi, khi chúng ta nhìn lên vinh quang của các tầng trời, mà giờ đây chỉ có thể quan sát từ xa qua kính viễn vọng, khi sự rủa sả của tội lỗi đã được cất bỏ, và cả trái đất sẽ hiện ra "trong vẻ đẹp của Giê-hô-va Đức Chúa Trời chúng ta," thì một lãnh vực nghiên cứu rộng lớn biết bao sẽ mở ra cho chúng ta! Tại đó, người nghiên cứu khoa học có thể đọc những ghi chép về cuộc sáng tạo mà không tìm thấy điều gì gợi nhớ đến luật của sự ác. Người ấy có thể lắng nghe âm nhạc của tiếng nói thiên nhiên mà không nhận ra một nốt than van hay một âm điệu buồn thảm nào.... LDE 300.5
+Tại đó, khi bức màn che mờ tầm nhìn của chúng ta được cất đi, và mắt chúng ta sẽ chiêm ngưỡng thế giới xinh đẹp mà giờ đây chúng ta chỉ thoáng thấy qua kính hiển vi, khi chúng ta nhìn lên vinh quang của các tầng trời, mà giờ đây chỉ có thể quan sát từ xa qua kính viễn vọng, khi sự rủa sả của tội lỗi đã được cất bỏ, và cả trái đất sẽ hiện ra "trong vẻ đẹp của Giê-hô-va Đức Chúa Trời chúng ta," thì một lãnh vực nghiên cứu rộng lớn biết bao sẽ mở ra cho chúng ta! Tại đó, người nghiên cứu khoa học có thể đọc những ghi chép về cuộc sáng tạo mà không tìm thấy điều gì gợi nhớ đến luật của sự ác. Người ấy có thể lắng nghe âm nhạc của tiếng nói thiên nhiên mà không nhận ra một nốt than van hay một âm điệu buồn thảm nào.… LDE 300.5
 
 Tất cả những kho tàng của vũ trụ sẽ được mở ra cho con cái của Đức Chúa Trời nghiên cứu. Với niềm vui không thể diễn tả, chúng ta sẽ bước vào niềm vui và sự khôn ngoan của các sinh vật chưa sa ngã. Chúng ta sẽ chia sẻ những kho tàng đã đạt được qua biết bao thời đại dành để chiêm ngưỡng công việc tay Đức Chúa Trời làm.—Education, 303, 307 (1903). LDE 301.1
 
-Không còn bị ràng buộc bởi sự hay chết, họ tung cánh bay không mệt mỏi đến các thế giới xa xôi—những thế giới đã rung chuyển vì đau buồn trước cảnh tượng khốn khổ của loài người, và đã vang lên những bài ca vui mừng trước tin tức về một linh hồn được cứu chuộc.... Với tầm nhìn không hề mờ tối, họ chiêm ngưỡng vinh quang của cuộc sáng tạo—những mặt trời, các vì sao và các thiên hệ, tất cả đều theo thứ tự đã định mà xoay quanh ngôi của Đấng Thiêng Liêng. Trên tất cả mọi vật, từ nhỏ nhất đến lớn nhất, danh của Đấng Tạo Hóa được khắc ghi, và trong tất cả đều bày tỏ sự giàu có của quyền năng Ngài.—The Great Controversy, 677, 678 (1911). LDE 301.2
+Không còn bị ràng buộc bởi sự hay chết, họ tung cánh bay không mệt mỏi đến các thế giới xa xôi—những thế giới đã rung chuyển vì đau buồn trước cảnh tượng khốn khổ của loài người, và đã vang lên những bài ca vui mừng trước tin tức về một linh hồn được cứu chuộc.… Với tầm nhìn không hề mờ tối, họ chiêm ngưỡng vinh quang của cuộc sáng tạo—những mặt trời, các vì sao và các thiên hệ, tất cả đều theo thứ tự đã định mà xoay quanh ngôi của Đấng Thiêng Liêng. Trên tất cả mọi vật, từ nhỏ nhất đến lớn nhất, danh của Đấng Tạo Hóa được khắc ghi, và trong tất cả đều bày tỏ sự giàu có của quyền năng Ngài.—The Great Controversy, 677, 678 (1911). LDE 301.2
 
 ## Lịch Sử Thánh Được Ôn Lại
 
@@ -267,7 +267,7 @@ Các chủ đề về sự cứu chuộc sẽ chiếm trọn tấm lòng, tâm t
 
 Bấy giờ, sẽ được mở ra trước mắt người ấy diễn tiến của cuộc đại tranh chấp đã khởi sự trước khi thời gian bắt đầu, và chỉ kết thúc khi thời gian không còn nữa. Lịch sử về sự khởi đầu của tội lỗi, về sự dối trá chí tử trong cách vận hành quanh co của nó, về lẽ thật vốn không bao giờ chệch khỏi đường thẳng của mình, đã đối đầu và chiến thắng sai lầm—tất cả sẽ được tỏ bày. Bức màn ngăn cách giữa thế giới hữu hình và vô hình sẽ được vén lên và những điều kỳ diệu sẽ được tiết lộ.—Education, 304 (1903). LDE 302.1
 
-Mặc dầu những nỗi buồn, đau đớn và cám dỗ của trần gian đã chấm dứt và nguyên nhân đã được loại bỏ, dân sự của Đức Chúa Trời sẽ mãi mãi có một sự hiểu biết rõ ràng và sáng suốt về cái giá mà sự cứu rỗi của họ đã phải trả.... LDE 302.2
+Mặc dầu những nỗi buồn, đau đớn và cám dỗ của trần gian đã chấm dứt và nguyên nhân đã được loại bỏ, dân sự của Đức Chúa Trời sẽ mãi mãi có một sự hiểu biết rõ ràng và sáng suốt về cái giá mà sự cứu rỗi của họ đã phải trả.… LDE 302.2
 
 Đấng Cứu Chuộc của chúng ta sẽ mãi mãi mang những dấu tích của sự đóng đinh Ngài. Trên đầu bị thương của Ngài, trên cạnh sườn Ngài, trên tay và chân Ngài, là những dấu vết duy nhất còn lại của công việc tàn ác mà tội lỗi đã gây ra.—The Great Controversy, 651, 674 (1911). LDE 302.3
 
@@ -287,7 +287,7 @@ Nhiều người lao động gửi đi khắp thế gian những thông điệp 
 
 ## Niềm Vui Của Chúng Ta Sẽ Không Ngừng Gia Tăng
 
-Có những điều mầu nhiệm trong kế hoạch cứu chuộc—sự hạ mình của Con Đức Chúa Trời, để Ngài được tìm thấy trong hình dạng một con người, tình yêu thương và sự khiêm nhường lạ lùng của Đức Chúa Cha khi ban Con Ngài—những điều ấy là chủ đề kinh ngạc không ngừng đối với các thiên sứ trên trời.... Và đây sẽ là đề tài nghiên cứu của những người được cứu chuộc qua những thời đại đời đời. Khi họ chiêm ngưỡng công việc của Đức Chúa Trời trong sự sáng tạo và cứu chuộc, lẽ thật mới sẽ liên tục được tỏ bày cho tâm trí kinh ngạc và vui mừng của họ. Khi họ học biết ngày càng nhiều hơn về sự khôn ngoan, tình yêu thương và quyền năng của Đức Chúa Trời, tâm trí họ sẽ không ngừng được mở rộng, và niềm vui của họ sẽ liên tục gia tăng.—Testimonies for the Church 5:702, 703 (1889). LDE 304.2
+Có những điều mầu nhiệm trong kế hoạch cứu chuộc—sự hạ mình của Con Đức Chúa Trời, để Ngài được tìm thấy trong hình dạng một con người, tình yêu thương và sự khiêm nhường lạ lùng của Đức Chúa Cha khi ban Con Ngài—những điều ấy là chủ đề kinh ngạc không ngừng đối với các thiên sứ trên trời.… Và đây sẽ là đề tài nghiên cứu của những người được cứu chuộc qua những thời đại đời đời. Khi họ chiêm ngưỡng công việc của Đức Chúa Trời trong sự sáng tạo và cứu chuộc, lẽ thật mới sẽ liên tục được tỏ bày cho tâm trí kinh ngạc và vui mừng của họ. Khi họ học biết ngày càng nhiều hơn về sự khôn ngoan, tình yêu thương và quyền năng của Đức Chúa Trời, tâm trí họ sẽ không ngừng được mở rộng, và niềm vui của họ sẽ liên tục gia tăng.—Testimonies for the Church 5:702, 703 (1889). LDE 304.2
 
 Và những năm tháng đời đời, khi chúng trôi qua, sẽ mang đến những sự mặc khải phong phú và vinh hiển hơn nữa về Đức Chúa Trời và về Đấng Christ. Khi tri thức cứ tiến triển, thì tình yêu thương, lòng tôn kính và niềm hạnh phúc cũng sẽ gia tăng. Loài người càng học biết về Đức Chúa Trời, họ càng thán phục đặc tánh của Ngài hơn. Khi Đức Chúa Giê-su mở ra trước họ những sự giàu có của sự cứu chuộc và những thành tựu kỳ diệu trong cuộc đại tranh chiến với Sa-tan, lòng của những người được chuộc rúng động với lòng tận hiến nồng nhiệt hơn, và với niềm vui ngất ngây hơn, họ gảy những chiếc đàn hạc bằng vàng; và mười ngàn lần mười ngàn cùng hàng ngàn hàng ngàn tiếng nói hiệp lại để vang lên bài đại hợp xướng ngợi khen hùng tráng.—The Great Controversy, 678 (1911). LDE 305.1
 

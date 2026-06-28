@@ -36,7 +36,7 @@ Kinh Thánh nêu lên những người bị đói, khát, trần truồng, là k
 
 ### Thứ Hai: Giúp Đỡ Với Tinh Thần Vô Vị Kỷ
 
-Điều đáng chú ý là những người bên hữu — tức là "chiên" được thưởng — họ *ngạc nhiên*. Khi Vua bảo "ngươi đã thấy Ta đói cho Ta ăn, thấy Ta khát cho Ta uống..." thì những người này thưa lại: *"Lạy Chúa, khi nào chúng tôi đã thấy Chúa đói mà cho ăn, hoặc khát mà cho uống?"*
+Điều đáng chú ý là những người bên hữu — tức là "chiên" được thưởng — họ *ngạc nhiên*. Khi Vua bảo "ngươi đã thấy Ta đói cho Ta ăn, thấy Ta khát cho Ta uống…" thì những người này thưa lại: *"Lạy Chúa, khi nào chúng tôi đã thấy Chúa đói mà cho ăn, hoặc khát mà cho uống?"*
 
 Họ hoàn toàn không nghĩ rằng mình đã làm những việc đó cho Chúa. Họ không làm để được thưởng, không làm vì biết sẽ được ghi công. Họ giúp những người đói rách, khách lạ, đau yếu, tù đày — tức là những người không có khả năng trả ơn lại — với một động lực hoàn toàn vô vị kỷ: lòng thương xót, sự trắc ẩn, không thể không giúp.
 
@@ -66,7 +66,7 @@ Có một nền tảng thần học sâu sắc ở đây: Đức Chúa Trời đ
 
 Vì vậy, tất cả mọi người trên thế gian — dù tin Chúa hay không tin, theo Chúa hay phản bội Chúa — đều là con của Ngài theo nghĩa tạo dựng. Khi chúng ta giúp đỡ nhu cầu của những người chung quanh, chúng ta đang giúp con của Chúa. Khi chúng ta bỏ qua, chúng ta đang bỏ qua anh em của mình.
 
-Điều này cũng có nghĩa là không có ranh giới chính trị hay thành kiến xã hội nào được phép ngăn cản chúng ta làm lành: "Tôi định giúp người đó nhưng họ là... [điền vào chỗ trống]" — tất cả những lý do đó đều không đứng vững trước câu chuyện này.
+Điều này cũng có nghĩa là không có ranh giới chính trị hay thành kiến xã hội nào được phép ngăn cản chúng ta làm lành: "Tôi định giúp người đó nhưng họ là… [điền vào chỗ trống]" — tất cả những lý do đó đều không đứng vững trước câu chuyện này.
 
 ---
 

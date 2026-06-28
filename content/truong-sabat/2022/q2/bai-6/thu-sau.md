@@ -10,9 +10,9 @@ NGHIÊN CỨU BỔ TÚC
 
 “Hội Thánh của Đấng Cơ-đốc trở nên một nguồn phước và các thuộc viên của Hội Thánh sẽ được ban phước khi họ mang phước lành cho những người khác. Mục tiêu của Đức Chúa Trời khi chọn một dân tộc trong thế gian không chỉ là Ngài có thể nhận họ làm con trai và con gái của Ngài, mà còn nhờ họ mà Ngài có thể ban cho thế gian những ơn phước trong sự soi sáng của Đức Chúa Trời. Khi Chúa chọn Áp-ra-ham, ông không chỉ đơn giản là để trở thành người bạn đặc biệt của Chúa, mà còn là nơi của những đặc ân quý giá và đặc biệt Chúa muốn ban cho nhiều dân tộc. Ông phải là một ngọn đèn sáng giữa những con người đạo đức đen tối xung quanh ông.
 
-“Bất cứ khi nào Đức Chúa Trời ban phước cho con cái Ngài bằng ánh sáng và lẽ thật, thì không những họ có thể được ban cho món quà sự sống đời đời, mà những người xung quanh họ cũng có thể được soi sáng về phần thuộc linh... “Chúng ta là muối của đất” và khi Đức Chúa Trời làm cho con cái Ngài trở thành muối, điều đó không chỉ để bảo vệ chính họ, mà họ có thể là nguồn phước cho những người khác...
+“Bất cứ khi nào Đức Chúa Trời ban phước cho con cái Ngài bằng ánh sáng và lẽ thật, thì không những họ có thể được ban cho món quà sự sống đời đời, mà những người xung quanh họ cũng có thể được soi sáng về phần thuộc linh… “Chúng ta là muối của đất” và khi Đức Chúa Trời làm cho con cái Ngài trở thành muối, điều đó không chỉ để bảo vệ chính họ, mà họ có thể là nguồn phước cho những người khác…
 
-“Bạn có tỏa sáng như những viên đá sống động trong nhà của Đức Chúa Trời không?...Chúng ta không phải là tôn giáo chân chính, trừ khi sức ảnh hưởng của chúng ta được kiểm soát trong mọi công việc. Chúng ta nên kết hợp sự tin kính thực tế với công việc của cả đời. Chúng ta được biến đổi bởi ân điển của Đấng Cơ-đốc trong tâm hồn chúng ta.”- Ellen G. White, Reflectingcơ-đốc, trang 205.
+“Bạn có tỏa sáng như những viên đá sống động trong nhà của Đức Chúa Trời không?…Chúng ta không phải là tôn giáo chân chính, trừ khi sức ảnh hưởng của chúng ta được kiểm soát trong mọi công việc. Chúng ta nên kết hợp sự tin kính thực tế với công việc của cả đời. Chúng ta được biến đổi bởi ân điển của Đấng Cơ-đốc trong tâm hồn chúng ta.”- Ellen G. White, Reflectingcơ-đốc, trang 205.
 
 **Câu hỏi thảo luận**:
 

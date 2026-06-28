@@ -7,7 +7,7 @@ weight: 7
 
 "Chúng ta không có sự công bình nào của riêng mình để đáp ứng các đòi hỏi của luật pháp Đức Chúa Trời. Nhưng Đấng Cơ-đốc đã mở ra một con đường thoát cho chúng ta… Nếu bạn dâng chính mình cho Ngài, và chấp nhận Ngài làm Cứu Chúa của mình, thì dù đời sống bạn đã từng tội lỗi đến đâu, vì cớ Ngài, bạn sẽ được kể là công chính. Tính cách của Đấng Cơ-đốc sẽ đứng thay cho tính cách của bạn, và bạn sẽ được Đức Chúa Trời chấp nhận như thể bạn chưa từng phạm tội.
 
-"Hơn thế nữa, Đấng Cơ-đốc thay đổi tấm lòng. Ngài ngự trong lòng bạn bởi đức tin. Bạn cần duy trì mối liên hệ này với Đấng Cơ-đốc qua đức tin và sự đầu phục ý chí của mình cho Ngài một cách liên tục; và chừng nào bạn còn làm như vậy, thì Ngài sẽ hành động trong bạn để bạn muốn và sẽ làm theo ý tốt lành của Ngài...
+"Hơn thế nữa, Đấng Cơ-đốc thay đổi tấm lòng. Ngài ngự trong lòng bạn bởi đức tin. Bạn cần duy trì mối liên hệ này với Đấng Cơ-đốc qua đức tin và sự đầu phục ý chí của mình cho Ngài một cách liên tục; và chừng nào bạn còn làm như vậy, thì Ngài sẽ hành động trong bạn để bạn muốn và sẽ làm theo ý tốt lành của Ngài…
 
 "Vậy nên, chúng ta không có gì trong bản thân mình để mà khoe. Chúng ta không có lý do nào để tự cao. Nền tảng duy nhất cho hy vọng của chúng ta là sự công bình của Đấng Cơ-đốc được kể cho chúng ta, và sự công chính do Thánh Linh Ngài hành động trong chúng ta và qua chúng ta.", Ellen G. White, Con Đường Giải Thoát, tr. 62, 63.
 

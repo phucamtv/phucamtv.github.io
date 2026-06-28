@@ -54,7 +54,7 @@ Có một chuỗi mạc khải rõ ràng: Đức Chúa Trời ban cho Đức Ch�
 
 Trong Cựu Ước, tiếng phán của Đức Chúa Trời thường được ví với tiếng sấm — như Gióp 37:5, hay Giăng 12:28–30 khi đám đông nghe tiếng từ trời nhưng tưởng đó là tiếng sấm. Văn bản đặc biệt soi sáng nhất là **Thi Thiên 29:3–9**, nơi *“tiếng của Đức Giê-hô-va”* được lặp lại bảy lần, mở đầu bằng *“Đức Chúa Trời vinh hiển sấm sét”*. Như vậy, bảy tiếng sấm trong Khải Huyền 10 là **bảy lần phán bày tỏ tiếng của Đức Chúa Trời**.
 
-Giăng hiểu các tiếng sấm ấy nói gì — vì chính câu kế tiếp cho thấy ông *sắp chép lại*. Nhưng khác với mọi khải tượng khác mà ông luôn được lệnh phải chép, lần này tiếng từ trời ngăn lại: *“Hãy đóng ấn... và đừng chép làm chi.”*
+Giăng hiểu các tiếng sấm ấy nói gì — vì chính câu kế tiếp cho thấy ông *sắp chép lại*. Nhưng khác với mọi khải tượng khác mà ông luôn được lệnh phải chép, lần này tiếng từ trời ngăn lại: *“Hãy đóng ấn… và đừng chép làm chi.”*
 
 Điều này nhắc chúng ta về **Phục Truyền Luật Lệ Ký 29:29**: *“Những sự bí mật thuộc về Giê-hô-va Đức Chúa Trời chúng ta; song những sự bày tỏ thuộc về chúng ta…”* Không phải mọi điều về tương lai và về thời kỳ cuối cùng đều được mặc khải cho chúng ta. Khi nghiên cứu các lời tiên tri tận thế, chúng ta phải cẩn trọng không vượt quá điều Đức Chúa Trời định cho chúng ta được biết.
 

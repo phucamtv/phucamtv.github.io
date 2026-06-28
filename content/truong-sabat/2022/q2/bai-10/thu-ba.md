@@ -14,8 +14,8 @@ Tuy nhiên, lần đầu tiên trong đời, Gia-cốp tức làY-sơ-ra-ên ph�
 
 Câu chuyện về sự cố tồi tệ này làm nổi bật sự việckhông rõ ràng của các nhân vật và hành động của họ. Si-chemdâm dục, người bạo hành Đi-na, cũng biểu hiện sự chân thành và yêu thương Đi-na và cố gắng muốn trở nên tốt hơn. Thậm chí ông sẵn sàng trải qua nghi thức giao ước cắt bì.
 
-Trong khi đó, Si-mê-ôn và Lê-vi, tự thể hiện mình là người bảo vệ Đức Chúa Trời và các điều răn của Ngài,chống lại việc kết hôn với người Ca-na-an (Lê-vi Ký 19:29), dùng lời nói dối và lừa gạt (Sáng-thế Ký 34:13) sẵn sàng giết người và cướp bóc (Sáng-thế Ký 34:25–27). Hành động của họ không chỉ đáng trách (tại sao không trừng phạt kẻ đã làm điều đó?) mà còn gây ra nhiều vấn đề khác.
+Trong khi đó, Si-mê-ôn và Lê-vi, tự thể hiện mình là người bảo vệ Đức Chúa Trời và các điều răn của Ngài, chống lại việc kết hôn với người Ca-na-an (Lê-vi Ký 19:29), dùng lời nói dối và lừa gạt (Sáng-thế Ký 34:13) sẵn sàng giết người và cướp bóc (Sáng-thế Ký 34:25–27). Hành động của họ không chỉ đáng trách (tại sao không trừng phạt kẻ đã làm điều đó?) mà còn gây ra nhiều vấn đề khác.
 
 Về phần Gia-cốp, ông chỉ quan tâm đến sự bình an. Khi được báo tin Si-chem làm hư danh giá con gái mình là Đi-na, ông không nói gì cả (Sáng-thế Ký 34:5). Tuy nhiên, sau khi nghe về những gì các con trai mình đã làm, ông công khai chê bai họ vì những điều có thể xảy ra: “Bay xui cho tao bối rối, làm cho dân xứ nầy, là người Ca-na-an và người Phê-rê-sít, oán ghét tao vậy. Tao đây, chi có ít người; nếu họ hiệp lại đánh tao, thì chắc tao và nội nhà đều bị tàn hại”(Sáng-thế Ký 34:30).
 
-`Qua những lời ký thuật này,chúng ta thấy sự lặp đi lặp lại việc gian dối và lừa gạt, cũng như những hành động nhân từ và ân điển của Chúa. Điều này cho chúng ta biết gì về bản chất con người?`
+`Qua những lời ký thuật này, chúng ta thấy sự lặp đi lặp lại việc gian dối và lừa gạt, cũng như những hành động nhân từ và ân điển của Chúa. Điều này cho chúng ta biết gì về bản chất con người?`

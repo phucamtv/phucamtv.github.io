@@ -32,7 +32,7 @@ Ca-in giận Đức Chúa Trời vì lễ vật của mình không được nh�
 
 ## Lời Chúa Dạy: Đừng Ghét Anh Em Mình
 
-Kinh Thánh từ lâu đã dạy dỗ và ngăn ngừa chúng ta về mối nguy hiểm của lòng ghét. Trong Lê-vi Ký 19:17, Lời Chúa phán rằng: "Chớ có lòng ghen ghét anh em mình... đừng vì cớ họ mà phải mắc tội." Cái đáng ghét của người khác rất dễ đẩy chúng ta đến chỗ phạm tội — trên đường đi, trong gia đình, ở mọi nơi trong cuộc sống.
+Kinh Thánh từ lâu đã dạy dỗ và ngăn ngừa chúng ta về mối nguy hiểm của lòng ghét. Trong Lê-vi Ký 19:17, Lời Chúa phán rằng: "Chớ có lòng ghen ghét anh em mình… đừng vì cớ họ mà phải mắc tội." Cái đáng ghét của người khác rất dễ đẩy chúng ta đến chỗ phạm tội — trên đường đi, trong gia đình, ở mọi nơi trong cuộc sống.
 
 Cảm xúc là điều tự nhiên mà Đức Chúa Trời không cấm — vui, buồn, giận đều là cảm xúc bình thường. Chính Đức Chúa Trời cũng buồn, cũng giận. Nhưng vấn đề nằm ở chỗ: cái gì xảy ra sau cảm xúc đó? Vui quá có khi phạm tội, buồn quá có khi phạm tội, giận quá cũng có khi phạm tội. Chính cái tiếp theo sau cảm xúc mới là điều cần được kiểm soát bằng Lời Chúa.
 

@@ -32,4 +32,4 @@ Chàng thanh niên cao hứng: "Được, nếu ông biết đọc, cháu rất 
 
 Ôi! Lòng tự phụ của con người sao to lớn quá trong một khối óc nhỏ bé quá! Ước gì họ có được một giây phút nào đó trong đời để nhận ra sự dốt nát của người so với sự vĩ đại của Thượng Đế. Và nếu giây phút huyền nhiệm ấy đến, chỉ một giây phút thôi, mọi sự sẽ biến đổi, mọi miệng kiêu ngạo sẽ câm lặng, mọi lòng thách thức sẽ hạ xuống, những cái đầu ngang bướng sẽ phải cúi gục, để thống hối nhận ra rằng Chúa là Thượng Đế vĩ đại, Đấng quản trị muôn loài!
 
-> "Chúng ta giảng Đấng Cơ-đốc... trên cây thập tự, ... dân ngoại cho là rồ dại... (song) Đấng Cơ-đốc là quyền phép của Đức Chúa Trời. Bởi sự rồ dại của Đức Chúa Trời là khôn sáng hơn người ta, và sự yếu đuối của Ngài là mạnh hơn người ta." — I Cô-rinh-tô 1:23-25
+> "Chúng ta giảng Đấng Cơ-đốc… trên cây thập tự, … dân ngoại cho là rồ dại… (song) Đấng Cơ-đốc là quyền phép của Đức Chúa Trời. Bởi sự rồ dại của Đức Chúa Trời là khôn sáng hơn người ta, và sự yếu đuối của Ngài là mạnh hơn người ta." — I Cô-rinh-tô 1:23-25

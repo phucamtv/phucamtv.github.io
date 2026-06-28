@@ -14,7 +14,7 @@ Trong bài học trước, chúng ta đã thấy Đức Chúa Trời cưới Y-s
 
 Ê-xê-chi-ên 16 và 23 mô tả Y-sơ-ra-ên trở thành một kỹ nữ vì đã tiếp nhận giáo lý và phong tục của các dân ngoại — những điều mà Kinh Thánh gọi là *những điều gớm ghiếc của các dân tộc*. Bà cũng tà dâm với các vua thế gian, kết liên minh chính trị thay vì nương cậy nơi Đức Chúa Trời, và trang sức bằng vàng bạc để thu hút sự chú ý cho chính mình.
 
-Trong Ê-xê-chi-ên 16:32, Đức Chúa Trời phán cùng người vợ bất trung: *"Ngươi là vợ ngoại tình, đã lấy người lạ thay vì chồng mình."* Câu 30 còn mạnh hơn: *"Lòng ngươi mê muội biết bao... khi ngươi làm những việc của một kỹ nữ trơ trẽn."* Chữ *trơ trẽn* trong tiếng Hê-bơ-rơ mang nghĩa ngang ngược, độc đoán, muốn làm theo ý mình và áp đặt lên người khác.
+Trong Ê-xê-chi-ên 16:32, Đức Chúa Trời phán cùng người vợ bất trung: *"Ngươi là vợ ngoại tình, đã lấy người lạ thay vì chồng mình."* Câu 30 còn mạnh hơn: *"Lòng ngươi mê muội biết bao… khi ngươi làm những việc của một kỹ nữ trơ trẽn."* Chữ *trơ trẽn* trong tiếng Hê-bơ-rơ mang nghĩa ngang ngược, độc đoán, muốn làm theo ý mình và áp đặt lên người khác.
 
 Dù vậy, ngay giữa cơn bội đạo, Đức Chúa Trời vẫn có một dân sót trung thành. Theo Ê-xê-chi-ên 9, những người than thở và khóc lóc vì các điều gớm ghiếc của dân sự đã được đóng ấn trên trán, và khi Nê-bu-cát-nết-sa hủy diệt Giê-ru-sa-lem, chính họ được giữ gìn.
 
@@ -104,7 +104,7 @@ Ngay sau khi Ê-xê-chi-ên thấy hai mươi lăm người thờ lạy mặt tr
 
 Giê-ru-sa-lem bị hủy diệt vì cớ gì? Giê-rê-mi 17:27 trả lời thẳng thắn: vì dân sự không vâng lời để giữ ngày Sa-bát làm thánh. Những người giữ ngày Sa-bát thánh được giữ gìn; những người thờ lạy mặt trời bị hủy diệt. Đó là khung cảnh Cựu Ước cho điều sẽ xảy ra ở thời kỳ cuối.
 
-Trong sách *Thiện Ác Đấu Tranh*, trang 389, có một câu rất sâu sắc: *"Nếu thế gian không bị say đến vô phương cứu chữa bởi rượu của Ba-by-lôn, thì vô số người sẽ được thuyết phục và quay lại bởi các lẽ thật rõ ràng và sắc bén của lời Đức Chúa Trời. Nhưng đức tin tôn giáo hiện ra hỗn loạn và bất hòa đến nỗi dân chúng không biết phải tin điều gì là chân lý... Tội về sự không ăn năn của thế gian nằm tại cửa của Hội Thánh."*
+Trong sách *Thiện Ác Đấu Tranh*, trang 389, có một câu rất sâu sắc: *"Nếu thế gian không bị say đến vô phương cứu chữa bởi rượu của Ba-by-lôn, thì vô số người sẽ được thuyết phục và quay lại bởi các lẽ thật rõ ràng và sắc bén của lời Đức Chúa Trời. Nhưng đức tin tôn giáo hiện ra hỗn loạn và bất hòa đến nỗi dân chúng không biết phải tin điều gì là chân lý… Tội về sự không ăn năn của thế gian nằm tại cửa của Hội Thánh."*
 
 Đại thử thách của thời kỳ cuối là: bạn tiếp nhận lẽ thật của Đức Chúa Trời, hay tiếp nhận sự giả mạo cùng các phép lạ do kẻ chống Đấng Christ thực hiện? II Tê-sa-lô-ni-ca 2:9–12 cảnh báo rằng những kẻ hư mất *"không nhận lãnh sự yêu thương của lẽ thật để được cứu"*, vì vậy Đức Chúa Trời cho phép sự lừa dối mạnh mẽ giáng trên họ. Lẽ thật quan trọng. Giáo lý quan trọng. Thực hành quan trọng.
 

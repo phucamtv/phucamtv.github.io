@@ -124,7 +124,7 @@ Gáp-ri-ên giải thích từng yếu tố của **chazon**: con chiên đực 
 
 Tuy nhiên có một phần Gáp-ri-ên **không** giải thích: cuộc đối thoại giữa hai thiên sứ về 2.300 buổi chiều và buổi mai. Đa-ni-ên 8:27 cho biết lý do:
 
-> "Bấy giờ ta, Đa-ni-ên, mê mẩn, và đau ốm trong mấy ngày... Ta lấy làm lạ về sự hiện thấy ấy, và chẳng ai rõ ý nó."
+> "Bấy giờ ta, Đa-ni-ên, mê mẩn, và đau ốm trong mấy ngày… Ta lấy làm lạ về sự hiện thấy ấy, và chẳng ai rõ ý nó."
 
 Đa-ni-ên hiểu **chazon** vì Gáp-ri-ên đã giải đến tận "vua của các vua". Nhưng phần **mareh** — thời kỳ 2.300 ngày — chưa được giải, vì Đa-ni-ên đã ngất xỉu và bệnh.
 

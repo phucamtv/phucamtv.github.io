@@ -68,7 +68,7 @@ Vải gai mịn, Kinh Thánh nói, "tức là công việc công bình của cá
 
 Nhưng điều này họ không bao giờ có thể làm được. Không có điều gì loài người có thể bày ra để thay thế chiếc áo vô tội đã mất của mình. Không một chiếc áo lá vả nào, không một trang phục thường ngày trần tục nào, có thể được mặc bởi những người ngồi chung với Đấng Christ và các thiên sứ tại tiệc cưới của Chiên Con. COL 311.2
 
-Chỉ có chiếc áo mà chính Đấng Christ đã sắm sửa mới có thể làm cho chúng ta xứng đáng xuất hiện trước sự hiện diện của Đức Chúa Trời. Chiếc áo này, áo của chính sự công bình của Ngài, Đấng Christ sẽ khoác lên mỗi linh hồn ăn năn, tin cậy. Ngài phán, "Ta khuyên ngươi hãy mua... áo trắng của ta, hầu cho ngươi có áo mặc, khỏi lộ sự xấu hổ mình ra."
+Chỉ có chiếc áo mà chính Đấng Christ đã sắm sửa mới có thể làm cho chúng ta xứng đáng xuất hiện trước sự hiện diện của Đức Chúa Trời. Chiếc áo này, áo của chính sự công bình của Ngài, Đấng Christ sẽ khoác lên mỗi linh hồn ăn năn, tin cậy. Ngài phán, "Ta khuyên ngươi hãy mua… áo trắng của ta, hầu cho ngươi có áo mặc, khỏi lộ sự xấu hổ mình ra."
 
 > "Ta khuyên ngươi hãy mua vàng thử lửa của ta, hầu cho ngươi trở nên giàu có; mua những áo trắng, hầu cho ngươi được mặc vào và điều xấu hổ về sự trần truồng ngươi khỏi lộ ra; lại mua thuốc xức mắt đặng thoa mắt ngươi, hầu cho ngươi thấy được."
 > <cite>(Khải-huyền 3:18)</cite> COL 311.3

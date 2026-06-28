@@ -8,7 +8,7 @@ Chỉ nghiên cứu sự tái lâm của Đức Chúa Giê-su dựa trên Kinh T
 
 `Đọc Ê-sai 13:6, 9; Xa-cha-ri 14:9; Đa-ni-ên 12:1. Những đoạn Kinh Thánh này cho chúng ta biết gì về sự tái lâm của Đức Chúa Giê-su?`
 
-“Ngày của Đức Chúa Trời” sẽ là ngày của sự hủy diệt, đau thương và mất mát; tuy nhiên nó cũng là ngày mà Đức Chúa Trời ban sự cứu rỗi cho dân Ngài, là những người “có tên biên vào sách sự sống” (Phi-líp 4:3, Khải Huyền 3:5; 13:8). “Ngày của Đức Chúa Trời” không những là ngày phán xét dành cho những kẻ ác, mà nó còn là ngày mà những ai trung tín của Chúa được bảo vệ và được ban thưởng. Điều này được tìm thấy trong Cựu Ước. Có những kẻ sẽ phải đối diện với “Cơn thạnh nộ của Đức Giê-hô-va”, còn những kẻ ‘tìm kiếm sự công bình, tìm kiếm sự khiêm nhường, ... sẽ được giấu kín trong ngày thạnh nộ của Đức Giê-hô-va” (Sô-phô-ni 2:1–3).
+“Ngày của Đức Chúa Trời” sẽ là ngày của sự hủy diệt, đau thương và mất mát; tuy nhiên nó cũng là ngày mà Đức Chúa Trời ban sự cứu rỗi cho dân Ngài, là những người “có tên biên vào sách sự sống” (Phi-líp 4:3, Khải Huyền 3:5; 13:8). “Ngày của Đức Chúa Trời” không những là ngày phán xét dành cho những kẻ ác, mà nó còn là ngày mà những ai trung tín của Chúa được bảo vệ và được ban thưởng. Điều này được tìm thấy trong Cựu Ước. Có những kẻ sẽ phải đối diện với “Cơn thạnh nộ của Đức Giê-hô-va”, còn những kẻ ‘tìm kiếm sự công bình, tìm kiếm sự khiêm nhường, … sẽ được giấu kín trong ngày thạnh nộ của Đức Giê-hô-va” (Sô-phô-ni 2:1–3).
 
 `Đọc Ma-thi-ơ 24:30, 31. Các câu Kinh Thánh này cho biết sự phân chia giữa những kẻ đã được chọn và những kẻ lạc mất trong ngày ngự lai của Đức Chúa Giê-su là như thế nào?`
 

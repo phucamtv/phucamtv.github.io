@@ -70,7 +70,7 @@ Nguyên tắc được đặt ra: **Vật gì có thể phản ánh trọn vẹn
 >
 > --- Xuất Ê-díp-tô Ký 20:7
 
-Danh Giê-hô-va không bị đóng khung bởi một ý nghĩa hạn hẹp. "Giê-hô-va" có nghĩa là "Ta là Đấng ta là" -- Ngài là giải pháp cho mọi hoàn cảnh của con người. Trong Cựu Ước, danh Giê-hô-va được bày tỏ qua nhiều danh xưng phức hợp: Giê-hô-va Nissi (cờ xí chiến thắng), Giê-hô-va Rapha (Đấng chữa lành), Giê-hô-va Shalom (Đấng bình an), Giê-hô-va Shammah (Đấng hiện diện)...
+Danh Giê-hô-va không bị đóng khung bởi một ý nghĩa hạn hẹp. "Giê-hô-va" có nghĩa là "Ta là Đấng ta là" -- Ngài là giải pháp cho mọi hoàn cảnh của con người. Trong Cựu Ước, danh Giê-hô-va được bày tỏ qua nhiều danh xưng phức hợp: Giê-hô-va Nissi (cờ xí chiến thắng), Giê-hô-va Rapha (Đấng chữa lành), Giê-hô-va Shalom (Đấng bình an), Giê-hô-va Shammah (Đấng hiện diện)…
 
 Và theo Rô-ma 10:13, danh này là danh cứu rỗi:
 

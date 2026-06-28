@@ -74,7 +74,7 @@ Câu trả lời của Đức Chúa Trời cho các thánh tử đạo là ban c
 
 ## Ấn thứ sáu: các dấu hiệu trước ngày Chúa đến
 
-> "Tôi nhìn xem, khi Chiên Con mở ấn thứ sáu, thì có một cơn động đất lớn; mặt trời bèn trở nên tối tăm như túi lông đen, cả mặt trăng trở nên như huyết. Các vì sao trên trời sa xuống đất..." (Khải Huyền 6:12–13)
+> "Tôi nhìn xem, khi Chiên Con mở ấn thứ sáu, thì có một cơn động đất lớn; mặt trời bèn trở nên tối tăm như túi lông đen, cả mặt trăng trở nên như huyết. Các vì sao trên trời sa xuống đất…" (Khải Huyền 6:12–13)
 
 Ấn thứ sáu, đứng sau ấn thứ năm tức thời kỳ Trung Cổ, đưa chúng ta đến giai đoạn ngay trước Sự Tái Lâm. Đây là lúc Đức Chúa Trời thực hiện điều Ngài đã hứa với các thánh tử đạo — phán xét kẻ thù của dân Ngài.
 
@@ -88,7 +88,7 @@ Giăng viết: mặt trời trở nên đen "**như** túi lông", mặt trăng 
 
 Do đó, các dấu hiệu này là thật. Chính các Cơ-đốc nhân Tin Lành tại Bắc Mỹ trong thời **Phong Trào Phục Hưng Thứ Hai** đã nhận ra sự ứng nghiệm: trận động đất Lisbon nổi tiếng năm 1755, ngày tối tăm 19 tháng 5 năm 1780 tại đông bắc nước Mỹ và nam nước Anh, và trận mưa sao băng ngoạn mục trên Đại Tây Dương ngày 13 tháng 11 năm 1833. Sự nhận thức này đã thúc đẩy nhiều phong trào truyền giáo, các hội Kinh Thánh và các cuộc cải cách lớn.
 
-Ma-thi-ơ 24:29–30 củng cố cách giải nghĩa theo nghĩa đen này: "Sự tai nạn của những ngày đó vừa mới qua, thì mặt trời liền tối tăm, mặt trăng không sáng, các ngôi sao từ trên trời sa xuống... bấy giờ điềm Con Người sẽ hiện ra ở trên trời." Ấn thứ sáu chính là phiên bản song song của bài giảng Đức Chúa Giê-su trên núi Ô-li-ve.
+Ma-thi-ơ 24:29–30 củng cố cách giải nghĩa theo nghĩa đen này: "Sự tai nạn của những ngày đó vừa mới qua, thì mặt trời liền tối tăm, mặt trăng không sáng, các ngôi sao từ trên trời sa xuống… bấy giờ điềm Con Người sẽ hiện ra ở trên trời." Ấn thứ sáu chính là phiên bản song song của bài giảng Đức Chúa Giê-su trên núi Ô-li-ve.
 
 ---
 
