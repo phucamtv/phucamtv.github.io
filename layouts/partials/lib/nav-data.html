@@ -1,0 +1,15 @@
+{{- /* Single source of truth for library nav (rail + floating bar).
+       Returns a slice of item dicts. Kinh Thánh carries children. */ -}}
+{{- $nav := slice
+  (dict "key" "kt" "href" "/kt/" "label" "Kinh Thánh" "icon" "kt" "children" (slice
+    (dict "key" "" "href" "/kt/" "label" "Cựu & Tân Ước" "icon" "cuu-tan-uoc")
+    (dict "key" "tin-ly" "href" "/tin-ly/" "label" "Tín Lý" "icon" "tin-ly")
+  ))
+  (dict "key" "truong-sabat" "href" "/truong-sabat/" "label" "Trường Sa-bát" "icon" "truong-sabat")
+  (dict "key" "nghien-cuu" "href" "/nghien-cuu/" "label" "Nghiên Cứu" "icon" "nghien-cuu")
+  (dict "key" "tc" "href" "/tc/" "label" "Thánh Ca" "icon" "tc")
+  (dict "key" "authors" "href" "/authors/" "label" "Tác Giả" "icon" "authors")
+  (dict "key" "sach" "href" "/sach/" "label" "Tủ Sách" "icon" "sach")
+  (dict "key" "" "href" "/" "label" "Khám Phá" "icon" "kham-pha")
+-}}
+{{- return $nav -}}
