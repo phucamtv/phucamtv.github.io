@@ -370,8 +370,9 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 .lib-navbar-kids {
   display: grid; grid-template-columns: 0fr; min-width: 0; overflow: hidden;
   transition: grid-template-columns .32s cubic-bezier(.3, .8, .25, 1);
+  visibility: hidden;
 }
-.lib-navbar-parent.open .lib-navbar-kids { grid-template-columns: 1fr; margin-left: 2px; }
+.lib-navbar-parent.open .lib-navbar-kids { grid-template-columns: 1fr; margin-left: 2px; visibility: visible; }
 .lib-navbar-kids-track { display: flex; gap: 2px; min-width: 0; }
 .lib-navbar-kids .lib-navbar-item {
   opacity: 0; transform: translateX(-8px);
@@ -398,6 +399,13 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   .lib-app.no-mid .lib-rail { display: none; }
   .lib-app.no-mid .lib-detail { grid-column: 1; }
   .lib-app.no-mid .lib-navbar { display: flex; }
+  /* articles/feed keep content-left, info-right (matching the ≥1160px order) */
+  .lib-app--article:not(.no-mid) .lib-detail,
+  .lib-app--feed:not(.no-mid) .lib-detail { grid-column: 1; }
+  .lib-app--article:not(.no-mid) .lib-mid,
+  .lib-app--feed:not(.no-mid) .lib-mid { grid-column: 2; }
+  /* in this band the player spans the full width and stacks above the nav bar */
+  body.lib-app-body .audio-player-bar { left: 0; bottom: 64px; }
 }
 
 /* ============================================================

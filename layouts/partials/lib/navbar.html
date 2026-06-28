@@ -8,7 +8,7 @@
     {{- range $nav }}
     {{- if .children }}
     <div class="lib-navbar-parent" data-parent>
-      <button type="button" class="lib-navbar-item is-parent{{ if and .key (eq $a .key) }} is-active{{ end }}" data-toggle>{{ partial "lib/nav-icon.html" .icon }}<span>{{ .label }}</span></button>
+      <button type="button" class="lib-navbar-item is-parent{{ if and .key (eq $a .key) }} is-active{{ end }}" data-toggle aria-expanded="false">{{ partial "lib/nav-icon.html" .icon }}<span>{{ .label }}</span></button>
       <div class="lib-navbar-kids"><div class="lib-navbar-kids-track">
         {{- range .children }}
         <a class="lib-navbar-item is-child{{ if and .key (eq $a .key) }} is-active{{ end }}" href="{{ .href }}">{{ partial "lib/nav-icon.html" .icon }}<span>{{ .label }}</span></a>

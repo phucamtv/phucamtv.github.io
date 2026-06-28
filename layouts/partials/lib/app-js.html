@@ -53,11 +53,17 @@
   app.querySelectorAll(".lib-navbar [data-toggle]").forEach(function (btn) {
     btn.addEventListener("click", function (e) {
       e.stopPropagation();
-      btn.closest("[data-parent]").classList.toggle("open");
+      var parent = btn.closest("[data-parent]");
+      var open = parent.classList.toggle("open");
+      btn.setAttribute("aria-expanded", open ? "true" : "false");
     });
   });
   document.addEventListener("click", function () {
-    app.querySelectorAll(".lib-navbar-parent.open").forEach(function (p) { p.classList.remove("open"); });
+    app.querySelectorAll(".lib-navbar-parent.open").forEach(function (p) {
+      p.classList.remove("open");
+      var b = p.querySelector("[data-toggle]");
+      if (b) b.setAttribute("aria-expanded", "false");
+    });
   });
 })();
 </script>
