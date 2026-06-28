@@ -665,7 +665,18 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 @media (max-width: 960px) {
   .lib-app .sach-grid { grid-template-columns: 1fr; }
   .lib-app .nc-series-grid { grid-template-columns: 1fr; }
-  .lib-app .tc-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 14px; }
+  /* Thánh Ca on mobile: one hymn per row as a horizontal list card —
+     thumbnail left, title/meta right. Compact rows, easy-to-scan titles. */
+  .lib-app .tc-grid { grid-template-columns: 1fr; gap: 12px; }
+  .lib-app .tc-card { flex-direction: row; align-items: stretch; }
+  .lib-app .tc-card-thumb { flex: none; width: 132px; aspect-ratio: 16/10; align-self: stretch; }
+  .lib-app .tc-card-badge { top: 6px; left: 6px; font-size: 10px; padding: 1px 6px; }
+  /* the play overlay is a hover affordance — drop it on touch */
+  .lib-app .tc-card-play { display: none; }
+  .lib-app .tc-card-meta { flex: 1; min-width: 0; justify-content: center; padding: 10px 14px; gap: 2px; }
+  .lib-app .tc-card-title { font-size: 16px; }
+  .lib-app .tc-card-en { font-size: 12px; }
+  .lib-app .tc-card-by { font-size: 12px; }
   .lib-app .nc-prev-next { grid-template-columns: 1fr; }
   .lib-app .nc-prev-next-next { text-align: left; }
 
