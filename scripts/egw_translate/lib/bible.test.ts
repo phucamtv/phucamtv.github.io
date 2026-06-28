@@ -1,5 +1,5 @@
 import { test, expect } from "bun:test";
-import { parseRef, resolveBibleSentinels, loadBibleLookup, type BibleLookup } from "./bible";
+import { parseRef, lookupVerses, resolveBibleSentinels, loadBibleLookup, type BibleLookup } from "./bible";
 
 const fakeLookup: BibleLookup = {
   bookNames: new Map<string, string>([
@@ -99,6 +99,64 @@ test("resolveBibleSentinels rewrites range sentinel with concatenated verses", (
   expect(output).toContain("Verse text 13:31.");
   expect(output).toContain("Verse text 13:32.");
   expect(output).toContain("(Ma-thi-ơ 13:31-32)");
+});
+
+test("resolveBibleSentinels resolves multi-chapter comma list (same book, new chapters)", () => {
+  // "John 8:28,6:57" = John 8:28 AND John 6:57. Each comma group after the first
+  // carries its own chapter:verse. The translator emits these as one sentinel.
+  const lookup: BibleLookup = {
+    bookNames: new Map([["John", "Giăng"]]),
+    verses: new Map([
+      ["John 8:28", "Verse 8:28."],
+      ["John 6:57", "Verse 6:57."],
+    ]),
+  };
+  const { output, unresolved } = resolveBibleSentinels("[[BIBLE:John 8:28,6:57]]", lookup);
+  expect(unresolved).toEqual([]);
+  expect(output).toContain("Verse 8:28.");
+  expect(output).toContain("Verse 6:57.");
+  expect(output).toContain("(Giăng 8:28,6:57)");
+});
+
+test("resolveBibleSentinels still treats bare comma verses as same chapter", () => {
+  // "Luke 15:1,4" = Luke 15:1 AND Luke 15:4 (bare verse inherits chapter 15).
+  const lookup: BibleLookup = {
+    bookNames: new Map([["Luke", "Lu-ca"]]),
+    verses: new Map([
+      ["Luke 15:1", "V1."],
+      ["Luke 15:4", "V4."],
+    ]),
+  };
+  const { output, unresolved } = resolveBibleSentinels("[[BIBLE:Luke 15:1,4]]", lookup);
+  expect(unresolved).toEqual([]);
+  expect(output).toContain("V1.");
+  expect(output).toContain("V4.");
+  expect(output).toContain("(Lu-ca 15:1,4)");
+});
+
+test("lookupVerses skips a verse omitted from VI1934 inside a range", () => {
+  // Mark 9:44 is genuinely absent from the VI1934 text; a 43-45 range must still
+  // resolve using 43 and 45 rather than failing the whole reference.
+  const lookup: BibleLookup = {
+    bookNames: new Map([["Mark", "Mác"]]),
+    verses: new Map([
+      ["Mark 9:43", "Câu 43."],
+      ["Mark 9:45", "Câu 45."],
+    ]),
+  };
+  const ref = parseRef("Mark 9:43-45", lookup);
+  expect(ref).not.toBeNull();
+  const text = lookupVerses(ref!, lookup);
+  expect(text).toBe("Câu 43. Câu 45.");
+});
+
+test("lookupVerses returns null when NO verse in the reference exists", () => {
+  const lookup: BibleLookup = {
+    bookNames: new Map([["Mark", "Mác"]]),
+    verses: new Map([["Mark 9:1", "Câu 1."]]),
+  };
+  const ref = parseRef("Mark 9:43-45", lookup);
+  expect(lookupVerses(ref!, lookup)).toBeNull();
 });
 
 test("resolveBibleSentinels leaves unresolved sentinels in place and reports them", () => {

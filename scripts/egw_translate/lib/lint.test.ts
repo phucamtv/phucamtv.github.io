@@ -20,7 +20,23 @@ test("lintText normalizes Sabát → Sa-bát and Cơ Đốc → Cơ-đốc", () 
 
 test("lintText capitalizes lowercase divine names", () => {
   expect(lintText("đức chúa trời đã phán.")).toBe("Đức Chúa Trời đã phán.");
-  expect(lintText("kinh thánh dạy rằng...")).toBe("Kinh Thánh dạy rằng...");
+  expect(lintText("kinh thánh dạy rằng…")).toBe("Kinh Thánh dạy rằng…");
+});
+
+test("lintText normalizes ASCII ellipsis ... to …", () => {
+  expect(lintText("Người ta sẽ xưng danh Ngài,... Đức Chúa Trời ở cùng.")).toBe(
+    "Người ta sẽ xưng danh Ngài,… Đức Chúa Trời ở cùng.",
+  );
+});
+
+test("lintText collapses spaced ellipsis . . . to …", () => {
+  expect(lintText("Ta là TỰ HỮU HẰNG HỮU. . . Ngươi hãy nói.")).toBe(
+    "Ta là TỰ HỮU HẰNG HỮU… Ngươi hãy nói.",
+  );
+});
+
+test("lintText leaves an existing … untouched", () => {
+  expect(lintText("Nầy, ta đến mau chóng…")).toBe("Nầy, ta đến mau chóng…");
 });
 
 test("findUnresolvedBibleSentinels returns empty for clean text", () => {

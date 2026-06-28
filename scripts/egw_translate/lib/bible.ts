@@ -19,12 +19,19 @@ export async function loadBibleLookup(refsPath: string, versesPath: string): Pro
   return { bookNames, verses };
 }
 
+/** One chapter and its verse spans, e.g. { chapter: 8, spans: [[28, 28]] }. */
+export interface RefSegment {
+  chapter: number;
+  spans: Array<[number, number]>;
+}
+
 export interface ParsedRef {
   canonicalBook: string;                // key used for vi1934.json lookup (e.g., "Matthew")
   viBook: string;                       // Vietnamese display name (e.g., "Ma-thi-ơ")
-  chapter: number;
-  verseSpans: Array<[number, number]>;  // e.g., [[20, 25]] or [[1, 1], [4, 4]]
-  display: string;                      // reproduced ref for the cite line, e.g., "24:20-25" or "1:1,4"
+  chapter: number;                      // first segment's chapter (back-compat)
+  verseSpans: Array<[number, number]>;  // first segment's spans (back-compat)
+  segments: RefSegment[];               // all chapter/verse segments, in order
+  display: string;                      // reproduced ref for the cite line, e.g., "24:20-25" or "8:28,6:57"
 }
 
 /**
@@ -40,10 +47,16 @@ function findBookKey(raw: string, bookNames: Map<string, string>): string | null
 }
 
 /**
- * Parse a sentinel body like "Matthew 24:20", "Luke 15:1,4", "Jude 3", "Matt 24:20-25".
+ * Parse a sentinel body like "Matthew 24:20", "Luke 15:1,4", "Jude 3",
+ * "Matt 24:20-25", or a multi-chapter list "John 8:28,6:57,8:50,7:18".
+ *
+ * Within the verse spec, comma-separated groups normally share the chapter from
+ * the first group (e.g. "15:1,4" → 15:1 and 15:4). A group carrying its own colon
+ * (e.g. "8:28,6:57") starts a new chapter for the verses that follow.
  */
 export function parseRef(body: string, lookup: BibleLookup): ParsedRef | null {
-  const m = body.trim().match(/^(\d?\s?[A-Za-z][A-Za-z. ]*?)\s+(\d+(?::\d+(?:[-,]\d+)*)?)$/);
+  // Allow each comma group to optionally carry its own "chapter:" prefix.
+  const m = body.trim().match(/^(\d?\s?[A-Za-z][A-Za-z. ]*?)\s+(\d+(?::\d+(?:-\d+)?)?(?:,(?:\d+:)?\d+(?:-\d+)?)*)$/);
   if (!m) return null;
   const rawBook = m[1].replace(/\s+/g, " ").trim();
   const spec = m[2].trim();
@@ -60,22 +73,38 @@ export function parseRef(body: string, lookup: BibleLookup): ParsedRef | null {
     if (vi === viName && en.length > canonical.length) canonical = en;
   }
 
-  let chapter: number;
-  let verseSpans: Array<[number, number]>;
-  let display: string;
+  const segments: RefSegment[] = [];
 
   if (spec.includes(":")) {
-    const [chStr, versesStr] = spec.split(":");
-    chapter = Number(chStr);
-    verseSpans = parseVerseSpec(versesStr);
-    display = `${chapter}:${versesStr}`;
+    // Walk comma groups, carrying the chapter forward until a group overrides it.
+    let chapter = 0;
+    for (const group of spec.split(",")) {
+      let versePart = group;
+      if (group.includes(":")) {
+        const [chStr, vStr] = group.split(":");
+        chapter = Number(chStr);
+        versePart = vStr;
+      }
+      if (chapter === 0) return null; // first group must establish a chapter
+      const spans = parseVerseSpec(versePart);
+      const last = segments[segments.length - 1];
+      if (last && last.chapter === chapter) last.spans.push(...spans);
+      else segments.push({ chapter, spans });
+    }
   } else {
     if (!SINGLE_CHAPTER_BOOKS.has(canonical)) return null;
-    chapter = 1;
-    verseSpans = parseVerseSpec(spec);
-    display = spec;
+    segments.push({ chapter: 1, spans: parseVerseSpec(spec) });
   }
-  return { canonicalBook: canonical, viBook: viName, chapter, verseSpans, display };
+
+  const first = segments[0];
+  return {
+    canonicalBook: canonical,
+    viBook: viName,
+    chapter: first.chapter,
+    verseSpans: first.spans,
+    segments,
+    display: spec,
+  };
 }
 
 function parseVerseSpec(s: string): Array<[number, number]> {
@@ -94,20 +123,25 @@ function parseVerseSpec(s: string): Array<[number, number]> {
 }
 
 /**
- * Resolve a parsed ref to the concatenated Vietnamese verse text. Returns null if any
- * verse is missing from the verses map.
+ * Resolve a parsed ref to the concatenated Vietnamese verse text.
+ *
+ * Individual verses absent from VI1934 are skipped — some verses (e.g. Mark 9:44,
+ * Matthew 17:21) are genuinely omitted from the 1934 text, and a range that spans
+ * such a gap should still resolve from the verses that ARE present. Returns null
+ * only when the reference resolves to no verses at all (a truly bad reference).
  */
 export function lookupVerses(ref: ParsedRef, lookup: BibleLookup): string | null {
   const parts: string[] = [];
-  for (const [from, to] of ref.verseSpans) {
-    for (let v = from; v <= to; v++) {
-      const key = `${ref.canonicalBook} ${ref.chapter}:${v}`;
-      const text = lookup.verses.get(key);
-      if (text == null) return null;
-      parts.push(text);
+  for (const seg of ref.segments) {
+    for (const [from, to] of seg.spans) {
+      for (let v = from; v <= to; v++) {
+        const key = `${ref.canonicalBook} ${seg.chapter}:${v}`;
+        const text = lookup.verses.get(key);
+        if (text != null) parts.push(text);
+      }
     }
   }
-  return parts.join(" ");
+  return parts.length ? parts.join(" ") : null;
 }
 
 /**

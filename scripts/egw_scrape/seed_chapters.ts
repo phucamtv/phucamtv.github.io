@@ -7,10 +7,11 @@
  * Usage: bun scripts/egw_scrape/seed_chapters.ts <slug>
  */
 import { colp } from "../egw_translate/books/colp";
+import { da } from "../egw_translate/books/da";
 import { lde } from "../egw_translate/books/lde";
 import type { TranslateBookConfig } from "../egw_translate/lib/types";
 
-const BOOKS: Record<string, TranslateBookConfig> = { colp, lde };
+const BOOKS: Record<string, TranslateBookConfig> = { colp, da, lde };
 const FRONTMATTER_RE = /^(---\n[\s\S]*?\n---\n)([\s\S]*)$/;
 
 const slug = process.argv[2];

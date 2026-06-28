@@ -14,6 +14,7 @@ import { mkdirSync, existsSync, readdirSync, unlinkSync } from "fs";
 import { join } from "path";
 
 import { colp } from "./books/colp";
+import { da } from "./books/da";
 import { lde } from "./books/lde";
 import type { TranslateBookConfig } from "./lib/types";
 import {
@@ -27,7 +28,7 @@ import { buildSystemPrompt } from "./lib/prompt";
 import { callClaude } from "./lib/claude";
 import { assembleBody, writeChapter } from "./lib/assemble";
 
-const BOOKS: Record<string, TranslateBookConfig> = { colp, lde };
+const BOOKS: Record<string, TranslateBookConfig> = { colp, da, lde };
 
 interface ChapterEntry {
   number: number;
@@ -123,10 +124,14 @@ async function cmdTranslate(book: TranslateBookConfig, chapter: number | null, f
 async function cmdAssemble(book: TranslateBookConfig, chapter: number | null, force: boolean): Promise<void> {
   void force;
   const entries = selectChapters(await loadChapters(book), chapter);
+  const bible = await loadBibleLookup(
+    absPath(book, book.bibleRefsPath),
+    absPath(book, book.bibleVersesPath),
+  );
   for (const c of entries) {
     const nn = String(c.number).padStart(2, "0");
     const translatedDirAbs = absPath(book, book.translatedDir);
-    const { body, unresolved, chunkCount } = await assembleBody(translatedDirAbs, c.number);
+    const { body, unresolved, chunkCount } = await assembleBody(translatedDirAbs, c.number, bible);
     if (unresolved.length) {
       console.error(`ch${nn}: WARNING — ${unresolved.length} unresolved Bible sentinels`);
     }

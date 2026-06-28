@@ -1,4 +1,9 @@
 const RULES: Array<[RegExp, string]> = [
+  // Ellipsis: spaced ". . ." and ASCII "..." → "…" (project style). Spaced form
+  // first so its dots aren't consumed by the "..." rule. Trailing space before the
+  // ellipsis is folded in so "HẰNG HỮU. . ." collapses cleanly.
+  [/\s*\.(\s*\.){2,}/g, "…"],
+  [/\.{3,}/g, "…"],
   // "Chúa Giê-su" without leading "Đức" → "Đức Chúa Giê-su"
   [/(?<!Đức\s)Chúa Giê-su/g, "Đức Chúa Giê-su"],
   // Any residual English "Jesus" → "Đức Chúa Giê-su"
