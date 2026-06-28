@@ -45,4 +45,19 @@
     midBody.scrollTop += (tr.top - br.top) - (midBody.clientHeight - tr.height) / 2;
   }
 })();
+(function () {
+  var app = document.querySelector(".lib-app");
+  if (!app) return;
+
+  /* ---- Kinh Thánh parent: unfold children inline on click ---- */
+  app.querySelectorAll(".lib-navbar [data-toggle]").forEach(function (btn) {
+    btn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      btn.closest("[data-parent]").classList.toggle("open");
+    });
+  });
+  document.addEventListener("click", function () {
+    app.querySelectorAll(".lib-navbar-parent.open").forEach(function (p) { p.classList.remove("open"); });
+  });
+})();
 </script>
