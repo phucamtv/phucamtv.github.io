@@ -338,6 +338,11 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   justify-content: center; align-items: stretch; pointer-events: none;
 }
 .lib-app .lib-navbar > * { pointer-events: auto; }
+/* mobile-only scaffolding — hidden by default (iPad band), shown in the ≤960px
+   block. The compound selector outranks `.lib-app .lib-navbar-item{display:flex}`
+   (which also matches the ⋮ button, since it carries .lib-navbar-item). */
+.lib-app .lib-navbar .lib-navbar-more,
+.lib-app .lib-navbar .lib-navbar-subrow { display: none; }
 .lib-navbar-inner {
   flex: 1; display: flex; align-items: stretch; justify-content: space-around;
   gap: 2px; padding: 6px 8px calc(6px + env(safe-area-inset-bottom));
@@ -399,7 +404,13 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   .lib-app.no-mid .lib-rail { display: none; }
   .lib-app.no-mid .lib-detail { grid-column: 1; }
   .lib-app.no-mid .lib-navbar { display: flex; }
-  /* articles/feed keep content-left, info-right (matching the ≥1160px order) */
+  /* articles/feed: article content is the main column (left + wide), the
+     list/archive is the narrow sidebar (right). Flip the track widths so col 1
+     (articles) is the 1fr wide track and col 2 (archive) is the narrow one. */
+  .lib-app--article:not(.no-mid),
+  .lib-app--feed:not(.no-mid) {
+    grid-template-columns: minmax(280px, 1fr) minmax(260px, var(--lib-mid-w));
+  }
   .lib-app--article:not(.no-mid) .lib-detail,
   .lib-app--feed:not(.no-mid) .lib-detail { grid-column: 1; }
   .lib-app--article:not(.no-mid) .lib-mid,
@@ -416,19 +427,19 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 @media (max-width: 960px) {
   .lib-app { grid-template-columns: 1fr; }
 
-  .lib-rail {
-    position: fixed; top: 0; right: 0; bottom: 0; width: 280px; z-index: 60;
-    transform: translateX(100%); transition: transform .3s cubic-bezier(.3, .8, .25, 1);
-  }
-  .lib-app.rail-open .lib-rail { transform: translateX(0); box-shadow: var(--kt-sh-win); }
+  /* Section nav is the bottom navbar (like the iPad band) — the rail drawer is
+     retired on mobile, so hide it and the triggers that used to open it. */
+  .lib-rail { display: none; }
+  /* Pin to the visual viewport. left/right:0 would track the *layout* viewport,
+     which widens with a page's pre-existing horizontal overflow and drags the
+     bar's right edge (the ⋮ button) off-screen. width:100vw clamps to the
+     screen width so every item — including ⋮ — stays reachable. */
+  .lib-app .lib-navbar { display: flex; position: fixed; left: 0; right: auto; width: 100vw; }
+  .lib-rtrigger, .lib-mtrigger-solo { display: none !important; }
 
   .lib-app-backdrop { display: block; position: fixed; inset: 0; z-index: 55; background: rgba(0, 0, 0, .45); opacity: 0; pointer-events: none; transition: opacity .3s; }
-  .lib-app.rail-open .lib-app-backdrop { opacity: 1; pointer-events: auto; }
-  /* with the rail open, sit the backdrop above the mid (z58) so clicking anywhere
-     outside the rail — including a visible sliver of col 2 — closes the rail */
-  .lib-app.rail-open .lib-app-backdrop { z-index: 59; }
 
-  /* detail is the base screen; mid (col 2) slides in from the right, rail (col 1) from the left */
+  /* detail is the base screen; mid (col 2) slides in from the right */
   .lib-detail { grid-column: 1; }
   .lib-mid {
     position: fixed; top: 0; right: 0; bottom: 0; width: min(86vw, 360px); z-index: 58;
@@ -437,16 +448,64 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   }
   .lib-app.mid-open .lib-mid { transform: translateX(0); box-shadow: var(--kt-sh-win); }
   .lib-app.mid-open .lib-app-backdrop { opacity: 1; pointer-events: auto; }
-  .lib-mtrigger { display: grid; place-items: center; width: 36px; height: 36px; }
-  .lib-mtrigger .lib-rail-mark { width: 30px; height: 30px; }
+  /* the only mobile FAB: detail (col 3) → opens the mid list drawer (col 2) */
   .lib-dtrigger { display: grid; position: fixed; top: 12px; right: 12px; z-index: 45; }
-  /* col-2 FAB: lives inside the (transformed) .lib-mid, so it pins to the drawer's
-     top-right and slides in with it; the rail (higher in .lib-app) still covers it. */
-  .lib-rtrigger { display: grid; position: fixed; top: 12px; right: 12px; }
   .lib-doc { padding: 24px 20px 120px; }
   .lib-doc-title { font-size: 25px; }
-  /* detail goes full-screen → player spans full width again */
-  body.lib-app-body .audio-player-bar { left: 0; }
+  /* keep the doc's last line clear of the floating bar */
+  .lib-detail-scroll { padding-bottom: 76px; }
+  /* detail goes full-screen → player stacks above the bar */
+  body.lib-app-body .audio-player-bar { left: 0; bottom: 64px; }
+
+  /* ---- Variant C: 4 primary items + narrow "⋮" More; tapping Kinh Thánh or ⋮
+          swaps the bar for a same-height subrow with a back chevron ---- */
+  .lib-navbar-inner { justify-content: space-between; gap: 0; }
+  /* every primary slot — plain items AND the Kinh Thánh parent wrapper —
+     shares the width equally; the ⋮ button stays narrow (flex:none). */
+  .lib-navbar-inner > .lib-navbar-item:not(.lib-navbar-more),
+  .lib-navbar-parent:not(.is-overflow) { flex: 1 1 0; min-width: 0; }
+  .lib-navbar-parent:not(.is-overflow) > .lib-navbar-item { flex: 1 1 0; min-width: 0; }
+  .lib-navbar-item:not(.lib-navbar-more) { padding-left: 4px; padding-right: 4px; }
+  .lib-navbar-item:not(.lib-navbar-more) span { overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+  /* overflow items (5+) collapse into the ⋮ button on the bar */
+  .lib-navbar-item.is-overflow, .lib-navbar-parent.is-overflow { display: none; }
+  /* the iPad inline-unfold children never show on mobile (we use the subrow) */
+  .lib-navbar-kids { display: none; }
+  /* narrow icon-only "⋮" More button (matches the base hide selector's specificity) */
+  .lib-app .lib-navbar .lib-navbar-more { display: flex; flex: none; padding: 7px 8px; }
+  .lib-navbar-more svg { width: 22px; height: 22px; opacity: .85; }
+
+  /* the same-height subrow that replaces the bar while open.
+     Extra left padding so the round back pill clears the device corner. */
+  .lib-app .lib-navbar .lib-navbar-subrow {
+    position: absolute; left: 0; right: 0; bottom: 0; z-index: 36;
+    display: flex; align-items: stretch;
+    padding: 6px 12px calc(6px + env(safe-area-inset-bottom));
+    padding-left: max(12px, env(safe-area-inset-left));
+    background: linear-gradient(180deg,
+      color-mix(in srgb, var(--kt-accent) 24%, #1d1610),
+      color-mix(in srgb, var(--kt-accent) 15%, #130f08));
+    border-top: 1px solid rgba(255, 255, 255, .1);
+    box-shadow: var(--kt-sh-win);
+    -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
+    transform: translateY(100%); opacity: 0; pointer-events: none;
+    transition: transform .26s cubic-bezier(.3, .8, .25, 1), opacity .2s;
+  }
+  .lib-navbar.subrow-open .lib-navbar-subrow { transform: translateY(0); opacity: 1; pointer-events: auto; }
+  .lib-navbar.subrow-open .lib-navbar-inner { opacity: 0; transition: opacity .15s; }
+  /* light pill on the dark bar so it reads as a clear, high-contrast control.
+     `.lib-app` scope beats `.lib-app button { background: none }`. */
+  .lib-app .lib-navbar-back {
+    flex: none; align-self: center; display: grid; place-items: center;
+    width: 38px; height: 38px; border-radius: 50%;
+    background: var(--lib-rail-text); border: none; cursor: pointer;
+    color: #1d1610; margin: 0 10px 0 0; box-shadow: 0 1px 3px rgba(0, 0, 0, .35);
+  }
+  .lib-navbar-back svg { width: 21px; height: 21px; opacity: 1; stroke-width: 2.8; }
+  .lib-app .lib-navbar-back:active { background: #fff; transform: scale(.93); }
+  .lib-navbar-subrow-items { display: flex; flex: 1; min-width: 0; gap: 2px; }
+  .lib-navbar-subrow .lib-navbar-item { flex: 1 1 0; min-width: 0; }
+  .lib-navbar-subrow .lib-navbar-item span { overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
 }
 
 /* ============================================================

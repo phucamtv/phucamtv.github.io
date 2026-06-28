@@ -49,9 +49,12 @@
   var app = document.querySelector(".lib-app");
   if (!app) return;
 
-  /* ---- Kinh Thánh parent: unfold children inline on click ---- */
+  var mobile = function () { return window.matchMedia("(max-width: 960px)").matches; };
+
+  /* ---- iPad band (≥961px): Kinh Thánh unfolds its children inline on click ---- */
   app.querySelectorAll(".lib-navbar [data-toggle]").forEach(function (btn) {
     btn.addEventListener("click", function (e) {
+      if (mobile()) return; /* mobile uses the subrow instead (handled below) */
       e.stopPropagation();
       var parent = btn.closest("[data-parent]");
       var open = parent.classList.toggle("open");
@@ -65,5 +68,45 @@
       if (b) b.setAttribute("aria-expanded", "false");
     });
   });
+
+  /* ---- Mobile (≤960px): tapping Kinh Thánh or "⋮" swaps the bar for a
+          same-height subrow of the matching items, with a back chevron ---- */
+  var navbar = app.querySelector(".lib-navbar");
+  if (navbar) {
+    var subrow = navbar.querySelector(".lib-navbar-subrow");
+    var subrowItems = navbar.querySelector(".lib-navbar-subrow-items");
+    var back = navbar.querySelector(".lib-navbar-back");
+    var openBtn = null;
+
+    var openSub = function (sel, btn) {
+      var src = navbar.querySelector(sel);
+      if (!src) return;
+      subrowItems.innerHTML = "";
+      src.querySelectorAll(".lib-navbar-item").forEach(function (it) {
+        subrowItems.appendChild(it.cloneNode(true));
+      });
+      navbar.classList.add("subrow-open");
+      if (openBtn) openBtn.setAttribute("aria-expanded", "false");
+      openBtn = btn || null;
+      if (openBtn) openBtn.setAttribute("aria-expanded", "true");
+    };
+    var closeSub = function () {
+      navbar.classList.remove("subrow-open");
+      if (openBtn) { openBtn.setAttribute("aria-expanded", "false"); openBtn = null; }
+    };
+
+    navbar.querySelectorAll("[data-sheet]").forEach(function (btn) {
+      btn.addEventListener("click", function (e) {
+        if (!mobile()) return; /* iPad: the inline [data-toggle] handler owns this */
+        e.preventDefault();
+        e.stopPropagation();
+        (openBtn === btn) ? closeSub() : openSub(btn.getAttribute("data-sheet"), btn);
+      });
+    });
+    if (back) back.addEventListener("click", closeSub);
+    /* a navigation tap inside the subrow closes it; escape closes it */
+    subrowItems.addEventListener("click", function (e) { if (e.target.closest("a")) closeSub(); });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeSub(); });
+  }
 })();
 </script>
