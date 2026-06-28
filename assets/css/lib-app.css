@@ -392,6 +392,12 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   .lib-app:not(.no-mid) .lib-navbar { display: flex; }
   /* keep the mid list's last row clear of the floating bar */
   .lib-app:not(.no-mid) .lib-mid-body { padding-bottom: 84px; }
+  /* .no-mid sections (kt index, nghien-cuu root, tin-ly, sach author):
+     hide the rail and show the bar too, so nav is consistent across the band */
+  .lib-app.no-mid { grid-template-columns: 1fr; }
+  .lib-app.no-mid .lib-rail { display: none; }
+  .lib-app.no-mid .lib-detail { grid-column: 1; }
+  .lib-app.no-mid .lib-navbar { display: flex; }
 }
 
 /* ============================================================
