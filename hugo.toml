@@ -39,6 +39,10 @@ ignoreFiles = ['\.py$', 'output/']
   target = "data/bible"
 
 [[module.mounts]]
+  source = "data/games"
+  target = "data/games"
+
+[[module.mounts]]
   source = "content"
   target = "content"
 
