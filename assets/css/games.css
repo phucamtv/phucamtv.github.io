@@ -249,3 +249,55 @@
   .lib-app .games .pp-col-label { margin-top: 0.6rem; }
   .lib-app .games .pp-links { display: none; }
 }
+
+/* ---- speed-typer: Monkeytype-style timed typing test ---- */
+.lib-app .games .sp-top { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 1.6rem; }
+.lib-app .games .sp-ref { margin: 0; color: var(--text-secondary); font-size: 0.95rem; }
+.lib-app .games .sp-ref b { color: var(--text-strong); font-weight: 600; }
+.lib-app .games .sp-timer {
+  font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 1.3rem; font-weight: 500;
+  color: var(--accent); font-variant-numeric: tabular-nums; min-width: 3ch; text-align: right;
+}
+.lib-app .games .sp-timer.warn { color: var(--link); }
+
+.lib-app .games .sp-type { position: relative; cursor: text; padding: 0.5rem 0; }
+/* The text window: capped to 3 lines; the active line scrolls into view.
+   overflow:hidden + scrollTop drives the scroll (no transform). */
+.lib-app .games .sp-text {
+  font-family: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 1.7rem; line-height: 2.7rem; letter-spacing: 0.01em;
+  max-height: 8.1rem; overflow: hidden; scroll-behavior: auto;
+  scrollbar-width: none;
+}
+.lib-app .games .sp-text::-webkit-scrollbar { display: none; }
+/* A word stays intact (never split mid-word) but wraps at spaces between words. */
+.lib-app .games .sp-word { display: inline-block; white-space: nowrap; }
+.lib-app .games .sp-char { color: var(--text-muted); position: relative; }
+.lib-app .games .sp-char.correct { color: var(--text-strong); }
+.lib-app .games .sp-char.wrong { color: var(--link); background: color-mix(in srgb, var(--link) 16%, transparent); border-radius: 2px; }
+.lib-app .games .sp-char.active { color: var(--text-strong); }
+/* Caret = a CSS pseudo-element on the active char; rides the char, no JS math. */
+.lib-app .games .sp-char.active::before {
+  content: ""; position: absolute; left: -1px; top: 14%; height: 72%;
+  width: 2px; background: var(--accent); border-radius: 2px;
+  animation: sp-blink 1.05s steps(1) infinite;
+}
+@keyframes sp-blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+
+.lib-app .games .sp-live { display: flex; gap: 1.6rem; margin-top: 1.4rem; font-size: 0.82rem; color: var(--text-muted); }
+.lib-app .games .sp-live b { color: var(--text-secondary); font-family: "JetBrains Mono", monospace; font-variant-numeric: tabular-nums; }
+.lib-app .games .sp-hint { margin-top: 0.9rem; font-size: 0.85rem; color: var(--text-muted); }
+.lib-app .games .sp-input { position: absolute; opacity: 0.01; left: -9999px; width: 1px; height: 1px; }
+
+/* result screen */
+.lib-app .games .sp-result { text-align: center; padding: 1rem 0 0.5rem; }
+.lib-app .games .sp-result .big { font-family: Newsreader, serif; font-size: 4.5rem; font-weight: 600; color: var(--text-strong); line-height: 1; margin: 0; }
+.lib-app .games .sp-result .big small { font-size: 1.3rem; color: var(--text-muted); font-weight: 500; }
+.lib-app .games .sp-result .label { color: var(--text-muted); letter-spacing: 0.08em; text-transform: uppercase; font-size: 0.72rem; margin: 0.3rem 0 1.5rem; }
+.lib-app .games .sp-stats { display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; margin-bottom: 1.8rem; }
+.lib-app .games .sp-stat .n { font-family: "JetBrains Mono", monospace; font-size: 1.7rem; color: var(--text-strong); }
+.lib-app .games .sp-stat .k { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; }
+.lib-app .games .sp-best { font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1.4rem; }
+.lib-app .games .sp-best b { color: var(--text-emphasis); }
+.lib-app .games .sp-again { font: inherit; cursor: pointer; font-size: 0.95rem; background: var(--surface-inverse); color: var(--text-on-inverse-strong); border: none; border-radius: 8px; padding: 0.6rem 1.4rem; }
+.lib-app .games .sp-again:hover { background: var(--surface-inverse-hover); }
