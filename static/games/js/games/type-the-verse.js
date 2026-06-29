@@ -1,4 +1,4 @@
-import { getHighScore, saveScore } from '../shared/scoring.js';
+import { getHighScore, saveScore, signalFinished } from '../shared/scoring.js';
 import { playSound } from '../shared/sound.js';
 const versesData = window.GAME_DATA;
 
@@ -44,6 +44,7 @@ function makeFinish() {
       <p class="ttv-result">${label} Best ever: ${best} verse(s) completed.</p>
     `);
     container.querySelectorAll('button, input, textarea').forEach((el) => (el.disabled = true));
+    signalFinished(container);
   };
 }
 

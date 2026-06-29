@@ -1,4 +1,4 @@
-import { getHighScore, saveScore } from '../shared/scoring.js';
+import { getHighScore, saveScore, signalFinished } from '../shared/scoring.js';
 import { playSound } from '../shared/sound.js';
 const booksData = window.GAME_DATA;
 
@@ -76,6 +76,7 @@ export function init(container, difficulty) {
     saveScore('books-builder', correct.length);
     const best = getHighScore('books-builder');
     status.textContent = `Done! All ${correct.length} books placed in order. Best: ${best}.`;
+    signalFinished(container);
   }
 
   return function cleanup() {

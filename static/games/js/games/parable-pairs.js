@@ -1,5 +1,6 @@
-import { getHighScore, saveScore } from '../shared/scoring.js';
+import { getHighScore, saveScore, signalFinished } from '../shared/scoring.js';
 import { playSound } from '../shared/sound.js';
+import { setDrawn, setBest } from '../shared/bankinfo.js';
 const parablesData = window.GAME_DATA;
 
 export function pickParables(parables, difficulty) {
@@ -37,6 +38,8 @@ const SVG_NS = 'http://www.w3.org/2000/svg';
 export function init(container, difficulty) {
   const parables = pickParables(parablesData, difficulty);
   const total = parables.length;
+  setDrawn(total);
+  setBest(getHighScore('parable-pairs'));
   let selectedParable = null; // the parable card element currently selected
   let matchedCount = 0;
   let wrongAttempts = 0;
@@ -50,18 +53,18 @@ export function init(container, difficulty) {
 
   container.innerHTML = `
     <div class="pp-head">
-      <h2>Parable Pairs</h2>
+      <h2>Meaning Match</h2>
       <div class="pp-progress">
         <span class="pp-pips">${parables.map(() => '<span class="pp-pip"></span>').join('')}</span>
         <span class="pp-count">0 / ${total}</span>
       </div>
     </div>
-    <p class="pp-status">Tap a parable, then tap its meaning.</p>
+    <p class="pp-status">Tap an item, then tap its meaning.</p>
     <div class="pp-stage">
       <svg class="pp-links" aria-hidden="true"></svg>
       <div class="pp-board">
         <div>
-          <p class="pp-col-label">Parables</p>
+          <p class="pp-col-label">Subjects</p>
           <div class="pp-parables pp-list"></div>
         </div>
         <div>
@@ -128,7 +131,7 @@ export function init(container, difficulty) {
   function selectMeaning(card) {
     if (card.classList.contains('matched')) return;
     if (!selectedParable) {
-      statusEl.innerHTML = 'Tap a <b>parable</b> first.';
+      statusEl.innerHTML = 'Tap a <b>subject</b> first.';
       return;
     }
     if (pairsMatch(parableOf(selectedParable), card.dataset.meaning)) {
@@ -206,6 +209,8 @@ export function init(container, difficulty) {
       ? `All ${total} pairs, no misses. Best: ${best}.`
       : `Finished with ${wrongAttempts} miss${wrongAttempts > 1 ? 'es' : ''}. Score: ${score}. Best: ${best}.`;
     container.querySelector('.pp-finish').classList.add('show');
+    setBest(best);
+    signalFinished(container);
   }
 
   return function cleanup() {

@@ -14,3 +14,8 @@ export function saveScore(gameId, score) {
     setItem(key(gameId), score);
   }
 }
+
+// Signal the page shell that the round is over (used to drop the leave-confirm).
+export function signalFinished(container) {
+  container.dispatchEvent(new CustomEvent('game:finished', { bubbles: true }));
+}

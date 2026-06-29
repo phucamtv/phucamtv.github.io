@@ -54,10 +54,19 @@
   gap: 0.4rem;
   margin-bottom: 1rem;
 }
+.lib-app .games .difficulty-btn:hover:not(:disabled) {
+  background: var(--surface-soft);
+  border-color: var(--accent);
+}
 .lib-app .games .difficulty-btn[aria-pressed="true"] {
   background: var(--surface-inverse);
   color: var(--text-on-inverse-strong);
   border-color: var(--surface-inverse);
+}
+.lib-app .games .difficulty-btn[aria-pressed="true"]:hover:not(:disabled) {
+  background: var(--surface-inverse-hover);
+  color: var(--text-on-inverse-strong);
+  border-color: var(--surface-inverse-hover);
 }
 
 /* hub */
@@ -87,6 +96,29 @@
 }
 .lib-app .games-card h2 { margin: 0 0 0.35rem; font-size: 1.15rem; }
 .lib-app .games-card p { margin: 0; color: var(--text-muted); font-size: 0.92rem; }
+
+/* bank-info footer: muted single line below the game.
+   The global `footer {}` in base.css makes page footers full-bleed
+   (width:100vw; margin-left: calc(-50vw + 50%); gradient bg; centered).
+   Reset those here so this in-column footer stays inside the detail column. */
+.lib-app .games-bankinfo {
+  width: auto;
+  margin-left: 0;
+  background: none;
+  text-align: left;
+  margin-top: 2rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border-default);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+.lib-app .games-bankinfo b { color: var(--text-secondary); font-weight: 600; }
+.lib-app .games-bankinfo .gb-sep { color: var(--text-faint); }
+.lib-app .games-bankinfo .gb-dot { color: var(--text-faint); margin: 0 0.1rem; }
 
 /* ---- game-specific element styling (token-themed) ---- */
 

@@ -1,4 +1,4 @@
-import { getHighScore, saveScore } from '../shared/scoring.js';
+import { getHighScore, saveScore, signalFinished } from '../shared/scoring.js';
 import { playSound } from '../shared/sound.js';
 const quotesData = window.GAME_DATA;
 
@@ -89,6 +89,7 @@ export function init(container, difficulty) {
 
   function finish() {
     saveScore('who-said-it', score);
+    signalFinished(container);
     const best = getHighScore('who-said-it');
     container.innerHTML = `
       <h2>Who Said It?</h2>

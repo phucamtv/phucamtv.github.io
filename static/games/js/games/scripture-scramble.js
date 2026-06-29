@@ -1,4 +1,4 @@
-import { getHighScore, saveScore } from '../shared/scoring.js';
+import { getHighScore, saveScore, signalFinished } from '../shared/scoring.js';
 import { playSound } from '../shared/sound.js';
 const versesData = window.GAME_DATA;
 
@@ -164,6 +164,7 @@ export function init(container, difficulty) {
     status.textContent += ` Best ever: ${best} verse(s) solved.`;
     // lock interaction
     container.querySelectorAll('button').forEach((b) => (b.disabled = true));
+    signalFinished(container);
   }
 
   return function cleanup() {

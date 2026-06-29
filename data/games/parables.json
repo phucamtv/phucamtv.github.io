@@ -1,37 +1,1442 @@
 [
   {
     "id": "p1",
-    "title": "The Good Samaritan",
-    "meaning": "Love your neighbor, even a stranger or enemy"
+    "title": "The Sower",
+    "meaning": "The same seed yields differently based on the soil's heart",
+    "category": "parable"
   },
   {
     "id": "p2",
     "title": "The Prodigal Son",
-    "meaning": "God welcomes repentant sinners back with joy"
+    "meaning": "The father runs to embrace the returning, repentant younger son",
+    "category": "parable"
   },
   {
     "id": "p3",
-    "title": "The Sower",
-    "meaning": "God's word takes root depending on the hearer's heart"
+    "title": "The Good Samaritan",
+    "meaning": "True neighbor-love crosses ethnic and religious boundaries",
+    "category": "parable"
   },
   {
     "id": "p4",
     "title": "The Lost Sheep",
-    "meaning": "God seeks and rejoices over each one who is lost"
+    "meaning": "The shepherd leaves ninety-nine to recover one stray",
+    "category": "parable"
   },
   {
     "id": "p5",
-    "title": "The Mustard Seed",
-    "meaning": "God's kingdom starts small but grows great"
+    "title": "The Lost Coin",
+    "meaning": "A woman sweeps the house to find one missing coin",
+    "category": "parable"
   },
   {
     "id": "p6",
-    "title": "The Talents",
-    "meaning": "Use faithfully what God has entrusted to you"
+    "title": "The Mustard Seed",
+    "meaning": "The smallest seed becomes a tree sheltering birds",
+    "category": "parable"
   },
   {
     "id": "p7",
+    "title": "The Talents",
+    "meaning": "Faithful stewards multiply gifts; the fearful one buries his",
+    "category": "parable"
+  },
+  {
+    "id": "p8",
     "title": "The Wise and Foolish Builders",
-    "meaning": "Build your life on obeying Jesus' words"
+    "meaning": "Houses on rock or sand reveal who obeys Jesus",
+    "category": "parable"
+  },
+  {
+    "id": "p9",
+    "title": "The Ten Virgins",
+    "meaning": "Keep oil ready; the bridegroom's hour is unknown",
+    "category": "parable"
+  },
+  {
+    "id": "p10",
+    "title": "The Unforgiving Servant",
+    "meaning": "Forgiven a huge debt, he jailed a fellow servant",
+    "category": "parable"
+  },
+  {
+    "id": "p11",
+    "title": "The Pharisee and the Tax Collector",
+    "meaning": "The humble who beg mercy go home justified",
+    "category": "parable"
+  },
+  {
+    "id": "p12",
+    "title": "The Rich Fool",
+    "meaning": "Hoarding barns is folly when your soul is required tonight",
+    "category": "parable"
+  },
+  {
+    "id": "p13",
+    "title": "The Great Banquet",
+    "meaning": "Those who decline the invitation lose their seat to outsiders",
+    "category": "parable"
+  },
+  {
+    "id": "p14",
+    "title": "The Hidden Treasure",
+    "meaning": "A man sells everything to buy the field with treasure",
+    "category": "parable"
+  },
+  {
+    "id": "p15",
+    "title": "The Pearl of Great Price",
+    "meaning": "The merchant trades all his pearls for one supreme prize",
+    "category": "parable"
+  },
+  {
+    "id": "p16",
+    "title": "The Net",
+    "meaning": "Angels will sort good fish from bad at the age's end",
+    "category": "parable"
+  },
+  {
+    "id": "p17",
+    "title": "The Workers in the Vineyard",
+    "meaning": "The owner pays last-hired the same, by sovereign generosity",
+    "category": "parable"
+  },
+  {
+    "id": "p18",
+    "title": "The Two Sons",
+    "meaning": "Doing the father's will matters more than promising to",
+    "category": "parable"
+  },
+  {
+    "id": "p19",
+    "title": "The Wicked Tenants",
+    "meaning": "Killing the heir, the tenants lose the vineyard entirely",
+    "category": "parable"
+  },
+  {
+    "id": "p20",
+    "title": "The Friend at Midnight",
+    "meaning": "Persistent, shameless asking secures what friendship alone would not",
+    "category": "parable"
+  },
+  {
+    "id": "p21",
+    "title": "The Rich Man and Lazarus",
+    "meaning": "Earthly wealth cannot reverse the eternal fate set after death",
+    "category": "parable"
+  },
+  {
+    "id": "p22",
+    "title": "The Persistent Widow",
+    "meaning": "A widow's relentless pleading wears down an unjust judge",
+    "category": "parable"
+  },
+  {
+    "id": "p23",
+    "title": "The Wheat and the Tares",
+    "meaning": "God lets good and evil grow together until final judgment",
+    "category": "parable"
+  },
+  {
+    "id": "p24",
+    "title": "The Growing Seed",
+    "meaning": "The kingdom grows mysteriously while the sower sleeps and rises",
+    "category": "parable"
+  },
+  {
+    "id": "p25",
+    "title": "The Leaven",
+    "meaning": "Hidden yeast quietly works through the whole batch of dough",
+    "category": "parable"
+  },
+  {
+    "id": "p26",
+    "title": "The Lamp under a Basket",
+    "meaning": "A lamp belongs on a stand, not hidden under a bowl",
+    "category": "parable"
+  },
+  {
+    "id": "p27",
+    "title": "The Faithful and Wise Servant",
+    "meaning": "Serve diligently because the master returns at an unexpected hour",
+    "category": "parable"
+  },
+  {
+    "id": "p28",
+    "title": "The Elder Brother",
+    "meaning": "Resentment at grace exposes a heart far from the Father",
+    "category": "parable"
+  },
+  {
+    "id": "p29",
+    "title": "The Sheep and the Goats",
+    "meaning": "Final judgment rests on how we treated the needy",
+    "category": "parable"
+  },
+  {
+    "id": "p30",
+    "title": "New Cloth and New Wineskins",
+    "meaning": "The gospel's newness cannot be patched onto old religious forms",
+    "category": "parable"
+  },
+  {
+    "id": "p31",
+    "title": "The Barren Fig Tree",
+    "meaning": "God grants extra time to bear fruit before cutting down",
+    "category": "parable"
+  },
+  {
+    "id": "p32",
+    "title": "The Two Debtors",
+    "meaning": "The one forgiven much loves much in return",
+    "category": "parable"
+  },
+  {
+    "id": "p33",
+    "title": "The Good Shepherd",
+    "meaning": "Jesus knows His sheep and lays down His life for them",
+    "category": "parable"
+  },
+  {
+    "id": "p34",
+    "title": "The Vine and the Branches",
+    "meaning": "Abide in Jesus, for apart from Him you bear no fruit",
+    "category": "parable"
+  },
+  {
+    "id": "p35",
+    "title": "Salt and Light",
+    "meaning": "Believers preserve and illuminate a decaying, darkened world",
+    "category": "parable"
+  },
+  {
+    "id": "p36",
+    "title": "The Narrow Door",
+    "meaning": "Strive to enter; many will find the gate shut too late",
+    "category": "parable"
+  },
+  {
+    "id": "p37",
+    "title": "The Fall",
+    "meaning": "Adam and Eve ate the forbidden fruit, bringing sin",
+    "category": "ot"
+  },
+  {
+    "id": "p38",
+    "title": "Cain and Abel",
+    "meaning": "Jealousy over offerings led to the first murder",
+    "category": "ot"
+  },
+  {
+    "id": "p39",
+    "title": "Noah's Flood",
+    "meaning": "God saved Noah's family in the ark from worldwide judgment",
+    "category": "ot"
+  },
+  {
+    "id": "p40",
+    "title": "The Tower of Babel",
+    "meaning": "God confused languages to scatter the proud builders",
+    "category": "ot"
+  },
+  {
+    "id": "p41",
+    "title": "Abraham's Call",
+    "meaning": "God called him to leave Ur for a promised land",
+    "category": "ot"
+  },
+  {
+    "id": "p42",
+    "title": "The Sacrifice of Isaac",
+    "meaning": "Abraham's obedience tested; God provided a ram instead",
+    "category": "ot"
+  },
+  {
+    "id": "p43",
+    "title": "Jacob's Ladder",
+    "meaning": "He dreamed of a stairway with angels reaching heaven",
+    "category": "ot"
+  },
+  {
+    "id": "p44",
+    "title": "Joseph in Egypt",
+    "meaning": "Sold by brothers, he rose to govern Egypt",
+    "category": "ot"
+  },
+  {
+    "id": "p45",
+    "title": "The Burning Bush",
+    "meaning": "God spoke to Moses from a flame that never consumed",
+    "category": "ot"
+  },
+  {
+    "id": "p46",
+    "title": "The Ten Plagues",
+    "meaning": "Judgments on Egypt forced Pharaoh to free Israel",
+    "category": "ot"
+  },
+  {
+    "id": "p47",
+    "title": "The Passover",
+    "meaning": "Lamb's blood on doorposts spared Israel's firstborn",
+    "category": "ot"
+  },
+  {
+    "id": "p48",
+    "title": "Crossing the Red Sea",
+    "meaning": "God parted waters so Israel escaped Pharaoh's army",
+    "category": "ot"
+  },
+  {
+    "id": "p49",
+    "title": "The Manna",
+    "meaning": "Bread from heaven fed Israel daily in the wilderness",
+    "category": "ot"
+  },
+  {
+    "id": "p50",
+    "title": "The Ten Commandments",
+    "meaning": "God gave His moral law on stone at Sinai",
+    "category": "ot"
+  },
+  {
+    "id": "p51",
+    "title": "The Golden Calf",
+    "meaning": "Israel made an idol while Moses was on the mountain",
+    "category": "ot"
+  },
+  {
+    "id": "p52",
+    "title": "The Tabernacle",
+    "meaning": "A portable sanctuary where God dwelt among Israel",
+    "category": "ot"
+  },
+  {
+    "id": "p53",
+    "title": "The Twelve Spies",
+    "meaning": "Ten brought fear; only Caleb and Joshua trusted God",
+    "category": "ot"
+  },
+  {
+    "id": "p54",
+    "title": "Jericho's Walls",
+    "meaning": "The city walls fell after Israel marched and shouted",
+    "category": "ot"
+  },
+  {
+    "id": "p55",
+    "title": "Gideon",
+    "meaning": "With three hundred men he routed the Midianites",
+    "category": "ot"
+  },
+  {
+    "id": "p56",
+    "title": "Samson",
+    "meaning": "His strength lay in uncut hair vowed to God",
+    "category": "ot"
+  },
+  {
+    "id": "p57",
+    "title": "Ruth's Loyalty",
+    "meaning": "A Moabitess clung to Naomi and Israel's God",
+    "category": "ot"
+  },
+  {
+    "id": "p58",
+    "title": "Samuel Called",
+    "meaning": "The boy answered God's nighttime voice in the temple",
+    "category": "ot"
+  },
+  {
+    "id": "p59",
+    "title": "David and Goliath",
+    "meaning": "A shepherd felled the giant with a sling stone",
+    "category": "ot"
+  },
+  {
+    "id": "p60",
+    "title": "David and Bathsheba",
+    "meaning": "His adultery and cover-up murder brought Nathan's rebuke",
+    "category": "ot"
+  },
+  {
+    "id": "p61",
+    "title": "Solomon's Wisdom",
+    "meaning": "He asked for discernment to judge God's people rightly",
+    "category": "ot"
+  },
+  {
+    "id": "p62",
+    "title": "The Divided Kingdom",
+    "meaning": "Israel split into northern and southern realms after Solomon",
+    "category": "ot"
+  },
+  {
+    "id": "p63",
+    "title": "Elijah on Carmel",
+    "meaning": "Fire from heaven proved the Lord against Baal's prophets",
+    "category": "ot"
+  },
+  {
+    "id": "p64",
+    "title": "Elisha",
+    "meaning": "Elijah's successor who received a double portion of spirit",
+    "category": "ot"
+  },
+  {
+    "id": "p65",
+    "title": "Naaman Healed",
+    "meaning": "The Syrian's leprosy cleansed by dipping in the Jordan",
+    "category": "ot"
+  },
+  {
+    "id": "p66",
+    "title": "The Fiery Furnace",
+    "meaning": "Three Hebrews unburned for refusing to bow to the idol",
+    "category": "ot"
+  },
+  {
+    "id": "p67",
+    "title": "Daniel in the Lions' Den",
+    "meaning": "He prayed despite the decree; God shut the lions' mouths",
+    "category": "ot"
+  },
+  {
+    "id": "p68",
+    "title": "Jonah and the Fish",
+    "meaning": "A great fish swallowed the prophet fleeing Nineveh",
+    "category": "ot"
+  },
+  {
+    "id": "p69",
+    "title": "The Fall of Jerusalem",
+    "meaning": "Babylon destroyed the city and burned Solomon's temple",
+    "category": "ot"
+  },
+  {
+    "id": "p70",
+    "title": "The Exile",
+    "meaning": "Judah was carried captive to Babylon for seventy years",
+    "category": "ot"
+  },
+  {
+    "id": "p71",
+    "title": "Return under Zerubbabel",
+    "meaning": "Exiles came home to rebuild the temple's foundation",
+    "category": "ot"
+  },
+  {
+    "id": "p72",
+    "title": "Nehemiah's Wall",
+    "meaning": "Jerusalem's broken walls rebuilt in fifty-two days",
+    "category": "ot"
+  },
+  {
+    "id": "p73",
+    "title": "Esther Saves Her People",
+    "meaning": "A Jewish queen risked death to stop Haman's genocide",
+    "category": "ot"
+  },
+  {
+    "id": "p74",
+    "title": "Job's Testing",
+    "meaning": "He kept faith through loss, sickness, and friends' accusations",
+    "category": "ot"
+  },
+  {
+    "id": "p75",
+    "title": "Joshua Succeeds Moses",
+    "meaning": "He led Israel across the Jordan into Canaan",
+    "category": "ot"
+  },
+  {
+    "id": "p76",
+    "title": "Adam",
+    "meaning": "First man, named the animals, formed from the dust",
+    "category": "ot"
+  },
+  {
+    "id": "p77",
+    "title": "Eve",
+    "meaning": "Mother of all living, deceived by the serpent first",
+    "category": "ot"
+  },
+  {
+    "id": "p78",
+    "title": "Enoch",
+    "meaning": "Walked with God and was translated without seeing death",
+    "category": "ot"
+  },
+  {
+    "id": "p79",
+    "title": "Melchizedek",
+    "meaning": "Priest-king of Salem who blessed Abram and received tithes",
+    "category": "ot"
+  },
+  {
+    "id": "p80",
+    "title": "Sarah",
+    "meaning": "Laughed, then bore Isaac in her old age",
+    "category": "ot"
+  },
+  {
+    "id": "p81",
+    "title": "Isaac",
+    "meaning": "Promised son who blessed Jacob over Esau",
+    "category": "ot"
+  },
+  {
+    "id": "p82",
+    "title": "Rebekah",
+    "meaning": "Watered camels at the well, became Isaac's chosen bride",
+    "category": "ot"
+  },
+  {
+    "id": "p83",
+    "title": "Jacob",
+    "meaning": "Wrestled the angel and was renamed Israel at Peniel",
+    "category": "ot"
+  },
+  {
+    "id": "p84",
+    "title": "Moses",
+    "meaning": "Led Israel from Egypt and received the law at Sinai",
+    "category": "ot"
+  },
+  {
+    "id": "p85",
+    "title": "Aaron",
+    "meaning": "First high priest who also made the golden calf",
+    "category": "ot"
+  },
+  {
+    "id": "p86",
+    "title": "Miriam",
+    "meaning": "Sang at the Red Sea; struck with leprosy for murmuring",
+    "category": "ot"
+  },
+  {
+    "id": "p87",
+    "title": "Caleb",
+    "meaning": "Faithful spy who claimed Hebron at eighty-five years old",
+    "category": "ot"
+  },
+  {
+    "id": "p88",
+    "title": "Deborah",
+    "meaning": "Prophetess and judge who summoned Barak against Sisera",
+    "category": "ot"
+  },
+  {
+    "id": "p89",
+    "title": "Hannah",
+    "meaning": "Prayed for a son and dedicated Samuel to God",
+    "category": "ot"
+  },
+  {
+    "id": "p90",
+    "title": "Saul",
+    "meaning": "Israel's first king, rejected for disobeying God's command",
+    "category": "ot"
+  },
+  {
+    "id": "p91",
+    "title": "Jonathan",
+    "meaning": "Saul's son whose covenant friendship spared David's life",
+    "category": "ot"
+  },
+  {
+    "id": "p92",
+    "title": "Solomon",
+    "meaning": "Wise king who built the first temple in Jerusalem",
+    "category": "ot"
+  },
+  {
+    "id": "p93",
+    "title": "The ark of the covenant",
+    "meaning": "Golden chest holding the tablets, where God met Israel",
+    "category": "ot"
+  },
+  {
+    "id": "p94",
+    "title": "The bronze serpent",
+    "meaning": "Lifted on a pole; looking at it healed snakebites",
+    "category": "ot"
+  },
+  {
+    "id": "p95",
+    "title": "Aaron's rod",
+    "meaning": "Budded with almonds to confirm the chosen priesthood",
+    "category": "ot"
+  },
+  {
+    "id": "p96",
+    "title": "The mercy seat",
+    "meaning": "Ark's gold lid where blood was sprinkled for atonement",
+    "category": "ot"
+  },
+  {
+    "id": "p97",
+    "title": "The menorah",
+    "meaning": "Seven-branched lampstand giving continual light in the holy place",
+    "category": "ot"
+  },
+  {
+    "id": "p98",
+    "title": "The scapegoat",
+    "meaning": "Sent into wilderness bearing Israel's confessed sins on Atonement",
+    "category": "ot"
+  },
+  {
+    "id": "p99",
+    "title": "The Urim and Thummim",
+    "meaning": "High priest's tools for discerning God's yes-or-no answers",
+    "category": "ot"
+  },
+  {
+    "id": "p100",
+    "title": "Boaz",
+    "meaning": "Kinsman-redeemer who married Ruth and restored Naomi's line",
+    "category": "ot"
+  },
+  {
+    "id": "p101",
+    "title": "Rahab",
+    "meaning": "Jericho harlot who hid spies and hung the scarlet cord",
+    "category": "ot"
+  },
+  {
+    "id": "p102",
+    "title": "The widow of Zarephath",
+    "meaning": "Fed Elijah from a jar of meal that never emptied",
+    "category": "ot"
+  },
+  {
+    "id": "p103",
+    "title": "Hezekiah",
+    "meaning": "Granted fifteen added years as the sundial's shadow reversed",
+    "category": "ot"
+  },
+  {
+    "id": "p104",
+    "title": "Josiah",
+    "meaning": "Boy king who reformed Judah after finding the lost law",
+    "category": "ot"
+  },
+  {
+    "id": "p105",
+    "title": "Isaiah's Suffering Servant",
+    "meaning": "Wounded for our transgressions, he bore the sins of many",
+    "category": "ot"
+  },
+  {
+    "id": "p106",
+    "title": "Jeremiah's New Covenant",
+    "meaning": "God writes his law on hearts, not stone tablets",
+    "category": "ot"
+  },
+  {
+    "id": "p107",
+    "title": "Ezekiel's Valley of Dry Bones",
+    "meaning": "God's Spirit revives lifeless Israel into a living army",
+    "category": "ot"
+  },
+  {
+    "id": "p108",
+    "title": "Daniel's Statue Vision",
+    "meaning": "Four metals show empires; a stone smashes the image",
+    "category": "ot"
+  },
+  {
+    "id": "p109",
+    "title": "Daniel's 2300 Days",
+    "meaning": "After 2300 evenings and mornings, the sanctuary is cleansed",
+    "category": "ot"
+  },
+  {
+    "id": "p110",
+    "title": "The Sanctuary Cleansed",
+    "meaning": "Heaven's investigative judgment begins in 1844, vindicating God's people",
+    "category": "ot"
+  },
+  {
+    "id": "p111",
+    "title": "Micah's Bethlehem Prophecy",
+    "meaning": "The ruler of Israel comes from little Bethlehem Ephrathah",
+    "category": "ot"
+  },
+  {
+    "id": "p112",
+    "title": "Elijah to Come",
+    "meaning": "A forerunner turns hearts back before the great day",
+    "category": "ot"
+  },
+  {
+    "id": "p113",
+    "title": "Hosea and Gomer",
+    "meaning": "God's faithful love pursues his unfaithful, adulterous people",
+    "category": "ot"
+  },
+  {
+    "id": "p114",
+    "title": "Joel's Outpoured Spirit",
+    "meaning": "Sons and daughters prophesy when the Spirit is poured out",
+    "category": "ot"
+  },
+  {
+    "id": "p115",
+    "title": "Amos the Shepherd Prophet",
+    "meaning": "Let justice roll like waters against Israel's empty worship",
+    "category": "ot"
+  },
+  {
+    "id": "p116",
+    "title": "Haggai's Rebuilt Temple",
+    "meaning": "Stop neglecting God's house; finish rebuilding before seeking comfort",
+    "category": "ot"
+  },
+  {
+    "id": "p117",
+    "title": "Zechariah's Branch and King",
+    "meaning": "Visions of the coming Branch riding humbly into Jerusalem",
+    "category": "ot"
+  },
+  {
+    "id": "p118",
+    "title": "Malachi's Coming Messenger",
+    "meaning": "A refiner's fire prepares for the Lord suddenly entering his temple",
+    "category": "ot"
+  },
+  {
+    "id": "p119",
+    "title": "The Annunciation",
+    "meaning": "Gabriel tells Mary she will bear the Son of God",
+    "category": "nt"
+  },
+  {
+    "id": "p120",
+    "title": "The Nativity",
+    "meaning": "Jesus is born in Bethlehem and laid in a manger",
+    "category": "nt"
+  },
+  {
+    "id": "p121",
+    "title": "Visit of the Magi",
+    "meaning": "Wise men follow a star to worship the newborn King",
+    "category": "nt"
+  },
+  {
+    "id": "p122",
+    "title": "Boy Jesus in the Temple",
+    "meaning": "At twelve he amazes teachers in his Father's house",
+    "category": "nt"
+  },
+  {
+    "id": "p123",
+    "title": "Jesus' Baptism",
+    "meaning": "The Spirit descends as a dove; the Father declares him beloved",
+    "category": "nt"
+  },
+  {
+    "id": "p124",
+    "title": "Temptation in the Wilderness",
+    "meaning": "Jesus defeats Satan's three temptations with Scripture",
+    "category": "nt"
+  },
+  {
+    "id": "p125",
+    "title": "Calling the Disciples",
+    "meaning": "Fishermen leave their nets to become fishers of men",
+    "category": "nt"
+  },
+  {
+    "id": "p126",
+    "title": "Water into Wine",
+    "meaning": "His first sign at Cana reveals his glory",
+    "category": "nt"
+  },
+  {
+    "id": "p127",
+    "title": "Sermon on the Mount",
+    "meaning": "Jesus teaches the ethics of the kingdom of heaven",
+    "category": "nt"
+  },
+  {
+    "id": "p128",
+    "title": "The Beatitudes",
+    "meaning": "Blessings promised to the poor, meek, and persecuted",
+    "category": "nt"
+  },
+  {
+    "id": "p129",
+    "title": "The Lord's Prayer",
+    "meaning": "The model prayer beginning 'Our Father in heaven'",
+    "category": "nt"
+  },
+  {
+    "id": "p130",
+    "title": "Stilling the Storm",
+    "meaning": "He rebukes wind and waves; even nature obeys him",
+    "category": "nt"
+  },
+  {
+    "id": "p131",
+    "title": "Feeding the 5000",
+    "meaning": "Five loaves and two fish satisfy a vast crowd",
+    "category": "nt"
+  },
+  {
+    "id": "p132",
+    "title": "Walking on Water",
+    "meaning": "Jesus crosses the sea on foot and lifts sinking Peter",
+    "category": "nt"
+  },
+  {
+    "id": "p133",
+    "title": "The Transfiguration",
+    "meaning": "His face shines; Moses and Elijah appear beside him",
+    "category": "nt"
+  },
+  {
+    "id": "p134",
+    "title": "Raising Lazarus",
+    "meaning": "He calls a four-day-dead man alive from the tomb",
+    "category": "nt"
+  },
+  {
+    "id": "p135",
+    "title": "The Triumphal Entry",
+    "meaning": "Jesus rides into Jerusalem to crowds shouting Hosanna",
+    "category": "nt"
+  },
+  {
+    "id": "p136",
+    "title": "Cleansing the Temple",
+    "meaning": "He overturns the money changers' tables in zeal",
+    "category": "nt"
+  },
+  {
+    "id": "p137",
+    "title": "The Last Supper",
+    "meaning": "Jesus institutes bread and cup as the new covenant",
+    "category": "nt"
+  },
+  {
+    "id": "p138",
+    "title": "Gethsemane",
+    "meaning": "He prays in agony, surrendering to the Father's will",
+    "category": "nt"
+  },
+  {
+    "id": "p139",
+    "title": "Betrayal of Judas",
+    "meaning": "A disciple hands Jesus over with a kiss for silver",
+    "category": "nt"
+  },
+  {
+    "id": "p140",
+    "title": "Peter's Denial",
+    "meaning": "Three times he disowns Jesus before the rooster crows",
+    "category": "nt"
+  },
+  {
+    "id": "p141",
+    "title": "The Crucifixion",
+    "meaning": "Jesus dies on the cross to bear the world's sin",
+    "category": "nt"
+  },
+  {
+    "id": "p142",
+    "title": "The Resurrection",
+    "meaning": "He rises from the grave, conquering death on the third day",
+    "category": "nt"
+  },
+  {
+    "id": "p143",
+    "title": "The Road to Emmaus",
+    "meaning": "The risen Lord is known in the breaking of bread",
+    "category": "nt"
+  },
+  {
+    "id": "p144",
+    "title": "The Great Commission",
+    "meaning": "Go make disciples of all nations, baptizing them",
+    "category": "nt"
+  },
+  {
+    "id": "p145",
+    "title": "The Ascension",
+    "meaning": "Jesus is taken up to heaven in a cloud",
+    "category": "nt"
+  },
+  {
+    "id": "p146",
+    "title": "Healing the Blind",
+    "meaning": "He gives sight, opening eyes that never saw",
+    "category": "nt"
+  },
+  {
+    "id": "p147",
+    "title": "Healing the Paralytic",
+    "meaning": "Forgiven and healed, the lame man takes up his mat",
+    "category": "nt"
+  },
+  {
+    "id": "p148",
+    "title": "The Woman at the Well",
+    "meaning": "Jesus offers a Samaritan living water that never runs dry",
+    "category": "nt"
+  },
+  {
+    "id": "p149",
+    "title": "Pentecost",
+    "meaning": "The Spirit fell as tongues of fire empowering the church",
+    "category": "nt"
+  },
+  {
+    "id": "p150",
+    "title": "The Early Church Sharing",
+    "meaning": "Believers held all in common, none lacking anything",
+    "category": "nt"
+  },
+  {
+    "id": "p151",
+    "title": "Stephen's Martyrdom",
+    "meaning": "First martyr forgave his killers while seeing heaven opened",
+    "category": "nt"
+  },
+  {
+    "id": "p152",
+    "title": "Saul's Conversion",
+    "meaning": "A blinding light on the Damascus road turned a persecutor into an apostle",
+    "category": "nt"
+  },
+  {
+    "id": "p153",
+    "title": "Peter and Cornelius",
+    "meaning": "A vision of unclean animals opened the gospel to Gentiles",
+    "category": "nt"
+  },
+  {
+    "id": "p154",
+    "title": "The Jerusalem Council",
+    "meaning": "Leaders ruled circumcision not required for Gentile salvation",
+    "category": "nt"
+  },
+  {
+    "id": "p155",
+    "title": "Paul's Missionary Journeys",
+    "meaning": "Founding churches across Asia Minor and Greece",
+    "category": "nt"
+  },
+  {
+    "id": "p156",
+    "title": "Paul's Shipwreck",
+    "meaning": "An angel promised every life spared on the voyage to Rome",
+    "category": "nt"
+  },
+  {
+    "id": "p157",
+    "title": "The Fruit of the Spirit",
+    "meaning": "Love, joy, peace, and patience grow from walking in the Spirit",
+    "category": "nt"
+  },
+  {
+    "id": "p158",
+    "title": "The Armor of God",
+    "meaning": "Stand against evil with truth, righteousness, faith, and the Word",
+    "category": "nt"
+  },
+  {
+    "id": "p159",
+    "title": "The Love Chapter (1 Corinthians 13)",
+    "meaning": "Without love, eloquence and sacrifice amount to nothing",
+    "category": "nt"
+  },
+  {
+    "id": "p160",
+    "title": "Justification by Faith",
+    "meaning": "Sinners are declared righteous through faith, not works of law",
+    "category": "nt"
+  },
+  {
+    "id": "p161",
+    "title": "The Body of Christ",
+    "meaning": "Many members with different gifts form one interdependent church",
+    "category": "nt"
+  },
+  {
+    "id": "p162",
+    "title": "The Gifts of the Spirit",
+    "meaning": "The Spirit distributes prophecy, healing, and tongues for common good",
+    "category": "nt"
+  },
+  {
+    "id": "p163",
+    "title": "The Faith Chapter (Hebrews 11)",
+    "meaning": "By faith the ancients pleased God and obeyed unseen promises",
+    "category": "nt"
+  },
+  {
+    "id": "p164",
+    "title": "James on Faith and Works",
+    "meaning": "Faith without accompanying deeds is dead and useless",
+    "category": "nt"
+  },
+  {
+    "id": "p165",
+    "title": "The New Birth (John 3)",
+    "meaning": "One must be born again of water and Spirit to enter the kingdom",
+    "category": "nt"
+  },
+  {
+    "id": "p166",
+    "title": "The Bread of Life",
+    "meaning": "Jesus declared He is the bread that gives eternal life",
+    "category": "nt"
+  },
+  {
+    "id": "p167",
+    "title": "Revelation's Seven Churches",
+    "meaning": "Christ's messages of praise and rebuke to seven Asian congregations",
+    "category": "nt"
+  },
+  {
+    "id": "p168",
+    "title": "The New Heaven and New Earth",
+    "meaning": "God dwells with His people, wiping away every tear",
+    "category": "nt"
+  },
+  {
+    "id": "p169",
+    "title": "The Great Multitude",
+    "meaning": "Countless redeemed in white robes from every nation before the throne",
+    "category": "nt"
+  },
+  {
+    "id": "p170",
+    "title": "The Marriage Supper of the Lamb",
+    "meaning": "The bride made ready feasts with Christ at His return",
+    "category": "nt"
+  },
+  {
+    "id": "p171",
+    "title": "The Holy Scriptures",
+    "meaning": "God's written, infallible revelation, the authoritative standard for faith",
+    "category": "belief"
+  },
+  {
+    "id": "p172",
+    "title": "The Trinity",
+    "meaning": "One God in three coeternal Persons: Father, Son, and Holy Spirit",
+    "category": "belief"
+  },
+  {
+    "id": "p173",
+    "title": "God the Father",
+    "meaning": "The Creator, Source, and Sustainer who governs creation in love",
+    "category": "belief"
+  },
+  {
+    "id": "p174",
+    "title": "God the Son",
+    "meaning": "The eternal Word incarnate, truly God and truly human",
+    "category": "belief"
+  },
+  {
+    "id": "p175",
+    "title": "God the Holy Spirit",
+    "meaning": "The Comforter who convicts, regenerates, and empowers believers for service",
+    "category": "belief"
+  },
+  {
+    "id": "p176",
+    "title": "Creation",
+    "meaning": "God made all things in six literal days, resting the seventh",
+    "category": "belief"
+  },
+  {
+    "id": "p177",
+    "title": "The Nature of Humanity",
+    "meaning": "Made in God's image, an indivisible unity of body and breath",
+    "category": "belief"
+  },
+  {
+    "id": "p178",
+    "title": "The Great Controversy",
+    "meaning": "Cosmic conflict between Christ and Satan over God's character and law",
+    "category": "belief"
+  },
+  {
+    "id": "p179",
+    "title": "Life, Death, and Resurrection of Christ",
+    "meaning": "Jesus' atoning death and bodily resurrection reconcile and justify repentant sinners",
+    "category": "belief"
+  },
+  {
+    "id": "p180",
+    "title": "The Experience of Salvation",
+    "meaning": "By grace through faith we are justified, adopted, and born again",
+    "category": "belief"
+  },
+  {
+    "id": "p181",
+    "title": "Growing in Christ",
+    "meaning": "Christ's victory frees believers to mature daily through abiding sanctification",
+    "category": "belief"
+  },
+  {
+    "id": "p182",
+    "title": "The Church",
+    "meaning": "The community of believers confessing Christ, the body He nourishes",
+    "category": "belief"
+  },
+  {
+    "id": "p183",
+    "title": "The Remnant and Its Mission",
+    "meaning": "End-time people keeping God's commandments and proclaiming three angels' messages",
+    "category": "belief"
+  },
+  {
+    "id": "p184",
+    "title": "Unity in the Body of Christ",
+    "meaning": "One faith transcending race, culture, and gender in Christ",
+    "category": "belief"
+  },
+  {
+    "id": "p185",
+    "title": "Baptism",
+    "meaning": "Immersion confessing faith in Jesus and rising to new life",
+    "category": "belief"
+  },
+  {
+    "id": "p186",
+    "title": "The Lord's Supper",
+    "meaning": "Bread and wine commemorate Jesus' death until He returns",
+    "category": "belief"
+  },
+  {
+    "id": "p187",
+    "title": "Spiritual Gifts and Ministries",
+    "meaning": "The Spirit equips each believer for service in the church",
+    "category": "belief"
+  },
+  {
+    "id": "p188",
+    "title": "The Gift of Prophecy",
+    "meaning": "A continuing sign of the remnant, seen in Ellen White",
+    "category": "belief"
+  },
+  {
+    "id": "p189",
+    "title": "The Law of God",
+    "meaning": "The Ten Commandments reveal God's eternal moral standard",
+    "category": "belief"
+  },
+  {
+    "id": "p190",
+    "title": "The Sabbath",
+    "meaning": "Resting the seventh day memorializes creation and redemption",
+    "category": "belief"
+  },
+  {
+    "id": "p191",
+    "title": "Stewardship",
+    "meaning": "Returning tithes and offerings as managers of God's resources",
+    "category": "belief"
+  },
+  {
+    "id": "p192",
+    "title": "Christian Behavior",
+    "meaning": "Caring for the body as the temple of the Spirit",
+    "category": "belief"
+  },
+  {
+    "id": "p193",
+    "title": "Marriage and the Family",
+    "meaning": "Lifelong union of one man and one woman, instituted in Eden",
+    "category": "belief"
+  },
+  {
+    "id": "p194",
+    "title": "Christ's Ministry in the Heavenly Sanctuary",
+    "meaning": "Jesus serves as our High Priest, begun the 1844 judgment",
+    "category": "belief"
+  },
+  {
+    "id": "p195",
+    "title": "The Second Coming of Christ",
+    "meaning": "Jesus returns visibly and audibly to gather His people",
+    "category": "belief"
+  },
+  {
+    "id": "p196",
+    "title": "Death and Resurrection",
+    "meaning": "Death is an unconscious sleep until the resurrection awakening",
+    "category": "belief"
+  },
+  {
+    "id": "p197",
+    "title": "The Millennium and the End of Sin",
+    "meaning": "Thousand years the saints reign while earth lies desolate",
+    "category": "belief"
+  },
+  {
+    "id": "p198",
+    "title": "The New Earth",
+    "meaning": "God recreates a sinless home where the redeemed dwell forever",
+    "category": "belief"
+  },
+  {
+    "id": "p199",
+    "title": "Sodom and Gomorrah",
+    "meaning": "Fire and brimstone destroyed the wicked cities of the plain",
+    "category": "ot"
+  },
+  {
+    "id": "p200",
+    "title": "Lot's Wife",
+    "meaning": "Looking back at Sodom, she became a pillar of salt",
+    "category": "ot"
+  },
+  {
+    "id": "p201",
+    "title": "Hagar and Ishmael",
+    "meaning": "God heard the cast-out slave and her thirsting boy",
+    "category": "ot"
+  },
+  {
+    "id": "p202",
+    "title": "Esau Sells His Birthright",
+    "meaning": "He traded his birthright for a bowl of stew",
+    "category": "ot"
+  },
+  {
+    "id": "p203",
+    "title": "Joseph Interprets Pharaoh's Dreams",
+    "meaning": "Seven fat and lean cows foretold famine and plenty",
+    "category": "ot"
+  },
+  {
+    "id": "p204",
+    "title": "Crossing the Jordan",
+    "meaning": "The river heaped up as priests carried the ark across",
+    "category": "ot"
+  },
+  {
+    "id": "p205",
+    "title": "Achan's Sin",
+    "meaning": "Hidden Jericho plunder brought defeat and his family's stoning",
+    "category": "ot"
+  },
+  {
+    "id": "p206",
+    "title": "Ehud",
+    "meaning": "Left-handed judge slew fat King Eglon with a hidden dagger",
+    "category": "ot"
+  },
+  {
+    "id": "p207",
+    "title": "Jephthah's Vow",
+    "meaning": "His rash vow cost the life of his only daughter",
+    "category": "ot"
+  },
+  {
+    "id": "p208",
+    "title": "Boaz at the Threshing Floor",
+    "meaning": "Ruth claimed redemption by lying at her kinsman's feet",
+    "category": "ot"
+  },
+  {
+    "id": "p209",
+    "title": "Absalom's Rebellion",
+    "meaning": "David's son seized the throne and died caught by his hair",
+    "category": "ot"
+  },
+  {
+    "id": "p210",
+    "title": "Elijah Taken in a Whirlwind",
+    "meaning": "A chariot of fire carried him to heaven alive",
+    "category": "ot"
+  },
+  {
+    "id": "p211",
+    "title": "The Floating Axe Head",
+    "meaning": "Elisha made the borrowed iron tool float to the surface",
+    "category": "ot"
+  },
+  {
+    "id": "p212",
+    "title": "Belshazzar's Feast",
+    "meaning": "A hand wrote his doom while he drank from temple vessels",
+    "category": "ot"
+  },
+  {
+    "id": "p213",
+    "title": "Zacchaeus the Tax Collector",
+    "meaning": "A short tax collector climbed a tree, then repaid fourfold",
+    "category": "nt"
+  },
+  {
+    "id": "p214",
+    "title": "The Rich Young Ruler",
+    "meaning": "He kept the commandments but couldn't part with his wealth",
+    "category": "nt"
+  },
+  {
+    "id": "p215",
+    "title": "The Widow's Two Mites",
+    "meaning": "She gave two small coins, all she had to live on",
+    "category": "nt"
+  },
+  {
+    "id": "p216",
+    "title": "The Ten Lepers Healed",
+    "meaning": "Ten were cleansed, yet only one Samaritan returned thanking Jesus",
+    "category": "nt"
+  },
+  {
+    "id": "p217",
+    "title": "The Centurion's Faith",
+    "meaning": "He trusted Jesus' mere word to heal his servant remotely",
+    "category": "nt"
+  },
+  {
+    "id": "p218",
+    "title": "The Syrophoenician Woman",
+    "meaning": "Her humble persistence won crumbs of mercy for her demon-tormented daughter",
+    "category": "nt"
+  },
+  {
+    "id": "p219",
+    "title": "Blind Bartimaeus",
+    "meaning": "He cried louder when hushed, and Jesus restored his sight",
+    "category": "nt"
+  },
+  {
+    "id": "p220",
+    "title": "The Man at Bethesda Pool",
+    "meaning": "Lame thirty-eight years, he rose at Jesus' command and walked",
+    "category": "nt"
+  },
+  {
+    "id": "p221",
+    "title": "Doubting Thomas",
+    "meaning": "He believed only after seeing the risen Jesus' wounds",
+    "category": "nt"
+  },
+  {
+    "id": "p222",
+    "title": "The Great Catch of Fish",
+    "meaning": "Nets broke with fish after Peter obeyed and launched deeper",
+    "category": "nt"
+  },
+  {
+    "id": "p223",
+    "title": "John the Baptist Beheaded",
+    "meaning": "He died for rebuking Herod, at a dancing girl's request",
+    "category": "nt"
+  },
+  {
+    "id": "p224",
+    "title": "Mary Anoints Jesus' Feet",
+    "meaning": "She poured costly perfume and wiped his feet with her hair",
+    "category": "nt"
+  },
+  {
+    "id": "p225",
+    "title": "The Gadarene Demoniac",
+    "meaning": "Legion of demons left the man and entered a swine herd",
+    "category": "nt"
+  },
+  {
+    "id": "p226",
+    "title": "The Woman Caught in Adultery",
+    "meaning": "Sinless accusers may cast first; Jesus told her sin no more",
+    "category": "nt"
+  },
+  {
+    "id": "p227",
+    "title": "The Lord Is My Shepherd (Psalm 23)",
+    "meaning": "God leads me through green pastures and death's valley",
+    "category": "ot"
+  },
+  {
+    "id": "p228",
+    "title": "Create in Me a Clean Heart (Psalm 51)",
+    "meaning": "David begs God to wash and renew him after sin",
+    "category": "ot"
+  },
+  {
+    "id": "p229",
+    "title": "The Two Ways (Psalm 1)",
+    "meaning": "The righteous flourish like trees; the wicked blow away",
+    "category": "ot"
+  },
+  {
+    "id": "p230",
+    "title": "The Fear of the Lord",
+    "meaning": "Reverence for God is the beginning of wisdom",
+    "category": "ot"
+  },
+  {
+    "id": "p231",
+    "title": "Vanity of Vanities (Ecclesiastes)",
+    "meaning": "Life under the sun is meaningless apart from God",
+    "category": "ot"
+  },
+  {
+    "id": "p232",
+    "title": "The Song of Songs",
+    "meaning": "Married love pictures the bond between God and His people",
+    "category": "ot"
+  },
+  {
+    "id": "p233",
+    "title": "The Four Horsemen",
+    "meaning": "White, red, black, and pale riders bring conquest, war, famine, death",
+    "category": "nt"
+  },
+  {
+    "id": "p234",
+    "title": "The Seven Seals",
+    "meaning": "The Lamb alone is worthy to open history's scroll",
+    "category": "nt"
+  },
+  {
+    "id": "p235",
+    "title": "The Seven Trumpets",
+    "meaning": "Successive judgments warn the earth before the end comes",
+    "category": "nt"
+  },
+  {
+    "id": "p236",
+    "title": "The Mark of the Beast",
+    "meaning": "End-time test of allegiance forced by those worshiping the beast",
+    "category": "nt"
+  },
+  {
+    "id": "p237",
+    "title": "The 144,000 Sealed",
+    "meaning": "God seals His faithful servants before the final winds blow",
+    "category": "nt"
+  },
+  {
+    "id": "p238",
+    "title": "The Three Angels' Messages",
+    "meaning": "Fear God, Babylon is fallen, shun the beast's worship",
+    "category": "nt"
+  },
+  {
+    "id": "p239",
+    "title": "Babylon Falls",
+    "meaning": "The corrupt world religious system collapses in one hour",
+    "category": "nt"
+  },
+  {
+    "id": "p240",
+    "title": "The Lake of Fire",
+    "meaning": "Death, the devil, and the unsaved meet the second death",
+    "category": "nt"
   }
 ]

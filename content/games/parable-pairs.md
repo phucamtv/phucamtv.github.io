@@ -1,6 +1,6 @@
 ---
-title: "Parable Pairs"
+title: "Meaning Match"
 game: "parable-pairs"
 data: "parables"
-summary: "Match each parable to its meaning."
+summary: "Match each subject to its meaning."
 ---
