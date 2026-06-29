@@ -152,10 +152,11 @@ script stays synchronous.
   hub cards all read from these tokens, so light/dark mode comes for free.
 - Display serif (Newsreader) for game titles/scripture; UI sans (Be Vietnam Pro)
   for buttons and chrome — matching the library convention.
-- Games do **not** adopt the full three-column library app-shell (rail/mid/detail).
-  They use site tokens + fonts to *harmonize*, but keep their own simple
-  single-column game layout. (Confirmed scope: "adopt design tokens/shell", not
-  "full library-shell integration".)
+- Games **adopt the library app-shell** (`.lib-app`, no-mid index pattern): dark
+  rail on desktop, bottom navbar on iPad/mobile, games as the col-3 detail —
+  like Kinh Thánh / Tín Lý / Nghiên Cứu. `layouts/games/baseof.html` composes the
+  shell; `games.css` is scoped under `.lib-app`. (Scope was raised from the
+  initial "tokens only" to full shell integration after reviewing the result.)
 
 ## Data flow
 
@@ -182,9 +183,14 @@ script stays synchronous.
 ## Out of scope (explicit)
 
 - Vietnamese translation of UI strings and Bible data (separate task).
-- Adding `/games/` to the site navigation/menu (separate, design-system-bound task).
 - Reintroducing a JS test runner.
-- Full library app-shell (rail/mid/detail) for games.
+
+## Done (initially deferred, then included)
+
+- Full library app-shell for games (rail/navbar/no-mid detail) — adopted.
+- A `Trò Chơi` entry + icon in the shared library nav (`nav-data.html` /
+  `nav-icon.html`), so the section appears in the rail and bottom navbar and
+  highlights active on `/games` pages.
 
 ## Verification
 

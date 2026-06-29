@@ -601,7 +601,7 @@ Expected: build succeeds; all listed paths exist (`static/games/js/**` is copied
 
 ## Notes for the implementer
 
-- The games render plain semantic HTML (`<h2>`, `<button>`, `<blockquote>`, etc.) with a few state classes. All styling is in `games.css` scoped under `.games` — do not add inline styles to the JS.
+- The games render plain semantic HTML (`<h2>`, `<button>`, `<blockquote>`, etc.) with a few state classes. All styling is in `games.css` scoped under `.lib-app .games` — do not add inline styles to the JS.
 - `window.GAME_DATA` is set by an inline `<script>` that runs **before** the `<script type="module">`. Module scripts are deferred, so ordering is guaranteed even though the module appears later. Do not convert `GAME_DATA` reads to `await`/`fetch`.
-- The relative module imports inside the games (`../../shared/...`) only work because the `shared/` and `games/` dirs sit side by side under `static/games/js/`. Keep that layout.
-- Leaving `/games/` out of the site navigation is intentional (separate, design-system-bound task). Don't wire it into the rail/navbar here.
+- The relative module imports inside the games are `../shared/...` (one level up): games live at `static/games/js/games/` and shared utils at `static/games/js/shared/`, both under `js/`. NOTE: an earlier draft of this plan said `../../shared/` — that was wrong for this layout (it resolved to `/games/shared/`, a 404) and was corrected. Keep `../shared/`.
+- `/games/` IS wired into the library nav: a `Trò Chơi` entry + icon were added to the shared `nav-data.html` / `nav-icon.html`, and `layouts/games/baseof.html` composes the `.lib-app` shell. (This was initially deferred, then included after reviewing the result.)
