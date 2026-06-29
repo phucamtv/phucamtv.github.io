@@ -120,7 +120,7 @@
   align-items: baseline;
   gap: 0.4rem;
   padding: 0.6rem 44px;
-  font-size: 0.8rem;
+  font-size: 0.72rem;
   color: var(--text-muted);
 }
 .lib-app .games-bankinfo b { color: var(--text-secondary); font-weight: 600; }
