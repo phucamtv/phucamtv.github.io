@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p1",
+    "title": "The Good Samaritan",
+    "meaning": "Love your neighbor, even a stranger or enemy"
+  },
+  {
+    "id": "p2",
+    "title": "The Prodigal Son",
+    "meaning": "God welcomes repentant sinners back with joy"
+  },
+  {
+    "id": "p3",
+    "title": "The Sower",
+    "meaning": "God's word takes root depending on the hearer's heart"
+  },
+  {
+    "id": "p4",
+    "title": "The Lost Sheep",
+    "meaning": "God seeks and rejoices over each one who is lost"
+  },
+  {
+    "id": "p5",
+    "title": "The Mustard Seed",
+    "meaning": "God's kingdom starts small but grows great"
+  },
+  {
+    "id": "p6",
+    "title": "The Talents",
+    "meaning": "Use faithfully what God has entrusted to you"
+  },
+  {
+    "id": "p7",
+    "title": "The Wise and Foolish Builders",
+    "meaning": "Build your life on obeying Jesus' words"
+  }
+]

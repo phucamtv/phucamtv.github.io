@@ -1,0 +1,68 @@
+[
+  {
+    "id": "v1",
+    "reference": "John 3:16",
+    "difficulty": "easy",
+    "words": ["for", "god", "so", "loved", "the", "world"]
+  },
+  {
+    "id": "v2",
+    "reference": "Psalm 23:1",
+    "difficulty": "normal",
+    "words": ["the", "lord", "is", "my", "shepherd", "i", "shall", "not", "want"]
+  },
+  {
+    "id": "v3",
+    "reference": "1 John 4:8",
+    "difficulty": "easy",
+    "words": ["god", "is", "love"]
+  },
+  {
+    "id": "v3b",
+    "reference": "John 11:35",
+    "difficulty": "easy",
+    "words": ["jesus", "wept"]
+  },
+  {
+    "id": "v4",
+    "reference": "Philippians 4:13",
+    "difficulty": "normal",
+    "words": ["i", "can", "do", "all", "things", "through", "christ", "which", "strengtheneth", "me"]
+  },
+  {
+    "id": "v5",
+    "reference": "Matthew 6:33",
+    "difficulty": "normal",
+    "words": ["but", "seek", "ye", "first", "the", "kingdom", "of", "god", "and", "his", "righteousness"]
+  },
+  {
+    "id": "v6",
+    "reference": "Proverbs 3:5",
+    "difficulty": "hard",
+    "words": ["trust", "in", "the", "lord", "with", "all", "thine", "heart", "and", "lean", "not", "unto", "thine", "own", "understanding"]
+  },
+  {
+    "id": "v7",
+    "reference": "Joshua 1:9",
+    "difficulty": "hard",
+    "words": ["be", "strong", "and", "of", "a", "good", "courage", "be", "not", "afraid", "neither", "be", "thou", "dismayed"]
+  },
+  {
+    "id": "v8",
+    "reference": "Psalm 23 (KJV)",
+    "difficulty": "hard",
+    "words": ["the", "lord", "is", "my", "shepherd", "i", "shall", "not", "want", "he", "maketh", "me", "to", "lie", "down", "in", "green", "pastures"]
+  },
+  {
+    "id": "v9",
+    "reference": "Matthew 5:3-4 (KJV)",
+    "difficulty": "hard",
+    "words": ["blessed", "are", "the", "poor", "in", "spirit", "for", "theirs", "is", "the", "kingdom", "of", "heaven", "blessed", "are", "they", "that", "mourn"]
+  },
+  {
+    "id": "v10",
+    "reference": "1 Corinthians 13:4-5 (KJV)",
+    "difficulty": "hard",
+    "words": ["charity", "suffereth", "long", "and", "is", "kind", "charity", "envieth", "not", "vaunteth", "not", "itself", "is", "not", "puffed", "up"]
+  }
+]

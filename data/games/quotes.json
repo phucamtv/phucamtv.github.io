@@ -1,0 +1,50 @@
+[
+  {
+    "id": "q1",
+    "quote": "\"Let there be light.\"",
+    "answer": "God",
+    "options": ["Moses", "God", "Abraham", "Noah"]
+  },
+  {
+    "id": "q2",
+    "quote": "\"Before I formed you in the womb I knew you.\"",
+    "answer": "Jeremiah",
+    "options": ["Isaiah", "Ezekiel", "Jeremiah", "Daniel"]
+  },
+  {
+    "id": "q3",
+    "quote": "\"You shall love your neighbor as yourself.\"",
+    "answer": "Jesus",
+    "options": ["Paul", "Peter", "Jesus", "James"]
+  },
+  {
+    "id": "q4",
+    "quote": "\"For I know that my Redeemer lives.\"",
+    "answer": "Job",
+    "options": ["Job", "David", "Solomon", "Abraham"]
+  },
+  {
+    "id": "q5",
+    "quote": "\"Here am I. Send me.\"",
+    "answer": "Isaiah",
+    "options": ["Isaiah", "Jonah", "Moses", "Samuel"]
+  },
+  {
+    "id": "q6",
+    "quote": "\"The Lord is my shepherd; I shall not want.\"",
+    "answer": "David",
+    "options": ["David", "Moses", "Asaph", "Solomon"]
+  },
+  {
+    "id": "q7",
+    "quote": "\"To obey is better than sacrifice.\"",
+    "answer": "Samuel",
+    "options": ["Samuel", "Elijah", "Elisha", "Nathan"]
+  },
+  {
+    "id": "q8",
+    "quote": "\"I can do all things through Christ who strengthens me.\"",
+    "answer": "Paul",
+    "options": ["Peter", "Paul", "John", "James"]
+  }
+]
