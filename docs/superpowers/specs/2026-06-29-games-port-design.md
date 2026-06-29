@@ -51,6 +51,8 @@ static/games/js/
   shared/  scoring.js difficulty.js sound.js storage.js
   games/   books-builder.js who-said-it.js scripture-scramble.js
            type-the-verse.js parable-pairs.js
+  # games import shared via '../shared/…' (one level up, both dirs under js/).
+  # NOT '../../shared/' — that was the original Vite layout and 404s here.
 
 data/games/                      # Hugo data dir — read at build time, NOT web-served
   books.json quotes.json verses.json parables.json
