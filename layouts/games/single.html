@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="games">
+  <a class="games-back" href="/games/">← All games</a>
+  <h1>{{ .Title }}</h1>
+  <div id="difficulty" class="difficulty"></div>
+  <div id="game"></div>
+</div>
+
+{{ $data := index hugo.Data.games .Params.data }}
+<script>window.GAME_DATA = {{ $data | jsonify | safeJS }};</script>
+<script type="module">
+  import { init } from '/games/js/games/{{ .Params.game }}.js';
+  import { createDifficultySelector } from '/games/js/shared/difficulty.js';
+
+  const mount = document.getElementById('game');
+  let cleanup = null;
+
+  function run(level) {
+    if (cleanup) cleanup();
+    try {
+      cleanup = init(mount, level);
+    } catch (e) {
+      cleanup = null;
+      mount.textContent = 'Không tải được trò chơi.';
+      console.error(e);
+    }
+  }
+
+  // createDifficultySelector calls onChange('normal') immediately,
+  // so the game boots at Normal on load.
+  createDifficultySelector(document.getElementById('difficulty'), run);
+</script>
+{{ end }}
