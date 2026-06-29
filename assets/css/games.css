@@ -135,12 +135,85 @@
   border-color: var(--accent);
 }
 
-/* parable-pairs: two side-by-side columns */
-.lib-app .games .pp-board {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-  align-items: start;
+/* ---- parable-pairs: connection-first matching board ---- */
+
+/* header: title + live progress */
+.lib-app .games .pp-head { display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.25rem; }
+.lib-app .games .pp-progress { display: flex; align-items: center; gap: 0.5rem; margin-left: auto; }
+.lib-app .games .pp-pips { display: flex; gap: 5px; }
+.lib-app .games .pp-pip { width: 9px; height: 9px; border-radius: 50%; border: 1.5px solid var(--accent-soft); transition: 0.25s; }
+.lib-app .games .pp-pip.filled { background: var(--accent); border-color: var(--accent); transform: scale(1.05); }
+.lib-app .games .pp-count { font-size: 0.82rem; color: var(--text-muted); font-variant-numeric: tabular-nums; }
+
+.lib-app .games .pp-status b { color: var(--text-emphasis); font-weight: 600; }
+
+/* board: two columns with an SVG connector overlay */
+.lib-app .games .pp-stage { position: relative; }
+.lib-app .games .pp-board { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem 2.4rem; align-items: start; }
+.lib-app .games .pp-col-label { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.13em; text-transform: uppercase; color: var(--text-faint); margin: 0 0 0.6rem 0.15rem; }
+.lib-app .games .pp-list { display: flex; flex-direction: column; gap: 0.7rem; }
+
+/* shared card */
+.lib-app .games .pp-card {
+  position: relative; text-align: left; width: 100%;
+  border-radius: 12px; padding: 0.85rem 1rem;
+  display: flex; align-items: center; gap: 0.7rem;
+  transition: border-color 0.15s, box-shadow 0.15s, background 0.15s, transform 0.12s, opacity 0.3s;
 }
-.lib-app .games .pp-parable,
-.lib-app .games .pp-meaning { display: block; width: 100%; text-align: left; }
+.lib-app .games .pp-text { flex: 1; }
+.lib-app .games .pp-parable .pp-text { font-family: Newsreader, Georgia, serif; font-weight: 600; font-size: 1.08rem; color: var(--text-strong); }
+.lib-app .games .pp-meaning .pp-text { font-size: 0.93rem; line-height: 1.4; color: var(--text-secondary); }
+
+/* number badge that links a matched pair */
+.lib-app .games .pp-badge {
+  flex: none; width: 24px; height: 24px; border-radius: 50%;
+  display: grid; place-items: center; font-size: 0.72rem; font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  border: 1.5px solid var(--border-strong); color: var(--text-faint);
+  background: var(--surface-base); transition: 0.25s;
+}
+.lib-app .games .pp-parable .pp-badge { order: 2; }
+.lib-app .games .pp-meaning .pp-badge { order: -1; }
+
+/* selected parable */
+.lib-app .games .pp-parable.selected { border-color: var(--accent-strong); background: var(--surface-soft); box-shadow: 0 3px 12px var(--shadow-card); transform: translateY(-1px); }
+.lib-app .games .pp-parable.selected .pp-badge { border-color: var(--accent); color: var(--text-emphasis); border-style: dashed; animation: pp-pulse 1.4s ease-in-out infinite; }
+
+/* armed meanings (a parable is selected) */
+.lib-app .games .pp-board.armed .pp-meaning:not(.matched) { border-color: var(--accent-soft); background: var(--surface-tint); }
+.lib-app .games .pp-board.armed .pp-meaning:not(.matched) .pp-badge { border-style: dashed; border-color: var(--accent-soft); }
+
+/* matched lock state */
+.lib-app .games .pp-card.matched { cursor: default; border-color: var(--accent); background: var(--surface-soft); }
+.lib-app .games .pp-card.matched .pp-badge { background: var(--surface-inverse); color: var(--text-on-inverse-strong); border-color: var(--surface-inverse); animation: pp-pop 0.35s ease; }
+.lib-app .games .pp-card.matched .pp-text { color: var(--text-muted); }
+.lib-app .games .pp-card.just-matched { animation: pp-settle 0.4s ease; }
+.lib-app .games .pp-card.wrong { border-color: var(--link); }
+
+@keyframes pp-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.45; } }
+@keyframes pp-pop { 0% { transform: scale(0.4); } 60% { transform: scale(1.18); } 100% { transform: scale(1); } }
+@keyframes pp-settle { 0% { transform: scale(1.03); } 100% { transform: scale(1); } }
+
+/* connector ribbons */
+.lib-app .games .pp-links { position: absolute; inset: 0; pointer-events: none; overflow: visible; }
+.lib-app .games .pp-links path { fill: none; stroke: var(--accent); stroke-width: 2; opacity: 0.55; stroke-linecap: round; stroke-dasharray: var(--len); stroke-dashoffset: var(--len); animation: pp-draw 0.5s ease forwards; }
+@keyframes pp-draw { to { stroke-dashoffset: 0; } }
+
+/* finish banner */
+.lib-app .games .pp-finish { margin-top: 1.6rem; padding: 1.1rem 1.3rem; border-radius: 14px; background: var(--surface-soft); border: 1px solid var(--accent); display: none; align-items: center; gap: 1rem; animation: pp-settle 0.5s ease; }
+.lib-app .games .pp-finish.show { display: flex; }
+.lib-app .games .pp-seal { flex: none; width: 46px; height: 46px; border-radius: 50%; background: var(--surface-inverse); color: var(--text-on-inverse-strong); display: grid; place-items: center; font-family: Newsreader, serif; font-size: 1.3rem; }
+.lib-app .games .pp-finish-title { margin: 0 0 0.15rem; font-family: Newsreader, serif; color: var(--text-strong); font-size: 1.15rem; }
+.lib-app .games .pp-finish-sub { margin: 0; color: var(--text-secondary); font-size: 0.9rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  .lib-app .games .pp-links path { stroke-dashoffset: 0; animation: none; }
+  .lib-app .games .pp-parable.selected .pp-badge { animation: none; }
+}
+
+/* mobile: single column, connectors don't apply */
+@media (max-width: 620px) {
+  .lib-app .games .pp-board { grid-template-columns: 1fr; gap: 0.7rem; }
+  .lib-app .games .pp-col-label { margin-top: 0.6rem; }
+  .lib-app .games .pp-links { display: none; }
+}
