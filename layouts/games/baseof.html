@@ -9,10 +9,11 @@
     <div class="lib-app-backdrop"></div>
     {{- partial "lib/rail.html" (dict "active" "games") -}}
     {{- if not $index }}{{- partial "games/list.html" . -}}{{- end }}
-    <main class="lib-detail">
+    <main class="lib-detail{{ if not $index }} lib-detail--has-bankinfo{{ end }}">
       <div class="lib-detail-scroll">
         {{- block "main" . }}{{- end }}
       </div>
+      {{- block "bankinfo" . }}{{- end }}
     </main>
   </div>
   {{- partial "lib/app-js.html" . -}}

@@ -97,28 +97,44 @@
 .lib-app .games-card h2 { margin: 0 0 0.35rem; font-size: 1.15rem; }
 .lib-app .games-card p { margin: 0; color: var(--text-muted); font-size: 0.92rem; }
 
-/* bank-info footer: muted single line below the game.
+/* bank-info footer: a bar pinned to the bottom edge of the detail column.
+   It is a sibling of .lib-detail-scroll, rendered in the `bankinfo` block of
+   games/baseof.html, so it sits outside the scroll area and never scrolls
+   away. .lib-detail is a flex column with .lib-detail-scroll: flex 1, so the
+   footer naturally drops to the column's bottom edge. Its horizontal padding
+   (44px / 20px mobile) aligns the stats with the .games content column.
    The global `footer {}` in base.css makes page footers full-bleed
-   (width:100vw; margin-left: calc(-50vw + 50%); gradient bg; centered).
-   Reset those here so this in-column footer stays inside the detail column. */
+   (width:100vw; margin-left: calc(-50vw + 50%); gradient bg; centered);
+   those resets are overridden here so this bar spans just the detail column. */
 .lib-app .games-bankinfo {
+  position: relative;
+  z-index: 5;
+  flex: 0 0 auto;
   width: auto;
-  margin-left: 0;
-  background: none;
-  text-align: left;
-  margin-top: 2rem;
-  padding-top: 0.75rem;
+  margin: 0;
+  background: var(--surface-soft);
   border-top: 1px solid var(--border-default);
+  box-shadow: 0 -2px 12px var(--shadow-soft);
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
   gap: 0.4rem;
+  padding: 0.6rem 44px;
   font-size: 0.8rem;
   color: var(--text-muted);
 }
 .lib-app .games-bankinfo b { color: var(--text-secondary); font-weight: 600; }
 .lib-app .games-bankinfo .gb-sep { color: var(--text-faint); }
 .lib-app .games-bankinfo .gb-dot { color: var(--text-faint); margin: 0 0.1rem; }
+
+/* Mobile (≤960px): the 64px bottom navbar floats over the detail column.
+   Reserve its height at the foot of .lib-detail so the footer stacks above
+   it (same pattern as the floating audio-player-bar). The navbar's own
+   safe-area inset is already covered by the .lib-detail-scroll bottom padding. */
+@media (max-width: 960px) {
+  .lib-app .lib-detail--has-bankinfo { padding-bottom: 64px; }
+  .lib-app .games-bankinfo { padding-left: 20px; padding-right: 20px; }
+}
 
 /* ---- game-specific element styling (token-themed) ---- */
 

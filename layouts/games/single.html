@@ -5,43 +5,9 @@
 <div class="games">
   <div id="difficulty" class="difficulty"></div>
   <div id="game"></div>
-
-  {{ $data := index hugo.Data.games .Params.data }}
-  {{ $unit := index (dict "parables" "subjects" "verses" "verses" "quotes" "quotes" "books" "books") .Params.data | default "items" }}
-  {{ $cats := slice }}
-  {{ range $data }}{{ with .category }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
-  {{ $meta := index hugo.Data.games (printf "%s-meta" .Params.data) }}
-  {{ $bankUpdated := "" }}
-  {{ with $meta }}{{ with .updated }}{{ $bankUpdated = (time.AsTime .) }}{{ end }}{{ end }}
-  <footer class="games-bankinfo" aria-label="Bank info">
-    <span class="gb-stat"><b>Bank:</b> {{ len $data }} {{ $unit }}</span>
-    {{ if $cats }}
-      {{ $labels := dict "parable" "Parables" "ot" "OT" "nt" "NT" "belief" "Beliefs" }}
-      {{ $order := slice "parable" "ot" "nt" "belief" }}
-      {{ $counts := dict }}
-      {{ range $cats }}{{ $counts = merge $counts (dict . (add (index $counts . | default 0) 1)) }}{{ end }}
-      <span class="gb-sep" aria-hidden="true">·</span>
-      <span class="gb-stat gb-coverage">
-        {{- $first := true -}}
-        {{- range $k := $order -}}
-          {{- $n := index $counts $k | default 0 -}}
-          {{- if gt $n 0 -}}
-            {{- if not $first }} <span class="gb-dot" aria-hidden="true">·</span> {{ end -}}
-            {{ index $labels $k }} {{ $n }}
-            {{- $first = false -}}
-          {{- end -}}
-        {{- end -}}
-      </span>
-    {{ end }}
-    <span class="gb-sep" aria-hidden="true">·</span>
-    <span class="gb-stat" data-gb-drawn hidden>Drawn this round: <b data-gb-drawn-n>—</b></span>
-    <span class="gb-stat" data-gb-best hidden>Best: <b data-gb-best-n>—</b></span>
-    {{ with $bankUpdated }}
-      <span class="gb-sep" aria-hidden="true">·</span>
-      <span class="gb-stat gb-updated">Updated <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "Jan 2, 2006" }}</time></span>
-    {{ end }}
-  </footer>
 </div>
+
+{{ $data := index hugo.Data.games .Params.data }}
 
 <script>window.GAME_DATA = {{ $data | jsonify | safeJS }};</script>
 <script type="module">
@@ -91,4 +57,42 @@
   // so the game boots at Normal on load.
   createDifficultySelector(document.getElementById('difficulty'), run);
 </script>
+{{ end }}
+
+{{ define "bankinfo" }}
+{{ $data := index hugo.Data.games .Params.data }}
+{{ $unit := index (dict "parables" "subjects" "verses" "verses" "quotes" "quotes" "books" "books") .Params.data | default "items" }}
+{{ $cats := slice }}
+{{ range $data }}{{ with .category }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
+{{ $meta := index hugo.Data.games (printf "%s-meta" .Params.data) }}
+{{ $bankUpdated := "" }}
+{{ with $meta }}{{ with .updated }}{{ $bankUpdated = (time.AsTime .) }}{{ end }}{{ end }}
+<footer class="games-bankinfo" aria-label="Bank info">
+  <span class="gb-stat"><b>Bank:</b> {{ len $data }} {{ $unit }}</span>
+  {{ if $cats }}
+    {{ $labels := dict "parable" "Parables" "ot" "OT" "nt" "NT" "belief" "Beliefs" }}
+    {{ $order := slice "parable" "ot" "nt" "belief" }}
+    {{ $counts := dict }}
+    {{ range $cats }}{{ $counts = merge $counts (dict . (add (index $counts . | default 0) 1)) }}{{ end }}
+    <span class="gb-sep" aria-hidden="true">·</span>
+    <span class="gb-stat gb-coverage">
+      {{- $first := true -}}
+      {{- range $k := $order -}}
+        {{- $n := index $counts $k | default 0 -}}
+        {{- if gt $n 0 -}}
+          {{- if not $first }} <span class="gb-dot" aria-hidden="true">·</span> {{ end -}}
+          {{ index $labels $k }} {{ $n }}
+          {{- $first = false -}}
+        {{- end -}}
+      {{- end -}}
+    </span>
+  {{ end }}
+  <span class="gb-sep" aria-hidden="true">·</span>
+  <span class="gb-stat" data-gb-drawn hidden>Drawn this round: <b data-gb-drawn-n>—</b></span>
+  <span class="gb-stat" data-gb-best hidden>Best: <b data-gb-best-n>—</b></span>
+  {{ with $bankUpdated }}
+    <span class="gb-sep" aria-hidden="true">·</span>
+    <span class="gb-stat gb-updated">Updated <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "Jan 2, 2006" }}</time></span>
+  {{ end }}
+</footer>
 {{ end }}
