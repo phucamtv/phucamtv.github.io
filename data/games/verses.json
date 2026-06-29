@@ -33,7 +33,7 @@
     "id": "v5",
     "reference": "Matthew 6:33",
     "difficulty": "normal",
-    "words": ["but", "seek", "ye", "first", "the", "kingdom", "of", "god", "and", "his", "righteousness"]
+    "words": ["but", "seek", "ye", "first", "the", "kingdom", "of", "god", "and", "his", "righteousness", "and", "all", "these", "things", "shall", "be", "added", "unto", "you"]
   },
   {
     "id": "v6",
@@ -45,13 +45,13 @@
     "id": "v7",
     "reference": "Joshua 1:9",
     "difficulty": "hard",
-    "words": ["be", "strong", "and", "of", "a", "good", "courage", "be", "not", "afraid", "neither", "be", "thou", "dismayed"]
+    "words": ["be", "strong", "and", "of", "a", "good", "courage", "be", "not", "afraid", "neither", "be", "thou", "dismayed", "for", "the", "lord", "thy", "god", "is", "with", "thee", "whithersoever", "thou", "goest"]
   },
   {
     "id": "v8",
-    "reference": "Psalm 23 (KJV)",
+    "reference": "Psalm 23:1-2 (KJV)",
     "difficulty": "hard",
-    "words": ["the", "lord", "is", "my", "shepherd", "i", "shall", "not", "want", "he", "maketh", "me", "to", "lie", "down", "in", "green", "pastures"]
+    "words": ["the", "lord", "is", "my", "shepherd", "i", "shall", "not", "want", "he", "maketh", "me", "to", "lie", "down", "in", "green", "pastures", "he", "leadeth", "me", "beside", "the", "still", "waters"]
   },
   {
     "id": "v9",
@@ -64,5 +64,233 @@
     "reference": "1 Corinthians 13:4-5 (KJV)",
     "difficulty": "hard",
     "words": ["charity", "suffereth", "long", "and", "is", "kind", "charity", "envieth", "not", "vaunteth", "not", "itself", "is", "not", "puffed", "up"]
+  },
+  {
+    "id": "v11",
+    "reference": "John 8:12",
+    "difficulty": "easy",
+    "words": ["i", "am", "the", "light", "of", "the", "world"]
+  },
+  {
+    "id": "v12",
+    "reference": "Psalm 118:24",
+    "difficulty": "easy",
+    "words": ["this", "is", "the", "day", "the", "lord", "has", "made"]
+  },
+  {
+    "id": "v13",
+    "reference": "1 Thessalonians 5:17",
+    "difficulty": "easy",
+    "words": ["pray", "without", "ceasing"]
+  },
+  {
+    "id": "v14",
+    "reference": "Psalm 46:1",
+    "difficulty": "easy",
+    "words": ["god", "is", "our", "refuge", "and", "strength"]
+  },
+  {
+    "id": "v15",
+    "reference": "John 14:6",
+    "difficulty": "easy",
+    "words": ["i", "am", "the", "way", "and", "the", "truth", "and", "the", "life"]
+  },
+  {
+    "id": "v16",
+    "reference": "Psalm 119:105",
+    "difficulty": "easy",
+    "words": ["your", "word", "is", "a", "lamp", "to", "my", "feet", "and", "a", "light", "to", "my", "path"]
+  },
+  {
+    "id": "v17",
+    "reference": "1 John 4:19",
+    "difficulty": "easy",
+    "words": ["we", "love", "because", "he", "first", "loved", "us"]
+  },
+  {
+    "id": "v18",
+    "reference": "Matthew 5:9",
+    "difficulty": "easy",
+    "words": ["blessed", "are", "the", "peacemakers"]
+  },
+  {
+    "id": "v19",
+    "reference": "Psalm 100:5",
+    "difficulty": "easy",
+    "words": ["for", "the", "lord", "is", "good"]
+  },
+  {
+    "id": "v20",
+    "reference": "Romans 6:23",
+    "difficulty": "easy",
+    "words": ["the", "wages", "of", "sin", "is", "death"]
+  },
+  {
+    "id": "v21",
+    "reference": "Matthew 4:4",
+    "difficulty": "easy",
+    "words": ["man", "shall", "not", "live", "by", "bread", "alone"]
+  },
+  {
+    "id": "v22",
+    "reference": "Psalm 34:8",
+    "difficulty": "easy",
+    "words": ["taste", "and", "see", "that", "the", "lord", "is", "good"]
+  },
+  {
+    "id": "v23",
+    "reference": "Proverbs 17:17",
+    "difficulty": "easy",
+    "words": ["a", "friend", "loves", "at", "all", "times"]
+  },
+  {
+    "id": "v24",
+    "reference": "Romans 8:28",
+    "difficulty": "normal",
+    "words": ["and", "we", "know", "that", "for", "those", "who", "love", "god", "all", "things", "work", "together", "for", "good"]
+  },
+  {
+    "id": "v25",
+    "reference": "Psalm 27:1",
+    "difficulty": "normal",
+    "words": ["the", "lord", "is", "my", "light", "and", "my", "salvation", "whom", "shall", "i", "fear"]
+  },
+  {
+    "id": "v26",
+    "reference": "Isaiah 40:31",
+    "difficulty": "normal",
+    "words": ["but", "they", "who", "wait", "for", "the", "lord", "shall", "renew", "their", "strength"]
+  },
+  {
+    "id": "v27",
+    "reference": "John 1:1",
+    "difficulty": "normal",
+    "words": ["in", "the", "beginning", "was", "the", "word", "and", "the", "word", "was", "with", "god", "and", "the", "word", "was", "god"]
+  },
+  {
+    "id": "v28",
+    "reference": "Matthew 11:28",
+    "difficulty": "normal",
+    "words": ["come", "to", "me", "all", "who", "labor", "and", "are", "heavy", "laden", "and", "i", "will", "give", "you", "rest"]
+  },
+  {
+    "id": "v29",
+    "reference": "Psalm 121:1-2",
+    "difficulty": "normal",
+    "words": ["i", "lift", "up", "my", "eyes", "to", "the", "hills", "from", "where", "does", "my", "help", "come"]
+  },
+  {
+    "id": "v30",
+    "reference": "Psalm 51:10",
+    "difficulty": "normal",
+    "words": ["create", "in", "me", "a", "clean", "heart", "o", "god", "and", "renew", "a", "right", "spirit", "within", "me"]
+  },
+  {
+    "id": "v31",
+    "reference": "Galatians 5:22",
+    "difficulty": "normal",
+    "words": ["but", "the", "fruit", "of", "the", "spirit", "is", "love", "joy", "peace", "patience", "kindness"]
+  },
+  {
+    "id": "v32",
+    "reference": "Proverbs 16:3",
+    "difficulty": "normal",
+    "words": ["commit", "your", "work", "to", "the", "lord", "and", "your", "plans", "will", "be", "established"]
+  },
+  {
+    "id": "v33",
+    "reference": "2 Timothy 1:7",
+    "difficulty": "normal",
+    "words": ["for", "god", "gave", "us", "a", "spirit", "not", "of", "fear", "but", "of", "power", "and", "love", "and", "self", "control"]
+  },
+  {
+    "id": "v34",
+    "reference": "Hebrews 11:1",
+    "difficulty": "normal",
+    "words": ["now", "faith", "is", "the", "assurance", "of", "things", "hoped", "for", "the", "conviction", "of", "things", "not", "seen"]
+  },
+  {
+    "id": "v35",
+    "reference": "John 13:34",
+    "difficulty": "normal",
+    "words": ["a", "new", "commandment", "i", "give", "to", "you", "that", "you", "love", "one", "another"]
+  },
+  {
+    "id": "v36",
+    "reference": "Psalm 19:1",
+    "difficulty": "normal",
+    "words": ["the", "heavens", "declare", "the", "glory", "of", "god", "and", "the", "sky", "above", "proclaims", "his", "handiwork"]
+  },
+  {
+    "id": "v37",
+    "reference": "Joshua 24:15",
+    "difficulty": "normal",
+    "words": ["but", "as", "for", "me", "and", "my", "house", "we", "will", "serve", "the", "lord"]
+  },
+  {
+    "id": "v38",
+    "reference": "Lamentations 3:22-23",
+    "difficulty": "normal",
+    "words": ["the", "steadfast", "love", "of", "the", "lord", "never", "ceases", "his", "mercies", "never", "come", "to", "an", "end"]
+  },
+  {
+    "id": "v39",
+    "reference": "Romans 12:2",
+    "difficulty": "hard",
+    "words": ["do", "not", "be", "conformed", "to", "this", "world", "but", "be", "transformed", "by", "the", "renewal", "of", "your", "mind", "that", "by", "testing", "you", "may", "discern", "the", "will", "of", "god"]
+  },
+  {
+    "id": "v40",
+    "reference": "John 3:16 (full)",
+    "difficulty": "hard",
+    "words": ["for", "god", "so", "loved", "the", "world", "that", "he", "gave", "his", "only", "son", "that", "whoever", "believes", "in", "him", "should", "not", "perish", "but", "have", "eternal", "life"]
+  },
+  {
+    "id": "v41",
+    "reference": "Philippians 4:6-7",
+    "difficulty": "hard",
+    "words": ["do", "not", "be", "anxious", "about", "anything", "but", "in", "everything", "by", "prayer", "and", "supplication", "with", "thanksgiving", "let", "your", "requests", "be", "made", "known", "to", "god"]
+  },
+  {
+    "id": "v42",
+    "reference": "Isaiah 53:5",
+    "difficulty": "hard",
+    "words": ["but", "he", "was", "pierced", "for", "our", "transgressions", "he", "was", "crushed", "for", "our", "iniquities", "upon", "him", "was", "the", "chastisement", "that", "brought", "us", "peace"]
+  },
+  {
+    "id": "v43",
+    "reference": "Ephesians 2:8-9",
+    "difficulty": "hard",
+    "words": ["for", "by", "grace", "you", "have", "been", "saved", "through", "faith", "and", "this", "is", "not", "your", "own", "doing", "it", "is", "the", "gift", "of", "god", "not", "a", "result", "of", "works"]
+  },
+  {
+    "id": "v44",
+    "reference": "Matthew 28:19",
+    "difficulty": "hard",
+    "words": ["go", "therefore", "and", "make", "disciples", "of", "all", "nations", "baptizing", "them", "in", "the", "name", "of", "the", "father", "and", "of", "the", "son", "and", "of", "the", "holy", "spirit"]
+  },
+  {
+    "id": "v45",
+    "reference": "Psalm 1:1",
+    "difficulty": "hard",
+    "words": ["blessed", "is", "the", "man", "who", "walks", "not", "in", "the", "counsel", "of", "the", "wicked", "nor", "stands", "in", "the", "way", "of", "sinners"]
+  },
+  {
+    "id": "v46",
+    "reference": "1 Corinthians 13:4-5",
+    "difficulty": "hard",
+    "words": ["love", "is", "patient", "and", "kind", "love", "does", "not", "envy", "or", "boast", "it", "is", "not", "arrogant", "or", "rude", "it", "does", "not", "insist", "on", "its", "own", "way"]
+  },
+  {
+    "id": "v47",
+    "reference": "Jeremiah 29:11",
+    "difficulty": "hard",
+    "words": ["for", "i", "know", "the", "plans", "i", "have", "for", "you", "declares", "the", "lord", "plans", "for", "welfare", "and", "not", "for", "evil", "to", "give", "you", "a", "future", "and", "a", "hope"]
+  },
+  {
+    "id": "v48",
+    "reference": "Romans 8:38-39",
+    "difficulty": "hard",
+    "words": ["for", "i", "am", "sure", "that", "neither", "death", "nor", "life", "nor", "angels", "nor", "rulers", "nor", "things", "present", "nor", "things", "to", "come", "nor", "powers", "nor", "height", "nor", "depth", "nor", "anything", "else", "in", "all", "creation", "will", "be", "able", "to", "separate", "us", "from", "the", "love", "of", "god"]
   }
 ]

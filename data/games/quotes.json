@@ -8,8 +8,8 @@
   {
     "id": "q2",
     "quote": "\"Before I formed you in the womb I knew you.\"",
-    "answer": "Jeremiah",
-    "options": ["Isaiah", "Ezekiel", "Jeremiah", "Daniel"]
+    "answer": "God",
+    "options": ["God", "Isaiah", "Jeremiah", "Daniel"]
   },
   {
     "id": "q3",
@@ -46,5 +46,257 @@
     "quote": "\"I can do all things through Christ who strengthens me.\"",
     "answer": "Paul",
     "options": ["Peter", "Paul", "John", "James"]
+  },
+  {
+    "id": "q9",
+    "quote": "\"Am I my brother's keeper?\"",
+    "answer": "Cain",
+    "options": ["Cain", "Abel", "Adam", "Seth"]
+  },
+  {
+    "id": "q10",
+    "quote": "\"Let my people go.\"",
+    "answer": "Moses",
+    "options": ["Moses", "Aaron", "Joshua", "Joseph"]
+  },
+  {
+    "id": "q11",
+    "quote": "\"Whither thou goest, I will go.\"",
+    "answer": "Ruth",
+    "options": ["Ruth", "Naomi", "Esther", "Rachel"]
+  },
+  {
+    "id": "q12",
+    "quote": "\"Here I am, for you called me.\"",
+    "answer": "Samuel",
+    "options": ["Samuel", "Eli", "Saul", "David"]
+  },
+  {
+    "id": "q13",
+    "quote": "\"How are the mighty fallen!\"",
+    "answer": "David",
+    "options": ["David", "Saul", "Jonathan", "Joab"]
+  },
+  {
+    "id": "q14",
+    "quote": "\"Speak, for your servant hears.\"",
+    "answer": "Samuel",
+    "options": ["Samuel", "Eli", "Nathan", "Gad"]
+  },
+  {
+    "id": "q15",
+    "quote": "\"As for me and my house, we will serve the Lord.\"",
+    "answer": "Joshua",
+    "options": ["Joshua", "Caleb", "Moses", "Gideon"]
+  },
+  {
+    "id": "q16",
+    "quote": "\"The Lord gave, and the Lord has taken away; blessed be the name of the Lord.\"",
+    "answer": "Job",
+    "options": ["Job", "David", "Solomon", "Daniel"]
+  },
+  {
+    "id": "q17",
+    "quote": "\"If I perish, I perish.\"",
+    "answer": "Esther",
+    "options": ["Esther", "Ruth", "Deborah", "Abigail"]
+  },
+  {
+    "id": "q18",
+    "quote": "\"Create in me a clean heart, O God.\"",
+    "answer": "David",
+    "options": ["David", "Solomon", "Asaph", "Moses"]
+  },
+  {
+    "id": "q19",
+    "quote": "\"Holy, holy, holy is the Lord of hosts.\"",
+    "answer": "The seraphim",
+    "options": ["The seraphim", "Isaiah", "Ezekiel", "Daniel"]
+  },
+  {
+    "id": "q20",
+    "quote": "\"Should I not pity Nineveh, that great city?\"",
+    "answer": "God",
+    "options": ["God", "Jonah", "Nahum", "Amos"]
+  },
+  {
+    "id": "q21",
+    "quote": "\"They shall beat their swords into plowshares.\"",
+    "answer": "Isaiah",
+    "options": ["Isaiah", "Jeremiah", "Joel", "Hosea"]
+  },
+  {
+    "id": "q22",
+    "quote": "\"How long, O Lord? Will you forget me forever?\"",
+    "answer": "David",
+    "options": ["David", "Job", "Jeremiah", "Habakkuk"]
+  },
+  {
+    "id": "q23",
+    "quote": "\"Our God whom we serve is able to deliver us from the burning fiery furnace.\"",
+    "answer": "Shadrach",
+    "options": ["Shadrach", "Daniel", "Nebuchadnezzar", "Ezekiel"]
+  },
+  {
+    "id": "q24",
+    "quote": "\"My God has sent his angel and shut the lions' mouths.\"",
+    "answer": "Daniel",
+    "options": ["Daniel", "Darius", "Shadrach", "Nehemiah"]
+  },
+  {
+    "id": "q25",
+    "quote": "\"What does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?\"",
+    "answer": "Micah",
+    "options": ["Micah", "Amos", "Hosea", "Malachi"]
+  },
+  {
+    "id": "q26",
+    "quote": "\"Prepare the way of the Lord.\"",
+    "answer": "John the Baptist",
+    "options": ["John the Baptist", "Elijah", "Peter", "Stephen"]
+  },
+  {
+    "id": "q27",
+    "quote": "\"Behold, the Lamb of God, who takes away the sin of the world!\"",
+    "answer": "John the Baptist",
+    "options": ["John the Baptist", "Peter", "Andrew", "John"]
+  },
+  {
+    "id": "q28",
+    "quote": "\"Let it be to me according to your word.\"",
+    "answer": "Mary",
+    "options": ["Mary", "Elizabeth", "Martha", "Anna"]
+  },
+  {
+    "id": "q29",
+    "quote": "\"My soul magnifies the Lord.\"",
+    "answer": "Mary",
+    "options": ["Mary", "Elizabeth", "Hannah", "Miriam"]
+  },
+  {
+    "id": "q30",
+    "quote": "\"You are the Christ, the Son of the living God.\"",
+    "answer": "Peter",
+    "options": ["Peter", "John", "Andrew", "Thomas"]
+  },
+  {
+    "id": "q31",
+    "quote": "\"My Lord and my God!\"",
+    "answer": "Thomas",
+    "options": ["Thomas", "Peter", "Philip", "Nathanael"]
+  },
+  {
+    "id": "q32",
+    "quote": "\"Lord, to whom shall we go? You have the words of eternal life.\"",
+    "answer": "Peter",
+    "options": ["Peter", "John", "James", "Philip"]
+  },
+  {
+    "id": "q33",
+    "quote": "\"What must I do to be saved?\"",
+    "answer": "The Philippian jailer",
+    "options": ["The Philippian jailer", "Nicodemus", "The rich young ruler", "Cornelius"]
+  },
+  {
+    "id": "q34",
+    "quote": "\"Silver and gold have I none; but such as I have give I thee.\"",
+    "answer": "Peter",
+    "options": ["Peter", "John", "Paul", "Barnabas"]
+  },
+  {
+    "id": "q35",
+    "quote": "\"I have fought the good fight, I have finished the race, I have kept the faith.\"",
+    "answer": "Paul",
+    "options": ["Paul", "Peter", "Timothy", "John"]
+  },
+  {
+    "id": "q36",
+    "quote": "\"For to me to live is Christ, and to die is gain.\"",
+    "answer": "Paul",
+    "options": ["Paul", "Peter", "James", "John"]
+  },
+  {
+    "id": "q37",
+    "quote": "\"Saul, Saul, why are you persecuting me?\"",
+    "answer": "Jesus",
+    "options": ["Jesus", "Stephen", "Ananias", "Gabriel"]
+  },
+  {
+    "id": "q38",
+    "quote": "\"Lord, do not hold this sin against them.\"",
+    "answer": "Stephen",
+    "options": ["Stephen", "Paul", "Peter", "James"]
+  },
+  {
+    "id": "q39",
+    "quote": "\"It is not good that the man should be alone.\"",
+    "answer": "God",
+    "options": ["God", "Adam", "Moses", "Solomon"]
+  },
+  {
+    "id": "q40",
+    "quote": "\"I have been young, and now am old, yet I have not seen the righteous forsaken.\"",
+    "answer": "David",
+    "options": ["David", "Solomon", "Moses", "Asaph"]
+  },
+  {
+    "id": "q41",
+    "quote": "\"Remember now thy Creator in the days of thy youth.\"",
+    "answer": "Solomon",
+    "options": ["Solomon", "David", "Job", "Agur"]
+  },
+  {
+    "id": "q42",
+    "quote": "\"There is nothing new under the sun.\"",
+    "answer": "Solomon",
+    "options": ["Solomon", "David", "Job", "Isaiah"]
+  },
+  {
+    "id": "q43",
+    "quote": "\"Choose this day whom you will serve.\"",
+    "answer": "Joshua",
+    "options": ["Joshua", "Moses", "Samuel", "Gideon"]
+  },
+  {
+    "id": "q44",
+    "quote": "\"The Lord is with you, O mighty man of valor.\"",
+    "answer": "The angel of the Lord",
+    "options": ["The angel of the Lord", "Gideon", "Deborah", "Samuel"]
+  },
+  {
+    "id": "q45",
+    "quote": "\"Give me children, or I shall die!\"",
+    "answer": "Rachel",
+    "options": ["Rachel", "Leah", "Sarah", "Rebekah"]
+  },
+  {
+    "id": "q46",
+    "quote": "\"You intended to harm me, but God intended it for good.\"",
+    "answer": "Joseph",
+    "options": ["Joseph", "Jacob", "Judah", "Benjamin"]
+  },
+  {
+    "id": "q47",
+    "quote": "\"The Lord bless you and keep you.\"",
+    "answer": "Aaron",
+    "options": ["Aaron", "Moses", "Eli", "Samuel"]
+  },
+  {
+    "id": "q48",
+    "quote": "\"Though he slay me, yet will I trust in him.\"",
+    "answer": "Job",
+    "options": ["Job", "David", "Habakkuk", "Jeremiah"]
+  },
+  {
+    "id": "q49",
+    "quote": "\"Whom have I in heaven but you? And there is nothing on earth that I desire besides you.\"",
+    "answer": "Asaph",
+    "options": ["Asaph", "David", "Solomon", "Moses"]
+  },
+  {
+    "id": "q50",
+    "quote": "\"Be strong and courageous. Do not be afraid; do not be discouraged.\"",
+    "answer": "God",
+    "options": ["God", "Joshua", "Moses", "Caleb"]
   }
 ]
