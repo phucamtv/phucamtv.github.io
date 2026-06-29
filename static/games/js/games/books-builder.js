@@ -1,6 +1,6 @@
-const booksData = window.GAME_DATA;
 import { getHighScore, saveScore } from '../../shared/scoring.js';
 import { playSound } from '../../shared/sound.js';
+const booksData = window.GAME_DATA;
 
 export function pickBooks(books, difficulty) {
   const t = difficulty === 'easy' ? 'OT' : difficulty === 'normal' ? 'NT' : null;

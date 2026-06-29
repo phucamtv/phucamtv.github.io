@@ -1,6 +1,6 @@
-const parablesData = window.GAME_DATA;
 import { getHighScore, saveScore } from '../../shared/scoring.js';
 import { playSound } from '../../shared/sound.js';
+const parablesData = window.GAME_DATA;
 
 export function pickParables(parables, difficulty) {
   const target = difficulty === 'easy' ? 3 : difficulty === 'normal' ? 5 : 7;

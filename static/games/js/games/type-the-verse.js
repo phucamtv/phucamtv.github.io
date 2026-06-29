@@ -1,6 +1,6 @@
-const versesData = window.GAME_DATA;
 import { getHighScore, saveScore } from '../../shared/scoring.js';
 import { playSound } from '../../shared/sound.js';
+const versesData = window.GAME_DATA;
 
 export function normalize(text) {
   return String(text).toLowerCase().trim().replace(/\s+/g, ' ');
