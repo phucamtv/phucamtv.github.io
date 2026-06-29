@@ -47,20 +47,30 @@ layouts/games/
   list.html                      # the /games/ hub: grid of game cards + difficulty note
   single.html                    # a single game page: mounts one game, back-to-hub link
 
-static/games/
-  js/
-    shared/  scoring.js difficulty.js sound.js storage.js
-    games/   books-builder.js who-said-it.js scripture-scramble.js
-             type-the-verse.js parable-pairs.js
-    hub.js                       # (only if the hub needs JS; see Hub below)
-  data/
-    books.json quotes.json verses.json parables.json
-  games.css                      # game-specific styles, on top of site tokens
+static/games/js/
+  shared/  scoring.js difficulty.js sound.js storage.js
+  games/   books-builder.js who-said-it.js scripture-scramble.js
+           type-the-verse.js parable-pairs.js
+
+data/games/                      # Hugo data dir — read at build time, NOT web-served
+  books.json quotes.json verses.json parables.json
+
+assets/css/
+  games.css                      # game styles on site tokens; Hugo-pipelined + fingerprinted
 ```
 
-JS and JSON live under `static/` (served verbatim at `/games/js/...`,
-`/games/data/...`). The HTML pages are Hugo-rendered so they inherit the site
-`<head>`, fonts, and design tokens.
+- **JS** lives under `static/games/js/` (served verbatim at `/games/js/...`).
+- **JSON** lives under `data/games/` (Hugo's native data dir). It is read at
+  build time and injected inline as `window.GAME_DATA` — it is NOT fetched at
+  runtime and NOT web-served, so it exists in exactly one place. **`hugo.toml`
+  uses explicit `[[module.mounts]]`, which disables the default `data/`
+  auto-mount, so `data/games` must be added as an explicit mount** (verified:
+  without it `.Site.Data.games` is empty).
+- **CSS** lives under `assets/css/games.css` so it goes through Hugo's pipeline
+  (concat + fingerprint), matching how the site's other CSS is built in
+  `head.html`.
+- The HTML pages are Hugo-rendered so they inherit the site `<head>`, fonts,
+  and design tokens.
 
 ### Per-game page (`layouts/games/single.html`)
 
@@ -86,11 +96,12 @@ Each game page:
      // game boots at Normal on load without extra wiring.
    </script>
    ```
-5. Front matter carries `game:` (module basename) and `title:`.
-
-   Note: the JSON `fetch` (see "Code changes" below) happens **inside** each
-   game's `init`, so `run(level)` stays synchronous from the page's perspective;
-   the game renders a brief loading state until its data resolves.
+5. Front matter carries `game:` (module basename), `data:` (the JSON file the
+   game needs), and `title:`.
+6. Injects that game's JSON inline as a global **before** the module script, so
+   the game's synchronous `init` can read it without `await` (see "Code changes").
+   Hugo reads it from the data dir (`index .Site.Data.games .Params.data`) and
+   emits `<script>window.GAME_DATA = {{ … | jsonify }}</script>`.
 
 ### Hub page (`layouts/games/list.html`)
 
@@ -102,26 +113,33 @@ defaults to Normal on load and does not persist), not on the hub.
 
 ### Code changes to the ported games
 
-The game/shared modules are copied **unchanged** except for one mechanical fix:
-the four `import xData from '../../data/x.json'` statements become a runtime
-`fetch('/games/data/x.json')`. Concretely, each game's `init` already runs async-
-friendly; we load JSON before mounting:
+The game `init` functions are **synchronous** — they use their data immediately
+(`pickBooks(booksData, …)`). So we must NOT introduce `await` inside `init`. The
+data instead arrives as a page global injected by Hugo. Each game gets exactly
+one mechanical line change:
 
 ```js
-// before:  import quotesData from '../../data/quotes.json';
-// after:   const quotesData = await fetch('/games/data/quotes.json').then(r => r.json());
+// before:  import booksData from '../../data/books.json';
+// after:    const booksData = window.GAME_DATA;
 ```
 
-The page-level boot script awaits the fetch, then calls the game's existing
-`init(container, difficulty)`. Internal game logic, scoring, sound, storage:
-untouched.
+Affected games and their data:
+- `books-builder.js`     → `books.json`
+- `who-said-it.js`       → `quotes.json`
+- `scripture-scramble.js`→ `verses.json`
+- `type-the-verse.js`    → `verses.json`
+- `parable-pairs.js`     → `parables.json`
+
+Internal game logic, scoring, sound, storage: untouched. `init` signature
+(`init(container, difficulty)` → returns `cleanup`) is unchanged, so the boot
+script stays synchronous.
 
 ### Styling — harmonize with site tokens
 
 - Add `"games"` to the `$libApp` section list in `partials/head.html` so game
   pages load Newsreader + Be Vietnam Pro and the shared stylesheet (which carries
   `tokens.css`).
-- Replace Bible Quest's 31-line `styles.css` with `static/games/games.css`,
+- Replace Bible Quest's 31-line `styles.css` with `assets/css/games.css`,
   scoped under a `.games` wrapper, using the site CSS custom properties:
   surfaces (`--surface-raised`, `--surface-soft`), text (`--text-strong`,
   `--text-body`), borders (`--border-default`), accent (`--accent`), links
@@ -138,16 +156,23 @@ untouched.
 
 1. User opens `/games/` → Hugo-rendered hub, five cards.
 2. Clicks a card → navigates to `/games/<name>/` (a real page).
-3. Page boot script `fetch`es that game's JSON, reads difficulty from
-   `localStorage` (default `normal`), calls `init()`.
-4. Game runs entirely client-side; scores persist via `shared/storage.js`
-   (`localStorage`). No server, no login — unchanged from the original.
+3. Hugo has already inlined that game's data as `window.GAME_DATA`. The boot
+   script wires the difficulty selector (defaults to Normal, in-memory) and calls
+   the game's `init(mount, level)`, re-running on difficulty change.
+4. Game runs entirely client-side; reads `window.GAME_DATA`; scores persist via
+   `shared/storage.js` (`localStorage`). No server, no login — unchanged from the
+   original.
 
 ## Error handling
 
-- JSON fetch failure: boot script shows a short Vietnamese-friendly fallback
-  message in the mount point ("Không tải được trò chơi.") rather than a blank page.
-- Unknown `game:` param: `single.html` renders the back-to-hub link only.
+- Missing/empty `GAME_DATA` (a build-time data problem): the game's existing
+  guards apply (e.g. `pickVerse` throws on empty); the boot script wraps `init`
+  in try/catch and renders a short fallback ("Không tải được trò chơi.") in the
+  mount point rather than leaving a blank page.
+- `game:` param: all five content pages set it to a known module basename
+  (author-controlled, finite set), so `single.html` emits the import directly.
+  A future page added without a matching JS module would 404 on the module
+  fetch — acceptable for this closed set; not guarded.
 
 ## Out of scope (explicit)
 
