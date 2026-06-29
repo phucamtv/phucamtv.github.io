@@ -1,5 +1,5 @@
-import { getHighScore, saveScore } from '../../shared/scoring.js';
-import { playSound } from '../../shared/sound.js';
+import { getHighScore, saveScore } from '../shared/scoring.js';
+import { playSound } from '../shared/sound.js';
 const booksData = window.GAME_DATA;
 
 export function pickBooks(books, difficulty) {
