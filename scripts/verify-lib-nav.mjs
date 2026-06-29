@@ -40,9 +40,9 @@ const CHROME =
 // grid (not a `no-mid` index). The home feed (/) does: rail | detail | info.
 const TEST_PATH = "/";
 
-// ---- expectations (kept in sync with nav-data.html: 7 top-level items) ----
+// ---- expectations (kept in sync with nav-data.html: 8 top-level items) ----
 const PRIMARY_ON_BAR = 4; // mobile shows first 4 top-level + "⋮"
-const TOPLEVEL_TOTAL = 7;
+const TOPLEVEL_TOTAL = 8;
 
 const MIME = {
   ".html": "text/html; charset=utf-8", ".css": "text/css", ".js": "text/javascript",
