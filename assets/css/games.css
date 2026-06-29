@@ -58,15 +58,6 @@
   border-color: var(--surface-inverse);
 }
 
-/* back-to-hub link */
-.lib-app .games-back {
-  display: inline-block;
-  margin-bottom: 1rem;
-  color: var(--link);
-  text-decoration: none;
-}
-.lib-app .games-back:hover { color: var(--link-hover); text-decoration: underline; }
-
 /* hub */
 .lib-app .games-hub {
   display: grid;
