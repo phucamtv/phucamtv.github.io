@@ -292,5 +292,251 @@
     "reference": "Romans 8:38-39",
     "difficulty": "hard",
     "words": ["for", "i", "am", "sure", "that", "neither", "death", "nor", "life", "nor", "angels", "nor", "rulers", "nor", "things", "present", "nor", "things", "to", "come", "nor", "powers", "nor", "height", "nor", "depth", "nor", "anything", "else", "in", "all", "creation", "will", "be", "able", "to", "separate", "us", "from", "the", "love", "of", "god"]
+  },
+  {
+    "id": "v49",
+    "reference": "Psalm 23:4 (KJV)",
+    "difficulty": "hard",
+    "words": ["yea", "though", "i", "walk", "through", "the", "valley", "of", "the", "shadow", "of", "death", "i", "will", "fear", "no", "evil", "for", "thou", "art", "with", "me", "thy", "rod", "and", "thy", "staff", "they", "comfort", "me"]
+  },
+  {
+    "id": "v50",
+    "reference": "Psalm 23:5 (KJV)",
+    "difficulty": "hard",
+    "words": ["thou", "preparest", "a", "table", "before", "me", "in", "the", "presence", "of", "mine", "enemies", "thou", "anointest", "my", "head", "with", "oil", "my", "cup", "runneth", "over"]
+  },
+  {
+    "id": "v51",
+    "reference": "Psalm 23:6 (KJV)",
+    "difficulty": "normal",
+    "words": ["surely", "goodness", "and", "mercy", "shall", "follow", "me", "all", "the", "days", "of", "my", "life", "and", "i", "will", "dwell", "in", "the", "house", "of", "the", "lord", "for", "ever"]
+  },
+  {
+    "id": "v52",
+    "reference": "Ecclesiastes 3:1 (KJV)",
+    "difficulty": "normal",
+    "words": ["to", "every", "thing", "there", "is", "a", "season", "and", "a", "time", "to", "every", "purpose", "under", "the", "heaven"]
+  },
+  {
+    "id": "v53",
+    "reference": "Ecclesiastes 3:11 (KJV)",
+    "difficulty": "normal",
+    "words": ["he", "hath", "made", "every", "thing", "beautiful", "in", "his", "time"]
+  },
+  {
+    "id": "v54",
+    "reference": "Isaiah 11:6 (KJV)",
+    "difficulty": "hard",
+    "words": ["the", "wolf", "also", "shall", "dwell", "with", "the", "lamb", "and", "the", "leopard", "shall", "lie", "down", "with", "the", "kid", "and", "a", "little", "child", "shall", "lead", "them"]
+  },
+  {
+    "id": "v55",
+    "reference": "Isaiah 7:14 (KJV)",
+    "difficulty": "normal",
+    "words": ["behold", "a", "virgin", "shall", "conceive", "and", "bear", "a", "son", "and", "shall", "call", "his", "name", "immanuel"]
+  },
+  {
+    "id": "v56",
+    "reference": "Numbers 6:24-26 (KJV)",
+    "difficulty": "hard",
+    "words": ["the", "lord", "bless", "thee", "and", "keep", "thee", "the", "lord", "make", "his", "face", "shine", "upon", "thee", "and", "be", "gracious", "unto", "thee", "the", "lord", "lift", "up", "his", "countenance", "upon", "thee", "and", "give", "thee", "peace"]
+  },
+  {
+    "id": "v57",
+    "reference": "Matthew 7:13 (KJV)",
+    "difficulty": "normal",
+    "words": ["enter", "ye", "in", "at", "the", "strait", "gate", "for", "wide", "is", "the", "gate", "and", "broad", "is", "the", "way", "that", "leadeth", "to", "destruction"]
+  },
+  {
+    "id": "v58",
+    "reference": "Matthew 26:41 (KJV)",
+    "difficulty": "normal",
+    "words": ["watch", "and", "pray", "that", "ye", "enter", "not", "into", "temptation", "the", "spirit", "indeed", "is", "willing", "but", "the", "flesh", "is", "weak"]
+  },
+  {
+    "id": "v59",
+    "reference": "John 3:17 (KJV)",
+    "difficulty": "normal",
+    "words": ["for", "god", "sent", "not", "his", "son", "into", "the", "world", "to", "condemn", "the", "world", "but", "that", "the", "world", "through", "him", "might", "be", "saved"]
+  },
+  {
+    "id": "v60",
+    "reference": "John 14:2 (KJV)",
+    "difficulty": "normal",
+    "words": ["in", "my", "father's", "house", "are", "many", "mansions", "if", "it", "were", "not", "so", "i", "would", "have", "told", "you", "i", "go", "to", "prepare", "a", "place", "for", "you"]
+  },
+  {
+    "id": "v61",
+    "reference": "Luke 16:13 (KJV)",
+    "difficulty": "hard",
+    "words": ["no", "servant", "can", "serve", "two", "masters", "ye", "cannot", "serve", "god", "and", "mammon"]
+  },
+  {
+    "id": "v62",
+    "reference": "Matthew 5:14 (KJV)",
+    "difficulty": "normal",
+    "words": ["ye", "are", "the", "light", "of", "the", "world", "a", "city", "that", "is", "set", "on", "an", "hill", "cannot", "be", "hid"]
+  },
+  {
+    "id": "v63",
+    "reference": "Matthew 7:6 (KJV)",
+    "difficulty": "normal",
+    "words": ["give", "not", "that", "which", "is", "holy", "unto", "the", "dogs", "neither", "cast", "ye", "your", "pearls", "before", "swine"]
+  },
+  {
+    "id": "v64",
+    "reference": "Genesis 4:9 (KJV)",
+    "difficulty": "easy",
+    "words": ["am", "i", "my", "brother's", "keeper"]
+  },
+  {
+    "id": "v65",
+    "reference": "Exodus 3:8 (KJV)",
+    "difficulty": "normal",
+    "words": ["a", "land", "flowing", "with", "milk", "and", "honey"]
+  },
+  {
+    "id": "v66",
+    "reference": "Genesis 19:26 (KJV)",
+    "difficulty": "normal",
+    "words": ["but", "his", "wife", "looked", "back", "from", "behind", "him", "and", "she", "became", "a", "pillar", "of", "salt"]
+  },
+  {
+    "id": "v67",
+    "reference": "Acts 20:35 (KJV)",
+    "difficulty": "normal",
+    "words": ["it", "is", "more", "blessed", "to", "give", "than", "to", "receive"]
+  },
+  {
+    "id": "v68",
+    "reference": "Luke 2:7 (KJV)",
+    "difficulty": "hard",
+    "words": ["and", "she", "brought", "forth", "her", "firstborn", "son", "and", "wrapped", "him", "in", "swaddling", "clothes", "and", "laid", "him", "in", "a", "manger", "because", "there", "was", "no", "room", "for", "them", "in", "the", "inn"]
+  },
+  {
+    "id": "v69",
+    "reference": "1 Corinthians 13:13 (KJV)",
+    "difficulty": "normal",
+    "words": ["and", "now", "abideth", "faith", "hope", "charity", "these", "three", "but", "the", "greatest", "of", "these", "is", "charity"]
+  },
+  {
+    "id": "v70",
+    "reference": "Matthew 6:3 (KJV)",
+    "difficulty": "normal",
+    "words": ["but", "when", "thou", "doest", "alms", "let", "not", "thy", "left", "hand", "know", "what", "thy", "right", "hand", "doeth"]
+  },
+  {
+    "id": "v71",
+    "reference": "John 14:1 (KJV)",
+    "difficulty": "normal",
+    "words": ["let", "not", "your", "heart", "be", "troubled", "ye", "believe", "in", "god", "believe", "also", "in", "me"]
+  },
+  {
+    "id": "v72",
+    "reference": "Genesis 3:4-5 (KJV)",
+    "difficulty": "hard",
+    "words": ["and", "the", "serpent", "said", "unto", "the", "woman", "ye", "shall", "not", "surely", "die", "for", "god", "doth", "know", "that", "in", "the", "day", "ye", "eat", "thereof", "then", "your", "eyes", "shall", "be", "opened", "and", "ye", "shall", "be", "as", "gods", "knowing", "good", "and", "evil"]
+  },
+  {
+    "id": "v73",
+    "reference": "Proverbs 16:18 (KJV)",
+    "difficulty": "normal",
+    "words": ["pride", "goeth", "before", "destruction", "and", "an", "haughty", "spirit", "before", "a", "fall"]
+  },
+  {
+    "id": "v74",
+    "reference": "John 8:32 (KJV)",
+    "difficulty": "easy",
+    "words": ["and", "ye", "shall", "know", "the", "truth", "and", "the", "truth", "shall", "make", "you", "free"]
+  },
+  {
+    "id": "v75",
+    "reference": "Matthew 7:12 (KJV)",
+    "difficulty": "normal",
+    "words": ["therefore", "all", "things", "whatsoever", "ye", "would", "that", "men", "should", "do", "to", "you", "do", "ye", "even", "so", "to", "them", "for", "this", "is", "the", "law", "and", "the", "prophets"]
+  },
+  {
+    "id": "v76",
+    "reference": "Isaiah 2:4 (KJV)",
+    "difficulty": "hard",
+    "words": ["and", "they", "shall", "beat", "their", "swords", "into", "plowshares", "and", "their", "spears", "into", "pruninghooks", "nation", "shall", "not", "lift", "up", "sword", "against", "nation", "neither", "shall", "they", "learn", "war", "any", "more"]
+  },
+  {
+    "id": "v77",
+    "reference": "Matthew 19:24 (KJV)",
+    "difficulty": "normal",
+    "words": ["it", "is", "easier", "for", "a", "camel", "to", "go", "through", "the", "eye", "of", "a", "needle", "than", "for", "a", "rich", "man", "to", "enter", "into", "the", "kingdom", "of", "god"]
+  },
+  {
+    "id": "v78",
+    "reference": "James 2:17 (KJV)",
+    "difficulty": "normal",
+    "words": ["even", "so", "faith", "if", "it", "hath", "not", "works", "is", "dead", "being", "alone"]
+  },
+  {
+    "id": "v79",
+    "reference": "Matthew 9:37 (KJV)",
+    "difficulty": "normal",
+    "words": ["the", "harvest", "truly", "is", "plenteous", "but", "the", "labourers", "are", "few"]
+  },
+  {
+    "id": "v80",
+    "reference": "Matthew 5:39 (KJV)",
+    "difficulty": "normal",
+    "words": ["but", "i", "say", "unto", "you", "that", "ye", "resist", "not", "evil", "but", "whosoever", "shall", "smite", "thee", "on", "thy", "right", "cheek", "turn", "to", "him", "the", "other", "also"]
+  },
+  {
+    "id": "v81",
+    "reference": "Matthew 6:20 (KJV)",
+    "difficulty": "normal",
+    "words": ["but", "lay", "up", "for", "yourselves", "treasures", "in", "heaven", "where", "neither", "moth", "nor", "rust", "doth", "corrupt", "and", "where", "thieves", "do", "not", "break", "through", "nor", "steal"]
+  },
+  {
+    "id": "v82",
+    "reference": "Matthew 6:21 (KJV)",
+    "difficulty": "easy",
+    "words": ["for", "where", "your", "treasure", "is", "there", "will", "your", "heart", "be", "also"]
+  },
+  {
+    "id": "v83",
+    "reference": "Matthew 10:28 (KJV)",
+    "difficulty": "normal",
+    "words": ["and", "fear", "not", "them", "which", "kill", "the", "body", "but", "are", "not", "able", "to", "kill", "the", "soul", "but", "rather", "fear", "him", "which", "is", "able", "to", "destroy", "both", "soul", "and", "body", "in", "hell"]
+  },
+  {
+    "id": "v84",
+    "reference": "Luke 2:14 (KJV)",
+    "difficulty": "normal",
+    "words": ["glory", "to", "god", "in", "the", "highest", "and", "on", "earth", "peace", "good", "will", "toward", "men"]
+  },
+  {
+    "id": "v85",
+    "reference": "John 14:3 (KJV)",
+    "difficulty": "normal",
+    "words": ["and", "if", "i", "go", "and", "prepare", "a", "place", "for", "you", "i", "will", "come", "again", "and", "receive", "you", "unto", "myself", "that", "where", "i", "am", "there", "ye", "may", "be", "also"]
+  },
+  {
+    "id": "v86",
+    "reference": "Matthew 16:24 (KJV)",
+    "difficulty": "normal",
+    "words": ["if", "any", "man", "will", "come", "after", "me", "let", "him", "deny", "himself", "and", "take", "up", "his", "cross", "and", "follow", "me"]
+  },
+  {
+    "id": "v87",
+    "reference": "John 15:12 (KJV)",
+    "difficulty": "easy",
+    "words": ["this", "is", "my", "commandment", "that", "ye", "love", "one", "another", "as", "i", "have", "loved", "you"]
+  },
+  {
+    "id": "v88",
+    "reference": "1 Corinthians 13:3 (KJV)",
+    "difficulty": "hard",
+    "words": ["and", "though", "i", "bestow", "all", "my", "goods", "to", "feed", "the", "poor", "and", "though", "i", "give", "my", "body", "to", "be", "burned", "and", "have", "not", "charity", "it", "profiteth", "me", "nothing"]
+  },
+  {
+    "id": "v89",
+    "reference": "Matthew 7:7 (KJV)",
+    "difficulty": "normal",
+    "words": ["ask", "and", "it", "shall", "be", "given", "you", "seek", "and", "ye", "shall", "find", "knock", "and", "it", "shall", "be", "opened", "unto", "you"]
   }
 ]
