@@ -100,8 +100,11 @@ Each game page:
    game needs), and `title:`.
 6. Injects that game's JSON inline as a global **before** the module script, so
    the game's synchronous `init` can read it without `await` (see "Code changes").
-   Hugo reads it from the data dir (`index .Site.Data.games .Params.data`) and
-   emits `<script>window.GAME_DATA = {{ … | jsonify }}</script>`.
+   Hugo reads it from the data dir (`index hugo.Data.games .Params.data`) and
+   emits `<script>window.GAME_DATA = {{ … | jsonify | safeJS }}</script>`.
+   (`safeJS` is required: in Hugo 0.163 context-aware escaping inside `<script>`
+   would otherwise wrap the array as a JS string literal. `hugo.Data` is the
+   non-deprecated accessor used elsewhere in this repo.)
 
 ### Hub page (`layouts/games/list.html`)
 
