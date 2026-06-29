@@ -1,0 +1,92 @@
+/* Bible Quest games — scoped under .games, themed via site tokens. */
+
+.games {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  font-family: "Be Vietnam Pro", system-ui, sans-serif;
+  color: var(--text-body);
+}
+
+.games h1,
+.games h2 {
+  font-family: Newsreader, Georgia, serif;
+  color: var(--text-strong);
+  font-weight: 600;
+}
+
+.games p { color: var(--text-body); }
+
+/* shared button look */
+.games button {
+  font: inherit;
+  cursor: pointer;
+  background: var(--surface-raised);
+  color: var(--text-primary);
+  border: 1px solid var(--border-default);
+  border-radius: 8px;
+  padding: 0.5rem 0.9rem;
+  margin: 0.2rem;
+  transition: background 0.12s ease, border-color 0.12s ease;
+}
+.games button:hover:not(:disabled) { background: var(--surface-hover); }
+.games button:disabled { cursor: default; opacity: 0.6; }
+
+/* state classes (kept identical to game JS class names) */
+.games .correct  { background: var(--surface-soft); border-color: var(--accent); color: var(--text-strong); }
+.games .wrong    { background: var(--surface-sunken); border-color: var(--link); color: var(--text-strong); }
+.games .matched  { background: var(--surface-soft); border-color: var(--accent); opacity: 0.7; }
+.games .selected { outline: 3px solid var(--accent); }
+.games .locked   { background: var(--surface-soft); }
+.games .filled   { background: var(--surface-tint); }
+
+@keyframes games-shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  75% { transform: translateX(5px); }
+}
+.games .shake { animation: games-shake 0.3s ease-in-out; }
+
+/* difficulty selector */
+.games .difficulty {
+  display: flex;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+}
+.games .difficulty-btn[aria-pressed="true"] {
+  background: var(--surface-inverse);
+  color: var(--text-on-inverse-strong);
+  border-color: var(--surface-inverse);
+}
+
+/* back-to-hub link */
+.games-back {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: var(--link);
+  text-decoration: none;
+}
+.games-back:hover { color: var(--link-hover); text-decoration: underline; }
+
+/* hub */
+.games-hub {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+}
+.games-card {
+  display: block;
+  padding: 1.1rem 1.2rem;
+  background: var(--surface-raised);
+  border: 1px solid var(--border-default);
+  border-radius: 12px;
+  box-shadow: 0 1px 3px var(--shadow-soft);
+  text-decoration: none;
+  color: var(--text-strong);
+  transition: box-shadow 0.15s ease, border-color 0.15s ease;
+}
+.games-card:hover { border-color: var(--accent); box-shadow: 0 3px 10px var(--shadow-card); }
+.games-card h2 { margin: 0 0 0.35rem; font-size: 1.15rem; }
+.games-card p { margin: 0; color: var(--text-muted); font-size: 0.92rem; }
