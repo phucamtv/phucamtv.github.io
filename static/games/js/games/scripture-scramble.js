@@ -34,6 +34,7 @@ export function init(container, difficulty) {
   const hard = difficulty === 'hard';
   const TIME_LIMIT_MS = 90000;
   let timerHandle = null;
+  let timerRemaining = TIME_LIMIT_MS;
   let finished = false;
 
   // placed[i] is the word in slot i, or null when empty.
@@ -47,7 +48,7 @@ export function init(container, difficulty) {
     container.innerHTML = `
       <h2>Scripture Scramble</h2>
       <p class="ss-reference">${verse.reference}</p>
-      <div class="ss-timer" style="${hard ? '' : 'display:none'}">Time left: <span>${TIME_LIMIT_MS / 1000}</span>s</div>
+      <div class="ss-timer" role="timer" aria-live="polite" style="${hard ? '' : 'display:none'}">Time left: <span>${Math.max(0, timerRemaining / 1000)}</span>s</div>
       <div class="ss-slots"></div>
       <p class="ss-status"></p>
       <div class="ss-pool"></div>
@@ -72,31 +73,34 @@ export function init(container, difficulty) {
       btn.className = 'ss-word';
       btn.dataset.poolIndex = String(idx);
       btn.textContent = word;
-      btn.addEventListener('click', () => placeWord(idx));
+      btn.addEventListener('click', () => placeWord(idx, btn));
       poolEl.appendChild(btn);
     });
 
     container.querySelector('.ss-reveal').addEventListener('click', reveal);
 
-    if (hard) startTimer();
+    if (hard && !timerHandle) startTimer();
   }
 
   function startTimer() {
     if (finished) return;
-    let remaining = TIME_LIMIT_MS;
-    const span = container.querySelector('.ss-timer span');
     timerHandle = setInterval(() => {
-      remaining -= 1000;
-      if (span) span.textContent = String(Math.max(0, remaining / 1000));
-      if (remaining <= 0) {
+      timerRemaining -= 1000;
+      const span = container.querySelector('.ss-timer span');
+      if (span) span.textContent = String(Math.max(0, timerRemaining / 1000));
+      if (timerRemaining <= 0) {
         clearInterval(timerHandle);
+        timerHandle = null;
         timeUp();
       }
     }, 1000);
   }
 
-  function placeWord(poolIndex) {
+  function placeWord(poolIndex, btn) {
+    if (btn && btn.disabled) return; // guard against double-click before re-render
+    if (btn) btn.disabled = true;
     const word = pool[poolIndex];
+    if (word === undefined) return; // already consumed
     const emptyIndex = placed.indexOf(null);
     if (emptyIndex === -1) return; // no empty slot
     placed[emptyIndex] = word;

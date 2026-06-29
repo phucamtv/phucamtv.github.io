@@ -62,19 +62,20 @@ export function init(container, difficulty) {
       nextIndex++;
       if (nextIndex === correct.length) finish();
     } else {
-      btn.classList.add('shake');
-      playSound('wrong');
+      if (!btn.classList.contains('shake')) {
+        btn.classList.add('shake');
+        playSound('wrong');
+        setTimeout(() => btn.classList.remove('shake'), 300);
+      }
       // reveal the correct next book to keep it educational, no shame
       status.textContent = `Next up: ${correct[nextIndex].name}`;
-      setTimeout(() => btn.classList.remove('shake'), 300);
     }
   }
 
   function finish() {
-    const score = scoreSequence(correct, chosen);
-    saveScore('books-builder', score);
+    saveScore('books-builder', correct.length);
     const best = getHighScore('books-builder');
-    status.textContent = `Done! You placed ${score} of ${correct.length} in order. Best: ${best}.`;
+    status.textContent = `Done! All ${correct.length} books placed in order. Best: ${best}.`;
   }
 
   return function cleanup() {

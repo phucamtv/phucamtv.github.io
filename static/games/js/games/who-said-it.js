@@ -95,6 +95,12 @@ export function init(container, difficulty) {
       <p>You scored ${score} of ${quiz.length}. Best: ${best}.</p>
       <p>(Higher past scores are kept automatically.)</p>
     `;
+    const replayBtn = document.createElement('button');
+    replayBtn.type = 'button';
+    replayBtn.id = 'wsi-replay';
+    replayBtn.textContent = 'Play Again';
+    replayBtn.addEventListener('click', () => init(container, difficulty));
+    container.appendChild(replayBtn);
   }
 
   return function cleanup() {

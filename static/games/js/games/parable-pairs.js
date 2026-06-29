@@ -83,6 +83,11 @@ export function init(container, difficulty) {
 
   function selectParable(card, parable) {
     if (card.classList.contains('matched')) return;
+    if (selectedParable === card) {
+      card.classList.remove('selected');
+      selectedParable = null;
+      return;
+    }
     if (selectedParable) selectedParable.classList.remove('selected');
     selectedParable = card;
     card.classList.add('selected');

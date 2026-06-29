@@ -5,6 +5,8 @@
 .lib-app .games {
   font-family: "Be Vietnam Pro", system-ui, sans-serif;
   color: var(--text-body);
+  max-width: 900px;
+  padding: 34px 44px 120px;
 }
 
 .lib-app .games h1,
@@ -78,5 +80,67 @@
   transition: box-shadow 0.15s ease, border-color 0.15s ease;
 }
 .lib-app .games-card:hover { border-color: var(--accent); box-shadow: 0 3px 10px var(--shadow-card); }
+.lib-app .games-card:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-color: var(--accent);
+}
 .lib-app .games-card h2 { margin: 0 0 0.35rem; font-size: 1.15rem; }
 .lib-app .games-card p { margin: 0; color: var(--text-muted); font-size: 0.92rem; }
+
+/* ---- game-specific element styling (token-themed) ---- */
+
+/* who-said-it: the Bible quote */
+.lib-app .games blockquote {
+  font-style: italic;
+  border-left: 3px solid var(--accent);
+  padding: 0.4rem 0 0.4rem 1rem;
+  margin: 0.75rem 0;
+  color: var(--text-secondary);
+}
+/* who-said-it: reserve feedback line height to stop layout shift on answer */
+.lib-app .games #wsi-feedback { min-height: 1.5em; }
+
+/* books-builder: placed-book badges + the drop zone */
+.lib-app .games .book-tag {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  margin: 0.2rem;
+  background: var(--surface-soft);
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  font-size: 0.85rem;
+  color: var(--text-strong);
+}
+.lib-app .games .book-done {
+  min-height: 2.5rem;
+  border-top: 1px solid var(--border-default);
+  padding-top: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+/* type-the-verse: text inputs / textarea adopt library tokens */
+.lib-app .games input[type="text"],
+.lib-app .games textarea {
+  font: inherit;
+  color: var(--text-primary);
+  background: var(--surface-base);
+  border: 1px solid var(--border-default);
+  border-radius: 8px;
+  padding: 0.4rem 0.6rem;
+}
+.lib-app .games input[type="text"]:focus-visible,
+.lib-app .games textarea:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+}
+
+/* parable-pairs: two side-by-side columns */
+.lib-app .games .pp-board {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  align-items: start;
+}
+.lib-app .games .pp-parable,
+.lib-app .games .pp-meaning { display: block; width: 100%; text-align: left; }
