@@ -81,9 +81,9 @@
     midBody.scrollTop += (tr.top - br.top) - (midBody.clientHeight - tr.height) / 2;
   }
 
-  /* ---- sách chapter reading-progress line (footer top edge) ---- */
+  /* ---- chapter reading-progress line (sách: footer top edge · kt: header bottom edge) ---- */
   var rpScroll = document.querySelector(".lib-detail-scroll");
-  var rpLine = document.querySelector(".sach-footer .sf-progress");
+  var rpLine = document.querySelector(".sf-progress");
   if (rpScroll && rpLine) {
     var rpUpdate = function () {
       var max = rpScroll.scrollHeight - rpScroll.clientHeight;

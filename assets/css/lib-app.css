@@ -633,6 +633,11 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   border-bottom: 1px solid var(--border-default);
   box-shadow: 0 2px 12px var(--shadow-soft);
 }
+/* reading-progress line on the header's bottom hairline; JS sets width 0→100% */
+.lib-app .sach-header .sf-progress {
+  position: absolute; bottom: -1px; left: 0; height: 2px; width: 0;
+  background: var(--kt-accent); transition: width .12s linear;
+}
 .lib-app .sach-header .sh-icon {
   flex: none; width: 34px; height: 34px; display: grid; place-items: center;
   border-radius: 9px; background: var(--surface-inverse);
@@ -644,6 +649,7 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   font-size: 1.15rem; line-height: 1.15; margin: 0;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0;
 }
+.lib-app .sach-header .sh-book .en { color: var(--kt-text-3); font-weight: 400; font-size: .72em; }
 .lib-app .sach-header .sh-actions { display: flex; gap: 0.3rem; margin-left: auto; flex: none; }
 /* The mục-lục button carries .lib-dtrigger. On desktop it is the reading-focus
    toggle (cycles full → hide mid → hide rail+mid); on mobile it stays the FAB
@@ -749,6 +755,12 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   :root[data-lib-focus="1"] .lib-app:has(.games-header) .lib-detail { grid-column: 2; }
   :root[data-lib-focus="2"] .lib-app:has(.sach-header) .lib-detail,
   :root[data-lib-focus="2"] .lib-app:has(.games-header) .lib-detail { grid-column: 1; }
+
+  /* The Kinh Thánh audio bar is position:fixed offset to the detail column's left
+     edge (rail + mid). When focus collapses those columns the bar must follow so
+     it spans the widened reader — matching the in-flow .sach-footer above it. */
+  :root[data-lib-focus="1"] body.lib-app-body:has(.sach-header) .audio-player-bar { left: var(--lib-rail-w); }
+  :root[data-lib-focus="2"] body.lib-app-body:has(.sach-header) .audio-player-bar { left: 0; }
 
   .lib-app:has(.sach-header),
   .lib-app:has(.games-header) { transition: grid-template-columns .3s cubic-bezier(.3,.8,.25,1); }

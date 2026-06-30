@@ -1,17 +1,12 @@
 {{ define "main" }}
 {{/* Chapter reader — generated chapter pages (/kt/<slug>/<n>/) render via this
-     default single template. Verses come from .Params.verses (set by _content.gotmpl). */}}
+     default single template. Verses come from .Params.verses (set by _content.gotmpl).
+     The book title lives in the pinned header (kt/baseof.html) so it never scrolls;
+     prev/next chapter nav sits at the end of the scrolling scripture. */}}
 {{ $slug := .Params.bookSlug }}
 {{ $c := .Params.chapter }}
 {{ $total := .Params.totalChapters }}
-{{ $bookVi := .Params.bookVi }}
-{{ $curBook := index (where site.Pages "Params.slug" $slug) 0 }}
 <article class="lib-doc">
-  <button class="lib-dtrigger" type="button" aria-label="Mở danh sách">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
-  </button>
-  <h1 class="lib-doc-title">{{ $bookVi }} {{ $c }}</h1>
-
   <div class="kt-prose">
     {{- range .Params.verses -}}
     <div class="kt-v" id="c{{ $c }}-{{ .n }}">
@@ -30,7 +25,10 @@
     </div>
   </nav>
 </article>
+{{ $curBook := index (where site.Pages "Params.slug" $slug) 0 }}
 {{ if and $curBook $curBook.Params.audio }}
   {{ partial "audio-player.html" (dict "book" $curBook "chapter" $c) }}
 {{ end }}
 {{ end }}
+
+{{ define "header" }}{{ partial "kt/chapter-header.html" . }}{{ end }}
