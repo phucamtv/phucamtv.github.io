@@ -771,16 +771,46 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
    ============================================================ */
 /* col 2: all-authors list */
 .lib-mid--authors .lib-author-avatar { width: 30px; height: 30px; flex: none; border-radius: 50%; object-fit: cover; }
-/* detail: author profile header */
-.lib-doc--author .author-hero { display: flex; align-items: center; gap: 18px; margin-bottom: 8px; }
-.lib-doc--author .author-hero-avatar { width: 84px; height: 84px; flex: none; border-radius: 50%; object-fit: cover; box-shadow: var(--kt-sh-sm); }
-.lib-doc--author .author-hero-id { min-width: 0; }
-.lib-doc--author .author-hero-country { color: var(--kt-text-2); font-size: calc(15px * var(--app-fs)); margin: 6px 0 0; }
-.lib-doc--author .author-hero-links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
-.lib-doc--author .author-hero-link { display: grid; place-items: center; width: 34px; height: 34px; border-radius: 9px; color: var(--kt-text-2); background: var(--kt-sunken); transition: color .14s, background .14s; }
-.lib-doc--author .author-hero-link:hover { color: #fff; background: var(--kt-accent-deep); }
-.lib-doc--author .author-hero-link svg { width: 17px; height: 17px; }
-.lib-doc--author .author-bio { margin-top: 22px; }
+/* detail: author profile pinned header bar (same recipe as .sach-header) */
+.lib-app .author-header {
+  position: relative; z-index: 5; flex: 0 0 auto;
+  display: flex; align-items: center; gap: 0.9rem; margin: 0;
+  padding: 0.7rem 44px;
+  background: var(--surface-soft);
+  border-bottom: 1px solid var(--border-default);
+  box-shadow: 0 2px 12px var(--shadow-soft);
+}
+.lib-app .author-header .ah-avatar {
+  flex: none; width: 38px; height: 38px; border-radius: 50%; object-fit: cover;
+  box-shadow: 0 1px 3px var(--shadow-soft);
+}
+.lib-app .author-header .ah-id { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; justify-content: center; }
+.lib-app .author-header .ah-name {
+  font-family: var(--kt-display); font-weight: 600; color: var(--text-strong);
+  font-size: 1.15rem; line-height: 1.15; margin: 0;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.lib-app .author-header .ah-country {
+  font-size: 0.76rem; color: var(--text-secondary); margin: 1px 0 0; line-height: 1;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.lib-app .author-header .ah-actions { display: flex; gap: 0.3rem; margin-left: auto; flex: none; }
+.lib-app .author-header .ah-link {
+  flex: none; width: 34px; height: 34px; display: grid; place-items: center;
+  background: var(--surface-raised); color: var(--text-secondary);
+  border: 1px solid var(--border-default); border-radius: 9px;
+  transition: background .12s ease, border-color .12s ease, color .12s ease;
+}
+.lib-app .author-header .ah-link:hover {
+  background: var(--surface-soft); border-color: var(--accent); color: var(--text-strong);
+}
+.lib-app .author-header .ah-link svg { width: 17px; height: 17px; }
+/* the list-drawer trigger carries .lib-dtrigger: hidden on desktop (the author
+   list column is already visible); on mobile it drops the FAB look and sits in
+   the bar instead of floating over it */
+.lib-app .author-header .ah-btn { display: none; }
+.lib-doc--author .author-bio { margin-top: 0; }
+.lib-doc--author .lib-doc-h { margin-top: 26px; }
 
 /* chapter body fix-ups carried over from the old readers */
 .lib-doc .content .ch-iq { font-style: italic; color: var(--kt-accent-deep); }
@@ -809,4 +839,20 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   .lib-app.no-mid { grid-template-columns: 1fr; }
   .lib-app.no-mid .lib-detail { position: relative; inset: auto; transform: none; grid-column: 1; }
   .lib-mtrigger-solo { display: grid; place-items: center; width: 36px; height: 36px; }
+
+  /* author header: tighten padding; pull the list-drawer trigger into the bar
+     (neutralize the .lib-dtrigger FAB so it sits in .ah-actions, not floating) */
+  .lib-app .author-header { padding-left: 20px; padding-right: 20px; }
+  .lib-app .author-header .ah-btn {
+    display: grid; place-items: center;
+    position: static; top: auto; right: auto; z-index: auto;
+    flex: none; width: 34px; height: 34px; border-radius: 9px;
+    background: var(--surface-raised); color: var(--text-secondary);
+    border: 1px solid var(--border-default); box-shadow: none;
+    transition: background .12s ease, border-color .12s ease, color .12s ease;
+  }
+  .lib-app .author-header .ah-btn:hover {
+    background: var(--surface-soft); border-color: var(--accent); color: var(--text-strong);
+  }
+  .lib-app .author-header .ah-btn svg { width: 17px; height: 17px; }
 }
