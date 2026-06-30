@@ -8,11 +8,10 @@ export function pickBooks(books, difficulty) {
   return filtered.sort((a, b) => a.order - b.order);
 }
 
-export function scoreSequence(correctOrder, chosen) {
+export function scorePlacement(correctOrder, placed) {
   let score = 0;
-  for (let i = 0; i < chosen.length; i++) {
-    if (chosen[i].order === correctOrder[i].order) score++;
-    else break;
+  for (let i = 0; i < correctOrder.length; i++) {
+    if (placed[i] && placed[i].order === correctOrder[i].order) score++;
   }
   return score;
 }
