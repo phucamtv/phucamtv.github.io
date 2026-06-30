@@ -28,7 +28,6 @@ export function init(container, difficulty) {
   const chosen = [];
 
   container.innerHTML = `
-    <h2>Books of the Bible Builder</h2>
     <p id="bb-status">Click the books in order.</p>
     <div id="bb-pool" class="book-pool"></div>
     <div id="bb-done" class="book-done"></div>

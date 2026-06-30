@@ -29,7 +29,6 @@ export function init(container, difficulty) {
 
     const item = quiz[index];
     container.innerHTML = `
-      <h2>Who Said It?</h2>
       <p id="wsi-progress">Question ${index + 1} of ${quiz.length}</p>
       <blockquote id="wsi-quote">${item.quote}</blockquote>
       <div id="wsi-options"></div>
@@ -92,7 +91,6 @@ export function init(container, difficulty) {
     signalFinished(container);
     const best = getHighScore('who-said-it');
     container.innerHTML = `
-      <h2>Who Said It?</h2>
       <p>You scored ${score} of ${quiz.length}. Best: ${best}.</p>
       <p>(Higher past scores are kept automatically.)</p>
     `;
