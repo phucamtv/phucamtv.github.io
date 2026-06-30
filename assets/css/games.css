@@ -176,6 +176,21 @@
 .lib-app .games-header .gh-btn:hover { background: var(--surface-soft); border-color: var(--accent); color: var(--text-strong); }
 .lib-app .games-header .gh-btn.is-off { color: var(--text-faint); }
 .lib-app .games-header .gh-btn svg { width: 17px; height: 17px; }
+/* The list button carries .lib-dtrigger. On desktop the JS turns it into the
+   reading-focus cycle (same as the sách reader); on mobile it opens the game
+   list drawer. .gh-btn already gives it the in-bar look at every width, so we
+   only neutralize the .lib-dtrigger FAB positioning here. */
+.lib-app .games-header .lib-dtrigger {
+  display: grid;
+  position: static; top: auto; right: auto; z-index: auto;
+  box-shadow: none;
+}
+/* one SVG per focus state lives in the button; show only the active one */
+.lib-app .games-header .lib-dtrigger .gh-ico { display: none; }
+:root:not([data-lib-focus]) .lib-app .games-header .lib-dtrigger .gh-ico-0,
+:root[data-lib-focus="0"] .lib-app .games-header .lib-dtrigger .gh-ico-0,
+:root[data-lib-focus="1"] .lib-app .games-header .lib-dtrigger .gh-ico-1,
+:root[data-lib-focus="2"] .lib-app .games-header .lib-dtrigger .gh-ico-2 { display: block; }
 
 @media (max-width: 960px) {
   .lib-app .games-header { padding-left: 20px; padding-right: 20px; }

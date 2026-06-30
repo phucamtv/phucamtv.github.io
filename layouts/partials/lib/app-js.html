@@ -16,11 +16,11 @@
   };
   document.querySelectorAll(".lib-mtrigger, .lib-rtrigger").forEach(function (b) { b.addEventListener("click", open); });
 
-  /* The sách reader's focus toggle is a .lib-dtrigger inside .sach-header. On
-     desktop it cycles the reading-focus state (handled below); on mobile it
-     opens the chapter-list drawer like every other .lib-dtrigger. Exclude it
-     from the generic mobile binding so the two behaviours don't both fire. */
-  var focusBtn = document.querySelector(".sach-header .lib-dtrigger");
+  /* The reading-focus toggle is a .lib-dtrigger inside the sách or games header.
+     On desktop it cycles the reading-focus state (handled below); on mobile it
+     opens the list drawer like every other .lib-dtrigger. Exclude it from the
+     generic mobile binding so the two behaviours don't both fire. */
+  var focusBtn = document.querySelector(".sach-header .lib-dtrigger, .games-header .lib-dtrigger");
   var isDesktop = function () { return window.matchMedia("(min-width: 961px)").matches; };
   document.querySelectorAll(".lib-dtrigger").forEach(function (b) {
     b.addEventListener("click", function () { if (b !== focusBtn || !isDesktop()) openMid(); });
