@@ -641,15 +641,14 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0;
 }
 .lib-app .sach-header .sh-actions { display: flex; gap: 0.3rem; margin-left: auto; flex: none; }
-/* The mục-lục button carries .lib-dtrigger, so its visibility is governed by
-   the trigger cascade: hidden on desktop (the mid column is a permanent grid
-   column, so no toggle is needed), shown as an in-header button on mobile.
-   We deliberately do NOT set `display` here so the .lib-dtrigger desktop
-   `display:none` / mobile `display:grid` rules win. The rest neutralizes the
-   mobile FAB look (fixed position, gradient, shadow) so the button sits inside
-   .sh-actions and adopts the .sh-btn token style. */
+/* The mục-lục button carries .lib-dtrigger. On desktop it is the reading-focus
+   toggle (cycles full → hide mid → hide rail+mid); on mobile it stays the FAB
+   that opens the chapter-list drawer. The .sh-btn rule forces the in-header look
+   and an explicit `display:grid` so the button shows on desktop (overriding the
+   .lib-dtrigger desktop `display:none`); the FAB-neutralizing props (static
+   position, no gradient/shadow) keep it sitting inside .sh-actions on mobile. */
 .lib-app .sach-header .sh-btn {
-  flex: none; position: static; width: 34px; height: 34px; place-items: center;
+  flex: none; position: static; width: 34px; height: 34px; display: grid; place-items: center;
   background: var(--surface-raised); color: var(--text-secondary);
   border: 1px solid var(--border-default); border-radius: 9px; cursor: pointer;
   box-shadow: none; z-index: auto;
@@ -659,6 +658,12 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   background: var(--surface-soft); border-color: var(--accent); color: var(--text-strong);
 }
 .lib-app .sach-header .sh-btn svg { width: 17px; height: 17px; }
+/* one SVG per focus state lives in the button; show only the active one */
+.lib-app .sach-header .sh-btn .sh-ico { display: none; }
+:root:not([data-lib-focus]) .lib-app .sach-header .sh-btn .sh-ico-0,
+:root[data-lib-focus="0"] .lib-app .sach-header .sh-btn .sh-ico-0,
+:root[data-lib-focus="1"] .lib-app .sach-header .sh-btn .sh-ico-1,
+:root[data-lib-focus="2"] .lib-app .sach-header .sh-btn .sh-ico-2 { display: block; }
 
 .lib-app .sach-footer {
   position: relative; z-index: 5; flex: 0 0 auto; width: auto; margin: 0;
@@ -696,6 +701,35 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 }
 .lib-app .sach-footer .sf-pager .sf-pg-disabled { opacity: .4; }
 .lib-app .sach-footer .sf-pager svg { width: 15px; height: 15px; }
+
+/* ── Reading focus cycle (desktop only) ──────────────────────────────────────
+   The header button cycles three states via a <html data-lib-focus> attribute:
+     (unset/0) full        → rail | mid | reader
+     1         hide mid     → rail | reader
+     2         hide rail+mid→ reader only
+   We collapse a column by zeroing its grid track and hiding the element. Scoped
+   to .lib-app:has(.sach-header) so only the chapter reader is affected, and to
+   ≥961px so the mobile drawer layout (which already hides rail/mid) is untouched.
+   The track transition animates the reader widening. */
+@media (min-width: 961px) {
+  :root[data-lib-focus="1"] .lib-app:has(.sach-header) {
+    grid-template-columns: var(--lib-rail-w) minmax(460px, 1fr);
+  }
+  :root[data-lib-focus="1"] .lib-app:has(.sach-header) .lib-mid { display: none; }
+
+  :root[data-lib-focus="2"] .lib-app:has(.sach-header) {
+    grid-template-columns: minmax(460px, 1fr);
+  }
+  :root[data-lib-focus="2"] .lib-app:has(.sach-header) .lib-rail,
+  :root[data-lib-focus="2"] .lib-app:has(.sach-header) .lib-mid { display: none; }
+
+  /* the detail column is grid-column:3 by default; when columns collapse it must
+     move to the remaining track so it doesn't leave a gap on the right */
+  :root[data-lib-focus="1"] .lib-app:has(.sach-header) .lib-detail { grid-column: 2; }
+  :root[data-lib-focus="2"] .lib-app:has(.sach-header) .lib-detail { grid-column: 1; }
+
+  .lib-app:has(.sach-header) { transition: grid-template-columns .3s cubic-bezier(.3,.8,.25,1); }
+}
 
 @media (max-width: 960px) {
   .lib-app .sach-header { padding-left: 20px; padding-right: 20px; }

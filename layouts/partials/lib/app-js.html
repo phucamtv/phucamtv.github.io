@@ -15,7 +15,43 @@
     else if (app.classList.contains("mid-open")) app.classList.remove("mid-open");
   };
   document.querySelectorAll(".lib-mtrigger, .lib-rtrigger").forEach(function (b) { b.addEventListener("click", open); });
-  document.querySelectorAll(".lib-dtrigger").forEach(function (b) { b.addEventListener("click", openMid); });
+
+  /* The sách reader's focus toggle is a .lib-dtrigger inside .sach-header. On
+     desktop it cycles the reading-focus state (handled below); on mobile it
+     opens the chapter-list drawer like every other .lib-dtrigger. Exclude it
+     from the generic mobile binding so the two behaviours don't both fire. */
+  var focusBtn = document.querySelector(".sach-header .lib-dtrigger");
+  var isDesktop = function () { return window.matchMedia("(min-width: 961px)").matches; };
+  document.querySelectorAll(".lib-dtrigger").forEach(function (b) {
+    b.addEventListener("click", function () { if (b !== focusBtn || !isDesktop()) openMid(); });
+  });
+
+  /* ---- sách reader focus cycle (desktop): full → hide mid → hide rail+mid ---- */
+  if (focusBtn) {
+    var FOCUS_LABELS = {
+      "0": "Ẩn mục lục",
+      "1": "Ẩn thanh điều hướng",
+      "2": "Hiện lại thanh bên"
+    };
+    var readFocus = function () {
+      var v = document.documentElement.getAttribute("data-lib-focus");
+      return (v === "1" || v === "2") ? v : "0";
+    };
+    var applyFocus = function (state) {
+      if (state === "0") document.documentElement.removeAttribute("data-lib-focus");
+      else document.documentElement.setAttribute("data-lib-focus", state);
+      try { localStorage.setItem("lib-focus", state); } catch (e) {}
+      var label = FOCUS_LABELS[state];
+      focusBtn.setAttribute("aria-label", label);
+      focusBtn.setAttribute("title", label);
+    };
+    /* sync the button's label to whatever the head script already applied */
+    applyFocus(readFocus());
+    focusBtn.addEventListener("click", function () {
+      if (!isDesktop()) return; /* mobile: the openMid binding above handles it */
+      applyFocus(String((parseInt(readFocus(), 10) + 1) % 3));
+    });
+  }
   var bd = app.querySelector(".lib-app-backdrop");
   if (bd) bd.addEventListener("click", closeTop);
   app.querySelectorAll(".lib-rail a, .lib-mid a").forEach(function (a) { a.addEventListener("click", close); });
