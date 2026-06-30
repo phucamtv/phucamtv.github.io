@@ -44,6 +44,18 @@
     var br = midBody.getBoundingClientRect(), tr = target.getBoundingClientRect();
     midBody.scrollTop += (tr.top - br.top) - (midBody.clientHeight - tr.height) / 2;
   }
+
+  /* ---- sách chapter reading-progress line (footer top edge) ---- */
+  var rpScroll = document.querySelector(".lib-detail-scroll");
+  var rpLine = document.querySelector(".sach-footer .sf-progress");
+  if (rpScroll && rpLine) {
+    var rpUpdate = function () {
+      var max = rpScroll.scrollHeight - rpScroll.clientHeight;
+      rpLine.style.width = (max > 0 ? (rpScroll.scrollTop / max) * 100 : 0) + "%";
+    };
+    rpScroll.addEventListener("scroll", rpUpdate, { passive: true });
+    rpUpdate();
+  }
 })();
 (function () {
   var app = document.querySelector(".lib-app");
