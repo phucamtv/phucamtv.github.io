@@ -11,10 +11,12 @@
     <div class="lib-app-backdrop"></div>
     {{- partial "lib/rail.html" (dict "active" "sach") -}}
     {{- if $isChapter }}{{- partial "sach/list.html" . -}}{{- end }}
-    <main class="lib-detail">
+    <main class="lib-detail{{ if $isChapter }} lib-detail--has-bankinfo{{ end }}">
+      {{- if $isChapter }}{{- block "header" . }}{{- end }}{{- end }}
       <div class="lib-detail-scroll">
         {{- block "main" . }}{{- end }}
       </div>
+      {{- if $isChapter }}{{- block "footer" . }}{{- end }}{{- end }}
     </main>
   </div>
   {{- partial "lib/app-js.html" . -}}
