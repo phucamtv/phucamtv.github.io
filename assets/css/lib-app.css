@@ -665,6 +665,16 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 :root[data-lib-focus="1"] .lib-app .sach-header .sh-btn .sh-ico-1,
 :root[data-lib-focus="2"] .lib-app .sach-header .sh-btn .sh-ico-2 { display: block; }
 
+/* nghiên-cứu episode header extras — the series name is a link (the sách book
+   name is plain text) and a "Bài N/total" counter sits before the actions. */
+.lib-app .nc-header .nh-series { color: var(--text-strong); transition: color .12s ease; }
+.lib-app a.nh-series:hover { color: var(--kt-accent-deep); }
+.lib-app .nc-header .nh-count {
+  flex: none; font-size: 0.7rem; font-weight: 700; letter-spacing: .04em;
+  text-transform: uppercase; color: var(--kt-accent-deep);
+  background: var(--kt-sunken); border-radius: 20px; padding: 3px 9px;
+}
+
 .lib-app .sach-footer {
   position: relative; z-index: 5; flex: 0 0 auto; width: auto; margin: 0;
   background: var(--surface-soft);

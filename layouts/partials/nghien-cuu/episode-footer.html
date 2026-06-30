@@ -1,0 +1,40 @@
+{{- /* Pinned bottom bar for a nghiên-cứu episode: reading-progress line (top
+       edge, JS-driven), "Bài N" label + episode title, prev/next pager. Twin of
+       sach/chapter-footer.html — same .sach-footer / .sf-* classes so the
+       progress-line JS hooks it unchanged. Replaces the in-body .nc-prev-next
+       cards. Receives the episode page as `.`. */ -}}
+{{- $series := .Parent -}}
+{{- $siblings := sort (where $series.Pages "Layout" "nc-episode") "Weight" -}}
+{{- $prev := false }}{{ $next := false -}}
+{{- range $i, $p := $siblings -}}
+  {{- if eq $p.Params.index $.Params.index -}}
+    {{- if gt $i 0 }}{{ $prev = index $siblings (sub $i 1) }}{{ end -}}
+    {{- if lt (add $i 1) (len $siblings) }}{{ $next = index $siblings (add $i 1) }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- $title := cond (ne (string .Params.shortTitle) "") (string .Params.shortTitle) .Title -}}
+<footer class="sach-footer nc-footer" aria-label="Cuối trang bài nghiên cứu">
+  <span class="sf-progress" aria-hidden="true"></span>
+  <span class="sf-label">Bài {{ .Params.index }}</span>
+  <span class="sf-chapter">{{ $title }}</span>
+  <nav class="sf-pager" aria-label="Điều hướng bài">
+    {{ if $prev }}
+      <a href="{{ $prev.RelPermalink }}" title="Bài trước">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg><span class="lbl">Trước</span>
+      </a>
+    {{ else }}
+      <span class="sf-pg-disabled" aria-disabled="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg><span class="lbl">Trước</span>
+      </span>
+    {{ end }}
+    {{ if $next }}
+      <a href="{{ $next.RelPermalink }}" title="Bài kế">
+        <span class="lbl">Sau</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+      </a>
+    {{ else }}
+      <span class="sf-pg-disabled" aria-disabled="true">
+        <span class="lbl">Sau</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+      </span>
+    {{ end }}
+  </nav>
+</footer>

@@ -1,27 +1,12 @@
+{{ define "header" }}{{ partial "nghien-cuu/episode-header.html" . }}{{ end }}
+{{ define "footer" }}{{ partial "nghien-cuu/episode-footer.html" . }}{{ end }}
+
 {{ define "main" }}
 {{- $data := index hugo.Data "nghien-cuu" .Params.dataKey -}}
 {{- $idx := .Params.index -}}
 {{- $video := index $data.videos (sub $idx 1) -}}
-{{- $series := .Parent -}}
-{{- $siblings := sort (where $series.Pages "Layout" "nc-episode") "Weight" -}}
-{{- $prev := "" -}}{{- $next := "" -}}
-{{- range $i, $p := $siblings -}}
-  {{- if eq $p.Params.index $idx -}}
-    {{- if gt $i 0 }}{{ $prev = index $siblings (sub $i 1) }}{{ end -}}
-    {{- if lt (add $i 1) (len $siblings) }}{{ $next = index $siblings (add $i 1) }}{{ end -}}
-  {{- end -}}
-{{- end -}}
 
 <article class="lib-doc">
-  <button class="lib-dtrigger" type="button" aria-label="Mở danh sách bài">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
-  </button>
-  <div class="lib-doc-eyebrow">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 9 5-9 5-9-5 9-5z"/><path d="m3 12 9 5 9-5"/><path d="m3 17 9 5 9-5"/></svg>
-    <a class="lib-doc-eyebrow-link" href="{{ $series.RelPermalink }}">{{ $series.Title }}</a>
-    <span class="lib-doc-eyebrow-sep">·</span>
-    Bài {{ $idx }} / {{ $data.totalVideos }}
-  </div>
   <h1 class="lib-doc-title">{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
   {{ with $video.title }}<p class="lib-doc-sub"><em>{{ . }}</em></p>{{ end }}
 
@@ -36,24 +21,5 @@
   </div>
 
   {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
-
-  <nav class="nc-prev-next">
-    <div class="nc-prev-next-cell nc-prev-next-prev">
-      {{ with $prev }}
-        <a href="{{ .RelPermalink }}">
-          <span class="nc-prev-next-label">← Bài trước</span>
-          <span class="nc-prev-next-title">Bài {{ .Params.index }} · {{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</span>
-        </a>
-      {{ end }}
-    </div>
-    <div class="nc-prev-next-cell nc-prev-next-next">
-      {{ with $next }}
-        <a href="{{ .RelPermalink }}">
-          <span class="nc-prev-next-label">Bài kế →</span>
-          <span class="nc-prev-next-title">Bài {{ .Params.index }} · {{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</span>
-        </a>
-      {{ end }}
-    </div>
-  </nav>
 </article>
 {{ end }}

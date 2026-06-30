@@ -5,14 +5,17 @@
 </head>
 <body class="lib-app-body">
   {{- $reader := in (slice "nc-series" "nc-episode") .Layout -}}
+  {{- $episode := eq .Layout "nc-episode" -}}
   <div class="lib-app{{ if $reader }} detail-open{{ else }} no-mid{{ end }}">
     <div class="lib-app-backdrop"></div>
     {{- partial "lib/rail.html" (dict "active" "nghien-cuu") -}}
     {{- if $reader }}{{- partial "nghien-cuu/list.html" . -}}{{- end }}
-    <main class="lib-detail">
+    <main class="lib-detail{{ if $episode }} lib-detail--has-bankinfo{{ end }}">
+      {{- if $episode }}{{- block "header" . }}{{- end }}{{- end }}
       <div class="lib-detail-scroll">
         {{- block "main" . }}{{- end }}
       </div>
+      {{- if $episode }}{{- block "footer" . }}{{- end }}{{- end }}
     </main>
   </div>
   {{- partial "lib/app-js.html" . -}}
