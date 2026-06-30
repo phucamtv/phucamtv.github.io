@@ -5,37 +5,40 @@ const LEVELS = [
 ];
 
 export function createDifficultySelector(container, onChange) {
-  const buttons = LEVELS.map(({ id, label }) => {
-    const btn = document.createElement('button');
-    btn.type = 'button';
+  const btn = document.createElement('button');
+  btn.type = 'button';
+  btn.className = 'gh-cycle';
+  btn.setAttribute('aria-label', 'Đổi độ khó');
+
+  const dot = document.createElement('span');
+  dot.className = 'dot';
+  dot.setAttribute('aria-hidden', 'true');
+  const lvl = document.createElement('span');
+  lvl.className = 'lvl';
+  btn.append(dot, lvl);
+
+  let index = LEVELS.findIndex((l) => l.id === 'normal');
+
+  function render() {
+    const { id, label } = LEVELS[index];
     btn.dataset.level = id;
-    btn.textContent = label;
-    btn.className = 'difficulty-btn';
-    return btn;
-  });
-
-  const handleClick = (e) => {
-    const level = e.currentTarget.dataset.level;
-    setActive(level);
-    onChange(level);
-  };
-
-  buttons.forEach((b) => b.addEventListener('click', handleClick));
-  buttons.forEach((b) => container.appendChild(b));
-
-  function setActive(level) {
-    buttons.forEach((b) => {
-      b.setAttribute('aria-pressed', String(b.dataset.level === level));
-    });
+    lvl.textContent = label;
   }
 
-  setActive('normal');
-  onChange('normal');
+  const handleClick = () => {
+    index = (index + 1) % LEVELS.length;
+    render();
+    onChange(LEVELS[index].id);
+  };
+
+  btn.addEventListener('click', handleClick);
+  container.appendChild(btn);
+
+  render();
+  onChange(LEVELS[index].id);
 
   return function cleanup() {
-    buttons.forEach((b) => {
-      b.removeEventListener('click', handleClick);
-      b.remove();
-    });
+    btn.removeEventListener('click', handleClick);
+    btn.remove();
   };
 }
