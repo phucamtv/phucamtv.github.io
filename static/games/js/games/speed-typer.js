@@ -174,7 +174,7 @@ export function init(container, difficulty) {
 
     start();
     typed[pos] = e.key === chars[pos] ? 1 : 2;
-    playSound(typed[pos] === 1 ? 'correct' : 'wrong');
+    if (typed[pos] === 2) playSound('wrong');
     pos++;
     if (pos >= chars.length) { render(); finish(); return; }
     render();
