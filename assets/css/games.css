@@ -13,9 +13,8 @@
    the gold-only "correct" signal — per-slot correctness is this game's point.
    Light values here; dark overridden for both explicit and system dark below. */
 .lib-app .games { --ok: #3f7d4e; --bad: #9c4a1f; }
-:root[data-theme="dark"] .lib-app .games { --ok: #7fb98c; --bad: #e8a87c; }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) .lib-app .games { --ok: #7fb98c; --bad: #e8a87c; }
+  :root .lib-app .games { --ok: #7fb98c; --bad: #e8a87c; }
 }
 
 .lib-app .games h1,
