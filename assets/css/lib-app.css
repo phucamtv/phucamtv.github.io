@@ -641,8 +641,15 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0;
 }
 .lib-app .sach-header .sh-actions { display: flex; gap: 0.3rem; margin-left: auto; flex: none; }
+/* The mục-lục button carries .lib-dtrigger, so its visibility is governed by
+   the trigger cascade: hidden on desktop (the mid column is a permanent grid
+   column, so no toggle is needed), shown as an in-header button on mobile.
+   We deliberately do NOT set `display` here so the .lib-dtrigger desktop
+   `display:none` / mobile `display:grid` rules win. The rest neutralizes the
+   mobile FAB look (fixed position, gradient, shadow) so the button sits inside
+   .sh-actions and adopts the .sh-btn token style. */
 .lib-app .sach-header .sh-btn {
-  flex: none; position: static; width: 34px; height: 34px; display: grid; place-items: center;
+  flex: none; position: static; width: 34px; height: 34px; place-items: center;
   background: var(--surface-raised); color: var(--text-secondary);
   border: 1px solid var(--border-default); border-radius: 9px; cursor: pointer;
   box-shadow: none; z-index: auto;
