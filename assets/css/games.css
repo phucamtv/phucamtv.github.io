@@ -417,6 +417,10 @@
 }
 
 /* ---- speed-typer: Monkeytype-style timed typing test ---- */
+/* The typing stream wants a wider line than the 900px reading column, so the
+   text wraps less and fills the space under the full-bleed header. Scoped via
+   :has(.sp-type) so only this game escapes the shared cap. */
+.lib-app .games:has(.sp-type) { max-width: 1200px; margin-inline: auto; }
 .lib-app .games .sp-top { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 1.6rem; }
 .lib-app .games .sp-ref { margin: 0; color: var(--text-secondary); font-size: 0.95rem; }
 .lib-app .games .sp-ref b { color: var(--text-strong); font-weight: 600; }
