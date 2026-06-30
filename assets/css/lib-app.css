@@ -642,9 +642,10 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 }
 .lib-app .sach-header .sh-actions { display: flex; gap: 0.3rem; margin-left: auto; flex: none; }
 .lib-app .sach-header .sh-btn {
-  flex: none; width: 34px; height: 34px; display: grid; place-items: center;
+  flex: none; position: static; width: 34px; height: 34px; display: grid; place-items: center;
   background: var(--surface-raised); color: var(--text-secondary);
   border: 1px solid var(--border-default); border-radius: 9px; cursor: pointer;
+  box-shadow: none; z-index: auto;
   transition: background .12s ease, border-color .12s ease, color .12s ease;
 }
 .lib-app .sach-header .sh-btn:hover {
