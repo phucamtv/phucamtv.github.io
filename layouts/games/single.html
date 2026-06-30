@@ -12,9 +12,11 @@
 <script type="module">
   import { init } from '/games/js/games/{{ .Params.game }}.js';
   import { createDifficultySelector } from '/games/js/shared/difficulty.js';
+  import { isMuted, setMuted } from '/games/js/shared/sound.js';
 
   const mount = document.getElementById('game');
   let cleanup = null;
+  let currentLevel = 'normal';
   let started = false;
 
   function warnOnExit(e) {
@@ -39,6 +41,7 @@
   mount.addEventListener('game:finished', disarm);
 
   function run(level) {
+    currentLevel = level;
     if (cleanup) cleanup();
     // Switching difficulty reboots the game, so reset the unsaved-progress guard.
     started = false;
@@ -55,6 +58,20 @@
   // createDifficultySelector calls onChange('normal') immediately,
   // so the game boots at Normal on load.
   createDifficultySelector(document.getElementById('gh-cycle-slot'), run);
+
+  document.getElementById('gh-restart').addEventListener('click', () => run(currentLevel));
+
+  const soundBtn = document.getElementById('gh-sound');
+  const ICON_ON  = '<path d="M11 5 6 9H2v6h4l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a9 9 0 0 1 0 14"/>';
+  const ICON_OFF = '<path d="M11 5 6 9H2v6h4l5 4z"/><path d="m23 9-6 6"/><path d="m17 9 6 6"/>';
+  function renderSound() {
+    const muted = isMuted();
+    soundBtn.classList.toggle('is-off', muted);
+    soundBtn.querySelector('svg').innerHTML = muted ? ICON_OFF : ICON_ON;
+    soundBtn.setAttribute('aria-pressed', String(!muted));
+  }
+  soundBtn.addEventListener('click', () => { setMuted(!isMuted()); renderSound(); });
+  renderSound();
 </script>
 {{ end }}
 
