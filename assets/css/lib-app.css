@@ -617,6 +617,89 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 .lib-tabpanel-3 .month-nav-month { flex: 1; }
 .lib-tabpanel-3 .month-nav-count { background: none; padding: 0; font-size: 12px; color: var(--kt-text-3); }
 
+/* ── Sách chapter pinned bars — twins of .games-header / .games-bankinfo,
+   scoped to the divine-library shell. Header pins to the top edge of the
+   detail column, footer to the bottom; both are flex siblings of
+   .lib-detail-scroll (rendered in sach/baseof.html, chapter pages only). ── */
+.lib-app .sach-header {
+  position: relative; z-index: 5; flex: 0 0 auto;
+  display: flex; align-items: center; gap: 0.9rem; margin: 0;
+  padding: 0.7rem 44px;
+  background: var(--surface-soft);
+  border-bottom: 1px solid var(--border-default);
+  box-shadow: 0 2px 12px var(--shadow-soft);
+}
+.lib-app .sach-header .sh-icon {
+  flex: none; width: 34px; height: 34px; display: grid; place-items: center;
+  border-radius: 9px; background: var(--surface-inverse);
+  color: var(--text-on-inverse-strong); box-shadow: 0 1px 3px var(--shadow-soft);
+}
+.lib-app .sach-header .sh-icon svg { width: 18px; height: 18px; }
+.lib-app .sach-header .sh-book {
+  font-family: var(--kt-display); font-weight: 600; color: var(--text-strong);
+  font-size: 1.15rem; line-height: 1.15; margin: 0;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0;
+}
+.lib-app .sach-header .sh-actions { display: flex; gap: 0.3rem; margin-left: auto; flex: none; }
+.lib-app .sach-header .sh-btn {
+  flex: none; width: 34px; height: 34px; display: grid; place-items: center;
+  background: var(--surface-raised); color: var(--text-secondary);
+  border: 1px solid var(--border-default); border-radius: 9px; cursor: pointer;
+  transition: background .12s ease, border-color .12s ease, color .12s ease;
+}
+.lib-app .sach-header .sh-btn:hover {
+  background: var(--surface-soft); border-color: var(--accent); color: var(--text-strong);
+}
+.lib-app .sach-header .sh-btn svg { width: 17px; height: 17px; }
+
+.lib-app .sach-footer {
+  position: relative; z-index: 5; flex: 0 0 auto; width: auto; margin: 0;
+  background: var(--surface-soft);
+  border-top: 1px solid var(--border-default);
+  box-shadow: 0 -2px 12px var(--shadow-soft);
+  display: flex; align-items: center; gap: 0.5rem;
+  padding: 0.6rem 44px; font-size: 0.84rem; color: var(--text-secondary);
+}
+/* reading-progress line on the footer's top hairline; JS sets width 0→100% */
+.lib-app .sach-footer .sf-progress {
+  position: absolute; top: -1px; left: 0; height: 2px; width: 0;
+  background: var(--kt-accent); transition: width .12s linear;
+}
+.lib-app .sach-footer .sf-label {
+  flex: none; font-size: 0.66rem; font-weight: 700; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--text-faint);
+}
+.lib-app .sach-footer .sf-chapter {
+  font-family: var(--kt-display); font-weight: 600; color: var(--text-strong);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0;
+}
+.lib-app .sach-footer .sf-pager { display: flex; gap: 0.3rem; margin-left: auto; flex: none; }
+.lib-app .sach-footer .sf-pager a,
+.lib-app .sach-footer .sf-pager .sf-pg-disabled {
+  display: inline-flex; align-items: center; gap: 0.35rem;
+  height: 30px; padding: 0 0.7rem;
+  background: var(--surface-raised); color: var(--text-secondary);
+  border: 1px solid var(--border-default); border-radius: 8px;
+  font-size: 0.78rem; font-weight: 600;
+  transition: background .12s ease, border-color .12s ease, color .12s ease;
+}
+.lib-app .sach-footer .sf-pager a:hover {
+  background: var(--surface-soft); border-color: var(--accent); color: var(--text-strong);
+}
+.lib-app .sach-footer .sf-pager .sf-pg-disabled { opacity: .4; }
+.lib-app .sach-footer .sf-pager svg { width: 15px; height: 15px; }
+
+@media (max-width: 960px) {
+  .lib-app .sach-header { padding-left: 20px; padding-right: 20px; }
+  .lib-app .sach-footer { padding-left: 20px; padding-right: 20px; }
+  /* mobile bottom navbar floats over the detail column; reserve its height so
+     the footer stacks above it (same pattern as games' bankinfo) */
+  .lib-app .lib-detail--has-bankinfo { padding-bottom: 64px; }
+}
+@media (max-width: 600px) {
+  .lib-app .sach-footer .sf-pager .lbl { display: none; }
+}
+
 /* ============================================================
    Khám Phá (home) — archive in col 2, article feed in detail
    ============================================================ */
