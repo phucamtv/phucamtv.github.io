@@ -687,7 +687,6 @@
     this.durationEl = document.getElementById("ap-duration");
     this.settingsBtn = document.getElementById("ap-settings-btn");
     this.settingsPopover = document.getElementById("ap-settings");
-    this.closeBtn = document.getElementById("ap-close");
     this.speedContainer = document.getElementById("ap-speed-options");
     this.sleepContainer = document.getElementById("ap-sleep-options");
     this.sleepCountdown = document.getElementById("ap-sleep-countdown");
@@ -819,13 +818,6 @@
       if (!self.settingsPopover.contains(e.target) && e.target !== self.settingsBtn) {
         self.settingsPopover.classList.remove("is-visible");
       }
-    });
-
-    this.closeBtn.addEventListener("click", function () {
-      self.player.pause();
-      self.player.clearSleep();
-      self.bar.classList.remove("is-visible");
-      document.body.classList.remove("has-audio-player");
     });
 
     this.resumeYes.addEventListener("click", function () {

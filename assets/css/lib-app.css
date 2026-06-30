@@ -415,8 +415,12 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   .lib-app--feed:not(.no-mid) .lib-detail { grid-column: 1; }
   .lib-app--article:not(.no-mid) .lib-mid,
   .lib-app--feed:not(.no-mid) .lib-mid { grid-column: 2; }
-  /* in this band the player spans the full width and stacks above the nav bar */
-  body.lib-app-body .audio-player-bar { left: 0; bottom: 64px; }
+  /* float the capsule above the nav bar, aligned to the detail column
+     (mid is col 1 here, so offset by its width); full width in no-mid */
+  body.lib-app-body .audio-player-bar { left: var(--lib-mid-w); bottom: 64px; }
+  body.lib-app-body:has(.lib-app.no-mid) .audio-player-bar { left: 0; }
+  /* clear the doc's last row (chapter pager) under the floating player + navbar */
+  body.lib-app-body.has-audio-player .lib-doc { padding-bottom: 176px; }
 }
 
 /* ============================================================
