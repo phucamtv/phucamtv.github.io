@@ -46,7 +46,6 @@ export function init(container, difficulty) {
 
   function render() {
     container.innerHTML = `
-      <h2>Scripture Scramble</h2>
       <p class="ss-reference">${verse.reference}</p>
       <div class="ss-timer" role="timer" aria-live="polite" style="${hard ? '' : 'display:none'}">Time left: <span>${Math.max(0, timerRemaining / 1000)}</span>s</div>
       <div class="ss-slots"></div>

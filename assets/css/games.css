@@ -9,6 +9,14 @@
   padding: 34px 44px 120px;
 }
 
+/* books-builder: per-slot right/wrong feedback. The only place we depart from
+   the gold-only "correct" signal — per-slot correctness is this game's point.
+   Light values here; dark overridden for both explicit and system dark below. */
+.lib-app .games { --ok: #3f7d4e; --bad: #9c4a1f; }
+@media (prefers-color-scheme: dark) {
+  :root .lib-app .games { --ok: #7fb98c; --bad: #e8a87c; }
+}
+
 .lib-app .games h1,
 .lib-app .games h2 {
   font-family: Newsreader, Georgia, serif;
@@ -48,27 +56,6 @@
 }
 .lib-app .games .shake { animation: games-shake 0.3s ease-in-out; }
 
-/* difficulty selector */
-.lib-app .games .difficulty {
-  display: flex;
-  gap: 0.4rem;
-  margin-bottom: 1rem;
-}
-.lib-app .games .difficulty-btn:hover:not(:disabled) {
-  background: var(--surface-soft);
-  border-color: var(--accent);
-}
-.lib-app .games .difficulty-btn[aria-pressed="true"] {
-  background: var(--surface-inverse);
-  color: var(--text-on-inverse-strong);
-  border-color: var(--surface-inverse);
-}
-.lib-app .games .difficulty-btn[aria-pressed="true"]:hover:not(:disabled) {
-  background: var(--surface-inverse-hover);
-  color: var(--text-on-inverse-strong);
-  border-color: var(--surface-inverse-hover);
-}
-
 /* hub */
 .lib-app .games-hub {
   display: grid;
@@ -97,28 +84,141 @@
 .lib-app .games-card h2 { margin: 0 0 0.35rem; font-size: 1.15rem; }
 .lib-app .games-card p { margin: 0; color: var(--text-muted); font-size: 0.92rem; }
 
-/* bank-info footer: muted single line below the game.
-   The global `footer {}` in base.css makes page footers full-bleed
-   (width:100vw; margin-left: calc(-50vw + 50%); gradient bg; centered).
-   Reset those here so this in-column footer stays inside the detail column. */
-.lib-app .games-bankinfo {
-  width: auto;
-  margin-left: 0;
-  background: none;
+/* game header: a bar pinned to the top edge of the detail column — the visual
+   twin of .games-bankinfo, mirrored (border-bottom + downward shadow). Rendered
+   in the `header` block of games/baseof.html as a sibling of .lib-detail-scroll,
+   so it sits outside the scroll area and never scrolls away. Horizontal padding
+   (44px / 20px mobile) aligns with the .games content column. */
+.lib-app .games-header {
+  position: relative;
+  z-index: 5;
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin: 0;
+  padding: 0.7rem 44px;
+  background: var(--surface-soft);
+  border-bottom: 1px solid var(--border-default);
+  box-shadow: 0 2px 12px var(--shadow-soft);
+}
+.lib-app .games-header .gh-icon {
+  flex: none;
+  width: 34px; height: 34px;
+  display: grid; place-items: center;
+  border-radius: 9px;
+  background: var(--surface-inverse);
+  color: var(--text-on-inverse-strong);
+  font-size: 1.05rem;
+  box-shadow: 0 1px 3px var(--shadow-soft);
+}
+.lib-app .games-header .gh-name {
+  font-family: Newsreader, Georgia, serif;
+  font-weight: 600;
+  color: var(--text-strong);
+  font-size: 1.15rem;
+  margin: 0;
+  line-height: 1.15;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
+}
+
+/* cycle level button: one button, click advances easy → normal → hard.
+   The diamond is color-coded by difficulty. ~96px vs the old 3-button ~180px. */
+.lib-app .games-header .gh-cycle {
+  flex: none;
+  font: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0 0 0 0.2rem;
+  padding: 0.4rem 0.7rem;
+  line-height: 1;
+  background: var(--surface-raised);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-default);
+  border-radius: 8px;
+  transition: background 0.12s ease, border-color 0.12s ease;
+}
+.lib-app .games-header .gh-cycle:hover { background: var(--surface-soft); border-color: var(--accent); }
+.lib-app .games-header .gh-cycle .dot {
+  width: 9px; height: 9px; border-radius: 2px;
+  transform: rotate(45deg);
+  background: var(--accent-strong);
+}
+.lib-app .games-header .gh-cycle[data-level="easy"]   .dot { background: var(--accent); }
+.lib-app .games-header .gh-cycle[data-level="normal"] .dot { background: var(--accent-strong); }
+.lib-app .games-header .gh-cycle[data-level="hard"]   .dot { background: var(--link); }
+.lib-app .games-header .gh-cycle .lvl {
+  font-weight: 600;
+  color: var(--text-strong);
+  min-width: 3.4em;
   text-align: left;
-  margin-top: 2rem;
-  padding-top: 0.75rem;
+}
+
+/* right-aligned action buttons: restart + sound */
+.lib-app .games-header .gh-actions { display: flex; gap: 0.3rem; margin-left: auto; }
+.lib-app .games-header .gh-btn {
+  flex: none;
+  width: 34px; height: 34px;
+  display: grid; place-items: center;
+  background: var(--surface-raised);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-default);
+  border-radius: 9px;
+  cursor: pointer;
+  transition: background 0.12s ease, border-color 0.12s ease, color 0.12s ease;
+}
+.lib-app .games-header .gh-btn:hover { background: var(--surface-soft); border-color: var(--accent); color: var(--text-strong); }
+.lib-app .games-header .gh-btn.is-off { color: var(--text-faint); }
+.lib-app .games-header .gh-btn svg { width: 17px; height: 17px; }
+
+@media (max-width: 960px) {
+  .lib-app .games-header { padding-left: 20px; padding-right: 20px; }
+}
+
+/* bank-info footer: a bar pinned to the bottom edge of the detail column.
+   It is a sibling of .lib-detail-scroll, rendered in the `bankinfo` block of
+   games/baseof.html, so it sits outside the scroll area and never scrolls
+   away. .lib-detail is a flex column with .lib-detail-scroll: flex 1, so the
+   footer naturally drops to the column's bottom edge. Its horizontal padding
+   (44px / 20px mobile) aligns the stats with the .games content column.
+   The global `footer {}` in base.css makes page footers full-bleed
+   (width:100vw; margin-left: calc(-50vw + 50%); gradient bg; centered);
+   those resets are overridden here so this bar spans just the detail column. */
+.lib-app .games-bankinfo {
+  position: relative;
+  z-index: 5;
+  flex: 0 0 auto;
+  width: auto;
+  margin: 0;
+  background: var(--surface-soft);
   border-top: 1px solid var(--border-default);
+  box-shadow: 0 -2px 12px var(--shadow-soft);
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
   gap: 0.4rem;
-  font-size: 0.8rem;
+  padding: 0.6rem 44px;
+  font-size: 0.72rem;
   color: var(--text-muted);
 }
 .lib-app .games-bankinfo b { color: var(--text-secondary); font-weight: 600; }
 .lib-app .games-bankinfo .gb-sep { color: var(--text-faint); }
 .lib-app .games-bankinfo .gb-dot { color: var(--text-faint); margin: 0 0.1rem; }
+
+/* Mobile (≤960px): the 64px bottom navbar floats over the detail column.
+   Reserve its height at the foot of .lib-detail so the footer stacks above
+   it (same pattern as the floating audio-player-bar). The navbar's own
+   safe-area inset is already covered by the .lib-detail-scroll bottom padding. */
+@media (max-width: 960px) {
+  .lib-app .lib-detail--has-bankinfo { padding-bottom: 64px; }
+  .lib-app .games-bankinfo { padding-left: 20px; padding-right: 20px; }
+}
 
 /* ---- game-specific element styling (token-themed) ---- */
 
@@ -133,22 +233,73 @@
 /* who-said-it: reserve feedback line height to stop layout shift on answer */
 .lib-app .games #wsi-feedback { min-height: 1.5em; }
 
-/* books-builder: placed-book badges + the drop zone */
-.lib-app .games .book-tag {
-  display: inline-block;
-  padding: 0.15rem 0.5rem;
-  margin: 0.2rem;
-  background: var(--surface-soft);
-  border: 1px solid var(--accent);
-  border-radius: 6px;
-  font-size: 0.85rem;
-  color: var(--text-strong);
+/* ===== books-builder: drag & check board ===== */
+.lib-app .games .bb-head { display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.9rem; }
+.lib-app .games .bb-head p { margin: 0; }
+
+.lib-app .games .bb-board { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1.15fr); gap: 1rem 2rem; align-items: start; }
+.lib-app .games .bb-col-label { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.13em; text-transform: uppercase; color: var(--text-faint); margin: 0 0 0.6rem 0.15rem; }
+
+.lib-app .games .bb-pool { display: flex; flex-direction: column; gap: 0.45rem; min-height: 2rem; }
+.lib-app .games .bb-pool.dragover { outline: 2px dashed var(--accent-soft); outline-offset: 4px; border-radius: 10px; }
+
+.lib-app .games .bb-chip {
+  display: flex; align-items: center; gap: 0.55rem;
+  background: var(--surface-raised); color: var(--text-strong);
+  border: 1px solid var(--border-default); border-radius: 9px;
+  padding: 0.5rem 0.7rem; font-size: 0.95rem; cursor: grab; user-select: none;
+  transition: border-color 0.12s, background 0.12s, box-shadow 0.12s, transform 0.08s;
 }
-.lib-app .games .book-done {
-  min-height: 2.5rem;
-  border-top: 1px solid var(--border-default);
-  padding-top: 0.5rem;
-  margin-top: 0.75rem;
+.lib-app .games .bb-chip:hover { border-color: var(--accent); background: var(--surface-hover); }
+.lib-app .games .bb-chip:active { cursor: grabbing; }
+.lib-app .games .bb-chip.dragging { opacity: 0.45; }
+.lib-app .games .bb-grip { color: var(--text-faint); font-size: 1rem; line-height: 1; flex: none; }
+.lib-app .games .bb-chip .bb-name { flex: 1; }
+
+.lib-app .games .bb-slots { display: flex; flex-direction: column; gap: 0.45rem; }
+.lib-app .games .bb-slot { display: flex; align-items: stretch; gap: 0.55rem; min-height: 2.6rem; border-radius: 9px; }
+.lib-app .games .bb-slot-num {
+  flex: none; width: 30px; display: grid; place-items: center;
+  font-size: 0.78rem; font-weight: 700; font-variant-numeric: tabular-nums; color: var(--text-faint);
+}
+.lib-app .games .bb-drop {
+  flex: 1; display: flex; align-items: center; gap: 0.55rem;
+  border: 1.5px dashed var(--border-strong); border-radius: 9px;
+  background: var(--surface-tint); padding: 0.45rem 0.6rem; min-height: 2.6rem;
+  transition: border-color 0.12s, background 0.12s;
+}
+.lib-app .games .bb-drop.empty { color: var(--text-faint); font-size: 0.85rem; }
+.lib-app .games .bb-drop.dragover { border-color: var(--accent); background: var(--surface-soft); border-style: solid; }
+.lib-app .games .bb-drop.filled { border-style: solid; border-color: var(--border-default); background: var(--surface-raised); }
+.lib-app .games .bb-drop .bb-chip { flex: 1; border: none; background: transparent; padding: 0.15rem 0; }
+.lib-app .games .bb-drop .bb-chip:hover { background: transparent; }
+
+.lib-app .games .bb-slot.correct .bb-drop { border-color: var(--ok); background: var(--surface-soft); border-style: solid; }
+.lib-app .games .bb-slot.correct .bb-slot-num { color: var(--ok); }
+.lib-app .games .bb-slot.wrong .bb-drop { border-color: var(--bad); border-style: solid; }
+.lib-app .games .bb-slot.wrong .bb-slot-num { color: var(--bad); }
+.lib-app .games .bb-mark { flex: none; font-size: 0.95rem; font-weight: 700; width: 1.1rem; text-align: center; }
+.lib-app .games .bb-slot.correct .bb-mark { color: var(--ok); }
+.lib-app .games .bb-slot.wrong .bb-mark { color: var(--bad); }
+.lib-app .games .bb-hint { font-size: 0.72rem; color: var(--text-muted); margin-left: 0.2rem; }
+
+.lib-app .games .bb-controls { display: flex; align-items: center; gap: 0.6rem; margin-top: 1.4rem; flex-wrap: wrap; }
+.lib-app .games .bb-check { background: var(--surface-inverse); color: var(--text-on-inverse-strong); border-color: var(--surface-inverse); }
+.lib-app .games .bb-check:hover:not(:disabled) { background: var(--surface-inverse-hover); border-color: var(--surface-inverse-hover); }
+.lib-app .games .bb-result { font-size: 0.9rem; color: var(--text-secondary); }
+.lib-app .games .bb-result b { color: var(--text-emphasis); }
+
+@keyframes bb-shake { 0%,100% { transform: translateX(0); } 25% { transform: translateX(-4px); } 75% { transform: translateX(4px); } }
+.lib-app .games .bb-slot.shake { animation: bb-shake 0.3s ease-in-out; }
+
+.lib-app .games .bb-finish { margin-top: 1.6rem; padding: 1.1rem 1.3rem; border-radius: 14px; background: var(--surface-soft); border: 1px solid var(--accent); display: none; align-items: center; gap: 1rem; }
+.lib-app .games .bb-finish.show { display: flex; }
+.lib-app .games .bb-seal { flex: none; width: 46px; height: 46px; border-radius: 50%; background: var(--surface-inverse); color: var(--text-on-inverse-strong); display: grid; place-items: center; font-family: Newsreader, serif; font-size: 1.3rem; }
+.lib-app .games .bb-finish h3 { margin: 0 0 0.15rem; font-family: Newsreader, serif; color: var(--text-strong); font-size: 1.15rem; }
+.lib-app .games .bb-finish p { margin: 0; color: var(--text-secondary); font-size: 0.9rem; }
+
+@media (max-width: 620px) {
+  .lib-app .games .bb-board { grid-template-columns: 1fr; gap: 1.4rem; }
 }
 
 /* type-the-verse: text inputs / textarea adopt library tokens */

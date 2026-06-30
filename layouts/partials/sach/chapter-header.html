@@ -1,0 +1,14 @@
+{{- /* Pinned top bar for a book chapter: book icon + book name + mục-lục
+       trigger. Twin of .games-header. Receives the chapter page as `.`. */ -}}
+{{- $book := .Parent -}}
+<header class="sach-header" aria-label="Đầu trang sách">
+  <span class="sh-icon" aria-hidden="true">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m16 6 4 14"/><path d="M12 6v14"/><path d="M8 8v12"/><path d="M4 4v16"/></svg>
+  </span>
+  <h2 class="sh-book">{{ $book.Title }}</h2>
+  <div class="sh-actions">
+    <button class="lib-dtrigger sh-btn" type="button" aria-label="Mở mục lục" title="Mục lục">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
+    </button>
+  </div>
+</header>

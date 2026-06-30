@@ -1,0 +1,38 @@
+{{- /* Pinned bottom bar for a book chapter: reading-progress line (top edge,
+       JS-driven), chapter label + name, prev/next pager. Twin of
+       .games-bankinfo. Receives the chapter page as `.`. */ -}}
+{{- $book := .Parent -}}
+{{- $title := replaceRE "^Chương [0-9]+: " "" .Title -}}
+{{- $pages := $book.Pages.ByWeight -}}
+{{- $prev := false }}{{ $next := false -}}
+{{- range $i, $p := $pages -}}
+  {{- if eq $p.RelPermalink $.RelPermalink -}}
+    {{- if gt $i 0 }}{{ $prev = index $pages (sub $i 1) }}{{ end -}}
+    {{- if lt $i (sub (len $pages) 1) }}{{ $next = index $pages (add $i 1) }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+<footer class="sach-footer" aria-label="Cuối trang sách">
+  <span class="sf-progress" aria-hidden="true"></span>
+  {{ with .Params.chapter }}<span class="sf-label">Chương {{ . }}</span>{{ end }}
+  <span class="sf-chapter">{{ $title }}</span>
+  <nav class="sf-pager" aria-label="Điều hướng chương">
+    {{ if $prev }}
+      <a href="{{ $prev.RelPermalink }}" title="Chương trước">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg><span class="lbl">Trước</span>
+      </a>
+    {{ else }}
+      <span class="sf-pg-disabled" aria-disabled="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg><span class="lbl">Trước</span>
+      </span>
+    {{ end }}
+    {{ if $next }}
+      <a href="{{ $next.RelPermalink }}" title="Chương kế">
+        <span class="lbl">Sau</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+      </a>
+    {{ else }}
+      <span class="sf-pg-disabled" aria-disabled="true">
+        <span class="lbl">Sau</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+      </span>
+    {{ end }}
+  </nav>
+</footer>

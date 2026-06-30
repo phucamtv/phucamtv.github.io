@@ -54,7 +54,6 @@ export function init(container, difficulty) {
   let startMs = 0;
 
   container.innerHTML = `
-    <h2>Scripture Speed Typer</h2>
     <div class="sp-top">
       <p class="sp-ref" aria-live="polite"></p>
       <div class="sp-timer" aria-live="off">${seconds}</div>
@@ -201,7 +200,6 @@ export function init(container, difficulty) {
 
     playSound(s.wpm > 0 ? 'correct' : 'wrong');
     container.innerHTML = `
-      <h2>Scripture Speed Typer</h2>
       <div class="sp-result">
         <p class="big">${s.wpm}<small> WPM</small></p>
         <p class="label">Tốc độ gõ</p>

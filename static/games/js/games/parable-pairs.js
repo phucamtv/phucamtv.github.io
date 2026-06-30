@@ -53,7 +53,6 @@ export function init(container, difficulty) {
 
   container.innerHTML = `
     <div class="pp-head">
-      <h2>Meaning Match</h2>
       <div class="pp-progress">
         <span class="pp-pips">${parables.map(() => '<span class="pp-pip"></span>').join('')}</span>
         <span class="pp-count">0 / ${total}</span>

@@ -55,7 +55,6 @@ function runWordByWord(container, verse, words) {
 
   function render() {
     container.innerHTML = `
-      <h2>Type the Verse</h2>
       <p class="ttv-reference">${verse.reference}</p>
       <p class="ttv-prompt">Type this word: <strong>${words[index]}</strong></p>
       <p class="ttv-so-far"></p>
@@ -78,7 +77,6 @@ function runWordByWord(container, verse, words) {
       index++;
       if (index >= words.length) {
         container.innerHTML = `
-          <h2>Type the Verse</h2>
           <p class="ttv-reference">${verse.reference}</p>
           <p class="ttv-verse">${words.join(' ')}</p>
         `;
@@ -107,7 +105,6 @@ function runFillBlank(container, verse, words) {
   const answers = blanks.map((i) => words[i]);
 
   container.innerHTML = `
-    <h2>Type the Verse</h2>
     <p class="ttv-reference">${verse.reference}</p>
     <p class="ttv-verse">${
       display.map((w) => (w === null ? '_____' : w)).join(' ')
@@ -169,7 +166,6 @@ function runFillBlank(container, verse, words) {
 function runFromMemory(container, verse, words) {
   const finish = makeFinish();
   container.innerHTML = `
-    <h2>Type the Verse</h2>
     <p class="ttv-reference">Type from memory: ${verse.reference}</p>
     <textarea class="ttv-memory" rows="3" autocomplete="off" autocapitalize="off" spellcheck="false"></textarea>
     <button type="button" class="ttv-check">Check</button>
