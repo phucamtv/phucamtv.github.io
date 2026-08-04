@@ -652,7 +652,7 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 .lib-app .sach-header .sh-book .en { color: var(--kt-text-3); font-weight: 400; font-size: .72em; }
 .lib-app .sach-header .sh-actions { display: flex; gap: 0.3rem; margin-left: auto; flex: none; }
 /* The mục-lục button carries .lib-dtrigger. On desktop it is the reading-focus
-   toggle (cycles full → hide mid → hide rail+mid); on mobile it stays the FAB
+   toggle (cycles full → hide rail → hide rail+mid); on mobile it stays the FAB
    that opens the chapter-list drawer. The .sh-btn rule forces the in-header look
    and an explicit `display:grid` so the button shows on desktop (overriding the
    .lib-dtrigger desktop `display:none`); the FAB-neutralizing props (static
@@ -725,7 +725,7 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 /* ── Reading focus cycle (desktop only) ──────────────────────────────────────
    The header button cycles three states via a <html data-lib-focus> attribute:
      (unset/0) full        → rail | mid | reader
-     1         hide mid     → rail | reader
+     1         hide rail    → mid | reader
      2         hide rail+mid→ reader only
    We collapse a column by zeroing its grid track and hiding the element. Scoped
    to .lib-app:has(.sach-header) and :has(.games-header) so only the chapter
@@ -735,10 +735,10 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 @media (min-width: 961px) {
   :root[data-lib-focus="1"] .lib-app:has(.sach-header),
   :root[data-lib-focus="1"] .lib-app:has(.games-header) {
-    grid-template-columns: var(--lib-rail-w) minmax(460px, 1fr);
+    grid-template-columns: 0 minmax(300px, var(--lib-mid-w)) minmax(460px, 1fr);
   }
-  :root[data-lib-focus="1"] .lib-app:has(.sach-header) .lib-mid,
-  :root[data-lib-focus="1"] .lib-app:has(.games-header) .lib-mid { display: none; }
+  :root[data-lib-focus="1"] .lib-app:has(.sach-header) .lib-rail,
+  :root[data-lib-focus="1"] .lib-app:has(.games-header) .lib-rail { display: none; }
 
   :root[data-lib-focus="2"] .lib-app:has(.sach-header),
   :root[data-lib-focus="2"] .lib-app:has(.games-header) {
@@ -749,17 +749,17 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   :root[data-lib-focus="2"] .lib-app:has(.games-header) .lib-rail,
   :root[data-lib-focus="2"] .lib-app:has(.games-header) .lib-mid { display: none; }
 
-  /* the detail column is grid-column:3 by default; when columns collapse it must
-     move to the remaining track so it doesn't leave a gap on the right */
+  /* when rail+mid are collapsed, detail must move to the remaining track so it
+     doesn't leave a gap on the right */
   :root[data-lib-focus="1"] .lib-app:has(.sach-header) .lib-detail,
-  :root[data-lib-focus="1"] .lib-app:has(.games-header) .lib-detail { grid-column: 2; }
+  :root[data-lib-focus="1"] .lib-app:has(.games-header) .lib-detail { grid-column: 3; }
   :root[data-lib-focus="2"] .lib-app:has(.sach-header) .lib-detail,
   :root[data-lib-focus="2"] .lib-app:has(.games-header) .lib-detail { grid-column: 1; }
 
   /* The Kinh Thánh audio bar is position:fixed offset to the detail column's left
      edge (rail + mid). When focus collapses those columns the bar must follow so
      it spans the widened reader — matching the in-flow .sach-footer above it. */
-  :root[data-lib-focus="1"] body.lib-app-body:has(.sach-header) .audio-player-bar { left: var(--lib-rail-w); }
+  :root[data-lib-focus="1"] body.lib-app-body:has(.sach-header) .audio-player-bar { left: var(--lib-mid-w); }
   :root[data-lib-focus="2"] body.lib-app-body:has(.sach-header) .audio-player-bar { left: 0; }
 
   .lib-app:has(.sach-header),

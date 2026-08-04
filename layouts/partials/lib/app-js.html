@@ -26,11 +26,11 @@
     b.addEventListener("click", function () { if (b !== focusBtn || !isDesktop()) openMid(); });
   });
 
-  /* ---- sách reader focus cycle (desktop): full → hide mid → hide rail+mid ---- */
+  /* ---- sách reader focus cycle (desktop): full → hide rail → hide rail+mid ---- */
   if (focusBtn) {
     var FOCUS_LABELS = {
-      "0": "Ẩn mục lục",
-      "1": "Ẩn thanh điều hướng",
+      "0": "Ẩn thanh điều hướng",
+      "1": "Ẩn mục lục",
       "2": "Hiện lại thanh bên"
     };
     var readFocus = function () {

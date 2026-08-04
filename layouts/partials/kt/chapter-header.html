@@ -15,11 +15,11 @@
   <h2 class="sh-book">{{ $bookVi }} {{ .Params.chapter }}{{ with $bookEn }} <span class="en">{{ . }}</span>{{ end }}</h2>
   <div class="sh-actions">
     <button class="lib-dtrigger sh-btn" type="button" aria-label="Mở danh sách chương" title="Danh sách chương">
-      {{- /* state 0 — full: both side panels shown (click hides the list) */ -}}
+      {{- /* state 0 — full: all three columns shown (click hides the rail) */ -}}
       <svg class="sh-ico sh-ico-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18"/></svg>
-      {{- /* state 1 — list hidden: only the rail remains (click hides the rail too) */ -}}
+      {{- /* state 1 — rail hidden: only mid + reader remain (click hides the mid too) */ -}}
       <svg class="sh-ico sh-ico-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 3v18"/><path d="M7 3 3 3"/></svg>
-      {{- /* state 2 — focus: full-width reader (click restores both panels) */ -}}
+      {{- /* state 2 — focus: full-width reader (click restores all panels) */ -}}
       <svg class="sh-ico sh-ico-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 3H5a2 2 0 0 0-2 2v3"/><path d="M16 3h3a2 2 0 0 1 2 2v3"/><path d="M8 21H5a2 2 0 0 1-2-2v-3"/><path d="M16 21h3a2 2 0 0 0 2-2v-3"/></svg>
     </button>
   </div>

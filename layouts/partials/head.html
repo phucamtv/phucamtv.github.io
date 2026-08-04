@@ -74,7 +74,7 @@ window.libApplyFontSize = function (step) {
   try { localStorage.setItem("lib-fs", step); } catch (e) {}
 };
 try { var z = localStorage.getItem("lib-fs"); if (z) window.libApplyFontSize(z); } catch (e) {}
-/* Sách reader focus state (0 full · 1 hide mid · 2 hide rail+mid). Applied as a
+/* Sách reader focus state (0 full · 1 hide rail · 2 hide rail+mid). Applied as a
    <html data-lib-focus> attribute before the app paints so there's no flash;
    the grid CSS reacts only on pages that have a .sach-header (chapter reader). */
 try { var lf = localStorage.getItem("lib-focus"); if (lf === "1" || lf === "2") document.documentElement.setAttribute("data-lib-focus", lf); } catch (e) {}
