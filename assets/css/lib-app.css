@@ -72,6 +72,7 @@
     --kt-sh-md: 0 6px 18px rgba(0, 0, 0, .5);
     --kt-sh-win: 0 40px 90px rgba(0, 0, 0, .6);
   }
+  .lib-app .sach-header .sh-lesson-number { background: var(--accent); color: var(--text-on-inverse-strong); }
 }
 
 /* ---- reset within the app ---- */
@@ -668,6 +669,7 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
   background: var(--surface-soft); border-color: var(--accent); color: var(--text-strong);
 }
 .lib-app .sach-header .sh-btn svg { width: 17px; height: 17px; }
+.lib-app .sach-header .sh-lesson-number { cursor: default; font-size: .82rem; font-weight: 700; font-variant-numeric: tabular-nums; }
 /* one SVG per focus state lives in the button; show only the active one */
 .lib-app .sach-header .sh-btn .sh-ico { display: none; }
 :root:not([data-lib-focus]) .lib-app .sach-header .sh-btn .sh-ico-0,

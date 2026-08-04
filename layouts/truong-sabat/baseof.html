@@ -10,6 +10,7 @@
     {{- partial "lib/rail.html" (dict "active" "truong-sabat") -}}
     {{- if not $quarter }}{{- partial "truong-sabat/list.html" . -}}{{- end }}
     <main class="lib-detail">
+      {{- if eq .Layout "lesson" }}{{- block "header" . }}{{- end }}{{- end }}
       <div class="lib-detail-scroll">
         {{- block "main" . }}{{- end }}
       </div>

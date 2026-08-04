@@ -1,8 +1,20 @@
+{{ define "header" }}
+<header class="sach-header" aria-label="Đầu trang bài học">
+  <span class="sf-progress" aria-hidden="true"></span>
+  <span class="sh-btn sh-lesson-number" aria-label="Bài học {{ .Params.lesson }}">{{ printf "%02d" .Params.lesson }}</span>
+  <h2 class="sh-book">{{ .Title }}</h2>
+  <div class="sh-actions">
+    <button class="lib-dtrigger sh-btn" type="button" aria-label="Mở danh sách bài học" title="Danh sách bài học">
+      <svg class="sh-ico sh-ico-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18"/></svg>
+      <svg class="sh-ico sh-ico-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 3v18"/><path d="M7 3 3 3"/></svg>
+      <svg class="sh-ico sh-ico-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 3H5a2 2 0 0 0-2 2v3"/><path d="M16 3h3a2 2 0 0 1 2 2v3"/><path d="M8 21H5a2 2 0 0 1-2-2v-3"/><path d="M16 21h3a2 2 0 0 1 2 2v-3"/></svg>
+    </button>
+  </div>
+</header>
+{{ end }}
+
 {{ define "main" }}
 <article class="lib-doc">
-  <button class="lib-dtrigger" type="button" aria-label="Mở danh sách">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M15 3v18"/></svg>
-  </button>
   <div class="lib-doc-eyebrow">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
     Bài Học {{ .Params.lesson }} &middot; {{ .Params.dateRange }}
