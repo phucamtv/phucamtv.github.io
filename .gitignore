@@ -7,6 +7,7 @@ public/
 **/.claude/settings.local.json
 .worktrees/
 *.log
+docs/superpowers/
 
 # Translation intermediate artifacts
 data/gc-source/
