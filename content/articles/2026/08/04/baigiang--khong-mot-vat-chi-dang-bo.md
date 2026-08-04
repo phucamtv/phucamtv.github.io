@@ -8,12 +8,9 @@ authors: ["truong-the-hong"]
 draft: false
 ---
 
-Cái tiêu đề nghe có vẻ "kích động", nhưng nó chạm đúng trực giác: heo trong Kinh Thánh không được coi là con vật thanh sạch để dùng làm thức ăn, còn bò lại là trường hợp đối lập. Cảm giác bứt rứt đó cho thấy một thực tế: lời cầu nguyện không có quyền bẻ cong các nguyên tắc mà Đức Chúa Trời đã phán.
+Cầu nguyện hoá heo thành bò là bất khả thi, là vô lý -- đó là trực giả của cá nhân tôi. Kinh Thánh cũng nói rõ, heo không được coi là con vật thanh sạch, còn bò lại là trường hợp đối lập.  Vì lý do gì đó, nhiều người ngày nay bỏ qua trực gian, để bẻ cong Kinh Thánh, giải thích Lời Chúa để đúng ý cái bụng của mình. 1 Ti-mô-thê 4 là một trường hợp điển hình.
 
-> “Vả, mọi vật Đức Chúa Trời đã dựng nên đều là tốt lành cả, không một vật chi đáng bỏ, miễn là mình cảm ơn mà ăn lấy thì được; vì nhờ lời Đức Chúa Trời và lời cầu nguyện mà vật đó được nên thánh.”
-> — 1 Ti-mô-thê 4:4–5
-
-Thế nhưng ngày nay, nhiều người lại viện dẫn câu này để biện minh cho một nguyên tắc rất dễ sai lệch: “ăn gì thì cũng được, miễn mình biết cầu nguyện và cảm ơn.” Kết quả là, ranh giới giữa “thức ăn” và “vật không thanh sạch” trong Kinh Thánh bị làm mờ dần.
+> “Vả, mọi vật Đức Chúa Trời đã dựng nên đều là tốt lành cả, không một vật chi đáng bỏ, miễn là mình cảm ơn mà ăn lấy thì được; vì nhờ lời Đức Chúa Trời và lời cầu nguyện mà vật đó được nên thánh.” — 1 Ti-mô-thê 4:4–5
 
 1 Ti-mô-thê 4:4–5 thường được dùng để khẳng định rằng Cơ Đốc nhân có thể ăn bất cứ thứ gì, miễn là cầu nguyện và cảm tạ trước khi ăn. Theo cách hiểu này, mọi sự phân biệt giữa loài vật thanh sạch và không thanh sạch đều bị xóa bỏ.
 
