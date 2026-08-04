@@ -12,7 +12,7 @@ Cầu nguyện hoá heo thành bò là bất khả thi, là vô lý -- đó là 
 
 > “Vả, mọi vật Đức Chúa Trời đã dựng nên đều là tốt lành cả, không một vật chi đáng bỏ, miễn là mình cảm ơn mà ăn lấy thì được; vì nhờ lời Đức Chúa Trời và lời cầu nguyện mà vật đó được nên thánh.” — 1 Ti-mô-thê 4:4–5
 
-1 Ti-mô-thê 4:4–5 thường được dùng để khẳng định rằng Cơ Đốc nhân có thể ăn bất cứ thứ gì, miễn là cầu nguyện và cảm tạ trước khi ăn. Theo cách hiểu này, mọi sự phân biệt giữa loài vật thanh sạch và không thanh sạch đều bị xóa bỏ.
+Phần Kinh Thánh trên thường được dùng để khẳng định rằng Cơ Đốc nhân có thể ăn bất cứ thứ gì, miễn là cầu nguyện và cảm tạ trước khi ăn. Theo cách hiểu này, mọi sự phân biệt giữa loài vật thanh sạch và không thanh sạch đều bị xóa bỏ.
 
 Tuy nhiên, cách giải thích ấy chỉ xuất hiện khi người đọc tách hai câu Kinh Thánh ra khỏi văn mạch, bỏ qua ý nghĩa của chữ “đồ ăn”, và biến lời cầu nguyện thành một nghi thức có khả năng thay đổi bản chất của vật được ăn.
 
