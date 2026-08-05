@@ -173,7 +173,7 @@ details.kt-book[open] > .kt-book-summary::after {
   }
 }
 
-/* ===== Audio Player — floating capsule ===== */
+/* ===== Audio Player — bottom bar (mirrors the in-flow .sach-footer) ===== */
 
 .audio-player-bar {
   position: fixed;
@@ -182,7 +182,7 @@ details.kt-book[open] > .kt-book-summary::after {
   right: 0;
   z-index: 1000;
   display: none;
-  padding: 0.75rem 0.875rem 1rem;
+  padding: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-size: 0.85rem;
 }
@@ -191,14 +191,12 @@ details.kt-book[open] > .kt-book-summary::after {
   display: block;
 }
 
-/* The capsule itself — inset, rounded, floating */
+/* The bar — flat, full-width, mirroring .sach-footer (surface-soft + top hairline
+   + upward shadow). Positioning/left-edge is owned by lib-app.css per band. */
 .ap-capsule {
-  max-width: 1100px;
-  margin: 0 auto;
-  border-radius: 16px;
-  border: 1px solid var(--border-strong);
-  background: var(--surface-base);
-  box-shadow: 0 6px 20px var(--shadow-card);
+  border-top: 1px solid var(--border-default);
+  background: var(--surface-soft);
+  box-shadow: 0 -2px 12px var(--shadow-soft);
   position: relative;
 }
 
@@ -206,7 +204,7 @@ details.kt-book[open] > .kt-book-summary::after {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  padding: 0.625rem 0.75rem;
+  padding: 0.6rem 44px;
   width: 100%;
   position: relative;
 }
@@ -317,14 +315,13 @@ details.kt-book[open] > .kt-book-summary::after {
   text-overflow: ellipsis;
 }
 
-/* Progress hairline — full width, top edge of capsule */
+/* Progress hairline — full width, top edge of bar */
 .ap-progress-wrap {
   width: 100%;
   position: relative;
   cursor: crosshair;
   padding-bottom: 6px;
   margin-bottom: -6px;
-  border-radius: 16px 16px 0 0;
   overflow: hidden;
 }
 
@@ -595,12 +592,16 @@ body.has-audio-player {
   padding-bottom: 96px;
 }
 
+/* Match the reader/.sach-footer gutter: 44px on desktop+iPad, 20px on mobile. */
+@media (max-width: 960px) {
+  .audio-player-inner {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
 /* Mobile adjustments — player-internal only; positioning is lib-app.css. */
 @media (max-width: 600px) {
-  .audio-player-bar {
-    padding: 0.5rem 0.5rem 0.625rem;
-  }
-
   .audio-player-inner {
     gap: 0.4rem;
   }
