@@ -4,21 +4,23 @@
 {{ define "main" }}
 {{- $data := index hugo.Data "nghien-cuu" .Params.dataKey -}}
 {{- $idx := .Params.index -}}
-{{- $video := index $data.videos (sub $idx 1) -}}
+{{- $video := index (index $data "videos") (sub $idx 1) -}}
 
 <article class="lib-doc">
   <h1 class="lib-doc-title">{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
   {{ with $video.title }}<p class="lib-doc-sub"><em>{{ . }}</em></p>{{ end }}
 
+  {{ with $video.videoId }}
   <div class="youtube-wrapper nc-episode-video">
     <iframe
-      src="https://www.youtube.com/embed/{{ $video.videoId }}"
-      title="{{ .Title }}"
+      src="https://www.youtube.com/embed/{{ . }}"
+      title="{{ $.Title }}"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
       frameborder="0"
       loading="lazy"></iframe>
   </div>
+  {{ end }}
 
   {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
 </article>

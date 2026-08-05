@@ -529,6 +529,7 @@ body.lib-app-body .audio-player-inner { max-width: none; margin: 0; }
 .lib-app .nc-series-card:hover { transform: translateY(-2px); box-shadow: var(--kt-sh-md); }
 .lib-app .nc-series-thumb { aspect-ratio: 16/9; overflow: hidden; background: var(--kt-sunken); }
 .lib-app .nc-series-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.lib-app .lib-doc .nc-series-thumb { margin: 22px 0 6px; border-radius: 12px; }
 .lib-app .nc-series-meta { padding: 14px 16px 16px; }
 .lib-app .nc-series-card-title { font-family: var(--kt-display); font-size: 17px; font-weight: 600; line-height: 1.25; margin: 0 0 4px; }
 .lib-app .nc-series-card-en { font-size: 13px; font-style: italic; color: var(--kt-text-3); margin-bottom: 7px; }

@@ -16,6 +16,7 @@
     {{ if $data }}<span>·</span><span>{{ $data.totalVideos }} bài</span>{{ end }}
     {{ with .Params.language }}<span>·</span><span>{{ . }}</span>{{ end }}
   </div>
+  {{ with .Params.thumb }}<div class="nc-series-thumb"><img src="{{ . | relURL }}" alt=""></div>{{ end }}
   {{ with .Description }}<p class="lib-doc-sub">{{ . }}</p>{{ end }}
   {{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
   {{ with (index $episodes 0) }}
