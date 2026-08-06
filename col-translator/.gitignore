@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+chapters/*.txt
+chapters/manifest.json
+glossary/glossary.json
+translated/
+hugo-site/
