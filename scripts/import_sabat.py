@@ -289,6 +289,32 @@ LESSON_TITLE_OVERRIDES = {
         12: "Từ bắc chí nam cho đến vùng đất xinh đẹp",
         13: "Từ bụi đất đến các vì sao",
     },
+    "2026-04": {
+        1:  "Đấng Tạo Hóa phán",
+        2:  "Sự kêu gọi của một tiên tri",
+        3:  "Những tiên tri thời Cựu Ước",
+        4:  "Những tiên tri thời Tân Ước",
+        5:  "Sự mặc khải và sự soi dẫn",
+        6:  "Các bài tiên tri",
+        7:  "Bây giờ hãy nghe điều này!",
+        8:  "Giải nghĩa các lời tiên tri",
+        9:  "Thử các Đấng tiên tri",
+        10: "Thẩm quyền và tính chân thực của ân tứ tiên tri",
+        11: "Sự rao báo tiên tri trong những thời điểm quan trọng",
+        12: "Mặc khải tiên tri về thời kỳ cuối cùng",
+        13: "Phước lành từ lời tiên tri",
+    },
+}
+
+# Manual memory-verse overrides: (verse, reference). Source occasionally has a wrong
+# câu gốc (e.g. 2026-04 bài 13 repeats lesson 3's 2 Sử Ký 20:20; correct is 2 Ti-mô-thê 3:16,17).
+MEMORY_VERSE_OVERRIDES = {
+    "2026-04": {
+        13: ("Cả Kinh Thánh đều là bởi Đức Chúa Trời soi dẫn, có ích cho sự dạy dỗ, "
+             "bẻ trách, sửa trị, dạy người trong sự công bình, đặng người thuộc về "
+             "Đức Chúa Trời được trọn vẹn và sắm sẵn mọi việc lành",
+             "2 Ti-mô-thê 3:16,17"),
+    },
 }
 
 # Manual day title overrides by year-quarter. Source returns Title Case with broken
@@ -444,6 +470,86 @@ DAY_TITLE_OVERRIDES = {
         (13, 4): "Sự Sống Lại",
         (13, 5): "Cuộn Sách Được Đóng Ấn",
         (13, 6): "Thời Gian Chờ Đợi",
+    },
+    "2026-04": {
+        (1, 2): "Sự giao tiếp trong vườn Ê-đen",
+        (1, 3): "Trốn tránh Đức Chúa Trời",
+        (1, 4): "Đức Chúa Trời tìm kiếm con người",
+        (1, 5): "Ra khỏi vườn Ê-đen",
+        (1, 6): "Những phát ngôn viên của Đức Chúa Trời",
+        (1, 7): "Ellen G. White",
+        (2, 2): "Áp-ra-ham, người bảo vệ giao ước",
+        (2, 3): "Sứ điệp của Ê-li",
+        (2, 4): "Ê-sai, tiên tri của Phúc Âm",
+        (2, 5): "Đa-ni-ên, nhà tiên tri trung thành",
+        (2, 6): "Giăng Báp-tít chuẩn bị một dân cho Chúa",
+        (2, 7): "Được kêu gọi vào chức vụ tiên tri",
+        (3, 2): "Nhân tính của các tiên tri",
+        (3, 3): "Nhận diện các tiên tri thật",
+        (3, 4): "Chức năng của các tiên tri",
+        (3, 5): "Những nữ tiên tri",
+        (3, 6): "Những tiên tri giả",
+        (3, 7): "Không hoàn hảo nhưng sẵn lòng",
+        (4, 2): "Đức Chúa Giê-su—một Đấng tiên tri",
+        (4, 3): "Sứ đồ và tiên tri",
+        (4, 4): "Chức năng của các tiên tri Tân Ước",
+        (4, 5): "Những nữ tiên tri và các cộng sự mục vụ trẻ",
+        (4, 6): "Những tiên tri giả trong Tân Ước",
+        (4, 7): "Đặt Đức Chúa Giê-su và lời Ngài làm trung tâm",
+        (5, 2): "Mặc khải tổng thể và mặc khải đặc biệt",
+        (5, 3): "Tiến trình của sự soi dẫn",
+        (5, 4): "Những sứ điệp bằng lời nói",
+        (5, 5): "Những sứ điệp bằng văn bản",
+        (5, 6): "Kịch tính, biểu tượng và ẩn dụ",
+        (5, 7): "Ellen G. White nói về sự mặc khải và sự soi dẫn",
+        (6, 2): "Sự kêu gọi phải viết",
+        (6, 3): "Các thể loại và lối viết văn chương",
+        (6, 4): "Những trợ lý văn chương",
+        (6, 5): "Các nguồn văn liệu",
+        (6, 6): "Những sứ điệp thiêng liêng và những khiếm khuyết của loài người",
+        (6, 7): "Các trước tác của Ellen G. White",
+        (7, 2): "Sự giận dữ đối với sứ giả của Đức Chúa Trời",
+        (7, 3): "Hủy diệt sứ điệp: phần 1",
+        (7, 4): "Hủy diệt sứ điệp: phần 2",
+        (7, 5): "Sự giả hình",
+        (7, 6): "Để răn bảo chúng ta",
+        (7, 7): "Tiếp nhận và truyền đạt các sứ điệp của bà Ellen G. White",
+        (8, 2): "Kinh Thánh—tự giải nghĩa cho chính mình",
+        (8, 3): "Bối cảnh lịch sử–văn hoá",
+        (8, 4): "Bối cảnh văn chương",
+        (8, 5): "Ý nghĩa của đoạn văn",
+        (8, 6): "Giải nghĩa Kinh Thánh",
+        (8, 7): "Nghiên cứu bổ túc",
+        (9, 2): "Vai trò của yếu tố siêu nhiên (phép lạ)",
+        (9, 3): "Sự hoà hợp với Kinh Thánh",
+        (9, 4): "Sự nhập thể của Đấng Cơ-đốc",
+        (9, 5): "Bông trái tốt lành",
+        (9, 6): "Những lời tiên tri được ứng nghiệm",
+        (9, 7): "Nghiên cứu bổ túc",
+        (10, 2): "Thay mặt Đức Chúa Trời thi hành quyền của Ngài",
+        (10, 3): "Thẩm quyền của Đức Chúa Giê-su",
+        (10, 4): "Thẩm quyền của Kinh Thánh",
+        (10, 5): "Thẩm quyền trong tổ chức",
+        (10, 6): "Các tiên tri kinh điển và không kinh điển",
+        (10, 7): "Phán dạy với thẩm quyền",
+        (11, 2): "Cảnh báo về thảm hoạ",
+        (11, 3): "Một người mẹ trong Y-sơ-ra-ên",
+        (11, 4): "Sự kêu gọi ăn năn",
+        (11, 5): "Hy vọng trong thời lưu đày",
+        (11, 6): "Tiên tri cho thời kỳ cuối cùng",
+        (11, 7): "Tiếng nói tiên tri",
+        (12, 2): "Lời hứa trong sách Giô-ên",
+        (12, 3): "Lễ Ngũ Tuần",
+        (12, 4): "Các ân tứ của Thánh Linh",
+        (12, 5): "Hội Thánh còn sót lại trong ngày sau rốt",
+        (12, 6): "Những biểu hiện hiện đại",
+        (12, 7): "Tất cả là vì sứ mạng",
+        (13, 2): "Lời tiên tri tôn vinh Đấng Cơ-đốc",
+        (13, 3): "Lời tiên tri xác nhận Kinh Thánh",
+        (13, 4): "Lời tiên tri là minh chứng cho lẽ thật của Đức Chúa Trời",
+        (13, 5): "Lời tiên tri an ủi dân sự Chúa",
+        (13, 6): "Lời kêu gọi hiệp nhất trong Đấng Cơ-đốc",
+        (13, 7): "Thử lại lần nữa",
     },
 }
 
@@ -643,6 +749,17 @@ def write_lesson(year, q, n, base_url, out_root, title_override=None):
 
     sa_bat_html = day_contents[0]["content"]
     scriptures, memory_verse, memory_ref = extract_scriptures_and_verse(sa_bat_html)
+    mv_override = MEMORY_VERSE_OVERRIDES.get(f"{year}-{q:02d}", {}).get(n)
+    if mv_override:
+        memory_verse, memory_ref = mv_override
+        # Fix the câu gốc blockquote inside the Sa-bát body too: replace the
+        # verse line after "> Câu gốc" (or "> <p>Câu gốc</p>") in the HTML source
+        # before it is converted to markdown below.
+        sa_bat_html = re.sub(
+            r'(<blockquote>\s*(?:<p>\s*Câu\s*gốc\s*</p>|Câu\s*gốc)?)(.*?)(</blockquote>)',
+            lambda m: m.group(1) + f"\n“{mv_override[0]}” ({mv_override[1]})." + m.group(3),
+            sa_bat_html, count=1, flags=re.DOTALL | re.IGNORECASE)
+        day_contents[0]["content"] = sa_bat_html
     if scriptures:
         scriptures = apply_terminology(scriptures)
     if memory_verse:
@@ -675,7 +792,9 @@ def write_lesson(year, q, n, base_url, out_root, title_override=None):
     for i, (day_id, fname, day_label, weight) in enumerate(DAY_FILES):
         content_html = day_contents[i]["content"]
         day_idx = i + 1  # 1=Sa-bát ... 7=Thứ Sáu
-        if (n, day_idx) in day_overrides:
+        if day_idx == 1:
+            day_title = title  # Sa-bát shares the lesson title
+        elif (n, day_idx) in day_overrides:
             day_title = day_overrides[(n, day_idx)]
         else:
             raw_title = day_contents[i]["title"] or ""
@@ -741,7 +860,8 @@ def main():
     only = int(sys.argv[3]) if len(sys.argv) > 3 else None
 
     base_url = f"https://sabbath-school.adventech.io/api/v2/vi/quarterlies/{year}-{q:02d}"
-    out_year = f"/Users/htruong/code/phucamtv/content/truong-sabat/{year}"
+    repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    out_year = os.path.join(repo_root, "content", "truong-sabat", str(year))
     out_q = os.path.join(out_year, f"q{q}")
     os.makedirs(out_q, exist_ok=True)
 

@@ -1,0 +1,17 @@
+---
+build: { render: never }
+title: "Sự nhập thể của Đấng Cơ-đốc"
+dayLabel: "Thứ Ba"
+weight: 4
+---
+Theo 1 Giăng 4:1–3, phép thử về niềm tin nơi sự nhập thể của Đức Chúa Giê-su sẽ nhanh chóng loại bỏ những người tự xưng là tiên tri nhưng thuộc các tôn giáo lớn khác trên thế giới, hoặc những người cho rằng mình liên hệ với thế giới tâm linh mà không gắn bó với một đức tin cụ thể nào. Nếu một người “chẳng xưng Đức Chúa Giê-su Cơ-đốc đã đến trong xác thịt,” thì người ấy “chẳng phải bởi Đức Chúa Trời” (1 Giăng 4:3).
+
+Khi viết những lời này, sứ đồ Giăng đang nghĩ đến các giáo sư giả dạy rằng Đức Chúa Giê-su không thật sự là con người, mà chỉ dường như mang hình thể con người. Tuy nhiên, phép thử này còn đi xa hơn thế. Không chỉ đơn giản nói rằng một tiên tri phải thừa nhận Đức Chúa Giê-su là một nhân vật lịch sử từng sống trên đất. Hầu hết Cơ-đốc nhân đều tin điều đó. Giăng đang đối diện với một vấn đề rất cụ thể trong thời của ông; song, những lời tiên tri của ông—dù được viết cho một hoàn cảnh riêng—vẫn chứa đựng những lẽ thật quan trọng cho các thế hệ mai sau.
+
+`Những câu sau dạy chúng ta điều gì về Đức Chúa Giê-su? Giăng 3:16; 2 Cô-rinh-tô 5:21; Giăng 11:25; Hê-bơ-rơ 4:14–15; Giăng 14:1–3.`
+
+Các tiên tri chân thật phải tin rằng Đức Chúa Giê-su vừa là Đức Chúa Trời nhập thể, vừa thật sự là con người. Họ cũng phải tiếp nhận trọn vẹn lẽ thật về Ngài—sứ mạng của Ngài, đời sống thánh khiết không tội lỗi, sự chết chuộc tội, sự sống lại vinh hiển, chức vụ thầy tế lễ thượng phẩm trên thiên đàng, cùng sự tái lâm. Điều này vượt xa một sự đồng thuận về mặt trí thức rằng Đức Chúa Giê-su từng sống trên đất. Ngài phải là trung tâm của mọi sứ điệp tiên tri, chứ không phải chỉ là một chi tiết phụ thêm. Sứ điệp của họ phải dẫn dắt con người vào mối tương giao cứu rỗi với Đức Chúa Giê-su.
+
+Lời tiên tri được Đức Thánh Linh cảm thúc giống như ánh đèn pha của Đức Chúa Trời, xua tan bóng tối trong lòng chúng ta, cho đến khi Đức Chúa Giê-su—Ngôi Sao Mai—mọc lên trong tâm hồn. Ân tứ tiên tri gắn kết chúng ta với Ngài và không ngừng chỉ chúng ta hướng về Ngài. Những tiên tri tôn cao Đức Chúa Giê-su sẽ không tìm cách xây dựng phe nhóm cho riêng mình hay tôn vinh bản thân (Công Vụ Các Sứ Đồ 4:12). Họ sẵn sàng phục vụ hơn là lợi dụng những người mình được sai đến. Tuy nhiên, như chúng ta sẽ thấy, các tiên tri của Đức Chúa Trời vẫn là con người, và giống như chúng ta, họ cũng là tội nhân cần đến phúc âm.
+
+`Vì sao sự hiểu biết rằng Đức Chúa Giê-su—Đức Chúa Trời trọn vẹn—đã chết thay chúng ta, gánh chịu hình phạt tội lỗi của chúng ta, lại là trọng tâm của đức tin? Nếu đánh mất giáo lý này, chúng ta sẽ mất điều gì?`
